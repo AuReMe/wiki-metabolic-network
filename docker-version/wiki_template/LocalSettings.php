@@ -30,7 +30,7 @@ $wgMetaNamespace = "Metabolic_network";
 $wgScriptPath = "/wiki";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "http://localhost:8080";
+$wgServer = "http://localhost";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
@@ -54,9 +54,9 @@ $wgEmailAuthentication = true;
 ## Database settings
 $wgDBtype = "mysql";
 $wgDBserver = "database";
-$wgDBname = "wiki_db";
-$wgDBuser = "wikiuser";
-$wgDBpassword = "wiki_pwd";
+$wgDBname = "wikidb";
+$wgDBuser = "wikidb_user";
+$wgDBpassword = "wikidb_pwd";
 
 # MySQL specific settings
 $wgDBprefix = "prefix_";
