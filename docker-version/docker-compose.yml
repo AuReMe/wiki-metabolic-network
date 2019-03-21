@@ -11,8 +11,6 @@ services:
       - 80:80
     links:
       - database
-    volumes:
-      - /home/maite/Documents/data/Qikun:/shared
   database:
     image: mariadb
     restart: always
