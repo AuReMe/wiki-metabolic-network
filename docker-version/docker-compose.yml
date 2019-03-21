@@ -1,0 +1,24 @@
+# MediaWiki with MariaDB
+#
+# Access via "http://localhost:8080"
+#   (or "http://$(docker-machine ip):8080" if using docker-machine)
+version: "2"
+services:
+  mediawiki:
+    image: docker.io/dyliss/wiki-metabolic-network-img
+    restart: always
+    ports:
+      - 8080:80
+    links:
+      - database
+    volumes:
+      - /home/maite/Documents/data/Qikun:/shared
+  database:
+    image: mariadb
+    restart: always
+    environment:
+      # @see https://phabricator.wikimedia.org/source/mediawiki/browse/master/includes/DefaultSettings.php
+      MYSQL_DATABASE: wiki_db
+      MYSQL_USER: wikidb_user
+      MYSQL_PASSWORD: wikidb_pwd
+      MYSQL_RANDOM_ROOT_PASSWORD: 'yes'
