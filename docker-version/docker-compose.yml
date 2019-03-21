@@ -8,7 +8,7 @@ services:
     image: docker.io/dyliss/wiki-metabolic-network-img
     restart: always
     ports:
-      - 8080:80
+      - 80:80
     links:
       - database
     volumes:
@@ -18,7 +18,7 @@ services:
     restart: always
     environment:
       # @see https://phabricator.wikimedia.org/source/mediawiki/browse/master/includes/DefaultSettings.php
-      MYSQL_DATABASE: wiki_db
+      MYSQL_DATABASE: wikidb
       MYSQL_USER: wikidb_user
       MYSQL_PASSWORD: wikidb_pwd
       MYSQL_RANDOM_ROOT_PASSWORD: 'yes'
