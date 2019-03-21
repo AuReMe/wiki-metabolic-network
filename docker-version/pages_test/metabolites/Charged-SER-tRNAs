@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-SER-tRNAs Charged-SER-tRNAs] ==
+* common name:
+** an L-seryl-[tRNAser]
+* Synonym(s):
+** L-SERYL-TRNA(SER)
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[SERINE--TRNA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-seryl-[tRNAser]}}
+{{#set: common name=L-SERYL-TRNA(SER)}}
+{{#set: produced by=SERINE--TRNA-LIGASE-RXN}}

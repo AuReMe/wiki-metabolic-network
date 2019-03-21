@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Wound-RNA Wound-RNA] ==
+* common name:
+** wound RNA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11109]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=wound RNA}}
+{{#set: consumed by=RXN-11109}}

@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11403 RXN-11403] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-DOPACHROME]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[DIHYDROXYINDOLE]][c]
+* With common name(s):
+** 1 L-dopachrome[c] '''+''' 1 H+[c] '''=>''' 1 CO2[c] '''+''' 1 5,6-dihydroxyindole[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6498]], eumelanin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6498 PWY-6498]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03674 R03674]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-6498}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

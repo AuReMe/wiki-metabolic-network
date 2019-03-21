@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROKAEMPFEROL-CMPD DIHYDROKAEMPFEROL-CMPD] ==
+* smiles:
+** C1(=C(C=CC(=C1)O)C2(OC3(C(C(C2O)=O)=C(O)C=C(O)C=3)))
+* common name:
+** (+)-dihydrokaempferol
+* inchi key:
+** InChIKey=PADQINQHPQKXNL-LSDHHAIUSA-N
+* molecular weight:
+** 288.256    
+* Synonym(s):
+** (+)-aromadendrin
+** (2R,3R)-dihydrokaempferol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-93]]
+* [[DIHYDROKAEMPFEROL-4-REDUCTASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[NARINGENIN-3-DIOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 480-20-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=122850 122850]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15401 15401]
+* METABOLIGHTS : MTBLC15401
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00974 C00974]
+{{#set: smiles=C1(=C(C=CC(=C1)O)C2(OC3(C(C(C2O)=O)=C(O)C=C(O)C=3)))}}
+{{#set: common name=(+)-dihydrokaempferol}}
+{{#set: inchi key=InChIKey=PADQINQHPQKXNL-LSDHHAIUSA-N}}
+{{#set: molecular weight=288.256    }}
+{{#set: common name=(+)-aromadendrin|(2R,3R)-dihydrokaempferol}}
+{{#set: consumed by=RXN1F-93|DIHYDROKAEMPFEROL-4-REDUCTASE-RXN}}
+{{#set: produced by=NARINGENIN-3-DIOXYGENASE-RXN}}

@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_437 ==
+* right end position:
+** 32747
+* transcription direction:
+** POSITIVE
+* left end position:
+** 29761
+* centisome position:
+** 88.950325    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-14950]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14957]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-949]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6987]]
+* [[PWY0-501]]
+* [[PWY-7382]]
+* [[PWY0-1275]]
+== External links  ==
+{{#set: right end position=32747}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=29761}}
+{{#set: centisome position=88.950325    }}
+{{#set: reaction associated=RXN-14950|RXN-14957|RXN-14959|RXN0-949}}
+{{#set: pathway associated=PWY-6987|PWY0-501|PWY-7382|PWY0-1275}}

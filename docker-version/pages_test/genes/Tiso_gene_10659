@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10659 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|RXN-11201}}

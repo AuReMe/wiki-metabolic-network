@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACOA140or ACOA140or] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Tetradecanoyl-CoA:(acceptor) 2,3-oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[FAD]][x] '''+''' 1.0 [[TETRADECANOYL-COA]][x] '''=>''' 1.0 [[FADH2]][x] '''+''' 1.0 [[CPD-15568]][x]
+* With common name(s):
+** 1.0 FAD[x] '''+''' 1.0 myristoyl-CoA[x] '''=>''' 1.0 FADH2[x] '''+''' 1.0 2-trans-tetradecenoyl-CoA[x]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8272]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_18566]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_17967]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16674]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Tetradecanoyl-CoA:(acceptor) 2,3-oxidoreductase}}
+{{#set: gene associated=Tiso_gene_8272|Tiso_gene_18566|Tiso_gene_17967|Tiso_gene_16674}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

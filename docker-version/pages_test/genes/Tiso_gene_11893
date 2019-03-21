@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11893 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[M5TRK]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[M5TRPI]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=M5TRK|M5TRPI}}

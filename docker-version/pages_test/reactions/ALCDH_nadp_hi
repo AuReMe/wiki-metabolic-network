@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ALCDH_nadp_hi ALCDH_nadp_hi] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alcohol dehydrogenase (ethanol, NADP), chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ACETALD]][h] '''+''' 1.0 [[PROTON]][h] '''+''' 1.0 [[NADPH]][h] '''=>''' 1.0 [[ETOH]][h] '''+''' 1.0 [[NADP]][h]
+* With common name(s):
+** 1.0 acetaldehyde[h] '''+''' 1.0 H+[h] '''+''' 1.0 NADPH[h] '''=>''' 1.0 ethanol[h] '''+''' 1.0 NADP+[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14126]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alcohol dehydrogenase (ethanol, NADP), chloroplast}}
+{{#set: gene associated=Tiso_gene_14126}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

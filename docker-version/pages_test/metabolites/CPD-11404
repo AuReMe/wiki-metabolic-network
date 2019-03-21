@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11404 CPD-11404] ==
+* smiles:
+** C(=O)([O-])CC1(C=C(I)C(=C(I)C=1)OC2(=CC(I)=C(O)C=C2))
+* common name:
+** 3,3',5-triiodothyroacetate
+* inchi key:
+** InChIKey=UOWZUVNAGUAEQC-UHFFFAOYSA-M
+* molecular weight:
+** 620.928    
+* Synonym(s):
+** 3,3',5-triiodothyroacetic acid
+** Triac
+** Tiratricol
+** Tiracana
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10618]]
+* [[RXN-10619]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21679629 21679629]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10295972.html 10295972]
+{{#set: smiles=C(=O)([O-])CC1(C=C(I)C(=C(I)C=1)OC2(=CC(I)=C(O)C=C2))}}
+{{#set: common name=3,3',5-triiodothyroacetate}}
+{{#set: inchi key=InChIKey=UOWZUVNAGUAEQC-UHFFFAOYSA-M}}
+{{#set: molecular weight=620.928    }}
+{{#set: common name=3,3',5-triiodothyroacetic acid|Triac|Tiratricol|Tiracana}}
+{{#set: consumed by=RXN-10618|RXN-10619}}

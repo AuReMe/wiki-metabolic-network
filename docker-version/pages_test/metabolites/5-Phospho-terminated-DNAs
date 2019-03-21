@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-Phospho-terminated-DNAs 5-Phospho-terminated-DNAs] ==
+* common name:
+** a 5'-phospho-[DNA]
+* Synonym(s):
+** a 5'-phospho terminated DNA
+** an DNA with 5'-terminal-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[DNA-LIGASE-ATP-RXN]]
+* [[RXN-17918]]
+== Reaction(s) known to produce the compound ==
+* [[4.2.99.18-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 5'-phospho-[DNA]}}
+{{#set: common name=a 5'-phospho terminated DNA|an DNA with 5'-terminal-phosphate}}
+{{#set: consumed by=DNA-LIGASE-ATP-RXN|RXN-17918}}
+{{#set: produced by=4.2.99.18-RXN}}

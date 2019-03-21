@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14405 CPD-14405] ==
+* smiles:
+** CCCCCC=CCC=CCC=CCCCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3R-hydroxy-dihomo &gamma;-linolenoyl-CoA
+* inchi key:
+** InChIKey=GFVFSXUAKLZOGC-NULWUIHISA-J
+* molecular weight:
+** 1067.974    
+* Synonym(s):
+** (8Z,11Z,14Z)-3R-hydroxy-icosa-8,11,14-trienoyl-CoA
+** (8Z,11Z,14Z)-3R-hydroxy-icosatrienoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12968]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=72551500 72551500]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=76411 76411]
+{{#set: smiles=CCCCCC=CCC=CCC=CCCCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3R-hydroxy-dihomo &gamma;-linolenoyl-CoA}}
+{{#set: inchi key=InChIKey=GFVFSXUAKLZOGC-NULWUIHISA-J}}
+{{#set: molecular weight=1067.974    }}
+{{#set: common name=(8Z,11Z,14Z)-3R-hydroxy-icosa-8,11,14-trienoyl-CoA|(8Z,11Z,14Z)-3R-hydroxy-icosatrienoyl-CoA}}
+{{#set: produced by=RXN-12968}}

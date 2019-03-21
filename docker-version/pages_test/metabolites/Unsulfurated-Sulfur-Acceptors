@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Unsulfurated-Sulfur-Acceptors Unsulfurated-Sulfur-Acceptors] ==
+* common name:
+** an unsulfurated [sulfur carrier]
+* Synonym(s):
+** an unsulfurated [sulfur donor]
+** an unsulfurated [sulfur acceptor]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12588]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14950]]
+* [[RXN0-5063]]
+* [[RXN0-6359]]
+* [[RXN-14957]]
+* [[RXN-14959]]
+* [[RXN-17472]]
+* [[RXN-14480]]
+* [[RXN0-949]]
+* [[2.8.1.6-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12587]]
+== External links  ==
+{{#set: common name=an unsulfurated [sulfur carrier]}}
+{{#set: common name=an unsulfurated [sulfur donor]|an unsulfurated [sulfur acceptor]}}
+{{#set: consumed by=RXN-12588}}
+{{#set: produced by=RXN-14950|RXN0-5063|RXN0-6359|RXN-14957|RXN-14959|RXN-17472|RXN-14480|RXN0-949|2.8.1.6-RXN}}
+{{#set: reversible reaction associated=RXN-12587}}

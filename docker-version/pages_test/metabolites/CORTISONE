@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CORTISONE CORTISONE] ==
+* smiles:
+** CC34([CH]2(C(=O)CC1(C)([CH](CCC(C(=O)CO)(O)1)[CH]2CCC3=CC(=O)CC4)))
+* common name:
+** cortisone
+* inchi key:
+** InChIKey=MFYSYFVPBJMHGN-ZPOLXVRWSA-N
+* molecular weight:
+** 360.449    
+* Synonym(s):
+** tetrahydrocortisone
+** adreson
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[CORTISONE-ALPHA-REDUCTASE-RXN]]
+== External links  ==
+* CAS : 53-06-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=222786 222786]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00762 C00762]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.454849.html 454849]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16962 16962]
+* METABOLIGHTS : MTBLC16962
+{{#set: smiles=CC34([CH]2(C(=O)CC1(C)([CH](CCC(C(=O)CO)(O)1)[CH]2CCC3=CC(=O)CC4)))}}
+{{#set: common name=cortisone}}
+{{#set: inchi key=InChIKey=MFYSYFVPBJMHGN-ZPOLXVRWSA-N}}
+{{#set: molecular weight=360.449    }}
+{{#set: common name=tetrahydrocortisone|adreson}}
+{{#set: reversible reaction associated=CORTISONE-ALPHA-REDUCTASE-RXN}}

@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CINNAMOYL-COA CINNAMOYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)C=CC1(=CC=CC=C1))COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]
+* common name:
+** (E)-cinnamoyl-CoA
+* inchi key:
+** InChIKey=JVNVHNHITFVWIX-KZKUDURGSA-J
+* molecular weight:
+** 893.648    
+* Synonym(s):
+** trans-cinnamoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-2001]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44229143 44229143]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57252 57252]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16256 C16256]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)C=CC1(=CC=CC=C1))COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]}}
+{{#set: common name=(E)-cinnamoyl-CoA}}
+{{#set: inchi key=InChIKey=JVNVHNHITFVWIX-KZKUDURGSA-J}}
+{{#set: molecular weight=893.648    }}
+{{#set: common name=trans-cinnamoyl-CoA}}
+{{#set: produced by=RXN-2001}}

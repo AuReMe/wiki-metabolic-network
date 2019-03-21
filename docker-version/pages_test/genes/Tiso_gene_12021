@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12021 ==
+* right end position:
+** 2443
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 82
+* centisome position:
+** 1.1136764    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AGK]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUTKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6922]]
+* [[PROSYN-PWY]]
+* [[ARGININE-SYN4-PWY]]
+* [[PWY-3341]]
+* [[CITRULBIO-PWY]]
+== External links  ==
+{{#set: right end position=2443}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=82}}
+{{#set: centisome position=1.1136764    }}
+{{#set: reaction associated=AGK|GLUTKIN-RXN}}
+{{#set: pathway associated=PWY-6922|PROSYN-PWY|ARGININE-SYN4-PWY|PWY-3341|CITRULBIO-PWY}}

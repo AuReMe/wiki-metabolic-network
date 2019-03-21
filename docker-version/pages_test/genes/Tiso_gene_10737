@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10737 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIAMINOPIMDECARB-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[ORNDECARBOX-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[orDC]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[orDCh]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[DAPLYSINESYN-PWY]]
+* [[ORNDEG-PWY]]
+* [[PWY-2942]]
+* [[PWY-2941]]
+* [[PWY-6305]]
+* [[PWY-5097]]
+* [[PWY-46]]
+== External links  ==
+{{#set: reaction associated=DIAMINOPIMDECARB-RXN|ORNDECARBOX-RXN|orDC|orDCh}}
+{{#set: pathway associated=DAPLYSINESYN-PWY|ORNDEG-PWY|PWY-2942|PWY-2941|PWY-6305|PWY-5097|PWY-46}}

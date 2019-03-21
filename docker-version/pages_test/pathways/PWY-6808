@@ -1,0 +1,42 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6808 PWY-6808] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** dTDP-D-forosamine biosynthesis
+* Synonym(s):
+** TDP-D-forosamine biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''9''' reactions in the full pathway
+* [[DTDPGLUCDEHYDRAT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7329]]
+*** [[Tiso_gene_12394]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[DTDPGLUCOSEPP-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14704]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12404 RXN-12404]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12406 RXN-12406]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12407 RXN-12407]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12408 RXN-12408]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12409 RXN-12409]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12943 RXN-12943]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16262 RXN-16262]
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00523 map00523]
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=dTDP-D-forosamine biosynthesis}}
+{{#set: common name=TDP-D-forosamine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=9}}
+{{#set: completion rate=22.0}}

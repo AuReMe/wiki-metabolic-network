@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7666 PWY-7666] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+* common name:
+** galactolipid biosynthesis II
+* Synonym(s):
+** galactosylglyceride biosynthesis II
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-1225]]
+** 3 associated gene(s):
+*** [[Tiso_gene_2142]]
+*** [[Tiso_gene_106]]
+*** [[Tiso_gene_11479]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-16648]]
+** 2 associated gene(s):
+*** [[Tiso_gene_6390]]
+*** [[Tiso_gene_322]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16647 RXN-16647]
+== External links  ==
+{{#set: taxonomic range=TAX-1117}}
+{{#set: common name=galactolipid biosynthesis II}}
+{{#set: common name=galactosylglyceride biosynthesis II}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

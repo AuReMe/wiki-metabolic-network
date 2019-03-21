@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_286 ==
+* right end position:
+** 32742
+* transcription direction:
+** POSITIVE
+* left end position:
+** 30517
+* centisome position:
+** 83.619675    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-2584]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=32742}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=30517}}
+{{#set: centisome position=83.619675    }}
+{{#set: reaction associated=RXN0-2584}}

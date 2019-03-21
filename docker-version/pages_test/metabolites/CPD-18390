@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18390 CPD-18390] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])[O-])OC(CCCCCCCCCCCCC)=O
+* common name:
+** 1-palmitoyl-2-myristoyl phosphatidate
+* inchi key:
+** InChIKey=GLOXZZHEZYKXNV-WJOKGBTCSA-L
+* molecular weight:
+** 618.83    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17023]]
+* [[RXN-17024]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71296209 71296209]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72858 72858]
+{{#set: smiles=CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])[O-])OC(CCCCCCCCCCCCC)=O}}
+{{#set: common name=1-palmitoyl-2-myristoyl phosphatidate}}
+{{#set: inchi key=InChIKey=GLOXZZHEZYKXNV-WJOKGBTCSA-L}}
+{{#set: molecular weight=618.83    }}
+{{#set: produced by=RXN-17023|RXN-17024}}

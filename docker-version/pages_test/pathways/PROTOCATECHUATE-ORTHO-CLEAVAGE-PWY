@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** protocatechuate degradation II (ortho-cleavage pathway)
+* Synonym(s):
+** protocatechuate branch of the 3-oxoadipate pathway
+** protocatechuate branch of the 3-ketoadipate pathway
+** protocatechuate branch of the &beta;-ketoadipate pathway
+** protocatechuate degradation via ortho-cleavage
+** protocatechuate degradation via the &beta;-ketoadipate pathway
+** protocatechuate 3,4-cleavage
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[3-OXOADIPATE-ENOL-LACTONASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10066]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN 4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=5.5.1.2-RXN 5.5.1.2-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PROTOCATECHUATE-34-DIOXYGENASE-RXN PROTOCATECHUATE-34-DIOXYGENASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=protocatechuate degradation II (ortho-cleavage pathway)}}
+{{#set: common name=protocatechuate branch of the 3-oxoadipate pathway|protocatechuate branch of the 3-ketoadipate pathway|protocatechuate branch of the &beta;-ketoadipate pathway|protocatechuate degradation via ortho-cleavage|protocatechuate degradation via the &beta;-ketoadipate pathway|protocatechuate 3,4-cleavage}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

@@ -1,0 +1,51 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6944 PWY-6944] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** androstenedione degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''15''' reactions in the full pathway
+* [[RXN-12747]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18774]]
+*** [[Tiso_gene_897]]
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_2957]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12750]]
+** 6 associated gene(s):
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_18838]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.13.11.25-RXN 1.13.11.25-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12691 RXN-12691]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12714 RXN-12714]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12715 RXN-12715]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12717 RXN-12717]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12718 RXN-12718]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12734 RXN-12734]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12735 RXN-12735]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12736 RXN-12736]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12746 RXN-12746]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12748 RXN-12748]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12749 RXN-12749]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12751 RXN-12751]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=androstenedione degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=15}}
+{{#set: completion rate=13.0}}

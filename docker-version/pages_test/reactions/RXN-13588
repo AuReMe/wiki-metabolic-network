@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13588 RXN-13588] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** [Fructose-bisphosphate aldolase]-lysine N-methyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.259 EC-2.1.1.259]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Fructose-BisPO4-Aldolase-Lysine]][c] '''+''' 3 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 3 [[PROTON]][c] '''+''' 3 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1 [[Fructose-BisPO4-Aldolase-Tri-Me-Lysine]][c]
+* With common name(s):
+** 1 [fructose-bisphosphate aldolase]-lysine[c] '''+''' 3 S-adenosyl-L-methionine[c] '''=>''' 3 H+[c] '''+''' 3 S-adenosyl-L-homocysteine[c] '''+''' 1 a [fructose-bisphosphate aldolase]-N6, N6,N6-trimethyl-L-lysine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12516]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=[Fructose-bisphosphate aldolase]-lysine N-methyltransferase}}
+{{#set: ec number=EC-2.1.1.259}}
+{{#set: gene associated=Tiso_gene_12516}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

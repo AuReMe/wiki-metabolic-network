@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3457-TETRAHYDROXY-3-METHOXYFLAVONE 3457-TETRAHYDROXY-3-METHOXYFLAVONE] ==
+* smiles:
+** COC3(C(=O)C1(C(=CC([O-])=CC(O)=1)OC(C2(C=C(O)C(O)=CC=2))=3))
+* common name:
+** 3-O-methylquercetin
+* inchi key:
+** InChIKey=WEPBGSIAWZTEJR-UHFFFAOYSA-M
+* molecular weight:
+** 315.259    
+* Synonym(s):
+** 3-methoxy-5,7,3',4'-tetrahydroxyflavone
+** 3-methoxyluteolin
+** 3',4',5,7-tetrahydroxy-3-methoxyflavone
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[QUERCETIN-3-O-METHYLTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202270 25202270]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57928 57928]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04443 C04443]
+{{#set: smiles=COC3(C(=O)C1(C(=CC([O-])=CC(O)=1)OC(C2(C=C(O)C(O)=CC=2))=3))}}
+{{#set: common name=3-O-methylquercetin}}
+{{#set: inchi key=InChIKey=WEPBGSIAWZTEJR-UHFFFAOYSA-M}}
+{{#set: molecular weight=315.259    }}
+{{#set: common name=3-methoxy-5,7,3',4'-tetrahydroxyflavone|3-methoxyluteolin|3',4',5,7-tetrahydroxy-3-methoxyflavone}}
+{{#set: produced by=QUERCETIN-3-O-METHYLTRANSFERASE-RXN}}

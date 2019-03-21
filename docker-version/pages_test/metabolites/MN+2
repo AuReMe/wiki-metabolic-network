@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MN+2 MN+2] ==
+* smiles:
+** [Mn++]
+* common name:
+** Mn2+
+* inchi key:
+** InChIKey=WAEMQWOKJMHJLA-UHFFFAOYSA-N
+* molecular weight:
+** 54.938    
+* Synonym(s):
+** manganese ion
+** Mn(II)
+** Mn+2
+** Mn++
+** manganese (II) ion
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_MN+2]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_MN+2]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_MN+2]]
+== External links  ==
+* CAS : 7439-96-5
+* CAS : 16397-91-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=27854 27854]
+* HMDB : HMDB01333
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C19610 C19610]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.25916.html 25916]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29035 29035]
+* BIGG : mn2
+{{#set: smiles=[Mn++]}}
+{{#set: common name=Mn2+}}
+{{#set: inchi key=InChIKey=WAEMQWOKJMHJLA-UHFFFAOYSA-N}}
+{{#set: molecular weight=54.938    }}
+{{#set: common name=manganese ion|Mn(II)|Mn+2|Mn++|manganese (II) ion}}
+{{#set: consumed by=TransportSeed_MN+2}}
+{{#set: produced by=TransportSeed_MN+2}}
+{{#set: reversible reaction associated=ExchangeSeed_MN+2}}

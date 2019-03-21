@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PNKIN-RXN PNKIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** pyridoxal_kinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.35 EC-2.7.1.35]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PYRIDOXINE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[ADP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[PYRIDOXINE-5P]][c]
+* With common name(s):
+** 1 pyridoxine[c] '''+''' 1 ATP[c] '''=>''' 1 ADP[c] '''+''' 1 H+[c] '''+''' 1 pyridoxine 5'-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6106]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-7204]], pyridoxal 5'-phosphate salvage II (plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7204 PWY-7204]
+** '''8''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7282]], 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7282 PWY-7282]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PLPSAL-PWY]], pyridoxal 5'-phosphate salvage I: [http://metacyc.org/META/NEW-IMAGE?object=PLPSAL-PWY PLPSAL-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25108 25108]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01909 R01909]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=pyridoxal_kinase}}
+{{#set: ec number=EC-2.7.1.35}}
+{{#set: gene associated=Tiso_gene_6106}}
+{{#set: in pathway=PWY-7204|PWY-7282|PLPSAL-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-creinhardtii|orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

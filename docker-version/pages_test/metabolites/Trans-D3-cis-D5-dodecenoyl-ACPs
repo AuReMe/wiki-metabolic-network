@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Trans-D3-cis-D5-dodecenoyl-ACPs Trans-D3-cis-D5-dodecenoyl-ACPs] ==
+* common name:
+** a (3E,5Z)-dodeca-3,5-dienoyl-[acp]
+* Synonym(s):
+** a trans-&Delta;3-cis-&Delta;5-dodecenoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-2145]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-2144]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3E,5Z)-dodeca-3,5-dienoyl-[acp]}}
+{{#set: common name=a trans-&Delta;3-cis-&Delta;5-dodecenoyl-[acp]}}
+{{#set: consumed by=RXN0-2145}}
+{{#set: produced by=RXN0-2144}}

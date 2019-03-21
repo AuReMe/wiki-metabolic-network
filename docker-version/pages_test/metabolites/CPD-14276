@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14276 CPD-14276] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCC(O)CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** (3R)-3-hydroxy-behenoyl-CoA
+* inchi key:
+** InChIKey=VNJQSRVXTRJVAZ-ZUIQSSPPSA-J
+* molecular weight:
+** 1102.075    
+* Synonym(s):
+** (3R)-3-hydroxy-docosanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13303]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13299]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=72193817 72193817]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=76375 76375]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCC(O)CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=(3R)-3-hydroxy-behenoyl-CoA}}
+{{#set: inchi key=InChIKey=VNJQSRVXTRJVAZ-ZUIQSSPPSA-J}}
+{{#set: molecular weight=1102.075    }}
+{{#set: common name=(3R)-3-hydroxy-docosanoyl-CoA}}
+{{#set: consumed by=RXN-13303}}
+{{#set: produced by=RXN-13299}}

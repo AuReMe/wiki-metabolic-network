@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6855 PWY-6855] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** chitin degradation I (archaea)
+* Synonym(s):
+** chitin degradation (archaea)
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[3.2.1.14-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10265]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCOSAMINE-6-P-DEAMIN-RXN GLUCOSAMINE-6-P-DEAMIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYLGLUCOSAMINE-DEACETYLASE-RXN N-ACETYLGLUCOSAMINE-DEACETYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12309 RXN-12309]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12543 RXN-12543]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12544 RXN-12544]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12545 RXN-12545]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=chitin degradation I (archaea)}}
+{{#set: common name=chitin degradation (archaea)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

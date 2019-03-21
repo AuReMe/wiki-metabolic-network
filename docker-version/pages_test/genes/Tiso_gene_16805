@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16805 ==
+* right end position:
+** 1883
+* transcription direction:
+** POSITIVE
+* left end position:
+** 531
+* centisome position:
+** 12.916565    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CHOLINE-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7782]]
+* [[PWY3O-450]]
+* [[PWY-7818]]
+== External links  ==
+{{#set: right end position=1883}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=531}}
+{{#set: centisome position=12.916565    }}
+{{#set: reaction associated=CHOLINE-KINASE-RXN}}
+{{#set: pathway associated=PWY-7782|PWY3O-450|PWY-7818}}

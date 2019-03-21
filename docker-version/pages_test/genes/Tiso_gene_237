@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_237 ==
+* right end position:
+** 13972
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11065
+* centisome position:
+** 29.920769    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=13972}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11065}}
+{{#set: centisome position=29.920769    }}
+{{#set: reaction associated=ATPASE-RXN}}

@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12601 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.3.57-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[325-BISPHOSPHATE-NUCLEOTIDASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R163-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-10939]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5408]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-4702]]
+* [[PWY-2301]]
+* [[PWY-6363]]
+== External links  ==
+{{#set: reaction associated=3.1.3.57-RXN|325-BISPHOSPHATE-NUCLEOTIDASE-RXN|MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN|R163-RXN|RXN-10939|RXN0-5408}}
+{{#set: pathway associated=PWY-4702|PWY-2301|PWY-6363}}

@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLALD-DEHYDROG-RXN GLYCOLALD-DEHYDROG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.21 EC-1.2.1.21]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[GLYCOLALDEHYDE]][c] '''+''' 1 [[WATER]][c] '''=>''' 2 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[GLYCOLLATE]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 glycolaldehyde[c] '''+''' 1 H2O[c] '''=>''' 2 H+[c] '''+''' 1 NADH[c] '''+''' 1 glycolate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7322]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY0-1280]], ethylene glycol degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1280 PWY0-1280]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[DARABCATK12-PWY]], D-arabinose degradation I: [http://metacyc.org/META/NEW-IMAGE?object=DARABCATK12-PWY DARABCATK12-PWY]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20001 20001]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01333 R01333]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.2.1.21}}
+{{#set: gene associated=Tiso_gene_7322}}
+{{#set: in pathway=PWY0-1280|DARABCATK12-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

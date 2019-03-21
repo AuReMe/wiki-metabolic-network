@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=METHYLENE-THF-GLU-N METHYLENE-THF-GLU-N] ==
+* common name:
+** a 5,10-methylene-tetrahydrofolate
+* Synonym(s):
+** methylene-H4PteGlu(n)
+** methylene-THF(glu)n
+** methylene-H4PteGlun
+** methylene-tetrahydropteroylpolyglutamates
+
+== Reaction(s) known to consume the compound ==
+* [[1.5.1.20-RXN]]
+* [[RXN-5061]]
+* [[RXN0-2921]]
+* [[THYMIDYLATESYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-2881]]
+* [[RXN0-2921]]
+== Reaction(s) of unknown directionality ==
+* [[GCVT-RXN]]
+* [[GLYOHMETRANS-RXN]]
+* [[3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN]]
+* [[METHYLENETHFDEHYDROG-NADP-RXN]]
+== External links  ==
+{{#set: common name=a 5,10-methylene-tetrahydrofolate}}
+{{#set: common name=methylene-H4PteGlu(n)|methylene-THF(glu)n|methylene-H4PteGlun|methylene-tetrahydropteroylpolyglutamates}}
+{{#set: consumed by=1.5.1.20-RXN|RXN-5061|RXN0-2921|THYMIDYLATESYN-RXN}}
+{{#set: produced by=RXN-2881|RXN0-2921}}
+{{#set: reversible reaction associated=GCVT-RXN|GLYOHMETRANS-RXN|3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN|METHYLENETHFDEHYDROG-NADP-RXN}}

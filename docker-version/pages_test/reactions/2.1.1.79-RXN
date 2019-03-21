@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.79-RXN 2.1.1.79-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.79 EC-2.1.1.79]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Phospholipid-Olefinic-Fatty-Acids]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[Phospholipid-Cyclopropane-Fatty-Acids]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 a [phospholipid] olefinic fatty acid[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 a [phospholipid] cyclopropane fatty acid[c] '''+''' 1 H+[c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7622]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY0-541]], cyclopropane fatty acid (CFA) biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-541 PWY0-541]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03411 R03411]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P0A9H7 P0A9H7]
+** [http://www.uniprot.org/uniprot/O69687 O69687]
+** [http://www.uniprot.org/uniprot/Q9PNB2 Q9PNB2]
+** [http://www.uniprot.org/uniprot/Q9ZKG8 Q9ZKG8]
+** [http://www.uniprot.org/uniprot/O67624 O67624]
+** [http://www.uniprot.org/uniprot/O25171 O25171]
+** [http://www.uniprot.org/uniprot/O53732 O53732]
+** [http://www.uniprot.org/uniprot/Q9XTE1 Q9XTE1]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.1.1.79}}
+{{#set: gene associated=Tiso_gene_7622}}
+{{#set: in pathway=PWY0-541}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

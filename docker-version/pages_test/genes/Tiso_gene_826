@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_826 ==
+* right end position:
+** 20809
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 17817
+* centisome position:
+** 62.3779    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-5462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=20809}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=17817}}
+{{#set: centisome position=62.3779    }}
+{{#set: reaction associated=RXN0-5462}}

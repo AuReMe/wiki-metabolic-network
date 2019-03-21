@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-6224 CPD-6224] ==
+* smiles:
+** C=C1(C3(CC4(C1)(C([CH]5(C2(C(=O)OC(CC(O)C(O)2)([CH](CC3)4)5)(C)))C([O-])=O)))
+* common name:
+** gibberellin A34
+* inchi key:
+** InChIKey=IGZIQAJJXGRAJF-OQAXFVLUSA-M
+* molecular weight:
+** 347.387    
+* Synonym(s):
+** GA34
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-6550]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104170025
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245079 25245079]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29593 29593]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11868 C11868]
+{{#set: smiles=C=C1(C3(CC4(C1)(C([CH]5(C2(C(=O)OC(CC(O)C(O)2)([CH](CC3)4)5)(C)))C([O-])=O)))}}
+{{#set: common name=gibberellin A34}}
+{{#set: inchi key=InChIKey=IGZIQAJJXGRAJF-OQAXFVLUSA-M}}
+{{#set: molecular weight=347.387    }}
+{{#set: common name=GA34}}
+{{#set: produced by=RXN-6550}}

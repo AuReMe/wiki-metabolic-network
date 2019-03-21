@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4232 ==
+* right end position:
+** 4047
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2024
+* centisome position:
+** 9.814284    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PHENYLALANINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=4047}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2024}}
+{{#set: centisome position=9.814284    }}
+{{#set: reaction associated=PHENYLALANINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

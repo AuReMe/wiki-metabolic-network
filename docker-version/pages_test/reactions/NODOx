@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NODOx NODOx] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** nitric oxide, NADH2:oxygen oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2.0 [[OXYGEN-MOLECULE]][c] '''+''' 2.0 [[NITRIC-OXIDE]][c] '''+''' 1.0 [[NADH]][c] '''=>''' 2.0 [[NITRATE]][c] '''+''' 1.0 [[PROTON]][c] '''+''' 1.0 [[NAD]][c]
+* With common name(s):
+** 2.0 oxygen[c] '''+''' 2.0 nitric oxide[c] '''+''' 1.0 NADH[c] '''=>''' 2.0 nitrate[c] '''+''' 1.0 H+[c] '''+''' 1.0 NAD+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4015]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=nitric oxide, NADH2:oxygen oxidoreductase}}
+{{#set: gene associated=Tiso_gene_4015}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

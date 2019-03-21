@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7285 ==
+* right end position:
+** 7400
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4564
+* centisome position:
+** 40.254013    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FUMARATE-REDUCTASE-NADH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[L-ASPARTATE-OXID-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R00357]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-5316]]
+* [[PWY-7342]]
+* [[PYRIDNUCSYN-PWY]]
+== External links  ==
+{{#set: right end position=7400}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4564}}
+{{#set: centisome position=40.254013    }}
+{{#set: reaction associated=FUMARATE-REDUCTASE-NADH-RXN|L-ASPARTATE-OXID-RXN|R00357}}
+{{#set: pathway associated=PWY-5316|PWY-7342|PYRIDNUCSYN-PWY}}

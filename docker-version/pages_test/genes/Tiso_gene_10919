@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10919 ==
+* right end position:
+** 7974
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2478
+* centisome position:
+** 30.230574    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ANXANor]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-13193]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7978]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7979]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5945]]
+* [[PWY-5174]]
+== External links  ==
+{{#set: right end position=7974}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2478}}
+{{#set: centisome position=30.230574    }}
+{{#set: reaction associated=ANXANor|RXN-13193|RXN-7978|RXN-7979}}
+{{#set: pathway associated=PWY-5945|PWY-5174}}

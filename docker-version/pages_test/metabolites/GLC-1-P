@@ -1,0 +1,66 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLC-1-P GLC-1-P] ==
+* smiles:
+** C(O)C1(OC(OP(=O)([O-])[O-])C(O)C(O)C(O)1)
+* common name:
+** &alpha;-D-glucopyranose 1-phosphate
+* inchi key:
+** InChIKey=HXXFSFRBOHSIMQ-VFUOTHLCSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** glucose 1-phosphate
+** cori ester
+** D-glucose 1-phosphate
+** glucose-1P
+** &alpha;-glucose-1-phosphate
+** D-glucose-&alpha;-1-phosphate
+** &alpha;-D-glucose-1-P
+** D-glucose-1-phosphate
+** &alpha;-D-glucose 1-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16997]]
+* [[UG1PUT]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5182]]
+* [[RXN-14353]]
+* [[RXN-9025]]
+* [[RXN-14285]]
+* [[RXN-14284]]
+* [[RXN-14286]]
+* [[RXN0-5184]]
+== Reaction(s) of unknown directionality ==
+* [[DTDPGLUCOSEPP-RXN]]
+* [[PHOSPHOGLUCMUT-RXN]]
+* [[PGMTh]]
+* [[GLUC1PURIDYLTRANS-RXN]]
+* [[RXN-12171]]
+* [[GLYCOPHOSPHORYL-RXN]]
+* [[GALACTURIDYLYLTRANS-RXN]]
+* [[RXN-1826]]
+* [[RXN-12392]]
+* [[GLYMALTOPHOSPHORYL-RXN]]
+* [[G1P_pi_th]]
+* [[PGCM]]
+== External links  ==
+* CAS : 59-56-3
+* BIGG : g1p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7091266 7091266]
+* HMDB : HMDB01586
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00103 C00103]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5441206.html 5441206]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58601 58601]
+* METABOLIGHTS : MTBLC58601
+{{#set: smiles=C(O)C1(OC(OP(=O)([O-])[O-])C(O)C(O)C(O)1)}}
+{{#set: common name=&alpha;-D-glucopyranose 1-phosphate}}
+{{#set: inchi key=InChIKey=HXXFSFRBOHSIMQ-VFUOTHLCSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=glucose 1-phosphate|cori ester|D-glucose 1-phosphate|glucose-1P|&alpha;-glucose-1-phosphate|D-glucose-&alpha;-1-phosphate|&alpha;-D-glucose-1-P|D-glucose-1-phosphate|&alpha;-D-glucose 1-phosphate}}
+{{#set: consumed by=RXN-16997|UG1PUT}}
+{{#set: produced by=RXN0-5182|RXN-14353|RXN-9025|RXN-14285|RXN-14284|RXN-14286|RXN0-5184}}
+{{#set: reversible reaction associated=DTDPGLUCOSEPP-RXN|PHOSPHOGLUCMUT-RXN|PGMTh|GLUC1PURIDYLTRANS-RXN|RXN-12171|GLYCOPHOSPHORYL-RXN|GALACTURIDYLYLTRANS-RXN|RXN-1826|RXN-12392|GLYMALTOPHOSPHORYL-RXN|G1P_pi_th|PGCM}}

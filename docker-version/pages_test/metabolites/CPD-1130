@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1130 CPD-1130] ==
+* smiles:
+** CCC(C([O-])=O)C(C(=O)[O-])O
+* common name:
+** 3-ethylmalate
+* inchi key:
+** InChIKey=JUCRENBZZQKFGK-UHFFFAOYSA-L
+* molecular weight:
+** 160.126    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14986]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18210]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21145023 21145023]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20015785.html 20015785]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57425 57425]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01989 C01989]
+{{#set: smiles=CCC(C([O-])=O)C(C(=O)[O-])O}}
+{{#set: common name=3-ethylmalate}}
+{{#set: inchi key=InChIKey=JUCRENBZZQKFGK-UHFFFAOYSA-L}}
+{{#set: molecular weight=160.126    }}
+{{#set: consumed by=RXN-14986}}
+{{#set: reversible reaction associated=RXN-18210}}

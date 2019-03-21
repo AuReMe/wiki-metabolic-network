@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-Amino-Acids D-Amino-Acids] ==
+* common name:
+** a D-amino acid
+* Synonym(s):
+** D-&alpha;-amino acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15041]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a D-amino acid}}
+{{#set: common name=D-&alpha;-amino acid}}
+{{#set: produced by=RXN-15041}}

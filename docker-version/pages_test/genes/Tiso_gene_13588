@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13588 ==
+* right end position:
+** 3337
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 69
+* centisome position:
+** 1.1125443    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3337}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=69}}
+{{#set: centisome position=1.1125443    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|PROTEIN-KINASE-RXN|RXN-11201}}

@@ -1,0 +1,78 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6797 PWY-6797] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** 6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (archaea)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** 38 associated gene(s):
+*** [[Tiso_gene_10760]]
+*** [[Tiso_gene_2019]]
+*** [[Tiso_gene_5713]]
+*** [[Tiso_gene_1142]]
+*** [[Tiso_gene_17467]]
+*** [[Tiso_gene_15988]]
+*** [[Tiso_gene_10288]]
+*** [[Tiso_gene_8599]]
+*** [[Tiso_gene_2924]]
+*** [[Tiso_gene_10158]]
+*** [[Tiso_gene_4112]]
+*** [[Tiso_gene_15582]]
+*** [[Tiso_gene_277]]
+*** [[Tiso_gene_16712]]
+*** [[Tiso_gene_17804]]
+*** [[Tiso_gene_7067]]
+*** [[Tiso_gene_19075]]
+*** [[Tiso_gene_4645]]
+*** [[Tiso_gene_12514]]
+*** [[Tiso_gene_3667]]
+*** [[Tiso_gene_6144]]
+*** [[Tiso_gene_3314]]
+*** [[Tiso_gene_6277]]
+*** [[Tiso_gene_8600]]
+*** [[Tiso_gene_13604]]
+*** [[Tiso_gene_12636]]
+*** [[Tiso_gene_2747]]
+*** [[Tiso_gene_18343]]
+*** [[Tiso_gene_13784]]
+*** [[Tiso_gene_14428]]
+*** [[Tiso_gene_8601]]
+*** [[Tiso_gene_11387]]
+*** [[Tiso_gene_6767]]
+*** [[Tiso_gene_1799]]
+*** [[Tiso_gene_16176]]
+*** [[Tiso_gene_43]]
+*** [[Tiso_gene_13847]]
+*** [[Tiso_gene_13729]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[H2NEOPTERINALDOL-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2576]]
+*** [[Tiso_gene_2577]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[H2PTERIDINEPYROPHOSPHOKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11659]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10063 RXN-10063]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12356 RXN-12356]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12357 RXN-12357]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12358 RXN-12358]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (archaea)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

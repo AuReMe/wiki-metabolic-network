@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-2183 CPD-2183] ==
+* smiles:
+** CCCCCCCCC=CCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCCCCCCCC)COP(=O)([O-])OCC(CO)O
+* common name:
+** 1-oleoyl-2-palmitoyl-phosphatidylglycerol
+* inchi key:
+** InChIKey=GTCKEWVHTGGUSN-HGWHEPCSSA-M
+* molecular weight:
+** 748.008    
+* Synonym(s):
+** phosphatidylglycerol (1-18:1-2-16:0)
+** 18:1-16:0-PG
+** 1-18:1-2-16:0-phosphatidylglycerol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-13313]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71296223 71296223]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72832 72832]
+* METABOLIGHTS : MTBLC72832
+{{#set: smiles=CCCCCCCCC=CCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCCCCCCCC)COP(=O)([O-])OCC(CO)O}}
+{{#set: common name=1-oleoyl-2-palmitoyl-phosphatidylglycerol}}
+{{#set: inchi key=InChIKey=GTCKEWVHTGGUSN-HGWHEPCSSA-M}}
+{{#set: molecular weight=748.008    }}
+{{#set: common name=phosphatidylglycerol (1-18:1-2-16:0)|18:1-16:0-PG|1-18:1-2-16:0-phosphatidylglycerol}}
+{{#set: produced by=RXN-13313}}

@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6064 PWY-6064] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58023 TAX-58023]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3195 TAX-3195]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3208 TAX-3208]
+* common name:
+** methylquercetin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[QUERCETIN-3-O-METHYLTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14431]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8262 RXN-8262]
+== External links  ==
+{{#set: taxonomic range=TAX-58023}}
+{{#set: taxonomic range=TAX-3195}}
+{{#set: taxonomic range=TAX-3208}}
+{{#set: common name=methylquercetin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

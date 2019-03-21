@@ -1,0 +1,24 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6780 PWY-6780] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** hydrogen production VI
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[HYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4288]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.7.4-RXN 1.2.7.4-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=hydrogen production VI}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

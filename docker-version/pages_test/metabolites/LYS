@@ -1,0 +1,48 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LYS LYS] ==
+* smiles:
+** C([N+])CCCC([N+])C([O-])=O
+* common name:
+** L-lysine
+* inchi key:
+** InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
+* molecular weight:
+** 147.197    
+* Synonym(s):
+** K
+** lysine
+** L-lys
+** lys
+** 2,6-diaminohexanoic acid
+** lysine acid
+
+== Reaction(s) known to consume the compound ==
+* [[RME144]]
+* [[LYSINE--TRNA-LIGASE-RXN]]
+* [[LYSDECARBOX-RXN]]
+* [[1.5.1.8-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[1.5.1.7-RXN]]
+* [[DIAMINOPIMDECARB-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 56-87-1
+* BIGG : lys__L
+* BIGG : 33655
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460926 5460926]
+* HMDB : HMDB00182
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00047 C00047]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5747.html 5747]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=32551 32551]
+* METABOLIGHTS : MTBLC32551
+{{#set: smiles=C([N+])CCCC([N+])C([O-])=O}}
+{{#set: common name=L-lysine}}
+{{#set: inchi key=InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O}}
+{{#set: molecular weight=147.197    }}
+{{#set: common name=K|lysine|L-lys|lys|2,6-diaminohexanoic acid|lysine acid}}
+{{#set: consumed by=RME144|LYSINE--TRNA-LIGASE-RXN|LYSDECARBOX-RXN|1.5.1.8-RXN}}
+{{#set: produced by=1.5.1.7-RXN|DIAMINOPIMDECARB-RXN}}

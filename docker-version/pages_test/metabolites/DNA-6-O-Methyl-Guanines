@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DNA-6-O-Methyl-Guanines DNA-6-O-Methyl-Guanines] ==
+* common name:
+** an O6-methylguanine in DNA
+* Synonym(s):
+** a DNA 6-O-methylguanine
+** DNA 6-O-methylguanine
+** DNA (CONTAINING 6-O-METHYLGUANINE)
+** a DNA containing 6-O-methylguanine
+
+== Reaction(s) known to consume the compound ==
+* [[2.1.1.63-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an O6-methylguanine in DNA}}
+{{#set: common name=a DNA 6-O-methylguanine|DNA 6-O-methylguanine|DNA (CONTAINING 6-O-METHYLGUANINE)|a DNA containing 6-O-methylguanine}}
+{{#set: consumed by=2.1.1.63-RXN}}

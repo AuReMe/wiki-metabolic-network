@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1350 ==
+* right end position:
+** 35536
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 33614
+* centisome position:
+** 93.60884    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[KDO-8PSYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7674]]
+* [[PWY-1269]]
+== External links  ==
+{{#set: right end position=35536}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=33614}}
+{{#set: centisome position=93.60884    }}
+{{#set: reaction associated=KDO-8PSYNTH-RXN}}
+{{#set: pathway associated=PWY-7674|PWY-1269}}

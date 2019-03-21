@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6731 PWY-6731] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** starch degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PHOSPHOGLUCMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_13477]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-12171]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1011]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=CYCLOMALTODEXTRINASE-RXN CYCLOMALTODEXTRINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12181 RXN-12181]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=starch degradation III}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

@@ -1,0 +1,92 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3-ISOPROPYLMALDEHYDROG-RXN 3-ISOPROPYLMALDEHYDROG-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 3-isopropylmalate dehydrogenase
+* Synonym(s):
+** &beta;-isopropylmalic enzyme
+** threo-Ds-3-isopropylmalate dehydrogenase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE]][c] '''<=>''' 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CPD-7100]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 (2R,3S)-3-isopropylmalate[c] '''<=>''' 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 (2S)-2-isopropyl-3-oxosuccinate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2920]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[LEUSYN-PWY]], L-leucine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=LEUSYN-PWY LEUSYN-PWY]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6871]], 3-methylbutanol biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6871 PWY-6871]
+** '''6''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10892 10892]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04426 R04426]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P05644 P05644]
+** [http://www.uniprot.org/uniprot/P05645 P05645]
+** [http://www.uniprot.org/uniprot/Q01987 Q01987]
+** [http://www.uniprot.org/uniprot/Q00412 Q00412]
+** [http://www.uniprot.org/uniprot/P08791 P08791]
+** [http://www.uniprot.org/uniprot/P30125 P30125]
+** [http://www.uniprot.org/uniprot/Q9PLW0 Q9PLW0]
+** [http://www.uniprot.org/uniprot/O66607 O66607]
+** [http://www.uniprot.org/uniprot/P12010 P12010]
+** [http://www.uniprot.org/uniprot/P04173 P04173]
+** [http://www.uniprot.org/uniprot/Q5SIY4 Q5SIY4]
+** [http://www.uniprot.org/uniprot/P24098 P24098]
+** [http://www.uniprot.org/uniprot/Q9JU79 Q9JU79]
+** [http://www.uniprot.org/uniprot/P43860 P43860]
+** [http://www.uniprot.org/uniprot/P41019 P41019]
+** [http://www.uniprot.org/uniprot/P54354 P54354]
+** [http://www.uniprot.org/uniprot/Q56268 Q56268]
+** [http://www.uniprot.org/uniprot/P29102 P29102]
+** [http://www.uniprot.org/uniprot/P37412 P37412]
+** [http://www.uniprot.org/uniprot/P23390 P23390]
+** [http://www.uniprot.org/uniprot/P29696 P29696]
+** [http://www.uniprot.org/uniprot/P41766 P41766]
+** [http://www.uniprot.org/uniprot/Q02143 Q02143]
+** [http://www.uniprot.org/uniprot/P34733 P34733]
+** [http://www.uniprot.org/uniprot/P50180 P50180]
+** [http://www.uniprot.org/uniprot/Q12591 Q12591]
+** [http://www.uniprot.org/uniprot/Q12590 Q12590]
+** [http://www.uniprot.org/uniprot/Q12592 Q12592]
+** [http://www.uniprot.org/uniprot/P07139 P07139]
+** [http://www.uniprot.org/uniprot/P41926 P41926]
+** [http://www.uniprot.org/uniprot/P48012 P48012]
+** [http://www.uniprot.org/uniprot/P87256 P87256]
+** [http://www.uniprot.org/uniprot/P87257 P87257]
+** [http://www.uniprot.org/uniprot/P73960 P73960]
+** [http://www.uniprot.org/uniprot/O86504 O86504]
+** [http://www.uniprot.org/uniprot/O85837 O85837]
+** [http://www.uniprot.org/uniprot/P18869 P18869]
+** [http://www.uniprot.org/uniprot/P34738 P34738]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=3-isopropylmalate dehydrogenase}}
+{{#set: common name=&beta;-isopropylmalic enzyme|threo-Ds-3-isopropylmalate dehydrogenase}}
+{{#set: gene associated=Tiso_gene_2920}}
+{{#set: in pathway=LEUSYN-PWY|PWY-6871}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-experimental_annotation|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

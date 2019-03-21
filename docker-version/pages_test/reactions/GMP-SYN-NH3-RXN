@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GMP-SYN-NH3-RXN GMP-SYN-NH3-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutamine_amidotransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[AMMONIUM]][c] '''+''' 1 [[XANTHOSINE-5-PHOSPHATE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[GMP]][c] '''+''' 1 [[AMP]][c] '''+''' 2 [[PROTON]][c]
+* With common name(s):
+** 1 ammonium[c] '''+''' 1 XMP[c] '''+''' 1 ATP[c] '''=>''' 1 diphosphate[c] '''+''' 1 GMP[c] '''+''' 1 AMP[c] '''+''' 2 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6657]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18301 18301]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01230 R01230]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutamine_amidotransferase}}
+{{#set: gene associated=Tiso_gene_6657}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-creinhardtii|annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

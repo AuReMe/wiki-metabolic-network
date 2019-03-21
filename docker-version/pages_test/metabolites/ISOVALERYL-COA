@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ISOVALERYL-COA ISOVALERYL-COA] ==
+* smiles:
+** CC(CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C
+* common name:
+** isovaleryl-CoA
+* inchi key:
+** InChIKey=UYVZIWWBJMYRCD-ZMHDXICWSA-J
+* molecular weight:
+** 847.62    
+* Synonym(s):
+** 3-methylbutyryl-CoA
+** 3-methylbutanoyl-CoA
+** isovaleryl-coenzyme A
+** iso-valeryl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[ISOVALERYLCOA-DHLIPOAMIDE-RXN]]
+* [[RXN0-2301]]
+* [[IVCDH]]
+== Reaction(s) known to produce the compound ==
+* [[2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14264]]
+== External links  ==
+* CAS : 6244-91-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266576 45266576]
+* HMDB : HMDB01113
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02939 C02939]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57345 57345]
+* METABOLIGHTS : MTBLC57345
+{{#set: smiles=CC(CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C}}
+{{#set: common name=isovaleryl-CoA}}
+{{#set: inchi key=InChIKey=UYVZIWWBJMYRCD-ZMHDXICWSA-J}}
+{{#set: molecular weight=847.62    }}
+{{#set: common name=3-methylbutyryl-CoA|3-methylbutanoyl-CoA|isovaleryl-coenzyme A|iso-valeryl-CoA}}
+{{#set: consumed by=ISOVALERYLCOA-DHLIPOAMIDE-RXN|RXN0-2301|IVCDH}}
+{{#set: produced by=2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN}}
+{{#set: reversible reaction associated=RXN-14264}}

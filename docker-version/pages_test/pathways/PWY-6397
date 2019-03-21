@@ -1,0 +1,53 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6397 PWY-6397] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1762 TAX-1762]
+* common name:
+** mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+* Synonym(s):
+** arabinogalactan biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''17''' reactions in the full pathway
+* [[GALPMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3775]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[UDPGLUCEPIM-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9823]]
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3236]]
+*** [[Tiso_gene_10797]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11070 RXN-11070]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11072 RXN-11072]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11075 RXN-11075]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11077 RXN-11077]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11078 RXN-11078]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11079 RXN-11079]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11080 RXN-11080]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11081 RXN-11081]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11082 RXN-11082]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11091 RXN-11091]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11092 RXN-11092]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11093 RXN-11093]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11094 RXN-11094]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6380 RXN-6380]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1G-1633 RXN1G-1633]
+== External links  ==
+{{#set: taxonomic range=TAX-1762}}
+{{#set: common name=mycolyl-arabinogalactan-peptidoglycan complex biosynthesis}}
+{{#set: common name=arabinogalactan biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=17}}
+{{#set: completion rate=12.0}}

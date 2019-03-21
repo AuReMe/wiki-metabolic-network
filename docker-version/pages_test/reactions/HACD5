@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HACD5 HACD5] ==
+* direction:
+** REVERSIBLE
+* common name:
+** (S)-3-hydroxydodecanoyl-CoA:NAD oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD0-2107]][x] '''+''' 1.0 [[NAD]][x] '''<=>''' 1.0 [[PROTON]][x] '''+''' 1.0 [[CPD0-2105]][x] '''+''' 1.0 [[NADH]][x]
+* With common name(s):
+** 1.0 (S)-3-hydroxydodecanoyl-CoA[x] '''+''' 1.0 NAD+[x] '''<=>''' 1.0 H+[x] '''+''' 1.0 3-oxododecanoyl-CoA[x] '''+''' 1.0 NADH[x]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5857]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=(S)-3-hydroxydodecanoyl-CoA:NAD oxidoreductase}}
+{{#set: gene associated=Tiso_gene_5857}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

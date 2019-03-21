@@ -1,0 +1,70 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=L-IDITOL-2-DEHYDROGENASE-RXN L-IDITOL-2-DEHYDROGENASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** l-iditol_2-dehydrogenase
+** polyketide_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.14 EC-1.1.1.14]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-369]][c] '''+''' 1 [[NAD]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[CPD-15616]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 L-iditol[c] '''+''' 1 NAD+[c] '''<=>''' 1 H+[c] '''+''' 1 keto-L-sorbose[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6563]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6562]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18533]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15088]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5425]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5424]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10160 10160]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07145 R07145]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q06004 Q06004]
+** [http://www.uniprot.org/uniprot/Q00796 Q00796]
+** [http://www.uniprot.org/uniprot/Q57517 Q57517]
+** [http://www.uniprot.org/uniprot/P77280 P77280]
+** [http://www.uniprot.org/uniprot/O35045 O35045]
+** [http://www.uniprot.org/uniprot/P27867 P27867]
+** [http://www.uniprot.org/uniprot/Q02912 Q02912]
+** [http://www.uniprot.org/uniprot/P36624 P36624]
+** [http://www.uniprot.org/uniprot/P35497 P35497]
+** [http://www.uniprot.org/uniprot/Q64442 Q64442]
+** [http://www.uniprot.org/uniprot/Q07786 Q07786]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=l-iditol_2-dehydrogenase}}
+{{#set: common name=polyketide_synthase}}
+{{#set: ec number=EC-1.1.1.14}}
+{{#set: gene associated=Tiso_gene_6563|Tiso_gene_6562|Tiso_gene_18533|Tiso_gene_15088|Tiso_gene_5425|Tiso_gene_5424}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

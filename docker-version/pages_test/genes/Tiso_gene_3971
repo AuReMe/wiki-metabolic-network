@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3971 ==
+* right end position:
+** 15624
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10612
+* centisome position:
+** 67.48919    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=15624}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10612}}
+{{#set: centisome position=67.48919    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN}}

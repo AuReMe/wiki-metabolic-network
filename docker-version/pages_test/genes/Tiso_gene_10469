@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10469 ==
+* right end position:
+** 8490
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5913
+* centisome position:
+** 69.393265    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-16226]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8490}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5913}}
+{{#set: centisome position=69.393265    }}
+{{#set: reaction associated=RXN-16226}}

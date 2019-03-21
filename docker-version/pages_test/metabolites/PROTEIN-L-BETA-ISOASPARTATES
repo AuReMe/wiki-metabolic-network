@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PROTEIN-L-BETA-ISOASPARTATES PROTEIN-L-BETA-ISOASPARTATES] ==
+* common name:
+** a [protein]-L-&beta;-isoaspartate
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[2.1.1.77-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [protein]-L-&beta;-isoaspartate}}
+{{#set: consumed by=2.1.1.77-RXN}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Long-Chain-Aldehydes Long-Chain-Aldehydes] ==
+* common name:
+** a long-chain aldehyde
+* Synonym(s):
+** a long-chain fatty aldehyde
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN]]
+== External links  ==
+{{#set: common name=a long-chain aldehyde}}
+{{#set: common name=a long-chain fatty aldehyde}}
+{{#set: reversible reaction associated=LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN}}

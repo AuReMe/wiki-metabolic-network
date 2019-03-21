@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TAURINE TAURINE] ==
+* smiles:
+** C(S(=O)(=O)[O-])C[N+]
+* common name:
+** taurine
+* inchi key:
+** InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
+* molecular weight:
+** 125.142    
+* Synonym(s):
+** 2-aminoethanesulfonate
+** tauphon
+** taufon
+** 2-aminoethanesulfonic acid
+** aminoetylsulphonic acid
+** ethylaminesulphonic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-299]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 107-35-7
+* BIGG : taur
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4068592 4068592]
+* HMDB : HMDB00251
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00245 C00245]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=507393 507393]
+* METABOLIGHTS : MTBLC507393
+{{#set: smiles=C(S(=O)(=O)[O-])C[N+]}}
+{{#set: common name=taurine}}
+{{#set: inchi key=InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N}}
+{{#set: molecular weight=125.142    }}
+{{#set: common name=2-aminoethanesulfonate|tauphon|taufon|2-aminoethanesulfonic acid|aminoetylsulphonic acid|ethylaminesulphonic acid}}
+{{#set: consumed by=RXN0-299}}

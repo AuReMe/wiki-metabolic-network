@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PROTEIN-N-UBIQUITYL-LYSINE PROTEIN-N-UBIQUITYL-LYSINE] ==
+* common name:
+** an N6-monoubiquitinyl-[protein]-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-16313]]
+* [[RXN-15561]]
+* [[RXN-15560]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N6-monoubiquitinyl-[protein]-L-lysine}}
+{{#set: produced by=RXN-16313|RXN-15561|RXN-15560}}

@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=METHYLARSONITE METHYLARSONITE] ==
+* smiles:
+** C[As](O)O
+* common name:
+** methylarsonite
+* inchi key:
+** InChIKey=OXBIRPQQKCQWGV-UHFFFAOYSA-N
+* molecular weight:
+** 123.971    
+* Synonym(s):
+** MMAIII
+** methylarsonous acid
+
+== Reaction(s) known to consume the compound ==
+* [[2.1.1.138-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=161491 161491]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.141846.html 141846]
+* HMDB : HMDB12259
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17826 17826]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C07295 C07295]
+{{#set: smiles=C[As](O)O}}
+{{#set: common name=methylarsonite}}
+{{#set: inchi key=InChIKey=OXBIRPQQKCQWGV-UHFFFAOYSA-N}}
+{{#set: molecular weight=123.971    }}
+{{#set: common name=MMAIII|methylarsonous acid}}
+{{#set: consumed by=2.1.1.138-RXN}}

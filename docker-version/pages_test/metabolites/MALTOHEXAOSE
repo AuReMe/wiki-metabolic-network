@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALTOHEXAOSE MALTOHEXAOSE] ==
+* smiles:
+** C(C6(OC(OC5(C(OC(OC4(C(OC(OC1(C(OC(C(C1O)O)OC2(C(OC(C(C2O)O)OC3(C(OC(C(C3O)O)O)CO))CO))CO))C(C4O)O)CO))C(C5O)O)CO))C(C(C6O)O)O))O
+* common name:
+** maltohexaose
+* inchi key:
+** InChIKey=OCIBBXPLUVYKCH-LIGGPISVSA-N
+* molecular weight:
+** 990.867    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14285]]
+* [[RXN-14282]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14286]]
+* [[RXN-14283]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 34620-77-4
+* BIGG : malthx
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439606 439606]
+* HMDB : HMDB12253
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01936 C01936]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388684.html 388684]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61953 61953]
+* METABOLIGHTS : MTBLC61953
+{{#set: smiles=C(C6(OC(OC5(C(OC(OC4(C(OC(OC1(C(OC(C(C1O)O)OC2(C(OC(C(C2O)O)OC3(C(OC(C(C3O)O)O)CO))CO))CO))C(C4O)O)CO))C(C5O)O)CO))C(C(C6O)O)O))O}}
+{{#set: common name=maltohexaose}}
+{{#set: inchi key=InChIKey=OCIBBXPLUVYKCH-LIGGPISVSA-N}}
+{{#set: molecular weight=990.867    }}
+{{#set: consumed by=RXN-14285|RXN-14282}}
+{{#set: produced by=RXN-14286|RXN-14283}}

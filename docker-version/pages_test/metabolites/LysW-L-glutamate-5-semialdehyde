@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LysW-L-glutamate-5-semialdehyde LysW-L-glutamate-5-semialdehyde] ==
+* common name:
+** an [L-2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde
+* Synonym(s):
+** a [LysW protein]-L-glutamate 5-semialdehyde
+** an [&alpha;-aminoadipate carrier protein]-L-glutamate 5-semialdehyde
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15006]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-15007]]
+== External links  ==
+{{#set: common name=an [L-2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde}}
+{{#set: common name=a [LysW protein]-L-glutamate 5-semialdehyde|an [&alpha;-aminoadipate carrier protein]-L-glutamate 5-semialdehyde}}
+{{#set: produced by=RXN-15006}}
+{{#set: reversible reaction associated=RXN-15007}}

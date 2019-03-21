@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Biomass-Compositions Biomass-Compositions] ==
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[ExchangeDeadEnd_Biomass-Compositions]]
+== Reaction(s) known to produce the compound ==
+* [[ExchangeDeadEnd_Biomass-Compositions]]
+* [[RME294]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: consumed by=ExchangeDeadEnd_Biomass-Compositions}}
+{{#set: produced by=ExchangeDeadEnd_Biomass-Compositions|RME294}}

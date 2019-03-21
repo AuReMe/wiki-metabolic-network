@@ -1,0 +1,81 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5497 PWY-5497] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1239 TAX-1239]
+* common name:
+** purine nucleobases degradation II (anaerobic)
+* Synonym(s):
+** purine fermentation
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''24''' reactions in the full pathway
+* [[GLYOHMETRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_16153]]
+*** [[Tiso_gene_7776]]
+*** [[Tiso_gene_18652]]
+*** [[Tiso_gene_16154]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GUANINE-DEAMINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12280]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[METHENYLTHFCYCLOHYDRO-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[METHYLENETHFDEHYDROG-NADP-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_6004]]
+*** [[Tiso_gene_432]]
+** 3 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-15124]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-15127]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN0-901]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.1.2-RXN 1.2.1.2-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=4.3.1.4-RXN 4.3.1.4-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETATEKIN-RXN ACETATEKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=FORMYLTHFDEFORMYL-RXN FORMYLTHFDEFORMYL-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCINE-FORMIMINOTRANSFERASE-RXN GLYCINE-FORMIMINOTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSACETYLTRANS-RXN PHOSACETYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUFLAVREDUCT-RXN PYRUFLAVREDUCT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R127-RXN R127-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R128-RXN R128-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R13-RXN R13-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R62-RXN R62-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R63-RXN R63-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15125 RXN-15125]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8751 RXN-8751]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8752 RXN-8752]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8753 RXN-8753]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8754 RXN-8754]
+== External links  ==
+{{#set: taxonomic range=TAX-1239}}
+{{#set: common name=purine nucleobases degradation II (anaerobic)}}
+{{#set: common name=purine fermentation}}
+{{#set: reaction found=7}}
+{{#set: total reaction=24}}
+{{#set: completion rate=29.0}}

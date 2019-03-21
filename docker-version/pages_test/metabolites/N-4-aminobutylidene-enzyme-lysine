@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-4-aminobutylidene-enzyme-lysine N-4-aminobutylidene-enzyme-lysine] ==
+* common name:
+** a [deoxyhypusine synthase]-N-(4-aminobutylidene)-lysine
+* Synonym(s):
+** an N-(4-aminobutylidene)-[enzyme]-lysine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13416]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13415]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [deoxyhypusine synthase]-N-(4-aminobutylidene)-lysine}}
+{{#set: common name=an N-(4-aminobutylidene)-[enzyme]-lysine}}
+{{#set: consumed by=RXN-13416}}
+{{#set: produced by=RXN-13415}}

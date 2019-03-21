@@ -1,0 +1,72 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PYRIMSYN3-RXN PYRIMSYN3-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** phosphomethylpyrimidine_kinase
+** thiamine_monophosphate_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.4.7 EC-2.7.4.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[AMINO-HYDROXYMETHYL-METHYL-PYR-P]][c] '''=>''' 1 [[AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine[c] '''=>''' 1 4-amino-2-methyl-5-(diphosphomethyl)pyrimidine[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2159]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16224]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17192]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2160]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6910]], hydroxymethylpyrimidine salvage: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6910 PWY-6910]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-7282]], 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7282 PWY-7282]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-6890]], 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6890 PWY-6890]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-7356]], thiamine salvage IV (yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7356 PWY-7356]
+** '''5''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7357]], thiamine formation from pyrithiamine and oxythiamine (yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7357 PWY-7357]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=19893 19893]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04509 R04509]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JTE1 Q9JTE1]
+** [http://www.uniprot.org/uniprot/Q9PNL2 Q9PNL2]
+** [http://www.uniprot.org/uniprot/Q9CI79 Q9CI79]
+** [http://www.uniprot.org/uniprot/Q9CG47 Q9CG47]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=phosphomethylpyrimidine_kinase}}
+{{#set: common name=thiamine_monophosphate_synthase}}
+{{#set: ec number=EC-2.7.4.7}}
+{{#set: gene associated=Tiso_gene_2159|Tiso_gene_16224|Tiso_gene_17192|Tiso_gene_2160}}
+{{#set: in pathway=PWY-6910|PWY-7282|PWY-6890|PWY-7356|PWY-7357}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,45 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2515 ==
+* right end position:
+** 3011
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11
+* centisome position:
+** 5.755245000e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PYRUVDEH-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12508]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12583]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-1134]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PYRUVDEHYD-PWY]]
+* [[PWY-7218]]
+* [[PWY-7384]]
+* [[PWY-6886]]
+* [[PWY-5537]]
+* [[GLYCOLYSIS-TCA-GLYOX-BYPASS]]
+* [[PWY-5482]]
+== External links  ==
+{{#set: right end position=3011}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11}}
+{{#set: centisome position=5.755245000e-2}}
+{{#set: reaction associated=PYRUVDEH-RXN|RXN-12508|RXN-12583|RXN0-1134}}
+{{#set: pathway associated=PYRUVDEHYD-PWY|PWY-7218|PWY-7384|PWY-6886|PWY-5537|GLYCOLYSIS-TCA-GLYOX-BYPASS|PWY-5482}}

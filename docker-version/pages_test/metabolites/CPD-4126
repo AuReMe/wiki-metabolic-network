@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4126 CPD-4126] ==
+* smiles:
+** CC=C(C(C)C)CCC(C)[CH]3(CC[CH]4(C2(=CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** 5-dehydroavenasterol
+* inchi key:
+** InChIKey=XPRWWANUPMYKMF-HVEGQNEHSA-N
+* molecular weight:
+** 410.682    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-4210]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-4209]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44263331 44263331]
+* HMDB : HMDB06852
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=80097 80097]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15783 C15783]
+{{#set: smiles=CC=C(C(C)C)CCC(C)[CH]3(CC[CH]4(C2(=CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=5-dehydroavenasterol}}
+{{#set: inchi key=InChIKey=XPRWWANUPMYKMF-HVEGQNEHSA-N}}
+{{#set: molecular weight=410.682    }}
+{{#set: consumed by=RXN-4210}}
+{{#set: produced by=RXN-4209}}

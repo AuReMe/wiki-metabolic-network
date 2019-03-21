@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13862 ==
+* right end position:
+** 3756
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 135
+* centisome position:
+** 2.2447622    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11109]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3756}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=135}}
+{{#set: centisome position=2.2447622    }}
+{{#set: reaction associated=RXN-11109}}

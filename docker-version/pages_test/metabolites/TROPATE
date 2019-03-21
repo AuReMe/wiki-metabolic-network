@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TROPATE TROPATE] ==
+* smiles:
+** C(O)C(C1(C=CC=CC=1))C([O-])=O
+* common name:
+** tropate
+* inchi key:
+** InChIKey=JACRWUWPXAESPB-UHFFFAOYSA-M
+* molecular weight:
+** 165.168    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[TROPINESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460086 5460086]
+* CAS : 529-64-6
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=20990 20990]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01456 C01456]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573754.html 4573754]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17000 17000]
+{{#set: smiles=C(O)C(C1(C=CC=CC=1))C([O-])=O}}
+{{#set: common name=tropate}}
+{{#set: inchi key=InChIKey=JACRWUWPXAESPB-UHFFFAOYSA-M}}
+{{#set: molecular weight=165.168    }}
+{{#set: produced by=TROPINESTERASE-RXN}}

@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-Acetyl-Peptides N-Acetyl-Peptides] ==
+* common name:
+** an N-acylated peptide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[ACYLAMINOACYL-PEPTIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-acylated peptide}}
+{{#set: consumed by=ACYLAMINOACYL-PEPTIDASE-RXN}}

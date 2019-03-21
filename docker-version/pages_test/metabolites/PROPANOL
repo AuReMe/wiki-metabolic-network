@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PROPANOL PROPANOL] ==
+* smiles:
+** CCCO
+* common name:
+** propan-1-ol
+* inchi key:
+** InChIKey=BDERNNFJNOPAEC-UHFFFAOYSA-N
+* molecular weight:
+** 60.096    
+* Synonym(s):
+** osmosol extra
+** optal
+** 1-hydroxypropane
+** ethylcarbinol
+** 1-propanol
+** n-propanol
+** propanol
+** propylalcohol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13198]]
+== External links  ==
+* CAS : 71-23-8
+* DRUGBANK : DB03175
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1031 1031]
+* HMDB : HMDB00820
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05979 C05979]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1004.html 1004]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28831 28831]
+{{#set: smiles=CCCO}}
+{{#set: common name=propan-1-ol}}
+{{#set: inchi key=InChIKey=BDERNNFJNOPAEC-UHFFFAOYSA-N}}
+{{#set: molecular weight=60.096    }}
+{{#set: common name=osmosol extra|optal|1-hydroxypropane|ethylcarbinol|1-propanol|n-propanol|propanol|propylalcohol}}
+{{#set: reversible reaction associated=RXN-13198}}

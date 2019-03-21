@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-207 CPD-207] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC1(C=CC=CC=1))COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]
+* common name:
+** phenylacetyl-CoA
+* inchi key:
+** InChIKey=ZIGIFDRJFZYEEQ-CECATXLMSA-J
+* molecular weight:
+** 881.637    
+* Synonym(s):
+** phenylacetate-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10821]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : phaccoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266611 45266611]
+* HMDB : HMDB06503
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00582 C00582]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57390 57390]
+* METABOLIGHTS : MTBLC57390
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC1(C=CC=CC=1))COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]}}
+{{#set: common name=phenylacetyl-CoA}}
+{{#set: inchi key=InChIKey=ZIGIFDRJFZYEEQ-CECATXLMSA-J}}
+{{#set: molecular weight=881.637    }}
+{{#set: common name=phenylacetate-CoA}}
+{{#set: consumed by=RXN-10821}}

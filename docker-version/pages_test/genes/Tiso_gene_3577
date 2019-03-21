@@ -1,0 +1,83 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3577 ==
+* right end position:
+** 10364
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8361
+* centisome position:
+** 50.87933    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.14.13.79-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-1121]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11535]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-3661]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-4225]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-4230]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-4231]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-4241]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-715]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-716]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-717]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-773]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-774]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-775]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-778]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-779]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8038]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8040]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-147]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-148]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-150]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-151]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-160]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-161]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[UNSPECIFIC-MONOOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5034]]
+* [[PWY-699]]
+* [[PWY-7591]]
+* [[PWY-2181]]
+* [[PWY-2582]]
+* [[PWY-5947]]
+* [[PWY-5047]]
+* [[PWY-5640]]
+* [[PWY-5946]]
+* [[PWY-5943]]
+== External links  ==
+{{#set: right end position=10364}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8361}}
+{{#set: centisome position=50.87933    }}
+{{#set: reaction associated=1.14.13.79-RXN|RXN-1121|RXN-11535|RXN-3661|RXN-4225|RXN-4230|RXN-4231|RXN-4241|RXN-715|RXN-716|RXN-717|RXN-773|RXN-774|RXN-775|RXN-778|RXN-779|RXN-8038|RXN-8040|RXN1F-147|RXN1F-148|RXN1F-150|RXN1F-151|RXN1F-160|RXN1F-161|UNSPECIFIC-MONOOXYGENASE-RXN}}
+{{#set: pathway associated=PWY-5034|PWY-699|PWY-7591|PWY-2181|PWY-2582|PWY-5947|PWY-5047|PWY-5640|PWY-5946|PWY-5943}}

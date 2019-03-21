@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=LEUKOTRIENE-A4-HYDROLASE-RXN LEUKOTRIENE-A4-HYDROLASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.3.2.6 EC-3.3.2.6]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-8892]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[6Z8E10E14Z-5S12R-512-DIHYDROXYI]][c]
+* With common name(s):
+** 1 leukotriene A4[c] '''+''' 1 H2O[c] '''=>''' 1 leukotriene B4[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16906]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY66-375]], leukotriene biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-375 PWY66-375]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22324 22324]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03057 R03057]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P19602 P19602]
+** [http://www.uniprot.org/uniprot/P24527 P24527]
+** [http://www.uniprot.org/uniprot/P30349 P30349]
+** [http://www.uniprot.org/uniprot/P09960 P09960]
+** [http://www.uniprot.org/uniprot/O44969 O44969]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.3.2.6}}
+{{#set: gene associated=Tiso_gene_16906}}
+{{#set: in pathway=PWY66-375}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

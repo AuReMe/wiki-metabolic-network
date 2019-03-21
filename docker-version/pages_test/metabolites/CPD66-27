@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD66-27 CPD66-27] ==
+* smiles:
+** CC(=O)C4(O)(CCC2(C(C)(CCC1(C3(C)(C(=CCC12)CC(=O)CC3)))4))
+* common name:
+** pregn-5-ene-3,20-dione-17-ol
+* inchi key:
+** InChIKey=RCFJDVCRANOZEL-UHFFFAOYSA-N
+* molecular weight:
+** 330.466    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN66-350]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=14562950 14562950]
+{{#set: smiles=CC(=O)C4(O)(CCC2(C(C)(CCC1(C3(C)(C(=CCC12)CC(=O)CC3)))4))}}
+{{#set: common name=pregn-5-ene-3,20-dione-17-ol}}
+{{#set: inchi key=InChIKey=RCFJDVCRANOZEL-UHFFFAOYSA-N}}
+{{#set: molecular weight=330.466    }}
+{{#set: reversible reaction associated=RXN66-350}}

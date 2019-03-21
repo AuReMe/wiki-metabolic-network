@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8990 CPD-8990] ==
+* smiles:
+** CS(=O)CCC([N+])C(=O)[O-]
+* common name:
+** L-methionine-(R)-S-oxide
+* inchi key:
+** InChIKey=QEFRNWWLZKMPFJ-ZXPFJRLXSA-N
+* molecular weight:
+** 165.207    
+* Synonym(s):
+** L-methionine-R-sulfoxide
+
+== Reaction(s) known to consume the compound ==
+* [[1.8.4.14-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11862103 11862103]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58773 58773]
+* BIGG : metsox_R__L
+{{#set: smiles=CS(=O)CCC([N+])C(=O)[O-]}}
+{{#set: common name=L-methionine-(R)-S-oxide}}
+{{#set: inchi key=InChIKey=QEFRNWWLZKMPFJ-ZXPFJRLXSA-N}}
+{{#set: molecular weight=165.207    }}
+{{#set: common name=L-methionine-R-sulfoxide}}
+{{#set: consumed by=1.8.4.14-RXN}}

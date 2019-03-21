@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3550 ==
+* right end position:
+** 10783
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6783
+* centisome position:
+** 41.191475    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYLAMINOACYL-PEPTIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17892]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17893]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7799]]
+== External links  ==
+{{#set: right end position=10783}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6783}}
+{{#set: centisome position=41.191475    }}
+{{#set: reaction associated=ACYLAMINOACYL-PEPTIDASE-RXN|RXN-17892|RXN-17893}}
+{{#set: pathway associated=PWY-7799}}

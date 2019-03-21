@@ -1,0 +1,46 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13653 ==
+* right end position:
+** 6139
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3646
+* centisome position:
+** 34.35733    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[NUCLEOSIDE-DIPHOSPHATASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[NUCLEOSIDE-TRIPHOSPHATASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-12195]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-12196]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-14024]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-5462]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7184]]
+* [[PWY-7198]]
+* [[PWY-6545]]
+* [[PWY-7210]]
+== External links  ==
+{{#set: right end position=6139}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3646}}
+{{#set: centisome position=34.35733    }}
+{{#set: reaction associated=ATPASE-RXN|NUCLEOSIDE-DIPHOSPHATASE-RXN|NUCLEOSIDE-TRIPHOSPHATASE-RXN|RXN-12195|RXN-12196|RXN-14024|RXN0-5462}}
+{{#set: pathway associated=PWY-7184|PWY-7198|PWY-6545|PWY-7210}}

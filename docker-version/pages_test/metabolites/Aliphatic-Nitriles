@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Aliphatic-Nitriles Aliphatic-Nitriles] ==
+* common name:
+** an aliphatic nitrile
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[NITRILE-HYDRATASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an aliphatic nitrile}}
+{{#set: consumed by=NITRILE-HYDRATASE-RXN}}

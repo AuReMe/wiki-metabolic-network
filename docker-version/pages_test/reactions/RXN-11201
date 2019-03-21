@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11201 RXN-11201] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** sterol 24C methyltransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-12159]][c] '''+''' 1.0 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1.0 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1.0 [[CPD-12160]][c]
+* With common name(s):
+** 1.0 26,27-dehydrozymosterol[c] '''+''' 1.0 S-adenosyl-L-methionine[c] '''=>''' 1.0 S-adenosyl-L-homocysteine[c] '''+''' 1.0 24-alkyl sterol 1[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10757]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19883]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10659]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8895]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11071]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14051]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3977]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13974]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15903]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8634]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13588]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=sterol 24C methyltransferase}}
+{{#set: gene associated=Tiso_gene_10757|Tiso_gene_19883|Tiso_gene_10659|Tiso_gene_8895|Tiso_gene_11071|Tiso_gene_14051|Tiso_gene_3977|Tiso_gene_13974|Tiso_gene_15903|Tiso_gene_8634|Tiso_gene_13588}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8525 ==
+* right end position:
+** 8687
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6380
+* centisome position:
+** 62.71503    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15122]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[THREDEHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY66-428]]
+* [[ILEUSYN-PWY]]
+* [[PWY-5826]]
+* [[PWY-5437]]
+== External links  ==
+{{#set: right end position=8687}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6380}}
+{{#set: centisome position=62.71503    }}
+{{#set: reaction associated=RXN-15122|THREDEHYD-RXN}}
+{{#set: pathway associated=PWY66-428|ILEUSYN-PWY|PWY-5826|PWY-5437}}

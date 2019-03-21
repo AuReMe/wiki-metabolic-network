@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.11.9-RXN 3.4.11.9-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** xaa-pro_aminopeptidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.11.9 EC-3.4.11.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Peptides-holder]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Peptides-holder]][c] '''+''' 1 [[Amino-Acids-20]][c]
+* With common name(s):
+** 1 a peptide[c] '''+''' 1 H2O[c] '''=>''' 1 a peptide[c] '''+''' 1 a proteinogenic amino acid[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16185]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_14456]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_13488]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_13489]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P44881 P44881]
+** [http://www.uniprot.org/uniprot/P15034 P15034]
+** [http://www.uniprot.org/uniprot/P47566 P47566]
+** [http://www.uniprot.org/uniprot/P0A3Z2 P0A3Z2]
+** [http://www.uniprot.org/uniprot/Q95333 Q95333]
+** [http://www.uniprot.org/uniprot/Q09795 Q09795]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=xaa-pro_aminopeptidase}}
+{{#set: ec number=EC-3.4.11.9}}
+{{#set: gene associated=Tiso_gene_16185|Tiso_gene_14456|Tiso_gene_13488|Tiso_gene_13489}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,41 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14465 ==
+* right end position:
+** 5583
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1408
+* centisome position:
+** 24.973396    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[KETOPANTOALDOLASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[MTMOHT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PANTOATE-BETA-ALANINE-LIG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+* Reaction: [[R01226]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-15635]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PANTO-PWY]]
+* [[PWY-6654]]
+== External links  ==
+{{#set: right end position=5583}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1408}}
+{{#set: centisome position=24.973396    }}
+{{#set: reaction associated=3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN|KETOPANTOALDOLASE-RXN|MTMOHT|PANTOATE-BETA-ALANINE-LIG-RXN|R01226|RXN-15635}}
+{{#set: pathway associated=PANTO-PWY|PWY-6654}}

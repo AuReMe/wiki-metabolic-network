@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17568 ==
+* right end position:
+** 2674
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 917
+* centisome position:
+** 25.40166    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.7.60-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[NONMEVIPP-PWY]]
+* [[PWY-7560]]
+== External links  ==
+{{#set: right end position=2674}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=917}}
+{{#set: centisome position=25.40166    }}
+{{#set: reaction associated=2.7.7.60-RXN}}
+{{#set: pathway associated=NONMEVIPP-PWY|PWY-7560}}

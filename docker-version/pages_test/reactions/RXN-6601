@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-6601 RXN-6601] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** gamma-glutamyl_transferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.2.2 EC-2.3.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Amino-Acids-20]][c] '''+''' 1 [[GLUTATHIONE]][c] '''=>''' 1 [[5-L-GLUTAMYL-L-AMINO-ACID]][c] '''+''' 1 [[CYS-GLY]][c]
+* With common name(s):
+** 1 a proteinogenic amino acid[c] '''+''' 1 glutathione[c] '''=>''' 1 an (&gamma;-L-glutamyl)-L-amino acid[c] '''+''' 1 L-cysteinyl-glycine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12321]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-4041]], &gamma;-glutamyl cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-4041 PWY-4041]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=gamma-glutamyl_transferase}}
+{{#set: ec number=EC-2.3.2.2}}
+{{#set: gene associated=Tiso_gene_12321}}
+{{#set: in pathway=PWY-4041}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

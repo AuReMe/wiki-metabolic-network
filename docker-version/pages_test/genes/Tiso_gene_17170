@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17170 ==
+* right end position:
+** 3627
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2287
+* centisome position:
+** 59.110878    
+* Synonym(s):
+** FNR
+
+== Reactions associated ==
+* Reaction: [[1.18.1.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17897]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7230]]
+* [[PWY-101]]
+== External links  ==
+{{#set: right end position=3627}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2287}}
+{{#set: centisome position=59.110878    }}
+{{#set: common name=FNR}}
+{{#set: reaction associated=1.18.1.2-RXN|RXN-17897}}
+{{#set: pathway associated=PWY-7230|PWY-101}}

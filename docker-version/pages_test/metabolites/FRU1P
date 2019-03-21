@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FRU1P FRU1P] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(COP([O-])([O-])=O)(O)O1)
+* common name:
+** &beta;-D-fructofuranose 1-phosphate
+* inchi key:
+** InChIKey=RHKKZBWRNHGJEZ-ARQDHWQXSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** &beta;-D-fructofuranose-1-P
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8631]]
+== Reaction(s) known to produce the compound ==
+* [[KETOHEXOKINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 15978-08-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244216 25244216]
+* BIGG : f1p
+{{#set: smiles=C(O)C1(C(O)C(O)C(COP([O-])([O-])=O)(O)O1)}}
+{{#set: common name=&beta;-D-fructofuranose 1-phosphate}}
+{{#set: inchi key=InChIKey=RHKKZBWRNHGJEZ-ARQDHWQXSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=&beta;-D-fructofuranose-1-P}}
+{{#set: consumed by=RXN-8631}}
+{{#set: produced by=KETOHEXOKINASE-RXN}}

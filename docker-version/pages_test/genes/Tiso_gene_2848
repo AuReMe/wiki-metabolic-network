@@ -1,0 +1,45 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2848 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GGPS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GPPS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GPPSYN-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-11486]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9003]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9384]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5180]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7736]]
+* [[PWY-6859]]
+* [[PWY-7709]]
+* [[PWY-7102]]
+* [[PWY-7235]]
+* [[PWY-7182]]
+* [[PWY-7141]]
+* [[PWY-5123]]
+* [[PWY-5122]]
+* [[PWY-6520]]
+* [[PWY-6383]]
+* [[PWY-7659]]
+* [[PWY-5805]]
+* [[PWY-7410]]
+* [[PWY3O-19]]
+== External links  ==
+{{#set: reaction associated=GGPS|GPPS|GPPSYN-RXN|RXN-11486|RXN-9003|RXN-9384|RXN0-5180|TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-7736|PWY-6859|PWY-7709|PWY-7102|PWY-7235|PWY-7182|PWY-7141|PWY-5123|PWY-5122|PWY-6520|PWY-6383|PWY-7659|PWY-5805|PWY-7410|PWY3O-19}}

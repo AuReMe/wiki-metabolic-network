@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15924 CPD-15924] ==
+* smiles:
+** CCCCCCCCC=CCCCCCCCC(=O)OCC(COP([O-])([O-])=O)=O
+* common name:
+** 1-oleoyl-2-lyso-glycerone phosphate
+* inchi key:
+** InChIKey=YZKFNNQAEBNCEN-KTKRTIGZSA-L
+* molecular weight:
+** 432.493    
+* Synonym(s):
+** 1-oleoyl-2-lyso-dihydroxyacetone phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15046]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15044]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=86289257 86289257]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=77492 77492]
+{{#set: smiles=CCCCCCCCC=CCCCCCCCC(=O)OCC(COP([O-])([O-])=O)=O}}
+{{#set: common name=1-oleoyl-2-lyso-glycerone phosphate}}
+{{#set: inchi key=InChIKey=YZKFNNQAEBNCEN-KTKRTIGZSA-L}}
+{{#set: molecular weight=432.493    }}
+{{#set: common name=1-oleoyl-2-lyso-dihydroxyacetone phosphate}}
+{{#set: consumed by=RXN-15046}}
+{{#set: produced by=RXN-15044}}

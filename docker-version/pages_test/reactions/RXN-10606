@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-10606 RXN-10606] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** exostosin_family_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.17 EC-2.4.1.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-THYROXINE]][c] '''+''' 1 [[UDP-GLUCURONATE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[CPD-11398]][c] '''+''' 1 [[UDP]][c]
+* With common name(s):
+** 1 L-thyroxine[c] '''+''' 1 UDP-&alpha;-D-glucuronate[c] '''=>''' 1 H+[c] '''+''' 1 L-thyroxine phenolic &beta;-D-glucuronide[c] '''+''' 1 UDP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14141]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14140]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6261]], thyroid hormone metabolism II (via conjugation and/or degradation): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6261 PWY-6261]
+** '''11''' reactions found over '''15''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=exostosin_family_protein}}
+{{#set: ec number=EC-2.4.1.17}}
+{{#set: gene associated=Tiso_gene_14141|Tiso_gene_14140}}
+{{#set: in pathway=PWY-6261}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

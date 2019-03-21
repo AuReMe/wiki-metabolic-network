@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7860 CPD-7860] ==
+* smiles:
+** CC(=CC=CC=C(C=CC=C(C=CC1(C(CC(C(C=1C)=O)O)(C)C))C)C)C=CC=C(C)C=CC2(=C(CCCC2(C)C)C)
+* common name:
+** 3-hydroxyechinenone
+* inchi key:
+** InChIKey=DFNMSBYEEKBETA-GVVOHZSFSA-N
+* molecular weight:
+** 566.865    
+* Synonym(s):
+** 3-hydroxy-4-keto-&beta;,&beta;-carotene
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[R07562]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10120578 10120578]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8296099.html 8296099]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15966 C15966]
+{{#set: smiles=CC(=CC=CC=C(C=CC=C(C=CC1(C(CC(C(C=1C)=O)O)(C)C))C)C)C=CC=C(C)C=CC2(=C(CCCC2(C)C)C)}}
+{{#set: common name=3-hydroxyechinenone}}
+{{#set: inchi key=InChIKey=DFNMSBYEEKBETA-GVVOHZSFSA-N}}
+{{#set: molecular weight=566.865    }}
+{{#set: common name=3-hydroxy-4-keto-&beta;,&beta;-carotene}}
+{{#set: produced by=R07562}}

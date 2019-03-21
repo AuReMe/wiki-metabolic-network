@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1301 ==
+* right end position:
+** 24245
+* transcription direction:
+** POSITIVE
+* left end position:
+** 21878
+* centisome position:
+** 89.19238    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-14249]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[THREODEHYD-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[THREONINE-DEG2-PWY]]
+* [[THRDLCTCAT-PWY]]
+* [[PWY-7378]]
+== External links  ==
+{{#set: right end position=24245}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=21878}}
+{{#set: centisome position=89.19238    }}
+{{#set: reaction associated=RXN-14249|THREODEHYD-RXN}}
+{{#set: pathway associated=THREONINE-DEG2-PWY|THRDLCTCAT-PWY|PWY-7378}}

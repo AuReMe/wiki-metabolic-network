@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PANTETHEINE-P PANTETHEINE-P] ==
+* smiles:
+** CC(C(O)C(=O)NCCC(NCCS)=O)(C)COP([O-])(=O)[O-]
+* common name:
+** 4'-phosphopantetheine
+* inchi key:
+** InChIKey=JDMUPRLRUUMCTL-VIFPVBQESA-L
+* molecular weight:
+** 356.33    
+* Synonym(s):
+** phosphopantotheine
+** pantetheine 4'-phosphate
+** phosphopantetheine
+
+== Reaction(s) known to consume the compound ==
+* [[PANTEPADENYLYLTRAN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[P-PANTOCYSDECARB-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[PANTETHEINE-KINASE-RXN]]
+== External links  ==
+* BIGG : pan4p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245905 25245905]
+* HMDB : HMDB01416
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01134 C01134]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61723 61723]
+* METABOLIGHTS : MTBLC61723
+{{#set: smiles=CC(C(O)C(=O)NCCC(NCCS)=O)(C)COP([O-])(=O)[O-]}}
+{{#set: common name=4'-phosphopantetheine}}
+{{#set: inchi key=InChIKey=JDMUPRLRUUMCTL-VIFPVBQESA-L}}
+{{#set: molecular weight=356.33    }}
+{{#set: common name=phosphopantotheine|pantetheine 4'-phosphate|phosphopantetheine}}
+{{#set: consumed by=PANTEPADENYLYLTRAN-RXN}}
+{{#set: produced by=P-PANTOCYSDECARB-RXN}}
+{{#set: reversible reaction associated=PANTETHEINE-KINASE-RXN}}

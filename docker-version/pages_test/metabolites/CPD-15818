@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15818 CPD-15818] ==
+* smiles:
+** [CH](=O)C(O)C(O)C(O)CO
+* common name:
+** aldehydo-D-ribose
+* inchi key:
+** InChIKey=PYMYPHUHKUWMLA-LMVFSUKVSA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14883]]
+* [[RXN-14882]]
+* [[RXN0-5305]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5311110 5311110]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=47014 47014]
+* METABOLIGHTS : MTBLC47014
+{{#set: smiles=[CH](=O)C(O)C(O)C(O)CO}}
+{{#set: common name=aldehydo-D-ribose}}
+{{#set: inchi key=InChIKey=PYMYPHUHKUWMLA-LMVFSUKVSA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: reversible reaction associated=RXN-14883|RXN-14882|RXN0-5305}}

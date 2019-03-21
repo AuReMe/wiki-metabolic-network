@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7167 ==
+* right end position:
+** 5898
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1430
+* centisome position:
+** 12.507653    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-579]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-2301]]
+* [[PWY-4661]]
+* [[PWY-6580]]
+* [[PWY-6664]]
+* [[PWY1G-0]]
+* [[PWY-6372]]
+== External links  ==
+{{#set: right end position=5898}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1430}}
+{{#set: centisome position=12.507653    }}
+{{#set: reaction associated=MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN|RXN66-579}}
+{{#set: pathway associated=PWY-2301|PWY-4661|PWY-6580|PWY-6664|PWY1G-0|PWY-6372}}

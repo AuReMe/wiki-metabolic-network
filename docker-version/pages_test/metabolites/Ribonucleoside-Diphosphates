@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ribonucleoside-Diphosphates Ribonucleoside-Diphosphates] ==
+* common name:
+** a ribonucleoside diphosphate
+* Synonym(s):
+** a nucleoside diphosphate
+** ribonucleoside diphosphate
+** nucleoside diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RIBONUCLEOSIDE-DIP-REDUCTI-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a ribonucleoside diphosphate}}
+{{#set: common name=a nucleoside diphosphate|ribonucleoside diphosphate|nucleoside diphosphate}}
+{{#set: consumed by=RIBONUCLEOSIDE-DIP-REDUCTI-RXN}}

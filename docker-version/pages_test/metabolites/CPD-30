@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-30 CPD-30] ==
+* smiles:
+** CC(NCCC[CH]=O)=O
+* common name:
+** 4-acetamidobutanal
+* inchi key:
+** InChIKey=DDSLGZOYEPKPSJ-UHFFFAOYSA-N
+* molecular weight:
+** 129.158    
+* Synonym(s):
+** N-acetyl-&gamma;-aminobutyraldehyde
+** N-acetyl-4-aminobutanal
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-37]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=440850 440850]
+* HMDB : HMDB04226
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05936 C05936]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.389692.html 389692]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=7386 7386]
+* METABOLIGHTS : MTBLC7386
+{{#set: smiles=CC(NCCC[CH]=O)=O}}
+{{#set: common name=4-acetamidobutanal}}
+{{#set: inchi key=InChIKey=DDSLGZOYEPKPSJ-UHFFFAOYSA-N}}
+{{#set: molecular weight=129.158    }}
+{{#set: common name=N-acetyl-&gamma;-aminobutyraldehyde|N-acetyl-4-aminobutanal}}
+{{#set: consumed by=RXN-37}}

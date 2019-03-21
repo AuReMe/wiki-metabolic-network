@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15373 CPD-15373] ==
+* smiles:
+** [CH](=O)C(O)C(O)C(O)C(O)CO
+* common name:
+** aldehydo-D-mannose
+* inchi key:
+** InChIKey=GZCGUPFRVQAUEE-KVTDHHQDSA-N
+* molecular weight:
+** 180.157    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14501]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.1.1.255-RXN]]
+* [[RXN-14500]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=161658 161658]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=37675 37675]
+{{#set: smiles=[CH](=O)C(O)C(O)C(O)C(O)CO}}
+{{#set: common name=aldehydo-D-mannose}}
+{{#set: inchi key=InChIKey=GZCGUPFRVQAUEE-KVTDHHQDSA-N}}
+{{#set: molecular weight=180.157    }}
+{{#set: consumed by=RXN-14501}}
+{{#set: reversible reaction associated=1.1.1.255-RXN|RXN-14500}}

@@ -1,0 +1,25 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RME295 RME295] ==
+* direction:
+** REVERSIBLE
+* common name:
+** RME295
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NAD-P-OR-NOP]][c] '''<=>''' 1.0 [[NAD]][c]
+* With common name(s):
+** 1.0 NAD(P)+[c] '''<=>''' 1.0 NAD+[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=RME295}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

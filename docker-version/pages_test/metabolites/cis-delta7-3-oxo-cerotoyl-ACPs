@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-delta7-3-oxo-cerotoyl-ACPs cis-delta7-3-oxo-cerotoyl-ACPs] ==
+* common name:
+** a cis-delta7-3-oxo-C26:1-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-364]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-306]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis-delta7-3-oxo-C26:1-[acp]}}
+{{#set: consumed by=RXN1G-364}}
+{{#set: produced by=RXN1G-306}}

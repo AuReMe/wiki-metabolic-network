@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.4.1.83-RXN 2.4.1.83-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dolichol_phosphate_mannose
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.83 EC-2.4.1.83]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GDP-MANNOSE]][c] '''+''' 1 [[DOLICHOLP]][c] '''=>''' 1 [[GDP]][c] '''+''' 1 [[CPD-171]][c]
+* With common name(s):
+** 1 GDP-&alpha;-D-mannose[c] '''+''' 1 a dolichyl phosphate[c] '''=>''' 1 GDP[c] '''+''' 1 a dolichyl &beta;-D-mannosyl phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16772]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]], protein N-glycosylation (eukaryotic, high mannose): [http://metacyc.org/META/NEW-IMAGE?object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]
+** '''19''' reactions found over '''19''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21184 21184]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01009 R01009]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P14020 P14020]
+** [http://www.uniprot.org/uniprot/Q26732 Q26732]
+** [http://www.uniprot.org/uniprot/P54856 P54856]
+** [http://www.uniprot.org/uniprot/Q9TYJ7 Q9TYJ7]
+** [http://www.uniprot.org/uniprot/O14466 O14466]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dolichol_phosphate_mannose}}
+{{#set: ec number=EC-2.4.1.83}}
+{{#set: gene associated=Tiso_gene_16772}}
+{{#set: in pathway=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

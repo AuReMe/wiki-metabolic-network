@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R01220 R01220] ==
+* direction:
+** REVERSIBLE
+* common name:
+** R146
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NADP]][c] '''+''' 1.0 [[METHYLENE-THF]][c] '''<=>''' 1.0 [[NADPH]][c] '''+''' 1.0 [[5-10-METHENYL-THF]][c]
+* With common name(s):
+** 1.0 NADP+[c] '''+''' 1.0 5,10-methylenetetrahydropteroyl mono-L-glutamate[c] '''<=>''' 1.0 NADPH[c] '''+''' 1.0 5,10-methenyltetrahydrofolate mono-L-glutamate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_432]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=R146}}
+{{#set: gene associated=Tiso_gene_432}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

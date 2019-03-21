@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6681 PWY-6681] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** neurosporaxanthin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-11989]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4653]]
+*** [[Tiso_gene_7740]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11999]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7740]]
+*** [[Tiso_gene_4653]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11974 RXN-11974]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11976 RXN-11976]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11998 RXN-11998]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12000 RXN-12000]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12001 RXN-12001]
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=neurosporaxanthin biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

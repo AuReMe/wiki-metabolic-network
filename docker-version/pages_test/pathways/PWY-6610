@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6610 PWY-6610] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** adenine salvage
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[HYPOXANPRIBOSYLTRAN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13506]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ADENINE-DEAMINASE-RXN ADENINE-DEAMINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ADENPRIBOSYLTRAN-RXN ADENPRIBOSYLTRAN-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=adenine salvage}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7728 PWY-7728] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** (4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-16112]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16079 RXN-16079]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16113 RXN-16113]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16114 RXN-16114]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17118 RXN-17118]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

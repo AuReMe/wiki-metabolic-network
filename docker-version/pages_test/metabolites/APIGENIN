@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=APIGENIN APIGENIN] ==
+* smiles:
+** C2(C(C=CC(C1(C(=CC(=CC(O)=1)O)O))=O)=CC=C(C=2)O)
+* common name:
+** 2',4,4',6'-tetrahydroxychalcone
+* inchi key:
+** InChIKey=YQHMWTPYORBCMF-ZZXKWVIFSA-N
+* molecular weight:
+** 272.257    
+* Synonym(s):
+** naringenin chalcone
+** chalconaringenin
+** 2'4'6'4-Tetrahydroxychalcone
+** Isosalipurpol
+** tetrahydroxychalcone
+** 3-(4-hydroxyphemyl)-1-(2,4,6-trihydroxyphenyl)prop-2-en-1-one
+
+== Reaction(s) known to consume the compound ==
+* [[APIGNAR-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 73692-50-9
+* LIPID_MAPS : LMPK12120264
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280960 5280960]
+* HMDB : HMDB29631
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06561 C06561]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444447.html 4444447]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15413 15413]
+* METABOLIGHTS : MTBLC15413
+{{#set: smiles=C2(C(C=CC(C1(C(=CC(=CC(O)=1)O)O))=O)=CC=C(C=2)O)}}
+{{#set: common name=2',4,4',6'-tetrahydroxychalcone}}
+{{#set: inchi key=InChIKey=YQHMWTPYORBCMF-ZZXKWVIFSA-N}}
+{{#set: molecular weight=272.257    }}
+{{#set: common name=naringenin chalcone|chalconaringenin|2'4'6'4-Tetrahydroxychalcone|Isosalipurpol|tetrahydroxychalcone|3-(4-hydroxyphemyl)-1-(2,4,6-trihydroxyphenyl)prop-2-en-1-one}}
+{{#set: consumed by=APIGNAR-RXN}}

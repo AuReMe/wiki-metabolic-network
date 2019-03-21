@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-292 CPD-292] ==
+* smiles:
+** CCCCCCCCCCCCCC=C[CH]=O
+* common name:
+** (2E)-hexadecenal
+* inchi key:
+** InChIKey=KLJFYXOVGVXZKT-CCEZHUSRSA-N
+* molecular weight:
+** 238.412    
+* Synonym(s):
+** trans-hexadec-2-enal
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN3DJ-11230]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMFA06000089
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280541 5280541]
+* HMDB : HMDB60482
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06123 C06123]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444172.html 4444172]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17585 17585]
+{{#set: smiles=CCCCCCCCCCCCCC=C[CH]=O}}
+{{#set: common name=(2E)-hexadecenal}}
+{{#set: inchi key=InChIKey=KLJFYXOVGVXZKT-CCEZHUSRSA-N}}
+{{#set: molecular weight=238.412    }}
+{{#set: common name=trans-hexadec-2-enal}}
+{{#set: produced by=RXN3DJ-11230}}

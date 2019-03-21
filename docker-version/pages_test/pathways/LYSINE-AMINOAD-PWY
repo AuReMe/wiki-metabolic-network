@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-AMINOAD-PWY LYSINE-AMINOAD-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** L-lysine biosynthesis IV
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''9''' reactions in the full pathway
+* [[1.5.1.7-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1156]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[2-AMINOADIPATE-AMINOTRANSFERASE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[HOMOACONITATE-HYDRATASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12778]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=HOMOCITRATE-SYNTHASE-RXN HOMOCITRATE-SYNTHASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16757 RXN-16757]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16758 RXN-16758]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7970 RXN-7970]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-127 RXN3O-127]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-1983 RXN3O-1983]
+== External links  ==
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=L-lysine biosynthesis IV}}
+{{#set: reaction found=3}}
+{{#set: total reaction=9}}
+{{#set: completion rate=33.0}}

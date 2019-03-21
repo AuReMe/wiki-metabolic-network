@@ -1,0 +1,49 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=G3P G3P] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C(O)C(=O)[O-]
+* common name:
+** 3-phospho-D-glycerate
+* inchi key:
+** InChIKey=OSJPPGNTCRNQQC-UWTATZPHSA-K
+* molecular weight:
+** 183.034    
+* Synonym(s):
+** 3-phospho-(R)-glycerate
+** 3-phospho-D-glyceric acid
+** 3-P-D-glycerate
+** D-glycerate-3-P
+** D-glycerate 3-phosphate
+** 3-phosphoglycerate
+** D-3-phosphoglycerate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ACPh]]
+* [[GLY3KIN-RXN]]
+* [[RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[3PGAREARR-RXN]]
+* [[PGLYCDEHYDROG-RXN]]
+* [[3PG_pi_thr]]
+* [[RXN-15513]]
+* [[RXN-15511]]
+* [[PHOSGLYPHOS-RXN]]
+== External links  ==
+* CAS : 820-11-1
+* BIGG : 3pg
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245548 25245548]
+* HMDB : HMDB60180
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00197 C00197]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58272 58272]
+* METABOLIGHTS : MTBLC58272
+{{#set: smiles=C(OP(=O)([O-])[O-])C(O)C(=O)[O-]}}
+{{#set: common name=3-phospho-D-glycerate}}
+{{#set: inchi key=InChIKey=OSJPPGNTCRNQQC-UWTATZPHSA-K}}
+{{#set: molecular weight=183.034    }}
+{{#set: common name=3-phospho-(R)-glycerate|3-phospho-D-glyceric acid|3-P-D-glycerate|D-glycerate-3-P|D-glycerate 3-phosphate|3-phosphoglycerate|D-3-phosphoglycerate}}
+{{#set: produced by=ACPh|GLY3KIN-RXN|RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN}}
+{{#set: reversible reaction associated=3PGAREARR-RXN|PGLYCDEHYDROG-RXN|3PG_pi_thr|RXN-15513|RXN-15511|PHOSGLYPHOS-RXN}}

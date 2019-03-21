@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8614 CPD-8614] ==
+* smiles:
+** CC(C)CCCC([CH]4(C1(C)([CH](C2(=C(CC1)C3(C)([CH](CC2)C(C)C(=O)CC3)))CC4)))C
+* common name:
+** 4&alpha;-methyl-5&alpha;-cholesta-8-en-3-one
+* inchi key:
+** InChIKey=SDZUXFFGOQZLPK-SINUOACOSA-N
+* molecular weight:
+** 398.671    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN66-18]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44263323 44263323]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87050 87050]
+* HMDB : HMDB12174
+{{#set: smiles=CC(C)CCCC([CH]4(C1(C)([CH](C2(=C(CC1)C3(C)([CH](CC2)C(C)C(=O)CC3)))CC4)))C}}
+{{#set: common name=4&alpha;-methyl-5&alpha;-cholesta-8-en-3-one}}
+{{#set: inchi key=InChIKey=SDZUXFFGOQZLPK-SINUOACOSA-N}}
+{{#set: molecular weight=398.671    }}
+{{#set: produced by=RXN66-18}}

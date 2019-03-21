@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9823 ==
+* right end position:
+** 9001
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6352
+* centisome position:
+** 70.22665    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UDPGLUCEPIM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[UG4E]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-3821]]
+* [[PWY-6397]]
+* [[PWY-6317]]
+* [[PWY-6527]]
+* [[PWY-7328]]
+* [[COLANSYN-PWY]]
+* [[PWY66-422]]
+* [[PWY-7344]]
+== External links  ==
+{{#set: right end position=9001}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6352}}
+{{#set: centisome position=70.22665    }}
+{{#set: reaction associated=UDPGLUCEPIM-RXN|UG4E}}
+{{#set: pathway associated=PWY-3821|PWY-6397|PWY-6317|PWY-6527|PWY-7328|COLANSYN-PWY|PWY66-422|PWY-7344}}

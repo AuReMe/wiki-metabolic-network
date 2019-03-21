@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11752 CPD-11752] ==
+* smiles:
+** COC1(C(CO)OC(C(C1O)O)N7(C2(C(=CC=CC=2C6(C3(C(NC(C=3C5(C4(C=CC=C(C=4NC=5C=67)Cl)))=O)=O)))Cl)))
+* common name:
+** rebeccamycin
+* inchi key:
+** InChIKey=QEHOIJJIZXRMAN-QZQSLCQPSA-N
+* molecular weight:
+** 570.385    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10847]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C19701 C19701]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.65891.html 65891]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=135511 135511]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=73110 73110]
+{{#set: smiles=COC1(C(CO)OC(C(C1O)O)N7(C2(C(=CC=CC=2C6(C3(C(NC(C=3C5(C4(C=CC=C(C=4NC=5C=67)Cl)))=O)=O)))Cl)))}}
+{{#set: common name=rebeccamycin}}
+{{#set: inchi key=InChIKey=QEHOIJJIZXRMAN-QZQSLCQPSA-N}}
+{{#set: molecular weight=570.385    }}
+{{#set: produced by=RXN-10847}}

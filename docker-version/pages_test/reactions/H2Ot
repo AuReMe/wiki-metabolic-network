@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=H2Ot H2Ot] ==
+* direction:
+** REVERSIBLE
+* common name:
+** H2O transport, extracellular
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][e] '''<=>''' 1.0 [[WATER]][c]
+* With common name(s):
+** 1.0 H2O[e] '''<=>''' 1.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11818]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=H2O transport, extracellular}}
+{{#set: gene associated=Tiso_gene_11818}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

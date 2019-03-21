@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11635 ==
+* right end position:
+** 4962
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4192
+* centisome position:
+** 54.740143    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DAPASYN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DETHIOBIOTIN-SYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY0-1507]]
+* [[PWY-7380]]
+== External links  ==
+{{#set: right end position=4962}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4192}}
+{{#set: centisome position=54.740143    }}
+{{#set: reaction associated=DAPASYN-RXN|DETHIOBIOTIN-SYN-RXN}}
+{{#set: pathway associated=PWY0-1507|PWY-7380}}

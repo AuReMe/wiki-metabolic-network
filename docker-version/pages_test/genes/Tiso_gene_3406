@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3406 ==
+* right end position:
+** 6659
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4
+* centisome position:
+** 2.390485700e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6659}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4}}
+{{#set: centisome position=2.390485700e-2}}
+{{#set: reaction associated=ATPASE-RXN}}

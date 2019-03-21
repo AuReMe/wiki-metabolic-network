@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-786 CPD-786] ==
+* smiles:
+** C(CCC=CC(C([O-])=O)=O)([O-])=O
+* common name:
+** (4Z)-2-oxohept-4-enedioate
+* inchi key:
+** InChIKey=HYVSZVZMTYIHKF-IWQZZHSRSA-L
+* molecular weight:
+** 170.121    
+* Synonym(s):
+** OHED
+** 2-oxo-hept-3-ene-1,7-dioate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN1K-87]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9543150 9543150]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573699.html 4573699]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17205 17205]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03063 C03063]
+{{#set: smiles=C(CCC=CC(C([O-])=O)=O)([O-])=O}}
+{{#set: common name=(4Z)-2-oxohept-4-enedioate}}
+{{#set: inchi key=InChIKey=HYVSZVZMTYIHKF-IWQZZHSRSA-L}}
+{{#set: molecular weight=170.121    }}
+{{#set: common name=OHED|2-oxo-hept-3-ene-1,7-dioate}}
+{{#set: produced by=RXN1K-87}}

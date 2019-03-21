@@ -1,0 +1,67 @@
+[[Category:Gene]]
+== Gene Tiso_gene_897 ==
+* right end position:
+** 23633
+* transcription direction:
+** POSITIVE
+* left end position:
+** 21958
+* centisome position:
+** 62.42324    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.145-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[1.1.1.170-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12693]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12747]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12789]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13926]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-18]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-23]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-313]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-318]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-342]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-350]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-353]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY66-341]]
+* [[PWY-7299]]
+* [[PWY-6074]]
+* [[PWY66-378]]
+* [[PWY66-3]]
+* [[PWY66-4]]
+* [[PWY-6944]]
+* [[PWY-6946]]
+* [[PWY-6948]]
+== External links  ==
+{{#set: right end position=23633}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=21958}}
+{{#set: centisome position=62.42324    }}
+{{#set: reaction associated=1.1.1.145-RXN|1.1.1.170-RXN|RXN-12693|RXN-12747|RXN-12789|RXN-13926|RXN66-18|RXN66-23|RXN66-313|RXN66-318|RXN66-342|RXN66-350|RXN66-353}}
+{{#set: pathway associated=PWY66-341|PWY-7299|PWY-6074|PWY66-378|PWY66-3|PWY66-4|PWY-6944|PWY-6946|PWY-6948}}

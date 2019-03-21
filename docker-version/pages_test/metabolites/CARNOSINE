@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CARNOSINE CARNOSINE] ==
+* smiles:
+** C(CC(=O)NC(CC1(=CNC=N1))C([O-])=O)[N+]
+* common name:
+** carnosine
+* inchi key:
+** InChIKey=CQOVPNPJLQNMDC-ZETCQYMHSA-N
+* molecular weight:
+** 226.235    
+* Synonym(s):
+** ignotine
+** N-&beta;-alanyl-L-histidine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[CARNOSINE-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00386 C00386]
+* HMDB : HMDB00033
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57485 57485]
+* METABOLIGHTS : MTBLC15727
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6992100 6992100]
+{{#set: smiles=C(CC(=O)NC(CC1(=CNC=N1))C([O-])=O)[N+]}}
+{{#set: common name=carnosine}}
+{{#set: inchi key=InChIKey=CQOVPNPJLQNMDC-ZETCQYMHSA-N}}
+{{#set: molecular weight=226.235    }}
+{{#set: common name=ignotine|N-&beta;-alanyl-L-histidine}}
+{{#set: produced by=CARNOSINE-SYNTHASE-RXN}}

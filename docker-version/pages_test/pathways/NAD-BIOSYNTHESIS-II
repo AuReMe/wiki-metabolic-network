@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=NAD-BIOSYNTHESIS-II NAD-BIOSYNTHESIS-II] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** NAD salvage pathway III
+* Synonym(s):
+** nicotinamide adenine dinucleotide salvage
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-5822]]
+** 8 associated gene(s):
+*** [[Tiso_gene_9372]]
+*** [[Tiso_gene_17309]]
+*** [[Tiso_gene_15256]]
+*** [[Tiso_gene_3271]]
+*** [[Tiso_gene_8159]]
+*** [[Tiso_gene_10738]]
+*** [[Tiso_gene_5996]]
+*** [[Tiso_gene_17310]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-5841]]
+** 7 associated gene(s):
+*** [[Tiso_gene_5911]]
+*** [[Tiso_gene_6988]]
+*** [[Tiso_gene_13929]]
+*** [[Tiso_gene_14434]]
+*** [[Tiso_gene_14246]]
+*** [[Tiso_gene_6640]]
+*** [[Tiso_gene_14435]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=NADPYROPHOSPHAT-RXN NADPYROPHOSPHAT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY3O-4106 PWY3O-4106]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY3O-4106 PWY3O-4106]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=NAD-BIOSYNTHESIS-II NAD-BIOSYNTHESIS-II]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=NAD salvage pathway III}}
+{{#set: common name=nicotinamide adenine dinucleotide salvage}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

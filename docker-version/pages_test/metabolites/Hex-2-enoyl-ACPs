@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Hex-2-enoyl-ACPs Hex-2-enoyl-ACPs] ==
+* common name:
+** a trans hex-2-enoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9521]]
+* [[RXN-9658]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9520]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans hex-2-enoyl-[acp]}}
+{{#set: consumed by=RXN-9521|RXN-9658}}
+{{#set: produced by=RXN-9520}}

@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13392 ==
+* right end position:
+** 3099
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1460
+* centisome position:
+** 23.086653    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ETHANOLAMINEPHOSPHOTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17731]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7782]]
+* [[PWY4FS-6]]
+== External links  ==
+{{#set: right end position=3099}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1460}}
+{{#set: centisome position=23.086653    }}
+{{#set: reaction associated=ETHANOLAMINEPHOSPHOTRANSFERASE-RXN|RXN-17731}}
+{{#set: pathway associated=PWY-7782|PWY4FS-6}}

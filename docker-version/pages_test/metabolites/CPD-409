@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-409 CPD-409] ==
+* common name:
+** a 2-acylglycerol
+* Synonym(s):
+** a 2-monoglyceride
+** a 2-glyceride
+** a 2-MAG
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-1603]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-1602]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12383]]
+== External links  ==
+{{#set: common name=a 2-acylglycerol}}
+{{#set: common name=a 2-monoglyceride|a 2-glyceride|a 2-MAG}}
+{{#set: consumed by=RXN-1603}}
+{{#set: produced by=RXN-1602}}
+{{#set: reversible reaction associated=RXN-12383}}

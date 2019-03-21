@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ITP ITP] ==
+* smiles:
+** C(OP(=O)([O-])OP([O-])(=O)OP([O-])([O-])=O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC=NC=23)))
+* common name:
+** ITP
+* inchi key:
+** InChIKey=HAEJPQIATWHALX-KQYNXXCUSA-J
+* molecular weight:
+** 504.137    
+* Synonym(s):
+** inosine triphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5073]]
+* [[ITPP]]
+* [[ITUP]]
+* [[RXN0-6382]]
+* [[ITCY]]
+== Reaction(s) known to produce the compound ==
+* [[ATIDm]]
+* [[ATID]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14120]]
+== External links  ==
+* CAS : 132-06-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25796439 25796439]
+* HMDB : HMDB00189
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00081 C00081]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61402 61402]
+* BIGG : itp
+{{#set: smiles=C(OP(=O)([O-])OP([O-])(=O)OP([O-])([O-])=O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC=NC=23)))}}
+{{#set: common name=ITP}}
+{{#set: inchi key=InChIKey=HAEJPQIATWHALX-KQYNXXCUSA-J}}
+{{#set: molecular weight=504.137    }}
+{{#set: common name=inosine triphosphate}}
+{{#set: consumed by=RXN0-5073|ITPP|ITUP|RXN0-6382|ITCY}}
+{{#set: produced by=ATIDm|ATID}}
+{{#set: reversible reaction associated=RXN-14120}}

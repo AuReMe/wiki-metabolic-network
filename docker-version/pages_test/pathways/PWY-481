@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-481 PWY-481] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** ethylbenzene degradation (anaerobic)
+* Synonym(s):
+** anaerobic ethylbenzene oxidation
+** anaerobic ethylbenzene degradation
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-1302]]
+** 2 associated gene(s):
+*** [[Tiso_gene_16359]]
+*** [[Tiso_gene_19772]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-2006]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16181]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1301 RXN-1301]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1303 RXN-1303]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1304 RXN-1304]
+== External links  ==
+* UM-BBD-PWY : ethb
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=ethylbenzene degradation (anaerobic)}}
+{{#set: common name=anaerobic ethylbenzene oxidation|anaerobic ethylbenzene degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

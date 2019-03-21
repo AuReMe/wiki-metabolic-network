@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8619 CPD-8619] ==
+* smiles:
+** CC(C)CCCC([CH]4(C1(C)([CH](C2(=C(CC1)C3(C)([CH](CC2)C(C([O-])=O)C(O)CC3)))CC4)))C
+* common name:
+** 4&alpha;-carboxy-5&alpha;-cholesta-8-en-3&beta;-ol
+* inchi key:
+** InChIKey=RODBXVVNKJCWQR-GSQAGGHASA-M
+* molecular weight:
+** 429.662    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-23]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91826593 91826593]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87055 87055]
+* HMDB : HMDB12166
+{{#set: smiles=CC(C)CCCC([CH]4(C1(C)([CH](C2(=C(CC1)C3(C)([CH](CC2)C(C([O-])=O)C(O)CC3)))CC4)))C}}
+{{#set: common name=4&alpha;-carboxy-5&alpha;-cholesta-8-en-3&beta;-ol}}
+{{#set: inchi key=InChIKey=RODBXVVNKJCWQR-GSQAGGHASA-M}}
+{{#set: molecular weight=429.662    }}
+{{#set: consumed by=RXN66-23}}

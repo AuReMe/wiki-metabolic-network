@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2983 ==
+* right end position:
+** 17278
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 12463
+* centisome position:
+** 70.028656    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-12086]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12579]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[TRIACYLGLYCEROL-LIPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[LIPAS-PWY]]
+* [[PWY-6857]]
+== External links  ==
+{{#set: right end position=17278}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=12463}}
+{{#set: centisome position=70.028656    }}
+{{#set: reaction associated=RXN-12086|RXN-12579|TRIACYLGLYCEROL-LIPASE-RXN}}
+{{#set: pathway associated=LIPAS-PWY|PWY-6857}}

@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14511 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYLCOADEHYDROG-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14193]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14229]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14262]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14264]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14278]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[FAO-PWY]]
+== External links  ==
+{{#set: reaction associated=ACYLCOADEHYDROG-RXN|LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN|RXN-14193|RXN-14229|RXN-14262|RXN-14264|RXN-14278}}
+{{#set: pathway associated=FAO-PWY}}

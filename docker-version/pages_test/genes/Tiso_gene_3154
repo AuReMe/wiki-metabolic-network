@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3154 ==
+* right end position:
+** 5720
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4220
+* centisome position:
+** 24.312956    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5720}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4220}}
+{{#set: centisome position=24.312956    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DCMP-DEAMINASE-RXN DCMP-DEAMINASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.12 EC-3.5.4.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[DCMP]][c] '''=>''' 1 [[DUMP]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 H+[c] '''+''' 1 dCMP[c] '''=>''' 1 dUMP[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2978]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7210]], pyrimidine deoxyribonucleotides biosynthesis from CTP: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7210 PWY-7210]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22924 22924]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01663 R01663]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P32321 P32321]
+** [http://www.uniprot.org/uniprot/P00814 P00814]
+** [http://www.uniprot.org/uniprot/P16006 P16006]
+** [http://www.uniprot.org/uniprot/P06773 P06773]
+** [http://www.uniprot.org/uniprot/O74069 O74069]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.5.4.12}}
+{{#set: gene associated=Tiso_gene_2978}}
+{{#set: in pathway=PWY-7210}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

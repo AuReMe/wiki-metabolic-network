@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7315 PWY-7315] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** dTDP-N-acetylthomosamine biosynthesis
+* Synonym(s):
+** dTDP-4-acetamido-&alpha;-D-fucose biosynthesis
+** dTDP-4-acetamido-4,6-dideoxy-&alpha;-D-galactose biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[DTDPGLUCDEHYDRAT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7329]]
+*** [[Tiso_gene_12394]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[DTDPGLUCOSEPP-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14704]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RFFTRANS-RXN RFFTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=TDPFUCACTRANS-RXN TDPFUCACTRANS-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-7315 PWY-7315]
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=dTDP-N-acetylthomosamine biosynthesis}}
+{{#set: common name=dTDP-4-acetamido-&alpha;-D-fucose biosynthesis|dTDP-4-acetamido-4,6-dideoxy-&alpha;-D-galactose biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

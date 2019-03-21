@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=IS30-with-Integrated-Transposon IS30-with-Integrated-Transposon] ==
+* common name:
+** an insertion sequence IS30 with integrated transposon
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-5131]]
+== External links  ==
+{{#set: common name=an insertion sequence IS30 with integrated transposon}}
+{{#set: reversible reaction associated=RXN0-5131}}

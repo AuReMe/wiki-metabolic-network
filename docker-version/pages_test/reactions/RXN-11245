@@ -1,0 +1,68 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11245 RXN-11245] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** hydroxyacyl-coenzyme_a_dehydrogenase_3-ketoacyl-coenzyme_a_thiolase_enoyl-coenzyme_a_hydratasealpha_subunit
+** 3-hydroxyacyl-_dehydrogenase
+** hydroxyacyl-coenzyme_a_mitochondrial
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.35 EC-1.1.1.35]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-12199]][c] '''+''' 1 [[NAD]][c] '''=>''' 1 [[NADH]][c] '''+''' 1 [[CPD-10600]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 3S-(4-hydroxyphenyl)-3-hydroxy-propanoyl-CoA[c] '''+''' 1 NAD+[c] '''=>''' 1 NADH[c] '''+''' 1 4-hydroxybenzoyl-acetyl-CoA[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18838]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14262]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5857]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14026]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14027]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18839]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6435]], 4-hydroxybenzoate biosynthesis V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6435 PWY-6435]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=hydroxyacyl-coenzyme_a_dehydrogenase_3-ketoacyl-coenzyme_a_thiolase_enoyl-coenzyme_a_hydratasealpha_subunit}}
+{{#set: common name=3-hydroxyacyl-_dehydrogenase}}
+{{#set: common name=hydroxyacyl-coenzyme_a_mitochondrial}}
+{{#set: ec number=EC-1.1.1.35}}
+{{#set: gene associated=Tiso_gene_18838|Tiso_gene_14262|Tiso_gene_5857|Tiso_gene_14026|Tiso_gene_14027|Tiso_gene_18839}}
+{{#set: in pathway=PWY-6435}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

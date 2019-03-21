@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11760 ==
+* right end position:
+** 1254
+* transcription direction:
+** POSITIVE
+* left end position:
+** 307
+* centisome position:
+** 1.9429151    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.4.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1254}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=307}}
+{{#set: centisome position=1.9429151    }}
+{{#set: reaction associated=1.1.4.1-RXN}}

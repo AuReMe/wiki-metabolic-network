@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16502 ==
+* right end position:
+** 2320
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 319
+* centisome position:
+** 7.3928156    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[F16BDEPHOS-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[SEDOHEPTULOSE-BISPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[GLUCONEO-PWY]]
+* [[SUCSYN-PWY]]
+* [[GLYCOLYSIS]]
+* [[CALVIN-PWY]]
+* [[PWY-5484]]
+* [[P185-PWY]]
+* [[PWY66-399]]
+== External links  ==
+{{#set: right end position=2320}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=319}}
+{{#set: centisome position=7.3928156    }}
+{{#set: reaction associated=F16BDEPHOS-RXN|SEDOHEPTULOSE-BISPHOSPHATASE-RXN}}
+{{#set: pathway associated=GLUCONEO-PWY|SUCSYN-PWY|GLYCOLYSIS|CALVIN-PWY|PWY-5484|P185-PWY|PWY66-399}}

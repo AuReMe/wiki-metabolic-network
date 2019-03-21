@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8723 ==
+* right end position:
+** 4472
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1
+* centisome position:
+** 1.004520400e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GPH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[QUINOPRIBOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5316]]
+* [[PWY-5653]]
+* [[PYRIDNUCSYN-PWY]]
+* [[PWY-181]]
+* [[PWY-7342]]
+== External links  ==
+{{#set: right end position=4472}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1}}
+{{#set: centisome position=1.004520400e-2}}
+{{#set: reaction associated=GPH-RXN|QUINOPRIBOTRANS-RXN}}
+{{#set: pathway associated=PWY-5316|PWY-5653|PYRIDNUCSYN-PWY|PWY-181|PWY-7342}}

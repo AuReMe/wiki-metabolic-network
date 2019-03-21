@@ -1,0 +1,57 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9915 ==
+* right end position:
+** 8810
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3292
+* centisome position:
+** 36.671494    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADPREDUCT-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[CDPREDUCT-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GDPREDUCT-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RIBONUCLEOSIDE-DIP-REDUCTI-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RIBONUCLEOSIDE-DIP-REDUCTII-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-722]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-747]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-748]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UDPREDUCT-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7210]]
+* [[PWY-7198]]
+* [[PWY-7220]]
+* [[PWY-7184]]
+* [[PWY-7222]]
+* [[PWY0-166]]
+* [[PWY-7227]]
+* [[PWY-7226]]
+* [[PWY-6545]]
+== External links  ==
+{{#set: right end position=8810}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3292}}
+{{#set: centisome position=36.671494    }}
+{{#set: reaction associated=ADPREDUCT-RXN|CDPREDUCT-RXN|GDPREDUCT-RXN|RIBONUCLEOSIDE-DIP-REDUCTI-RXN|RIBONUCLEOSIDE-DIP-REDUCTII-RXN|RXN0-722|RXN0-747|RXN0-748|UDPREDUCT-RXN}}
+{{#set: pathway associated=PWY-7210|PWY-7198|PWY-7220|PWY-7184|PWY-7222|PWY0-166|PWY-7227|PWY-7226|PWY-6545}}

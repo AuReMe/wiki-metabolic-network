@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5785 PWY-5785] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** di-trans,poly-cis-undecaprenyl phosphate biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-8999]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8531]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=UNDECAPRENYL-DIPHOSPHATASE-RXN UNDECAPRENYL-DIPHOSPHATASE-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-5785 PWY-5785]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=di-trans,poly-cis-undecaprenyl phosphate biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

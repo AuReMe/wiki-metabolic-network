@@ -1,0 +1,47 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2556 ==
+* right end position:
+** 25186
+* transcription direction:
+** POSITIVE
+* left end position:
+** 22961
+* centisome position:
+** 91.15125    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.1.64-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[CARBOXYLESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RETINYL-PALMITATE-ESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10711]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10767]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12252]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12575]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXNQT-4366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6857]]
+* [[PWY-6303]]
+== External links  ==
+{{#set: right end position=25186}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=22961}}
+{{#set: centisome position=91.15125    }}
+{{#set: reaction associated=3.1.1.64-RXN|CARBOXYLESTERASE-RXN|RETINYL-PALMITATE-ESTERASE-RXN|RXN-10711|RXN-10767|RXN-12252|RXN-12575|RXNQT-4366}}
+{{#set: pathway associated=PWY-6857|PWY-6303}}

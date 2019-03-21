@@ -1,0 +1,22 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2584 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LEUCYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17846]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17847]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17848]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7801]]
+== External links  ==
+{{#set: reaction associated=LEUCYLTRANSFERASE-RXN|RXN-17846|RXN-17847|RXN-17848}}
+{{#set: pathway associated=PWY-7801}}

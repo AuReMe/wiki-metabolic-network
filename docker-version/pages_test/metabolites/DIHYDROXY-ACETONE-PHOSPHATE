@@ -1,0 +1,59 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROXY-ACETONE-PHOSPHATE DIHYDROXY-ACETONE-PHOSPHATE] ==
+* smiles:
+** C(C(=O)CO)OP([O-])([O-])=O
+* common name:
+** glycerone phosphate
+* inchi key:
+** InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
+* molecular weight:
+** 168.043    
+* Synonym(s):
+** DHAP
+** dihydroxyacetone phosphate
+** dihydroxyacetone-P
+** di-OH-acetone-P
+** dihydroxy-acetone phosphate
+** 3-hydroxy-2-oxopropyl phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[G3PD3]]
+* [[RXN-15044]]
+* [[1.1.1.8-RXN]]
+* [[GLYC3PDEHYDROGBIOSYN-RXN]]
+* [[RXN0-5257]]
+== Reaction(s) known to produce the compound ==
+* [[GLYCERONE-KINASE-RXN]]
+* [[2.7.1.121-RXN]]
+* [[RXN-8631]]
+* [[RXN0-5260]]
+* [[RXN-15745]]
+* [[RXN-15740]]
+== Reaction(s) of unknown directionality ==
+* [[FPGPL]]
+* [[G3PD2]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+* [[DHAP_pi_thr]]
+* [[SEDOBISALDOL-RXN]]
+* [[F16ALDOLASE-RXN]]
+== External links  ==
+* CAS : 57-04-5
+* BIGG : dhap
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4643300 4643300]
+* HMDB : HMDB01473
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00111 C00111]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3833110.html 3833110]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57642 57642]
+* METABOLIGHTS : MTBLC57642
+{{#set: smiles=C(C(=O)CO)OP([O-])([O-])=O}}
+{{#set: common name=glycerone phosphate}}
+{{#set: inchi key=InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L}}
+{{#set: molecular weight=168.043    }}
+{{#set: common name=DHAP|dihydroxyacetone phosphate|dihydroxyacetone-P|di-OH-acetone-P|dihydroxy-acetone phosphate|3-hydroxy-2-oxopropyl phosphate}}
+{{#set: consumed by=G3PD3|RXN-15044|1.1.1.8-RXN|GLYC3PDEHYDROGBIOSYN-RXN|RXN0-5257}}
+{{#set: produced by=GLYCERONE-KINASE-RXN|2.7.1.121-RXN|RXN-8631|RXN0-5260|RXN-15745|RXN-15740}}
+{{#set: reversible reaction associated=FPGPL|G3PD2|TRIOSEPISOMERIZATION-RXN|DHAP_pi_thr|SEDOBISALDOL-RXN|F16ALDOLASE-RXN}}

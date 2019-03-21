@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6496 ==
+* right end position:
+** 3284
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2629
+* centisome position:
+** 21.682474    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.224-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6558]]
+== External links  ==
+{{#set: right end position=3284}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2629}}
+{{#set: centisome position=21.682474    }}
+{{#set: reaction associated=2.4.1.224-RXN}}
+{{#set: pathway associated=PWY-6558}}

@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9869 CPD-9869] ==
+* smiles:
+** CC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCC1(C(=C(OC)C=C(C=1)O)O))C)C)C)C)C)C)C)C)C)C
+* common name:
+** 2-methoxy-6-all trans-decaprenyl-2-methoxy-1,4-benzoquinol
+* inchi key:
+** InChIKey=LIOKNOIJMJKVCG-RDSVHMIISA-N
+* molecular weight:
+** 821.32    
+* Synonym(s):
+** 2-methoxy-6-decaprenyl-2-methoxy-1,4-benzoquinol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9235]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=50986248 50986248]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=64180 64180]
+{{#set: smiles=CC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCC1(C(=C(OC)C=C(C=1)O)O))C)C)C)C)C)C)C)C)C)C}}
+{{#set: common name=2-methoxy-6-all trans-decaprenyl-2-methoxy-1,4-benzoquinol}}
+{{#set: inchi key=InChIKey=LIOKNOIJMJKVCG-RDSVHMIISA-N}}
+{{#set: molecular weight=821.32    }}
+{{#set: common name=2-methoxy-6-decaprenyl-2-methoxy-1,4-benzoquinol}}
+{{#set: consumed by=RXN-9235}}

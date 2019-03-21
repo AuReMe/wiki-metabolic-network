@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4841 PWY-4841] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** UDP-&alpha;-D-glucuronate biosynthesis (from myo-inositol)
+* Synonym(s):
+** UDP-D-GlcA biosynthesis
+** UDP-D-glucuronic acid biosynthesis
+** inositol oxidation pathway
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[2.7.7.44-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_6458]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[GLUCURONOKINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12190]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MYO-INOSITOL-OXYGENASE-RXN MYO-INOSITOL-OXYGENASE-RXN]
+== External links  ==
+* PLANTCYC : PWY-4841
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-4841 PWY-4841]
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=UDP-&alpha;-D-glucuronate biosynthesis (from myo-inositol)}}
+{{#set: common name=UDP-D-GlcA biosynthesis|UDP-D-glucuronic acid biosynthesis|inositol oxidation pathway}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

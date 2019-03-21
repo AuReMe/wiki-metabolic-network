@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEHYDROSPHINGANINE DEHYDROSPHINGANINE] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(C(CO)[N+])=O
+* common name:
+** 3-dehydrosphinganine
+* inchi key:
+** InChIKey=KBUNOSOGGAARKZ-KRWDZBQOSA-O
+* molecular weight:
+** 300.504    
+* Synonym(s):
+** 3-dehydro-D-sphinganine
+** KDHS
+** 3-dehydrosphinganine (C18)
+** 3-ketodihydrosphingosine
+
+== Reaction(s) known to consume the compound ==
+* [[3-DEHYDROSPHINGANINE-REDUCTASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[SERINE-C-PALMITOYLTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMSP01020002
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49852310 49852310]
+* HMDB : HMDB01480
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02934 C02934]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58299 58299]
+* METABOLIGHTS : MTBLC58299
+{{#set: smiles=CCCCCCCCCCCCCCCC(C(CO)[N+])=O}}
+{{#set: common name=3-dehydrosphinganine}}
+{{#set: inchi key=InChIKey=KBUNOSOGGAARKZ-KRWDZBQOSA-O}}
+{{#set: molecular weight=300.504    }}
+{{#set: common name=3-dehydro-D-sphinganine|KDHS|3-dehydrosphinganine (C18)|3-ketodihydrosphingosine}}
+{{#set: consumed by=3-DEHYDROSPHINGANINE-REDUCTASE-RXN}}
+{{#set: produced by=SERINE-C-PALMITOYLTRANSFERASE-RXN}}

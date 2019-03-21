@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PHENYLALANINE-DEG1-PWY PHENYLALANINE-DEG1-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-phenylalanine degradation I (aerobic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-7908]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14844]]
+*** [[Tiso_gene_14845]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PHENYLALANINE-4-MONOOXYGENASE-RXN PHENYLALANINE-4-MONOOXYGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7909 RXN-7909]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-40674}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-phenylalanine degradation I (aerobic)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

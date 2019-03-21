@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5047 ==
+* right end position:
+** 13971
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11687
+* centisome position:
+** 83.63988    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTCYCLOHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[HISTSYN-PWY]]
+== External links  ==
+{{#set: right end position=13971}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11687}}
+{{#set: centisome position=83.63988    }}
+{{#set: reaction associated=HISTCYCLOHYD-RXN}}
+{{#set: pathway associated=HISTSYN-PWY}}

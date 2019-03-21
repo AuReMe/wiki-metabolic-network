@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14601 CPD-14601] ==
+* smiles:
+** CC(CCC([O-])=O)=CCC1(=C(C(C)=C2(COC(=O)C(=C(O)1)2))OC)
+* common name:
+** mycophenolate
+* inchi key:
+** InChIKey=HPNSFSBZBAHARI-RUDMXATFSA-M
+* molecular weight:
+** 319.333    
+* Synonym(s):
+** mycophenolic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13608]]
+* [[RXN-13607]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6918995 6918995]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62932 62932]
+{{#set: smiles=CC(CCC([O-])=O)=CCC1(=C(C(C)=C2(COC(=O)C(=C(O)1)2))OC)}}
+{{#set: common name=mycophenolate}}
+{{#set: inchi key=InChIKey=HPNSFSBZBAHARI-RUDMXATFSA-M}}
+{{#set: molecular weight=319.333    }}
+{{#set: common name=mycophenolic acid}}
+{{#set: consumed by=RXN-13608|RXN-13607}}

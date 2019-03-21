@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=THMPPPT THMPPPT] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ATP:thiamine-diphosphate phosphotransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[THIAMINE-PYROPHOSPHATE]][c] '''+''' 1.0 [[ATP]][c] '''=>''' 1.0 [[CPD-611]][c] '''+''' 1.0 [[ADP]][c]
+* With common name(s):
+** 1.0 thiamine diphosphate[c] '''+''' 1.0 ATP[c] '''=>''' 1.0 thiamine triphosphate[c] '''+''' 1.0 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16512]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_1453]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ATP:thiamine-diphosphate phosphotransferase}}
+{{#set: gene associated=Tiso_gene_16512|Tiso_gene_1453}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

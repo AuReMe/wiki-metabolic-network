@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14796 ==
+* right end position:
+** 5401
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 325
+* centisome position:
+** 5.9963098    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUC1PURIDYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+* Reaction: [[UTPHEXPURIDYLYLTRANS-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7238]]
+* [[PWY-7343]]
+* [[PWY-3801]]
+* [[PWY-3821]]
+* [[PWY-7817]]
+* [[PWY-6527]]
+== External links  ==
+{{#set: right end position=5401}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=325}}
+{{#set: centisome position=5.9963098    }}
+{{#set: reaction associated=GLUC1PURIDYLTRANS-RXN|UTPHEXPURIDYLYLTRANS-RXN}}
+{{#set: pathway associated=PWY-7238|PWY-7343|PWY-3801|PWY-3821|PWY-7817|PWY-6527}}

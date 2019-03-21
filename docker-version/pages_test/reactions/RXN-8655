@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8655 RXN-8655] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lipoate-protein_ligase_a
+** lipoate-protein_ligase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[LIPOYL-AMP]][c] '''+''' 1 [[Lipoyl-Protein-L-Lysine]][c] '''=>''' 1 [[Lipoyl-Protein-N6-lipoyllysine]][c] '''+''' 1 [[AMP]][c] '''+''' 2 [[PROTON]][c]
+* With common name(s):
+** 1 lipoyl-adenylate[c] '''+''' 1 a [lipoyl-carrier protein]-L-lysine[c] '''=>''' 1 a [lipoyl-carrier protein]-N6-lipoyl-L-lysine[c] '''+''' 1 AMP[c] '''+''' 2 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8713]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4494]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17215]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17216]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4493]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY0-522]], lipoate salvage I: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-522 PWY0-522]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07771 R07771]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lipoate-protein_ligase_a}}
+{{#set: common name=lipoate-protein_ligase}}
+{{#set: gene associated=Tiso_gene_8713|Tiso_gene_4494|Tiso_gene_17215|Tiso_gene_17216|Tiso_gene_4493}}
+{{#set: in pathway=PWY0-522}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

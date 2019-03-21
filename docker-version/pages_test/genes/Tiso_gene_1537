@@ -1,0 +1,55 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1537 ==
+* right end position:
+** 1729
+* transcription direction:
+** POSITIVE
+* left end position:
+** 149
+* centisome position:
+** 0.6363442    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.1.64-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[CARBOXYLESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RETINYL-PALMITATE-ESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10711]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10767]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12252]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12575]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXNQT-4366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6857]]
+* [[PWY-6303]]
+== External links  ==
+{{#set: right end position=1729}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=149}}
+{{#set: centisome position=0.6363442    }}
+{{#set: reaction associated=3.1.1.64-RXN|CARBOXYLESTERASE-RXN|RETINYL-PALMITATE-ESTERASE-RXN|RXN-10711|RXN-10767|RXN-12252|RXN-12575|RXNQT-4366}}
+{{#set: pathway associated=PWY-6857|PWY-6303}}

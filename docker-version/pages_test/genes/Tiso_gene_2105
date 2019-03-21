@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2105 ==
+* right end position:
+** 20045
+* transcription direction:
+** POSITIVE
+* left end position:
+** 18554
+* centisome position:
+** 61.372055    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7375]]
+== External links  ==
+{{#set: right end position=20045}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=18554}}
+{{#set: centisome position=61.372055    }}
+{{#set: reaction associated=MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-7375}}

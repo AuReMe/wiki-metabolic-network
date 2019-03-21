@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4581 CPD-4581] ==
+* smiles:
+** CC(C)=CCCC(C)[CH]3(CC[CH]4(C2(CC[CH]1(CC(=O)CCC(C)1C=2CCC(C)34))))
+* common name:
+** 5&alpha;-cholesta-8,24-dien-3-one
+* inchi key:
+** InChIKey=AUNLIRXIJAVBNM-ZSBATXSLSA-N
+* molecular weight:
+** 382.628    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN66-318]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=22298942 22298942]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=52386 52386]
+{{#set: smiles=CC(C)=CCCC(C)[CH]3(CC[CH]4(C2(CC[CH]1(CC(=O)CCC(C)1C=2CCC(C)34))))}}
+{{#set: common name=5&alpha;-cholesta-8,24-dien-3-one}}
+{{#set: inchi key=InChIKey=AUNLIRXIJAVBNM-ZSBATXSLSA-N}}
+{{#set: molecular weight=382.628    }}
+{{#set: produced by=RXN66-318}}

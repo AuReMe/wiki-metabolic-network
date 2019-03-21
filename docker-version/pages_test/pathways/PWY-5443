@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5443 PWY-5443] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** aminopropanol phosphate biosynthesis I
+* Synonym(s):
+** 1-amino-propan-2-yl phosphate biosynthesis from threonine
+** (R)-1-amino-2-propanol O-2-phosphate biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-8626]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8616]]
+*** [[Tiso_gene_16943]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.1.1.81-RXN 4.1.1.81-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=aminopropanol phosphate biosynthesis I}}
+{{#set: common name=1-amino-propan-2-yl phosphate biosynthesis from threonine|(R)-1-amino-2-propanol O-2-phosphate biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

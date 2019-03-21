@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=FACOAE1839Z12Z15Z FACOAE1839Z12Z15Z] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha-Linolenoyl-CoA hydrolase (18:3(9Z,12Z,15Z))
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][c] '''+''' 1.0 [[LINOLENOYL-COA]][c] '''=>''' 1.0 [[CO-A]][c] '''+''' 1.0 [[PROTON]][c] '''+''' 1.0 [[LINOLENIC_ACID]][c]
+* With common name(s):
+** 1.0 H2O[c] '''+''' 1.0 &alpha;-linolenoyl-CoA[c] '''=>''' 1.0 coenzyme A[c] '''+''' 1.0 H+[c] '''+''' 1.0 &alpha;-linolenate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_801]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha-Linolenoyl-CoA hydrolase (18:3(9Z,12Z,15Z))}}
+{{#set: gene associated=Tiso_gene_801}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

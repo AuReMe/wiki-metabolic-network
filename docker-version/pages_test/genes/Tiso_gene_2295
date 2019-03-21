@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2295 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-1223]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWYQT-4427]]
+== External links  ==
+{{#set: reaction associated=RXN-1223}}
+{{#set: pathway associated=PWYQT-4427}}

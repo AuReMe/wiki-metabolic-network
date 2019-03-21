@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=m7G5-pppR-mRNAs m7G5-pppR-mRNAs] ==
+* common name:
+** a 5'-(N7-methyl 5'-triphosphoguanosine)-(purine-ribonucleotide)-[mRNA]
+* Synonym(s):
+** an m7G(5')pppR-[mRNA]
+** guanine7-methylated mRNA
+** a 7-methylguanosine 5'-triphospho-5'-[mRNA]
+** m7G5'ppp5'R-[mRNA]
+** a 5'-(N7-methyl 5'-triphosphoguanosine )-[mRNA]
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 5'-(N7-methyl 5'-triphosphoguanosine)-(purine-ribonucleotide)-[mRNA]}}
+{{#set: common name=an m7G(5')pppR-[mRNA]|guanine7-methylated mRNA|a 7-methylguanosine 5'-triphospho-5'-[mRNA]|m7G5'ppp5'R-[mRNA]|a 5'-(N7-methyl 5'-triphosphoguanosine )-[mRNA]}}
+{{#set: produced by=MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN}}

@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=HOMOSER-METSYN-PWY HOMOSER-METSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-methionine biosynthesis I
+* Synonym(s):
+** L-methionine biosynthesis from L-homoserine
+** L-methionine biosynthesis by transsulfuration
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[HOMOCYSMET-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1602]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[HOMOCYSMETB12-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1602]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[O-SUCCHOMOSERLYASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-15131]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=HOMSUCTRAN-RXN HOMSUCTRAN-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=HOMOSER-METSYN-PWY HOMOSER-METSYN-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-methionine biosynthesis I}}
+{{#set: common name=L-methionine biosynthesis from L-homoserine|L-methionine biosynthesis by transsulfuration}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

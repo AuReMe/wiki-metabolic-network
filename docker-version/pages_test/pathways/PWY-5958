@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5958 PWY-5958] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-16739 TAX-16739]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-23513 TAX-23513]
+* common name:
+** acridone alkaloid biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[ANTHRANSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11176]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.159-RXN 2.3.1.159-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ANTHRANILATE-N-METHYLTRANSFERASE-RXN ANTHRANILATE-N-METHYLTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9504 RXN-9504]
+== External links  ==
+{{#set: taxonomic range=TAX-16739}}
+{{#set: taxonomic range=TAX-23513}}
+{{#set: common name=acridone alkaloid biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

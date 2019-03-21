@@ -1,0 +1,34 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12776 RXN-12776] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Donor-H2]][c] '''+''' 1.0 [[OLEATE-CPD]][c] '''+''' 1.0 [[OXYGEN-MOLECULE]][c] '''=>''' 1.0 [[Acceptor]][c] '''+''' 1.0 [[LINOLEIC_ACID]][c] '''+''' 2.0 [[WATER]][c]
+* With common name(s):
+** 1.0 a reduced electron acceptor[c] '''+''' 1.0 oleate[c] '''+''' 1.0 oxygen[c] '''=>''' 1.0 an oxidized electron acceptor[c] '''+''' 1.0 linoleate[c] '''+''' 2.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9580]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8027]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18056]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7427]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_9580|Tiso_gene_8027|Tiso_gene_18056|Tiso_gene_7427}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

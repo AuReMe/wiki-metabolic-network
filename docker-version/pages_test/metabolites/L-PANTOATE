@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-PANTOATE L-PANTOATE] ==
+* smiles:
+** CC(C)(CO)C(C([O-])=O)O
+* common name:
+** (R)-pantoate
+* inchi key:
+** InChIKey=OTOIIPJYVQJATP-BYPYZUCNSA-M
+* molecular weight:
+** 147.15    
+* Synonym(s):
+** pantoate
+** L-pantoate
+
+== Reaction(s) known to consume the compound ==
+* [[PANTOATE-BETA-ALANINE-LIG-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[2-DEHYDROPANTOATE-REDUCT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 470-29-1
+* DRUGBANK : DB01930
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5289105 5289105]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00522 C00522]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4451134.html 4451134]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15980 15980]
+* BIGG : pant__R
+{{#set: smiles=CC(C)(CO)C(C([O-])=O)O}}
+{{#set: common name=(R)-pantoate}}
+{{#set: inchi key=InChIKey=OTOIIPJYVQJATP-BYPYZUCNSA-M}}
+{{#set: molecular weight=147.15    }}
+{{#set: common name=pantoate|L-pantoate}}
+{{#set: consumed by=PANTOATE-BETA-ALANINE-LIG-RXN}}
+{{#set: produced by=2-DEHYDROPANTOATE-REDUCT-RXN}}

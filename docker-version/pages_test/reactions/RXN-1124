@@ -1,0 +1,36 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-1124 RXN-1124] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADPH]][c] '''+''' 1 [[SINAPOYL-COA]][c] '''+''' 1 [[PROTON]][c] '''<=>''' 1 [[NADP]][c] '''+''' 1 [[SINAPALDEHYDE]][c] '''+''' 1 [[CO-A]][c]
+* With common name(s):
+** 1 NADPH[c] '''+''' 1 sinapoyl-CoA[c] '''+''' 1 H+[c] '''<=>''' 1 NADP+[c] '''+''' 1 sinapaldehyde[c] '''+''' 1 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15272]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9504]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11016]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02220 R02220]
+{{#set: direction=REVERSIBLE}}
+{{#set: gene associated=Tiso_gene_15272|Tiso_gene_9504|Tiso_gene_11016}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,58 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9923 ==
+* right end position:
+** 5333
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5185
+* centisome position:
+** 57.784462    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3PGAREARR-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15509]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15510]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15511]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15512]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15513]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-1042]]
+* [[P341-PWY]]
+* [[PWY-2221]]
+* [[PWY-1622]]
+* [[GLUCONEO-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[PWY-7218]]
+* [[PWY-6405]]
+* [[P124-PWY]]
+* [[PWY-6886]]
+* [[PWY66-399]]
+* [[PWY-5723]]
+* [[PWY-6142]]
+* [[PWY-5484]]
+* [[PWY-7124]]
+* [[P122-PWY]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=5333}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5185}}
+{{#set: centisome position=57.784462    }}
+{{#set: reaction associated=3PGAREARR-RXN|RXN-15509|RXN-15510|RXN-15511|RXN-15512|RXN-15513}}
+{{#set: pathway associated=PWY-1042|P341-PWY|PWY-2221|PWY-1622|GLUCONEO-PWY|GLYCOLYSIS|PWY-6901|ANAGLYCOLYSIS-PWY|PWY-7218|PWY-6405|P124-PWY|PWY-6886|PWY66-399|PWY-5723|PWY-6142|PWY-5484|PWY-7124|P122-PWY|PWY-7003}}

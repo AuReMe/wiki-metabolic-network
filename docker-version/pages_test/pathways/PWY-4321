@@ -1,0 +1,53 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4321 PWY-4321] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-glutamate degradation IV
+* Synonym(s):
+** GABA shunt
+** 4-aminobutyrate shunt
+** &gamma;-aminobutyrate shunt
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[GABATRANSAM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11231]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[GLUTDECARBOX-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10395]]
+*** [[Tiso_gene_9927]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+* [[RXN-6903]]
+** 2 associated gene(s):
+*** [[Tiso_gene_91]]
+*** [[Tiso_gene_777]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_777]]
+*** [[Tiso_gene_91]]
+*** [[Tiso_gene_6952]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6902 RXN-6902]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-4321 PWY-4321]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-glutamate degradation IV}}
+{{#set: common name=GABA shunt|4-aminobutyrate shunt|&gamma;-aminobutyrate shunt}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

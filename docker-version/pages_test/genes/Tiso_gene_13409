@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13409 ==
+* right end position:
+** 3079
+* transcription direction:
+** POSITIVE
+* left end position:
+** 489
+* centisome position:
+** 7.750832    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3079}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=489}}
+{{#set: centisome position=7.750832    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN}}

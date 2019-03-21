@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=RIBOSE-1P RIBOSE-1P] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(OP(=O)([O-])[O-])O1)
+* common name:
+** &alpha;-D-ribose-1-phosphate
+* inchi key:
+** InChIKey=YXJDFQJKERBOBM-TXICZTDVSA-L
+* molecular weight:
+** 228.095    
+* Synonym(s):
+** D-ribose-1-phosphate
+** &alpha;-D-ribose-1P
+** &alpha;-D-ribofuranose 1-phosphate
+** ribose-1-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[XANTHOSINEPHOSPHORY-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[URPHOS-RXN]]
+* [[INOPHOSPHOR-RXN]]
+* [[RXN-14456]]
+== External links  ==
+* CAS : 58459-37-3
+* CAS : 14075-00-4
+* BIGG : r1p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615443 23615443]
+* HMDB : HMDB01489
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00620 C00620]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951495.html 19951495]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57720 57720]
+* METABOLIGHTS : MTBLC57720
+{{#set: smiles=C(O)C1(C(O)C(O)C(OP(=O)([O-])[O-])O1)}}
+{{#set: common name=&alpha;-D-ribose-1-phosphate}}
+{{#set: inchi key=InChIKey=YXJDFQJKERBOBM-TXICZTDVSA-L}}
+{{#set: molecular weight=228.095    }}
+{{#set: common name=D-ribose-1-phosphate|&alpha;-D-ribose-1P|&alpha;-D-ribofuranose 1-phosphate|ribose-1-phosphate}}
+{{#set: produced by=XANTHOSINEPHOSPHORY-RXN}}
+{{#set: reversible reaction associated=URPHOS-RXN|INOPHOSPHOR-RXN|RXN-14456}}

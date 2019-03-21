@@ -1,0 +1,74 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=LEUSYN-PWY LEUSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-leucine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''6''' reactions in the full pathway
+* [[2-ISOPROPYLMALATESYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11453]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[3-ISOPROPYLMALDEHYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[3-ISOPROPYLMALISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12778]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[BRANCHED-CHAINAMINOTRANSFERLEU-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18403]]
+*** [[Tiso_gene_14984]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-7800]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-8991]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12778]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=LEUSYN-PWY LEUSYN-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-leucine biosynthesis}}
+{{#set: reaction found=6}}
+{{#set: total reaction=6}}
+{{#set: completion rate=100.0}}

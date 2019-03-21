@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18 CPD-18] ==
+* smiles:
+** CCCCCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** linoleoyl-CoA
+* inchi key:
+** InChIKey=YECLLIMZHNYFCK-RRNJGNTNSA-J
+* molecular weight:
+** 1025.937    
+* Synonym(s):
+** cis,cis-octadeca-9,12-dienoyl-CoA
+** (9Z,12Z)-octadeca-9,12-dienoyl-CoA
+** 18:2(n-6)
+
+== Reaction(s) known to consume the compound ==
+* [[1.14.19.3-RXN]]
+* [[RXN-16094]]
+* [[LINOLEOYL-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[LNLCCOAL]]
+* [[RXN-9673]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245440 25245440]
+* HMDB : HMDB01064
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57383 57383]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02050 C02050]
+{{#set: smiles=CCCCCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=linoleoyl-CoA}}
+{{#set: inchi key=InChIKey=YECLLIMZHNYFCK-RRNJGNTNSA-J}}
+{{#set: molecular weight=1025.937    }}
+{{#set: common name=cis,cis-octadeca-9,12-dienoyl-CoA|(9Z,12Z)-octadeca-9,12-dienoyl-CoA|18:2(n-6)}}
+{{#set: consumed by=1.14.19.3-RXN|RXN-16094|LINOLEOYL-RXN}}
+{{#set: produced by=LNLCCOAL|RXN-9673}}

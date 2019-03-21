@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3beta-hydroxy-4alpha-carboxy-sterols 3beta-hydroxy-4alpha-carboxy-sterols] ==
+* common name:
+** a 3&beta;-hydroxy-4&alpha;-carboxysteroid
+* Synonym(s):
+** a 3&beta;-hydroxysteroid-4&alpha;-carboxylate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13926]]
+== External links  ==
+{{#set: common name=a 3&beta;-hydroxy-4&alpha;-carboxysteroid}}
+{{#set: common name=a 3&beta;-hydroxysteroid-4&alpha;-carboxylate}}
+{{#set: reversible reaction associated=RXN-13926}}

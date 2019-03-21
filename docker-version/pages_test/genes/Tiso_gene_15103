@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15103 ==
+* right end position:
+** 4665
+* transcription direction:
+** POSITIVE
+* left end position:
+** 34
+* centisome position:
+** 0.6497229    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.24.11-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4665}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=34}}
+{{#set: centisome position=0.6497229    }}
+{{#set: reaction associated=3.4.24.11-RXN}}

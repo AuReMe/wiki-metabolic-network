@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14926 CPD-14926] ==
+* smiles:
+** CC(C)CCCC(C)CCCC(C)CCCC(C)=C[CH]=O
+* common name:
+** phytenal
+* inchi key:
+** InChIKey=RAFZYSUICBQABU-PYDDKJGSSA-N
+* molecular weight:
+** 294.52    
+* Synonym(s):
+** 2E-phytenal
+** 3,7,11,15-tetramethyl-2E-hexadecenal
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-479]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-478]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104010025
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9900764 9900764]
+{{#set: smiles=CC(C)CCCC(C)CCCC(C)CCCC(C)=C[CH]=O}}
+{{#set: common name=phytenal}}
+{{#set: inchi key=InChIKey=RAFZYSUICBQABU-PYDDKJGSSA-N}}
+{{#set: molecular weight=294.52    }}
+{{#set: common name=2E-phytenal|3,7,11,15-tetramethyl-2E-hexadecenal}}
+{{#set: consumed by=RXN66-479}}
+{{#set: produced by=RXN66-478}}

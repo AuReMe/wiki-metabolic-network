@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10324 ==
+* right end position:
+** 2763
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1194
+* centisome position:
+** 13.829048    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.21.92-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2763}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1194}}
+{{#set: centisome position=13.829048    }}
+{{#set: reaction associated=3.4.21.92-RXN}}

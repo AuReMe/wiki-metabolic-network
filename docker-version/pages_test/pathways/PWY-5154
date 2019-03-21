@@ -1,0 +1,87 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5154 PWY-5154] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-arginine biosynthesis III (via N-acetyl-L-citrulline)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''9''' reactions in the full pathway
+* [[ACETYLGLUTKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13144]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[ACETYLORNTRANSAM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11231]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[ARGSUCCINLYA-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2485]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ARGSUCCINSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12592]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[CARBPSYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_4976]]
+*** [[Tiso_gene_4975]]
+*** [[Tiso_gene_4685]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[N-ACETYLGLUTPREDUCT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8102]]
+*** [[Tiso_gene_6700]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[N-ACETYLTRANSFER-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11663]]
+*** [[Tiso_gene_5365]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.3.9-RXN 2.1.3.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7933 RXN-7933]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-arginine biosynthesis III (via N-acetyl-L-citrulline)}}
+{{#set: reaction found=7}}
+{{#set: total reaction=9}}
+{{#set: completion rate=78.0}}

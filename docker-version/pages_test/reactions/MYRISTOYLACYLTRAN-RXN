@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MYRISTOYLACYLTRAN-RXN MYRISTOYLACYLTRAN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lipid_a_biosynthesis_acyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.243 EC-2.3.1.243]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Myristoyl-ACPs]][c] '''+''' 1 [[KDO2-LAUROYL-LIPID-IVA]][c] '''=>''' 1 [[KDO2-LIPID-A]][c] '''+''' 1 [[ACP]][c]
+* With common name(s):
+** 1 a myristoyl-[acp][c] '''+''' 1 &alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-(lauroyl)-lipid IVA[c] '''=>''' 1 &alpha;-D-Kdo-(2&rarr;4)-&alpha;-D-Kdo-(2&rarr;6)-lipid A[c] '''+''' 1 a holo-[acyl-carrier protein][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5065]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_14060]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[KDO-NAGLIPASYN-PWY]], superpathway of (Kdo)2-lipid A biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=KDO-NAGLIPASYN-PWY KDO-NAGLIPASYN-PWY]
+** '''4''' reactions found over '''10''' reactions in the full pathway
+* [[KDO-LIPASYN-PWY]], (Kdo)2-lipid A biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=KDO-LIPASYN-PWY KDO-LIPASYN-PWY]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28438 28438]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05075 R05075]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lipid_a_biosynthesis_acyltransferase}}
+{{#set: ec number=EC-2.3.1.243}}
+{{#set: gene associated=Tiso_gene_5065|Tiso_gene_14060}}
+{{#set: in pathway=KDO-NAGLIPASYN-PWY|KDO-LIPASYN-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

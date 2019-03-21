@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BCCP-biotin-monomers BCCP-biotin-monomers] ==
+* common name:
+** a biotinylated [BCCP monomer]
+* Synonym(s):
+** a biotinylated [biotin-carboxyl-carrier protein monomer]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7101]]
+== Reaction(s) known to produce the compound ==
+* [[BIOTINLIG-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a biotinylated [BCCP monomer]}}
+{{#set: common name=a biotinylated [biotin-carboxyl-carrier protein monomer]}}
+{{#set: consumed by=RXN-7101}}
+{{#set: produced by=BIOTINLIG-RXN}}

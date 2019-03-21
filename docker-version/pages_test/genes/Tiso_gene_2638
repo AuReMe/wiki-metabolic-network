@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2638 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[NAGLIPASYN-PWY]]
+== External links  ==
+{{#set: reaction associated=UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN}}
+{{#set: pathway associated=NAGLIPASYN-PWY}}

@@ -1,0 +1,100 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P23-PWY P23-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3052 TAX-3052]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-68336 TAX-68336]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-200783 TAX-200783]
+* common name:
+** reductive TCA cycle I
+* Synonym(s):
+** reductive tricarboxylic acid cycle
+** reductive tricarboxylic acid pathway
+** reductive citric acid cycle
+** reverse citric acid cycle
+** carbon fixation
+** CO2 fixation
+** reductive carboxylic acid cycle
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''12''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[ACONITATEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ISOCITDEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18262]]
+*** [[Tiso_gene_10809]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PEPSYNTH-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[SUCCCOASYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15846]]
+*** [[Tiso_gene_11866]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2-OXOGLUTARATE-SYNTHASE-RXN 2-OXOGLUTARATE-SYNTHASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ATP-CITRATE-PRO-S--LYASE-RXN ATP-CITRATE-PRO-S--LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PEPCARBOX-RXN PEPCARBOX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUFLAVREDUCT-RXN PYRUFLAVREDUCT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R601-RXN R601-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-3052}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-68336}}
+{{#set: taxonomic range=TAX-200783}}
+{{#set: common name=reductive TCA cycle I}}
+{{#set: common name=reductive tricarboxylic acid cycle|reductive tricarboxylic acid pathway|reductive citric acid cycle|reverse citric acid cycle|carbon fixation|CO2 fixation|reductive carboxylic acid cycle}}
+{{#set: reaction found=7}}
+{{#set: total reaction=12}}
+{{#set: completion rate=58.0}}

@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9459 CPD-9459] ==
+* smiles:
+** CC3(C[CH]4(C2(=CC[CH]5(C1(CCC(C([CH]1CCC(C2(CCC(CC3)4C([O-])=O)C)5C)(C)C)O)C))))C
+* common name:
+** oleanolate
+* inchi key:
+** InChIKey=MIJYXULNPSFWEK-GTOFXWBISA-M
+* molecular weight:
+** 455.699    
+* Synonym(s):
+** oleanolic acid
+** oleanic acid
+** caryophyllin
+** 3-beta-Hydroxyolean-12-en-28-oic acid
+** oleonolic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9000]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11865404 11865404]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10039737.html 10039737]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=82828 82828]
+* METABOLIGHTS : MTBLC37659
+* HMDB : HMDB02364
+{{#set: smiles=CC3(C[CH]4(C2(=CC[CH]5(C1(CCC(C([CH]1CCC(C2(CCC(CC3)4C([O-])=O)C)5C)(C)C)O)C))))C}}
+{{#set: common name=oleanolate}}
+{{#set: inchi key=InChIKey=MIJYXULNPSFWEK-GTOFXWBISA-M}}
+{{#set: molecular weight=455.699    }}
+{{#set: common name=oleanolic acid|oleanic acid|caryophyllin|3-beta-Hydroxyolean-12-en-28-oic acid|oleonolic acid}}
+{{#set: consumed by=RXN-9000}}

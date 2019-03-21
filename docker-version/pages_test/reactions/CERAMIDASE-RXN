@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CERAMIDASE-RXN CERAMIDASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.1.23 EC-3.5.1.23]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[N-Acylsphingosine]][c] '''=>''' 1 [[Fatty-Acids]][c] '''+''' 1 [[SPHINGOSINE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a sphingosine ceramide[c] '''=>''' 1 a fatty acid[c] '''+''' 1 sphingosine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14341]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY3DJ-11470]], sphingosine and sphingosine-1-phosphate metabolism: [http://metacyc.org/META/NEW-IMAGE?object=PWY3DJ-11470 PWY3DJ-11470]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20856 20856]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01493 R01493]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.5.1.23}}
+{{#set: gene associated=Tiso_gene_14341}}
+{{#set: in pathway=PWY3DJ-11470}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14604 CPD-14604] ==
+* smiles:
+** CC(CCC([O-])=O)=CCC2(=C(C(C)=C3(COC(=O)C(=C(OC1(C(O)C(C(O)C(C([O-])=O)O1)O))2)3))OC)
+* common name:
+** mycophenolic acid phenolic glucuronide
+* inchi key:
+** InChIKey=BYFGTSAYQQIUCN-HGIHDBQLSA-L
+* molecular weight:
+** 494.451    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-13608]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657160 90657160]
+{{#set: smiles=CC(CCC([O-])=O)=CCC2(=C(C(C)=C3(COC(=O)C(=C(OC1(C(O)C(C(O)C(C([O-])=O)O1)O))2)3))OC)}}
+{{#set: common name=mycophenolic acid phenolic glucuronide}}
+{{#set: inchi key=InChIKey=BYFGTSAYQQIUCN-HGIHDBQLSA-L}}
+{{#set: molecular weight=494.451    }}
+{{#set: produced by=RXN-13608}}

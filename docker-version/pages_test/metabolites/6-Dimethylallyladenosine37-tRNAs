@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=6-Dimethylallyladenosine37-tRNAs 6-Dimethylallyladenosine37-tRNAs] ==
+* common name:
+** N6-dimethylallyladenosine37 in tRNA
+* Synonym(s):
+** 2-methylthio-N-dimethylallyladenosine37 in tRNA
+** tRNA-(2-methylthio-N-6-dimethylallyladenosine)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5063]]
+* [[RXN-14480]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-6274]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=N6-dimethylallyladenosine37 in tRNA}}
+{{#set: common name=2-methylthio-N-dimethylallyladenosine37 in tRNA|tRNA-(2-methylthio-N-6-dimethylallyladenosine)}}
+{{#set: consumed by=RXN0-5063|RXN-14480}}
+{{#set: produced by=RXN0-6274}}

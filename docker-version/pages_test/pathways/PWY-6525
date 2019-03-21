@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6525 PWY-6525] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3568 TAX-3568]
+* common name:
+** stellariose and mediose biosynthesis
+* Synonym(s):
+** galactosyl-oligosaccharides biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[2.4.1.123-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18913]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.4.1.82-RXN 2.4.1.82-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11490 RXN-11490]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11491 RXN-11491]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11492 RXN-11492]
+== External links  ==
+{{#set: taxonomic range=TAX-3568}}
+{{#set: common name=stellariose and mediose biosynthesis}}
+{{#set: common name=galactosyl-oligosaccharides biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

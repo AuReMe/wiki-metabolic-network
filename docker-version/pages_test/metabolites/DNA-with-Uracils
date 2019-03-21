@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DNA-with-Uracils DNA-with-Uracils] ==
+* common name:
+** a uracil in DNA
+* Synonym(s):
+** a DNA with uracil
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-2584]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a uracil in DNA}}
+{{#set: common name=a DNA with uracil}}
+{{#set: consumed by=RXN0-2584}}

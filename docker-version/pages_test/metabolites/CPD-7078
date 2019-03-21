@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7078 CPD-7078] ==
+* smiles:
+** C(C4(OC(OP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23))))C(O)C(O)C(O)4))O
+* common name:
+** GDP-&beta;-L-gulose
+* inchi key:
+** InChIKey=MVMSCBBUIHUTGJ-HVMPVDAASA-L
+* molecular weight:
+** 603.329    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-7772]]
+* [[RXN-7771]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657274 90657274]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15925 C15925]
+{{#set: smiles=C(C4(OC(OP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23))))C(O)C(O)C(O)4))O}}
+{{#set: common name=GDP-&beta;-L-gulose}}
+{{#set: inchi key=InChIKey=MVMSCBBUIHUTGJ-HVMPVDAASA-L}}
+{{#set: molecular weight=603.329    }}
+{{#set: reversible reaction associated=RXN-7772|RXN-7771}}

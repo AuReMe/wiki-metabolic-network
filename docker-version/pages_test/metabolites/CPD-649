@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-649 CPD-649] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(C(COP([O-])(=O)[O-])[N+])O
+* common name:
+** sphinganine 1-phosphate
+* inchi key:
+** InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M
+* molecular weight:
+** 380.484    
+* Synonym(s):
+** dihydrosphingosine 1-phosphate
+** DHS-1-P
+
+== Reaction(s) known to consume the compound ==
+* [[SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN]]
+* [[SGPL11]]
+== Reaction(s) known to produce the compound ==
+* [[SPHINGANINE-KINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01120 C01120]
+* HMDB : HMDB01383
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57939 57939]
+* METABOLIGHTS : MTBLC57939
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878432 46878432]
+{{#set: smiles=CCCCCCCCCCCCCCCC(C(COP([O-])(=O)[O-])[N+])O}}
+{{#set: common name=sphinganine 1-phosphate}}
+{{#set: inchi key=InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M}}
+{{#set: molecular weight=380.484    }}
+{{#set: common name=dihydrosphingosine 1-phosphate|DHS-1-P}}
+{{#set: consumed by=SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN|SGPL11}}
+{{#set: produced by=SPHINGANINE-KINASE-RXN}}

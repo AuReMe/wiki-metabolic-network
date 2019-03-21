@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3945 CPD-3945] ==
+* smiles:
+** CC(C)C(C)CC(O)C(C)[CH]3(CC[CH]4([CH]2(CCC1(=CC(=O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** (22&alpha;)-hydroxy-campest-4-en-3-one
+* inchi key:
+** InChIKey=FMFAICDKESPFNH-NQMBQAPESA-N
+* molecular weight:
+** 414.67    
+* Synonym(s):
+** (22S)-22-hydroxy-campest-4-en-3-one
+** (22S,24R)-22-hydroxy-ergost-4-en-3-one
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-4231]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST01031116
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15341631 15341631]
+* HMDB : HMDB12113
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72330 72330]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15796 C15796]
+{{#set: smiles=CC(C)C(C)CC(O)C(C)[CH]3(CC[CH]4([CH]2(CCC1(=CC(=O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=(22&alpha;)-hydroxy-campest-4-en-3-one}}
+{{#set: inchi key=InChIKey=FMFAICDKESPFNH-NQMBQAPESA-N}}
+{{#set: molecular weight=414.67    }}
+{{#set: common name=(22S)-22-hydroxy-campest-4-en-3-one|(22S,24R)-22-hydroxy-ergost-4-en-3-one}}
+{{#set: produced by=RXN-4231}}

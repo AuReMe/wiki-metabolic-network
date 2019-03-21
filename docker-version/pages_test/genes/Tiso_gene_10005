@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10005 ==
+* right end position:
+** 7249
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5438
+* centisome position:
+** 60.984634    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.21.92-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7249}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5438}}
+{{#set: centisome position=60.984634    }}
+{{#set: reaction associated=3.4.21.92-RXN}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-511 CPD-511] ==
+* smiles:
+** CC(C(O)C(=O)NCCC(NCCS)=O)(C)CO
+* common name:
+** pantetheine
+* inchi key:
+** InChIKey=ZNXZGRMVNNHPCA-VIFPVBQESA-N
+* molecular weight:
+** 278.366    
+* Synonym(s):
+** pantotheine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PANTETHEINE-KINASE-RXN]]
+== External links  ==
+* CAS : 496-65-1
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439322 439322]
+* HMDB : HMDB03426
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00831 C00831]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388453.html 388453]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16753 16753]
+* METABOLIGHTS : MTBLC16753
+{{#set: smiles=CC(C(O)C(=O)NCCC(NCCS)=O)(C)CO}}
+{{#set: common name=pantetheine}}
+{{#set: inchi key=InChIKey=ZNXZGRMVNNHPCA-VIFPVBQESA-N}}
+{{#set: molecular weight=278.366    }}
+{{#set: common name=pantotheine}}
+{{#set: reversible reaction associated=PANTETHEINE-KINASE-RXN}}

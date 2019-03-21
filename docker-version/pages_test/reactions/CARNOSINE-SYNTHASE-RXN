@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CARNOSINE-SYNTHASE-RXN CARNOSINE-SYNTHASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/6.3.2.11 EC-6.3.2.11]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HIS]][c] '''+''' 1 [[B-ALANINE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[CARNOSINE]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 L-histidine[c] '''+''' 1 &beta;-alanine[c] '''+''' 1 ATP[c] '''=>''' 1 H+[c] '''+''' 1 phosphate[c] '''+''' 1 carnosine[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5071]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_8847]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_14056]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_9475]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5553]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY66-420]], carnosine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-420 PWY66-420]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=19297 19297]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01164 R01164]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-6.3.2.11}}
+{{#set: gene associated=Tiso_gene_5071|Tiso_gene_8847|Tiso_gene_14056|Tiso_gene_9475|Tiso_gene_5553}}
+{{#set: in pathway=PWY66-420}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

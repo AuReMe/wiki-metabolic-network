@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SINAPATE SINAPATE] ==
+* smiles:
+** COC1(C=C(C=C(OC)C(O)=1)C=CC([O-])=O)
+* common name:
+** sinapate
+* inchi key:
+** InChIKey=PCMORTLOPMLEFB-ONEGZZNKSA-M
+* molecular weight:
+** 223.205    
+* Synonym(s):
+** 3,5-dimethoxy-4-hydroxycinnamate
+** sinapinate
+** sinapinic acid
+** sinapic acid
+** 3,5-dimethoxy-4-hydroxycinnamic acid
+** 4-hydroxy-3,5-dimethoxycinnamate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10919]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-3422]]
+* [[RXN-8014]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54710960 54710960]
+* CAS : 530-59-6
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=59261 59261]
+* HMDB : HMDB32616
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00482 C00482]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573878.html 4573878]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=30023 30023]
+{{#set: smiles=COC1(C=C(C=C(OC)C(O)=1)C=CC([O-])=O)}}
+{{#set: common name=sinapate}}
+{{#set: inchi key=InChIKey=PCMORTLOPMLEFB-ONEGZZNKSA-M}}
+{{#set: molecular weight=223.205    }}
+{{#set: common name=3,5-dimethoxy-4-hydroxycinnamate|sinapinate|sinapinic acid|sinapic acid|3,5-dimethoxy-4-hydroxycinnamic acid|4-hydroxy-3,5-dimethoxycinnamate}}
+{{#set: consumed by=RXN-10919}}
+{{#set: produced by=RXN-3422|RXN-8014}}

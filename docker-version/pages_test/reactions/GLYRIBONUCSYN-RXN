@@ -1,0 +1,77 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLYRIBONUCSYN-RXN GLYRIBONUCSYN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** phosphoribosylamine--glycine_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.3.4.13 EC-6.3.4.13]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[5-P-BETA-D-RIBOSYL-AMINE]][c] '''+''' 1 [[GLY]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[5-PHOSPHO-RIBOSYL-GLYCINEAMIDE]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 5-phospho-&beta;-D-ribosylamine[c] '''+''' 1 glycine[c] '''+''' 1 ATP[c] '''=>''' 1 phosphate[c] '''+''' 1 N1-(5-phospho-&beta;-D-ribosyl)glycinamide[c] '''+''' 1 ADP[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1369]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6121]], 5-aminoimidazole ribonucleotide biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6121 PWY-6121]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6122]], 5-aminoimidazole ribonucleotide biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6122 PWY-6122]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6277]], superpathway of 5-aminoimidazole ribonucleotide biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6277 PWY-6277]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17453 17453]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04144 R04144]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P07244 P07244]
+** [http://www.uniprot.org/uniprot/Q58347 Q58347]
+** [http://www.uniprot.org/uniprot/P12039 P12039]
+** [http://www.uniprot.org/uniprot/P21872 P21872]
+** [http://www.uniprot.org/uniprot/P15640 P15640]
+** [http://www.uniprot.org/uniprot/P00967 P00967]
+** [http://www.uniprot.org/uniprot/P16340 P16340]
+** [http://www.uniprot.org/uniprot/P22102 P22102]
+** [http://www.uniprot.org/uniprot/Q9JWU6 Q9JWU6]
+** [http://www.uniprot.org/uniprot/P43845 P43845]
+** [http://www.uniprot.org/uniprot/Q9PN47 Q9PN47]
+** [http://www.uniprot.org/uniprot/Q64737 Q64737]
+** [http://www.uniprot.org/uniprot/P20772 P20772]
+** [http://www.uniprot.org/uniprot/P26977 P26977]
+** [http://www.uniprot.org/uniprot/Q59492 Q59492]
+** [http://www.uniprot.org/uniprot/P74232 P74232]
+** [http://www.uniprot.org/uniprot/Q42804 Q42804]
+** [http://www.uniprot.org/uniprot/P52421 P52421]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=phosphoribosylamine--glycine_ligase}}
+{{#set: ec number=EC-6.3.4.13}}
+{{#set: gene associated=Tiso_gene_1369}}
+{{#set: in pathway=PWY-6121|PWY-6122|PWY-6277}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|manual-primary_network|annotation-experimental_annotation|orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,83 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PYRROLINECARBDEHYDROG-RXN PYRROLINECARBDEHYDROG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 1-pyrroline-5-carboxylate dehydrogenase
+** ORF
+** delta-1-pyrroline-5-carboxylate_dehydrogenase_mitochondrial
+** delta-1-pyrroline-5-carboxylate_synthase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[WATER]][c] '''+''' 1 [[NAD]][c] '''+''' 1 [[L-DELTA1-PYRROLINE_5-CARBOXYLATE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[GLT]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 2 H2O[c] '''+''' 1 NAD+[c] '''+''' 1 (S)-1-pyrroline-5-carboxylate[c] '''=>''' 1 H+[c] '''+''' 1 L-glutamate[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7381]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18338]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9680]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_886]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_3513]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_6952]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_18337]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16634]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16417 16417]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00707 R00707]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9ZN12 Q9ZN12]
+** [http://www.uniprot.org/uniprot/Q9PMG0 Q9PMG0]
+** [http://www.uniprot.org/uniprot/P09546 P09546]
+** [http://www.uniprot.org/uniprot/Q9JSY1 Q9JSY1]
+** [http://www.uniprot.org/uniprot/Q9K0Z9 Q9K0Z9]
+** [http://www.uniprot.org/uniprot/O24897 O24897]
+** [http://www.uniprot.org/uniprot/Q59426 Q59426]
+** [http://www.uniprot.org/uniprot/P07275 P07275]
+** [http://www.uniprot.org/uniprot/P10503 P10503]
+** [http://www.uniprot.org/uniprot/P74275 P74275]
+** [http://www.uniprot.org/uniprot/O74766 O74766]
+** [http://www.uniprot.org/uniprot/P95629 P95629]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=1-pyrroline-5-carboxylate dehydrogenase}}
+{{#set: common name=ORF}}
+{{#set: common name=delta-1-pyrroline-5-carboxylate_dehydrogenase_mitochondrial}}
+{{#set: common name=delta-1-pyrroline-5-carboxylate_synthase}}
+{{#set: gene associated=Tiso_gene_7381|Tiso_gene_18338|Tiso_gene_9680|Tiso_gene_886|Tiso_gene_3513|Tiso_gene_6952|Tiso_gene_18337|Tiso_gene_16634}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,55 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SULFATE SULFATE] ==
+* smiles:
+** O=S(=O)([O-])[O-]
+* common name:
+** sulfate
+* inchi key:
+** InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
+* molecular weight:
+** 96.058    
+* Synonym(s):
+** sulfuric acid
+** H2SO4
+** sulphate
+** SO4-2
+** SO42-
+** SO4--
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_SULFATE]]
+== Reaction(s) known to produce the compound ==
+* [[3.1.6.13-RXN]]
+* [[3.1.6.12-RXN]]
+* [[TransportSeed_SULFATE]]
+* [[ADENYLYLSULFATASE-RXN]]
+* [[RXN-11569]]
+* [[3.1.6.14-RXN]]
+* [[CEREBROSIDE-SULFATASE-RXN]]
+* [[ARYLSULFAT-RXN]]
+* [[RXN-16483]]
+* [[RXN-11570]]
+== Reaction(s) of unknown directionality ==
+* [[SULFATE-ADENYLYLTRANS-RXN]]
+* [[ExchangeSeed_SULFATE]]
+== External links  ==
+* CAS : 14808-79-8
+* BIGG : so4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1117 1117]
+* HMDB : HMDB01448
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00059 C00059]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1085.html 1085]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16189 16189]
+* METABOLIGHTS : MTBLC16189
+{{#set: smiles=O=S(=O)([O-])[O-]}}
+{{#set: common name=sulfate}}
+{{#set: inchi key=InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L}}
+{{#set: molecular weight=96.058    }}
+{{#set: common name=sulfuric acid|H2SO4|sulphate|SO4-2|SO42-|SO4--}}
+{{#set: consumed by=TransportSeed_SULFATE}}
+{{#set: produced by=3.1.6.13-RXN|3.1.6.12-RXN|TransportSeed_SULFATE|ADENYLYLSULFATASE-RXN|RXN-11569|3.1.6.14-RXN|CEREBROSIDE-SULFATASE-RXN|ARYLSULFAT-RXN|RXN-16483|RXN-11570}}
+{{#set: reversible reaction associated=SULFATE-ADENYLYLTRANS-RXN|ExchangeSeed_SULFATE}}

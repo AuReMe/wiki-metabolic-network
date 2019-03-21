@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11124 ==
+* right end position:
+** 7883
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4312
+* centisome position:
+** 53.718697    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=7883}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4312}}
+{{#set: centisome position=53.718697    }}
+{{#set: reaction associated=GLUTAMINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

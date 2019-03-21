@@ -1,0 +1,53 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ETOH ETOH] ==
+* smiles:
+** CCO
+* common name:
+** ethanol
+* inchi key:
+** InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+* molecular weight:
+** 46.069    
+* Synonym(s):
+** absolute alcohol
+** alcohol
+** EtOH
+** eth
+** ethyl alcohol
+** grain alcohol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12363]]
+== Reaction(s) known to produce the compound ==
+* [[ACDHi]]
+* [[RXN-8748]]
+* [[ALCDHi]]
+* [[ACDHmi]]
+* [[ALCDHmi]]
+* [[ALCDH_nadp_hi]]
+* [[ALCDH_nadp_i]]
+== Reaction(s) of unknown directionality ==
+* [[ALCOHOL-DEHYDROG-RXN]]
+* [[RXN-12484]]
+== External links  ==
+* CAS : 64-17-5
+* BIGG : etoh
+* DRUGBANK : DB00898
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=702 702]
+* HMDB : HMDB00108
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00469 C00469]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.682.html 682]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16236 16236]
+* METABOLIGHTS : MTBLC16236
+{{#set: smiles=CCO}}
+{{#set: common name=ethanol}}
+{{#set: inchi key=InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N}}
+{{#set: molecular weight=46.069    }}
+{{#set: common name=absolute alcohol|alcohol|EtOH|eth|ethyl alcohol|grain alcohol}}
+{{#set: consumed by=RXN-12363}}
+{{#set: produced by=ACDHi|RXN-8748|ALCDHi|ACDHmi|ALCDHmi|ALCDH_nadp_hi|ALCDH_nadp_i}}
+{{#set: reversible reaction associated=ALCOHOL-DEHYDROG-RXN|RXN-12484}}

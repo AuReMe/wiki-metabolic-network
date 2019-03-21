@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_807 ==
+* right end position:
+** 18544
+* transcription direction:
+** POSITIVE
+* left end position:
+** 17569
+* centisome position:
+** 61.346416    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-TYROSINE-PHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=18544}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=17569}}
+{{#set: centisome position=61.346416    }}
+{{#set: reaction associated=PROTEIN-TYROSINE-PHOSPHATASE-RXN}}

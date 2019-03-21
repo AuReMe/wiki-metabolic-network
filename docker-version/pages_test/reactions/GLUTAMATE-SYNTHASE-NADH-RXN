@@ -1,0 +1,62 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLUTAMATE-SYNTHASE-NADH-RXN GLUTAMATE-SYNTHASE-NADH-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.4.1.14 EC-1.4.1.14]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[GLN]][c] '''+''' 1 [[2-KETOGLUTARATE]][c] '''=>''' 1 [[NAD]][c] '''+''' 2 [[GLT]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 NADH[c] '''+''' 1 L-glutamine[c] '''+''' 1 2-oxoglutarate[c] '''=>''' 1 NAD+[c] '''+''' 2 L-glutamate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11511]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_1154]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_2581]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[GLUGLNSYN-PWY]], L-glutamate biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=GLUGLNSYN-PWY GLUGLNSYN-PWY]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+* [[PWY-6963]], ammonia assimilation cycle I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6963 PWY-6963]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13753 13753]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00093 R00093]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9RXX2 Q9RXX2]
+** [http://www.uniprot.org/uniprot/Q03460 Q03460]
+** [http://www.uniprot.org/uniprot/Q22275 Q22275]
+** [http://www.uniprot.org/uniprot/O61143 O61143]
+** [http://www.uniprot.org/uniprot/Q9C102 Q9C102]
+** [http://www.uniprot.org/uniprot/Q9P540 Q9P540]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.4.1.14}}
+{{#set: gene associated=Tiso_gene_11511|Tiso_gene_1154|Tiso_gene_2581}}
+{{#set: in pathway=GLUGLNSYN-PWY|PWY-6963}}
+{{#set: reconstruction category=orthology|manual}}
+{{#set: reconstruction source=orthology-athaliana|orthology-creinhardtii|manual-primary_network|orthology-esiliculosus|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

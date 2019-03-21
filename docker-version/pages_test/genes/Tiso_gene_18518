@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18518 ==
+* right end position:
+** 1401
+* transcription direction:
+** POSITIVE
+* left end position:
+** 34
+* centisome position:
+** 1.1451668    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-DEHYDROSPHINGANINE-REDUCTASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5129]]
+* [[PWY3DJ-12]]
+* [[SPHINGOLIPID-SYN-PWY]]
+== External links  ==
+{{#set: right end position=1401}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=34}}
+{{#set: centisome position=1.1451668    }}
+{{#set: reaction associated=3-DEHYDROSPHINGANINE-REDUCTASE-RXN}}
+{{#set: pathway associated=PWY-5129|PWY3DJ-12|SPHINGOLIPID-SYN-PWY}}

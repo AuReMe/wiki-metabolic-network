@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17263 CPD-17263] ==
+* smiles:
+** CCC=CCC=CCC=CCC=CCCCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** (8Z,11Z,14Z,17Z)-3-hydroxy-icosa-8,11,14,17-tetraenoyl-CoA
+* inchi key:
+** InChIKey=PCGPHLMAAZKQFQ-FPXDADDUSA-J
+* molecular weight:
+** 1065.958    
+* Synonym(s):
+** 3-hydroxy-eicosatetraenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-16020]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91819744 91819744]
+{{#set: smiles=CCC=CCC=CCC=CCC=CCCCCC(O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=(8Z,11Z,14Z,17Z)-3-hydroxy-icosa-8,11,14,17-tetraenoyl-CoA}}
+{{#set: inchi key=InChIKey=PCGPHLMAAZKQFQ-FPXDADDUSA-J}}
+{{#set: molecular weight=1065.958    }}
+{{#set: common name=3-hydroxy-eicosatetraenoyl-CoA}}
+{{#set: produced by=RXN-16020}}

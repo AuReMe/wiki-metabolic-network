@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=tRNA-Adenosines-37 tRNA-Adenosines-37] ==
+* common name:
+** an adenosine37 in tRNA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-6274]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an adenosine37 in tRNA}}
+{{#set: consumed by=RXN0-6274}}

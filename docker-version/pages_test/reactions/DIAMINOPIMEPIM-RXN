@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DIAMINOPIMEPIM-RXN DIAMINOPIMEPIM-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/5.1.1.7 EC-5.1.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[LL-DIAMINOPIMELATE]][c] '''<=>''' 1 [[MESO-DIAMINOPIMELATE]][c]
+* With common name(s):
+** 1 L,L-diaminopimelate[c] '''<=>''' 1 meso-diaminopimelate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5097]], L-lysine biosynthesis VI: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5097 PWY-5097]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+* [[DAPLYSINESYN-PWY]], L-lysine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=DAPLYSINESYN-PWY DAPLYSINESYN-PWY]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-2941]], L-lysine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2941 PWY-2941]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15393 15393]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02735 R02735]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9PMD8 Q9PMD8]
+** [http://www.uniprot.org/uniprot/Q9JV69 Q9JV69]
+** [http://www.uniprot.org/uniprot/P44859 P44859]
+** [http://www.uniprot.org/uniprot/Q58519 Q58519]
+** [http://www.uniprot.org/uniprot/P0A6K1 P0A6K1]
+** [http://www.uniprot.org/uniprot/Q51564 Q51564]
+** [http://www.uniprot.org/uniprot/P46814 P46814]
+** [http://www.uniprot.org/uniprot/O05322 O05322]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-5.1.1.7}}
+{{#set: in pathway=PWY-5097|DAPLYSINESYN-PWY|PWY-2941}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

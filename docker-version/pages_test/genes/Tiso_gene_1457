@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1457 ==
+* right end position:
+** 23117
+* transcription direction:
+** POSITIVE
+* left end position:
+** 21015
+* centisome position:
+** 88.61854    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CYSTEINE-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5331]]
+* [[CYSTEINE-DEG-PWY]]
+== External links  ==
+{{#set: right end position=23117}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=21015}}
+{{#set: centisome position=88.61854    }}
+{{#set: reaction associated=CYSTEINE-DIOXYGENASE-RXN}}
+{{#set: pathway associated=PWY-5331|CYSTEINE-DEG-PWY}}

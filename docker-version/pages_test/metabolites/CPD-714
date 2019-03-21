@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-714 CPD-714] ==
+* smiles:
+** CC(C)C(C)CC(O)C(C)[CH]3(CC[CH]4([CH]2(CC(=O)[CH]1(CC(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** cathasterone
+* inchi key:
+** InChIKey=JSVPGVHCEQDJCZ-VGEHDTSWSA-N
+* molecular weight:
+** 432.685    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-716]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-715]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15341086 15341086]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=23057 23057]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15790 C15790]
+{{#set: smiles=CC(C)C(C)CC(O)C(C)[CH]3(CC[CH]4([CH]2(CC(=O)[CH]1(CC(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=cathasterone}}
+{{#set: inchi key=InChIKey=JSVPGVHCEQDJCZ-VGEHDTSWSA-N}}
+{{#set: molecular weight=432.685    }}
+{{#set: consumed by=RXN-716}}
+{{#set: produced by=RXN-715}}

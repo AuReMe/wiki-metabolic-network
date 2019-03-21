@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10896 ==
+* right end position:
+** 7455
+* transcription direction:
+** POSITIVE
+* left end position:
+** 59
+* centisome position:
+** 0.7181984    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7455}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=59}}
+{{#set: centisome position=0.7181984    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN}}

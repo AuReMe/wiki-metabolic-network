@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5924 PWY-5924] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** limonene degradation II (L-limonene)
+* Synonym(s):
+** (-)-limonene degradation
+** (-)-(4S)-limonene degradation
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-9413]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15422]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9409 RXN-9409]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9411 RXN-9411]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9416 RXN-9416]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9418 RXN-9418]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9423 RXN-9423]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9948 RXN-9948]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=limonene degradation II (L-limonene)}}
+{{#set: common name=(-)-limonene degradation|(-)-(4S)-limonene degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

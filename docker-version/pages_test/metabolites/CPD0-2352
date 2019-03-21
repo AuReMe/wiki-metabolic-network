@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2352 CPD0-2352] ==
+* common name:
+** a tRNA precursor with a 5' extension and a short 3' extension
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.1.26.5-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-6479]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNA precursor with a 5' extension and a short 3' extension}}
+{{#set: consumed by=3.1.26.5-RXN}}
+{{#set: produced by=RXN0-6479}}

@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6562 PWY-6562] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-641 TAX-641]
+* common name:
+** norspermidine biosynthesis
+* Synonym(s):
+** sym-norspermidine biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18603]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ASPARTATEKIN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_4345]]
+*** [[Tiso_gene_17057]]
+*** [[Tiso_gene_13809]]
+*** [[Tiso_gene_16097]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.1.1.86-RXN 4.1.1.86-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R101-RXN R101-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11565 RXN-11565]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9380 RXN-9380]
+== External links  ==
+{{#set: taxonomic range=TAX-641}}
+{{#set: common name=norspermidine biosynthesis}}
+{{#set: common name=sym-norspermidine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

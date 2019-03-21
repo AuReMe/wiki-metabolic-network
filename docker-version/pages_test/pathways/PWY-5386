@@ -1,0 +1,47 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5386 PWY-5386] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** methylglyoxal degradation I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[GLYOXI-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_10185]]
+*** [[Tiso_gene_7507]]
+*** [[Tiso_gene_19902]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[GLYOXII-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_10895]]
+*** [[Tiso_gene_5281]]
+*** [[Tiso_gene_19886]]
+*** [[Tiso_gene_12304]]
+*** [[Tiso_gene_10894]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DLACTDEHYDROGFAD-RXN DLACTDEHYDROGFAD-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-5386 PWY-5386]
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=methylglyoxal degradation I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

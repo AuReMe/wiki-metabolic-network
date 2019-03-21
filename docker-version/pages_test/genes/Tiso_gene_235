@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_235 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GAPOXNPHOSPHN-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-1042]]
+* [[PWY66-399]]
+* [[GLUCONEO-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[SUCSYN-PWY]]
+* [[P124-PWY]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[P122-PWY]]
+* [[P185-PWY]]
+* [[PWY-5484]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: reaction associated=GAPOXNPHOSPHN-RXN}}
+{{#set: pathway associated=PWY-1042|PWY66-399|GLUCONEO-PWY|GLYCOLYSIS|PWY-6901|SUCSYN-PWY|P124-PWY|ANAGLYCOLYSIS-PWY|P122-PWY|P185-PWY|PWY-5484|PWY-7003}}

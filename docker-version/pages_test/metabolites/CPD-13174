@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13174 CPD-13174] ==
+* smiles:
+** C(C1(O)(C(=O)CCC=C1))(OCC2(C(O)=CC=CC=2))=O
+* common name:
+** salicyl-6-hydroxy-2-cyclohexene-on-oyl
+* inchi key:
+** InChIKey=WYYMYYOXCOEMCU-UHFFFAOYSA-N
+* molecular weight:
+** 262.262    
+* Synonym(s):
+** salicyl-HCH
+** 2-cyclohexene-1-carboxylic acid, 1-hydroxy-6-oxo-, (2-hydroxyphenyl)methyl ester
+** acylsaligenin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12252]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 529507-98-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=14731723 14731723]
+{{#set: smiles=C(C1(O)(C(=O)CCC=C1))(OCC2(C(O)=CC=CC=2))=O}}
+{{#set: common name=salicyl-6-hydroxy-2-cyclohexene-on-oyl}}
+{{#set: inchi key=InChIKey=WYYMYYOXCOEMCU-UHFFFAOYSA-N}}
+{{#set: molecular weight=262.262    }}
+{{#set: common name=salicyl-HCH|2-cyclohexene-1-carboxylic acid, 1-hydroxy-6-oxo-, (2-hydroxyphenyl)methyl ester|acylsaligenin}}
+{{#set: consumed by=RXN-12252}}

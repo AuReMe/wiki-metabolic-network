@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-444 CPD-444] ==
+* smiles:
+** CSCC1(OC(OP([O-])(=O)[O-])C(C1O)O)
+* common name:
+** S-methyl-5-thio-&alpha;-D-ribose 1-phosphate
+* inchi key:
+** InChIKey=JTFITTQBRJDSTL-KVTDHHQDSA-L
+* molecular weight:
+** 258.182    
+* Synonym(s):
+** 5-methylthioribose-1-phosphate
+** S5-methyl-5-thio-D-ribose-1-phosphate
+** 5-methylthio-D-ribose-1-phosphate
+** 5-MTR-1-P
+** 1-phosphomethylthioribose
+** 1-phospho-5-S-methylthioribose
+** 1-PMTR
+** 1-phospho-5-S-methylthio-&alpha;-D-ribofuranoside
+** S-methyl-5-thio-&alpha;-D-ribose 1-phosphate
+** S-methyl-5-thio-D-ribose 1-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[M5TRPI]]
+* [[5.3.1.23-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[M5TAP]]
+* [[M5TRK]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : 5mdr1p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266677 45266677]
+* HMDB : HMDB00963
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04188 C04188]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58533 58533]
+* METABOLIGHTS : MTBLC58533
+{{#set: smiles=CSCC1(OC(OP([O-])(=O)[O-])C(C1O)O)}}
+{{#set: common name=S-methyl-5-thio-&alpha;-D-ribose 1-phosphate}}
+{{#set: inchi key=InChIKey=JTFITTQBRJDSTL-KVTDHHQDSA-L}}
+{{#set: molecular weight=258.182    }}
+{{#set: common name=5-methylthioribose-1-phosphate|S5-methyl-5-thio-D-ribose-1-phosphate|5-methylthio-D-ribose-1-phosphate|5-MTR-1-P|1-phosphomethylthioribose|1-phospho-5-S-methylthioribose|1-PMTR|1-phospho-5-S-methylthio-&alpha;-D-ribofuranoside|S-methyl-5-thio-&alpha;-D-ribose 1-phosphate|S-methyl-5-thio-D-ribose 1-phosphate}}
+{{#set: consumed by=M5TRPI|5.3.1.23-RXN}}
+{{#set: produced by=M5TAP|M5TRK}}

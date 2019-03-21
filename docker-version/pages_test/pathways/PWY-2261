@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-2261 PWY-2261] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+* common name:
+** ascorbate glutathione cycle
+* Synonym(s):
+** hydrogen peroxide detoxification
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-3521]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16028]]
+*** [[Tiso_gene_15962]]
+*** [[Tiso_gene_5435]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-3523]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.8.5.1-RXN 1.8.5.1-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-3522 RXN-3522]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-2261 PWY-2261]
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: common name=ascorbate glutathione cycle}}
+{{#set: common name=hydrogen peroxide detoxification}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

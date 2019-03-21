@@ -1,0 +1,127 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5425 ==
+* right end position:
+** 9247
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7226
+* centisome position:
+** 53.57752    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.2.1.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ALCOHOL-DEHYDROG-GENERIC-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ALCOHOL-DEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ALLYSINE-DEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[L-IDITOL-2-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10781]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10855]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10911]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10915]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12448]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12560]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13198]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13279]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-5424]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-5901]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7644]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7657]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7693]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7694]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7700]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7706]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN3O-4113]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY66-21]]
+* [[PWY-6587]]
+* [[PWY-7111]]
+* [[FERMENTATION-PWY]]
+* [[PWY-5676]]
+* [[PWY-5082]]
+* [[PWY-7118]]
+* [[PWY-7013]]
+* [[PWY-3162]]
+* [[PWY-5751]]
+* [[PWY-6342]]
+* [[PWY1-3]]
+* [[P161-PWY]]
+* [[ETOH-ACETYLCOA-ANA-PWY]]
+* [[PWY-6871]]
+* [[PWY-7396]]
+* [[PWY-5057]]
+* [[PWY-5741]]
+* [[PWY-5076]]
+* [[PWY-6333]]
+* [[PWY-5486]]
+* [[PWY-5079]]
+* [[PWY-5078]]
+* [[PWY-6313]]
+* [[PWY66-425]]
+* [[PWY-5480]]
+* [[PWY3O-4108]]
+* [[PWY-7216]]
+* [[PWY-6802]]
+* [[LYSINE-DEG1-PWY]]
+* [[P122-PWY]]
+* [[PWY66-389]]
+* [[PWY4LZ-257]]
+* [[PWY-4101]]
+== External links  ==
+{{#set: right end position=9247}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7226}}
+{{#set: centisome position=53.57752    }}
+{{#set: reaction associated=1.2.1.31-RXN|ALCOHOL-DEHYDROG-GENERIC-RXN|ALCOHOL-DEHYDROG-RXN|ALLYSINE-DEHYDROG-RXN|L-IDITOL-2-DEHYDROGENASE-RXN|PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN|RXN-10781|RXN-10855|RXN-10911|RXN-10915|RXN-12448|RXN-12560|RXN-13198|RXN-13279|RXN-5424|RXN-5901|RXN-7644|RXN-7657|RXN-7693|RXN-7694|RXN-7700|RXN-7706|RXN3O-4113|RXN66-478}}
+{{#set: pathway associated=PWY66-21|PWY-6587|PWY-7111|FERMENTATION-PWY|PWY-5676|PWY-5082|PWY-7118|PWY-7013|PWY-3162|PWY-5751|PWY-6342|PWY1-3|P161-PWY|ETOH-ACETYLCOA-ANA-PWY|PWY-6871|PWY-7396|PWY-5057|PWY-5741|PWY-5076|PWY-6333|PWY-5486|PWY-5079|PWY-5078|PWY-6313|PWY66-425|PWY-5480|PWY3O-4108|PWY-7216|PWY-6802|LYSINE-DEG1-PWY|P122-PWY|PWY66-389|PWY4LZ-257|PWY-4101}}

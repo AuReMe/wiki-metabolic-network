@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-133 CPD1F-133] ==
+* smiles:
+** CC(=CC=CC=C(C=CC=C(C)C=CC12(C(C)(C)CC(O)CC(O1)(C)2))C)C=CC=C(C)C=CC34(C(C)(C)CC(O)CC(O3)(C)4)
+* common name:
+** violaxanthin
+* inchi key:
+** InChIKey=SZCBXWMUOPQSOX-WVJDLNGLSA-N
+* molecular weight:
+** 600.88    
+* Synonym(s):
+** 5,6,5',6'-diepoxy-5,6,5',6'-tetrahydro-&beta;,&beta;-carotene-3,3'-diol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7984]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7979]]
+* [[RXN-13193]]
+* [[ANXANor]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13185]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=448438 448438]
+* HMDB : HMDB03101
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35288 35288]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08614 C08614]
+{{#set: smiles=CC(=CC=CC=C(C=CC=C(C)C=CC12(C(C)(C)CC(O)CC(O1)(C)2))C)C=CC=C(C)C=CC34(C(C)(C)CC(O)CC(O3)(C)4)}}
+{{#set: common name=violaxanthin}}
+{{#set: inchi key=InChIKey=SZCBXWMUOPQSOX-WVJDLNGLSA-N}}
+{{#set: molecular weight=600.88    }}
+{{#set: common name=5,6,5',6'-diepoxy-5,6,5',6'-tetrahydro-&beta;,&beta;-carotene-3,3'-diol}}
+{{#set: consumed by=RXN-7984}}
+{{#set: produced by=RXN-7979|RXN-13193|ANXANor}}
+{{#set: reversible reaction associated=RXN-13185}}

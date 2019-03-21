@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CHLORIDE-PEROXIDASE-RXN CHLORIDE-PEROXIDASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha_beta-hydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.11.1.10 EC-1.11.1.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[HYDROGEN-PEROXIDE]][c] '''+''' 1 [[RH-Group]][c] '''+''' 1 [[CL-]][c] '''=>''' 1 [[Chlorides]][c] '''+''' 2 [[WATER]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 hydrogen peroxide[c] '''+''' 1 an organic molecule[c] '''+''' 1 chloride[c] '''=>''' 1 an organochlorine compound[c] '''+''' 2 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19107]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00052 R00052]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P04963 P04963]
+** [http://www.uniprot.org/uniprot/P49323 P49323]
+** [http://www.uniprot.org/uniprot/Q53540 Q53540]
+** [http://www.uniprot.org/uniprot/P49053 P49053]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha_beta-hydrolase}}
+{{#set: ec number=EC-1.11.1.10}}
+{{#set: gene associated=Tiso_gene_19107}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

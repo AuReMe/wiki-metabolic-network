@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8768 ==
+* right end position:
+** 9893
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7302
+* centisome position:
+** 73.638565    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9893}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7302}}
+{{#set: centisome position=73.638565    }}
+{{#set: reaction associated=2.4.2.31-RXN}}

@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14463 ==
+* right end position:
+** 1637
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1112
+* centisome position:
+** 19.712816    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[KDOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+* Reaction: [[KDOTRANS2-RXN]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[KDOSYN-PWY]]
+* [[PWY-7675]]
+== External links  ==
+{{#set: right end position=1637}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1112}}
+{{#set: centisome position=19.712816    }}
+{{#set: reaction associated=KDOTRANS-RXN|KDOTRANS2-RXN}}
+{{#set: pathway associated=KDOSYN-PWY|PWY-7675}}

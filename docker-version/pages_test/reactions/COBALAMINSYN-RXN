@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=COBALAMINSYN-RXN COBALAMINSYN-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.8.26 EC-2.7.8.26]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ADENOSYLCOBINAMIDE-GDP]][c] '''+''' 1 [[ALPHA-RIBAZOLE]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[ADENOSYLCOBALAMIN]][c] '''+''' 1 [[GMP]][c]
+* With common name(s):
+** 1 adenosylcobinamide-GDP[c] '''+''' 1 &alpha;-ribazole[c] '''<=>''' 1 H+[c] '''+''' 1 adenosylcobalamin[c] '''+''' 1 GMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8411]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_8410]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-5508]], adenosylcobalamin biosynthesis from cobyrinate a,c-diamide II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5508 PWY-5508]
+** '''3''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16049 16049]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05223 R05223]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.7.8.26}}
+{{#set: gene associated=Tiso_gene_8411|Tiso_gene_8410}}
+{{#set: in pathway=PWY-5508}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

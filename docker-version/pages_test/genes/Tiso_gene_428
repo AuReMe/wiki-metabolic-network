@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_428 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GCVP-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GLYCINE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[GLYCINE-SYN2-PWY]]
+* [[GLYCLEAV-PWY]]
+== External links  ==
+{{#set: reaction associated=GCVP-RXN|GLYCINE-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=GLYCINE-SYN2-PWY|GLYCLEAV-PWY}}

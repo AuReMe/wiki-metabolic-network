@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2-KETO-ADIPATE-DEHYDROG-RXN 2-KETO-ADIPATE-DEHYDROG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[2K-ADIPATE]][c] '''+''' 1 [[NAD]][c] '''+''' 1 [[CO-A]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[GLUTARYL-COA]][c]
+* With common name(s):
+** 1 2-oxoadipate[c] '''+''' 1 NAD+[c] '''+''' 1 coenzyme A[c] '''=>''' 1 CO2[c] '''+''' 1 NADH[c] '''+''' 1 glutaryl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9330]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_10209]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-5652]], 2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5652 PWY-5652]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+* [[PWY66-425]], L-lysine degradation II (L-pipecolate pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-425 PWY66-425]
+** '''3''' reactions found over '''8''' reactions in the full pathway
+* [[LYSINE-DEG1-PWY]], L-lysine degradation XI (mammalian): [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-DEG1-PWY LYSINE-DEG1-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30795 30795]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01933 R01933]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_9330|Tiso_gene_10209}}
+{{#set: in pathway=PWY-5652|PWY66-425|LYSINE-DEG1-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

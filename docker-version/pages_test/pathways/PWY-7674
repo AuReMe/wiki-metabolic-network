@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7674 PWY-7674] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-267890 TAX-267890]
+* common name:
+** CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis
+* Synonym(s):
+** CMP-Kdo8N biosynthesis I
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[KDO-8PSYNTH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1350]]
+*** [[Tiso_gene_20348]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DARAB5PISOM-RXN DARAB5PISOM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=KDO-8PPHOSPHAT-RXN KDO-8PPHOSPHAT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16746 RXN-16746]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16747 RXN-16747]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16748 RXN-16748]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16804 RXN-16804]
+== External links  ==
+{{#set: taxonomic range=TAX-267890}}
+{{#set: common name=CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis}}
+{{#set: common name=CMP-Kdo8N biosynthesis I}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

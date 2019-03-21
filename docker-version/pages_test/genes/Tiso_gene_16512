@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16512 ==
+* right end position:
+** 4234
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3082
+* centisome position:
+** 71.49153    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[THIAMIN-PYROPHOSPHOKINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[THMPPPT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TMDPT]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6907]]
+* [[PWY-6898]]
+* [[PWY-7356]]
+* [[PWY-6908]]
+== External links  ==
+{{#set: right end position=4234}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3082}}
+{{#set: centisome position=71.49153    }}
+{{#set: reaction associated=THIAMIN-PYROPHOSPHOKINASE-RXN|THMPPPT|TMDPT}}
+{{#set: pathway associated=PWY-6907|PWY-6898|PWY-7356|PWY-6908}}

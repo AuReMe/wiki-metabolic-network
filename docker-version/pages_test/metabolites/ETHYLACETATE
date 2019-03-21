@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ETHYLACETATE ETHYLACETATE] ==
+* smiles:
+** CCOC(=O)C
+* common name:
+** ethyl acetate
+* inchi key:
+** InChIKey=XEKOWRVHYACXOJ-UHFFFAOYSA-N
+* molecular weight:
+** 88.106    
+* Synonym(s):
+** ethylether
+** ether
+** ethyl
+** acetic-acid-ethylester
+** acet-eth-ester
+** acet-ethylester
+** acetic ester
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12363]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 141-78-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=8857 8857]
+* HMDB : HMDB31217
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00849 C00849]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8525.html 8525]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27750 27750]
+* METABOLIGHTS : MTBLC27750
+{{#set: smiles=CCOC(=O)C}}
+{{#set: common name=ethyl acetate}}
+{{#set: inchi key=InChIKey=XEKOWRVHYACXOJ-UHFFFAOYSA-N}}
+{{#set: molecular weight=88.106    }}
+{{#set: common name=ethylether|ether|ethyl|acetic-acid-ethylester|acet-eth-ester|acet-ethylester|acetic ester}}
+{{#set: produced by=RXN-12363}}

@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DNNH DNNH] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** deamino-NAD+ nucleotidohydrolase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[DEAMIDO-NAD]][c] '''+''' 1.0 [[WATER]][c] '''=>''' 1.0 [[AMP]][c] '''+''' 1.0 [[NICOTINATE_NUCLEOTIDE]][c] '''+''' 2.0 [[PROTON]][c]
+* With common name(s):
+** 1.0 nicotinate adenine dinucleotide[c] '''+''' 1.0 H2O[c] '''=>''' 1.0 AMP[c] '''+''' 1.0 &beta;-nicotinate D-ribonucleotide[c] '''+''' 2.0 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9180]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_7189]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2918]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2747]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=deamino-NAD+ nucleotidohydrolase}}
+{{#set: gene associated=Tiso_gene_9180|Tiso_gene_7189|Tiso_gene_2918|Tiso_gene_2747}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

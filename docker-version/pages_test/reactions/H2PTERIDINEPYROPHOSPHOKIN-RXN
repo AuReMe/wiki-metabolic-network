@@ -1,0 +1,70 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=H2PTERIDINEPYROPHOSPHOKIN-RXN H2PTERIDINEPYROPHOSPHOKIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** folic_acid_synthesis_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.6.3 EC-2.7.6.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[DIHYDROPTERIN-CH2OH-PP]][c] '''+''' 1 [[AMP]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 6-(hydroxymethyl)-7,8-dihydropterin[c] '''+''' 1 ATP[c] '''=>''' 1 (7,8-dihydropterin-6-yl)methyl diphosphate[c] '''+''' 1 AMP[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11659]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7539]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7539 PWY-7539]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6797]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (archaea): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6797 PWY-6797]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6147]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6147 PWY-6147]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11412 11412]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03503 R03503]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P22291 P22291]
+** [http://www.uniprot.org/uniprot/P26281 P26281]
+** [http://www.uniprot.org/uniprot/O84619 O84619]
+** [http://www.uniprot.org/uniprot/Q9ZM35 Q9ZM35]
+** [http://www.uniprot.org/uniprot/Q9RXY4 Q9RXY4]
+** [http://www.uniprot.org/uniprot/O66550 O66550]
+** [http://www.uniprot.org/uniprot/O25680 O25680]
+** [http://www.uniprot.org/uniprot/Q9PJ54 Q9PJ54]
+** [http://www.uniprot.org/uniprot/Q9JV81 Q9JV81]
+** [http://www.uniprot.org/uniprot/P64143 P64143]
+** [http://www.uniprot.org/uniprot/Q9Z7E8 Q9Z7E8]
+** [http://www.uniprot.org/uniprot/P82602 P82602]
+** [http://www.uniprot.org/uniprot/P29252 P29252]
+** [http://www.uniprot.org/uniprot/P72736 P72736]
+** [http://www.uniprot.org/uniprot/O04862 O04862]
+** [http://www.uniprot.org/uniprot/Q9SZV3 Q9SZV3]
+** [http://www.uniprot.org/uniprot/Q9X8I1 Q9X8I1]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=folic_acid_synthesis_protein}}
+{{#set: ec number=EC-2.7.6.3}}
+{{#set: gene associated=Tiso_gene_11659}}
+{{#set: in pathway=PWY-7539|PWY-6797|PWY-6147}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

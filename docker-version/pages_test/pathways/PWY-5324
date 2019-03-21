@@ -1,0 +1,22 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5324 PWY-5324] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** L-lysine degradation IX
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-8173]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=LYSINE--PYRUVATE-6-AMINOTRANSFERASE-RXN LYSINE--PYRUVATE-6-AMINOTRANSFERASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=L-lysine degradation IX}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

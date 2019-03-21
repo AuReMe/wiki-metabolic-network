@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6621 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-1882]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7771]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7772]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY4FS-11]]
+* [[PWY4FS-12]]
+* [[PWY4FS-13]]
+* [[PWY-5115]]
+* [[PWY-882]]
+== External links  ==
+{{#set: reaction associated=RXN-1882|RXN-7771|RXN-7772}}
+{{#set: pathway associated=PWY4FS-11|PWY4FS-12|PWY4FS-13|PWY-5115|PWY-882}}

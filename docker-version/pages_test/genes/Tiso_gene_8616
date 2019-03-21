@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8616 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8626]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-5381]]
+* [[PWY-5443]]
+== External links  ==
+{{#set: reaction associated=PROTEIN-KINASE-RXN|RXN-8443|RXN-8626}}
+{{#set: pathway associated=PWY-5381|PWY-5443}}

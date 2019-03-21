@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-SULFINOALANINE 3-SULFINOALANINE] ==
+* smiles:
+** C(C([N+])C(=O)[O-])S([O-])=O
+* common name:
+** 3-sulfinoalanine
+* inchi key:
+** InChIKey=ADVPTQAUNPRNPO-REOHCLBHSA-M
+* molecular weight:
+** 152.145    
+* Synonym(s):
+** cysteine sulfinate
+** cysteine sulphinate
+** L-cysteine sulfinate
+** 3-sulfino-L-alanine
+** L-cysteinesulfinic acid
+** 3-sulphino-L-alanine
+** cysteine-sulfinate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[CYSTEINE-DIOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[3-SULFINOALANINE-AMINOTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 1115-65-7
+* BIGG : 3sala
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1549097 1549097]
+* HMDB : HMDB60179
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00606 C00606]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1266064.html 1266064]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61085 61085]
+* METABOLIGHTS : MTBLC61085
+{{#set: smiles=C(C([N+])C(=O)[O-])S([O-])=O}}
+{{#set: common name=3-sulfinoalanine}}
+{{#set: inchi key=InChIKey=ADVPTQAUNPRNPO-REOHCLBHSA-M}}
+{{#set: molecular weight=152.145    }}
+{{#set: common name=cysteine sulfinate|cysteine sulphinate|L-cysteine sulfinate|3-sulfino-L-alanine|L-cysteinesulfinic acid|3-sulphino-L-alanine|cysteine-sulfinate}}
+{{#set: produced by=CYSTEINE-DIOXYGENASE-RXN}}
+{{#set: reversible reaction associated=3-SULFINOALANINE-AMINOTRANSFERASE-RXN}}

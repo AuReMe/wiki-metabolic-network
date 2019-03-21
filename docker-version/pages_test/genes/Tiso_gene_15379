@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15379 ==
+* right end position:
+** 2311
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 348
+* centisome position:
+** 6.884273    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDROOROT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7790]]
+* [[PWY-7791]]
+* [[PWY-5686]]
+== External links  ==
+{{#set: right end position=2311}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=348}}
+{{#set: centisome position=6.884273    }}
+{{#set: reaction associated=DIHYDROOROT-RXN}}
+{{#set: pathway associated=PWY-7790|PWY-7791|PWY-5686}}

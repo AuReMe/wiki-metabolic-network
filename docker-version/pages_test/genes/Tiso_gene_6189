@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6189 ==
+* right end position:
+** 5198
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4365
+* centisome position:
+** 35.046165    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CYTOCHROME-B5-REDUCTASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-11195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5198}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4365}}
+{{#set: centisome position=35.046165    }}
+{{#set: reaction associated=CYTOCHROME-B5-REDUCTASE-RXN|RXN-11195}}

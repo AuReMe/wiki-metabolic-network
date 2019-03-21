@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACACT6 ACACT6] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Lauroyl-CoA:acetyl-CoA C-acyltransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CO-A]][x] '''+''' 1.0 [[CPD-10284]][x] '''<=>''' 1.0 [[ACETYL-COA]][x] '''+''' 1.0 [[LAUROYLCOA-CPD]][x]
+* With common name(s):
+** 1.0 coenzyme A[x] '''+''' 1.0 3-oxo-myristoyl-CoA[x] '''<=>''' 1.0 acetyl-CoA[x] '''+''' 1.0 lauroyl-CoA[x]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16181]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Lauroyl-CoA:acetyl-CoA C-acyltransferase}}
+{{#set: gene associated=Tiso_gene_16181}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

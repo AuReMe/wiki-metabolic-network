@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11155 ==
+* right end position:
+** 4076
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1744
+* centisome position:
+** 21.840952    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.6.3.50-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=4076}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1744}}
+{{#set: centisome position=21.840952    }}
+{{#set: reaction associated=3.6.3.50-RXN|ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN|ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

@@ -1,0 +1,63 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PHOSACETYLGLUCOSAMINEMUT-RXN PHOSACETYLGLUCOSAMINEMUT-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** atp-dependent_metalloprotease
+** phosphoacetylglucosamine_mutase
+* ec number:
+** [http://enzyme.expasy.org/EC/5.4.2.3 EC-5.4.2.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[N-ACETYL-D-GLUCOSAMINE-6-P]][c] '''<=>''' 1 [[N-ACETYL-D-GLUCOSAMINE-1-P]][c]
+* With common name(s):
+** 1 N-acetyl-D-glucosamine 6-phosphate[c] '''<=>''' 1 N-acetyl-&alpha;-D-glucosamine 1-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13231]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13230]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5514]], UDP-N-acetyl-D-galactosamine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5514 PWY-5514]
+** '''5''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6906]], chitin derivatives degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6906 PWY-6906]
+** '''1''' reactions found over '''8''' reactions in the full pathway
+* [[UDPNACETYLGALSYN-PWY]], UDP-N-acetyl-D-glucosamine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=UDPNACETYLGALSYN-PWY UDPNACETYLGALSYN-PWY]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23804 23804]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R08193 R08193]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P38628 P38628]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=atp-dependent_metalloprotease}}
+{{#set: common name=phosphoacetylglucosamine_mutase}}
+{{#set: ec number=EC-5.4.2.3}}
+{{#set: gene associated=Tiso_gene_13231|Tiso_gene_13230}}
+{{#set: in pathway=PWY-5514|PWY-6906|UDPNACETYLGALSYN-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

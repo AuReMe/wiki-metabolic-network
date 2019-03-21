@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_634 ==
+* right end position:
+** 26696
+* transcription direction:
+** POSITIVE
+* left end position:
+** 22177
+* centisome position:
+** 71.91918    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.25-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=26696}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=22177}}
+{{#set: centisome position=71.91918    }}
+{{#set: reaction associated=3.2.1.25-RXN}}

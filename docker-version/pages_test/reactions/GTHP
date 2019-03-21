@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GTHP GTHP] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutathione:hydrogen-peroxide oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[HYDROGEN-PEROXIDE]][c] '''+''' 2.0 [[GLUTATHIONE]][c] '''=>''' 2.0 [[WATER]][c] '''+''' 1.0 [[OXIDIZED-GLUTATHIONE]][c]
+* With common name(s):
+** 1.0 hydrogen peroxide[c] '''+''' 2.0 glutathione[c] '''=>''' 2.0 H2O[c] '''+''' 1.0 glutathione disulfide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6680]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutathione:hydrogen-peroxide oxidoreductase}}
+{{#set: gene associated=Tiso_gene_6680}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

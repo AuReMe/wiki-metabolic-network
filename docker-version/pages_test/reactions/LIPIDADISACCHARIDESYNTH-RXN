@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=LIPIDADISACCHARIDESYNTH-RXN LIPIDADISACCHARIDESYNTH-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.182 EC-2.4.1.182]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OH-MYRISTOYL]][c] '''+''' 1 [[BISOHMYR-GLUCOSAMINYL-1P]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[UDP]][c] '''+''' 1 [[BISOHMYR-GLC]][c]
+* With common name(s):
+** 1 UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-&alpha;-D-glucosamine[c] '''+''' 1 2,3-bis[(3R)-3-hydroxymyristoyl]-&alpha;-D-glucosaminyl 1-phosphate[c] '''=>''' 1 H+[c] '''+''' 1 UDP[c] '''+''' 1 lipid A disaccharide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6736]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[NAGLIPASYN-PWY]], lipid IVA biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=NAGLIPASYN-PWY NAGLIPASYN-PWY]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22668 22668]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04606 R04606]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JX45 Q9JX45]
+** [http://www.uniprot.org/uniprot/Q9PIK8 Q9PIK8]
+** [http://www.uniprot.org/uniprot/P10441 P10441]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-2.4.1.182}}
+{{#set: gene associated=Tiso_gene_6736}}
+{{#set: in pathway=NAGLIPASYN-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

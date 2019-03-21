@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BIOPTERIN BIOPTERIN] ==
+* common name:
+** 7,8-dihydrobiopterin
+* Synonym(s):
+** q-BH2
+** dihydrobiopterin
+** P-quinonoid-dihydrobiopterin
+** 7,8-di-H-biopterin
+** L-erythro-dihydrobiopterin
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7908]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=7,8-dihydrobiopterin}}
+{{#set: common name=q-BH2|dihydrobiopterin|P-quinonoid-dihydrobiopterin|7,8-di-H-biopterin|L-erythro-dihydrobiopterin}}
+{{#set: produced by=RXN-7908}}

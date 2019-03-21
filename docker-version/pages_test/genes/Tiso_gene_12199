@@ -1,0 +1,14 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12199 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5532]]
+* [[CALVIN-PWY]]
+* [[PWY-5723]]
+== External links  ==
+{{#set: reaction associated=RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN}}
+{{#set: pathway associated=PWY-5532|CALVIN-PWY|PWY-5723}}

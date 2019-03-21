@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LINOLENOYL-COA LINOLENOYL-COA] ==
+* smiles:
+** CCC=CCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OCC3(OC(N2(C=NC1(C(N)=NC=NC=12)))C(O)C(OP(=O)([O-])[O-])3)
+* common name:
+** &alpha;-linolenoyl-CoA
+* inchi key:
+** InChIKey=OMKFKBGZHNJNEX-KZWMEWPFSA-J
+* molecular weight:
+** 1023.921    
+* Synonym(s):
+** 18:3&Delta;9,12,15
+** (9Z,12Z,15Z)-octadecatrienoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[FACOAE1839Z12Z15Z]]
+* [[RXN-13441]]
+== Reaction(s) known to produce the compound ==
+* [[LINOLENOYL-RXN]]
+* [[LNLNCACOAL]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16162 C16162]
+* HMDB : HMDB06290
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=51985 51985]
+* METABOLIGHTS : MTBLC51985
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49859601 49859601]
+{{#set: smiles=CCC=CCC=CCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OCC3(OC(N2(C=NC1(C(N)=NC=NC=12)))C(O)C(OP(=O)([O-])[O-])3)}}
+{{#set: common name=&alpha;-linolenoyl-CoA}}
+{{#set: inchi key=InChIKey=OMKFKBGZHNJNEX-KZWMEWPFSA-J}}
+{{#set: molecular weight=1023.921    }}
+{{#set: common name=18:3&Delta;9,12,15|(9Z,12Z,15Z)-octadecatrienoyl-CoA}}
+{{#set: consumed by=FACOAE1839Z12Z15Z|RXN-13441}}
+{{#set: produced by=LINOLENOYL-RXN|LNLNCACOAL}}

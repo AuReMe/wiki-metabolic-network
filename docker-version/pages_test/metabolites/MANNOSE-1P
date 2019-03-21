@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MANNOSE-1P MANNOSE-1P] ==
+* smiles:
+** C(O)C1(OC(OP(=O)([O-])[O-])C(O)C(O)C(O)1)
+* common name:
+** &alpha;-D-mannose 1-phosphate
+* inchi key:
+** InChIKey=HXXFSFRBOHSIMQ-RWOPYEJCSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** mannose-1-phosphate
+** D-mannose-1-phosphate
+** mannose-1-P
+** &alpha;-D-mannopyranose 1-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[2.7.7.13-RXN]]
+* [[GAMPG]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[MANNPGUANYLTRANGDP-RXN]]
+* [[PHOSMANMUT-RXN]]
+== External links  ==
+* CAS : 27251-84-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245607 25245607]
+* HMDB : HMDB06330
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00636 C00636]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58409 58409]
+* BIGG : man1p
+{{#set: smiles=C(O)C1(OC(OP(=O)([O-])[O-])C(O)C(O)C(O)1)}}
+{{#set: common name=&alpha;-D-mannose 1-phosphate}}
+{{#set: inchi key=InChIKey=HXXFSFRBOHSIMQ-RWOPYEJCSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=mannose-1-phosphate|D-mannose-1-phosphate|mannose-1-P|&alpha;-D-mannopyranose 1-phosphate}}
+{{#set: consumed by=2.7.7.13-RXN|GAMPG}}
+{{#set: reversible reaction associated=MANNPGUANYLTRANGDP-RXN|PHOSMANMUT-RXN}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TESTOSTERONE TESTOSTERONE] ==
+* smiles:
+** CC34([CH]2([CH]([CH]1(C(C)(C(O)CC1)CC2))CCC3=CC(=O)CC4))
+* common name:
+** testosterone
+* inchi key:
+** InChIKey=MUMGGOZAMZWBJJ-DYKIIFRCSA-N
+* molecular weight:
+** 288.429    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-343]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST02020002
+* Wikipedia : Testosterone
+* DRUGBANK : DB00624
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6013 6013]
+* HMDB : HMDB00234
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00535 C00535]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5215.html 5215]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17347 17347]
+* METABOLIGHTS : MTBLC17347
+{{#set: smiles=CC34([CH]2([CH]([CH]1(C(C)(C(O)CC1)CC2))CCC3=CC(=O)CC4))}}
+{{#set: common name=testosterone}}
+{{#set: inchi key=InChIKey=MUMGGOZAMZWBJJ-DYKIIFRCSA-N}}
+{{#set: molecular weight=288.429    }}
+{{#set: consumed by=RXN66-343}}

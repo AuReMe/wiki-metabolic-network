@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4276 ==
+* right end position:
+** 7410
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3822
+* centisome position:
+** 22.127018    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7410}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3822}}
+{{#set: centisome position=22.127018    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN}}

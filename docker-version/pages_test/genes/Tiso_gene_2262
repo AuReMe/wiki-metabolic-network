@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2262 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: reaction associated=PROTEIN-KINASE-RXN|RXN-8443}}
+{{#set: pathway associated=PWY-5381}}

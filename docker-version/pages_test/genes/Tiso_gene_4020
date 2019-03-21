@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4020 ==
+* right end position:
+** 10646
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 9202
+* centisome position:
+** 59.08945    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11839]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11840]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11841]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11842]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10646}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=9202}}
+{{#set: centisome position=59.08945    }}
+{{#set: reaction associated=RXN-11839|RXN-11840|RXN-11841|RXN-11842|TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

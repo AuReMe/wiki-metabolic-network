@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18379 CPD-18379] ==
+* smiles:
+** CCCCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])[O-]
+* common name:
+** 1-myristoylglycerol 3-phosphate
+* inchi key:
+** InChIKey=FAZBDRGXCKPVJU-MRXNPFEDSA-L
+* molecular weight:
+** 380.417    
+* Synonym(s):
+** 1-tetradecanoyl-sn-glycerol 3-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17019]]
+* [[RXN-17020]]
+* [[RXN-17022]]
+* [[RXN-17021]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMGP10050007
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71296162 71296162]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72683 72683]
+* BIGG : 1tdecg3p
+{{#set: smiles=CCCCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])[O-]}}
+{{#set: common name=1-myristoylglycerol 3-phosphate}}
+{{#set: inchi key=InChIKey=FAZBDRGXCKPVJU-MRXNPFEDSA-L}}
+{{#set: molecular weight=380.417    }}
+{{#set: common name=1-tetradecanoyl-sn-glycerol 3-phosphate}}
+{{#set: consumed by=RXN-17019|RXN-17020|RXN-17022|RXN-17021}}

@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-FORMYLKYNURENINE N-FORMYLKYNURENINE] ==
+* smiles:
+** [CH](=O)NC1(C=CC=CC=1C(=O)CC([N+])C(=O)[O-])
+* common name:
+** N-formylkynurenine
+* inchi key:
+** InChIKey=BYHJHXPTQMMKCA-QMMMGPOBSA-N
+* molecular weight:
+** 236.227    
+* Synonym(s):
+** N-Formyl-L-kynurenine
+
+== Reaction(s) known to consume the compound ==
+* [[ARYLFORMAMIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 1022-31-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202092 25202092]
+* HMDB : HMDB60485
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58629 58629]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02700 C02700]
+{{#set: smiles=[CH](=O)NC1(C=CC=CC=1C(=O)CC([N+])C(=O)[O-])}}
+{{#set: common name=N-formylkynurenine}}
+{{#set: inchi key=InChIKey=BYHJHXPTQMMKCA-QMMMGPOBSA-N}}
+{{#set: molecular weight=236.227    }}
+{{#set: common name=N-Formyl-L-kynurenine}}
+{{#set: consumed by=ARYLFORMAMIDASE-RXN}}

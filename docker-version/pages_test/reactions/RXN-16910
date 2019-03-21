@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16910 RXN-16910] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** carbamoyl_phosphate_synthetase
+** protein_pyr1-3
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[AMMONIUM]][c] '''+''' 1 [[CPD-18238]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[CARBAMATE]][c] '''+''' 2 [[PROTON]][c]
+* With common name(s):
+** 1 ammonium[c] '''+''' 1 carboxyphosphate[c] '''=>''' 1 phosphate[c] '''+''' 1 carbamate[c] '''+''' 2 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4976]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4975]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4685]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7693]], guadinomine B biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7693 PWY-7693]
+** '''3''' reactions found over '''12''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=carbamoyl_phosphate_synthetase}}
+{{#set: common name=protein_pyr1-3}}
+{{#set: gene associated=Tiso_gene_4976|Tiso_gene_4975|Tiso_gene_4685}}
+{{#set: in pathway=PWY-7693}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

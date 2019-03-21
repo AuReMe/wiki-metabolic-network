@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18274 ==
+* right end position:
+** 3027
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2062
+* centisome position:
+** 66.04741    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-ACETYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3027}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2062}}
+{{#set: centisome position=66.04741    }}
+{{#set: reaction associated=HISTONE-ACETYLTRANSFERASE-RXN}}

@@ -1,0 +1,62 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CDPDIGLYSYN-RXN CDPDIGLYSYN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** phosphatidate_cytidylyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7.41 EC-2.7.7.41]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-PHOSPHATIDATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CTP]][c] '''=>''' 1 [[CDPDIACYLGLYCEROL]][c] '''+''' 1 [[PPI]][c]
+* With common name(s):
+** 1 a 1,2-diacyl-sn-glycerol 3-phosphate[c] '''+''' 1 H+[c] '''+''' 1 CTP[c] '''=>''' 1 a CDP-diacylglycerol[c] '''+''' 1 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3522]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2311]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_3523]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7817]], type I lipoteichoic acid biosynthesis (S. aureus): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7817 PWY-7817]
+** '''7''' reactions found over '''16''' reactions in the full pathway
+* [[PWY-5667]], CDP-diacylglycerol biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5667 PWY-5667]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-5981]], CDP-diacylglycerol biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5981 PWY-5981]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+* [[PWY0-1319]], CDP-diacylglycerol biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1319 PWY0-1319]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16229 16229]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01799 R01799]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JX34 Q9JX34]
+** [http://www.uniprot.org/uniprot/Q9PMV2 Q9PMV2]
+** [http://www.uniprot.org/uniprot/Q59640 Q59640]
+** [http://www.uniprot.org/uniprot/P73548 P73548]
+** [http://www.uniprot.org/uniprot/P0ABG1 P0ABG1]
+** [http://www.uniprot.org/uniprot/O04940 O04940]
+** [http://www.uniprot.org/uniprot/Q49433 Q49433]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=phosphatidate_cytidylyltransferase}}
+{{#set: ec number=EC-2.7.7.41}}
+{{#set: gene associated=Tiso_gene_3522|Tiso_gene_2311|Tiso_gene_3523}}
+{{#set: in pathway=PWY-7817|PWY-5667|PWY-5981|PWY0-1319}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

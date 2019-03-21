@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9472 ==
+* right end position:
+** 8940
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6601
+* centisome position:
+** 70.85659    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15684]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[THIOL-OXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7533]]
+== External links  ==
+{{#set: right end position=8940}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6601}}
+{{#set: centisome position=70.85659    }}
+{{#set: reaction associated=RXN-15684|THIOL-OXIDASE-RXN}}
+{{#set: pathway associated=PWY-7533}}

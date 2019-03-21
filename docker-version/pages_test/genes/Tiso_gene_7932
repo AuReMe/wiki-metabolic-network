@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7932 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.11.22-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=2.7.11.22-RXN|PROTEIN-KINASE-RXN}}

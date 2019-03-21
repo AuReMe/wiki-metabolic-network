@@ -1,0 +1,85 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ALPHAGALACTOSID-RXN ALPHAGALACTOSID-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha-galactosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.22 EC-3.2.1.22]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[MELIBIOSE]][c] '''=>''' 1 [[D-galactopyranose]][c] '''+''' 1 [[Glucopyranose]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 melibiose[c] '''=>''' 1 D-galactopyranose[c] '''+''' 1 D-glucopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16101]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_8673]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2588]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_4615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_3392]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY0-1301]], melibiose degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1301 PWY0-1301]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28663 28663]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01101 R01101]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P16551 P16551]
+** [http://www.uniprot.org/uniprot/P27756 P27756]
+** [http://www.uniprot.org/uniprot/P04824 P04824]
+** [http://www.uniprot.org/uniprot/P06720 P06720]
+** [http://www.uniprot.org/uniprot/P06280 P06280]
+** [http://www.uniprot.org/uniprot/P51569 P51569]
+** [http://www.uniprot.org/uniprot/O93816 O93816]
+** [http://www.uniprot.org/uniprot/Q03647 Q03647]
+** [http://www.uniprot.org/uniprot/P14749 P14749]
+** [http://www.uniprot.org/uniprot/P28351 P28351]
+** [http://www.uniprot.org/uniprot/P43467 P43467]
+** [http://www.uniprot.org/uniprot/Q99172 Q99172]
+** [http://www.uniprot.org/uniprot/P41945 P41945]
+** [http://www.uniprot.org/uniprot/P41946 P41946]
+** [http://www.uniprot.org/uniprot/P41947 P41947]
+** [http://www.uniprot.org/uniprot/Q92457 Q92457]
+** [http://www.uniprot.org/uniprot/Q92456 Q92456]
+** [http://www.uniprot.org/uniprot/Q92451 Q92451]
+** [http://www.uniprot.org/uniprot/O04943 O04943]
+** [http://www.uniprot.org/uniprot/O04944 O04944]
+** [http://www.uniprot.org/uniprot/Q39811 Q39811]
+** [http://www.uniprot.org/uniprot/Q41100 Q41100]
+** [http://www.uniprot.org/uniprot/Q42656 Q42656]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha-galactosidase}}
+{{#set: ec number=EC-3.2.1.22}}
+{{#set: gene associated=Tiso_gene_16101|Tiso_gene_8673|Tiso_gene_2588|Tiso_gene_4615|Tiso_gene_3392}}
+{{#set: in pathway=PWY0-1301}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-creinhardtii|orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

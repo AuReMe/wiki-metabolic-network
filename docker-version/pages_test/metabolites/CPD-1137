@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1137 CPD-1137] ==
+* smiles:
+** C=C(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)C([O-])=O
+* common name:
+** itaconyl-CoA
+* inchi key:
+** InChIKey=NFVGYLGSSJPRKW-CITAKDKDSA-I
+* molecular weight:
+** 874.579    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8988]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00531 C00531]
+* HMDB : HMDB03377
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57381 57381]
+* METABOLIGHTS : MTBLC57381
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266606 45266606]
+{{#set: smiles=C=C(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)C([O-])=O}}
+{{#set: common name=itaconyl-CoA}}
+{{#set: inchi key=InChIKey=NFVGYLGSSJPRKW-CITAKDKDSA-I}}
+{{#set: molecular weight=874.579    }}
+{{#set: produced by=RXN-8988}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12521 CPD-12521] ==
+* smiles:
+** C1(O)(C(O)C(O)OC(C(=O)[O-])C(O)1)
+* common name:
+** &beta;-D-glucuronate
+* inchi key:
+** InChIKey=AEMOLEFTQBMNLQ-QIUUJYRFSA-M
+* molecular weight:
+** 193.133    
+* Synonym(s):
+** &beta;-D-glucuronic acid
+** &beta;-D-glucopyranuronic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15291]]
+* [[RXN-15289]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11877136 11877136]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10051464.html 10051464]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=85313 85313]
+* METABOLIGHTS : MTBLC28860
+{{#set: smiles=C1(O)(C(O)C(O)OC(C(=O)[O-])C(O)1)}}
+{{#set: common name=&beta;-D-glucuronate}}
+{{#set: inchi key=InChIKey=AEMOLEFTQBMNLQ-QIUUJYRFSA-M}}
+{{#set: molecular weight=193.133    }}
+{{#set: common name=&beta;-D-glucuronic acid|&beta;-D-glucopyranuronic acid}}
+{{#set: produced by=RXN-15291|RXN-15289}}

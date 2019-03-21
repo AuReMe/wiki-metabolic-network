@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5506 PWY-5506] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** methanol oxidation to formaldehyde IV
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[CATAL-RXN]]
+** 8 associated gene(s):
+*** [[Tiso_gene_3006]]
+*** [[Tiso_gene_11607]]
+*** [[Tiso_gene_11916]]
+*** [[Tiso_gene_12499]]
+*** [[Tiso_gene_5435]]
+*** [[Tiso_gene_4990]]
+*** [[Tiso_gene_19683]]
+*** [[Tiso_gene_15923]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=METHANOL-OXIDASE-RXN METHANOL-OXIDASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=methanol oxidation to formaldehyde IV}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

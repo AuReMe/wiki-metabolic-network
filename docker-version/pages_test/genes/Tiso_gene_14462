@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14462 ==
+* right end position:
+** 4221
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1112
+* centisome position:
+** 19.712816    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[KDOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[KDOSYN-PWY]]
+* [[PWY-7675]]
+== External links  ==
+{{#set: right end position=4221}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1112}}
+{{#set: centisome position=19.712816    }}
+{{#set: reaction associated=KDOTRANS-RXN}}
+{{#set: pathway associated=KDOSYN-PWY|PWY-7675}}

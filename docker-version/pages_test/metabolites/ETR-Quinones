@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ETR-Quinones ETR-Quinones] ==
+* common name:
+** an electron-transfer quinone
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[DIHYDROOROTATE-DEHYDROGENASE-RXN]]
+* [[RXN-11356]]
+* [[RXN-11357]]
+* [[RXN-15745]]
+* [[RXN0-5259]]
+* [[RXN0-7230]]
+* [[NQOR-RXN]]
+* [[RXN-14903]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15816]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12242]]
+== External links  ==
+{{#set: common name=an electron-transfer quinone}}
+{{#set: consumed by=DIHYDROOROTATE-DEHYDROGENASE-RXN|RXN-11356|RXN-11357|RXN-15745|RXN0-5259|RXN0-7230|NQOR-RXN|RXN-14903}}
+{{#set: produced by=RXN-15816}}
+{{#set: reversible reaction associated=RXN-12242}}

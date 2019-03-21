@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-C-METHYL-D-ERYTHRITOL-4-PHOSPHATE 2-C-METHYL-D-ERYTHRITOL-4-PHOSPHATE] ==
+* smiles:
+** CC(O)(CO)C(O)COP([O-])([O-])=O
+* common name:
+** 2-C-methyl-D-erythritol 4-phosphate
+* inchi key:
+** InChIKey=XMWHRVNVKDKBRG-UHNVWZDZSA-L
+* molecular weight:
+** 214.111    
+* Synonym(s):
+** MEP
+** 2-methylerylthritol 4-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[2.7.7.60-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[DXPREDISOM-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21608483 21608483]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10645747.html 10645747]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58262 58262]
+* BIGG : 2me4p
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11434 C11434]
+{{#set: smiles=CC(O)(CO)C(O)COP([O-])([O-])=O}}
+{{#set: common name=2-C-methyl-D-erythritol 4-phosphate}}
+{{#set: inchi key=InChIKey=XMWHRVNVKDKBRG-UHNVWZDZSA-L}}
+{{#set: molecular weight=214.111    }}
+{{#set: common name=MEP|2-methylerylthritol 4-phosphate}}
+{{#set: consumed by=2.7.7.60-RXN}}
+{{#set: reversible reaction associated=DXPREDISOM-RXN}}

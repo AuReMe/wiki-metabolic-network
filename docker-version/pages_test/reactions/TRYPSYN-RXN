@@ -1,0 +1,116 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TRYPSYN-RXN TRYPSYN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** tryptophan_synthase_(alpha_beta_chains)
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.20 EC-4.2.1.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[INDOLE-3-GLYCEROL-P]][c] '''+''' 1 [[SER]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[TRP]][c] '''+''' 1 [[GAP]][c]
+* With common name(s):
+** 1 (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate[c] '''+''' 1 L-serine[c] '''=>''' 1 H2O[c] '''+''' 1 L-tryptophan[c] '''+''' 1 D-glyceraldehyde 3-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4604]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17207]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10532 10532]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02722 R02722]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P11081 P11081]
+** [http://www.uniprot.org/uniprot/P14671 P14671]
+** [http://www.uniprot.org/uniprot/P13228 P13228]
+** [http://www.uniprot.org/uniprot/P18284 P18284]
+** [http://www.uniprot.org/uniprot/P43759 P43759]
+** [http://www.uniprot.org/uniprot/O84172 O84172]
+** [http://www.uniprot.org/uniprot/P11080 P11080]
+** [http://www.uniprot.org/uniprot/P16608 P16608]
+** [http://www.uniprot.org/uniprot/P18285 P18285]
+** [http://www.uniprot.org/uniprot/P16706 P16706]
+** [http://www.uniprot.org/uniprot/P12290 P12290]
+** [http://www.uniprot.org/uniprot/P42391 P42391]
+** [http://www.uniprot.org/uniprot/Q9PIF2 Q9PIF2]
+** [http://www.uniprot.org/uniprot/P12291 P12291]
+** [http://www.uniprot.org/uniprot/P42389 P42389]
+** [http://www.uniprot.org/uniprot/Q60179 Q60179]
+** [http://www.uniprot.org/uniprot/Q9PIF1 Q9PIF1]
+** [http://www.uniprot.org/uniprot/P07600 P07600]
+** [http://www.uniprot.org/uniprot/P07601 P07601]
+** [http://www.uniprot.org/uniprot/P06561 P06561]
+** [http://www.uniprot.org/uniprot/P56142 P56142]
+** [http://www.uniprot.org/uniprot/P06562 P06562]
+** [http://www.uniprot.org/uniprot/O27696 O27696]
+** [http://www.uniprot.org/uniprot/O28672 O28672]
+** [http://www.uniprot.org/uniprot/O66923 O66923]
+** [http://www.uniprot.org/uniprot/Q9JVC0 Q9JVC0]
+** [http://www.uniprot.org/uniprot/P43760 P43760]
+** [http://www.uniprot.org/uniprot/P34817 P34817]
+** [http://www.uniprot.org/uniprot/P34816 P34816]
+** [http://www.uniprot.org/uniprot/P17167 P17167]
+** [http://www.uniprot.org/uniprot/P17166 P17166]
+** [http://www.uniprot.org/uniprot/P19868 P19868]
+** [http://www.uniprot.org/uniprot/P19867 P19867]
+** [http://www.uniprot.org/uniprot/P16578 P16578]
+** [http://www.uniprot.org/uniprot/P43283 P43283]
+** [http://www.uniprot.org/uniprot/P43284 P43284]
+** [http://www.uniprot.org/uniprot/Q57011 Q57011]
+** [http://www.uniprot.org/uniprot/P31204 P31204]
+** [http://www.uniprot.org/uniprot/Q01998 Q01998]
+** [http://www.uniprot.org/uniprot/Q01997 Q01997]
+** [http://www.uniprot.org/uniprot/P34793 P34793]
+** [http://www.uniprot.org/uniprot/P42390 P42390]
+** [http://www.uniprot.org/uniprot/P50909 P50909]
+** [http://www.uniprot.org/uniprot/Q42529 Q42529]
+** [http://www.uniprot.org/uniprot/P51382 P51382]
+** [http://www.uniprot.org/uniprot/P77960 P77960]
+** [http://www.uniprot.org/uniprot/Q59992 Q59992]
+** [http://www.uniprot.org/uniprot/O22765 O22765]
+** [http://www.uniprot.org/uniprot/O04225 O04225]
+** [http://www.uniprot.org/uniprot/P25269 P25269]
+** [http://www.uniprot.org/uniprot/O64991 O64991]
+** [http://www.uniprot.org/uniprot/O05625 O05625]
+** [http://www.uniprot.org/uniprot/O13831 O13831]
+** [http://www.uniprot.org/uniprot/Q9YGB0 Q9YGB0]
+** [http://www.uniprot.org/uniprot/Q9YGA9 Q9YGA9]
+** [http://www.uniprot.org/uniprot/Q9X7C8 Q9X7C8]
+** [http://www.uniprot.org/uniprot/P00931 P00931]
+** [http://www.uniprot.org/uniprot/P00929 P00929]
+** [http://www.uniprot.org/uniprot/P0A2K1 P0A2K1]
+** [http://www.uniprot.org/uniprot/P0A877 P0A877]
+** [http://www.uniprot.org/uniprot/P0A879 P0A879]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=tryptophan_synthase_(alpha_beta_chains)}}
+{{#set: ec number=EC-4.2.1.20}}
+{{#set: gene associated=Tiso_gene_4604|Tiso_gene_17207}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|manual-primary_network|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

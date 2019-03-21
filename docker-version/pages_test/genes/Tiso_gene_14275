@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14275 ==
+* right end position:
+** 2599
+* transcription direction:
+** POSITIVE
+* left end position:
+** 119
+* centisome position:
+** 2.0720878    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIOHBUTANONEPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GTP-CYCLOHYDRO-II-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6167]]
+* [[PWY-6168]]
+* [[RIBOSYN2-PWY]]
+== External links  ==
+{{#set: right end position=2599}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=119}}
+{{#set: centisome position=2.0720878    }}
+{{#set: reaction associated=DIOHBUTANONEPSYN-RXN|GTP-CYCLOHYDRO-II-RXN}}
+{{#set: pathway associated=PWY-7539|PWY-6167|PWY-6168|RIBOSYN2-PWY}}

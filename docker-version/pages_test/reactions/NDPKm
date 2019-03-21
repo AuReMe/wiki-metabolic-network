@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NDPKm NDPKm] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** nucleoside-diphosphate kinase, mitochondria
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ATP]][m] '''+''' 1.0 [[DADP]][m] '''=>''' 1.0 [[ADP]][m] '''+''' 1.0 [[DATP]][m]
+* With common name(s):
+** 1.0 ATP[m] '''+''' 1.0 dADP[m] '''=>''' 1.0 ADP[m] '''+''' 1.0 dATP[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16529]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=nucleoside-diphosphate kinase, mitochondria}}
+{{#set: gene associated=Tiso_gene_16529}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

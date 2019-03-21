@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ceramides Ceramides] ==
+* common name:
+** a ceramide
+* Synonym(s):
+** an N-acylsphingosine
+** a sphingosine-containing ceramide
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11375]]
+== Reaction(s) known to produce the compound ==
+* [[SPHINGOMYELIN-PHOSPHODIESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a ceramide}}
+{{#set: common name=an N-acylsphingosine|a sphingosine-containing ceramide}}
+{{#set: consumed by=RXN-11375}}
+{{#set: produced by=SPHINGOMYELIN-PHOSPHODIESTERASE-RXN}}

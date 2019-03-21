@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16307 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-12375]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12376]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12377]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6829]]
+== External links  ==
+{{#set: reaction associated=RXN-12375|RXN-12376|RXN-12377}}
+{{#set: pathway associated=PWY-6829}}

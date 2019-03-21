@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11381 ==
+* right end position:
+** 13023
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10463
+* centisome position:
+** 79.974014    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.1.68-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6352]]
+* [[PWY-6351]]
+== External links  ==
+{{#set: right end position=13023}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10463}}
+{{#set: centisome position=79.974014    }}
+{{#set: reaction associated=2.7.1.68-RXN}}
+{{#set: pathway associated=PWY-6352|PWY-6351}}

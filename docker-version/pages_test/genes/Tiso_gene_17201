@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17201 ==
+* right end position:
+** 3793
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2555
+* centisome position:
+** 66.260376    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3793}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2555}}
+{{#set: centisome position=66.260376    }}
+{{#set: reaction associated=ATPASE-RXN}}

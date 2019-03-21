@@ -1,0 +1,115 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6728 PWY-6728] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183963 TAX-183963]
+* common name:
+** methylaspartate cycle
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''11''' reactions found over '''18''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[ACONITATEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[CITSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18030]]
+*** [[Tiso_gene_9601]]
+*** [[Tiso_gene_9603]]
+*** [[Tiso_gene_9602]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUTAMATE-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2337]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ISOCITDEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18262]]
+*** [[Tiso_gene_10809]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[MALSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14377]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[METHYLMALONYL-COA-MUT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9771]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[PROPIONYL-COA-CARBOXY-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5029]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[SUCCCOASYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15846]]
+*** [[Tiso_gene_11866]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=METHYLASPARTATE-AMMONIA-LYASE-RXN METHYLASPARTATE-AMMONIA-LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=METHYLASPARTATE-MUTASE-RXN METHYLASPARTATE-MUTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=METHYLMALONYL-COA-EPIM-RXN METHYLMALONYL-COA-EPIM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12168 RXN-12168]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14971 RXN-14971]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8960 RXN-8960]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8961 RXN-8961]
+== External links  ==
+{{#set: taxonomic range=TAX-183963}}
+{{#set: common name=methylaspartate cycle}}
+{{#set: reaction found=11}}
+{{#set: total reaction=18}}
+{{#set: completion rate=61.0}}

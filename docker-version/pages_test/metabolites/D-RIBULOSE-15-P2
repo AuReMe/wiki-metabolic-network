@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-RIBULOSE-15-P2 D-RIBULOSE-15-P2] ==
+* smiles:
+** C(OP([O-])([O-])=O)C(O)C(O)C(=O)COP(=O)([O-])[O-]
+* common name:
+** D-ribulose-1,5-bisphosphate
+* inchi key:
+** InChIKey=YAHZABJORDUQGO-NQXXGFSBSA-J
+* molecular weight:
+** 306.059    
+* Synonym(s):
+** ribulose 1,5-bisphosphate
+** D-ribulose-1,5-diphosphate
+** D-ribulose-1,5-P2
+
+== Reaction(s) known to consume the compound ==
+* [[RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PHOSPHORIBULOKINASE-RXN]]
+== External links  ==
+* CAS : 14689-84-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615473 23615473]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3541504.html 3541504]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57870 57870]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01182 C01182]
+{{#set: smiles=C(OP([O-])([O-])=O)C(O)C(O)C(=O)COP(=O)([O-])[O-]}}
+{{#set: common name=D-ribulose-1,5-bisphosphate}}
+{{#set: inchi key=InChIKey=YAHZABJORDUQGO-NQXXGFSBSA-J}}
+{{#set: molecular weight=306.059    }}
+{{#set: common name=ribulose 1,5-bisphosphate|D-ribulose-1,5-diphosphate|D-ribulose-1,5-P2}}
+{{#set: consumed by=RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN}}
+{{#set: reversible reaction associated=PHOSPHORIBULOKINASE-RXN}}

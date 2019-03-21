@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10446 ==
+* right end position:
+** 4440
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3294
+* centisome position:
+** 38.598545    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[S-FORMYLGLUTATHIONE-HYDROLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-1801]]
+== External links  ==
+{{#set: right end position=4440}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3294}}
+{{#set: centisome position=38.598545    }}
+{{#set: reaction associated=S-FORMYLGLUTATHIONE-HYDROLASE-RXN}}
+{{#set: pathway associated=PWY-1801}}

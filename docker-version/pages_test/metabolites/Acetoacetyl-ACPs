@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Acetoacetyl-ACPs Acetoacetyl-ACPs] ==
+* common name:
+** an acetoacetyl-[acp]
+* Synonym(s):
+** an acetoacetyl-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9514]]
+== Reaction(s) known to produce the compound ==
+* [[2.3.1.180-RXN]]
+* [[3-OXOACYL-ACP-SYNTH-BASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an acetoacetyl-[acp]}}
+{{#set: common name=an acetoacetyl-[acyl-carrier-protein]}}
+{{#set: consumed by=RXN-9514}}
+{{#set: produced by=2.3.1.180-RXN|3-OXOACYL-ACP-SYNTH-BASE-RXN}}

@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7396 PWY-7396] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** butanol and isobutanol biosynthesis (engineered)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''8''' reactions in the full pathway
+* [[1.4.3.19-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_13537]]
+*** [[Tiso_gene_16652]]
+*** [[Tiso_gene_11756]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[RXN-14986]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-161]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-7657]]
+** 5 associated gene(s):
+*** [[Tiso_gene_6562]]
+*** [[Tiso_gene_5425]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_5424]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3-ETHYLMALATE-SYNTHASE-RXN 3-ETHYLMALATE-SYNTHASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14984 RXN-14984]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14985 RXN-14985]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7643 RXN-7643]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=butanol and isobutanol biosynthesis (engineered)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=8}}
+{{#set: completion rate=50.0}}

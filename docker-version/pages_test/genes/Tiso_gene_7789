@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7789 ==
+* right end position:
+** 9321
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6888
+* centisome position:
+** 63.748264    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.6.3.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9321}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6888}}
+{{#set: centisome position=63.748264    }}
+{{#set: reaction associated=3.6.3.1-RXN}}

@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6787 ==
+* right end position:
+** 4341
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1706
+* centisome position:
+** 14.4197445    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.3.37-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY3O-6]]
+* [[PWY-6386]]
+* [[PWY-6387]]
+== External links  ==
+{{#set: right end position=4341}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1706}}
+{{#set: centisome position=14.4197445    }}
+{{#set: reaction associated=1.1.3.37-RXN|UDPNACETYLMURAMATEDEHYDROG-RXN}}
+{{#set: pathway associated=PWY3O-6|PWY-6386|PWY-6387}}

@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-108 CPD-108] ==
+* smiles:
+** CC1(C=CC(=CC=1)O)
+* common name:
+** 4-methylphenol
+* inchi key:
+** InChIKey=IWDCLRJOBJJRNH-UHFFFAOYSA-N
+* molecular weight:
+** 108.14    
+* Synonym(s):
+** 4-hydroxytoluene
+** p-hydroxytoluene
+** 4-cresol
+** p-cresol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15588]]
+== External links  ==
+* CAS : 106-44-5
+* DRUGBANK : DB01688
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2879 2879]
+* HMDB : HMDB01858
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01468 C01468]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13285340.html 13285340]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17847 17847]
+* METABOLIGHTS : MTBLC17847
+{{#set: smiles=CC1(C=CC(=CC=1)O)}}
+{{#set: common name=4-methylphenol}}
+{{#set: inchi key=InChIKey=IWDCLRJOBJJRNH-UHFFFAOYSA-N}}
+{{#set: molecular weight=108.14    }}
+{{#set: common name=4-hydroxytoluene|p-hydroxytoluene|4-cresol|p-cresol}}
+{{#set: reversible reaction associated=RXN-15588}}

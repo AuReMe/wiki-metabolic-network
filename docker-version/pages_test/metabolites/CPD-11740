@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11740 CPD-11740] ==
+* smiles:
+** C(P(C([O-])=O)([O-])=O)C(=O)C(=O)[O-]
+* common name:
+** carboxyphosphinopyruvate
+* inchi key:
+** InChIKey=YTKWPNBYPYOWCP-UHFFFAOYSA-K
+* molecular weight:
+** 193.029    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10828]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10827]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45479707 45479707]
+{{#set: smiles=C(P(C([O-])=O)([O-])=O)C(=O)C(=O)[O-]}}
+{{#set: common name=carboxyphosphinopyruvate}}
+{{#set: inchi key=InChIKey=YTKWPNBYPYOWCP-UHFFFAOYSA-K}}
+{{#set: molecular weight=193.029    }}
+{{#set: consumed by=RXN-10828}}
+{{#set: produced by=RXN-10827}}

@@ -1,0 +1,72 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.39-RXN 3.2.1.39-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.39 EC-3.2.1.39]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[1-3-beta-D-Glucans]][c] '''=>''' 1 [[1-3-beta-D-Glucans]][c] '''+''' 1 [[Glucopyranose]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a 1,3-&beta;-D-glucan[c] '''=>''' 1 a 1,3-&beta;-D-glucan[c] '''+''' 1 D-glucopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2599]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8689]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16519]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M1Y3 Q7M1Y3]
+** [http://www.uniprot.org/uniprot/P23546 P23546]
+** [http://www.uniprot.org/uniprot/Q7M1Y2 Q7M1Y2]
+** [http://www.uniprot.org/uniprot/P23547 P23547]
+** [http://www.uniprot.org/uniprot/P27666 P27666]
+** [http://www.uniprot.org/uniprot/Q7M1Y5 Q7M1Y5]
+** [http://www.uniprot.org/uniprot/Q7M1Y4 Q7M1Y4]
+** [http://www.uniprot.org/uniprot/P34742 P34742]
+** [http://www.uniprot.org/uniprot/Q02437 Q02437]
+** [http://www.uniprot.org/uniprot/Q45095 Q45095]
+** [http://www.uniprot.org/uniprot/P33157 P33157]
+** [http://www.uniprot.org/uniprot/Q41181 Q41181]
+** [http://www.uniprot.org/uniprot/P15737 P15737]
+** [http://www.uniprot.org/uniprot/P23432 P23432]
+** [http://www.uniprot.org/uniprot/P23433 P23433]
+** [http://www.uniprot.org/uniprot/P36401 P36401]
+** [http://www.uniprot.org/uniprot/Q40753 Q40753]
+** [http://www.uniprot.org/uniprot/Q7M1V4 Q7M1V4]
+** [http://www.uniprot.org/uniprot/Q02126 Q02126]
+** [http://www.uniprot.org/uniprot/Q06773 Q06773]
+** [http://www.uniprot.org/uniprot/P52401 P52401]
+** [http://www.uniprot.org/uniprot/Q02438 Q02438]
+** [http://www.uniprot.org/uniprot/Q42944 Q42944]
+** [http://www.uniprot.org/uniprot/P52400 P52400]
+** [http://www.uniprot.org/uniprot/P52402 P52402]
+** [http://www.uniprot.org/uniprot/Q9R650 Q9R650]
+** [http://www.uniprot.org/uniprot/P52398 P52398]
+** [http://www.uniprot.org/uniprot/P52399 P52399]
+** [http://www.uniprot.org/uniprot/O50007 O50007]
+** [http://www.uniprot.org/uniprot/Q43851 Q43851]
+** [http://www.uniprot.org/uniprot/Q03467 Q03467]
+** [http://www.uniprot.org/uniprot/Q03773 Q03773]
+** [http://www.uniprot.org/uniprot/O82063 O82063]
+** [http://www.uniprot.org/uniprot/O23783 O23783]
+** [http://www.uniprot.org/uniprot/Q9M2M3 Q9M2M3]
+** [http://www.uniprot.org/uniprot/Q9M4A9 Q9M4A9]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.2.1.39}}
+{{#set: gene associated=Tiso_gene_2599|Tiso_gene_8689|Tiso_gene_16519}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

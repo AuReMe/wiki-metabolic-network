@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15401 ==
+* right end position:
+** 4995
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2888
+* centisome position:
+** 57.335716    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PPPGO]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PROTOPORGENOXI-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY0-1415]]
+* [[HEME-BIOSYNTHESIS-II]]
+* [[CHLOROPHYLL-SYN]]
+* [[PWY-7159]]
+== External links  ==
+{{#set: right end position=4995}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2888}}
+{{#set: centisome position=57.335716    }}
+{{#set: reaction associated=PPPGO|PROTOPORGENOXI-RXN}}
+{{#set: pathway associated=PWY0-1415|HEME-BIOSYNTHESIS-II|CHLOROPHYLL-SYN|PWY-7159}}

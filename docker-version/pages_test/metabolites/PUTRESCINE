@@ -1,0 +1,48 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PUTRESCINE PUTRESCINE] ==
+* smiles:
+** C([N+])CCC[N+]
+* common name:
+** putrescine
+* inchi key:
+** InChIKey=KIDHWZJUCRJVML-UHFFFAOYSA-P
+* molecular weight:
+** 90.168    
+* Synonym(s):
+** diaminobutane
+** 1,4-diaminobutane
+** 1,4-butanediamine
+** tetramethylenediamine
+
+== Reaction(s) known to consume the compound ==
+* [[APAPT]]
+* [[TRANS-RXN-69]]
+== Reaction(s) known to produce the compound ==
+* [[TRANS-RXN-69]]
+* [[AGMATIN-RXN]]
+* [[orDC]]
+* [[orDCh]]
+* [[ORNDECARBOX-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[SPERMIDINESYN-RXN]]
+== External links  ==
+* CAS : 110-60-1
+* BIGG : ptrc
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3452892 3452892]
+* HMDB : HMDB01414
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00134 C00134]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2695170.html 2695170]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=326268 326268]
+* METABOLIGHTS : MTBLC326268
+{{#set: smiles=C([N+])CCC[N+]}}
+{{#set: common name=putrescine}}
+{{#set: inchi key=InChIKey=KIDHWZJUCRJVML-UHFFFAOYSA-P}}
+{{#set: molecular weight=90.168    }}
+{{#set: common name=diaminobutane|1,4-diaminobutane|1,4-butanediamine|tetramethylenediamine}}
+{{#set: consumed by=APAPT|TRANS-RXN-69}}
+{{#set: produced by=TRANS-RXN-69|AGMATIN-RXN|orDC|orDCh|ORNDECARBOX-RXN}}
+{{#set: reversible reaction associated=SPERMIDINESYN-RXN}}

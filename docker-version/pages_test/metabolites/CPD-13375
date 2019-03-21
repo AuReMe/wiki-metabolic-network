@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13375 CPD-13375] ==
+* smiles:
+** C1(C(C(C(C(O1)OCC2(OC(C(O)C(O)C(O)2)OC4(C(O)C(O)C(OC(COC3(C(C(C(CO3)O)O)O))4)OC6(C(O)C(O)C(OC(COC5(C(C(C(CO5)O)O)O))6)OC7(C(O)C(O)C(O)OC(CO)7)))))O)O)O)
+* common name:
+** XXXG xyloglucan oligosaccharide
+* inchi key:
+** InChIKey=PZUPAGRIHCRVKN-SPHBQONKSA-N
+* molecular weight:
+** 1062.931    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12400]]
+* [[RXN-12399]]
+* [[RXN-12398]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=52940180 52940180]
+{{#set: smiles=C1(C(C(C(C(O1)OCC2(OC(C(O)C(O)C(O)2)OC4(C(O)C(O)C(OC(COC3(C(C(C(CO3)O)O)O))4)OC6(C(O)C(O)C(OC(COC5(C(C(C(CO5)O)O)O))6)OC7(C(O)C(O)C(O)OC(CO)7)))))O)O)O)}}
+{{#set: common name=XXXG xyloglucan oligosaccharide}}
+{{#set: inchi key=InChIKey=PZUPAGRIHCRVKN-SPHBQONKSA-N}}
+{{#set: molecular weight=1062.931    }}
+{{#set: produced by=RXN-12400|RXN-12399|RXN-12398}}

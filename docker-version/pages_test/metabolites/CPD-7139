@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7139 CPD-7139] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(O)C(O1)OC5(C4(C=C(OC2(C(O)C(O)C(O)C(CO)O2))C(C3(C=C(O)C(O)=C(O)C=3))=[O+]C=4C=C([O-])C=5)))
+* common name:
+** delphinidin 3,5-di-O-&beta;-D-glucoside
+* inchi key:
+** InChIKey=XCTGXGVGJYACEI-LCENJUANSA-N
+* molecular weight:
+** 626.524    
+* Synonym(s):
+** delphinidin-3,5-diglucoside
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8228]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201902 25201902]
+* HMDB : HMDB30693
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=77838 77838]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16312 C16312]
+{{#set: smiles=C(O)C1(C(O)C(O)C(O)C(O1)OC5(C4(C=C(OC2(C(O)C(O)C(O)C(CO)O2))C(C3(C=C(O)C(O)=C(O)C=3))=[O+]C=4C=C([O-])C=5)))}}
+{{#set: common name=delphinidin 3,5-di-O-&beta;-D-glucoside}}
+{{#set: inchi key=InChIKey=XCTGXGVGJYACEI-LCENJUANSA-N}}
+{{#set: molecular weight=626.524    }}
+{{#set: common name=delphinidin-3,5-diglucoside}}
+{{#set: produced by=RXN-8228}}

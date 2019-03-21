@@ -1,0 +1,88 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6988 ==
+* right end position:
+** 5836
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2254
+* centisome position:
+** 19.382578    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5-NUCLEOTID-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[AMP-DEPHOSPHORYLATION-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[AMP5N]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[CMP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DAMPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DCMP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DMPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[I5NT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14025]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14026]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14143]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14227]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-5841]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7607]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7609]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[UMPP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[X5NT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[XMPXAN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+* [[PWY-6607]]
+* [[PWY-7185]]
+* [[PWY-7821]]
+* [[SALVADEHYPOX-PWY]]
+* [[PWY-6596]]
+* [[NAD-BIOSYNTHESIS-II]]
+* [[PWY-6606]]
+* [[PWY-6608]]
+* [[PWY-5695]]
+== External links  ==
+{{#set: right end position=5836}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2254}}
+{{#set: centisome position=19.382578    }}
+{{#set: reaction associated=5-NUCLEOTID-RXN|AMP-DEPHOSPHORYLATION-RXN|AMP5N|CMP|DAMPH|DCMP|DMPH|I5NT|RXN-14025|RXN-14026|RXN-14143|RXN-14227|RXN-5841|RXN-7607|RXN-7609|TPH|UMPP|X5NT|XMPXAN-RXN}}
+{{#set: pathway associated=PWY-5381|PWY-6607|PWY-7185|PWY-7821|SALVADEHYPOX-PWY|PWY-6596|NAD-BIOSYNTHESIS-II|PWY-6606|PWY-6608|PWY-5695}}

@@ -1,0 +1,47 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6458 ==
+* right end position:
+** 6768
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1597
+* centisome position:
+** 13.085874    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.7.11-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[2.7.7.44-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GLUC1PURIDYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NAG1P-URIDYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UTPHEXPURIDYLYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[UDPNACETYLGALSYN-PWY]]
+* [[PWY-7238]]
+* [[PWY0-1261]]
+* [[UDPNAGSYN-PWY]]
+* [[PWY-7343]]
+* [[PWY-3801]]
+* [[PWY-3821]]
+* [[PWY-7817]]
+* [[PWY-5514]]
+* [[PWY-6527]]
+* [[PWY-4841]]
+== External links  ==
+{{#set: right end position=6768}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1597}}
+{{#set: centisome position=13.085874    }}
+{{#set: reaction associated=2.7.7.11-RXN|2.7.7.44-RXN|GLUC1PURIDYLTRANS-RXN|NAG1P-URIDYLTRANS-RXN|UTPHEXPURIDYLYLTRANS-RXN}}
+{{#set: pathway associated=UDPNACETYLGALSYN-PWY|PWY-7238|PWY0-1261|UDPNAGSYN-PWY|PWY-7343|PWY-3801|PWY-3821|PWY-7817|PWY-5514|PWY-6527|PWY-4841}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-702 CPD-702] ==
+* smiles:
+** C(O)C1(C=CC(=CC=1)[N+]([O-])=O)
+* common name:
+** 4-nitrobenzyl alcohol
+* inchi key:
+** InChIKey=JKTYGPATCNUWKN-UHFFFAOYSA-N
+* molecular weight:
+** 153.137    
+* Synonym(s):
+** 4NBA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5141]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 619-73-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=69275 69275]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13585105.html 13585105]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=41214 41214]
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=5389 5389]
+{{#set: smiles=C(O)C1(C=CC(=CC=1)[N+]([O-])=O)}}
+{{#set: common name=4-nitrobenzyl alcohol}}
+{{#set: inchi key=InChIKey=JKTYGPATCNUWKN-UHFFFAOYSA-N}}
+{{#set: molecular weight=153.137    }}
+{{#set: common name=4NBA}}
+{{#set: produced by=RXN0-5141}}

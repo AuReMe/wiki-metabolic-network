@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10837 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R07562]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-8025]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-8026]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-5288]]
+* [[PWY-5944]]
+* [[PWY-7638]]
+== External links  ==
+{{#set: reaction associated=R07562|RXN-8025|RXN-8026}}
+{{#set: pathway associated=PWY-5288|PWY-5944|PWY-7638}}

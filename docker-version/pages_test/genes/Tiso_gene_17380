@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17380 ==
+* right end position:
+** 3713
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1682
+* centisome position:
+** 45.081745    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4.2.99.18-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-2601]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3713}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1682}}
+{{#set: centisome position=45.081745    }}
+{{#set: reaction associated=4.2.99.18-RXN|RXN0-2601}}

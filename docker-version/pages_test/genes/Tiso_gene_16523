@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16523 ==
+* right end position:
+** 2224
+* transcription direction:
+** POSITIVE
+* left end position:
+** 196
+* centisome position:
+** 4.5560203    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13185]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7984]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7985]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5945]]
+== External links  ==
+{{#set: right end position=2224}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=196}}
+{{#set: centisome position=4.5560203    }}
+{{#set: reaction associated=RXN-13185|RXN-7984|RXN-7985}}
+{{#set: pathway associated=PWY-5945}}

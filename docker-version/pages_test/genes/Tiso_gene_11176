@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11176 ==
+* right end position:
+** 5331
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4033
+* centisome position:
+** 50.61496    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ANTHRANSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PABASYN-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[TRPSYN-PWY]]
+* [[PWY-5958]]
+* [[PWY-6543]]
+* [[PWY-6661]]
+* [[PWY-6660]]
+== External links  ==
+{{#set: right end position=5331}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4033}}
+{{#set: centisome position=50.61496    }}
+{{#set: reaction associated=ANTHRANSYN-RXN|PABASYN-RXN}}
+{{#set: pathway associated=TRPSYN-PWY|PWY-5958|PWY-6543|PWY-6661|PWY-6660}}

@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DATCY DATCY] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dATP:cytidine 5'-phosphotransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[DATP]][c] '''+''' 1.0 [[CYTIDINE]][c] '''=>''' 1.0 [[DADP]][c] '''+''' 1.0 [[CMP]][c] '''+''' 1.0 [[PROTON]][c]
+* With common name(s):
+** 1.0 dATP[c] '''+''' 1.0 cytidine[c] '''=>''' 1.0 dADP[c] '''+''' 1.0 CMP[c] '''+''' 1.0 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_20134]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_14474]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dATP:cytidine 5'-phosphotransferase}}
+{{#set: gene associated=Tiso_gene_20134|Tiso_gene_14474}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

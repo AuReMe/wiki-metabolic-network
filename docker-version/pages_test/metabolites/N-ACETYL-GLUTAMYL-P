@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYL-GLUTAMYL-P N-ACETYL-GLUTAMYL-P] ==
+* smiles:
+** CC(=O)NC(C([O-])=O)CCC(=O)OP([O-])(=O)[O-]
+* common name:
+** N-acetylglutamyl-phosphate
+* inchi key:
+** InChIKey=FCVIHFVSXHOPSW-YFKPBYRVSA-K
+* molecular weight:
+** 266.124    
+* Synonym(s):
+** N-Acetyl-L-glutamyl 5-phosphate
+** N-acetyl-L-glutamate-5-phosphate
+** N-acetyl-glutamyl-P
+** N-acetylglutamyl-P
+** N-acetyl-5-glutamyl phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[AGK]]
+== Reaction(s) of unknown directionality ==
+* [[N-ACETYLGLUTPREDUCT-RXN]]
+* [[ACETYLGLUTKIN-RXN]]
+== External links  ==
+* BIGG : acg5p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49791951 49791951]
+* HMDB : HMDB06456
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04133 C04133]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57936 57936]
+* METABOLIGHTS : MTBLC57936
+{{#set: smiles=CC(=O)NC(C([O-])=O)CCC(=O)OP([O-])(=O)[O-]}}
+{{#set: common name=N-acetylglutamyl-phosphate}}
+{{#set: inchi key=InChIKey=FCVIHFVSXHOPSW-YFKPBYRVSA-K}}
+{{#set: molecular weight=266.124    }}
+{{#set: common name=N-Acetyl-L-glutamyl 5-phosphate|N-acetyl-L-glutamate-5-phosphate|N-acetyl-glutamyl-P|N-acetylglutamyl-P|N-acetyl-5-glutamyl phosphate}}
+{{#set: produced by=AGK}}
+{{#set: reversible reaction associated=N-ACETYLGLUTPREDUCT-RXN|ACETYLGLUTKIN-RXN}}

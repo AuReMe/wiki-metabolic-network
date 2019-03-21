@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2159 ==
+* right end position:
+** 15716
+* transcription direction:
+** POSITIVE
+* left end position:
+** 13819
+* centisome position:
+** 67.70701    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PYRIMSYN3-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12610]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12611]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[THI-P-SYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6907]]
+* [[PWY-6890]]
+* [[PWY-7356]]
+* [[PWY-7357]]
+* [[PWY-6894]]
+* [[PWY-6897]]
+* [[PWY-7282]]
+* [[PWY-6908]]
+* [[PWY-6893]]
+* [[PWY-6910]]
+== External links  ==
+{{#set: right end position=15716}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=13819}}
+{{#set: centisome position=67.70701    }}
+{{#set: reaction associated=PYRIMSYN3-RXN|RXN-12610|RXN-12611|THI-P-SYN-RXN}}
+{{#set: pathway associated=PWY-6907|PWY-6890|PWY-7356|PWY-7357|PWY-6894|PWY-6897|PWY-7282|PWY-6908|PWY-6893|PWY-6910}}

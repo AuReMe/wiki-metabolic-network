@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Methylated-methyl-acceptors Methylated-methyl-acceptors] ==
+* common name:
+** a methylated methyl donor
+* Synonym(s):
+** a methylated methyl acceptor
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7605]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a methylated methyl donor}}
+{{#set: common name=a methylated methyl acceptor}}
+{{#set: produced by=RXN-7605}}

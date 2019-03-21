@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5713 ==
+* right end position:
+** 6296
+* transcription direction:
+** POSITIVE
+* left end position:
+** 964
+* centisome position:
+** 7.390938    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-4261]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: right end position=6296}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=964}}
+{{#set: centisome position=7.390938    }}
+{{#set: reaction associated=DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN|H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN|RXN0-4261}}
+{{#set: pathway associated=PWY-7539|PWY-6797|PWY-6147}}

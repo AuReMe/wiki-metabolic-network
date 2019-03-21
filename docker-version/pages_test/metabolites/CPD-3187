@@ -1,0 +1,25 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3187 CPD-3187] ==
+* smiles:
+** C1(CCC(O)([N+](C)1)C2(=CN=CC=C2))
+* common name:
+** 2'-hydroxynicotine
+* inchi key:
+** InChIKey=BOQRPPFUUSHFGW-SNVBAGLBSA-O
+* molecular weight:
+** 179.241    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN66-146]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245599 25245599]
+* HMDB : HMDB01329
+{{#set: smiles=C1(CCC(O)([N+](C)1)C2(=CN=CC=C2))}}
+{{#set: common name=2'-hydroxynicotine}}
+{{#set: inchi key=InChIKey=BOQRPPFUUSHFGW-SNVBAGLBSA-O}}
+{{#set: molecular weight=179.241    }}
+{{#set: produced by=RXN66-146}}

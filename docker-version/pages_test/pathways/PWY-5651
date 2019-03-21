@@ -1,0 +1,46 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5651 PWY-5651] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[1.13.11.6-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10922]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[3-HYDROXY-KYNURENINASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10685]]
+*** [[Tiso_gene_10684]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[ARYLFORMAMIDASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16921]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+* [[KYNURENINE-3-MONOOXYGENASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14398]]
+*** [[Tiso_gene_6196]]
+*** [[Tiso_gene_15790]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8665 RXN-8665]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

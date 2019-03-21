@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7035 ==
+* right end position:
+** 11195
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10183
+* centisome position:
+** 87.928505    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.3.16-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=11195}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10183}}
+{{#set: centisome position=87.928505    }}
+{{#set: reaction associated=3.1.3.16-RXN}}

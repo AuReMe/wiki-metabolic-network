@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GUANINE GUANINE] ==
+* smiles:
+** C2(=NC1(=C(N=C(NC(=O)1)N)N2))
+* common name:
+** guanine
+* inchi key:
+** InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
+* molecular weight:
+** 151.127    
+* Synonym(s):
+** G
+
+== Reaction(s) known to consume the compound ==
+* [[GUANINE-DEAMINASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-366]]
+* [[RXN0-1321]]
+== Reaction(s) of unknown directionality ==
+* [[GUANPRIBOSYLTRAN-RXN]]
+* [[QUEUOSINE-TRNA-RIBOSYLTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 73-40-5
+* BIGG : gua
+* DRUGBANK : DB02377
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=764 764]
+* HMDB : HMDB00132
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00242 C00242]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.744.html 744]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16235 16235]
+* METABOLIGHTS : MTBLC16235
+{{#set: smiles=C2(=NC1(=C(N=C(NC(=O)1)N)N2))}}
+{{#set: common name=guanine}}
+{{#set: inchi key=InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N}}
+{{#set: molecular weight=151.127    }}
+{{#set: common name=G}}
+{{#set: consumed by=GUANINE-DEAMINASE-RXN}}
+{{#set: produced by=RXN0-366|RXN0-1321}}
+{{#set: reversible reaction associated=GUANPRIBOSYLTRAN-RXN|QUEUOSINE-TRNA-RIBOSYLTRANSFERASE-RXN}}

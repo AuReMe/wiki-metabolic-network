@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-CYSTEATE L-CYSTEATE] ==
+* smiles:
+** C(C([N+])C(=O)[O-])S(=O)(=O)[O-]
+* common name:
+** L-cysteate
+* inchi key:
+** InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M
+* molecular weight:
+** 168.144    
+* Synonym(s):
+** L-cysteic acid
+** 3-sulfoalanine
+** 2-amino-3-sulfopropionic acid
+** (R)-cysteate
+** 3-sulfo-L-alanine
+** (2R)-2-amino-3-sulfopropanoic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-11737]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7140381 7140381]
+* HMDB : HMDB02757
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00506 C00506]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5482600.html 5482600]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58090 58090]
+* METABOLIGHTS : MTBLC58090
+{{#set: smiles=C(C([N+])C(=O)[O-])S(=O)(=O)[O-]}}
+{{#set: common name=L-cysteate}}
+{{#set: inchi key=InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M}}
+{{#set: molecular weight=168.144    }}
+{{#set: common name=L-cysteic acid|3-sulfoalanine|2-amino-3-sulfopropionic acid|(R)-cysteate|3-sulfo-L-alanine|(2R)-2-amino-3-sulfopropanoic acid}}
+{{#set: reversible reaction associated=RXN-11737}}

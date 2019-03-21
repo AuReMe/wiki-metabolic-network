@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Orthophosphoric-Monoesters Orthophosphoric-Monoesters] ==
+* common name:
+** a phosphate monoester
+* Synonym(s):
+** an orthophosphoric monoester
+
+== Reaction(s) known to consume the compound ==
+* [[ALKAPHOSPHA-RXN]]
+* [[ACID-PHOSPHATASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a phosphate monoester}}
+{{#set: common name=an orthophosphoric monoester}}
+{{#set: consumed by=ALKAPHOSPHA-RXN|ACID-PHOSPHATASE-RXN}}

@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14219 RXN-14219] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DUTP]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[DUDP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Pi]][c]
+* With common name(s):
+** 1 dUTP[c] '''+''' 1 H2O[c] '''=>''' 1 dUDP[c] '''+''' 1 H+[c] '''+''' 1 phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_20236]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12899]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: gene associated=Tiso_gene_20236|Tiso_gene_12899}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

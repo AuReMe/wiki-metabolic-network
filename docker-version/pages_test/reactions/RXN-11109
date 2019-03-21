@@ -1,0 +1,85 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11109 RXN-11109] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** atp-dependent_rna_helicase_ded1
+** rna_helicase
+** dead_box_rna_helicase
+** ORF
+** dead_box_helicase
+** atp-dependent_rna_helicase-like_protein_db10
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.4.13 EC-3.6.4.13]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Wound-RNA]][c] '''+''' 1 [[ATP]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[Unwound-RNA]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 wound RNA[c] '''+''' 1 ATP[c] '''+''' 1 H2O[c] '''=>''' 1 phosphate[c] '''+''' 1 ADP[c] '''+''' 1 an unwound RNA[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13862]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15465]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11551]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5272]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17804]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9370]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_13864]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14774]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17819]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13863]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=atp-dependent_rna_helicase_ded1}}
+{{#set: common name=rna_helicase}}
+{{#set: common name=dead_box_rna_helicase}}
+{{#set: common name=ORF}}
+{{#set: common name=dead_box_helicase}}
+{{#set: common name=atp-dependent_rna_helicase-like_protein_db10}}
+{{#set: ec number=EC-3.6.4.13}}
+{{#set: gene associated=Tiso_gene_13862|Tiso_gene_15465|Tiso_gene_11551|Tiso_gene_5272|Tiso_gene_17804|Tiso_gene_9370|Tiso_gene_13864|Tiso_gene_14774|Tiso_gene_17819|Tiso_gene_13863}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|manual-primary_network|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

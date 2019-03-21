@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-3542 RXN0-3542] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1 EC-3.6.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[THIAMINE-PYROPHOSPHATE]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[THIAMINE-P]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 thiamine diphosphate[c] '''<=>''' 1 H+[c] '''+''' 1 phosphate[c] '''+''' 1 thiamine phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12899]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27998 27998]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00615 R00615]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-3.6.1}}
+{{#set: gene associated=Tiso_gene_12899}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

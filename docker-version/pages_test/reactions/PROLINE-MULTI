@@ -1,0 +1,30 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PROLINE-MULTI PROLINE-MULTI] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[GLT]][c] '''+''' 1 [[PROTON]][c] '''<=>''' 1 [[ADP]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[L-GLUTAMATE_GAMMA-SEMIALDEHYDE]][c] '''+''' 1 [[NADP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 NADPH[c] '''+''' 1 L-glutamate[c] '''+''' 1 H+[c] '''<=>''' 1 ADP[c] '''+''' 1 phosphate[c] '''+''' 1 L-glutamate-5-semialdehyde[c] '''+''' 1 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16634]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=33208 33208]
+{{#set: direction=REVERSIBLE}}
+{{#set: gene associated=Tiso_gene_16634}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

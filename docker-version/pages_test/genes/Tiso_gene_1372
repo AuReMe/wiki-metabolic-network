@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1372 ==
+* right end position:
+** 9745
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3148
+* centisome position:
+** 13.104108    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[VALINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=9745}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3148}}
+{{#set: centisome position=13.104108    }}
+{{#set: reaction associated=VALINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

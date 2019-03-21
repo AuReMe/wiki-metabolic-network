@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHYTYL-PYROPHOSPHATE PHYTYL-PYROPHOSPHATE] ==
+* smiles:
+** CC(CCCC(CCCC(CCCC(=CCOP([O-])(=O)OP([O-])(=O)[O-])C)C)C)C
+* common name:
+** phytyl diphosphate
+* inchi key:
+** InChIKey=ITPLBNCCPZSWEU-PYDDKJGSSA-K
+* molecular weight:
+** 453.471    
+* Synonym(s):
+** phytyl pyrophosphate
+** phytyl-PP
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-2541]]
+* [[R06284]]
+* [[R06858]]
+* [[RXN-7674]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10625]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-7660]]
+* [[RXN1F-66]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71728454 71728454]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75434 75434]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05427 C05427]
+{{#set: smiles=CC(CCCC(CCCC(CCCC(=CCOP([O-])(=O)OP([O-])(=O)[O-])C)C)C)C}}
+{{#set: common name=phytyl diphosphate}}
+{{#set: inchi key=InChIKey=ITPLBNCCPZSWEU-PYDDKJGSSA-K}}
+{{#set: molecular weight=453.471    }}
+{{#set: common name=phytyl pyrophosphate|phytyl-PP}}
+{{#set: consumed by=RXN-2541|R06284|R06858|RXN-7674}}
+{{#set: produced by=RXN-10625}}
+{{#set: reversible reaction associated=RXN-7660|RXN1F-66}}

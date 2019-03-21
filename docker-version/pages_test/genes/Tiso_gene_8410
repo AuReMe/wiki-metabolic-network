@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8410 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.12-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[COBALAMINSYN-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[NAD-BIOSYNTHESIS-III]]
+* [[PWY-5508]]
+== External links  ==
+{{#set: reaction associated=2.4.2.12-RXN|COBALAMINSYN-RXN}}
+{{#set: pathway associated=NAD-BIOSYNTHESIS-III|PWY-5508}}

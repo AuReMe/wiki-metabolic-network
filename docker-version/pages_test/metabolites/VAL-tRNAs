@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=VAL-tRNAs VAL-tRNAs] ==
+* common name:
+** a tRNAval
+* Synonym(s):
+** TRNA(VAL)
+
+== Reaction(s) known to consume the compound ==
+* [[VALINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAval}}
+{{#set: common name=TRNA(VAL)}}
+{{#set: consumed by=VALINE--TRNA-LIGASE-RXN}}

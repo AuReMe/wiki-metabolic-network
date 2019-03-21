@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5367 PWY-5367] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3398 TAX-3398]
+* common name:
+** petroselinate biosynthesis
+* Synonym(s):
+** petroselinic acid biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-8391]]
+** 3 associated gene(s):
+*** [[Tiso_gene_19302]]
+*** [[Tiso_gene_19303]]
+*** [[Tiso_gene_14485]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-9552]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9885]]
+*** [[Tiso_gene_13083]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-9553]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8390 RXN-8390]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9551 RXN-9551]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9554 RXN-9554]
+== External links  ==
+{{#set: taxonomic range=TAX-3398}}
+{{#set: common name=petroselinate biosynthesis}}
+{{#set: common name=petroselinic acid biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

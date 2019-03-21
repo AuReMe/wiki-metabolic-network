@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14184 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[BIOTINLIG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-7192]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY0-1264]]
+== External links  ==
+{{#set: reaction associated=BIOTINLIG-RXN|RXN0-7192}}
+{{#set: pathway associated=PWY0-1264}}

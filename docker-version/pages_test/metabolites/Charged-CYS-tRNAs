@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-CYS-tRNAs Charged-CYS-tRNAs] ==
+* common name:
+** an L-cysteinyl-[tRNAcys]
+* Synonym(s):
+** L-CYSTEINYL-TRNA(CYS)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16637]]
+== Reaction(s) known to produce the compound ==
+* [[CYSTEINE--TRNA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-cysteinyl-[tRNAcys]}}
+{{#set: common name=L-CYSTEINYL-TRNA(CYS)}}
+{{#set: consumed by=RXN-16637}}
+{{#set: produced by=CYSTEINE--TRNA-LIGASE-RXN}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10834 ==
+* right end position:
+** 7750
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 9
+* centisome position:
+** 0.10894565    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.6.4.4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7750}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=9}}
+{{#set: centisome position=0.10894565    }}
+{{#set: reaction associated=3.6.4.4-RXN}}

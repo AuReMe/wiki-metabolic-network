@@ -1,0 +1,69 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14120 RXN-14120] ==
+* direction:
+** REVERSIBLE
+* common name:
+** ORF
+** nucleoside_diphosphate_kinase
+** adenylate_kinase_domain-containing_protein_1
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.4.6 EC-2.7.4.6]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[IDP]][c] '''+''' 1 [[ATP]][c] '''<=>''' 1 [[ITP]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 IDP[c] '''+''' 1 ATP[c] '''<=>''' 1 ITP[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17271]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17272]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9290]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18224]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16529]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30350 30350]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00722 R00722]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=ORF}}
+{{#set: common name=nucleoside_diphosphate_kinase}}
+{{#set: common name=adenylate_kinase_domain-containing_protein_1}}
+{{#set: ec number=EC-2.7.4.6}}
+{{#set: gene associated=Tiso_gene_195|Tiso_gene_17271|Tiso_gene_17272|Tiso_gene_9290|Tiso_gene_18224|Tiso_gene_16529}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-athaliana|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

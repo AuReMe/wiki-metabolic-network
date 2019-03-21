@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5825 ==
+* right end position:
+** 5837
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3043
+* centisome position:
+** 15.875417    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5837}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3043}}
+{{#set: centisome position=15.875417    }}
+{{#set: reaction associated=ATPASE-RXN}}

@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-6994 CPD-6994] ==
+* smiles:
+** C3(C(C2(OC1(C=C(C=C(C=1C(C2)=O)O)[O-])))=CC(=C(C=3)O)O)
+* common name:
+** (2S)-eriodictyol
+* inchi key:
+** InChIKey=SBHXYTNGIZCORC-ZDUSSCGKSA-M
+* molecular weight:
+** 287.248    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7775]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657147 90657147]
+* HMDB : HMDB05810
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28412 28412]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05631 C05631]
+{{#set: smiles=C3(C(C2(OC1(C=C(C=C(C=1C(C2)=O)O)[O-])))=CC(=C(C=3)O)O)}}
+{{#set: common name=(2S)-eriodictyol}}
+{{#set: inchi key=InChIKey=SBHXYTNGIZCORC-ZDUSSCGKSA-M}}
+{{#set: molecular weight=287.248    }}
+{{#set: consumed by=RXN-7775}}

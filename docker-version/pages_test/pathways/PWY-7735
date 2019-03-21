@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7735 PWY-7735] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** echinomycin and triostin A biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-17155]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13815]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17156 RXN-17156]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17157 RXN-17157]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17159 RXN-17159]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17160 RXN-17160]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17166 RXN-17166]
+== External links  ==
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=echinomycin and triostin A biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

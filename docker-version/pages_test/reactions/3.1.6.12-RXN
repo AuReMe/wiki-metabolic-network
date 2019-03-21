@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.6.12-RXN 3.1.6.12-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** arylsulfatase_b
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.6.12 EC-3.1.6.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CHONDROITIN-4-SULFATE]][c] '''=>''' 1 [[SULFATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Chondroitin-N-acetyl-galactosamines]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 [chondroitin]-4-O-sulfo-N-acetylgalactosamine[c] '''=>''' 1 sulfate[c] '''+''' 1 H+[c] '''+''' 1 [chondroitin]-N-acetyl-galactosamine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15619]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P33727 P33727]
+** [http://www.uniprot.org/uniprot/P50430 P50430]
+** [http://www.uniprot.org/uniprot/P15848 P15848]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=arylsulfatase_b}}
+{{#set: ec number=EC-3.1.6.12}}
+{{#set: gene associated=Tiso_gene_15619}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

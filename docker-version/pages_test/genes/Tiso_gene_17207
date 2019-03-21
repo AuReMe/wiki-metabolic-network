@@ -1,0 +1,49 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17207 ==
+* right end position:
+** 2595
+* transcription direction:
+** POSITIVE
+* left end position:
+** 959
+* centisome position:
+** 24.896158    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.1.1.16-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[5.1.1.18-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-15122]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-2381]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-2382]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[THREDEHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[TRYPSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[ILEUSYN-PWY]]
+* [[PWY-5437]]
+* [[PWY-6196]]
+* [[PWY66-428]]
+* [[PWY-5826]]
+* [[TRPSYN-PWY]]
+* [[PWY-6455]]
+* [[PWY-6949]]
+== External links  ==
+{{#set: right end position=2595}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=959}}
+{{#set: centisome position=24.896158    }}
+{{#set: reaction associated=5.1.1.16-RXN|5.1.1.18-RXN|RXN-15122|RXN0-2381|RXN0-2382|THREDEHYD-RXN|TRYPSYN-RXN}}
+{{#set: pathway associated=ILEUSYN-PWY|PWY-5437|PWY-6196|PWY66-428|PWY-5826|TRPSYN-PWY|PWY-6455|PWY-6949}}

@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SUCC-S-ALD SUCC-S-ALD] ==
+* smiles:
+** C([CH]=O)CC(=O)[O-]
+* common name:
+** succinate semialdehyde
+* inchi key:
+** InChIKey=UIUJIQZEACWQSV-UHFFFAOYSA-M
+* molecular weight:
+** 101.082    
+* Synonym(s):
+** succinyl semialdehyde
+** succ-S-ald
+** succinic semialdehyde
+
+== Reaction(s) known to consume the compound ==
+* [[SUCCSEMIALDDEHYDROG-RXN]]
+* [[RXN-11002]]
+* [[SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN]]
+* [[RXN-6903]]
+* [[SSNOm]]
+* [[4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[GABATRANSAM-RXN]]
+== External links  ==
+* CAS : 692-29-5
+* BIGG : sucsal
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9543238 9543238]
+* HMDB : HMDB01259
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00232 C00232]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7822211.html 7822211]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57706 57706]
+* METABOLIGHTS : MTBLC57706
+{{#set: smiles=C([CH]=O)CC(=O)[O-]}}
+{{#set: common name=succinate semialdehyde}}
+{{#set: inchi key=InChIKey=UIUJIQZEACWQSV-UHFFFAOYSA-M}}
+{{#set: molecular weight=101.082    }}
+{{#set: common name=succinyl semialdehyde|succ-S-ald|succinic semialdehyde}}
+{{#set: consumed by=SUCCSEMIALDDEHYDROG-RXN|RXN-11002|SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN|RXN-6903|SSNOm|4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN}}
+{{#set: produced by=4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN}}
+{{#set: reversible reaction associated=GABATRANSAM-RXN}}

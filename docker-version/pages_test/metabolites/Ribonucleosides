@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ribonucleosides Ribonucleosides] ==
+* common name:
+** a ribonucleoside
+* Synonym(s):
+** nucleoside
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[5-NUCLEOTID-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a ribonucleoside}}
+{{#set: common name=nucleoside}}
+{{#set: produced by=5-NUCLEOTID-RXN}}

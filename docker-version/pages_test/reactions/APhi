@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=APhi APhi] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Acylphosphatase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][h] '''+''' 1.0 [[ACETYL-P]][h] '''=>''' 1.0 [[ACET]][h] '''+''' 1.0 [[PROTON]][h] '''+''' 1.0 [[Pi]][h]
+* With common name(s):
+** 1.0 H2O[h] '''+''' 1.0 acetyl phosphate[h] '''=>''' 1.0 acetate[h] '''+''' 1.0 H+[h] '''+''' 1.0 phosphate[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13909]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Acylphosphatase}}
+{{#set: gene associated=Tiso_gene_13909}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

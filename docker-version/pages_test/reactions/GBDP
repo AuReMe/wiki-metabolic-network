@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GBDP GBDP] ==
+* direction:
+** REVERSIBLE
+* common name:
+** guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[GUANOSINE-5DP-3DP]][c] '''+''' 1.0 [[WATER]][c] '''<=>''' 1.0 [[PPI]][c] '''+''' 1.0 [[GDP]][c]
+* With common name(s):
+** 1.0 ppGpp[c] '''+''' 1.0 H2O[c] '''<=>''' 1.0 diphosphate[c] '''+''' 1.0 GDP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16305]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=guanosine-3',5'-bis(diphosphate) 3'-diphosphatase}}
+{{#set: gene associated=Tiso_gene_16305}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

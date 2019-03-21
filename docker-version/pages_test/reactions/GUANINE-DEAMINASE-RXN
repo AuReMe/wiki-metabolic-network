@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GUANINE-DEAMINASE-RXN GUANINE-DEAMINASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.3 EC-3.5.4.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[GUANINE]][c] '''=>''' 1 [[AMMONIUM]][c] '''+''' 1 [[XANTHINE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 H+[c] '''+''' 1 guanine[c] '''=>''' 1 ammonium[c] '''+''' 1 xanthine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12280]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[P164-PWY]], purine nucleobases degradation I (anaerobic): [http://metacyc.org/META/NEW-IMAGE?object=P164-PWY P164-PWY]
+** '''4''' reactions found over '''17''' reactions in the full pathway
+* [[PWY-6608]], guanosine nucleotides degradation III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6608 PWY-6608]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-5497]], purine nucleobases degradation II (anaerobic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5497 PWY-5497]
+** '''7''' reactions found over '''24''' reactions in the full pathway
+* [[PWY-6606]], guanosine nucleotides degradation II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6606 PWY-6606]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14665 14665]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01676 R01676]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.5.4.3}}
+{{#set: gene associated=Tiso_gene_12280}}
+{{#set: in pathway=P164-PWY|PWY-6608|PWY-5497|PWY-6606}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-creinhardtii|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

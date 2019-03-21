@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HOMO-CIT HOMO-CIT] ==
+* smiles:
+** C(C([O-])=O)CC(O)(C([O-])=O)CC([O-])=O
+* common name:
+** (2R)-homocitrate
+* inchi key:
+** InChIKey=XKJVEVRQMLKSMO-SSDOTTSWSA-K
+* molecular weight:
+** 203.128    
+* Synonym(s):
+** 2-hydroxybutane-1,2,4-tricarboxylate
+** homocitric acid
+** 3-hydroxy-3-carboxyadipic acid
+** (2R)-2-hydroxybutane-1,2,4-tricarboxylate
+** (R)-2-hydroxybutane-1,2,4-tricarboxylate
+** homocitrate
+** (R)-homocitrate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13722]]
+== External links  ==
+* CAS : 3562-74-1
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=20849228 20849228]
+* HMDB : HMDB03518
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01251 C01251]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20171681.html 20171681]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58884 58884]
+{{#set: smiles=C(C([O-])=O)CC(O)(C([O-])=O)CC([O-])=O}}
+{{#set: common name=(2R)-homocitrate}}
+{{#set: inchi key=InChIKey=XKJVEVRQMLKSMO-SSDOTTSWSA-K}}
+{{#set: molecular weight=203.128    }}
+{{#set: common name=2-hydroxybutane-1,2,4-tricarboxylate|homocitric acid|3-hydroxy-3-carboxyadipic acid|(2R)-2-hydroxybutane-1,2,4-tricarboxylate|(R)-2-hydroxybutane-1,2,4-tricarboxylate|homocitrate|(R)-homocitrate}}
+{{#set: reversible reaction associated=RXN-13722}}

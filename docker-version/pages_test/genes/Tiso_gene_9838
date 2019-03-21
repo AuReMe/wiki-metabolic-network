@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9838 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[APIGNAR-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-3221]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7647]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5059]]
+* [[PWY1F-FLAVSYN]]
+* [[PWY-6787]]
+* [[PWY-2002]]
+* [[PWY-7397]]
+* [[PWY-6325]]
+== External links  ==
+{{#set: reaction associated=APIGNAR-RXN|RXN-3221|RXN-7647}}
+{{#set: pathway associated=PWY-5059|PWY1F-FLAVSYN|PWY-6787|PWY-2002|PWY-7397|PWY-6325}}

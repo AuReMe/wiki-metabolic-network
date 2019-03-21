@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8473 ==
+* right end position:
+** 3163
+* transcription direction:
+** POSITIVE
+* left end position:
+** 628
+* centisome position:
+** 6.1604867    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[STRICTOSIDINE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5290]]
+* [[PWY-6326]]
+== External links  ==
+{{#set: right end position=3163}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=628}}
+{{#set: centisome position=6.1604867    }}
+{{#set: reaction associated=STRICTOSIDINE-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-5290|PWY-6326}}

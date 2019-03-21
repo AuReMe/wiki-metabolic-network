@@ -1,0 +1,44 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5070 PWY-5070] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)
+* Synonym(s):
+** gibberellin biosynthesis I (late C-3 hydroxylation)
+** gibberellin biosynthesis I (late C-13 hydroxylation)
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[RXN1F-162]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN1F-163]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN1F-165]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6523 RXN-6523]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6541 RXN-6541]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1F-164 RXN1F-164]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1F-99 RXN1F-99]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-5070 PWY-5070]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)}}
+{{#set: common name=gibberellin biosynthesis I (late C-3 hydroxylation)|gibberellin biosynthesis I (late C-13 hydroxylation)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13713 CPD-13713] ==
+* smiles:
+** C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(=O)([O-])O[Se](=O)(=O)O
+* common name:
+** adenosine 5'-phosphoselenate
+* inchi key:
+** InChIKey=XCADVMZZFPIERR-KQYNXXCUSA-M
+* molecular weight:
+** 473.174    
+* Synonym(s):
+** adenylyl-selenate
+** APSe
+** adenosine phosphoselenate
+** adenylylselenate
+** adenosine-5'-phosphoselenate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12720]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657723 90657723]
+* HMDB : HMDB04112
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=2485 2485]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05686 C05686]
+{{#set: smiles=C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(=O)([O-])O[Se](=O)(=O)O}}
+{{#set: common name=adenosine 5'-phosphoselenate}}
+{{#set: inchi key=InChIKey=XCADVMZZFPIERR-KQYNXXCUSA-M}}
+{{#set: molecular weight=473.174    }}
+{{#set: common name=adenylyl-selenate|APSe|adenosine phosphoselenate|adenylylselenate|adenosine-5'-phosphoselenate}}
+{{#set: produced by=RXN-12720}}

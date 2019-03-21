@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=trans-D2-cis-cis-D17-35-C54-3-ACPs trans-D2-cis-cis-D17-35-C54-3-ACPs] ==
+* common name:
+** a trans-delta2-cis,cis-delta17,35-C54:3-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-276]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-220]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans-delta2-cis,cis-delta17,35-C54:3-[acp]}}
+{{#set: consumed by=RXN1G-276}}
+{{#set: produced by=RXN1G-220}}

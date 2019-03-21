@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-terminal-L-valine N-terminal-L-valine] ==
+* common name:
+** an N-terminal L-valyl-[protein]
+* Synonym(s):
+** a [protein] N-terminal L-valine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17859]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17878]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-terminal L-valyl-[protein]}}
+{{#set: common name=a [protein] N-terminal L-valine}}
+{{#set: consumed by=RXN-17859}}
+{{#set: produced by=RXN-17878}}

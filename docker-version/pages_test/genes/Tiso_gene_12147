@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12147 ==
+* right end position:
+** 1720
+* transcription direction:
+** POSITIVE
+* left end position:
+** 617
+* centisome position:
+** 8.497452    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-1281]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1720}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=617}}
+{{#set: centisome position=8.497452    }}
+{{#set: reaction associated=RXN0-1281}}

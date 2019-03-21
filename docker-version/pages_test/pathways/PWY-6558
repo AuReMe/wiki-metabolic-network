@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6558 PWY-6558] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** heparan sulfate biosynthesis (late stages)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''13''' reactions in the full pathway
+* [[2.4.1.223-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_4321]]
+*** [[Tiso_gene_10445]]
+*** [[Tiso_gene_8143]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[2.4.1.224-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_6495]]
+*** [[Tiso_gene_6496]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[2.4.1.225-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6495]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.8.2.23-RXN 2.8.2.23-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.8.2.29-RXN 2.8.2.29-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.8.2.30-RXN 2.8.2.30-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=5.1.3.17-RXN 5.1.3.17-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=HEPARITIN-SULFOTRANSFERASE-RXN HEPARITIN-SULFOTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11557 RXN-11557]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11558 RXN-11558]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11562 RXN-11562]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11563 RXN-11563]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16327 RXN-16327]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=heparan sulfate biosynthesis (late stages)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=13}}
+{{#set: completion rate=23.0}}

@@ -1,0 +1,44 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15846 ==
+* right end position:
+** 2635
+* transcription direction:
+** POSITIVE
+* left end position:
+** 179
+* centisome position:
+** 3.7597141    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[SUCCCOASYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[SUCL_gdp_m]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5913]]
+* [[P42-PWY]]
+* [[PWY-7384]]
+* [[PWY-5392]]
+* [[P23-PWY]]
+* [[PWY-5690]]
+* [[PWY-6969]]
+* [[PWY-6728]]
+* [[PWY-5538]]
+* [[PWY-5537]]
+* [[PWY66-398]]
+* [[TCA]]
+== External links  ==
+{{#set: right end position=2635}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=179}}
+{{#set: centisome position=3.7597141    }}
+{{#set: reaction associated=SUCCCOASYN-RXN|SUCL_gdp_m}}
+{{#set: pathway associated=PWY-5913|P42-PWY|PWY-7384|PWY-5392|P23-PWY|PWY-5690|PWY-6969|PWY-6728|PWY-5538|PWY-5537|PWY66-398|TCA}}

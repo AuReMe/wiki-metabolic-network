@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CIT CIT] ==
+* smiles:
+** C(=O)([O-])CC(C(=O)[O-])(O)CC(=O)[O-]
+* common name:
+** citrate
+* inchi key:
+** InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
+* molecular weight:
+** 189.101    
+* Synonym(s):
+** citr
+** cit
+** citric acid
+** 2-hydroxy-1,2,3-propanetricarboxylic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[CSm]]
+* [[CSx]]
+* [[CITSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14047]]
+* [[OAACITtm]]
+* [[AKGCITtm]]
+* [[ACONITATEDEHYDR-RXN]]
+== External links  ==
+* CAS : 77-92-9
+* BIGG : cit
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=31348 31348]
+* KNAPSACK : C00007619
+* HMDB : HMDB00094
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00158 C00158]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.29081.html 29081]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16947 16947]
+* METABOLIGHTS : MTBLC16947
+{{#set: smiles=C(=O)([O-])CC(C(=O)[O-])(O)CC(=O)[O-]}}
+{{#set: common name=citrate}}
+{{#set: inchi key=InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K}}
+{{#set: molecular weight=189.101    }}
+{{#set: common name=citr|cit|citric acid|2-hydroxy-1,2,3-propanetricarboxylic acid}}
+{{#set: produced by=CSm|CSx|CITSYN-RXN}}
+{{#set: reversible reaction associated=RXN-14047|OAACITtm|AKGCITtm|ACONITATEDEHYDR-RXN}}

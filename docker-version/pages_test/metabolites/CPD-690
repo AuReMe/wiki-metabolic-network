@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-690 CPD-690] ==
+* smiles:
+** CC5(=C%10(C(C)(CCC([O-])=O)C(CC(=O)[O-])C9(C%11(C)(C(C)(CC(N)=O)C(CCC([O-])=O)C1(=[N+]([Co--]3([N+]2(C(=C(C)1)C(C)(CC(N)=O)C(CCC([O-])=O)C=2C=C4(C(C)(C)C(CCC([O-])=O)C(=[N+]34)5)))(CC6(C(C(O)C(O6)N7(C=NC8(=C7N=CN=C8N)))O))N9%10)%11)))))
+* common name:
+** adenosyl-cobyrinate a,c-diamide
+* inchi key:
+** InChIKey=OCNLJCZKGHKJGF-NQYRMHKHSA-H
+* molecular weight:
+** 1182.137    
+* Synonym(s):
+** adenosyl-cobyrinic acid a,c-diamide
+** Adenosyl cobyrinate diamide
+** Adenosylcob(III)yrinic acid a,c-diamide
+** Adenosylcobyrinic acid a,c-diamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[R344-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91819815 91819815]
+* HMDB : HMDB01083
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58503 58503]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06506 C06506]
+{{#set: smiles=CC5(=C%10(C(C)(CCC([O-])=O)C(CC(=O)[O-])C9(C%11(C)(C(C)(CC(N)=O)C(CCC([O-])=O)C1(=[N+]([Co--]3([N+]2(C(=C(C)1)C(C)(CC(N)=O)C(CCC([O-])=O)C=2C=C4(C(C)(C)C(CCC([O-])=O)C(=[N+]34)5)))(CC6(C(C(O)C(O6)N7(C=NC8(=C7N=CN=C8N)))O))N9%10)%11)))))}}
+{{#set: common name=adenosyl-cobyrinate a,c-diamide}}
+{{#set: inchi key=InChIKey=OCNLJCZKGHKJGF-NQYRMHKHSA-H}}
+{{#set: molecular weight=1182.137    }}
+{{#set: common name=adenosyl-cobyrinic acid a,c-diamide|Adenosyl cobyrinate diamide|Adenosylcob(III)yrinic acid a,c-diamide|Adenosylcobyrinic acid a,c-diamide}}
+{{#set: produced by=R344-RXN}}

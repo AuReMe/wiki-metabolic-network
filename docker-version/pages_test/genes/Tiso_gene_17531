@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17531 ==
+* right end position:
+** 3313
+* transcription direction:
+** POSITIVE
+* left end position:
+** 101
+* centisome position:
+** 2.7762506    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUC1PURIDYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7343]]
+* [[PWY-3801]]
+* [[PWY-7817]]
+* [[PWY-6527]]
+* [[PWY-7238]]
+== External links  ==
+{{#set: right end position=3313}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=101}}
+{{#set: centisome position=2.7762506    }}
+{{#set: reaction associated=GLUC1PURIDYLTRANS-RXN}}
+{{#set: pathway associated=PWY-7343|PWY-3801|PWY-7817|PWY-6527|PWY-7238}}

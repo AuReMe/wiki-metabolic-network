@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-DOPACHROME L-DOPACHROME] ==
+* smiles:
+** C([O-])(=O)C1(NC2(C(C1)=CC(=O)C(=O)C=2))
+* common name:
+** L-dopachrome
+* inchi key:
+** InChIKey=VJNCICVKUHKIIV-LURJTMIESA-M
+* molecular weight:
+** 192.151    
+* Synonym(s):
+** indole-5,6-quinoneimine
+** dopachrome
+** 2-L-carboxy-2,3-dihydroindole-5,6-quinone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11403]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11369]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01693 C01693]
+* HMDB : HMDB01430
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57509 57509]
+* METABOLIGHTS : MTBLC57509
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173181 46173181]
+{{#set: smiles=C([O-])(=O)C1(NC2(C(C1)=CC(=O)C(=O)C=2))}}
+{{#set: common name=L-dopachrome}}
+{{#set: inchi key=InChIKey=VJNCICVKUHKIIV-LURJTMIESA-M}}
+{{#set: molecular weight=192.151    }}
+{{#set: common name=indole-5,6-quinoneimine|dopachrome|2-L-carboxy-2,3-dihydroindole-5,6-quinone}}
+{{#set: consumed by=RXN-11403}}
+{{#set: produced by=RXN-11369}}

@@ -1,0 +1,58 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-102 PWY-102] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3195 TAX-3195]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58023 TAX-58023]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** gibberellin inactivation I (2&beta;-hydroxylation)
+* Synonym(s):
+** gibberellin 2&beta;-hydroxylation
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''11''' reactions in the full pathway
+* [[RXN-113]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-115]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-171]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-6550]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-114 RXN-114]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-118 RXN-118]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-172 RXN-172]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-292 RXN-292]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-886 RXN-886]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-947 RXN-947]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-991 RXN-991]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-102 PWY-102]
+{{#set: taxonomic range=TAX-3195}}
+{{#set: taxonomic range=TAX-58023}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=gibberellin inactivation I (2&beta;-hydroxylation)}}
+{{#set: common name=gibberellin 2&beta;-hydroxylation}}
+{{#set: reaction found=4}}
+{{#set: total reaction=11}}
+{{#set: completion rate=36.0}}

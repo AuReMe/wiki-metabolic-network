@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2365 CPD0-2365] ==
+* common name:
+** 2,3-didehydroadipyl-CoA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-6513]]
+== External links  ==
+{{#set: common name=2,3-didehydroadipyl-CoA}}
+{{#set: reversible reaction associated=RXN0-6513}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-4-HYDROXY-2-KETO-GLUTARATE D-4-HYDROXY-2-KETO-GLUTARATE] ==
+* smiles:
+** C(C(=O)C([O-])=O)C(C([O-])=O)O
+* common name:
+** (4R)-4-hydroxy-2-oxoglutarate
+* inchi key:
+** InChIKey=WXSKVKPSMAHCSG-UWTATZPHSA-L
+* molecular weight:
+** 160.083    
+* Synonym(s):
+** D-4-hydroxy-2-ketoglutarate
+** (R)-2-hydroxy-4-oxopentanedioate
+** D-4-hydroxy-2-oxoglutarate
+** D-4-hydroxy-2-keto-glutarate
+
+== Reaction(s) known to consume the compound ==
+* [[R00471]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05946 C05946]
+* HMDB : HMDB60466
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62213 62213]
+* METABOLIGHTS : MTBLC62213
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=52921639 52921639]
+{{#set: smiles=C(C(=O)C([O-])=O)C(C([O-])=O)O}}
+{{#set: common name=(4R)-4-hydroxy-2-oxoglutarate}}
+{{#set: inchi key=InChIKey=WXSKVKPSMAHCSG-UWTATZPHSA-L}}
+{{#set: molecular weight=160.083    }}
+{{#set: common name=D-4-hydroxy-2-ketoglutarate|(R)-2-hydroxy-4-oxopentanedioate|D-4-hydroxy-2-oxoglutarate|D-4-hydroxy-2-keto-glutarate}}
+{{#set: consumed by=R00471}}

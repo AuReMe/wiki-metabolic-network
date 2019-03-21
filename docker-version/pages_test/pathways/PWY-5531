@@ -1,0 +1,67 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5531 PWY-5531] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''9''' reactions in the full pathway
+* [[HEMN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_5577]]
+*** [[Tiso_gene_18066]]
+*** [[Tiso_gene_13365]]
+*** [[Tiso_gene_13364]]
+*** [[Tiso_gene_4004]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19451]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN1F-20]]
+** 3 associated gene(s):
+*** [[Tiso_gene_11960]]
+*** [[Tiso_gene_5993]]
+*** [[Tiso_gene_9870]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[UROGENDECARBOX-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18743]]
+*** [[Tiso_gene_19684]]
+*** [[Tiso_gene_18744]]
+*** [[Tiso_gene_5173]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17485 RXN-17485]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8797 RXN-8797]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8798 RXN-8798]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8799 RXN-8799]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6259 RXN0-6259]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=9}}
+{{#set: completion rate=44.0}}

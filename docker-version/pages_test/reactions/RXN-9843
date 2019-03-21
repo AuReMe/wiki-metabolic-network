@@ -1,0 +1,32 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9843 RXN-9843] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[Reduced-adrenal-ferredoxins]][c] '''+''' 2 [[PROTON]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[CPD-10586]][c] '''=>''' 1 [[CPD-10587]][c] '''+''' 2 [[Oxidized-adrenal-ferredoxins]][c] '''+''' 2 [[WATER]][c]
+* With common name(s):
+** 2 a reduced  adrenodoxin[c] '''+''' 2 H+[c] '''+''' 1 oxygen[c] '''+''' 1 (25R)-5&beta;-cholestane-3&alpha;,7&alpha;,26-triol[c] '''=>''' 1 (25R)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestan-26-al[c] '''+''' 2 an oxidized adrenodoxin[c] '''+''' 2 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18459]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6061]], bile acid biosynthesis, neutral pathway: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6061 PWY-6061]
+** '''3''' reactions found over '''29''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04805 R04805]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_18459}}
+{{#set: in pathway=PWY-6061}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

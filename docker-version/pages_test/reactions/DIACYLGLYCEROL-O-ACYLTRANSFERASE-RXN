@@ -1,0 +1,62 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** diacylglycerol_acyltransferase
+** at5g53050_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.20 EC-2.3.1.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ACYL-COA]][c] '''+''' 1 [[DIACYLGLYCEROL]][c] '''=>''' 1 [[Triacylglycerols]][c] '''+''' 1 [[CO-A]][c]
+* With common name(s):
+** 1 an acyl-CoA[c] '''+''' 1 a 1,2-diacyl-sn-glycerol[c] '''=>''' 1 a triacyl-sn-glycerol[c] '''+''' 1 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_20057]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11824]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3902]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8007]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_8889]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8006]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_20058]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRIGLSYN-PWY]], diacylglycerol and triacylglycerol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=TRIGLSYN-PWY TRIGLSYN-PWY]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10868 10868]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02251 R02251]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9SLD2 Q9SLD2]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=diacylglycerol_acyltransferase}}
+{{#set: common name=at5g53050_protein}}
+{{#set: ec number=EC-2.3.1.20}}
+{{#set: gene associated=Tiso_gene_20057|Tiso_gene_11824|Tiso_gene_3902|Tiso_gene_8007|Tiso_gene_8889|Tiso_gene_8006|Tiso_gene_20058}}
+{{#set: in pathway=TRIGLSYN-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

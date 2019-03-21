@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY1G-0 PWY1G-0] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** mycothiol biosynthesis
+* Synonym(s):
+** MSH biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7167]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11015 RXN-11015]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6501 RXN-6501]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1G-121 RXN1G-121]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1G-2 RXN1G-2]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1G-4 RXN1G-4]
+== External links  ==
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=mycothiol biosynthesis}}
+{{#set: common name=MSH biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

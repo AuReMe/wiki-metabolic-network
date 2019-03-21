@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12303 RXN-12303] ==
+* direction:
+** REVERSIBLE
+* common name:
+** NAD(P)H dehydrogenase (plastoquinone)
+** possible_vitamin_k_epoxide_plastid_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/1.6.5.2 EC-1.6.5.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PLASTOQUINONE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[NADH-P-OR-NOP]][c] '''<=>''' 1 [[Plastoquinols]][c] '''+''' 1 [[NAD-P-OR-NOP]][c]
+* With common name(s):
+** 1 a plastoquinone[c] '''+''' 1 H+[c] '''+''' 1 NAD(P)H[c] '''<=>''' 1 a plastoquinol[c] '''+''' 1 NAD(P)+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10318]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7731]], superpathway of photosynthetic hydrogen production: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7731 PWY-7731]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=NAD(P)H dehydrogenase (plastoquinone)}}
+{{#set: common name=possible_vitamin_k_epoxide_plastid_protein}}
+{{#set: ec number=EC-1.6.5.2}}
+{{#set: gene associated=Tiso_gene_10318}}
+{{#set: in pathway=PWY-7731}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

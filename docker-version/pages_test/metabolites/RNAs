@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=RNAs RNAs] ==
+* common name:
+** a ribonucleic acid
+* Synonym(s):
+** RNA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17927]]
+* [[RNA-LIGASE-ATP-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a ribonucleic acid}}
+{{#set: common name=RNA}}
+{{#set: produced by=RXN-17927|RNA-LIGASE-ATP-RXN}}

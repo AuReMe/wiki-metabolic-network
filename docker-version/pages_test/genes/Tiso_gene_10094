@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10094 ==
+* right end position:
+** 3101
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1299
+* centisome position:
+** 14.721214    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.14.13.8-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN66-81]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY66-201]]
+== External links  ==
+{{#set: right end position=3101}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1299}}
+{{#set: centisome position=14.721214    }}
+{{#set: reaction associated=1.14.13.8-RXN|RXN66-81}}
+{{#set: pathway associated=PWY66-201}}

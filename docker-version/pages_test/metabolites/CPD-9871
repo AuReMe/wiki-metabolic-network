@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9871 CPD-9871] ==
+* smiles:
+** CC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCC1(=C(C(OC)=CC(=C1C)O)O))C)C)C)C)C)C)C)C)C)C
+* common name:
+** 6-methoxy-3-methyl-2-all-trans-decaprenyl-1,4-benzoquinol
+* inchi key:
+** InChIKey=XCOXSBLQZPFVGK-RGIWONJESA-N
+* molecular weight:
+** 835.347    
+* Synonym(s):
+** 6-methoxy-3-methyl-2-decaprenyl-1,4-benzoquinol
+** 6-methoxy-5-methyl-2-decaprenyl-1,4-benzoquinol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9235]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=50986092 50986092]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=64181 64181]
+{{#set: smiles=CC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCC1(=C(C(OC)=CC(=C1C)O)O))C)C)C)C)C)C)C)C)C)C}}
+{{#set: common name=6-methoxy-3-methyl-2-all-trans-decaprenyl-1,4-benzoquinol}}
+{{#set: inchi key=InChIKey=XCOXSBLQZPFVGK-RGIWONJESA-N}}
+{{#set: molecular weight=835.347    }}
+{{#set: common name=6-methoxy-3-methyl-2-decaprenyl-1,4-benzoquinol|6-methoxy-5-methyl-2-decaprenyl-1,4-benzoquinol}}
+{{#set: produced by=RXN-9235}}

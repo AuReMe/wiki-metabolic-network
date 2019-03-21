@@ -1,0 +1,74 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-2582 PWY-2582] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** brassinosteroid biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''21''' reactions in the full pathway
+* [[RXN-4225]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3577]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-4230]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_3577]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-4231]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_3577]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-711]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14327]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-773]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3577]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-774]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_3577]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-775]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3577]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11101 RXN-11101]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11529 RXN-11529]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11530 RXN-11530]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11531 RXN-11531]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11532 RXN-11532]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11533 RXN-11533]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11534 RXN-11534]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4226 RXN-4226]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4228 RXN-4228]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4229 RXN-4229]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-709 RXN-709]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-710 RXN-710]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-712 RXN-712]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-776 RXN-776]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-2582 PWY-2582]
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=brassinosteroid biosynthesis II}}
+{{#set: reaction found=7}}
+{{#set: total reaction=21}}
+{{#set: completion rate=33.0}}

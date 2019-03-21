@@ -1,0 +1,54 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13374 RXN-13374] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 9-cis-epoxycarotenoid_dioxygenase
+** 9-cis-epoxycarotenoid_neoxanthin_cleavage_enzyme-like_protein
+** beta-carotene
+* ec number:
+** [http://enzyme.expasy.org/EC/1.13.11.63 EC-1.13.11.63]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD1F-129]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''=>''' 2 [[RETINAL]][c]
+* With common name(s):
+** 1 all-trans-&beta;-carotene[c] '''+''' 1 oxygen[c] '''=>''' 2 all-trans-retinal[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13078]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4653]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7740]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13079]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6857]], retinol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6857 PWY-6857]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=32888 32888]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00032 R00032]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=9-cis-epoxycarotenoid_dioxygenase}}
+{{#set: common name=9-cis-epoxycarotenoid_neoxanthin_cleavage_enzyme-like_protein}}
+{{#set: common name=beta-carotene}}
+{{#set: ec number=EC-1.13.11.63}}
+{{#set: gene associated=Tiso_gene_13078|Tiso_gene_4653|Tiso_gene_7740|Tiso_gene_13079}}
+{{#set: in pathway=PWY-6857}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

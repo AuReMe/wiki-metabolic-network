@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PANTOTHENATE PANTOTHENATE] ==
+* smiles:
+** CC(C)(CO)C(O)C(=O)NCCC(=O)[O-]
+* common name:
+** (R)-pantothenate
+* inchi key:
+** InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M
+* molecular weight:
+** 218.229    
+* Synonym(s):
+** vitamin B5
+** (R)-pantothenic acid
+** D-pantothenic acid
+
+== Reaction(s) known to consume the compound ==
+* [[PANTOTHENATE-KIN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[PANTOATE-BETA-ALANINE-LIG-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 79-83-4
+* Wikipedia : Vitamin_B5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=167945 167945]
+* HMDB : HMDB00210
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00864 C00864]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.146912.html 146912]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29032 29032]
+* BIGG : pnto__R
+{{#set: smiles=CC(C)(CO)C(O)C(=O)NCCC(=O)[O-]}}
+{{#set: common name=(R)-pantothenate}}
+{{#set: inchi key=InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M}}
+{{#set: molecular weight=218.229    }}
+{{#set: common name=vitamin B5|(R)-pantothenic acid|D-pantothenic acid}}
+{{#set: consumed by=PANTOTHENATE-KIN-RXN}}
+{{#set: produced by=PANTOATE-BETA-ALANINE-LIG-RXN}}

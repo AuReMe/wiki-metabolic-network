@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FeS-Cluster-Co-Chaperones FeS-Cluster-Co-Chaperones] ==
+* common name:
+** an [Fe-S cluster biosynthesis co-chaperone]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14388]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14390]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an [Fe-S cluster biosynthesis co-chaperone]}}
+{{#set: consumed by=RXN-14388}}
+{{#set: produced by=RXN-14390}}

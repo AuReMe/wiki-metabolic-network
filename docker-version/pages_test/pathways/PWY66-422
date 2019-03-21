@@ -1,0 +1,66 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY66-422 PWY66-422] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** D-galactose degradation V (Leloir pathway)
+* Synonym(s):
+** Leloir pathway
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[ALDOSE1EPIM-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17734]]
+*** [[Tiso_gene_19779]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[GALACTOKIN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_11795]]
+*** [[Tiso_gene_12191]]
+*** [[Tiso_gene_5041]]
+*** [[Tiso_gene_10797]]
+*** [[Tiso_gene_5042]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[GALACTURIDYLYLTRANS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2435]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSPHOGLUCMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_13477]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[UDPGLUCEPIM-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9823]]
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3236]]
+*** [[Tiso_gene_10797]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=D-galactose degradation V (Leloir pathway)}}
+{{#set: common name=Leloir pathway}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

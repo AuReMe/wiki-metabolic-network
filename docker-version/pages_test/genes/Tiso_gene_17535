@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17535 ==
+* right end position:
+** 2494
+* transcription direction:
+** POSITIVE
+* left end position:
+** 867
+* centisome position:
+** 23.864574    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2494}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=867}}
+{{#set: centisome position=23.864574    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN}}

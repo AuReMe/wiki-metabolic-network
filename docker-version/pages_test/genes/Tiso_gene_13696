@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13696 ==
+* right end position:
+** 5795
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4053
+* centisome position:
+** 66.00977    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[URITRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5795}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4053}}
+{{#set: centisome position=66.00977    }}
+{{#set: reaction associated=URITRANS-RXN}}

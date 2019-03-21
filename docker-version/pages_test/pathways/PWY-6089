@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6089 PWY-6089] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 3-chlorocatechol degradation I (ortho)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-9868]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12835]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MALEYLACETATE-REDUCTASE-RXN MALEYLACETATE-REDUCTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9860 RXN-9860]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9867 RXN-9867]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9894 RXN-9894]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=3-chlorocatechol degradation I (ortho)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-696 CPD-696] ==
+* smiles:
+** CC(C)C(=C)CCC(C)[CH]3(CCC4(C)([CH]1(CC[CH]5(C(C)(C)C(O)CCC2(CC12CCC(C)34)5))))
+* common name:
+** 24-methylenecycloartanol
+* inchi key:
+** InChIKey=BDHQMRXFDYJGII-XPNRYQHYSA-N
+* molecular weight:
+** 440.751    
+* Synonym(s):
+** 24(28)-methylenecycloartanol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-4021]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21157981 21157981]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08830 C08830]
+{{#set: smiles=CC(C)C(=C)CCC(C)[CH]3(CCC4(C)([CH]1(CC[CH]5(C(C)(C)C(O)CCC2(CC12CCC(C)34)5))))}}
+{{#set: common name=24-methylenecycloartanol}}
+{{#set: inchi key=InChIKey=BDHQMRXFDYJGII-XPNRYQHYSA-N}}
+{{#set: molecular weight=440.751    }}
+{{#set: common name=24(28)-methylenecycloartanol}}
+{{#set: produced by=RXN-4021}}

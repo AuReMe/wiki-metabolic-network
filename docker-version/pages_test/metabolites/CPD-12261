@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12261 CPD-12261] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(=CCOP(OP([O-])(=O)OC8(C(NC(=O)C)C(OC(C)C(=O)NC(C)C(=O)NC(C(=O)[O-])CCC(=O)NC(CCCC([N+])C(=O)[O-])C(NC(C)C(=O)NC(C)C([O-])=O)=O)C(OC7(OC(CO)C(OC6(C(NC(=O)C)C(OC(C)C(=O)NC(C)C(=O)NC(C(=O)[O-])CCC(=O)NC(CCCC([N+])C(=O)[O-])C(NC(C)C(=O)NC(C(=O)[O-])CCCC(C(NC(C)C(=O)NC(C)C([O-])=O)=O)NC(=O)CCC(C(=O)[O-])NC(=O)C(C)NC(=O)C(C)OC4(C(OC3(OC(CO)C(OC2(C(NC(=O)C)C(OC(C)C(=O)NC(C)C(=O)NC(C(=O)[O-])CCC(=O)NC(CCCC([N+])C(=O)[O-])C(NC(C)C(=O)NC(C)C([O-])=O)=O)C(OC1(OC(CO)C(O)C(O)C(NC(=O)C)1))C(CO)O2))C(O)C(NC(=O)C)3))C(CO)OC(C(NC(=O)C)4)OP(OP(OCC=C(CCC=C(CCC=C(CCC=C(CCC=C(C)CCC=C(CCC=C(CCC=C(CCC=C(C)CCC=C(C)CCC=C(C)C)C)C)C)C)C)C)C)([O-])=O)([O-])=O))=O)C(OC5(OC(CO)C(O)C(O)C(NC(=O)C)5))C(CO)O6))C(O)C(NC(=O)C)7))C(CO)O8))([O-])=O)C)C)C)C)C)C)C
+* common name:
+** a peptidoglycan with D,D cross-links (meso-diaminopimelate containing)
+* inchi key:
+** InChIKey=DTMSLMOHTHSZJF-NBEMDSPVSA-B
+* molecular weight:
+** 5725.308    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-11302]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657238 90657238]
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(=CCOP(OP([O-])(=O)OC8(C(NC(=O)C)C(OC(C)C(=O)NC(C)C(=O)NC(C(=O)[O-])CCC(=O)NC(CCCC([N+])C(=O)[O-])C(NC(C)C(=O)NC(C)C([O-])=O)=O)C(OC7(OC(CO)C(OC6(C(NC(=O)C)C(OC(C)C(=O)NC(C)C(=O)NC(C(=O)[O-])CCC(=O)NC(CCCC([N+])C(=O)[O-])C(NC(C)C(=O)NC(C(=O)[O-])CCCC(C(NC(C)C(=O)NC(C)C([O-])=O)=O)NC(=O)CCC(C(=O)[O-])NC(=O)C(C)NC(=O)C(C)OC4(C(OC3(OC(CO)C(OC2(C(NC(=O)C)C(OC(C)C(=O)NC(C)C(=O)NC(C(=O)[O-])CCC(=O)NC(CCCC([N+])C(=O)[O-])C(NC(C)C(=O)NC(C)C([O-])=O)=O)C(OC1(OC(CO)C(O)C(O)C(NC(=O)C)1))C(CO)O2))C(O)C(NC(=O)C)3))C(CO)OC(C(NC(=O)C)4)OP(OP(OCC=C(CCC=C(CCC=C(CCC=C(CCC=C(C)CCC=C(CCC=C(CCC=C(CCC=C(C)CCC=C(C)CCC=C(C)C)C)C)C)C)C)C)C)([O-])=O)([O-])=O))=O)C(OC5(OC(CO)C(O)C(O)C(NC(=O)C)5))C(CO)O6))C(O)C(NC(=O)C)7))C(CO)O8))([O-])=O)C)C)C)C)C)C)C}}
+{{#set: common name=a peptidoglycan with D,D cross-links (meso-diaminopimelate containing)}}
+{{#set: inchi key=InChIKey=DTMSLMOHTHSZJF-NBEMDSPVSA-B}}
+{{#set: molecular weight=5725.308    }}
+{{#set: produced by=RXN-11302}}

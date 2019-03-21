@@ -1,0 +1,48 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HS HS] ==
+* smiles:
+** [SH2]
+* common name:
+** hydrogen sulfide
+* inchi key:
+** InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-N
+* molecular weight:
+** 34.076    
+* Synonym(s):
+** sulfide
+** H2S
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15348]]
+== Reaction(s) known to produce the compound ==
+* [[LCYSDESULF-RXN]]
+* [[RXN-16226]]
+* [[RXN-15129]]
+* [[SULFITE-REDUCTASE-FERREDOXIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN0-6385]]
+* [[ACETYLHOMOSER-CYS-RXN]]
+* [[ACSERLY-RXN]]
+* [[RXN-9384]]
+* [[RXN-10851]]
+== External links  ==
+* CAS : 7783-06-4
+* BIGG : h2s
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=402 402]
+* HMDB : HMDB03276
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00283 C00283]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.391.html 391]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16136 16136]
+* METABOLIGHTS : MTBLC16136
+{{#set: smiles=[SH2]}}
+{{#set: common name=hydrogen sulfide}}
+{{#set: inchi key=InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-N}}
+{{#set: molecular weight=34.076    }}
+{{#set: common name=sulfide|H2S}}
+{{#set: consumed by=RXN-15348}}
+{{#set: produced by=LCYSDESULF-RXN|RXN-16226|RXN-15129|SULFITE-REDUCTASE-FERREDOXIN-RXN}}
+{{#set: reversible reaction associated=RXN0-6385|ACETYLHOMOSER-CYS-RXN|ACSERLY-RXN|RXN-9384|RXN-10851}}

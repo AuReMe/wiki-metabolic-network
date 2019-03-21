@@ -1,0 +1,102 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7159 PWY-7159] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-241806 TAX-241806]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3041 TAX-3041]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3312 TAX-3312]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3208 TAX-3208]
+* common name:
+** 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)
+* Synonym(s):
+** light-independent aerobic 3,8-divinyl-chlorophyllide a biosynthesis
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''9''' reactions in the full pathway
+* [[PROTOPORGENOXI-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11986]]
+*** [[Tiso_gene_15401]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[RXN-5282]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[RXN-5283]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[RXN-5284]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19451]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-1461]]
+** 5 associated gene(s):
+*** [[Tiso_gene_3671]]
+*** [[Tiso_gene_2247]]
+*** [[Tiso_gene_13364]]
+*** [[Tiso_gene_13365]]
+*** [[Tiso_gene_2246]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN1F-20]]
+** 3 associated gene(s):
+*** [[Tiso_gene_11960]]
+*** [[Tiso_gene_5993]]
+*** [[Tiso_gene_9870]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[UROGENDECARBOX-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18743]]
+*** [[Tiso_gene_19684]]
+*** [[Tiso_gene_18744]]
+*** [[Tiso_gene_5173]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17485 RXN-17485]
+== External links  ==
+* PLANTCYC : PWY-7159
+{{#set: taxonomic range=TAX-241806}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-3041}}
+{{#set: taxonomic range=TAX-3312}}
+{{#set: taxonomic range=TAX-3208}}
+{{#set: common name=3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)}}
+{{#set: common name=light-independent aerobic 3,8-divinyl-chlorophyllide a biosynthesis}}
+{{#set: reaction found=8}}
+{{#set: total reaction=9}}
+{{#set: completion rate=89.0}}

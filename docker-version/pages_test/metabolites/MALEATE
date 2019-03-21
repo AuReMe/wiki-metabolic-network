@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALEATE MALEATE] ==
+* smiles:
+** C([O-])(=O)C=CC([O-])=O
+* common name:
+** maleate
+* inchi key:
+** InChIKey=VZCYOOQTPOCHFL-UPHRSURJSA-L
+* molecular weight:
+** 114.057    
+* Synonym(s):
+** maleic acid
+** cis-butenedioic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-646]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 110-16-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5288227 5288227]
+* HMDB : HMDB00176
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01384 C01384]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4450430.html 4450430]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=30780 30780]
+{{#set: smiles=C([O-])(=O)C=CC([O-])=O}}
+{{#set: common name=maleate}}
+{{#set: inchi key=InChIKey=VZCYOOQTPOCHFL-UPHRSURJSA-L}}
+{{#set: molecular weight=114.057    }}
+{{#set: common name=maleic acid|cis-butenedioic acid}}
+{{#set: produced by=RXN-646}}

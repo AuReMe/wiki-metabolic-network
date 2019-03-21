@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY1A0-6325 PWY1A0-6325] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** actinorhodin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''12''' reactions in the full pathway
+* [[RXN1A0-6303]]
+** 2 associated gene(s):
+*** [[Tiso_gene_703]]
+*** [[Tiso_gene_14920]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15199 RXN-15199]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18114 RXN-18114]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18115 RXN-18115]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18116 RXN-18116]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6297 RXN1A0-6297]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6305 RXN1A0-6305]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6307 RXN1A0-6307]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6310 RXN1A0-6310]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6312 RXN1A0-6312]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6314 RXN1A0-6314]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1A0-6316 RXN1A0-6316]
+== External links  ==
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=actinorhodin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=12}}
+{{#set: completion rate=8.0}}

@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Red-Glutaredoxins Red-Glutaredoxins] ==
+* common name:
+** a reduced glutaredoxin
+* Synonym(s):
+** glutaredoxin (reduced)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-982]]
+== Reaction(s) known to produce the compound ==
+* [[PRODISULFREDUCT-A-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a reduced glutaredoxin}}
+{{#set: common name=glutaredoxin (reduced)}}
+{{#set: consumed by=RXN-982}}
+{{#set: produced by=PRODISULFREDUCT-A-RXN}}

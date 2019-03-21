@@ -1,0 +1,87 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.6.3.8-RXN 3.6.3.8-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Calcium-transporting ATPase 1, endoplasmic reticulum-type
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.3.8 EC-3.6.3.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][e] '''+''' 1 [[WATER]][e] '''+''' 1 [[CA+2]][e] '''<=>''' 1 [[Pi]][e] '''+''' 1 [[CA+2]][c] '''+''' 1 [[PROTON]][e] '''+''' 1 [[ADP]][e]
+* With common name(s):
+** 1 ATP[e] '''+''' 1 H2O[e] '''+''' 1 Ca2+[e] '''<=>''' 1 phosphate[e] '''+''' 1 Ca2+[c] '''+''' 1 H+[e] '''+''' 1 ADP[e]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10760]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18105 18105]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9LF79 Q9LF79]
+** [http://www.uniprot.org/uniprot/P11505 P11505]
+** [http://www.uniprot.org/uniprot/Q63080 Q63080]
+** [http://www.uniprot.org/uniprot/Q28059 Q28059]
+** [http://www.uniprot.org/uniprot/P16615 P16615]
+** [http://www.uniprot.org/uniprot/P11507 P11507]
+** [http://www.uniprot.org/uniprot/P20647 P20647]
+** [http://www.uniprot.org/uniprot/P18596 P18596]
+** [http://www.uniprot.org/uniprot/Q64568 Q64568]
+** [http://www.uniprot.org/uniprot/P23634 P23634]
+** [http://www.uniprot.org/uniprot/P22189 P22189]
+** [http://www.uniprot.org/uniprot/P22700 P22700]
+** [http://www.uniprot.org/uniprot/Q03669 Q03669]
+** [http://www.uniprot.org/uniprot/Q28164 Q28164]
+** [http://www.uniprot.org/uniprot/Q64566 Q64566]
+** [http://www.uniprot.org/uniprot/Q27764 Q27764]
+** [http://www.uniprot.org/uniprot/Q64578 Q64578]
+** [http://www.uniprot.org/uniprot/P11506 P11506]
+** [http://www.uniprot.org/uniprot/Q63139 Q63139]
+** [http://www.uniprot.org/uniprot/Q27721 Q27721]
+** [http://www.uniprot.org/uniprot/P13586 P13586]
+** [http://www.uniprot.org/uniprot/P13587 P13587]
+** [http://www.uniprot.org/uniprot/P04191 P04191]
+** [http://www.uniprot.org/uniprot/P11607 P11607]
+** [http://www.uniprot.org/uniprot/P35316 P35316]
+** [http://www.uniprot.org/uniprot/P23220 P23220]
+** [http://www.uniprot.org/uniprot/Q00804 Q00804]
+** [http://www.uniprot.org/uniprot/Q00779 Q00779]
+** [http://www.uniprot.org/uniprot/Q92105 Q92105]
+** [http://www.uniprot.org/uniprot/Q01896 Q01896]
+** [http://www.uniprot.org/uniprot/Q42883 Q42883]
+** [http://www.uniprot.org/uniprot/Q08853 Q08853]
+** [http://www.uniprot.org/uniprot/P38360 P38360]
+** [http://www.uniprot.org/uniprot/P38929 P38929]
+** [http://www.uniprot.org/uniprot/Q64542 Q64542]
+** [http://www.uniprot.org/uniprot/P39986 P39986]
+** [http://www.uniprot.org/uniprot/Q12691 Q12691]
+** [http://www.uniprot.org/uniprot/Q49063 Q49063]
+** [http://www.uniprot.org/uniprot/O22218 O22218]
+** [http://www.uniprot.org/uniprot/O23087 O23087]
+** [http://www.uniprot.org/uniprot/O04938 O04938]
+** [http://www.uniprot.org/uniprot/O81108 O81108]
+** [http://www.uniprot.org/uniprot/P93067 P93067]
+** [http://www.uniprot.org/uniprot/Q27642 Q27642]
+** [http://www.uniprot.org/uniprot/Q27829 Q27829]
+** [http://www.uniprot.org/uniprot/O59868 O59868]
+** [http://www.uniprot.org/uniprot/Q37145 Q37145]
+** [http://www.uniprot.org/uniprot/Q9XES1 Q9XES1]
+** [http://www.uniprot.org/uniprot/Q9SY55 Q9SY55]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Calcium-transporting ATPase 1, endoplasmic reticulum-type}}
+{{#set: ec number=EC-3.6.3.8}}
+{{#set: gene associated=Tiso_gene_10760}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

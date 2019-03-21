@@ -1,0 +1,42 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15820 ==
+* right end position:
+** 4417
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1467
+* centisome position:
+** 30.690378    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEROXID-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14240]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15288]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17352]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8635]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7214]]
+* [[PWY-6824]]
+* [[PWY-7445]]
+* [[PWY-5469]]
+* [[PWY-5466]]
+* [[PWY-5461]]
+== External links  ==
+{{#set: right end position=4417}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1467}}
+{{#set: centisome position=30.690378    }}
+{{#set: reaction associated=PEROXID-RXN|RXN-14240|RXN-15288|RXN-17352|RXN-8635}}
+{{#set: pathway associated=PWY-7214|PWY-6824|PWY-7445|PWY-5469|PWY-5466|PWY-5461}}

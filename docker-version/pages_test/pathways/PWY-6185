@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6185 PWY-6185] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 4-methylcatechol degradation (ortho cleavage)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-10083]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10066]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=5.4.99.14-RXN 5.4.99.14-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10080 RXN-10080]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10081 RXN-10081]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10082 RXN-10082]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10085 RXN-10085]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10086 RXN-10086]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=4-methylcatechol degradation (ortho cleavage)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

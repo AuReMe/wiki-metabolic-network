@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY66-373 PWY66-373] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** sucrose degradation V (sucrose &alpha;-glucosidase)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[3.2.1.48-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12644]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[KETOHEXOKINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_849]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-8631]]
+** 6 associated gene(s):
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_9118]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=TRIOKINASE-RXN TRIOKINASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=sucrose degradation V (sucrose &alpha;-glucosidase)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

@@ -1,0 +1,54 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SER SER] ==
+* smiles:
+** C(O)C([N+])C(=O)[O-]
+* common name:
+** L-serine
+* inchi key:
+** InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
+* molecular weight:
+** 105.093    
+* Synonym(s):
+** S
+** serine
+** ser
+** L-ser
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-5641]]
+* [[RME144]]
+* [[RXN0-4083]]
+* [[RXN0-2382]]
+* [[SERINE--TRNA-LIGASE-RXN]]
+* [[RXN0-2161]]
+* [[5.1.1.18-RXN]]
+* [[SERINE-C-PALMITOYLTRANSFERASE-RXN]]
+* [[4.3.1.17-RXN]]
+* [[TRYPSYN-RXN]]
+* [[SERINE-O-ACETTRAN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5114]]
+* [[RXN-14136]]
+* [[RXN0-4083]]
+== Reaction(s) of unknown directionality ==
+* [[CYSTATHIONINE-BETA-SYNTHASE-RXN]]
+* [[GLYOHMETRANS-RXN]]
+== External links  ==
+* CAS : 56-45-1
+* BIGG : ser__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6857581 6857581]
+* HMDB : HMDB00187
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00065 C00065]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=33384 33384]
+* METABOLIGHTS : MTBLC33384
+{{#set: smiles=C(O)C([N+])C(=O)[O-]}}
+{{#set: common name=L-serine}}
+{{#set: inchi key=InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N}}
+{{#set: molecular weight=105.093    }}
+{{#set: common name=S|serine|ser|L-ser}}
+{{#set: consumed by=RXN-5641|RME144|RXN0-4083|RXN0-2382|SERINE--TRNA-LIGASE-RXN|RXN0-2161|5.1.1.18-RXN|SERINE-C-PALMITOYLTRANSFERASE-RXN|4.3.1.17-RXN|TRYPSYN-RXN|SERINE-O-ACETTRAN-RXN}}
+{{#set: produced by=RXN0-5114|RXN-14136|RXN0-4083}}
+{{#set: reversible reaction associated=CYSTATHIONINE-BETA-SYNTHASE-RXN|GLYOHMETRANS-RXN}}

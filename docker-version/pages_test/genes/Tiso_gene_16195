@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16195 ==
+* right end position:
+** 3358
+* transcription direction:
+** POSITIVE
+* left end position:
+** 55
+* centisome position:
+** 1.2184316    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.143-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3358}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=55}}
+{{#set: centisome position=1.2184316    }}
+{{#set: reaction associated=3.2.1.143-RXN}}

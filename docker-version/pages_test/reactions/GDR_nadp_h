@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GDR_nadp_h GDR_nadp_h] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutathione-disulfide reductase (NADP), chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PROTON]][h] '''+''' 1.0 [[OXIDIZED-GLUTATHIONE]][h] '''+''' 1.0 [[NADPH]][h] '''=>''' 2.0 [[GLUTATHIONE]][h] '''+''' 1.0 [[NADP]][h]
+* With common name(s):
+** 1.0 H+[h] '''+''' 1.0 glutathione disulfide[h] '''+''' 1.0 NADPH[h] '''=>''' 2.0 glutathione[h] '''+''' 1.0 NADP+[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2804]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_12533]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutathione-disulfide reductase (NADP), chloroplast}}
+{{#set: gene associated=Tiso_gene_2804|Tiso_gene_12533}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

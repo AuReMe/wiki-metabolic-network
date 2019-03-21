@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12131 ==
+* right end position:
+** 3807
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 57
+* centisome position:
+** 0.78425974    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.5.1.98-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3807}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=57}}
+{{#set: centisome position=0.78425974    }}
+{{#set: reaction associated=3.5.1.98-RXN}}

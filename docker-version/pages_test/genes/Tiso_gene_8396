@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8396 ==
+* right end position:
+** 5351
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1088
+* centisome position:
+** 10.569264    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RNA-LIGASE-ATP-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17925]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17926]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17927]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5351}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1088}}
+{{#set: centisome position=10.569264    }}
+{{#set: reaction associated=RNA-LIGASE-ATP-RXN|RXN-17925|RXN-17926|RXN-17927}}

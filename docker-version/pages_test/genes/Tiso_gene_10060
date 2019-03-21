@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10060 ==
+* right end position:
+** 5077
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2082
+* centisome position:
+** 23.54671    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.11.24-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5077}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2082}}
+{{#set: centisome position=23.54671    }}
+{{#set: reaction associated=2.7.11.24-RXN}}

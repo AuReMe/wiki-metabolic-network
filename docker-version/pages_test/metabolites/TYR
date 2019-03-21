@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TYR TYR] ==
+* smiles:
+** C(C(CC1(C=CC(O)=CC=1))[N+])(=O)[O-]
+* common name:
+** L-tyrosine
+* inchi key:
+** InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
+* molecular weight:
+** 181.191    
+* Synonym(s):
+** Y
+** tyr
+** tyrosine
+** L-tyr
+
+== Reaction(s) known to consume the compound ==
+* [[MONOPHENOL-MONOOXYGENASE-RXN]]
+* [[6.3.2.25-RXN]]
+* [[RME144]]
+* [[TYROSINE-DECARBOXYLASE-RXN]]
+* [[TYROSINE--TRNA-LIGASE-RXN]]
+* [[RXN-5861]]
+* [[TRANS-RXN-77]]
+== Reaction(s) known to produce the compound ==
+* [[TRANS-RXN-77]]
+== Reaction(s) of unknown directionality ==
+* [[TYROSINE-AMINOTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 60-18-4
+* BIGG : tyr__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6942100 6942100]
+* HMDB : HMDB00158
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00082 C00082]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58315 58315]
+* METABOLIGHTS : MTBLC58315
+{{#set: smiles=C(C(CC1(C=CC(O)=CC=1))[N+])(=O)[O-]}}
+{{#set: common name=L-tyrosine}}
+{{#set: inchi key=InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N}}
+{{#set: molecular weight=181.191    }}
+{{#set: common name=Y|tyr|tyrosine|L-tyr}}
+{{#set: consumed by=MONOPHENOL-MONOOXYGENASE-RXN|6.3.2.25-RXN|RME144|TYROSINE-DECARBOXYLASE-RXN|TYROSINE--TRNA-LIGASE-RXN|RXN-5861|TRANS-RXN-77}}
+{{#set: produced by=TRANS-RXN-77}}
+{{#set: reversible reaction associated=TYROSINE-AMINOTRANSFERASE-RXN}}

@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-HYDROXY-CONIFERALDEHYDE 5-HYDROXY-CONIFERALDEHYDE] ==
+* smiles:
+** COC1(=CC(C=CC=O)=CC(O)=C(O)1)
+* common name:
+** 5-hydroxy-coniferaldehyde
+* inchi key:
+** InChIKey=IEHPLRVWOHZKCS-NSCUHMNNSA-N
+* molecular weight:
+** 194.187    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-1143]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5282094 5282094]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4445308.html 4445308]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=31134 31134]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C12204 C12204]
+{{#set: smiles=COC1(=CC(C=CC=O)=CC(O)=C(O)1)}}
+{{#set: common name=5-hydroxy-coniferaldehyde}}
+{{#set: inchi key=InChIKey=IEHPLRVWOHZKCS-NSCUHMNNSA-N}}
+{{#set: molecular weight=194.187    }}
+{{#set: consumed by=RXN-1143}}

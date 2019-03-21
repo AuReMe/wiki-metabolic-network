@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18647 ==
+* right end position:
+** 2867
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1421
+* centisome position:
+** 25.452265    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[OROPRIBTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[OROTPDECARB-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[orPDC]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[orPRT]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7790]]
+* [[PWY-7791]]
+* [[PWY-5686]]
+== External links  ==
+{{#set: right end position=2867}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1421}}
+{{#set: centisome position=25.452265    }}
+{{#set: reaction associated=OROPRIBTRANS-RXN|OROTPDECARB-RXN|orPDC|orPRT}}
+{{#set: pathway associated=PWY-7790|PWY-7791|PWY-5686}}

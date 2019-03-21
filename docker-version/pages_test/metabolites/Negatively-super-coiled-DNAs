@@ -1,0 +1,14 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Negatively-super-coiled-DNAs Negatively-super-coiled-DNAs] ==
+* common name:
+** a negatively supercoiled DNA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[5.99.1.3-RXN]]
+* [[5.99.1.2-RXN]]
+== External links  ==
+{{#set: common name=a negatively supercoiled DNA}}
+{{#set: reversible reaction associated=5.99.1.3-RXN|5.99.1.2-RXN}}

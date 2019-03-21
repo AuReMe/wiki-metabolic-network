@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18420 ==
+* right end position:
+** 2644
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3
+* centisome position:
+** 9.8944600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AICARTRANSFORM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[FPAIF]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[IMPCYCLOHYDROLASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[R04560]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-6123]]
+* [[PWY-6124]]
+* [[PWY-7234]]
+== External links  ==
+{{#set: right end position=2644}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3}}
+{{#set: centisome position=9.8944600e-2}}
+{{#set: reaction associated=AICARTRANSFORM-RXN|FPAIF|IMPCYCLOHYDROLASE-RXN|R04560}}
+{{#set: pathway associated=PWY-6123|PWY-6124|PWY-7234}}

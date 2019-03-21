@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10079 ==
+* right end position:
+** 8087
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3707
+* centisome position:
+** 41.97237    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[URITRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8087}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3707}}
+{{#set: centisome position=41.97237    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN|URITRANS-RXN}}

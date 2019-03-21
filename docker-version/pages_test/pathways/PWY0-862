@@ -1,0 +1,59 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-862 PWY0-862] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** (5Z)-dodec-5-enoate biosynthesis
+* Synonym(s):
+** (5Z)-dodecenoate biosynthesis
+** cis-dodecenoate biosynthesis
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-9655]]
+** 6 associated gene(s):
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_6884]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[RXN0-2141]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5939]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN0-2142]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13083]]
+*** [[Tiso_gene_9885]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-2144]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6884]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN0-2145]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10778]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=5.3.3.14-RXN 5.3.3.14-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-862 PWY0-862]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=(5Z)-dodec-5-enoate biosynthesis}}
+{{#set: common name=(5Z)-dodecenoate biosynthesis|cis-dodecenoate biosynthesis}}
+{{#set: reaction found=5}}
+{{#set: total reaction=6}}
+{{#set: completion rate=83.0}}

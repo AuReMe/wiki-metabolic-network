@@ -1,0 +1,23 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYL-D-GLUCOSAMINE-6-P N-ACETYL-D-GLUCOSAMINE-6-P] ==
+* common name:
+** N-acetyl-D-glucosamine 6-phosphate
+* Synonym(s):
+** N-acetylglucosamine-6-P
+** GlcNAc-6-P
+** N-acetyl-D-glucosamine-6-P
+** N-acetyl-glucosamine 6-phosphate
+** N-acetyl-glucosamine-6-P
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16425]]
+== Reaction(s) known to produce the compound ==
+* [[GLUCOSAMINEPNACETYLTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[PHOSACETYLGLUCOSAMINEMUT-RXN]]
+== External links  ==
+{{#set: common name=N-acetyl-D-glucosamine 6-phosphate}}
+{{#set: common name=N-acetylglucosamine-6-P|GlcNAc-6-P|N-acetyl-D-glucosamine-6-P|N-acetyl-glucosamine 6-phosphate|N-acetyl-glucosamine-6-P}}
+{{#set: consumed by=RXN-16425}}
+{{#set: produced by=GLUCOSAMINEPNACETYLTRANS-RXN}}
+{{#set: reversible reaction associated=PHOSACETYLGLUCOSAMINEMUT-RXN}}

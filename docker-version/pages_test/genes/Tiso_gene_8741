@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8741 ==
+* right end position:
+** 5290
+* transcription direction:
+** POSITIVE
+* left end position:
+** 136
+* centisome position:
+** 1.367659    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5290}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=136}}
+{{#set: centisome position=1.367659    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN}}

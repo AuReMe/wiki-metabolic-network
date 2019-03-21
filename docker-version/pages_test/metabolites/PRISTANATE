@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PRISTANATE PRISTANATE] ==
+* smiles:
+** CC(CCCC(CCCC(C)CCCC(C([O-])=O)C)C)C
+* common name:
+** pristanate
+* inchi key:
+** InChIKey=PAHGJZDQXIOYTH-UHFFFAOYSA-M
+* molecular weight:
+** 297.5    
+* Synonym(s):
+** pristanic-acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-484]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=20849056 20849056]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20171482.html 20171482]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=77268 77268]
+{{#set: smiles=CC(CCCC(CCCC(C)CCCC(C([O-])=O)C)C)C}}
+{{#set: common name=pristanate}}
+{{#set: inchi key=InChIKey=PAHGJZDQXIOYTH-UHFFFAOYSA-M}}
+{{#set: molecular weight=297.5    }}
+{{#set: common name=pristanic-acid}}
+{{#set: consumed by=RXN66-484}}

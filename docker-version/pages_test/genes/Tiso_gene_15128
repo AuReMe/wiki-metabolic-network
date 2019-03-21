@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15128 ==
+* right end position:
+** 1853
+* transcription direction:
+** POSITIVE
+* left end position:
+** 14
+* centisome position:
+** 0.26830205    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R524-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-12893]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[CYANCAT-PWY]]
+== External links  ==
+{{#set: right end position=1853}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=14}}
+{{#set: centisome position=0.26830205    }}
+{{#set: reaction associated=R524-RXN|RXN-12893}}
+{{#set: pathway associated=CYANCAT-PWY}}

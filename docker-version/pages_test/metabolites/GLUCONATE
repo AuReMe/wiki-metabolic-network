@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLUCONATE GLUCONATE] ==
+* smiles:
+** C(O)C(O)C(O)C(O)C(O)C(=O)[O-]
+* common name:
+** D-gluconate
+* inchi key:
+** InChIKey=RGHNJXZEOKUKBD-SQOUGZDYSA-M
+* molecular weight:
+** 195.149    
+* Synonym(s):
+** D-gluconic acid
+** dextronic acid
+** maltonic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[GLUCONOLACT-RXN]]
+* [[RXN-17754]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 526-95-4
+* BIGG : glcn
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6419706 6419706]
+* HMDB : HMDB00625
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00257 C00257]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4925340.html 4925340]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18391 18391]
+* METABOLIGHTS : MTBLC18391
+{{#set: smiles=C(O)C(O)C(O)C(O)C(O)C(=O)[O-]}}
+{{#set: common name=D-gluconate}}
+{{#set: inchi key=InChIKey=RGHNJXZEOKUKBD-SQOUGZDYSA-M}}
+{{#set: molecular weight=195.149    }}
+{{#set: common name=D-gluconic acid|dextronic acid|maltonic acid}}
+{{#set: produced by=GLUCONOLACT-RXN|RXN-17754}}

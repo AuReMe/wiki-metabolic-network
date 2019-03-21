@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ARSENATE ARSENATE] ==
+* smiles:
+** [As](=O)(O)([O-])[O-]
+* common name:
+** arsenate
+* inchi key:
+** InChIKey=DJHGAFSJWGLOIV-UHFFFAOYSA-L
+* molecular weight:
+** 139.927    
+* Synonym(s):
+** inorganic arsenate
+** orthoarsenate
+** AsO43-
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-982]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 7778-39-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=233 233]
+* HMDB : HMDB12190
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01478 C01478]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.228.html 228]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=48597 48597]
+* BIGG : aso4
+{{#set: smiles=[As](=O)(O)([O-])[O-]}}
+{{#set: common name=arsenate}}
+{{#set: inchi key=InChIKey=DJHGAFSJWGLOIV-UHFFFAOYSA-L}}
+{{#set: molecular weight=139.927    }}
+{{#set: common name=inorganic arsenate|orthoarsenate|AsO43-}}
+{{#set: consumed by=RXN-982}}

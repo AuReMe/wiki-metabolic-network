@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=METHYLENE-THF METHYLENE-THF] ==
+* smiles:
+** C4(NC1(N=C(N)NC(=O)C=1N3(CN(C2(=CC=C(C=C2)C(=O)NC(CCC([O-])=O)C([O-])=O))C[CH]34)))
+* common name:
+** 5,10-methylenetetrahydropteroyl mono-L-glutamate
+* inchi key:
+** InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L
+* molecular weight:
+** 455.429    
+* Synonym(s):
+** N5,N10-methylenetetrahydrofolate mono-L-glutamate
+** 5,10-methylenetetrahydrofolate mono-L-glutamate
+** 5,10-methylene-H4PteGlu1
+
+== Reaction(s) known to consume the compound ==
+* [[MTMOHT]]
+* [[MTHFO]]
+* [[MTHFO_nadp]]
+* [[R01226]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[MTHFor_nadp]]
+* [[MLTHFtm]]
+* [[R01220]]
+== External links  ==
+* BIGG : mlthf
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9548565 9548565]
+* HMDB : HMDB01533
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00143 C00143]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7827491.html 7827491]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15636 15636]
+* METABOLIGHTS : MTBLC15636
+{{#set: smiles=C4(NC1(N=C(N)NC(=O)C=1N3(CN(C2(=CC=C(C=C2)C(=O)NC(CCC([O-])=O)C([O-])=O))C[CH]34)))}}
+{{#set: common name=5,10-methylenetetrahydropteroyl mono-L-glutamate}}
+{{#set: inchi key=InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L}}
+{{#set: molecular weight=455.429    }}
+{{#set: common name=N5,N10-methylenetetrahydrofolate mono-L-glutamate|5,10-methylenetetrahydrofolate mono-L-glutamate|5,10-methylene-H4PteGlu1}}
+{{#set: consumed by=MTMOHT|MTHFO|MTHFO_nadp|R01226}}
+{{#set: reversible reaction associated=MTHFor_nadp|MLTHFtm|R01220}}

@@ -1,0 +1,70 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-1422 PWY-1422] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3041 TAX-3041]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2870 TAX-2870]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2763 TAX-2763]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** vitamin E biosynthesis (tocopherols)
+* Synonym(s):
+** tocopherol biosynthesis
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''7''' reactions in the full pathway
+* [[4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_18977]]
+*** [[Tiso_gene_18976]]
+*** [[Tiso_gene_18328]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-2541]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13582]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+* [[RXN-2542]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11392]]
+*** [[Tiso_gene_2596]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-2562]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6738]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+* [[TOCOPHEROL-O-METHYLTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6738]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2543 RXN-2543]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2561 RXN-2561]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-1422 PWY-1422]
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-3041}}
+{{#set: taxonomic range=TAX-2870}}
+{{#set: taxonomic range=TAX-2763}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=vitamin E biosynthesis (tocopherols)}}
+{{#set: common name=tocopherol biosynthesis}}
+{{#set: reaction found=5}}
+{{#set: total reaction=7}}
+{{#set: completion rate=71.0}}

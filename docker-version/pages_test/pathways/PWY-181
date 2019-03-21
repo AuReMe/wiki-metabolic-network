@@ -1,0 +1,81 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-181 PWY-181] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-38254 TAX-38254]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2830 TAX-2830]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-543769 TAX-543769]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33634 TAX-33634]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3027 TAX-3027]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2763 TAX-2763]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** photorespiration
+* Synonym(s):
+** C2 photorespiratory carbon oxidation cycle
+** PCO cycle
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''9''' reactions in the full pathway
+* [[GLY3KIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3016]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[GLYCERATE-DEHYDROGENASE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[GLYCINE-AMINOTRANSFERASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_5959]]
+*** [[Tiso_gene_20557]]
+*** [[Tiso_gene_1695]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+* [[GLYOHMETRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_16153]]
+*** [[Tiso_gene_7776]]
+*** [[Tiso_gene_18652]]
+*** [[Tiso_gene_16154]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GPH-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_18052]]
+*** [[Tiso_gene_18053]]
+*** [[Tiso_gene_18054]]
+*** [[Tiso_gene_15498]]
+*** [[Tiso_gene_8723]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GCVMULTI-RXN GCVMULTI-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-961 RXN-961]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-969 RXN-969]
+* [http://metacyc.org/META/NEW-IMAGE?object=SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN]
+== External links  ==
+* METACYC:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=PWY-181 PWY-181]
+{{#set: taxonomic range=TAX-38254}}
+{{#set: taxonomic range=TAX-2830}}
+{{#set: taxonomic range=TAX-543769}}
+{{#set: taxonomic range=TAX-33634}}
+{{#set: taxonomic range=TAX-3027}}
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-2763}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=photorespiration}}
+{{#set: common name=C2 photorespiratory carbon oxidation cycle|PCO cycle}}
+{{#set: reaction found=5}}
+{{#set: total reaction=9}}
+{{#set: completion rate=56.0}}

@@ -1,0 +1,102 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=THRESYN-RXN THRESYN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** threonine_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.3.1 EC-4.2.3.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[O-PHOSPHO-L-HOMOSERINE]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[THR]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 O-phospho-L-homoserine[c] '''=>''' 1 phosphate[c] '''+''' 1 L-threonine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_419]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12871]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2614]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_418]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[HOMOSER-THRESYN-PWY]], L-threonine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=HOMOSER-THRESYN-PWY HOMOSER-THRESYN-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10840 10840]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01466 R01466]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P04990 P04990]
+** [http://www.uniprot.org/uniprot/Q9Y9K2 Q9Y9K2]
+** [http://www.uniprot.org/uniprot/O28953 O28953]
+** [http://www.uniprot.org/uniprot/P66902 P66902]
+** [http://www.uniprot.org/uniprot/O59293 O59293]
+** [http://www.uniprot.org/uniprot/O66864 O66864]
+** [http://www.uniprot.org/uniprot/Q9PPA8 Q9PPA8]
+** [http://www.uniprot.org/uniprot/O58587 O58587]
+** [http://www.uniprot.org/uniprot/Q9V0P1 Q9V0P1]
+** [http://www.uniprot.org/uniprot/Q9V190 Q9V190]
+** [http://www.uniprot.org/uniprot/O26354 O26354]
+** [http://www.uniprot.org/uniprot/O29700 O29700]
+** [http://www.uniprot.org/uniprot/Q9WZ16 Q9WZ16]
+** [http://www.uniprot.org/uniprot/Q9UZV8 Q9UZV8]
+** [http://www.uniprot.org/uniprot/Q9JU91 Q9JU91]
+** [http://www.uniprot.org/uniprot/Q9CDV8 Q9CDV8]
+** [http://www.uniprot.org/uniprot/P44503 P44503]
+** [http://www.uniprot.org/uniprot/Q58860 Q58860]
+** [http://www.uniprot.org/uniprot/O66740 O66740]
+** [http://www.uniprot.org/uniprot/O50114 O50114]
+** [http://www.uniprot.org/uniprot/Q9YBW2 Q9YBW2]
+** [http://www.uniprot.org/uniprot/P23669 P23669]
+** [http://www.uniprot.org/uniprot/P27735 P27735]
+** [http://www.uniprot.org/uniprot/Q00063 Q00063]
+** [http://www.uniprot.org/uniprot/P74193 P74193]
+** [http://www.uniprot.org/uniprot/P73711 P73711]
+** [http://www.uniprot.org/uniprot/P16120 P16120]
+** [http://www.uniprot.org/uniprot/P00934 P00934]
+** [http://www.uniprot.org/uniprot/P29363 P29363]
+** [http://www.uniprot.org/uniprot/Q9S7B5 Q9S7B5]
+** [http://www.uniprot.org/uniprot/P45837 P45837]
+** [http://www.uniprot.org/uniprot/Q42598 Q42598]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=threonine_synthase}}
+{{#set: ec number=EC-4.2.3.1}}
+{{#set: gene associated=Tiso_gene_419|Tiso_gene_12871|Tiso_gene_2614|Tiso_gene_418}}
+{{#set: in pathway=HOMOSER-THRESYN-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

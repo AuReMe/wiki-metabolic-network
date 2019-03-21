@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5316 PWY-5316] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4070 TAX-4070]
+* common name:
+** nicotine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''9''' reactions in the full pathway
+* [[L-ASPARTATE-OXID-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7285]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[QUINOPRIBOTRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_141]]
+*** [[Tiso_gene_12892]]
+*** [[Tiso_gene_8723]]
+*** [[Tiso_gene_140]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=QUINOLINATE-SYNTHA-RXN QUINOLINATE-SYNTHA-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13057 RXN-13057]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13058 RXN-13058]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13059 RXN-13059]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13060 RXN-13060]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8248 RXN-8248]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8444 RXN-8444]
+== External links  ==
+{{#set: taxonomic range=TAX-4070}}
+{{#set: common name=nicotine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=9}}
+{{#set: completion rate=22.0}}

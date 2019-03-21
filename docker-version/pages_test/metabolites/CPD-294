@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-294 CPD-294] ==
+* smiles:
+** C(=CC(=O)[O-])C(=O)CC([O-])=O
+* common name:
+** 2-maleylacetate
+* inchi key:
+** InChIKey=SOXXPQLIZIPMIZ-UPHRSURJSA-L
+* molecular weight:
+** 156.095    
+* Synonym(s):
+** 4-oxohex-2-enedioate
+** maleylacetate
+** (2Z)-4-oxohex-2-enedioate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9868]]
+* [[CARBOXYMETHYLENEBUTENOLIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-9922]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9543165 9543165]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7822138.html 7822138]
+* UM-BBD-CPD : c0099
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16468 16468]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02222 C02222]
+{{#set: smiles=C(=CC(=O)[O-])C(=O)CC([O-])=O}}
+{{#set: common name=2-maleylacetate}}
+{{#set: inchi key=InChIKey=SOXXPQLIZIPMIZ-UPHRSURJSA-L}}
+{{#set: molecular weight=156.095    }}
+{{#set: common name=4-oxohex-2-enedioate|maleylacetate|(2Z)-4-oxohex-2-enedioate}}
+{{#set: produced by=RXN-9868|CARBOXYMETHYLENEBUTENOLIDASE-RXN}}
+{{#set: reversible reaction associated=RXN-9922}}

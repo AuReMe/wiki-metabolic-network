@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACETYL-P ACETYL-P] ==
+* smiles:
+** CC(OP([O-])(=O)[O-])=O
+* common name:
+** acetyl phosphate
+* inchi key:
+** InChIKey=LIPOUNRJVLNBCD-UHFFFAOYSA-L
+* molecular weight:
+** 138.016    
+* Synonym(s):
+** acetyl-P
+
+== Reaction(s) known to consume the compound ==
+* [[APhi]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* UM-BBD-CPD : c0049
+* CAS : 19926-71-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4183249 4183249]
+* HMDB : HMDB01494
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00227 C00227]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3394205.html 3394205]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=22191 22191]
+* BIGG : actp
+{{#set: smiles=CC(OP([O-])(=O)[O-])=O}}
+{{#set: common name=acetyl phosphate}}
+{{#set: inchi key=InChIKey=LIPOUNRJVLNBCD-UHFFFAOYSA-L}}
+{{#set: molecular weight=138.016    }}
+{{#set: common name=acetyl-P}}
+{{#set: consumed by=APhi}}

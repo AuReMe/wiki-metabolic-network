@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19151 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.11.22-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: reaction associated=2.7.11.22-RXN|PROTEIN-KINASE-RXN|RXN-8443}}
+{{#set: pathway associated=PWY-5381}}

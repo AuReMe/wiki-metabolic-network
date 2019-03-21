@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=OH-PYR OH-PYR] ==
+* smiles:
+** C(C(=O)C([O-])=O)O
+* common name:
+** hydroxypyruvate
+* inchi key:
+** InChIKey=HHDDCCUIIUWNGJ-UHFFFAOYSA-M
+* molecular weight:
+** 103.054    
+* Synonym(s):
+** &beta;-hydroxypyruvate
+** OH-pyruvate
+** OH-pyr
+** 3-hydroxypyruvate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-300]]
+* [[GLYCERATE-DEHYDROGENASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-305]]
+== External links  ==
+* CAS : 1113-60-6
+* BIGG : hpyr
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4186339 4186339]
+* HMDB : HMDB01352
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00168 C00168]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3397158.html 3397158]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17180 17180]
+* METABOLIGHTS : MTBLC17180
+{{#set: smiles=C(C(=O)C([O-])=O)O}}
+{{#set: common name=hydroxypyruvate}}
+{{#set: inchi key=InChIKey=HHDDCCUIIUWNGJ-UHFFFAOYSA-M}}
+{{#set: molecular weight=103.054    }}
+{{#set: common name=&beta;-hydroxypyruvate|OH-pyruvate|OH-pyr|3-hydroxypyruvate}}
+{{#set: consumed by=RXN0-300|GLYCERATE-DEHYDROGENASE-RXN}}
+{{#set: reversible reaction associated=RXN0-305}}

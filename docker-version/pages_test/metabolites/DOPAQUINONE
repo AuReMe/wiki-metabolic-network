@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DOPAQUINONE DOPAQUINONE] ==
+* smiles:
+** C([O-])(=O)C([N+])CC1(=CC(=O)C(=O)C=C1)
+* common name:
+** dopaquinone
+* inchi key:
+** InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
+* molecular weight:
+** 195.174    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11369]]
+* [[RXN-8483]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13061]]
+* [[MONOPHENOL-MONOOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00822 C00822]
+* HMDB : HMDB01229
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57924 57924]
+* METABOLIGHTS : MTBLC57924
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44229226 44229226]
+{{#set: smiles=C([O-])(=O)C([N+])CC1(=CC(=O)C(=O)C=C1)}}
+{{#set: common name=dopaquinone}}
+{{#set: inchi key=InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N}}
+{{#set: molecular weight=195.174    }}
+{{#set: consumed by=RXN-11369|RXN-8483}}
+{{#set: produced by=RXN-13061|MONOPHENOL-MONOOXYGENASE-RXN}}

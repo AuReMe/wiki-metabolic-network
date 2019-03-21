@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17346 CPD-17346] ==
+* smiles:
+** CCCCCC=CCC=CCCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3-oxo-(11Z,14Z)-icosa-11,14-dienoyl-CoA
+* inchi key:
+** InChIKey=PUWDUOCPCWFEFG-YGYQDCEASA-J
+* molecular weight:
+** 1067.974    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16095]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16094]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71581045 71581045]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=74012 74012]
+{{#set: smiles=CCCCCC=CCC=CCCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3-oxo-(11Z,14Z)-icosa-11,14-dienoyl-CoA}}
+{{#set: inchi key=InChIKey=PUWDUOCPCWFEFG-YGYQDCEASA-J}}
+{{#set: molecular weight=1067.974    }}
+{{#set: consumed by=RXN-16095}}
+{{#set: produced by=RXN-16094}}

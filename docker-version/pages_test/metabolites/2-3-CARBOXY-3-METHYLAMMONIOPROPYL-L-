@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-3-CARBOXY-3-METHYLAMMONIOPROPYL-L- 2-3-CARBOXY-3-METHYLAMMONIOPROPYL-L-] ==
+* common name:
+** a 2-[(3S)-3-carboxy-3-(methylammonio)propyl]-L-histidine-[translation elongation factor 2]
+* Synonym(s):
+** a [3-[[4-(2-amino-2-carboxy-ethyl)-1H-imidazol-2-yl]]-1-carboxy- propyl]-methyl-ammonium
+** a 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine
+** 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine in eEF-2
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11374]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11370]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2-[(3S)-3-carboxy-3-(methylammonio)propyl]-L-histidine-[translation elongation factor 2]}}
+{{#set: common name=a [3-[[4-(2-amino-2-carboxy-ethyl)-1H-imidazol-2-yl]]-1-carboxy- propyl]-methyl-ammonium|a 2-[3-carboxy-3-(methylammonio)propyl]-L-histidine|2-[3-carboxy-3-(methylammonio)propyl]-L-histidine in eEF-2}}
+{{#set: consumed by=RXN-11374}}
+{{#set: produced by=RXN-11370}}

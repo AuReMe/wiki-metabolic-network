@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=XYLOSE XYLOSE] ==
+* smiles:
+** C1(OC(O)C(O)C(O)C(O)1)
+* common name:
+** &alpha;-D-xylopyranose
+* inchi key:
+** InChIKey=SRBFZHDQGSBBOR-LECHCGJUSA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+** &alpha;-D-xylose
+** xylose
+** D-xylose
+** wood sugar
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[1.1.3.41-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 58-86-6
+* BIGG : xyl__D
+* DRUGBANK : DB03389
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6027 6027]
+* HMDB : HMDB00098
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01394 C01394]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5805.html 5805]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28518 28518]
+* METABOLIGHTS : MTBLC28518
+{{#set: smiles=C1(OC(O)C(O)C(O)C(O)1)}}
+{{#set: common name=&alpha;-D-xylopyranose}}
+{{#set: inchi key=InChIKey=SRBFZHDQGSBBOR-LECHCGJUSA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: common name=&alpha;-D-xylose|xylose|D-xylose|wood sugar}}
+{{#set: produced by=1.1.3.41-RXN}}

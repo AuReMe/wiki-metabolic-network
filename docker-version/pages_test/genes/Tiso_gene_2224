@@ -1,0 +1,42 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2224 ==
+* right end position:
+** 3659
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1789
+* centisome position:
+** 8.914246    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HICH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-13721]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-6384]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7574]]
+* [[VALDEG-PWY]]
+* [[PWY-3941]]
+== External links  ==
+{{#set: right end position=3659}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1789}}
+{{#set: centisome position=8.914246    }}
+{{#set: reaction associated=3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN|HICH|RXN-13721|RXN-6384}}
+{{#set: pathway associated=PWY-7574|VALDEG-PWY|PWY-3941}}

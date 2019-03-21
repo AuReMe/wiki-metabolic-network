@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-804 CPD-804] ==
+* smiles:
+** C(CCC(O)CC(C([O-])=O)=O)([O-])=O
+* common name:
+** (4S)-4-hydroxy-2-oxoheptanedioate
+* inchi key:
+** InChIKey=HNOAJOYERZTSNK-BYPYZUCNSA-L
+* molecular weight:
+** 188.137    
+* Synonym(s):
+** 4-hydroxy-2-ketoheptane-1,7-dioate
+** 2-oxo-4-hydroxyhepta-1,7-dioate
+** 4-hydroxy-2-oxo-heptanedioate
+** 4-hydroxy-2-ketopimelate
+** 2-keto-4-hydroxypimelate
+
+== Reaction(s) known to consume the compound ==
+* [[4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91828275 91828275]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951289.html 19951289]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87522 87522]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05601 C05601]
+{{#set: smiles=C(CCC(O)CC(C([O-])=O)=O)([O-])=O}}
+{{#set: common name=(4S)-4-hydroxy-2-oxoheptanedioate}}
+{{#set: inchi key=InChIKey=HNOAJOYERZTSNK-BYPYZUCNSA-L}}
+{{#set: molecular weight=188.137    }}
+{{#set: common name=4-hydroxy-2-ketoheptane-1,7-dioate|2-oxo-4-hydroxyhepta-1,7-dioate|4-hydroxy-2-oxo-heptanedioate|4-hydroxy-2-ketopimelate|2-keto-4-hydroxypimelate}}
+{{#set: consumed by=4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN}}

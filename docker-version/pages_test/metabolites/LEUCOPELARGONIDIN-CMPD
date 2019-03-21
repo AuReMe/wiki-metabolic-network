@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LEUCOPELARGONIDIN-CMPD LEUCOPELARGONIDIN-CMPD] ==
+* smiles:
+** C3(C(C2(OC1(=CC(=CC(=C1C(C2O)O)O)O)))=CC=C(C=3)O)
+* common name:
+** (2R,3S,4S)-leucopelargonidin
+* inchi key:
+** InChIKey=FSVMLWOLZHGCQX-SOUVJXGZSA-N
+* molecular weight:
+** 290.272    
+* Synonym(s):
+** cis-3,4-leucopelargonidin
+
+== Reaction(s) known to consume the compound ==
+* [[LEUCPEL-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[DIHYDROKAEMPFEROL-4-REDUCTASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3286789 3286789]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2535665.html 2535665]
+* HMDB : HMDB32322
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17343 17343]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03648 C03648]
+{{#set: smiles=C3(C(C2(OC1(=CC(=CC(=C1C(C2O)O)O)O)))=CC=C(C=3)O)}}
+{{#set: common name=(2R,3S,4S)-leucopelargonidin}}
+{{#set: inchi key=InChIKey=FSVMLWOLZHGCQX-SOUVJXGZSA-N}}
+{{#set: molecular weight=290.272    }}
+{{#set: common name=cis-3,4-leucopelargonidin}}
+{{#set: consumed by=LEUCPEL-RXN}}
+{{#set: produced by=DIHYDROKAEMPFEROL-4-REDUCTASE-RXN}}

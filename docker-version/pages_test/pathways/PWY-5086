@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5086 PWY-5086] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2763 TAX-2763]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** chlorophyll a biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-5286]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13868]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN1F-66]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19542]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-5086 PWY-5086]
+{{#set: taxonomic range=TAX-2763}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=chlorophyll a biosynthesis I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,46 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1319 PWY0-1319] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** CDP-diacylglycerol biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13959]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[CDPDIGLYSYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3522]]
+*** [[Tiso_gene_2311]]
+*** [[Tiso_gene_3523]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLYC3PDEHYDROGBIOSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_3718]]
+*** [[Tiso_gene_2811]]
+*** [[Tiso_gene_13013]]
+*** [[Tiso_gene_6069]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10462 RXN-10462]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1319 PWY0-1319]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=CDP-diacylglycerol biosynthesis II}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

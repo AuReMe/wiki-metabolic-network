@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-318 RXN66-318] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.170 EC-1.1.1.170]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-4702]][c] '''+''' 1 [[NAD-P-OR-NOP]][c] '''=>''' 1 [[CPD-4581]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[NADH-P-OR-NOP]][c]
+* With common name(s):
+** 1 4&alpha;-carboxy-5&alpha;-cholesta-8,24-dien-3&beta;-ol[c] '''+''' 1 NAD(P)+[c] '''=>''' 1 5&alpha;-cholesta-8,24-dien-3-one[c] '''+''' 1 CO2[c] '''+''' 1 NAD(P)H[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_897]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY66-341]], cholesterol biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-341 PWY66-341]
+** '''8''' reactions found over '''22''' reactions in the full pathway
+* [[PWY-6074]], zymosterol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6074 PWY-6074]
+** '''4''' reactions found over '''12''' reactions in the full pathway
+* [[PWY66-4]], cholesterol biosynthesis III (via desmosterol): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-4 PWY66-4]
+** '''7''' reactions found over '''22''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.1.1.170}}
+{{#set: gene associated=Tiso_gene_897}}
+{{#set: in pathway=PWY66-341|PWY-6074|PWY66-4}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

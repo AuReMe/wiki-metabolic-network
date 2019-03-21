@@ -1,0 +1,58 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7118 PWY-7118] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** chitin degradation to ethanol
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''6''' reactions in the full pathway
+* [[1.1.1.39-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12896]]
+*** [[Tiso_gene_6675]]
+*** [[Tiso_gene_12200]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ACETATE--COA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3617]]
+*** [[Tiso_gene_1612]]
+*** [[Tiso_gene_3616]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ALCOHOL-DEHYDROG-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18459]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_5425]]
+*** [[Tiso_gene_6562]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[MALSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14377]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=CHITIN-DEACETYLASE-RXN CHITIN-DEACETYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6161 RXN-6161]
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=chitin degradation to ethanol}}
+{{#set: reaction found=4}}
+{{#set: total reaction=6}}
+{{#set: completion rate=67.0}}

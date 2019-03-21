@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=F- F-] ==
+* smiles:
+** [F-]
+* common name:
+** fluoride
+* inchi key:
+** InChIKey=KRHYYFGTRYWZRS-UHFFFAOYSA-M
+* molecular weight:
+** 18.998    
+* Synonym(s):
+** fluoride ion
+** F-
+** F
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_F-]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_F-]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_F-]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=28179 28179]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.26214.html 26214]
+* HMDB : HMDB00662
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17051 17051]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00742 C00742]
+{{#set: smiles=[F-]}}
+{{#set: common name=fluoride}}
+{{#set: inchi key=InChIKey=KRHYYFGTRYWZRS-UHFFFAOYSA-M}}
+{{#set: molecular weight=18.998    }}
+{{#set: common name=fluoride ion|F-|F}}
+{{#set: consumed by=TransportSeed_F-}}
+{{#set: produced by=TransportSeed_F-}}
+{{#set: reversible reaction associated=ExchangeSeed_F-}}

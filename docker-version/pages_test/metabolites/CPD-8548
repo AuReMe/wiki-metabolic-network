@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8548 CPD-8548] ==
+* common name:
+** a D-threo-aldose
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[D-THREO-ALDOSE-1-DEHYDROGENASE-RXN]]
+== External links  ==
+{{#set: common name=a D-threo-aldose}}
+{{#set: reversible reaction associated=D-THREO-ALDOSE-1-DEHYDROGENASE-RXN}}

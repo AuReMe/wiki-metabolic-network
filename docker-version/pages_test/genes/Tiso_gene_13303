@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13303 ==
+* right end position:
+** 6215
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3623
+* centisome position:
+** 56.715714    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6215}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3623}}
+{{#set: centisome position=56.715714    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN}}

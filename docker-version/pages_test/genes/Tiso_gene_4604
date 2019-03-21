@@ -1,0 +1,42 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4604 ==
+* right end position:
+** 21896
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 18706
+* centisome position:
+** 67.741    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-2381]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-2382]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[TRYPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRPSYN-PWY]]
+* [[PWY-6949]]
+== External links  ==
+{{#set: right end position=21896}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=18706}}
+{{#set: centisome position=67.741    }}
+{{#set: reaction associated=RXN0-2381|RXN0-2382|TRYPSYN-RXN}}
+{{#set: pathway associated=TRPSYN-PWY|PWY-6949}}

@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACRYLYL-COA ACRYLYL-COA] ==
+* smiles:
+** C=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** acryloyl-CoA
+* inchi key:
+** InChIKey=POODSGUMUCVRTR-IEXPHMLFSA-J
+* molecular weight:
+** 817.551    
+* Synonym(s):
+** acrylyl-coenzyme A
+** propenoyl-CoA
+** acrylyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PPCOAOm]]
+* [[RXN-6383]]
+== External links  ==
+* CAS : 5776-58-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266595 45266595]
+* HMDB : HMDB02307
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00894 C00894]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57367 57367]
+* METABOLIGHTS : MTBLC57367
+{{#set: smiles=C=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=acryloyl-CoA}}
+{{#set: inchi key=InChIKey=POODSGUMUCVRTR-IEXPHMLFSA-J}}
+{{#set: molecular weight=817.551    }}
+{{#set: common name=acrylyl-coenzyme A|propenoyl-CoA|acrylyl-CoA}}
+{{#set: reversible reaction associated=PPCOAOm|RXN-6383}}

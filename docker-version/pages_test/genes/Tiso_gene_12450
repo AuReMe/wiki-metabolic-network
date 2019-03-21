@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12450 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.23.1-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: reaction associated=3.4.23.1-RXN|RXN-8443}}
+{{#set: pathway associated=PWY-5381}}

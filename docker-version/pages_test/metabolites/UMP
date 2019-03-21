@@ -1,0 +1,69 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UMP UMP] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))
+* common name:
+** UMP
+* inchi key:
+** InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
+* molecular weight:
+** 322.168    
+* Synonym(s):
+** uridylate
+** 5'-UMP
+** uridine 5'-phosphate
+** 5'-uridylic acid (8CI)(9CI)
+** uridine monophosphate
+** uridine 5'-monophosphate
+
+== Reaction(s) known to consume the compound ==
+* [[UMPKf]]
+* [[RXN-14025]]
+* [[UMPP]]
+* [[RXN-12002]]
+== Reaction(s) known to produce the compound ==
+* [[orPDC]]
+* [[UTPPH]]
+* [[GTUP]]
+* [[AUPT]]
+* [[OROTPDECARB-RXN]]
+* [[UTUP]]
+* [[DGTUP]]
+* [[RXN-11347]]
+* [[DUTUP]]
+* [[DCTUP]]
+* [[2.7.8.15-RXN]]
+* [[DATUP]]
+* [[RXN-14139]]
+* [[RXN-12197]]
+* [[UPH]]
+* [[DTTUP]]
+* [[RXN-12199]]
+* [[URIDINEKIN-RXN]]
+* [[ITUP]]
+* [[URACIL-PRIBOSYLTRANS-RXN]]
+* [[PHOSNACMURPENTATRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-8975]]
+* [[URKI-RXN]]
+== External links  ==
+* CAS : 58-97-9
+* BIGG : ump
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1778309 1778309]
+* HMDB : HMDB00288
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00105 C00105]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1399139.html 1399139]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57865 57865]
+* METABOLIGHTS : MTBLC57865
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))}}
+{{#set: common name=UMP}}
+{{#set: inchi key=InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L}}
+{{#set: molecular weight=322.168    }}
+{{#set: common name=uridylate|5'-UMP|uridine 5'-phosphate|5'-uridylic acid (8CI)(9CI)|uridine monophosphate|uridine 5'-monophosphate}}
+{{#set: consumed by=UMPKf|RXN-14025|UMPP|RXN-12002}}
+{{#set: produced by=orPDC|UTPPH|GTUP|AUPT|OROTPDECARB-RXN|UTUP|DGTUP|RXN-11347|DUTUP|DCTUP|2.7.8.15-RXN|DATUP|RXN-14139|RXN-12197|UPH|DTTUP|RXN-12199|URIDINEKIN-RXN|ITUP|URACIL-PRIBOSYLTRANS-RXN|PHOSNACMURPENTATRANS-RXN}}
+{{#set: reversible reaction associated=RXN-8975|URKI-RXN}}

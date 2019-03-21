@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SPERMINE SPERMINE] ==
+* smiles:
+** C(CCC[N+]CCC[N+])[N+]CCC[N+]
+* common name:
+** spermine
+* inchi key:
+** InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
+* molecular weight:
+** 206.374    
+* Synonym(s):
+** gerontine
+** musculamine
+** neuridine
+** diaminopropyl-tetramethylenediamine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[SPERMINE-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 71-44-3
+* DRUGBANK : DB02564
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=446718 446718]
+* HMDB : HMDB01256
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00750 C00750]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.394003.html 394003]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=45725 45725]
+* METABOLIGHTS : MTBLC45725
+{{#set: smiles=C(CCC[N+]CCC[N+])[N+]CCC[N+]}}
+{{#set: common name=spermine}}
+{{#set: inchi key=InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R}}
+{{#set: molecular weight=206.374    }}
+{{#set: common name=gerontine|musculamine|neuridine|diaminopropyl-tetramethylenediamine}}
+{{#set: produced by=SPERMINE-SYNTHASE-RXN}}

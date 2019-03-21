@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-2006 RXN-2006] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-514]][c] '''+''' 1 [[CO-A]][c] '''=>''' 1 [[ACETYL-COA]][c] '''+''' 1 [[BENZOYLCOA]][c]
+* With common name(s):
+** 1 3-oxo-3-phenylpropanoyl-CoA[c] '''+''' 1 coenzyme A[c] '''=>''' 1 acetyl-CoA[c] '''+''' 1 benzoyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16181]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[P281-PWY]], 3-phenylpropanoate degradation: [http://metacyc.org/META/NEW-IMAGE?object=P281-PWY P281-PWY]
+** '''1''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-481]], ethylbenzene degradation (anaerobic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-481 PWY-481]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6458]], benzoyl-CoA biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6458 PWY-6458]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-6443]], benzoate biosynthesis I (CoA-dependent, &beta;-oxidative): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6443 PWY-6443]
+** '''2''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05506 R05506]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_16181}}
+{{#set: in pathway=P281-PWY|PWY-481|PWY-6458|PWY-6443}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Histone-L-lysine Histone-L-lysine] ==
+* common name:
+** a [histone]-L-lysine
+* Synonym(s):
+** histone-L-lysine
+
+== Reaction(s) known to consume the compound ==
+* [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[3.5.1.98-RXN]]
+* [[HISTONE-ACETYLTRANSFERASE-RXN]]
+== External links  ==
+{{#set: common name=a [histone]-L-lysine}}
+{{#set: common name=histone-L-lysine}}
+{{#set: consumed by=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN}}
+{{#set: reversible reaction associated=3.5.1.98-RXN|HISTONE-ACETYLTRANSFERASE-RXN}}

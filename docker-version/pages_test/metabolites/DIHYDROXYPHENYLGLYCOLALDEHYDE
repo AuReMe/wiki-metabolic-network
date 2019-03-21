@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROXYPHENYLGLYCOLALDEHYDE DIHYDROXYPHENYLGLYCOLALDEHYDE] ==
+* smiles:
+** C(=O)C(O)C1(C=CC(O)=C(O)C=1)
+* common name:
+** 3,4-dihydroxyphenylglycolaldehyde
+* inchi key:
+** InChIKey=YUGMCLJIWGEKCK-QMMMGPOBSA-N
+* molecular weight:
+** 168.149    
+* Synonym(s):
+** 3,4-dihydroxymandelaldehyde
+** benzeneacetaldehyde, alpha,3,4-trihydroxy-
+** DOPEGAL
+** 3,4-dihydroxymandelic aldehyde
+** DHPGALD
+** DHMAL
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10911]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657292 90657292]
+* HMDB : HMDB06242
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05577 C05577]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.133725.html 133725]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27852 27852]
+* METABOLIGHTS : MTBLC27852
+{{#set: smiles=C(=O)C(O)C1(C=CC(O)=C(O)C=1)}}
+{{#set: common name=3,4-dihydroxyphenylglycolaldehyde}}
+{{#set: inchi key=InChIKey=YUGMCLJIWGEKCK-QMMMGPOBSA-N}}
+{{#set: molecular weight=168.149    }}
+{{#set: common name=3,4-dihydroxymandelaldehyde|benzeneacetaldehyde, alpha,3,4-trihydroxy-|DOPEGAL|3,4-dihydroxymandelic aldehyde|DHPGALD|DHMAL}}
+{{#set: consumed by=RXN-10911}}

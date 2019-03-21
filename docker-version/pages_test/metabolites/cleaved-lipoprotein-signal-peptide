@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cleaved-lipoprotein-signal-peptide cleaved-lipoprotein-signal-peptide] ==
+* common name:
+** a cleaved lipoprotein signal peptide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-3201]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cleaved lipoprotein signal peptide}}
+{{#set: consumed by=RXN0-3201}}

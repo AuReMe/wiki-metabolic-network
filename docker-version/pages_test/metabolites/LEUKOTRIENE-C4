@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LEUKOTRIENE-C4 LEUKOTRIENE-C4] ==
+* smiles:
+** CCCCCC=CCC=CC=CC=CC(SCC(C(=O)NCC([O-])=O)NC(CCC(C(=O)[O-])[N+])=O)C(CCCC([O-])=O)O
+* common name:
+** leukotriene-C4
+* inchi key:
+** InChIKey=GWNVDXQDILPJIG-NXOLIXFESA-L
+* molecular weight:
+** 623.76    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-336]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 72025-60-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245603 25245603]
+* HMDB : HMDB01198
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02166 C02166]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57973 57973]
+* METABOLIGHTS : MTBLC57973
+{{#set: smiles=CCCCCC=CCC=CC=CC=CC(SCC(C(=O)NCC([O-])=O)NC(CCC(C(=O)[O-])[N+])=O)C(CCCC([O-])=O)O}}
+{{#set: common name=leukotriene-C4}}
+{{#set: inchi key=InChIKey=GWNVDXQDILPJIG-NXOLIXFESA-L}}
+{{#set: molecular weight=623.76    }}
+{{#set: consumed by=RXN66-336}}

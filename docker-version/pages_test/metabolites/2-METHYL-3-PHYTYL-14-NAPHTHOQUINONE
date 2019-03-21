@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-METHYL-3-PHYTYL-14-NAPHTHOQUINONE 2-METHYL-3-PHYTYL-14-NAPHTHOQUINONE] ==
+* smiles:
+** CC(C)CCCC(C)CCCC(C)CCCC(C)=CCC2(=C(C(=O)C1(C=CC=CC=1C2=O))C)
+* common name:
+** phylloquinone
+* inchi key:
+** InChIKey=MBWXNTAXLNYFJB-LKUDQCMESA-N
+* molecular weight:
+** 450.703    
+* Synonym(s):
+** 2-methyl-3-phytyl-1,4-naphthoquinone
+** phytonadione
+** phytomenadione
+** 3-phytylmenadione
+** vitamin K1
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[R06859]]
+== Reaction(s) of unknown directionality ==
+* [[1.1.4.1-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280483 5280483]
+* CAS : 84-80-0
+* Wikipedia : Phylloquinone
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=270681 270681]
+* HMDB : HMDB03555
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02059 C02059]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444124.html 4444124]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=583972 583972]
+{{#set: smiles=CC(C)CCCC(C)CCCC(C)CCCC(C)=CCC2(=C(C(=O)C1(C=CC=CC=1C2=O))C)}}
+{{#set: common name=phylloquinone}}
+{{#set: inchi key=InChIKey=MBWXNTAXLNYFJB-LKUDQCMESA-N}}
+{{#set: molecular weight=450.703    }}
+{{#set: common name=2-methyl-3-phytyl-1,4-naphthoquinone|phytonadione|phytomenadione|3-phytylmenadione|vitamin K1}}
+{{#set: produced by=R06859}}
+{{#set: reversible reaction associated=1.1.4.1-RXN}}

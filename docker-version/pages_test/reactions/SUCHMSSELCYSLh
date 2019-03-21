@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SUCHMSSELCYSLh SUCHMSSELCYSLh] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** O-Succinyl-L-homoserine succinate-lyase (adding cysteine), chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[O-SUCCINYL-L-HOMOSERINE]][h] '''+''' 1.0 [[L-SELENOCYSTEINE]][h] '''=>''' 1.0 [[SUC]][h] '''+''' 1.0 [[CPD-13717]][h]
+* With common name(s):
+** 1.0 O-succinyl-L-homoserine[h] '''+''' 1.0 L-selenocysteine[h] '''=>''' 1.0 succinate[h] '''+''' 1.0 L-selenocystathionine[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3732]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=O-Succinyl-L-homoserine succinate-lyase (adding cysteine), chloroplast}}
+{{#set: gene associated=Tiso_gene_3732}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

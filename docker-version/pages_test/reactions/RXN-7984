@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7984 RXN-7984] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** violaxanthin_de-epoxidase
+** violaxanthin_de-_chloroplast
+* Synonym(s):
+** VDE
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[CPD1F-133]][c] '''+''' 1 [[ASCORBATE]][c] '''=>''' 1 [[CPD1F-131]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[L-DEHYDRO-ASCORBATE]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 violaxanthin[c] '''+''' 1 L-ascorbate[c] '''=>''' 1 antheraxanthin[c] '''+''' 1 H2O[c] '''+''' 1 L-dehydro-ascorbate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16523]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1275]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5666]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-5945]], zeaxanthin, antheraxanthin and violaxanthin interconversion: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5945 PWY-5945]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15353 15353]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07178 R07178]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=violaxanthin_de-epoxidase}}
+{{#set: common name=violaxanthin_de-_chloroplast}}
+{{#set: common name=VDE}}
+{{#set: gene associated=Tiso_gene_16523|Tiso_gene_1275|Tiso_gene_5666}}
+{{#set: in pathway=PWY-5945}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

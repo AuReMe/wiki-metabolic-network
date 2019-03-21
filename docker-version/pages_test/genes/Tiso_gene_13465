@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13465 ==
+* right end position:
+** 5706
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3731
+* centisome position:
+** 59.477127    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-6359]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[THIOSULFATE-SULFURTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5350]]
+== External links  ==
+{{#set: right end position=5706}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3731}}
+{{#set: centisome position=59.477127    }}
+{{#set: reaction associated=RXN0-6359|THIOSULFATE-SULFURTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-5350}}

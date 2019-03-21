@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9490 ==
+* right end position:
+** 4313
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4162
+* centisome position:
+** 44.771946    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLYLSULFKIN-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[INORGPYROPHOSPHAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7805]]
+* [[PWY-7807]]
+* [[PWY-5340]]
+== External links  ==
+{{#set: right end position=4313}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4162}}
+{{#set: centisome position=44.771946    }}
+{{#set: reaction associated=ADENYLYLSULFKIN-RXN|INORGPYROPHOSPHAT-RXN}}
+{{#set: pathway associated=PWY-7805|PWY-7807|PWY-5340}}

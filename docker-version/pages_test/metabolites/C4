@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=C4 C4] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(=CCOP(=O)(OP(=O)([O-])OC1(OC(CO)C(O)C(OC(C)C(=O)NC(C)C(=O)NC(CCC(NC(CCCC[N+])C(=O)NC(C)C(NC(C(=O)[O-])C)=O)=O)C([O-])=O)C(NC(C)=O)1))[O-])C)C)C)C)C)C)C
+* common name:
+** undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl- D-alanyl-D-alanine
+* inchi key:
+** InChIKey=SULOOAFLXMQJSF-OGDYFQGPSA-K
+* molecular weight:
+** 1670.034    
+* Synonym(s):
+** mur2Ac(oyl-L-Ala-&gamma;-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol
+** lipid I
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-8975]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878496 46878496]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60032 60032]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05888 C05888]
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(=CCCC(=CCOP(=O)(OP(=O)([O-])OC1(OC(CO)C(O)C(OC(C)C(=O)NC(C)C(=O)NC(CCC(NC(CCCC[N+])C(=O)NC(C)C(NC(C(=O)[O-])C)=O)=O)C([O-])=O)C(NC(C)=O)1))[O-])C)C)C)C)C)C)C}}
+{{#set: common name=undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl- D-alanyl-D-alanine}}
+{{#set: inchi key=InChIKey=SULOOAFLXMQJSF-OGDYFQGPSA-K}}
+{{#set: molecular weight=1670.034    }}
+{{#set: common name=mur2Ac(oyl-L-Ala-&gamma;-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol|lipid I}}
+{{#set: reversible reaction associated=RXN-8975}}

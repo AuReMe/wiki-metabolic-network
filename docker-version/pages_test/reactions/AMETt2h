@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AMETt2h AMETt2h] ==
+* direction:
+** REVERSIBLE
+* common name:
+** S-Adenosyl-L-methionine reversible transport, chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1.0 [[S-ADENOSYLMETHIONINE]][h] '''<=>''' 1.0 [[S-ADENOSYLMETHIONINE]][c] '''+''' 1.0 [[ADENOSYL-HOMO-CYS]][h]
+* With common name(s):
+** 1.0 S-adenosyl-L-homocysteine[c] '''+''' 1.0 S-adenosyl-L-methionine[h] '''<=>''' 1.0 S-adenosyl-L-methionine[c] '''+''' 1.0 S-adenosyl-L-homocysteine[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3756]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_8828]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=S-Adenosyl-L-methionine reversible transport, chloroplast}}
+{{#set: gene associated=Tiso_gene_3756|Tiso_gene_8828}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

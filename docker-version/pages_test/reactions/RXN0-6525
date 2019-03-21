@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6525 RXN0-6525] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** exosome_complex_exonuclease
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.13.1 EC-3.1.13.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** n [[WATER]][c] '''+''' 1 [[MUTATED-TRNA]][c] '''=>''' n [[Nucleoside-Monophosphates]][c]
+* With common name(s):
+** n H2O[c] '''+''' 1 mutated tRNA[c] '''=>''' n a nucleoside 5'-monophosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11612]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11613]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=exosome_complex_exonuclease}}
+{{#set: ec number=EC-3.1.13.1}}
+{{#set: gene associated=Tiso_gene_11612|Tiso_gene_11613}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

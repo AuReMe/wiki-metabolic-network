@@ -1,0 +1,93 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HISTIDINE--TRNA-LIGASE-RXN HISTIDINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** histidyl-trna_synthetase_(c-terminal_region)_histidyl-trna_synthetase_(n-terminal_region)
+** ORF
+** atp-dependent_rna_helicase_dhx30-like
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.21 EC-6.1.1.21]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HIS-tRNAs]][c] '''+''' 1 [[ATP]][c] '''+''' 1 [[HIS]][c] '''=>''' 1 [[Charged-HIS-tRNAs]][c] '''+''' 1 [[AMP]][c] '''+''' 1 [[PPI]][c]
+* With common name(s):
+** 1 a tRNAhis[c] '''+''' 1 ATP[c] '''+''' 1 L-histidine[c] '''=>''' 1 an L-histidyl-[tRNAhis][c] '''+''' 1 AMP[c] '''+''' 1 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12634]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8798]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13414]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17313 17313]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03655 R03655]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9X0H5 Q9X0H5]
+** [http://www.uniprot.org/uniprot/O58028 O58028]
+** [http://www.uniprot.org/uniprot/O67223 O67223]
+** [http://www.uniprot.org/uniprot/Q9ZK27 Q9ZK27]
+** [http://www.uniprot.org/uniprot/Q9PPF4 Q9PPF4]
+** [http://www.uniprot.org/uniprot/P56455 P56455]
+** [http://www.uniprot.org/uniprot/Q58406 Q58406]
+** [http://www.uniprot.org/uniprot/O32039 O32039]
+** [http://www.uniprot.org/uniprot/O51160 O51160]
+** [http://www.uniprot.org/uniprot/O66522 O66522]
+** [http://www.uniprot.org/uniprot/Q9ZDL9 Q9ZDL9]
+** [http://www.uniprot.org/uniprot/Q9JUZ9 Q9JUZ9]
+** [http://www.uniprot.org/uniprot/Q9CE78 Q9CE78]
+** [http://www.uniprot.org/uniprot/P47281 P47281]
+** [http://www.uniprot.org/uniprot/O34459 O34459]
+** [http://www.uniprot.org/uniprot/O83647 O83647]
+** [http://www.uniprot.org/uniprot/O84547 O84547]
+** [http://www.uniprot.org/uniprot/Q9Z7P1 Q9Z7P1]
+** [http://www.uniprot.org/uniprot/P43823 P43823]
+** [http://www.uniprot.org/uniprot/Q61035 Q61035]
+** [http://www.uniprot.org/uniprot/P30053 P30053]
+** [http://www.uniprot.org/uniprot/P46696 P46696]
+** [http://www.uniprot.org/uniprot/P51348 P51348]
+** [http://www.uniprot.org/uniprot/P75069 P75069]
+** [http://www.uniprot.org/uniprot/Q55653 Q55653]
+** [http://www.uniprot.org/uniprot/Q49027 Q49027]
+** [http://www.uniprot.org/uniprot/P07263 P07263]
+** [http://www.uniprot.org/uniprot/P60906 P60906]
+** [http://www.uniprot.org/uniprot/P12081 P12081]
+** [http://www.uniprot.org/uniprot/P93422 P93422]
+** [http://www.uniprot.org/uniprot/O82413 O82413]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=histidyl-trna_synthetase_(c-terminal_region)_histidyl-trna_synthetase_(n-terminal_region)}}
+{{#set: common name=ORF}}
+{{#set: common name=atp-dependent_rna_helicase_dhx30-like}}
+{{#set: ec number=EC-6.1.1.21}}
+{{#set: gene associated=Tiso_gene_12634|Tiso_gene_8798|Tiso_gene_13414}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

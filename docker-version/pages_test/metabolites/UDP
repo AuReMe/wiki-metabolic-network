@@ -1,0 +1,100 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UDP UDP] ==
+* smiles:
+** C(OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))
+* common name:
+** UDP
+* inchi key:
+** InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
+* molecular weight:
+** 401.14    
+* Synonym(s):
+** uridine-diphosphate
+** uridine-5'-diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[UDPKIN-RXN]]
+* [[UMPU]]
+* [[UPH]]
+* [[RXN0-722]]
+* [[UDPREDUCT-RXN]]
+* [[ATUD]]
+* [[RXN-12197]]
+* [[ATUDm]]
+== Reaction(s) known to produce the compound ==
+* [[UG6PGT]]
+* [[2.4.1.145-RXN]]
+* [[2.4.1.223-RXN]]
+* [[RXN-18302]]
+* [[2.4.1.151-RXN]]
+* [[RXN-14361]]
+* [[RXN-12196]]
+* [[2.4.1.224-RXN]]
+* [[UTCY]]
+* [[2.4.1.141-RXN]]
+* [[TREHALOSE6PSYN-RXN]]
+* [[RXN-10618]]
+* [[RXN-10619]]
+* [[RXN-10616]]
+* [[RXN-10617]]
+* [[SUCROSE-PHOSPHATE-SYNTHASE-RXN]]
+* [[RXN-11060]]
+* [[RXN-16648]]
+* [[UDP-GLUCURONOSYLTRANSFERASE-RXN]]
+* [[RXN-15117]]
+* [[UG6PGTn]]
+* [[CELLULOSE-SYNTHASE-UDP-FORMING-RXN]]
+* [[RXN66-83]]
+* [[RXN-1224]]
+* [[RXN-1225]]
+* [[RXN-7828]]
+* [[2.4.1.123-RXN]]
+* [[LACTOSE-SYNTHASE-RXN]]
+* [[2.4.1.117-RXN]]
+* [[RXN-13608]]
+* [[RXN-8228]]
+* [[2.4.1.46-RXN]]
+* [[RXN-10609]]
+* [[RXN-10608]]
+* [[UTUP]]
+* [[13-BETA-GLUCAN-SYNTHASE-RXN]]
+* [[RXN-10606]]
+* [[RXN-9000]]
+* [[RXN-13607]]
+* [[UMPKf]]
+* [[2.4.1.135-RXN]]
+* [[RXN66-168]]
+* [[RXN-12002]]
+* [[RXN-10784]]
+* [[2.4.1.225-RXN]]
+* [[UTPH]]
+* [[RXN-10607]]
+* [[LIPIDADISACCHARIDESYNTH-RXN]]
+* [[RXN66-162]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-16027]]
+* [[RXN-7873]]
+* [[2.4.1.198-RXN]]
+* [[2.4.1.229-RXN]]
+== External links  ==
+* CAS : 58-98-0
+* BIGG : udp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=20056717 20056717]
+* KNAPSACK : C00007313
+* HMDB : HMDB00295
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00015 C00015]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.16739715.html 16739715]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58223 58223]
+* METABOLIGHTS : MTBLC58223
+{{#set: smiles=C(OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))}}
+{{#set: common name=UDP}}
+{{#set: inchi key=InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K}}
+{{#set: molecular weight=401.14    }}
+{{#set: common name=uridine-diphosphate|uridine-5'-diphosphate}}
+{{#set: consumed by=UDPKIN-RXN|UMPU|UPH|RXN0-722|UDPREDUCT-RXN|ATUD|RXN-12197|ATUDm}}
+{{#set: produced by=UG6PGT|2.4.1.145-RXN|2.4.1.223-RXN|RXN-18302|2.4.1.151-RXN|RXN-14361|RXN-12196|2.4.1.224-RXN|UTCY|2.4.1.141-RXN|TREHALOSE6PSYN-RXN|RXN-10618|RXN-10619|RXN-10616|RXN-10617|SUCROSE-PHOSPHATE-SYNTHASE-RXN|RXN-11060|RXN-16648|UDP-GLUCURONOSYLTRANSFERASE-RXN|RXN-15117|UG6PGTn|CELLULOSE-SYNTHASE-UDP-FORMING-RXN|RXN66-83|RXN-1224|RXN-1225|RXN-7828|2.4.1.123-RXN|LACTOSE-SYNTHASE-RXN|2.4.1.117-RXN|RXN-13608|RXN-8228|2.4.1.46-RXN|RXN-10609|RXN-10608|UTUP|13-BETA-GLUCAN-SYNTHASE-RXN|RXN-10606|RXN-9000|RXN-13607|UMPKf|2.4.1.135-RXN|RXN66-168|RXN-12002|RXN-10784|2.4.1.225-RXN|UTPH|RXN-10607|LIPIDADISACCHARIDESYNTH-RXN|RXN66-162}}
+{{#set: reversible reaction associated=RXN-16027|RXN-7873|2.4.1.198-RXN|2.4.1.229-RXN}}

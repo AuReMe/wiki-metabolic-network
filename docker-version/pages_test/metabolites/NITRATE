@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=NITRATE NITRATE] ==
+* smiles:
+** N(=O)(=O)[O-]
+* common name:
+** nitrate
+* inchi key:
+** InChIKey=NHNBFGGVMKEFGY-UHFFFAOYSA-N
+* molecular weight:
+** 62.005    
+* Synonym(s):
+** NO3
+** NO3-
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_NITRATE]]
+* [[NITRATE-REDUCTASE-NADH-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_NITRATE]]
+* [[NODOy]]
+* [[NODOx]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_NITRATE]]
+* [[NO3t]]
+* [[TCV3]]
+== External links  ==
+* CAS : 14797-55-8
+* Wikipedia : Nitrate
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=943 943]
+* HMDB : HMDB02878
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00244 C00244]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.918.html 918]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17632 17632]
+* BIGG : no3
+{{#set: smiles=N(=O)(=O)[O-]}}
+{{#set: common name=nitrate}}
+{{#set: inchi key=InChIKey=NHNBFGGVMKEFGY-UHFFFAOYSA-N}}
+{{#set: molecular weight=62.005    }}
+{{#set: common name=NO3|NO3-}}
+{{#set: consumed by=TransportSeed_NITRATE|NITRATE-REDUCTASE-NADH-RXN}}
+{{#set: produced by=TransportSeed_NITRATE|NODOy|NODOx}}
+{{#set: reversible reaction associated=ExchangeSeed_NITRATE|NO3t|TCV3}}

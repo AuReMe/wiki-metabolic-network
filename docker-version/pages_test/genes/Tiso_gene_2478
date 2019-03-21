@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2478 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.6.5.4-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-6370]]
+== External links  ==
+{{#set: reaction associated=1.6.5.4-RXN}}
+{{#set: pathway associated=PWY-6370}}

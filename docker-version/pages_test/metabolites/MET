@@ -1,0 +1,69 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MET MET] ==
+* smiles:
+** CSCCC([N+])C([O-])=O
+* common name:
+** L-methionine
+* inchi key:
+** InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
+* molecular weight:
+** 149.207    
+* Synonym(s):
+** M
+** met
+** methionine
+** L-met
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16165]]
+* [[RXN0-6948]]
+* [[S-ADENMETSYN-RXN]]
+* [[RME144]]
+* [[METHIONINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5063]]
+* [[R00946]]
+* [[RXN-8340]]
+* [[3.4.11.18-RXN]]
+* [[HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN]]
+* [[RXN0-949]]
+* [[2.8.1.6-RXN]]
+* [[RXN-14950]]
+* [[RXN-14957]]
+* [[RXN-14959]]
+* [[HEMN-RXN]]
+* [[HOMOCYSMETB12-RXN]]
+* [[1.8.4.14-RXN]]
+* [[RXN-17473]]
+* [[RXN-17472]]
+* [[MMUM-RXN]]
+* [[RXN0-1342]]
+* [[FORMYLMETHIONINE-DEFORMYLASE-RXN]]
+* [[RXN-17878]]
+* [[RXN-17873]]
+* [[RXN-17877]]
+* [[RXN-17876]]
+* [[RXN-17875]]
+* [[RXN-17874]]
+* [[RXN-14480]]
+== Reaction(s) of unknown directionality ==
+* [[HOMOCYSMET-RXN]]
+== External links  ==
+* CAS : 63-68-3
+* BIGG : met__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6992087 6992087]
+* HMDB : HMDB00696
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00073 C00073]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57844 57844]
+* METABOLIGHTS : MTBLC57844
+{{#set: smiles=CSCCC([N+])C([O-])=O}}
+{{#set: common name=L-methionine}}
+{{#set: inchi key=InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N}}
+{{#set: molecular weight=149.207    }}
+{{#set: common name=M|met|methionine|L-met}}
+{{#set: consumed by=RXN-16165|RXN0-6948|S-ADENMETSYN-RXN|RME144|METHIONINE--TRNA-LIGASE-RXN}}
+{{#set: produced by=RXN0-5063|R00946|RXN-8340|3.4.11.18-RXN|HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN|RXN0-949|2.8.1.6-RXN|RXN-14950|RXN-14957|RXN-14959|HEMN-RXN|HOMOCYSMETB12-RXN|1.8.4.14-RXN|RXN-17473|RXN-17472|MMUM-RXN|RXN0-1342|FORMYLMETHIONINE-DEFORMYLASE-RXN|RXN-17878|RXN-17873|RXN-17877|RXN-17876|RXN-17875|RXN-17874|RXN-14480}}
+{{#set: reversible reaction associated=HOMOCYSMET-RXN}}

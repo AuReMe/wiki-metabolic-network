@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Primary-Alcohols Primary-Alcohols] ==
+* common name:
+** a primary alcohol
+* Synonym(s):
+** 1-Alcohol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ALCOHOL-DEHYDROG-GENERIC-RXN]]
+== External links  ==
+{{#set: common name=a primary alcohol}}
+{{#set: common name=1-Alcohol}}
+{{#set: reversible reaction associated=ALCOHOL-DEHYDROG-GENERIC-RXN}}

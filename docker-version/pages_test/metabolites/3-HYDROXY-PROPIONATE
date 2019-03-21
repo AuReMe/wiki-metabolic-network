@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROXY-PROPIONATE 3-HYDROXY-PROPIONATE] ==
+* smiles:
+** C(CO)C([O-])=O
+* common name:
+** 3-hydroxypropanoate
+* inchi key:
+** InChIKey=ALRHLSYJTWAHJZ-UHFFFAOYSA-M
+* molecular weight:
+** 89.071    
+* Synonym(s):
+** 3-hydroxypropionate
+** &beta;-hydroxypropionate
+** 3-hydroxypropanoic acid
+** 3-hydropropionic acid
+** hydracrylic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-6384]]
+* [[HICH]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 503-66-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459847 5459847]
+* HMDB : HMDB00700
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01013 C01013]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573601.html 4573601]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16510 16510]
+* METABOLIGHTS : MTBLC16510
+{{#set: smiles=C(CO)C([O-])=O}}
+{{#set: common name=3-hydroxypropanoate}}
+{{#set: inchi key=InChIKey=ALRHLSYJTWAHJZ-UHFFFAOYSA-M}}
+{{#set: molecular weight=89.071    }}
+{{#set: common name=3-hydroxypropionate|&beta;-hydroxypropionate|3-hydroxypropanoic acid|3-hydropropionic acid|hydracrylic acid}}
+{{#set: produced by=RXN-6384|HICH}}

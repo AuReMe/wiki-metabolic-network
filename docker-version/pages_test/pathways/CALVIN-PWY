@@ -1,0 +1,216 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=CALVIN-PWY CALVIN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-39119 TAX-39119]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-38254 TAX-38254]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-29197 TAX-29197]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-38410 TAX-38410]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-5747 TAX-5747]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2864 TAX-2864]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-877183 TAX-877183]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2836 TAX-2836]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3027 TAX-3027]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2830 TAX-2830]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2833 TAX-2833]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3041 TAX-3041]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2763 TAX-2763]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2870 TAX-2870]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2825 TAX-2825]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** Calvin-Benson-Bassham cycle
+* Synonym(s):
+** photosynthetic dark reactions
+** photosynthetic CO2 fixation
+** reductive pentose phosphate pathway
+** Calvin cycle
+** carbon fixation
+** Calvin-Benson cycle
+
+== Reaction(s) found ==
+ '''13''' reactions found over '''13''' reactions in the full pathway
+* [[1.2.1.13-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_6766]]
+*** [[Tiso_gene_6765]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_10646]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[1TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[2TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[F16BDEPHOS-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_15398]]
+*** [[Tiso_gene_9435]]
+*** [[Tiso_gene_16502]]
+*** [[Tiso_gene_4905]]
+*** [[Tiso_gene_8226]]
+*** [[Tiso_gene_4904]]
+*** [[Tiso_gene_3483]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PHOSGLYPHOS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_3526]]
+*** [[Tiso_gene_18264]]
+*** [[Tiso_gene_3527]]
+*** [[Tiso_gene_18263]]
+*** [[Tiso_gene_12104]]
+*** [[Tiso_gene_14642]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PHOSPHORIBULOKINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17637]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RIB5PISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18217]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12199]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[RIBULP3EPIM-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_19140]]
+*** [[Tiso_gene_4754]]
+*** [[Tiso_gene_10879]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[SEDOBISALDOL-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_12272]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[SEDOHEPTULOSE-BISPHOSPHATASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8226]]
+*** [[Tiso_gene_4905]]
+*** [[Tiso_gene_16502]]
+*** [[Tiso_gene_9435]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+* PLANTCYC : CALVIN-PWY
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=CALVIN-PWY CALVIN-PWY]
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-39119}}
+{{#set: taxonomic range=TAX-38254}}
+{{#set: taxonomic range=TAX-29197}}
+{{#set: taxonomic range=TAX-38410}}
+{{#set: taxonomic range=TAX-5747}}
+{{#set: taxonomic range=TAX-2864}}
+{{#set: taxonomic range=TAX-877183}}
+{{#set: taxonomic range=TAX-2836}}
+{{#set: taxonomic range=TAX-3027}}
+{{#set: taxonomic range=TAX-2830}}
+{{#set: taxonomic range=TAX-2833}}
+{{#set: taxonomic range=TAX-3041}}
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-2763}}
+{{#set: taxonomic range=TAX-2870}}
+{{#set: taxonomic range=TAX-2825}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=Calvin-Benson-Bassham cycle}}
+{{#set: common name=photosynthetic dark reactions|photosynthetic CO2 fixation|reductive pentose phosphate pathway|Calvin cycle|carbon fixation|Calvin-Benson cycle}}
+{{#set: reaction found=13}}
+{{#set: total reaction=13}}
+{{#set: completion rate=100.0}}

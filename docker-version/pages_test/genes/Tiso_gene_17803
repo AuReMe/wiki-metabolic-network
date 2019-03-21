@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17803 ==
+* right end position:
+** 5000
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3834
+* centisome position:
+** 70.11704    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[APAPT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN0-5217]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[SPERMIDINESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[SPERMINE-SYNTHASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[ARGSPECAT-PWY]]
+* [[POLYAMINSYN3-PWY]]
+* [[BSUBPOLYAMSYN-PWY]]
+* [[PWY0-1303]]
+== External links  ==
+{{#set: right end position=5000}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3834}}
+{{#set: centisome position=70.11704    }}
+{{#set: reaction associated=APAPT|RXN0-5217|SPERMIDINESYN-RXN|SPERMINE-SYNTHASE-RXN}}
+{{#set: pathway associated=ARGSPECAT-PWY|POLYAMINSYN3-PWY|BSUBPOLYAMSYN-PWY|PWY0-1303}}

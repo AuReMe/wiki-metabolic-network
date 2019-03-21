@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=RIBITOLUTIL-PWY RIBITOLUTIL-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** ribitol degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[D-RIBULOKIN-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RIBITOL-2-DEHYDROGENASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_15780]]
+*** [[Tiso_gene_10870]]
+*** [[Tiso_gene_5087]]
+*** [[Tiso_gene_14162]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=ribitol degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

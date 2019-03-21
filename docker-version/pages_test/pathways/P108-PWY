@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P108-PWY P108-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** pyruvate fermentation to propanoate I
+* Synonym(s):
+** succinate-propionate fermentation pathway
+** pyruvate fermentation to propionate I
+** succinate-propanoate fermentation pathway
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[METHYLMALONYL-COA-MUT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9771]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.3.1-RXN 2.1.3.1-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=METHYLMALONYL-COA-EPIM-RXN METHYLMALONYL-COA-EPIM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R601-RXN R601-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-268 RXN0-268]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=pyruvate fermentation to propanoate I}}
+{{#set: common name=succinate-propionate fermentation pathway|pyruvate fermentation to propionate I|succinate-propanoate fermentation pathway}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

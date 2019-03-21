@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7596 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMINE--TRNA-LIGASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GUANIDINOBUTANAMIDE-NH3-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+* [[ARGDEG-V-PWY]]
+== External links  ==
+{{#set: reaction associated=GLUTAMINE--TRNA-LIGASE-RXN|GUANIDINOBUTANAMIDE-NH3-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY|ARGDEG-V-PWY}}

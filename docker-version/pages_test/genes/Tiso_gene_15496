@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15496 ==
+* right end position:
+** 4750
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10
+* centisome position:
+** 0.2002002    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-1441]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4750}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10}}
+{{#set: centisome position=0.2002002    }}
+{{#set: reaction associated=RXN0-1441}}

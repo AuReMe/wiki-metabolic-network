@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=O-SUCCHOMOSERLYASE-RXN O-SUCCHOMOSERLYASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.48 EC-2.5.1.48]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[O-SUCCINYL-L-HOMOSERINE]][c] '''+''' 1 [[CYS]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[L-CYSTATHIONINE]][c] '''+''' 1 [[SUC]][c]
+* With common name(s):
+** 1 O-succinyl-L-homoserine[c] '''+''' 1 L-cysteine[c] '''<=>''' 1 H+[c] '''+''' 1 L-cystathionine[c] '''+''' 1 succinate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3732]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-I9]], L-cysteine biosynthesis VI (from L-methionine): [http://metacyc.org/META/NEW-IMAGE?object=PWY-I9 PWY-I9]
+** '''5''' reactions found over '''7''' reactions in the full pathway
+* [[HOMOSER-METSYN-PWY]], L-methionine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=HOMOSER-METSYN-PWY HOMOSER-METSYN-PWY]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20397 20397]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03260 R03260]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P0A4K2 P0A4K2]
+** [http://www.uniprot.org/uniprot/Q9CEC6 Q9CEC6]
+** [http://www.uniprot.org/uniprot/P38675 P38675]
+** [http://www.uniprot.org/uniprot/P24601 P24601]
+** [http://www.uniprot.org/uniprot/P00935 P00935]
+** [http://www.uniprot.org/uniprot/O04981 O04981]
+** [http://www.uniprot.org/uniprot/O04982 O04982]
+** [http://www.uniprot.org/uniprot/O81334 O81334]
+** [http://www.uniprot.org/uniprot/Q79VD9 Q79VD9]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.5.1.48}}
+{{#set: gene associated=Tiso_gene_3732}}
+{{#set: in pathway=PWY-I9|HOMOSER-METSYN-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-creinhardtii|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

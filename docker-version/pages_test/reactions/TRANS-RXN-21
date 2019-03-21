@@ -1,0 +1,34 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TRANS-RXN-21 TRANS-RXN-21] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[D-galactopyranose]][e] '''+''' 1 [[PROTON]][e] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[D-galactopyranose]][c]
+* With common name(s):
+** 1 D-galactopyranose[e] '''+''' 1 H+[e] '''=>''' 1 H+[c] '''+''' 1 D-galactopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17927]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_19108]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_4272]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_3930]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_17927|Tiso_gene_19108|Tiso_gene_4272|Tiso_gene_3930}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14353 ==
+* right end position:
+** 5637
+* transcription direction:
+** POSITIVE
+* left end position:
+** 238
+* centisome position:
+** 4.1725106    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[URITRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5637}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=238}}
+{{#set: centisome position=4.1725106    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN|URITRANS-RXN}}

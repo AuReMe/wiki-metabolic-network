@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=P-PANTOCYSLIG-RXN P-PANTOCYSLIG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/6.3.2.5 EC-6.3.2.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[4-P-PANTOTHENATE]][c] '''+''' 1 [[CYS]][c] '''+''' 1 [[CTP]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE]][c] '''+''' 1 [[CMP]][c]
+* With common name(s):
+** 1 (R)-4'-phosphopantothenate[c] '''+''' 1 L-cysteine[c] '''+''' 1 CTP[c] '''=>''' 1 diphosphate[c] '''+''' 1 H+[c] '''+''' 1 R-4'-phosphopantothenoyl-L-cysteine[c] '''+''' 1 CMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15171]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[COA-PWY]], coenzyme A biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=COA-PWY COA-PWY]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25157 25157]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04231 R04231]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-6.3.2.5}}
+{{#set: gene associated=Tiso_gene_15171}}
+{{#set: in pathway=COA-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

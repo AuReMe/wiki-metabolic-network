@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15142 ==
+* right end position:
+** 1615
+* transcription direction:
+** POSITIVE
+* left end position:
+** 105
+* centisome position:
+** 2.0165162    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.1.127-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6364]]
+* [[PWY-6362]]
+* [[PWY-6361]]
+== External links  ==
+{{#set: right end position=1615}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=105}}
+{{#set: centisome position=2.0165162    }}
+{{#set: reaction associated=2.7.1.127-RXN}}
+{{#set: pathway associated=PWY-6364|PWY-6362|PWY-6361}}

@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12959 RXN-12959] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.174 EC-2.7.1.174]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CTP]][c] '''+''' 1 [[DIACYLGLYCEROL]][c] '''=>''' 1 [[CDP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[L-PHOSPHATIDATE]][c]
+* With common name(s):
+** 1 CTP[c] '''+''' 1 a 1,2-diacyl-sn-glycerol[c] '''=>''' 1 CDP[c] '''+''' 1 H+[c] '''+''' 1 a 1,2-diacyl-sn-glycerol 3-phosphate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[TRIGLSYN-PWY]], diacylglycerol and triacylglycerol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=TRIGLSYN-PWY TRIGLSYN-PWY]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25951 25951]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.7.1.174}}
+{{#set: in pathway=TRIGLSYN-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

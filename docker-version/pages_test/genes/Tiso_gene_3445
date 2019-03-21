@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3445 ==
+* right end position:
+** 11515
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 9078
+* centisome position:
+** 54.427727    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-DEHYDROQUINATE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6164]]
+== External links  ==
+{{#set: right end position=11515}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=9078}}
+{{#set: centisome position=54.427727    }}
+{{#set: reaction associated=3-DEHYDROQUINATE-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-6164}}

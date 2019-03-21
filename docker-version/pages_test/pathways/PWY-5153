@@ -1,0 +1,23 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5153 PWY-5153] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** anthocyanin biosynthesis (delphinidin 3-O-glucoside)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-7785]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7815 RXN-7815]
+== External links  ==
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=anthocyanin biosynthesis (delphinidin 3-O-glucoside)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

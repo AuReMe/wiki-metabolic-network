@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CO3 CO3] ==
+* smiles:
+** C([O-])(=O)[O-]
+* common name:
+** carbonate
+* inchi key:
+** InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-L
+* molecular weight:
+** 60.009    
+* Synonym(s):
+** CO3
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18032]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=19660 19660]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.18519.html 18519]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=41609 41609]
+* HMDB : HMDB31453
+{{#set: smiles=C([O-])(=O)[O-]}}
+{{#set: common name=carbonate}}
+{{#set: inchi key=InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-L}}
+{{#set: molecular weight=60.009    }}
+{{#set: common name=CO3}}
+{{#set: reversible reaction associated=RXN-18032}}

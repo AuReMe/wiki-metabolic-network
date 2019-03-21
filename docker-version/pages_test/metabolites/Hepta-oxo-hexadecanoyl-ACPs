@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Hepta-oxo-hexadecanoyl-ACPs Hepta-oxo-hexadecanoyl-ACPs] ==
+* common name:
+** a 3,5,7,9,11,13,15-hepta-oxo-hexadecanoyl-[PKS-acp]
+* Synonym(s):
+** octaketide
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1A0-6303]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3,5,7,9,11,13,15-hepta-oxo-hexadecanoyl-[PKS-acp]}}
+{{#set: common name=octaketide}}
+{{#set: consumed by=RXN1A0-6303}}

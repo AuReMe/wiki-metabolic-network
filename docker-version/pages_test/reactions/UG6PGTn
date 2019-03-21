@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=UG6PGTn UG6PGTn] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase, nucleus
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-12575]][n] '''+''' 1.0 [[ALPHA-GLC-6-P]][n] '''=>''' 1.0 [[UDP]][n] '''+''' 1.0 [[TREHALOSE-6P]][n] '''+''' 1.0 [[PROTON]][n]
+* With common name(s):
+** 1.0 UDP-&alpha;-D-glucose[n] '''+''' 1.0 &alpha;-D-glucose 6-phosphate[n] '''=>''' 1.0 UDP[n] '''+''' 1.0 &alpha;,&alpha;-trehalose 6-phosphate[n] '''+''' 1.0 H+[n]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14220]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_18196]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase, nucleus}}
+{{#set: gene associated=Tiso_gene_14220|Tiso_gene_18196}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

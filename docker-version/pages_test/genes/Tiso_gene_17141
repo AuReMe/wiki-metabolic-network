@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17141 ==
+* right end position:
+** 3084
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 461
+* centisome position:
+** 6.504868    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R03845]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-5285]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1F-10]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[CHLOROPHYLL-SYN]]
+== External links  ==
+{{#set: right end position=3084}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=461}}
+{{#set: centisome position=6.504868    }}
+{{#set: reaction associated=R03845|RXN-5285|RXN1F-10}}
+{{#set: pathway associated=CHLOROPHYLL-SYN}}

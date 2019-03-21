@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HCN HCN] ==
+* smiles:
+** C#N
+* common name:
+** hydrogen cyanide
+* inchi key:
+** InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N
+* molecular weight:
+** 27.026    
+* Synonym(s):
+** cyanide
+** hydrocyanic acid
+
+== Reaction(s) known to consume the compound ==
+* [[THIOSULFATE-SULFURTRANSFERASE-RXN]]
+* [[RXN0-6359]]
+* [[MERCAPYSTRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13600]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 74-90-8
+* BIGG : cyan
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=768 768]
+* HMDB : HMDB60292
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01326 C01326]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.748.html 748]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18407 18407]
+* METABOLIGHTS : MTBLC18407
+{{#set: smiles=C#N}}
+{{#set: common name=hydrogen cyanide}}
+{{#set: inchi key=InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N}}
+{{#set: molecular weight=27.026    }}
+{{#set: common name=cyanide|hydrocyanic acid}}
+{{#set: consumed by=THIOSULFATE-SULFURTRANSFERASE-RXN|RXN0-6359|MERCAPYSTRANS-RXN}}
+{{#set: produced by=RXN-13600}}

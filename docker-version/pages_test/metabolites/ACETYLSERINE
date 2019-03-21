@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACETYLSERINE ACETYLSERINE] ==
+* smiles:
+** CC(OCC([N+])C(=O)[O-])=O
+* common name:
+** O-acetyl-L-serine
+* inchi key:
+** InChIKey=VZXPDPZARILFQX-BYPYZUCNSA-N
+* molecular weight:
+** 147.13    
+* Synonym(s):
+** O3-acetyl-L-serine
+** acetylserine
+** O-acetylserine
+** (2S)-3-acetyloxy-2-aminopropanoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12726]]
+== Reaction(s) known to produce the compound ==
+* [[SERINE-O-ACETTRAN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ACSERLY-RXN]]
+* [[SULFOCYS-RXN]]
+== External links  ==
+* CAS : 66638-22-0
+* BIGG : acser
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971051 6971051]
+* HMDB : HMDB03011
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00979 C00979]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58340 58340]
+* METABOLIGHTS : MTBLC17981
+{{#set: smiles=CC(OCC([N+])C(=O)[O-])=O}}
+{{#set: common name=O-acetyl-L-serine}}
+{{#set: inchi key=InChIKey=VZXPDPZARILFQX-BYPYZUCNSA-N}}
+{{#set: molecular weight=147.13    }}
+{{#set: common name=O3-acetyl-L-serine|acetylserine|O-acetylserine|(2S)-3-acetyloxy-2-aminopropanoate}}
+{{#set: consumed by=RXN-12726}}
+{{#set: produced by=SERINE-O-ACETTRAN-RXN}}
+{{#set: reversible reaction associated=ACSERLY-RXN|SULFOCYS-RXN}}

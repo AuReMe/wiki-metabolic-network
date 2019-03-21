@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.5.1.7-RXN 1.5.1.7-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.5.1.7 EC-1.5.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[SACCHAROPINE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[2-KETOGLUTARATE]][c] '''+''' 1 [[LYS]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 H2O[c] '''+''' 1 L-saccharopine[c] '''=>''' 1 H+[c] '''+''' 1 2-oxoglutarate[c] '''+''' 1 L-lysine[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1156]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[LYSINE-AMINOAD-PWY]], L-lysine biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-AMINOAD-PWY LYSINE-AMINOAD-PWY]
+** '''3''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=12440 12440]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00715 R00715]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P38997 P38997]
+** [http://www.uniprot.org/uniprot/P38998 P38998]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.5.1.7}}
+{{#set: gene associated=Tiso_gene_1156}}
+{{#set: in pathway=LYSINE-AMINOAD-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

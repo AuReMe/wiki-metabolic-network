@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18707 ==
+* right end position:
+** 2774
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 220
+* centisome position:
+** 7.735584    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NADH-DEHYDROG-A-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-3781]]
+* [[PWY-5083]]
+* [[PWY0-1334]]
+* [[PWY0-1335]]
+* [[PWY-4302]]
+== External links  ==
+{{#set: right end position=2774}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=220}}
+{{#set: centisome position=7.735584    }}
+{{#set: reaction associated=NADH-DEHYDROG-A-RXN}}
+{{#set: pathway associated=PWY-6692|PWY-3781|PWY-5083|PWY0-1334|PWY0-1335|PWY-4302}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PROTOPORPHYRINOGEN PROTOPORPHYRINOGEN] ==
+* smiles:
+** C=CC1(=C5(NC(=C1C)CC2(=C(C(=C(N2)CC3(NC(=C(C=3CCC([O-])=O)C)CC4(=C(C(=C(N4)C5)C)C=C)))CCC(=O)[O-])C)))
+* common name:
+** protoporphyrinogen IX
+* inchi key:
+** InChIKey=UHSGPDMIQQYNAX-UHFFFAOYSA-L
+* molecular weight:
+** 566.699    
+* Synonym(s):
+** protoporphyrinogen
+
+== Reaction(s) known to consume the compound ==
+* [[PROTOPORGENOXI-RXN]]
+* [[PPPGO]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-1461]]
+* [[HEMN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 7412-77-3
+* BIGG : pppg9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=20849104 20849104]
+* HMDB : HMDB01097
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01079 C01079]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20171538.html 20171538]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57307 57307]
+* METABOLIGHTS : MTBLC57307
+{{#set: smiles=C=CC1(=C5(NC(=C1C)CC2(=C(C(=C(N2)CC3(NC(=C(C=3CCC([O-])=O)C)CC4(=C(C(=C(N4)C5)C)C=C)))CCC(=O)[O-])C)))}}
+{{#set: common name=protoporphyrinogen IX}}
+{{#set: inchi key=InChIKey=UHSGPDMIQQYNAX-UHFFFAOYSA-L}}
+{{#set: molecular weight=566.699    }}
+{{#set: common name=protoporphyrinogen}}
+{{#set: consumed by=PROTOPORGENOXI-RXN|PPPGO}}
+{{#set: produced by=RXN0-1461|HEMN-RXN}}

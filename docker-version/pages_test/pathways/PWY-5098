@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5098 PWY-5098] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** chlorophyll a degradation I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-7741]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17975]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3.1.1.82-RXN 3.1.1.82-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17252 RXN-17252]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17253 RXN-17253]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7738 RXN-7738]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7739 RXN-7739]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-5098 PWY-5098]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=chlorophyll a degradation I}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

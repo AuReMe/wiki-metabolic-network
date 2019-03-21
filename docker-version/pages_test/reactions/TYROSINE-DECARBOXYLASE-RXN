@@ -1,0 +1,56 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TYROSINE-DECARBOXYLASE-RXN TYROSINE-DECARBOXYLASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.1.25 EC-4.1.1.25]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[TYR]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[TYRAMINE]][c]
+* With common name(s):
+** 1 L-tyrosine[c] '''+''' 1 H+[c] '''=>''' 1 CO2[c] '''+''' 1 tyramine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3686]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-3581]], (S)-reticuline biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-3581 PWY-3581]
+** '''3''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-6133]], (S)-reticuline biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6133 PWY-6133]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-5254]], methanofuran biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5254 PWY-5254]
+** '''1''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-7826]], Amaryllidacea alkaloids biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7826 PWY-7826]
+** '''2''' reactions found over '''25''' reactions in the full pathway
+* [[PWY-7297]], octopamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7297 PWY-7297]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-5474]], hydroxycinnamic acid tyramine amides biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5474 PWY-5474]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6802]], salidroside biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6802 PWY-6802]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14345 14345]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00736 R00736]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q06086 Q06086]
+** [http://www.uniprot.org/uniprot/P54768 P54768]
+** [http://www.uniprot.org/uniprot/P54769 P54769]
+** [http://www.uniprot.org/uniprot/P54770 P54770]
+** [http://www.uniprot.org/uniprot/O82417 O82417]
+** [http://www.uniprot.org/uniprot/P54771 P54771]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.1.1.25}}
+{{#set: gene associated=Tiso_gene_3686}}
+{{#set: in pathway=PWY-3581|PWY-6133|PWY-5254|PWY-7826|PWY-7297|PWY-5474|PWY-6802}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

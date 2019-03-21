@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Purine-Ribonucleosides Purine-Ribonucleosides] ==
+* common name:
+** a purine ribonucleoside
+* Synonym(s):
+** nebularine
+** purine riboside
+** an N-D-ribosyl-purine
+
+== Reaction(s) known to consume the compound ==
+* [[PURINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a purine ribonucleoside}}
+{{#set: common name=nebularine|purine riboside|an N-D-ribosyl-purine}}
+{{#set: consumed by=PURINE-NUCLEOSIDASE-RXN}}

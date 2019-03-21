@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5474 PWY-5474] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** hydroxycinnamic acid tyramine amides biosynthesis
+* Synonym(s):
+** hydroxycinnamic acid amides biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[TYROSINE-DECARBOXYLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3686]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8713 RXN-8713]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8714 RXN-8714]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8715 RXN-8715]
+* [http://metacyc.org/META/NEW-IMAGE?object=TYRAMINE-N-FERULOYLTRANSFERASE-RXN TYRAMINE-N-FERULOYLTRANSFERASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=hydroxycinnamic acid tyramine amides biosynthesis}}
+{{#set: common name=hydroxycinnamic acid amides biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

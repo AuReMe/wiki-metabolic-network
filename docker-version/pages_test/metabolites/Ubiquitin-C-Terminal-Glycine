@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ubiquitin-C-Terminal-Glycine Ubiquitin-C-Terminal-Glycine] ==
+* common name:
+** a [ubiquitin] C-terminal glycine
+* Synonym(s):
+** a C-terminal [ubiquitin]-glycine
+
+== Reaction(s) known to consume the compound ==
+* [[UBIQUITIN--PROTEIN-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [ubiquitin] C-terminal glycine}}
+{{#set: common name=a C-terminal [ubiquitin]-glycine}}
+{{#set: consumed by=UBIQUITIN--PROTEIN-LIGASE-RXN}}

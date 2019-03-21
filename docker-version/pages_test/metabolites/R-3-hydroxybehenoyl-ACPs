@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=R-3-hydroxybehenoyl-ACPs R-3-hydroxybehenoyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxybehenoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-363]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-157]]
+* [[RXN1G-469]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxybehenoyl-[acp]}}
+{{#set: consumed by=RXN1G-363}}
+{{#set: produced by=RXN1G-157|RXN1G-469}}

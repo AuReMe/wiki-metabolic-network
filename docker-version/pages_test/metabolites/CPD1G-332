@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1G-332 CPD1G-332] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCCCCC(C([O-])=O)C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** 2-carboxy-cerotoyl-CoA
+* inchi key:
+** InChIKey=VUYDEKMWDHLSSI-RVNPWDOLSA-I
+* molecular weight:
+** 1185.185    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-4355]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173201 46173201]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=83578 83578]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCCCCC(C([O-])=O)C(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=2-carboxy-cerotoyl-CoA}}
+{{#set: inchi key=InChIKey=VUYDEKMWDHLSSI-RVNPWDOLSA-I}}
+{{#set: molecular weight=1185.185    }}
+{{#set: produced by=RXN1G-4355}}

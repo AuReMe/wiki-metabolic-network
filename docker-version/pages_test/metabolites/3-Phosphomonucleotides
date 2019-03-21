@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Phosphomonucleotides 3-Phosphomonucleotides] ==
+* common name:
+** a ribonucleoside 3'-phosphate
+* Synonym(s):
+** a 3'-phosphomonoribonucleotide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3.1.27.1-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a ribonucleoside 3'-phosphate}}
+{{#set: common name=a 3'-phosphomonoribonucleotide}}
+{{#set: produced by=3.1.27.1-RXN}}

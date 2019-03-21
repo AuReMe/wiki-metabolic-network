@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-499 CPD-499] ==
+* smiles:
+** CC(O)(CCOP(=O)([O-])[O-])CC(=O)[O-]
+* common name:
+** (R)-mevalonate 5-phosphate
+* inchi key:
+** InChIKey=OKZYCXHTTZZYSK-ZCFIWIBFSA-K
+* molecular weight:
+** 225.115    
+* Synonym(s):
+** (R)-5-phosphomevalonic acid
+** mevalonate-5P
+** (R)-5-phosphomevalonate
+** (R)-mevalonic acid 5-phosphate
+** mevalonate-P
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[MEVALONATE-KINASE-RXN]]
+== External links  ==
+* CAS : 73566-35-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244548 25244548]
+* HMDB : HMDB01343
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01107 C01107]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58146 58146]
+* METABOLIGHTS : MTBLC58146
+{{#set: smiles=CC(O)(CCOP(=O)([O-])[O-])CC(=O)[O-]}}
+{{#set: common name=(R)-mevalonate 5-phosphate}}
+{{#set: inchi key=InChIKey=OKZYCXHTTZZYSK-ZCFIWIBFSA-K}}
+{{#set: molecular weight=225.115    }}
+{{#set: common name=(R)-5-phosphomevalonic acid|mevalonate-5P|(R)-5-phosphomevalonate|(R)-mevalonic acid 5-phosphate|mevalonate-P}}
+{{#set: reversible reaction associated=MEVALONATE-KINASE-RXN}}

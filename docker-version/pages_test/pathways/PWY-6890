@@ -1,0 +1,40 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6890 PWY-6890] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33630 TAX-33630]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis
+* Synonym(s):
+** HMP-PP biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PYRIMSYN3-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_16224]]
+*** [[Tiso_gene_17192]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRIMSYN1-RXN PYRIMSYN1-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6890 PWY-6890]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-33630}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis}}
+{{#set: common name=HMP-PP biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

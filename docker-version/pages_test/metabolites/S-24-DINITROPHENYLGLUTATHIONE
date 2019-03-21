@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-24-DINITROPHENYLGLUTATHIONE S-24-DINITROPHENYLGLUTATHIONE] ==
+* smiles:
+** C(=O)([O-])CNC(=O)C(NC(=O)CCC([N+])C(=O)[O-])CSC1(C=CC([N+]([O-])=O)=CC([N+]([O-])=O)=1)
+* common name:
+** 2,4-dinitrophenyl-S-glutathione
+* inchi key:
+** InChIKey=FXEUKVKGTKDDIQ-UWVGGRQHSA-M
+* molecular weight:
+** 472.406    
+* Synonym(s):
+** DNP-SG
+** S-(2,4-dinitrophenyl)glutathione
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[GST-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25322932 25322932]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=8927 8927]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11175 C11175]
+{{#set: smiles=C(=O)([O-])CNC(=O)C(NC(=O)CCC([N+])C(=O)[O-])CSC1(C=CC([N+]([O-])=O)=CC([N+]([O-])=O)=1)}}
+{{#set: common name=2,4-dinitrophenyl-S-glutathione}}
+{{#set: inchi key=InChIKey=FXEUKVKGTKDDIQ-UWVGGRQHSA-M}}
+{{#set: molecular weight=472.406    }}
+{{#set: common name=DNP-SG|S-(2,4-dinitrophenyl)glutathione}}
+{{#set: reversible reaction associated=GST-RXN}}

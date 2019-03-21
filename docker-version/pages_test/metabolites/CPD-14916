@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14916 CPD-14916] ==
+* smiles:
+** CCCCCC(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)O
+* common name:
+** (R)-3-hydroxyoctanoyl-CoA
+* inchi key:
+** InChIKey=ATVGTMKWKDUCMS-JWBYWSJJSA-J
+* molecular weight:
+** 905.7    
+* Synonym(s):
+** (R)-3-hydroxyoctanoyl-CoA
+** (3R)-3-hydroxyoctanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14275]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14276]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173319 46173319]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=74279 74279]
+* BIGG : 3hocoa
+{{#set: smiles=CCCCCC(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)O}}
+{{#set: common name=(R)-3-hydroxyoctanoyl-CoA}}
+{{#set: inchi key=InChIKey=ATVGTMKWKDUCMS-JWBYWSJJSA-J}}
+{{#set: molecular weight=905.7    }}
+{{#set: common name=(R)-3-hydroxyoctanoyl-CoA|(3R)-3-hydroxyoctanoyl-CoA}}
+{{#set: consumed by=RXN-14275}}
+{{#set: produced by=RXN-14276}}

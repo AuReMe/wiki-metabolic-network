@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4902 ==
+* right end position:
+** 14018
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11649
+* centisome position:
+** 82.029434    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: right end position=14018}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11649}}
+{{#set: centisome position=82.029434    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN|RXN-8443}}
+{{#set: pathway associated=PWY-5381}}

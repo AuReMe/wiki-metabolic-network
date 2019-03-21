@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Cytochromes-C-Reduced Cytochromes-C-Reduced] ==
+* common name:
+** a reduced c-type cytochrome
+* Synonym(s):
+** a reduced cytochrome c protein
+** a ferrocytochrome c
+** a reduced cytochrome c
+** a ferro c-type cytochrome c
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15830]]
+* [[CYTOCHROME-C-PEROXIDASE-RXN]]
+* [[CYTOCHROME-C-OXIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14107]]
+* [[RXN-15815]]
+* [[RXN-12876]]
+* [[GALACTONOLACTONE-DEHYDROGENASE-RXN]]
+* [[RXN-15816]]
+== Reaction(s) of unknown directionality ==
+* [[1.10.2.2-RXN]]
+* [[RXN-13183]]
+== External links  ==
+{{#set: common name=a reduced c-type cytochrome}}
+{{#set: common name=a reduced cytochrome c protein|a ferrocytochrome c|a reduced cytochrome c|a ferro c-type cytochrome c}}
+{{#set: consumed by=RXN-15830|CYTOCHROME-C-PEROXIDASE-RXN|CYTOCHROME-C-OXIDASE-RXN}}
+{{#set: produced by=RXN-14107|RXN-15815|RXN-12876|GALACTONOLACTONE-DEHYDROGENASE-RXN|RXN-15816}}
+{{#set: reversible reaction associated=1.10.2.2-RXN|RXN-13183}}

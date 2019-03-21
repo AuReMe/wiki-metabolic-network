@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15285 ==
+* right end position:
+** 8538
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5892
+* centisome position:
+** 62.854706    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-1281]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8538}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5892}}
+{{#set: centisome position=62.854706    }}
+{{#set: reaction associated=RXN0-1281}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-MYO-INOSITOL-4-PHOSPHATE D-MYO-INOSITOL-4-PHOSPHATE] ==
+* smiles:
+** C1(O)(C(O)C(O)C(OP(=O)([O-])[O-])C(O)C(O)1)
+* common name:
+** 1D-myo-inositol 4-monophosphate
+* inchi key:
+** InChIKey=INAPMGSXUVUWAF-CNWJWELYSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** D-myo-inositol 4-phosphate
+** D-myo-inositol 4-monophosphate
+** inositol 4-phosphate
+** Ins(4)P1
+** Ins(4)P
+** Ins4P
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10952]]
+== Reaction(s) known to produce the compound ==
+* [[3.1.3.57-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 46495-39-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200523 25200523]
+* HMDB : HMDB01313
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03546 C03546]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58469 58469]
+* METABOLIGHTS : MTBLC58469
+{{#set: smiles=C1(O)(C(O)C(O)C(OP(=O)([O-])[O-])C(O)C(O)1)}}
+{{#set: common name=1D-myo-inositol 4-monophosphate}}
+{{#set: inchi key=InChIKey=INAPMGSXUVUWAF-CNWJWELYSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=D-myo-inositol 4-phosphate|D-myo-inositol 4-monophosphate|inositol 4-phosphate|Ins(4)P1|Ins(4)P|Ins4P}}
+{{#set: consumed by=RXN-10952}}
+{{#set: produced by=3.1.3.57-RXN}}

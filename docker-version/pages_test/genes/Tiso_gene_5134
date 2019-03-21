@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5134 ==
+* right end position:
+** 13861
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11574
+* centisome position:
+** 83.48843    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7375]]
+== External links  ==
+{{#set: right end position=13861}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11574}}
+{{#set: centisome position=83.48843    }}
+{{#set: reaction associated=MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-7375}}

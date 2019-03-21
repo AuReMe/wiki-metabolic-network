@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-CD-Apo-SP-Complex S-CD-Apo-SP-Complex] ==
+* common name:
+** an S-sulfanyl-[cysteine desulfurase]-[disordered-form scaffold protein] complex
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14384]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14381]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an S-sulfanyl-[cysteine desulfurase]-[disordered-form scaffold protein] complex}}
+{{#set: consumed by=RXN-14384}}
+{{#set: produced by=RXN-14381}}

@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLYSIS-TCA-GLYOX-BYPASS GLYCOLYSIS-TCA-GLYOX-BYPASS] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''5''' reactions in the full pathway
+* [[GLYCOLYSIS]]
+** 0 associated gene:
+* [[PYRUVDEH-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_2515]]
+*** [[Tiso_gene_6983]]
+*** [[Tiso_gene_17539]]
+*** [[Tiso_gene_2693]]
+*** [[Tiso_gene_9330]]
+*** [[Tiso_gene_7519]]
+*** [[Tiso_gene_19780]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[TCA-GLYOX-BYPASS]]
+** 0 associated gene:
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=GLYCOLYSIS-TCA-GLYOX-BYPASS GLYCOLYSIS-TCA-GLYOX-BYPASS]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass}}
+{{#set: reaction found=3}}
+{{#set: total reaction=5}}
+{{#set: completion rate=60.0}}

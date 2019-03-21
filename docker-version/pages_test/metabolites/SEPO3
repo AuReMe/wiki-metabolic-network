@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SEPO3 SEPO3] ==
+* smiles:
+** [O-]P([O-])(O)=[Se]
+* common name:
+** selenophosphate
+* inchi key:
+** InChIKey=JRPHGDYSKGJTKZ-UHFFFAOYSA-L
+* molecular weight:
+** 158.94    
+* Synonym(s):
+** SePO3
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10039]]
+== Reaction(s) known to produce the compound ==
+* [[2.7.9.3-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 16561-29-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244868 25244868]
+* HMDB : HMDB03840
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05172 C05172]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58618 58618]
+* BIGG : selnp
+{{#set: smiles=[O-]P([O-])(O)=[Se]}}
+{{#set: common name=selenophosphate}}
+{{#set: inchi key=InChIKey=JRPHGDYSKGJTKZ-UHFFFAOYSA-L}}
+{{#set: molecular weight=158.94    }}
+{{#set: common name=SePO3}}
+{{#set: consumed by=RXN-10039}}
+{{#set: produced by=2.7.9.3-RXN}}

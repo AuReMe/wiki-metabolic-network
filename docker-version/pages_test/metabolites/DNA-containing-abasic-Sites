@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DNA-containing-abasic-Sites DNA-containing-abasic-Sites] ==
+* common name:
+** a DNA containing an apurinic/apyrimidinic site
+* Synonym(s):
+** an AP (apurinic or apyrimidinic) site
+** a DNA containing an abasic site
+** a DNA containing an AP site
+
+== Reaction(s) known to consume the compound ==
+* [[4.2.99.18-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3.2.2.21-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a DNA containing an apurinic/apyrimidinic site}}
+{{#set: common name=an AP (apurinic or apyrimidinic) site|a DNA containing an abasic site|a DNA containing an AP site}}
+{{#set: consumed by=4.2.99.18-RXN}}
+{{#set: produced by=3.2.2.21-RXN}}

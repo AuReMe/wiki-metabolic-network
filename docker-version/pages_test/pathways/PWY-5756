@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5756 PWY-5756] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** saponin biosynthesis II
+* Synonym(s):
+** oleanolate glucuronide triterpene saponin biosynthesis
+** oleanolate glucuronide biosynthesis
+** triterpene saponin biosynthesis II
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''8''' reactions in the full pathway
+* [[RXN-9000]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14140]]
+*** [[Tiso_gene_14141]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9001 RXN-9001]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9002 RXN-9002]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9004 RXN-9004]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9005 RXN-9005]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9006 RXN-9006]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9007 RXN-9007]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9008 RXN-9008]
+== External links  ==
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=saponin biosynthesis II}}
+{{#set: common name=oleanolate glucuronide triterpene saponin biosynthesis|oleanolate glucuronide biosynthesis|triterpene saponin biosynthesis II}}
+{{#set: reaction found=1}}
+{{#set: total reaction=8}}
+{{#set: completion rate=13.0}}

@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13755 CPD-13755] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CCC1(C(O)CCC2(C)(C(=O)CC[CH]12)))COP(=O)(OP(=O)(OCC3(C(OP([O-])(=O)[O-])C(O)C(O3)N5(C4(=C(C(N)=NC=N4)N=C5))))[O-])[O-]
+* common name:
+** 5-hydroxy-3-[(3aS,4S,5R,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA
+* inchi key:
+** InChIKey=AKNIQSRWPADUMX-ODLRQIBISA-J
+* molecular weight:
+** 985.786    
+* Synonym(s):
+** 5OH-HIP-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12747]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=86290216 86290216]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=83738 83738]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CCC1(C(O)CCC2(C)(C(=O)CC[CH]12)))COP(=O)(OP(=O)(OCC3(C(OP([O-])(=O)[O-])C(O)C(O3)N5(C4(=C(C(N)=NC=N4)N=C5))))[O-])[O-]}}
+{{#set: common name=5-hydroxy-3-[(3aS,4S,5R,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA}}
+{{#set: inchi key=InChIKey=AKNIQSRWPADUMX-ODLRQIBISA-J}}
+{{#set: molecular weight=985.786    }}
+{{#set: common name=5OH-HIP-CoA}}
+{{#set: produced by=RXN-12747}}

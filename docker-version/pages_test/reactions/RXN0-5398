@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5398 RXN0-5398] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.70 EC-4.2.1.70]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[URACIL]][c] '''+''' 1 [[CPD-15317]][c] '''<=>''' 1 [[PSEUDOURIDINE-5-P]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 uracil[c] '''+''' 1 D-ribofuranose 5-phosphate[c] '''<=>''' 1 pseudouridine 5'-phosphate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6094]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6019]], pseudouridine degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6019 PWY-6019]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18337 18337]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01055 R01055]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JWF1 Q9JWF1]
+** [http://www.uniprot.org/uniprot/Q9JTX5 Q9JTX5]
+** [http://www.uniprot.org/uniprot/Q9PPJ9 Q9PPJ9]
+** [http://www.uniprot.org/uniprot/Q9CGH0 Q9CGH0]
+** [http://www.uniprot.org/uniprot/Q9CI80 Q9CI80]
+** [http://www.uniprot.org/uniprot/Q9JX44 Q9JX44]
+** [http://www.uniprot.org/uniprot/Q9V1A5 Q9V1A5]
+** [http://www.uniprot.org/uniprot/Q9PP96 Q9PP96]
+** [http://www.uniprot.org/uniprot/Q9PN18 Q9PN18]
+** [http://www.uniprot.org/uniprot/Q9PJ89 Q9PJ89]
+** [http://www.uniprot.org/uniprot/Q9PNJ2 Q9PNJ2]
+** [http://www.uniprot.org/uniprot/Q9PLW9 Q9PLW9]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-4.2.1.70}}
+{{#set: gene associated=Tiso_gene_6094}}
+{{#set: in pathway=PWY-6019}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,58 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4211 CPD-4211] ==
+* smiles:
+** CC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]
+* common name:
+** dimethylallyl diphosphate
+* inchi key:
+** InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
+* molecular weight:
+** 243.069    
+* Synonym(s):
+** dimethylallyl-diphosphate
+** prenyl-diphosphate
+** &delta;-prenyl diphosphate
+** &delta;2-isopentenyl-diphosphate
+** 2-isopentenyl diphosphate
+** prenyl diphosphate
+** DMAPP
+** DPP
+** di-CH3-allyl-PPi
+** dimethylallyl-PP
+** dimethylallyl-PPi
+** DMPP
+** dimethylallyl pyrophosphate
+
+== Reaction(s) known to consume the compound ==
+* [[GPPS]]
+* [[RXN-4305]]
+* [[RXN-4303]]
+* [[RXN0-6274]]
+== Reaction(s) known to produce the compound ==
+* [[IDS2]]
+* [[R07219]]
+* [[RXN0-884]]
+== Reaction(s) of unknown directionality ==
+* [[IPPISOM-RXN]]
+* [[GPPSYN-RXN]]
+== External links  ==
+* CAS : 358-71-4
+* BIGG : dmpp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15983958 15983958]
+* HMDB : HMDB01120
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00235 C00235]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13115336.html 13115336]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57623 57623]
+* METABOLIGHTS : MTBLC57623
+{{#set: smiles=CC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]}}
+{{#set: common name=dimethylallyl diphosphate}}
+{{#set: inchi key=InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K}}
+{{#set: molecular weight=243.069    }}
+{{#set: common name=dimethylallyl-diphosphate|prenyl-diphosphate|&delta;-prenyl diphosphate|&delta;2-isopentenyl-diphosphate|2-isopentenyl diphosphate|prenyl diphosphate|DMAPP|DPP|di-CH3-allyl-PPi|dimethylallyl-PP|dimethylallyl-PPi|DMPP|dimethylallyl pyrophosphate}}
+{{#set: consumed by=GPPS|RXN-4305|RXN-4303|RXN0-6274}}
+{{#set: produced by=IDS2|R07219|RXN0-884}}
+{{#set: reversible reaction associated=IPPISOM-RXN|GPPSYN-RXN}}

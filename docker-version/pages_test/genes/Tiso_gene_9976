@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9976 ==
+* right end position:
+** 8794
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7799
+* centisome position:
+** 87.21762    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8794}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7799}}
+{{#set: centisome position=87.21762    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

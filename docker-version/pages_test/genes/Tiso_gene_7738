@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7738 ==
+* right end position:
+** 3789
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2525
+* centisome position:
+** 23.24404    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.2.21-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5189]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3789}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2525}}
+{{#set: centisome position=23.24404    }}
+{{#set: reaction associated=3.2.2.21-RXN|RXN0-5189}}

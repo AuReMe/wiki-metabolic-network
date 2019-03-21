@@ -1,0 +1,47 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY1F-FLAVSYN PWY1F-FLAVSYN] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** flavonoid biosynthesis
+* Synonym(s):
+** flavonoid biosynthesis
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[4-COUMARATE--COA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12275]]
+*** [[Tiso_gene_14183]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[APIGNAR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13414]]
+*** [[Tiso_gene_9838]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[NARINGENIN-3-DIOXYGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-3142]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2613]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=NARINGENIN-CHALCONE-SYNTHASE-RXN NARINGENIN-CHALCONE-SYNTHASE-RXN]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY1F-FLAVSYN PWY1F-FLAVSYN]
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=flavonoid biosynthesis}}
+{{#set: common name=flavonoid biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

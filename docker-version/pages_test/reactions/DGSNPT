@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DGSNPT DGSNPT] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ATP:deoxynucleoside 5'-phosphotransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ATP]][c] '''+''' 1.0 [[DEOXYGUANOSINE]][c] '''=>''' 1.0 [[DGMP]][c] '''+''' 1.0 [[PROTON]][c] '''+''' 1.0 [[ADP]][c]
+* With common name(s):
+** 1.0 ATP[c] '''+''' 1.0 2'-deoxyguanosine[c] '''=>''' 1.0 dGMP[c] '''+''' 1.0 H+[c] '''+''' 1.0 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_416]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ATP:deoxynucleoside 5'-phosphotransferase}}
+{{#set: gene associated=Tiso_gene_416}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

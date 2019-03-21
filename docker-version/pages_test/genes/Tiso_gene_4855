@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4855 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5408]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-4702]]
+* [[PWY-2301]]
+== External links  ==
+{{#set: reaction associated=MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN|RXN0-5408}}
+{{#set: pathway associated=PWY-4702|PWY-2301}}

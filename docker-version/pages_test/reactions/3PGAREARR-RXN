@@ -1,0 +1,187 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3PGAREARR-RXN 3PGAREARR-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** phosphoglycerate_mutase
+** bisphosphoglycerate-dependent_phosphoglycerate_mutase
+** ORF
+** plastid_phosphoglycerate_mutase_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/5.4.2.12 EC-5.4.2.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[2-PG]][c] '''<=>''' 1 [[G3P]][c]
+* With common name(s):
+** 1 2-phospho-D-glycerate[c] '''<=>''' 1 3-phospho-D-glycerate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15048]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_7201]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9922]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2841]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14530]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16754]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2365]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16271]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5468]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_20311]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_14664]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15391]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_14212]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_10516]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_9923]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2667]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-1042]], glycolysis IV (plant cytosol): [http://metacyc.org/META/NEW-IMAGE?object=PWY-1042 PWY-1042]
+** '''9''' reactions found over '''10''' reactions in the full pathway
+* [[P341-PWY]], glycolysis V (Pyrococcus): [http://metacyc.org/META/NEW-IMAGE?object=P341-PWY P341-PWY]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-2221]], Entner-Doudoroff pathway III (semi-phosphorylative): [http://metacyc.org/META/NEW-IMAGE?object=PWY-2221 PWY-2221]
+** '''5''' reactions found over '''9''' reactions in the full pathway
+* [[GLUCONEO-PWY]], gluconeogenesis I: [http://metacyc.org/META/NEW-IMAGE?object=GLUCONEO-PWY GLUCONEO-PWY]
+** '''13''' reactions found over '''13''' reactions in the full pathway
+* [[GLYCOLYSIS]], glycolysis I (from glucose 6-phosphate): [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLYSIS GLYCOLYSIS]
+** '''12''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-6901]], superpathway of glucose and xylose degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6901 PWY-6901]
+** '''8''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-7218]], photosynthetic 3-hydroxybutanoate biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7218 PWY-7218]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+* [[P124-PWY]], Bifidobacterium shunt: [http://metacyc.org/META/NEW-IMAGE?object=P124-PWY P124-PWY]
+** '''11''' reactions found over '''15''' reactions in the full pathway
+* [[PWY-6886]], 1-butanol autotrophic biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6886 PWY-6886]
+** '''8''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-5723]], Rubisco shunt: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5723 PWY-5723]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-6142]], gluconeogenesis II (Methanobacterium thermoautotrophicum): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6142 PWY-6142]
+** '''8''' reactions found over '''14''' reactions in the full pathway
+* [[PWY-5484]], glycolysis II (from fructose 6-phosphate): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5484 PWY-5484]
+** '''11''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-7124]], ethylene biosynthesis V (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7124 PWY-7124]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-7003]], glycerol degradation to butanol: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7003 PWY-7003]
+** '''8''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15901 15901]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01518 R01518]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P30792 P30792]
+** [http://www.uniprot.org/uniprot/P52832 P52832]
+** [http://www.uniprot.org/uniprot/P44865 P44865]
+** [http://www.uniprot.org/uniprot/P30798 P30798]
+** [http://www.uniprot.org/uniprot/P62707 P62707]
+** [http://www.uniprot.org/uniprot/P39773 P39773]
+** [http://www.uniprot.org/uniprot/P47669 P47669]
+** [http://www.uniprot.org/uniprot/Q9CEU3 Q9CEU3]
+** [http://www.uniprot.org/uniprot/P56196 P56196]
+** [http://www.uniprot.org/uniprot/Q9JTF2 Q9JTF2]
+** [http://www.uniprot.org/uniprot/Q9PI71 Q9PI71]
+** [http://www.uniprot.org/uniprot/Q9CIM0 Q9CIM0]
+** [http://www.uniprot.org/uniprot/P00950 P00950]
+** [http://www.uniprot.org/uniprot/P18669 P18669]
+** [http://www.uniprot.org/uniprot/P15259 P15259]
+** [http://www.uniprot.org/uniprot/P16290 P16290]
+** [http://www.uniprot.org/uniprot/P35167 P35167]
+** [http://www.uniprot.org/uniprot/P33158 P33158]
+** [http://www.uniprot.org/uniprot/Q06464 Q06464]
+** [http://www.uniprot.org/uniprot/P36623 P36623]
+** [http://www.uniprot.org/uniprot/P35494 P35494]
+** [http://www.uniprot.org/uniprot/P37689 P37689]
+** [http://www.uniprot.org/uniprot/P35493 P35493]
+** [http://www.uniprot.org/uniprot/Q9VAN7 Q9VAN7]
+** [http://www.uniprot.org/uniprot/Q42908 Q42908]
+** [http://www.uniprot.org/uniprot/Q12326 Q12326]
+** [http://www.uniprot.org/uniprot/P53531 P53531]
+** [http://www.uniprot.org/uniprot/P51379 P51379]
+** [http://www.uniprot.org/uniprot/P75167 P75167]
+** [http://www.uniprot.org/uniprot/P72649 P72649]
+** [http://www.uniprot.org/uniprot/P74507 P74507]
+** [http://www.uniprot.org/uniprot/Q49006 Q49006]
+** [http://www.uniprot.org/uniprot/O24246 O24246]
+** [http://www.uniprot.org/uniprot/Q9X519 Q9X519]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=phosphoglycerate_mutase}}
+{{#set: common name=bisphosphoglycerate-dependent_phosphoglycerate_mutase}}
+{{#set: common name=ORF}}
+{{#set: common name=plastid_phosphoglycerate_mutase_protein}}
+{{#set: ec number=EC-5.4.2.12}}
+{{#set: gene associated=Tiso_gene_15048|Tiso_gene_7201|Tiso_gene_9922|Tiso_gene_2841|Tiso_gene_14530|Tiso_gene_16754|Tiso_gene_2365|Tiso_gene_16271|Tiso_gene_5468|Tiso_gene_20311|Tiso_gene_14664|Tiso_gene_15391|Tiso_gene_14212|Tiso_gene_10516|Tiso_gene_9923|Tiso_gene_2667}}
+{{#set: in pathway=PWY-1042|P341-PWY|PWY-2221|GLUCONEO-PWY|GLYCOLYSIS|PWY-6901|PWY-7218|P124-PWY|PWY-6886|PWY-5723|PWY-6142|PWY-5484|PWY-7124|PWY-7003}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

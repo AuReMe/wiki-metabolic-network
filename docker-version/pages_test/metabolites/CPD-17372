@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17372 CPD-17372] ==
+* smiles:
+** C(O)CCCCCCCC=CCCCCCCCC(=O)OCC(COP([O-])([O-])=O)O
+* common name:
+** 1-[18-hydroxyoleyl]-2-lyso-phosphatidate
+* inchi key:
+** InChIKey=GFJKJLHWWZXDAU-KXFGNQBASA-L
+* molecular weight:
+** 450.508    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16118]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91820233 91820233]
+{{#set: smiles=C(O)CCCCCCCC=CCCCCCCCC(=O)OCC(COP([O-])([O-])=O)O}}
+{{#set: common name=1-[18-hydroxyoleyl]-2-lyso-phosphatidate}}
+{{#set: inchi key=InChIKey=GFJKJLHWWZXDAU-KXFGNQBASA-L}}
+{{#set: molecular weight=450.508    }}
+{{#set: consumed by=RXN-16118}}

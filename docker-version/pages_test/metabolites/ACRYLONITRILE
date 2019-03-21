@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACRYLONITRILE ACRYLONITRILE] ==
+* smiles:
+** C=CC#N
+* common name:
+** acrylonitrile
+* inchi key:
+** InChIKey=NLHHRLWOUZZQLW-UHFFFAOYSA-N
+* molecular weight:
+** 53.063    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[R310-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7855 7855]
+* CAS : 107-13-1
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=6362 6362]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01998 C01998]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7567.html 7567]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28217 28217]
+{{#set: smiles=C=CC#N}}
+{{#set: common name=acrylonitrile}}
+{{#set: inchi key=InChIKey=NLHHRLWOUZZQLW-UHFFFAOYSA-N}}
+{{#set: molecular weight=53.063    }}
+{{#set: consumed by=R310-RXN}}

@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18257 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-1104]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-1143]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-3422]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7498]]
+* [[PWY-1121]]
+* [[PWY-5168]]
+* [[PWY-7186]]
+* [[PWY-2181]]
+* [[PWY-361]]
+== External links  ==
+{{#set: reaction associated=RXN-1104|RXN-1143|RXN-3422}}
+{{#set: pathway associated=PWY-7498|PWY-1121|PWY-5168|PWY-7186|PWY-2181|PWY-361}}

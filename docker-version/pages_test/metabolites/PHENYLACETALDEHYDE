@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHENYLACETALDEHYDE PHENYLACETALDEHYDE] ==
+* smiles:
+** [CH](=O)CC1(=CC=CC=C1)
+* common name:
+** phenylacetaldehyde
+* inchi key:
+** InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
+* molecular weight:
+** 120.151    
+* Synonym(s):
+** 2-phenylacetaldehyde
+** PAA
+** &alpha;-tolualdehyde
+** hyacinthin
+** phenylethanal
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7700]]
+== Reaction(s) known to produce the compound ==
+* [[AMINEPHEN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[PHENDEHYD-RXN]]
+== External links  ==
+* CAS : 122-78-1
+* BIGG : pacald
+* DRUGBANK : DB02178
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=998 998]
+* HMDB : HMDB06236
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00601 C00601]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13876539.html 13876539]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16424 16424]
+* METABOLIGHTS : MTBLC16424
+{{#set: smiles=[CH](=O)CC1(=CC=CC=C1)}}
+{{#set: common name=phenylacetaldehyde}}
+{{#set: inchi key=InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N}}
+{{#set: molecular weight=120.151    }}
+{{#set: common name=2-phenylacetaldehyde|PAA|&alpha;-tolualdehyde|hyacinthin|phenylethanal}}
+{{#set: consumed by=RXN-7700}}
+{{#set: produced by=AMINEPHEN-RXN}}
+{{#set: reversible reaction associated=PHENDEHYD-RXN}}

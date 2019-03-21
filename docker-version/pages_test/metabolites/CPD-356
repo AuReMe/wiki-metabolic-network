@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-356 CPD-356] ==
+* smiles:
+** C(O)C1(OC(=O)C(O)C(O)1)
+* common name:
+** D-arabinono-1,4-lactone
+* inchi key:
+** InChIKey=CUOKHACJLGPRHD-JJYYJPOSSA-N
+* molecular weight:
+** 148.115    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[1.1.3.37-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=17723 17723]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.16751.html 16751]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16292 16292]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00652 C00652]
+{{#set: smiles=C(O)C1(OC(=O)C(O)C(O)1)}}
+{{#set: common name=D-arabinono-1,4-lactone}}
+{{#set: inchi key=InChIKey=CUOKHACJLGPRHD-JJYYJPOSSA-N}}
+{{#set: molecular weight=148.115    }}
+{{#set: consumed by=1.1.3.37-RXN}}

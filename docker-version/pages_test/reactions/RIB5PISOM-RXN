@@ -1,0 +1,74 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RIB5PISOM-RXN RIB5PISOM-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/5.3.1.6 EC-5.3.1.6]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[RIBOSE-5P]][c] '''<=>''' 1 [[RIBULOSE-5P]][c]
+* With common name(s):
+** 1 D-ribose 5-phosphate[c] '''<=>''' 1 D-ribulose 5-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18217]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[P124-PWY]], Bifidobacterium shunt: [http://metacyc.org/META/NEW-IMAGE?object=P124-PWY P124-PWY]
+** '''11''' reactions found over '''15''' reactions in the full pathway
+* [[CALVIN-PWY]], Calvin-Benson-Bassham cycle: [http://metacyc.org/META/NEW-IMAGE?object=CALVIN-PWY CALVIN-PWY]
+** '''13''' reactions found over '''13''' reactions in the full pathway
+* [[PWY-5723]], Rubisco shunt: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5723 PWY-5723]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-1861]], formaldehyde assimilation II (RuMP Cycle): [http://metacyc.org/META/NEW-IMAGE?object=PWY-1861 PWY-1861]
+** '''7''' reactions found over '''9''' reactions in the full pathway
+* [[P185-PWY]], formaldehyde assimilation III (dihydroxyacetone cycle): [http://metacyc.org/META/NEW-IMAGE?object=P185-PWY P185-PWY]
+** '''11''' reactions found over '''12''' reactions in the full pathway
+* [[NONOXIPENT-PWY]], pentose phosphate pathway (non-oxidative branch): [http://metacyc.org/META/NEW-IMAGE?object=NONOXIPENT-PWY NONOXIPENT-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14657 14657]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01056 R01056]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P0A7Z0 P0A7Z0]
+** [http://www.uniprot.org/uniprot/Q9CDI7 Q9CDI7]
+** [http://www.uniprot.org/uniprot/P44725 P44725]
+** [http://www.uniprot.org/uniprot/Q58998 Q58998]
+** [http://www.uniprot.org/uniprot/Q9JTM5 Q9JTM5]
+** [http://www.uniprot.org/uniprot/Q9PP08 Q9PP08]
+** [http://www.uniprot.org/uniprot/P37351 P37351]
+** [http://www.uniprot.org/uniprot/P74234 P74234]
+** [http://www.uniprot.org/uniprot/Q55766 Q55766]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-5.3.1.6}}
+{{#set: gene associated=Tiso_gene_18217}}
+{{#set: in pathway=P124-PWY|CALVIN-PWY|PWY-5723|PWY-1861|P185-PWY|NONOXIPENT-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=manual-primary_network|orthology-athaliana|annotation-in-silico_annotation|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7025 ==
+* right end position:
+** 10277
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 9076
+* centisome position:
+** 78.140335    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-4961]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10277}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=9076}}
+{{#set: centisome position=78.140335    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN|RXN0-4961}}

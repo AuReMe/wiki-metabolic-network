@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROLIPOAMIDE DIHYDROLIPOAMIDE] ==
+* smiles:
+** C(CCC(N)=O)CC(S)CCS
+* common name:
+** dihydrolipoamide
+* inchi key:
+** InChIKey=VLYUGYAKYZETRF-SSDOTTSWSA-N
+* molecular weight:
+** 207.348    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[DIHYDLIPACETRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[DHRT_ibcoa]]
+* [[DHRT_2mbcoa]]
+== Reaction(s) of unknown directionality ==
+* [[AKGDHe2r]]
+== External links  ==
+* DRUGBANK : DB08120
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=445160 445160]
+* HMDB : HMDB00985
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00579 C00579]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.392881.html 392881]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=43711 43711]
+* METABOLIGHTS : MTBLC43711
+{{#set: smiles=C(CCC(N)=O)CC(S)CCS}}
+{{#set: common name=dihydrolipoamide}}
+{{#set: inchi key=InChIKey=VLYUGYAKYZETRF-SSDOTTSWSA-N}}
+{{#set: molecular weight=207.348    }}
+{{#set: consumed by=DIHYDLIPACETRANS-RXN}}
+{{#set: produced by=DHRT_ibcoa|DHRT_2mbcoa}}
+{{#set: reversible reaction associated=AKGDHe2r}}

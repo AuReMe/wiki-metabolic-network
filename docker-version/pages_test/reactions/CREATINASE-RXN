@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CREATINASE-RXN CREATINASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.3.3 EC-3.5.3.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CREATINE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[SARCOSINE]][c] '''+''' 1 [[UREA]][c]
+* With common name(s):
+** 1 creatine[c] '''+''' 1 H2O[c] '''=>''' 1 sarcosine[c] '''+''' 1 urea[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14456]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[CRNFORCAT-PWY]], creatinine degradation I: [http://metacyc.org/META/NEW-IMAGE?object=CRNFORCAT-PWY CRNFORCAT-PWY]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22456 22456]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01566 R01566]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P38487 P38487]
+** [http://www.uniprot.org/uniprot/P19213 P19213]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.5.3.3}}
+{{#set: gene associated=Tiso_gene_14456}}
+{{#set: in pathway=CRNFORCAT-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

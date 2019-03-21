@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18472 ==
+* right end position:
+** 2803
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1067
+* centisome position:
+** 35.50749    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.3.16-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2803}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1067}}
+{{#set: centisome position=35.50749    }}
+{{#set: reaction associated=3.1.3.16-RXN}}

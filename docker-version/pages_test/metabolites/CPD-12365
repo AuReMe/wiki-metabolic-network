@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12365 CPD-12365] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(CC(O)1)N3(C(=O)NC2(C(=O)NC(N)=NC=23)))
+* common name:
+** 8-oxo-dGMP
+* inchi key:
+** InChIKey=AQIVLFLYHYFRKU-VPENINKCSA-L
+* molecular weight:
+** 361.207    
+* Synonym(s):
+** 8-oxo-7,8-dihydro-2'-dGMP
+** 8-oxo-7,8-dihydro-2'-deoxyguanosine 5'-monophosphate
+** 8-oxo-deoxyguanosine-monophosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14205]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173535 46173535]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=63224 63224]
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(CC(O)1)N3(C(=O)NC2(C(=O)NC(N)=NC=23)))}}
+{{#set: common name=8-oxo-dGMP}}
+{{#set: inchi key=InChIKey=AQIVLFLYHYFRKU-VPENINKCSA-L}}
+{{#set: molecular weight=361.207    }}
+{{#set: common name=8-oxo-7,8-dihydro-2'-dGMP|8-oxo-7,8-dihydro-2'-deoxyguanosine 5'-monophosphate|8-oxo-deoxyguanosine-monophosphate}}
+{{#set: reversible reaction associated=RXN-14205}}

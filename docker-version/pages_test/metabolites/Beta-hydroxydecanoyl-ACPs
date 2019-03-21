@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Beta-hydroxydecanoyl-ACPs Beta-hydroxydecanoyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxydecanoyl-[acp]
+* Synonym(s):
+** an (R)-3-hydroxydecanoyl-[acyl-carrier protein]
+** a &beta;-hydroxydecanoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9655]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9528]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxydecanoyl-[acp]}}
+{{#set: common name=an (R)-3-hydroxydecanoyl-[acyl-carrier protein]|a &beta;-hydroxydecanoyl-[acp]}}
+{{#set: consumed by=RXN-9655}}
+{{#set: produced by=RXN-9528}}

@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8160 ==
+* right end position:
+** 2159
+* transcription direction:
+** POSITIVE
+* left end position:
+** 207
+* centisome position:
+** 1.975945    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.117-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+== External links  ==
+{{#set: right end position=2159}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=207}}
+{{#set: centisome position=1.975945    }}
+{{#set: reaction associated=2.4.1.117-RXN}}
+{{#set: pathway associated=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}

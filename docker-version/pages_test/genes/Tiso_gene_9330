@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9330 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.8.1.4-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[2-KETO-ADIPATE-DEHYDROG-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[PYRUVDEH-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7716]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7719]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8629]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-1132]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLYCLEAV-PWY]]
+* [[PYRUVDEHYD-PWY]]
+* [[PWY-7218]]
+* [[PWY-7384]]
+* [[PWY-5046]]
+* [[PWY-6886]]
+* [[PWY-5537]]
+* [[LYSINE-DEG1-PWY]]
+* [[PWY-5652]]
+* [[GLYCOLYSIS-TCA-GLYOX-BYPASS]]
+* [[PWY-5482]]
+* [[PWY66-425]]
+* [[PWY-5084]]
+== External links  ==
+{{#set: reaction associated=1.8.1.4-RXN|2-KETO-ADIPATE-DEHYDROG-RXN|PYRUVDEH-RXN|RXN-7716|RXN-7719|RXN-8629|RXN0-1132}}
+{{#set: pathway associated=GLYCLEAV-PWY|PYRUVDEHYD-PWY|PWY-7218|PWY-7384|PWY-5046|PWY-6886|PWY-5537|LYSINE-DEG1-PWY|PWY-5652|GLYCOLYSIS-TCA-GLYOX-BYPASS|PWY-5482|PWY66-425|PWY-5084}}

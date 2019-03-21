@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3025 ==
+* right end position:
+** 11096
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9065
+* centisome position:
+** 43.87069    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PRPPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY0-662]]
+== External links  ==
+{{#set: right end position=11096}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9065}}
+{{#set: centisome position=43.87069    }}
+{{#set: reaction associated=PRPPSYN-RXN}}
+{{#set: pathway associated=PWY0-662}}

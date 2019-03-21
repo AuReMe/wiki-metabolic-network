@@ -1,0 +1,171 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P124-PWY P124-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** Bifidobacterium shunt
+* Synonym(s):
+** Bifidum fermentation
+** Bifidum pathway
+** fructose-6-phosphate pathway
+** Bifidum shunt
+** glucose fermentation to lactate (Bifidobacteria)
+
+== Reaction(s) found ==
+ '''11''' reactions found over '''15''' reactions in the full pathway
+* [[1TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[3PGAREARR-RXN]]
+** 16 associated gene(s):
+*** [[Tiso_gene_15048]]
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16754]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_5468]]
+*** [[Tiso_gene_20311]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_15391]]
+*** [[Tiso_gene_14212]]
+*** [[Tiso_gene_10516]]
+*** [[Tiso_gene_9923]]
+*** [[Tiso_gene_2667]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GAPOXNPHOSPHN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_235]]
+*** [[Tiso_gene_10646]]
+*** [[Tiso_gene_3344]]
+*** [[Tiso_gene_6766]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUCOKIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3107]]
+*** [[Tiso_gene_1303]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSGLYPHOS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_3526]]
+*** [[Tiso_gene_18264]]
+*** [[Tiso_gene_3527]]
+*** [[Tiso_gene_18263]]
+*** [[Tiso_gene_12104]]
+*** [[Tiso_gene_14642]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RIB5PISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18217]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[RIBULP3EPIM-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_19140]]
+*** [[Tiso_gene_4754]]
+*** [[Tiso_gene_10879]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[TRANSALDOL-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17601]]
+*** [[Tiso_gene_1831]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETATEKIN-RXN ACETATEKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=FRUCTOSE-6-PHOSPHATE-PHOSPHOKETOLASE-RXN FRUCTOSE-6-PHOSPHATE-PHOSPHOKETOLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=L-LACTATE-DEHYDROGENASE-RXN L-LACTATE-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHOKETOLASE-RXN PHOSPHOKETOLASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=Bifidobacterium shunt}}
+{{#set: common name=Bifidum fermentation|Bifidum pathway|fructose-6-phosphate pathway|Bifidum shunt|glucose fermentation to lactate (Bifidobacteria)}}
+{{#set: reaction found=11}}
+{{#set: total reaction=15}}
+{{#set: completion rate=73.0}}

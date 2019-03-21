@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-241 PWY-241] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** C4 photosynthetic carbon assimilation cycle, NADP-ME type
+* Synonym(s):
+** PCA cycle
+** C4 photosynthesis, NADP-ME type
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[MALIC-NADP-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12200]]
+*** [[Tiso_gene_6675]]
+*** [[Tiso_gene_12896]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-5224]]
+** 10 associated gene(s):
+*** [[Tiso_gene_18927]]
+*** [[Tiso_gene_6150]]
+*** [[Tiso_gene_1600]]
+*** [[Tiso_gene_3056]]
+*** [[Tiso_gene_9852]]
+*** [[Tiso_gene_17511]]
+*** [[Tiso_gene_19413]]
+*** [[Tiso_gene_20230]]
+*** [[Tiso_gene_19414]]
+*** [[Tiso_gene_7660]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MALATE-DEHYDROGENASE-NADP+-RXN MALATE-DEHYDROGENASE-NADP+-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PEPCARBOX-RXN PEPCARBOX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=C4 photosynthetic carbon assimilation cycle, NADP-ME type}}
+{{#set: common name=PCA cycle|C4 photosynthesis, NADP-ME type}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

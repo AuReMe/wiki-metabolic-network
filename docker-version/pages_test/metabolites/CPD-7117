@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7117 CPD-7117] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(O)C(O1)OC3(C(C2(C=C(O)C(O)=C(O)C=2))=[O+]C4(C(C=3)=C([O-])C=C([O-])C=4)))
+* common name:
+** delphinidin-3-O-&beta;-D-glucoside
+* inchi key:
+** InChIKey=XENHPQQLDPAYIJ-PEVLUNPASA-M
+* molecular weight:
+** 463.374    
+* Synonym(s):
+** delfinidin-3-O-glucoside
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8228]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPK12010278
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=102515359 102515359]
+* HMDB : HMDB37997
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=31463 31463]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C12138 C12138]
+{{#set: smiles=C(O)C1(C(O)C(O)C(O)C(O1)OC3(C(C2(C=C(O)C(O)=C(O)C=2))=[O+]C4(C(C=3)=C([O-])C=C([O-])C=4)))}}
+{{#set: common name=delphinidin-3-O-&beta;-D-glucoside}}
+{{#set: inchi key=InChIKey=XENHPQQLDPAYIJ-PEVLUNPASA-M}}
+{{#set: molecular weight=463.374    }}
+{{#set: common name=delfinidin-3-O-glucoside}}
+{{#set: consumed by=RXN-8228}}

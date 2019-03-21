@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=INOSINE INOSINE] ==
+* smiles:
+** C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC=NC=23)))
+* common name:
+** inosine
+* inchi key:
+** InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
+* molecular weight:
+** 268.229    
+* Synonym(s):
+** hypoxanthine-ribose
+** iso-prinosine
+** riboxine
+
+== Reaction(s) known to consume the compound ==
+* [[INOSINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[I5NT]]
+* [[RXN-7607]]
+* [[ADENODEAMIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[INOPHOSPHOR-RXN]]
+== External links  ==
+* CAS : 58-63-9
+* BIGG : ins
+* DRUGBANK : DB04335
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6021 6021]
+* HMDB : HMDB00195
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00294 C00294]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5799.html 5799]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17596 17596]
+* METABOLIGHTS : MTBLC17596
+{{#set: smiles=C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC=NC=23)))}}
+{{#set: common name=inosine}}
+{{#set: inchi key=InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N}}
+{{#set: molecular weight=268.229    }}
+{{#set: common name=hypoxanthine-ribose|iso-prinosine|riboxine}}
+{{#set: consumed by=INOSINE-NUCLEOSIDASE-RXN}}
+{{#set: produced by=I5NT|RXN-7607|ADENODEAMIN-RXN}}
+{{#set: reversible reaction associated=INOPHOSPHOR-RXN}}

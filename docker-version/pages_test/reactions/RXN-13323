@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13323 RXN-13323] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.32 EC-2.5.1.32]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[CPD0-1028]][c] '''<=>''' 1 [[CPD-12321]][c] '''+''' 2 [[PPI]][c]
+* With common name(s):
+** 2 2-cis,6-trans,10-trans-geranylgeranyl diphosphate[c] '''<=>''' 1 15-cis-phytoene[c] '''+''' 2 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15914]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=34478 34478]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R10177 R10177]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.5.1.32}}
+{{#set: gene associated=Tiso_gene_15914}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

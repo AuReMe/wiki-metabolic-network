@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6224 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PGLYCDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[SERSYN-PWY]]
+== External links  ==
+{{#set: reaction associated=PGLYCDEHYDROG-RXN}}
+{{#set: pathway associated=SERSYN-PWY}}

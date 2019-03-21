@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7049 PWY-7049] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** icosapentaenoate biosynthesis II (6-desaturase, mammals)
+* Synonym(s):
+** eicosapentaenoic acid biosynthesis II
+** eicosapentaenoate biosynthesis II (metazoa)
+** iicosapentaenoic acid biosynthesis II
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[LINOLENOYL-RXN]]
+** 9 associated gene(s):
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_9394]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-16020]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13426 RXN-13426]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13429 RXN-13429]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16019 RXN-16019]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16021 RXN-16021]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16022 RXN-16022]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=icosapentaenoate biosynthesis II (6-desaturase, mammals)}}
+{{#set: common name=eicosapentaenoic acid biosynthesis II|eicosapentaenoate biosynthesis II (metazoa)|iicosapentaenoic acid biosynthesis II}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

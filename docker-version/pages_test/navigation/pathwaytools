@@ -1,0 +1,10 @@
+{{#ask: [[Category:Reaction]] [[reconstruction tool::pathwaytools]]
+| ?COMMON NAME
+| ?ec number
+| ?reconstruction category
+| ?reconstruction tool
+| ?reconstruction source
+| ?reconstruction comment
+| ?gene associated
+| ?in pathway
+}}

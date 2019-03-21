@@ -1,0 +1,58 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.2.1.31-RXN 1.2.1.31-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** polyketide_synthase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.31 EC-1.2.1.31]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[NAD-P-OR-NOP]][c] '''+''' 1 [[ALLYSINE]][c] '''=>''' 2 [[PROTON]][c] '''+''' 1 [[CPD-468]][c] '''+''' 1 [[NADH-P-OR-NOP]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 NAD(P)+[c] '''+''' 1 (S)-2-amino-6-oxohexanoate[c] '''=>''' 2 H+[c] '''+''' 1 L-2-aminoadipate[c] '''+''' 1 NAD(P)H[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6563]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5424]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16719]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5425]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6562]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[LYSINE-DEG1-PWY]], L-lysine degradation XI (mammalian): [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-DEG1-PWY LYSINE-DEG1-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=12306 12306]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03103 R03103]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P50113 P50113]
+** [http://www.uniprot.org/uniprot/P07702 P07702]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=polyketide_synthase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.2.1.31}}
+{{#set: gene associated=Tiso_gene_6563|Tiso_gene_5424|Tiso_gene_16719|Tiso_gene_5425|Tiso_gene_6562}}
+{{#set: in pathway=LYSINE-DEG1-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

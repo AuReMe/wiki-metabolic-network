@@ -1,0 +1,107 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-2541 PWY-2541] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3398 TAX-3398]
+* common name:
+** plant sterol biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''10''' reactions found over '''36''' reactions in the full pathway
+* [[1.14.13.70-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[2.1.1.143-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11850]]
+*** [[Tiso_gene_11849]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[CYCLOARTENOL-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14526]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[CYCLOEUCALENOL-CYCLOISOMERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10532]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-4021]]
+** 3 associated gene(s):
+*** [[Tiso_gene_11849]]
+*** [[Tiso_gene_11850]]
+*** [[Tiso_gene_12590]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+* [[RXN-4144]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10982]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-4209]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5446]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-4210]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8982]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-707]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8982]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN3O-218]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5446]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5670 PWY-5670]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5670 PWY-5670]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11925 RXN-11925]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11926 RXN-11926]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11927 RXN-11927]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11928 RXN-11928]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11929 RXN-11929]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11930 RXN-11930]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11931 RXN-11931]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11932 RXN-11932]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11933 RXN-11933]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11934 RXN-11934]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11935 RXN-11935]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11936 RXN-11936]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11937 RXN-11937]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11938 RXN-11938]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11939 RXN-11939]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4161 RXN-4161]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4221 RXN-4221]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4222 RXN-4222]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4224 RXN-4224]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4242 RXN-4242]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4243 RXN-4243]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-708 RXN-708]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8352 RXN-8352]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8353 RXN-8353]
+== External links  ==
+* PLANTCYC : PWY-2541
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-2541 PWY-2541]
+{{#set: taxonomic range=TAX-3398}}
+{{#set: common name=plant sterol biosynthesis}}
+{{#set: reaction found=10}}
+{{#set: total reaction=36}}
+{{#set: completion rate=28.0}}

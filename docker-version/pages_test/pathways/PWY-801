@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-801 PWY-801] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** L-homocysteine and L-cysteine interconversion
+* Synonym(s):
+** transsulfuration pathway
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[CYSTATHIONINE-BETA-SYNTHASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7852]]
+*** [[Tiso_gene_3732]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14048]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-15131]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=L-homocysteine and L-cysteine interconversion}}
+{{#set: common name=transsulfuration pathway}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

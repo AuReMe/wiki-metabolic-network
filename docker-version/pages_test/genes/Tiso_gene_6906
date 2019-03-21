@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6906 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTATHIONE-SYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[GLUTATHIONESYN-PWY]]
+== External links  ==
+{{#set: reaction associated=GLUTATHIONE-SYN-RXN}}
+{{#set: pathway associated=GLUTATHIONESYN-PWY}}

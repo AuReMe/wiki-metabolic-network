@@ -1,0 +1,49 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=THREO-DS-ISO-CITRATE THREO-DS-ISO-CITRATE] ==
+* smiles:
+** C(=O)(C(CC([O-])=O)C(O)C([O-])=O)[O-]
+* common name:
+** D-threo-isocitrate
+* inchi key:
+** InChIKey=ODBLHEXUDAPZAU-ZAFYKAAXSA-K
+* molecular weight:
+** 189.101    
+* Synonym(s):
+** D-threo-isocitrate
+** (1R, 2S)-1-hydroxypropane-1,2,3-tricarboxylate
+** D-threo-isocitric acid
+** isocitric acid
+** isocitrate
+** threo-Ds-isocitrate
+** I-CIT
+** D-isocitrate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ACONITATEHYDR-RXN]]
+* [[ISOCITDEH-RXN]]
+* [[RXN-14047]]
+* [[ISOCIT-CLEAV-RXN]]
+* [[RXN-9951]]
+== External links  ==
+* CAS : 320-77-4
+* CAS : 30810-51-6
+* BIGG : icit
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459771 5459771]
+* KNAPSACK : C00001188
+* HMDB : HMDB01874
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00451 C00451]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573553.html 4573553]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15562 15562]
+* METABOLIGHTS : MTBLC15562
+{{#set: smiles=C(=O)(C(CC([O-])=O)C(O)C([O-])=O)[O-]}}
+{{#set: common name=D-threo-isocitrate}}
+{{#set: inchi key=InChIKey=ODBLHEXUDAPZAU-ZAFYKAAXSA-K}}
+{{#set: molecular weight=189.101    }}
+{{#set: common name=D-threo-isocitrate|(1R, 2S)-1-hydroxypropane-1,2,3-tricarboxylate|D-threo-isocitric acid|isocitric acid|isocitrate|threo-Ds-isocitrate|I-CIT|D-isocitrate}}
+{{#set: reversible reaction associated=ACONITATEHYDR-RXN|ISOCITDEH-RXN|RXN-14047|ISOCIT-CLEAV-RXN|RXN-9951}}

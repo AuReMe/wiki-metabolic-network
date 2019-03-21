@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13561 ==
+* right end position:
+** 5777
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4735
+* centisome position:
+** 76.0887    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[METHIONYL-TRNA-FORMYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5777}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4735}}
+{{#set: centisome position=76.0887    }}
+{{#set: reaction associated=METHIONYL-TRNA-FORMYLTRANSFERASE-RXN}}

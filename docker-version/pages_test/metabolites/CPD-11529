@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11529 CPD-11529] ==
+* smiles:
+** CCC=CCC4(C(=O)CCC(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)4)
+* common name:
+** jasmonoyl-CoA
+* inchi key:
+** InChIKey=WQKKCPPNDKSAIU-PCDAEQFSSA-J
+* molecular weight:
+** 955.76    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10708]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10701]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237154 44237154]
+{{#set: smiles=CCC=CCC4(C(=O)CCC(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)4)}}
+{{#set: common name=jasmonoyl-CoA}}
+{{#set: inchi key=InChIKey=WQKKCPPNDKSAIU-PCDAEQFSSA-J}}
+{{#set: molecular weight=955.76    }}
+{{#set: consumed by=RXN-10708}}
+{{#set: produced by=RXN-10701}}

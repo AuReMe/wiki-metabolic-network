@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROHYDROXYPHOSPHORYLPYRUVATE 3-HYDROHYDROXYPHOSPHORYLPYRUVATE] ==
+* smiles:
+** C([O-])(=O)C(=O)C[PH]([O-])=O
+* common name:
+** phosphinopyruvate
+* inchi key:
+** InChIKey=VHAFWRWGHGSZDL-UHFFFAOYSA-L
+* molecular weight:
+** 150.027    
+* Synonym(s):
+** 3-[hydroxy(oxido)phosphoranyl]pyruvic acid
+** 3-(hydrohydroxyphosphoryl)pyruvate
+** (hydroxyphosphinyl)pyruvate
+** PPA
+** 3-hydrohydroxyphosphorylpyruvate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10828]]
+== Reaction(s) of unknown directionality ==
+* [[2.7.8.23-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21722341 21722341]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10306741.html 10306741]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58348 58348]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06368 C06368]
+{{#set: smiles=C([O-])(=O)C(=O)C[PH]([O-])=O}}
+{{#set: common name=phosphinopyruvate}}
+{{#set: inchi key=InChIKey=VHAFWRWGHGSZDL-UHFFFAOYSA-L}}
+{{#set: molecular weight=150.027    }}
+{{#set: common name=3-[hydroxy(oxido)phosphoranyl]pyruvic acid|3-(hydrohydroxyphosphoryl)pyruvate|(hydroxyphosphinyl)pyruvate|PPA|3-hydrohydroxyphosphorylpyruvate}}
+{{#set: produced by=RXN-10828}}
+{{#set: reversible reaction associated=2.7.8.23-RXN}}

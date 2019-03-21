@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11002 RXN-11002] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.co EC-1.1.1.co]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[SUCC-S-ALD]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[4-HYDROXY-BUTYRATE]][c] '''+''' 1 [[NADP]][c]
+* With common name(s):
+** 1 succinate semialdehyde[c] '''+''' 1 NADPH[c] '''+''' 1 H+[c] '''=>''' 1 4-hydroxybutanoate[c] '''+''' 1 NADP+[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5789]], 3-hydroxypropanoate/4-hydroxybutanate cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5789 PWY-5789]
+** '''8''' reactions found over '''16''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=26384 26384]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R09281 R09281]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.1.1.co}}
+{{#set: in pathway=PWY-5789}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

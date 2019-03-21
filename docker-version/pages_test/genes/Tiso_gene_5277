@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5277 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PAPSPAPthr]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PAPSPAPtm]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=PAPSPAPthr|PAPSPAPtm}}

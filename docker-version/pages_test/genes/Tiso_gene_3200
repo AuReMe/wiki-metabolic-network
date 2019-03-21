@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3200 ==
+* right end position:
+** 7009
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5282
+* centisome position:
+** 30.60787    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-HALOACID-DEHALOGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[3.8.1.11-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-6263]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-6264]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7009}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5282}}
+{{#set: centisome position=30.60787    }}
+{{#set: reaction associated=2-HALOACID-DEHALOGENASE-RXN|3.8.1.11-RXN|RXN-6263|RXN-6264}}

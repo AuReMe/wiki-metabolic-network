@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BENZOYLSUCCINYL-COA BENZOYLSUCCINYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)C(C(=O)C1(=CC=CC=C1))CC(=O)[O-])COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]
+* common name:
+** benzoylsuccinyl-CoA
+* inchi key:
+** InChIKey=SGNPJINSCKFITG-IHEBCORQSA-I
+* molecular weight:
+** 966.676    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-905]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659089 90659089]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28882 28882]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C09820 C09820]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)C(C(=O)C1(=CC=CC=C1))CC(=O)[O-])COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]}}
+{{#set: common name=benzoylsuccinyl-CoA}}
+{{#set: inchi key=InChIKey=SGNPJINSCKFITG-IHEBCORQSA-I}}
+{{#set: molecular weight=966.676    }}
+{{#set: produced by=RXN-905}}

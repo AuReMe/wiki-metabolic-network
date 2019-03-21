@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5024 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-16099]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-16101]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7602]]
+* [[PWY-7601]]
+== External links  ==
+{{#set: reaction associated=RXN-16099|RXN-16101}}
+{{#set: pathway associated=PWY-7602|PWY-7601}}

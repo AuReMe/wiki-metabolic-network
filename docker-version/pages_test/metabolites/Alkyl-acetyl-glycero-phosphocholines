@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Alkyl-acetyl-glycero-phosphocholines Alkyl-acetyl-glycero-phosphocholines] ==
+* common name:
+** a 2-acetyl-1-alkyl-sn-glycero-3-phosphocholine
+* Synonym(s):
+** PAF
+** platelet-activating factor
+** a 1-alkyl-2-acetyl-sn-glycero-3-phosphocholine
+
+== Reaction(s) known to consume the compound ==
+* [[3.1.1.47-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2-acetyl-1-alkyl-sn-glycero-3-phosphocholine}}
+{{#set: common name=PAF|platelet-activating factor|a 1-alkyl-2-acetyl-sn-glycero-3-phosphocholine}}
+{{#set: consumed by=3.1.1.47-RXN}}

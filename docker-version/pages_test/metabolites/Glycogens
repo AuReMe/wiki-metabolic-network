@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Glycogens Glycogens] ==
+* common name:
+** a glycogen
+* Synonym(s):
+** 6-&alpha;-D-(1,4-&alpha;-D-glucano)-glucan
+** glycogen
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[GLYMALTOPHOSPHORYL-RXN]]
+* [[GLYCOPHOSPHORYL-RXN]]
+== External links  ==
+{{#set: common name=a glycogen}}
+{{#set: common name=6-&alpha;-D-(1,4-&alpha;-D-glucano)-glucan|glycogen}}
+{{#set: reversible reaction associated=GLYMALTOPHOSPHORYL-RXN|GLYCOPHOSPHORYL-RXN}}

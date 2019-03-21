@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6387 PWY-6387] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''8''' reactions in the full pathway
+* [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** 18 associated gene(s):
+*** [[Tiso_gene_4659]]
+*** [[Tiso_gene_12058]]
+*** [[Tiso_gene_5194]]
+*** [[Tiso_gene_4661]]
+*** [[Tiso_gene_210]]
+*** [[Tiso_gene_6635]]
+*** [[Tiso_gene_5195]]
+*** [[Tiso_gene_2120]]
+*** [[Tiso_gene_6787]]
+*** [[Tiso_gene_7079]]
+*** [[Tiso_gene_14132]]
+*** [[Tiso_gene_2121]]
+*** [[Tiso_gene_2119]]
+*** [[Tiso_gene_8778]]
+*** [[Tiso_gene_14187]]
+*** [[Tiso_gene_7380]]
+*** [[Tiso_gene_12685]]
+*** [[Tiso_gene_18014]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DALADALALIG-RXN DALADALALIG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUTRACE-RXN GLUTRACE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UDP-NACMUR-ALA-LIG-RXN UDP-NACMUR-ALA-LIG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UDP-NACMURALA-GLU-LIG-RXN UDP-NACMURALA-GLU-LIG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UDP-NACMURALGLDAPAALIG-RXN UDP-NACMURALGLDAPAALIG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UDP-NACMURALGLDAPLIG-RXN UDP-NACMURALGLDAPLIG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6387 PWY-6387]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=8}}
+{{#set: completion rate=13.0}}

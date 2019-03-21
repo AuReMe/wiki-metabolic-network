@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Pimeloyl-ACPs Pimeloyl-ACPs] ==
+* common name:
+** a pimeloyl-[acp]
+* Synonym(s):
+** a pimeloyl-[acyl-carrier-protein]
+** a pimelyl-[acp]
+** a pimelyl-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11484]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a pimeloyl-[acp]}}
+{{#set: common name=a pimeloyl-[acyl-carrier-protein]|a pimelyl-[acp]|a pimelyl-[acyl-carrier-protein]}}
+{{#set: consumed by=RXN-11484}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8890 CPD-8890] ==
+* smiles:
+** C(=[N+]1(C(C([O-])=O)CC2(C1=CC(=O)C(=O)C=2)))C=C3(C=C(C(=O)[O-])NC(C([O-])=O)C3)
+* common name:
+** betanidin quinone
+* inchi key:
+** InChIKey=MCTHLMSFLMEBEK-AAEUAGOBSA-L
+* molecular weight:
+** 384.301    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8635]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25246300 25246300]
+{{#set: smiles=C(=[N+]1(C(C([O-])=O)CC2(C1=CC(=O)C(=O)C=2)))C=C3(C=C(C(=O)[O-])NC(C([O-])=O)C3)}}
+{{#set: common name=betanidin quinone}}
+{{#set: inchi key=InChIKey=MCTHLMSFLMEBEK-AAEUAGOBSA-L}}
+{{#set: molecular weight=384.301    }}
+{{#set: produced by=RXN-8635}}

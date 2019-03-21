@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19254 ==
+* right end position:
+** 1610
+* transcription direction:
+** POSITIVE
+* left end position:
+** 392
+* centisome position:
+** 15.806452    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PYRROLINECARBREDUCT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-546]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PROSYN-PWY]]
+* [[ARG-PRO-PWY]]
+* [[PWY-6344]]
+* [[PWY-4981]]
+* [[PWY-3341]]
+== External links  ==
+{{#set: right end position=1610}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=392}}
+{{#set: centisome position=15.806452    }}
+{{#set: reaction associated=PYRROLINECARBREDUCT-RXN|RXN66-546}}
+{{#set: pathway associated=PROSYN-PWY|ARG-PRO-PWY|PWY-6344|PWY-4981|PWY-3341}}

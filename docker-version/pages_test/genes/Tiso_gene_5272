@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5272 ==
+* right end position:
+** 5636
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2490
+* centisome position:
+** 18.183146    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11109]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5636}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2490}}
+{{#set: centisome position=18.183146    }}
+{{#set: reaction associated=RXN-11109}}

@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12988 ==
+* right end position:
+** 6218
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3992
+* centisome position:
+** 60.57663    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRYPTOPHAN--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=6218}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3992}}
+{{#set: centisome position=60.57663    }}
+{{#set: reaction associated=TRYPTOPHAN--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

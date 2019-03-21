@@ -1,0 +1,62 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACETOOHBUTREDUCTOISOM-RXN ACETOOHBUTREDUCTOISOM-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 2,3-Dihydroxy-3-methylbutanoate:DP+ oxidoreductase (isomerizing), chloroplast
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.86 EC-1.1.1.86]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[2-ACETO-2-HYDROXY-BUTYRATE]][c] '''=>''' 1 [[1-KETO-2-METHYLVALERATE]][c] '''+''' 1 [[NADP]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 NADPH[c] '''+''' 1 (S)-2-aceto-2-hydroxybutanoate[c] '''=>''' 1 (R)-2,3-dihydroxy-3-methylpentanoate[c] '''+''' 1 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10173]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-5103]], L-isoleucine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5103 PWY-5103]
+** '''4''' reactions found over '''7''' reactions in the full pathway
+* [[ILEUSYN-PWY]], L-isoleucine biosynthesis I (from threonine): [http://metacyc.org/META/NEW-IMAGE?object=ILEUSYN-PWY ILEUSYN-PWY]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13493 13493]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P06168 P06168]
+** [http://www.uniprot.org/uniprot/P44822 P44822]
+** [http://www.uniprot.org/uniprot/O25097 O25097]
+** [http://www.uniprot.org/uniprot/Q02138 Q02138]
+** [http://www.uniprot.org/uniprot/Q57179 Q57179]
+** [http://www.uniprot.org/uniprot/Q9JTI3 Q9JTI3]
+** [http://www.uniprot.org/uniprot/Q9PHN5 Q9PHN5]
+** [http://www.uniprot.org/uniprot/P05793 P05793]
+** [http://www.uniprot.org/uniprot/P38674 P38674]
+** [http://www.uniprot.org/uniprot/Q59500 Q59500]
+** [http://www.uniprot.org/uniprot/Q01292 Q01292]
+** [http://www.uniprot.org/uniprot/Q05758 Q05758]
+** [http://www.uniprot.org/uniprot/O82043 O82043]
+** [http://www.uniprot.org/uniprot/P78827 P78827]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=2,3-Dihydroxy-3-methylbutanoate:DP+ oxidoreductase (isomerizing), chloroplast}}
+{{#set: ec number=EC-1.1.1.86}}
+{{#set: gene associated=Tiso_gene_10173}}
+{{#set: in pathway=PWY-5103|ILEUSYN-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=manual-primary_network|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

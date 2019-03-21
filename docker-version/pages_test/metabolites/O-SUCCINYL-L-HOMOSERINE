@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=O-SUCCINYL-L-HOMOSERINE O-SUCCINYL-L-HOMOSERINE] ==
+* smiles:
+** C(CC(=O)OCCC(C([O-])=O)[N+])C([O-])=O
+* common name:
+** O-succinyl-L-homoserine
+* inchi key:
+** InChIKey=GNISQJGXJIDKDJ-YFKPBYRVSA-M
+* molecular weight:
+** 218.186    
+* Synonym(s):
+** O-succinyl-homoserine
+** succinyl-homoserine
+
+== Reaction(s) known to consume the compound ==
+* [[SUCHMSSELCYSLh]]
+* [[METBALT-RXN]]
+* [[SUCHMSSELCYSL]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[O-SUCCHOMOSERLYASE-RXN]]
+* [[RXN-9384]]
+== External links  ==
+* CAS : 1492-23-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878420 46878420]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57661 57661]
+* BIGG : suchms
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01118 C01118]
+{{#set: smiles=C(CC(=O)OCCC(C([O-])=O)[N+])C([O-])=O}}
+{{#set: common name=O-succinyl-L-homoserine}}
+{{#set: inchi key=InChIKey=GNISQJGXJIDKDJ-YFKPBYRVSA-M}}
+{{#set: molecular weight=218.186    }}
+{{#set: common name=O-succinyl-homoserine|succinyl-homoserine}}
+{{#set: consumed by=SUCHMSSELCYSLh|METBALT-RXN|SUCHMSSELCYSL}}
+{{#set: reversible reaction associated=O-SUCCHOMOSERLYASE-RXN|RXN-9384}}

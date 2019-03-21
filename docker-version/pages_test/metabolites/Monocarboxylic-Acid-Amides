@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Monocarboxylic-Acid-Amides Monocarboxylic-Acid-Amides] ==
+* common name:
+** a monocarboxylic acid amide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[AMIDASE-RXN]]
+== External links  ==
+{{#set: common name=a monocarboxylic acid amide}}
+{{#set: reversible reaction associated=AMIDASE-RXN}}

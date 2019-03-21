@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9411 ==
+* right end position:
+** 5144
+* transcription direction:
+** POSITIVE
+* left end position:
+** 42
+* centisome position:
+** 0.4482391    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5144}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=42}}
+{{#set: centisome position=0.4482391    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN}}

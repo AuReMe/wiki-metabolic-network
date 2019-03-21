@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8646 CPD-8646] ==
+* smiles:
+** CC(C)=CCCC(C)[CH]1(CC[CH]3(C(C)1CC[CH]2(C4(C)(C(=CC=C23)CC(O)CC4))))
+* common name:
+** 7-dehydrodesmosterol
+* inchi key:
+** InChIKey=RUSSPKPUXDSHNC-DDPQNLDTSA-N
+* molecular weight:
+** 382.628    
+* Synonym(s):
+** 5&alpha;-cholesta-5,7,24-trien-3&beta;-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-27]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-26]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=440558 440558]
+* HMDB : HMDB03896
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27910 27910]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05107 C05107]
+{{#set: smiles=CC(C)=CCCC(C)[CH]1(CC[CH]3(C(C)1CC[CH]2(C4(C)(C(=CC=C23)CC(O)CC4))))}}
+{{#set: common name=7-dehydrodesmosterol}}
+{{#set: inchi key=InChIKey=RUSSPKPUXDSHNC-DDPQNLDTSA-N}}
+{{#set: molecular weight=382.628    }}
+{{#set: common name=5&alpha;-cholesta-5,7,24-trien-3&beta;-ol}}
+{{#set: consumed by=RXN66-27}}
+{{#set: produced by=RXN66-26}}

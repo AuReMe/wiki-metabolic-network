@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8620 CPD-8620] ==
+* smiles:
+** CC(C)CCCC([CH]4(C1(C)([CH](C2(=C(CC1)C3(C)([CH](CC2)CC(=O)CC3)))CC4)))C
+* common name:
+** 5&alpha;-cholesta-8-en-3-one
+* inchi key:
+** InChIKey=RZSXSHNNQBIPTL-ZSBATXSLSA-N
+* molecular weight:
+** 384.644    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN66-23]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44263324 44263324]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87056 87056]
+* HMDB : HMDB12178
+{{#set: smiles=CC(C)CCCC([CH]4(C1(C)([CH](C2(=C(CC1)C3(C)([CH](CC2)CC(=O)CC3)))CC4)))C}}
+{{#set: common name=5&alpha;-cholesta-8-en-3-one}}
+{{#set: inchi key=InChIKey=RZSXSHNNQBIPTL-ZSBATXSLSA-N}}
+{{#set: molecular weight=384.644    }}
+{{#set: produced by=RXN66-23}}

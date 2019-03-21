@@ -1,0 +1,82 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7654 PWY-7654] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7088 TAX-7088]
+* common name:
+** (8E,10E)-dodeca-8,10-dienol biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''11''' reactions in the full pathway
+* [[2.3.1.155-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-12507]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5857]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-14131]]
+** 6 associated gene(s):
+*** [[Tiso_gene_883]]
+*** [[Tiso_gene_6475]]
+*** [[Tiso_gene_18566]]
+*** [[Tiso_gene_16631]]
+*** [[Tiso_gene_5991]]
+*** [[Tiso_gene_17967]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-14268]]
+** 6 associated gene(s):
+*** [[Tiso_gene_10116]]
+*** [[Tiso_gene_3855]]
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+*** [[Tiso_gene_3856]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14271]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14262]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-16540]]
+** 6 associated gene(s):
+*** [[Tiso_gene_6475]]
+*** [[Tiso_gene_5991]]
+*** [[Tiso_gene_16631]]
+*** [[Tiso_gene_18566]]
+*** [[Tiso_gene_883]]
+*** [[Tiso_gene_17967]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14272 RXN-14272]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14273 RXN-14273]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16541 RXN-16541]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16542 RXN-16542]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16543 RXN-16543]
+== External links  ==
+{{#set: taxonomic range=TAX-7088}}
+{{#set: common name=(8E,10E)-dodeca-8,10-dienol biosynthesis}}
+{{#set: reaction found=6}}
+{{#set: total reaction=11}}
+{{#set: completion rate=55.0}}

@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ARG-PRO-PWY ARG-PRO-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** L-arginine degradation VI (arginase 2 pathway)
+* Synonym(s):
+** L-proline biosynthesis from arginine
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[ARGINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4415]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ORNITHINE-GLU-AMINOTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11231]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[PYRROLINECARBREDUCT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8625]]
+*** [[Tiso_gene_20218]]
+*** [[Tiso_gene_19254]]
+*** [[Tiso_gene_17059]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[SPONTPRO-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=L-arginine degradation VI (arginase 2 pathway)}}
+{{#set: common name=L-proline biosynthesis from arginine}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

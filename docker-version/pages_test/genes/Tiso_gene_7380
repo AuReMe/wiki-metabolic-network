@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7380 ==
+* right end position:
+** 7485
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3963
+* centisome position:
+** 35.245464    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6386]]
+* [[PWY-6387]]
+== External links  ==
+{{#set: right end position=7485}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3963}}
+{{#set: centisome position=35.245464    }}
+{{#set: reaction associated=UDPNACETYLMURAMATEDEHYDROG-RXN}}
+{{#set: pathway associated=PWY-6386|PWY-6387}}

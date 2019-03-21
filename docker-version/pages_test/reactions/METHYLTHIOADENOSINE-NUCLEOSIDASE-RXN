@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.2.16 EC-3.2.2.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[5-METHYLTHIOADENOSINE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[ADENINE]][c] '''+''' 1 [[CPD-560]][c]
+* With common name(s):
+** 1 S-methyl-5'-thioadenosine[c] '''+''' 1 H2O[c] '''=>''' 1 adenine[c] '''+''' 1 S-methyl-5-thio-D-ribose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12855]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY0-1391]], S-methyl-5'-thioadenosine degradation IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1391 PWY0-1391]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+* [[PWY-6754]], S-methyl-5'-thioadenosine degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6754 PWY-6754]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13617 13617]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01401 R01401]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.2.2.16}}
+{{#set: gene associated=Tiso_gene_12855}}
+{{#set: in pathway=PWY0-1391|PWY-6754}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

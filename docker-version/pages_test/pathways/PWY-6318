@@ -1,0 +1,56 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6318 PWY-6318] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** L-phenylalanine degradation IV (mammalian, via side chain)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''9''' reactions in the full pathway
+* [[PHENDEHYD-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10814]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12889]]
+*** [[Tiso_gene_15680]]
+*** [[Tiso_gene_13538]]
+*** [[Tiso_gene_17809]]
+*** [[Tiso_gene_6815]]
+*** [[Tiso_gene_17718]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10815]]
+** 3 associated gene(s):
+*** [[Tiso_gene_18328]]
+*** [[Tiso_gene_18976]]
+*** [[Tiso_gene_18977]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10821]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7195]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHENYLALANINE-DECARBOXYLASE-RXN PHENYLALANINE-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10816 RXN-10816]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10817 RXN-10817]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10819 RXN-10819]
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00360 map00360]
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=L-phenylalanine degradation IV (mammalian, via side chain)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=9}}
+{{#set: completion rate=44.0}}

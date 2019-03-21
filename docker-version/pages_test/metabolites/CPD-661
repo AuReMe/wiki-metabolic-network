@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-661 CPD-661] ==
+* smiles:
+** C#CC([O-])=O
+* common name:
+** propynoate
+* inchi key:
+** InChIKey=UORVCLMRJXCDCP-UHFFFAOYSA-M
+* molecular weight:
+** 69.04    
+* Synonym(s):
+** acetylene monocarboxylic acid
+** Propiolic acid
+** Acetylenecarboxylic acid
+** Acetylenemonocarboxylate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14224]]
+== External links  ==
+* CAS : 471-25-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459765 5459765]
+* HMDB : HMDB06804
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00804 C00804]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573549.html 4573549]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15364 15364]
+* METABOLIGHTS : MTBLC15364
+{{#set: smiles=C#CC([O-])=O}}
+{{#set: common name=propynoate}}
+{{#set: inchi key=InChIKey=UORVCLMRJXCDCP-UHFFFAOYSA-M}}
+{{#set: molecular weight=69.04    }}
+{{#set: common name=acetylene monocarboxylic acid|Propiolic acid|Acetylenecarboxylic acid|Acetylenemonocarboxylate}}
+{{#set: reversible reaction associated=RXN-14224}}

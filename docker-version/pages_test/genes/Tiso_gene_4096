@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4096 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.46-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-401]]
+== External links  ==
+{{#set: reaction associated=2.4.1.46-RXN}}
+{{#set: pathway associated=PWY-401}}

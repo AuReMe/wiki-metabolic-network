@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8241 ==
+* right end position:
+** 3575
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1851
+* centisome position:
+** 17.745182    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-1281]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3575}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1851}}
+{{#set: centisome position=17.745182    }}
+{{#set: reaction associated=RXN0-1281}}

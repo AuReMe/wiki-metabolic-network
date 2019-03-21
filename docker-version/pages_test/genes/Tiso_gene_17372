@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17372 ==
+* right end position:
+** 3738
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2233
+* centisome position:
+** 59.626167    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.1.160-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6689]]
+== External links  ==
+{{#set: right end position=3738}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2233}}
+{{#set: centisome position=59.626167    }}
+{{#set: reaction associated=2.7.1.160-RXN}}
+{{#set: pathway associated=PWY-6689}}

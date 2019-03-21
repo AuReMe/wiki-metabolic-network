@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5912 PWY-5912] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4479 TAX-4479]
+* common name:
+** 2'-deoxymugineic acid phytosiderophore biosynthesis
+* Synonym(s):
+** DMA biosynthesis
+** Fe acquisition
+** iron acquisition
+** strategy II Fe-acquisition
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[S-ADENMETSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13443]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.285-RXN 1.1.1.285-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.5.1.43-RXN 2.5.1.43-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.6.1.80-RXN 2.6.1.80-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-4479}}
+{{#set: common name=2'-deoxymugineic acid phytosiderophore biosynthesis}}
+{{#set: common name=DMA biosynthesis|Fe acquisition|iron acquisition|strategy II Fe-acquisition}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

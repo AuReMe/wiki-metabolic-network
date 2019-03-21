@@ -1,0 +1,63 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SHIKIMATE-KINASE-RXN SHIKIMATE-KINASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 3-dehydroquinate_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.71 EC-2.7.1.71]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[SHIKIMATE]][c] '''<=>''' 1 [[SHIKIMATE-5P]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 shikimate[c] '''<=>''' 1 shikimate 3-phosphate[c] '''+''' 1 H+[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12435]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3974]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6163]], chorismate biosynthesis from 3-dehydroquinate: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6163 PWY-6163]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13121 13121]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02412 R02412]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P0A6D7 P0A6D7]
+** [http://www.uniprot.org/uniprot/Q9PIB5 Q9PIB5]
+** [http://www.uniprot.org/uniprot/P07547 P07547]
+** [http://www.uniprot.org/uniprot/P08566 P08566]
+** [http://www.uniprot.org/uniprot/P43880 P43880]
+** [http://www.uniprot.org/uniprot/P63600 P63600]
+** [http://www.uniprot.org/uniprot/Q9CEU1 Q9CEU1]
+** [http://www.uniprot.org/uniprot/P37944 P37944]
+** [http://www.uniprot.org/uniprot/P0A6E1 P0A6E1]
+** [http://www.uniprot.org/uniprot/P10880 P10880]
+** [http://www.uniprot.org/uniprot/Q00497 Q00497]
+** [http://www.uniprot.org/uniprot/P34003 P34003]
+** [http://www.uniprot.org/uniprot/P43906 P43906]
+** [http://www.uniprot.org/uniprot/P72796 P72796]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=3-dehydroquinate_synthase}}
+{{#set: ec number=EC-2.7.1.71}}
+{{#set: gene associated=Tiso_gene_12435|Tiso_gene_3974}}
+{{#set: in pathway=PWY-6163}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=manual-primary_network|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

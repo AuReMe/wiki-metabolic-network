@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11795 ==
+* right end position:
+** 6694
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4568
+* centisome position:
+** 60.75276    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GALACTOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6317]]
+* [[PWY66-422]]
+* [[PWY-6527]]
+* [[PWY-3821]]
+== External links  ==
+{{#set: right end position=6694}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4568}}
+{{#set: centisome position=60.75276    }}
+{{#set: reaction associated=GALACTOKIN-RXN}}
+{{#set: pathway associated=PWY-6317|PWY66-422|PWY-6527|PWY-3821}}

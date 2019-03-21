@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7004 CPD-7004] ==
+* smiles:
+** C=CC2(C(C)=C4(C=C9(C(C)C(CCC(=O)OCC=C(C)CCCC(C)CCC=C(C)CCC=C(C)C)C5(=[N+]([Mg--]36([N+]1(=C(C(CC)=C(C)C1=CC=2N34)C=C7(C(C)=C8(C(=O)[C-](C(OC)=O)C5=C(N67)8)))))9))))
+* common name:
+** dihydrogeranylgeranyl chlorophyll a
+* inchi key:
+** InChIKey=QHUCPLMRABCZRD-USXFXJNZSA-M
+* molecular weight:
+** 888.463    
+* Synonym(s):
+** dihydrogeranylgeranyl-chl a
+** dihydroGG-chl a
+** dihydroGG-chlorophyll a
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7665]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7664]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46926294 46926294]
+{{#set: smiles=C=CC2(C(C)=C4(C=C9(C(C)C(CCC(=O)OCC=C(C)CCCC(C)CCC=C(C)CCC=C(C)C)C5(=[N+]([Mg--]36([N+]1(=C(C(CC)=C(C)C1=CC=2N34)C=C7(C(C)=C8(C(=O)[C-](C(OC)=O)C5=C(N67)8)))))9))))}}
+{{#set: common name=dihydrogeranylgeranyl chlorophyll a}}
+{{#set: inchi key=InChIKey=QHUCPLMRABCZRD-USXFXJNZSA-M}}
+{{#set: molecular weight=888.463    }}
+{{#set: common name=dihydrogeranylgeranyl-chl a|dihydroGG-chl a|dihydroGG-chlorophyll a}}
+{{#set: consumed by=RXN-7665}}
+{{#set: produced by=RXN-7664}}

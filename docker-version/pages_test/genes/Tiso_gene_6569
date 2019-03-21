@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6569 ==
+* right end position:
+** 10122
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6973
+* centisome position:
+** 57.891243    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.99.1.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[5.99.1.3-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10122}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6973}}
+{{#set: centisome position=57.891243    }}
+{{#set: reaction associated=5.99.1.2-RXN|5.99.1.3-RXN}}

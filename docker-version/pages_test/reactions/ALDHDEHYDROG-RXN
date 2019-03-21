@@ -1,0 +1,85 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ALDHDEHYDROG-RXN ALDHDEHYDROG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.3 EC-1.2.1.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[Aldehydes]][c] '''=>''' 1 [[Carboxylates]][c] '''+''' 2 [[PROTON]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 H2O[c] '''+''' 1 an aldehyde[c] '''=>''' 1 a carboxylate[c] '''+''' 2 H+[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7322]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_3513]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-7269]], NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7269 PWY-7269]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16185 16185]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00538 R00538]
+** [http://www.genome.jp/dbget-bin/www_bget?R00632 R00632]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P08157 P08157]
+** [http://www.uniprot.org/uniprot/P13601 P13601]
+** [http://www.uniprot.org/uniprot/P30839 P30839]
+** [http://www.uniprot.org/uniprot/P46368 P46368]
+** [http://www.uniprot.org/uniprot/P33744 P33744]
+** [http://www.uniprot.org/uniprot/P47895 P47895]
+** [http://www.uniprot.org/uniprot/P12693 P12693]
+** [http://www.uniprot.org/uniprot/P00352 P00352]
+** [http://www.uniprot.org/uniprot/P05091 P05091]
+** [http://www.uniprot.org/uniprot/P96824 P96824]
+** [http://www.uniprot.org/uniprot/P63937 P63937]
+** [http://www.uniprot.org/uniprot/P23883 P23883]
+** [http://www.uniprot.org/uniprot/P43353 P43353]
+** [http://www.uniprot.org/uniprot/P47738 P47738]
+** [http://www.uniprot.org/uniprot/Q27640 Q27640]
+** [http://www.uniprot.org/uniprot/P51647 P51647]
+** [http://www.uniprot.org/uniprot/P24549 P24549]
+** [http://www.uniprot.org/uniprot/P12762 P12762]
+** [http://www.uniprot.org/uniprot/P15437 P15437]
+** [http://www.uniprot.org/uniprot/P11884 P11884]
+** [http://www.uniprot.org/uniprot/P20000 P20000]
+** [http://www.uniprot.org/uniprot/P27463 P27463]
+** [http://www.uniprot.org/uniprot/P51977 P51977]
+** [http://www.uniprot.org/uniprot/P33008 P33008]
+** [http://www.uniprot.org/uniprot/P32872 P32872]
+** [http://www.uniprot.org/uniprot/P49189 P49189]
+** [http://www.uniprot.org/uniprot/P39616 P39616]
+** [http://www.uniprot.org/uniprot/P42041 P42041]
+** [http://www.uniprot.org/uniprot/P40108 P40108]
+** [http://www.uniprot.org/uniprot/Q25417 Q25417]
+** [http://www.uniprot.org/uniprot/P45959 P45959]
+** [http://www.uniprot.org/uniprot/P37685 P37685]
+** [http://www.uniprot.org/uniprot/P40047 P40047]
+** [http://www.uniprot.org/uniprot/Q7M0F9 Q7M0F9]
+** [http://www.uniprot.org/uniprot/P54114 P54114]
+** [http://www.uniprot.org/uniprot/P54115 P54115]
+** [http://www.uniprot.org/uniprot/P46367 P46367]
+** [http://www.uniprot.org/uniprot/Q62148 Q62148]
+** [http://www.uniprot.org/uniprot/Q55811 Q55811]
+** [http://www.uniprot.org/uniprot/P93344 P93344]
+** [http://www.uniprot.org/uniprot/O68123 O68123]
+** [http://www.uniprot.org/uniprot/Q9SU63 Q9SU63]
+** [http://www.uniprot.org/uniprot/P23240 P23240]
+** [http://www.uniprot.org/uniprot/O85973 O85973]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.2.1.3}}
+{{#set: gene associated=Tiso_gene_7322|Tiso_gene_3513}}
+{{#set: in pathway=PWY-7269}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

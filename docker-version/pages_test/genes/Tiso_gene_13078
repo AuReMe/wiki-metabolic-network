@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13078 ==
+* right end position:
+** 6032
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1723
+* centisome position:
+** 26.31338    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13374]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6857]]
+== External links  ==
+{{#set: right end position=6032}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1723}}
+{{#set: centisome position=26.31338    }}
+{{#set: reaction associated=RXN-13374}}
+{{#set: pathway associated=PWY-6857}}

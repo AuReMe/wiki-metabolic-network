@@ -1,0 +1,134 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CARBOXYLESTERASE-RXN CARBOXYLESTERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha_beta_hydrolase_fold_protein
+** ORF
+** serine_esterase
+** sialate_o-acetylesterase-like_protein
+** lysophospholipase
+** alpha_beta_hydrolase
+** protein_chloroplastic
+** para-nitrobenzyl_esterase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.1 EC-3.1.1.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Carboxylic-esters]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Alcohols]][c] '''+''' 1 [[Carboxylates]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 a carboxylic ester[c] '''+''' 1 H2O[c] '''=>''' 1 an alcohol[c] '''+''' 1 a carboxylate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16518]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1537]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4606]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1922]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17029]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10066]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12686]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19778]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4650]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11351]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_1538]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9429]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00630 R00630]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M3Q8 Q7M3Q8]
+** [http://www.uniprot.org/uniprot/P23953 P23953]
+** [http://www.uniprot.org/uniprot/P10094 P10094]
+** [http://www.uniprot.org/uniprot/P12337 P12337]
+** [http://www.uniprot.org/uniprot/P10959 P10959]
+** [http://www.uniprot.org/uniprot/P08171 P08171]
+** [http://www.uniprot.org/uniprot/P22266 P22266]
+** [http://www.uniprot.org/uniprot/P23141 P23141]
+** [http://www.uniprot.org/uniprot/Q64176 Q64176]
+** [http://www.uniprot.org/uniprot/P10095 P10095]
+** [http://www.uniprot.org/uniprot/P18167 P18167]
+** [http://www.uniprot.org/uniprot/P23872 P23872]
+** [http://www.uniprot.org/uniprot/Q9JU37 Q9JU37]
+** [http://www.uniprot.org/uniprot/Q8X5J5 Q8X5J5]
+** [http://www.uniprot.org/uniprot/Q60123 Q60123]
+** [http://www.uniprot.org/uniprot/Q59248 Q59248]
+** [http://www.uniprot.org/uniprot/Q06174 Q06174]
+** [http://www.uniprot.org/uniprot/Q53403 Q53403]
+** [http://www.uniprot.org/uniprot/Q63108 Q63108]
+** [http://www.uniprot.org/uniprot/O00748 O00748]
+** [http://www.uniprot.org/uniprot/Q05487 Q05487]
+** [http://www.uniprot.org/uniprot/Q53547 Q53547]
+** [http://www.uniprot.org/uniprot/Q7M529 Q7M529]
+** [http://www.uniprot.org/uniprot/Q7M2Q1 Q7M2Q1]
+** [http://www.uniprot.org/uniprot/P21370 P21370]
+** [http://www.uniprot.org/uniprot/Q29550 Q29550]
+** [http://www.uniprot.org/uniprot/Q63880 Q63880]
+** [http://www.uniprot.org/uniprot/Q9Z3U8 Q9Z3U8]
+** [http://www.uniprot.org/uniprot/P35501 P35501]
+** [http://www.uniprot.org/uniprot/P35502 P35502]
+** [http://www.uniprot.org/uniprot/Q7M0L6 Q7M0L6]
+** [http://www.uniprot.org/uniprot/Q64419 Q64419]
+** [http://www.uniprot.org/uniprot/Q92149 Q92149]
+** [http://www.uniprot.org/uniprot/Q23734 Q23734]
+** [http://www.uniprot.org/uniprot/Q23735 Q23735]
+** [http://www.uniprot.org/uniprot/Q23736 Q23736]
+** [http://www.uniprot.org/uniprot/Q27614 Q27614]
+** [http://www.uniprot.org/uniprot/P25726 P25726]
+** [http://www.uniprot.org/uniprot/Q27627 Q27627]
+** [http://www.uniprot.org/uniprot/Q27616 Q27616]
+** [http://www.uniprot.org/uniprot/Q64573 Q64573]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha_beta_hydrolase_fold_protein}}
+{{#set: common name=ORF}}
+{{#set: common name=serine_esterase}}
+{{#set: common name=sialate_o-acetylesterase-like_protein}}
+{{#set: common name=lysophospholipase}}
+{{#set: common name=alpha_beta_hydrolase}}
+{{#set: common name=protein_chloroplastic}}
+{{#set: common name=para-nitrobenzyl_esterase}}
+{{#set: ec number=EC-3.1.1.1}}
+{{#set: gene associated=Tiso_gene_16518|Tiso_gene_2556|Tiso_gene_1537|Tiso_gene_4606|Tiso_gene_1922|Tiso_gene_17029|Tiso_gene_10066|Tiso_gene_12686|Tiso_gene_19778|Tiso_gene_4650|Tiso_gene_11351|Tiso_gene_1538|Tiso_gene_9429}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

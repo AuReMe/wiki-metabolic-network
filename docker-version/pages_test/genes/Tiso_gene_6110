@@ -1,0 +1,51 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6110 ==
+* right end position:
+** 12606
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 9466
+* centisome position:
+** 65.90086    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACSERLY-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-12726]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[SULFOCYS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[CYSTSYN-PWY]]
+* [[PWY-6936]]
+== External links  ==
+{{#set: right end position=12606}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=9466}}
+{{#set: centisome position=65.90086    }}
+{{#set: reaction associated=ACSERLY-RXN|RXN-12726|SULFOCYS-RXN}}
+{{#set: pathway associated=CYSTSYN-PWY|PWY-6936}}

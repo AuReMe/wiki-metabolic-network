@@ -1,0 +1,69 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.26.5-RXN 3.1.26.5-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** oxidoreductase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.26.5 EC-3.1.26.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CPD0-2352]][c] '''=>''' 1 [[tRNA-fragment]][c] '''+''' 1 [[CPD0-2353]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a tRNA precursor with a 5' extension and a short 3' extension[c] '''=>''' 1 a tRNA fragment[c] '''+''' 1 a tRNA precursor with a short 3' extension[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14345]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10972]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3898]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10971]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14344]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY0-1479]], tRNA processing: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1479 PWY0-1479]
+** '''4''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q02773 Q02773]
+** [http://www.uniprot.org/uniprot/P41812 P41812]
+** [http://www.uniprot.org/uniprot/P0A5X8 P0A5X8]
+** [http://www.uniprot.org/uniprot/P48206 P48206]
+** [http://www.uniprot.org/uniprot/Q9JW46 Q9JW46]
+** [http://www.uniprot.org/uniprot/Q9PNX5 Q9PNX5]
+** [http://www.uniprot.org/uniprot/Q9CJ73 Q9CJ73]
+** [http://www.uniprot.org/uniprot/P29433 P29433]
+** [http://www.uniprot.org/uniprot/P25817 P25817]
+** [http://www.uniprot.org/uniprot/P22835 P22835]
+** [http://www.uniprot.org/uniprot/P25814 P25814]
+** [http://www.uniprot.org/uniprot/P0A7Y8 P0A7Y8]
+** [http://www.uniprot.org/uniprot/Q55005 Q55005]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=oxidoreductase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.1.26.5}}
+{{#set: gene associated=Tiso_gene_14345|Tiso_gene_10972|Tiso_gene_3898|Tiso_gene_10971|Tiso_gene_14344}}
+{{#set: in pathway=PWY0-1479}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

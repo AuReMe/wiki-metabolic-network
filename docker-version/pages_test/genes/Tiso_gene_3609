@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3609 ==
+* right end position:
+** 6415
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3163
+* centisome position:
+** 19.358591    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLGLYCINE-MONOOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6415}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3163}}
+{{#set: centisome position=19.358591    }}
+{{#set: reaction associated=PEPTIDYLGLYCINE-MONOOXYGENASE-RXN}}

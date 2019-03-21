@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_743 ==
+* right end position:
+** 23716
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 18842
+* centisome position:
+** 65.06216    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLOSUCCINATE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=23716}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=18842}}
+{{#set: centisome position=65.06216    }}
+{{#set: reaction associated=ADENYLOSUCCINATE-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-7219}}

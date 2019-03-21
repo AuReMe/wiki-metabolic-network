@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6840 PWY-6840] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3803 TAX-3803]
+* common name:
+** homoglutathione biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[GLUTCYSLIG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13793]]
+*** [[Tiso_gene_14211]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=HOMOGLUTATHIONE-SYNTHASE-RXN HOMOGLUTATHIONE-SYNTHASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-3803}}
+{{#set: common name=homoglutathione biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

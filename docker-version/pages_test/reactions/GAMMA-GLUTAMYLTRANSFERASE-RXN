@@ -1,0 +1,57 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GAMMA-GLUTAMYLTRANSFERASE-RXN GAMMA-GLUTAMYLTRANSFERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** gamma-glutamyl_transferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.2.2 EC-2.3.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[5-L-GLUTAMYL-PEPTIDE]][c] '''+''' 1 [[Amino-Acids]][c] '''=>''' 1 [[Peptides-holder]][c] '''+''' 1 [[5-L-GLUTAMYL-AMINO-ACID]][c]
+* With common name(s):
+** 1 a 5-L-glutamyl-[peptide][c] '''+''' 1 an amino acid[c] '''=>''' 1 a peptide[c] '''+''' 1 a 5-L-glutamyl-amino acid[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12321]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04159 R04159]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P07314 P07314]
+** [http://www.uniprot.org/uniprot/P36269 P36269]
+** [http://www.uniprot.org/uniprot/Q9BX51 Q9BX51]
+** [http://www.uniprot.org/uniprot/P18956 P18956]
+** [http://www.uniprot.org/uniprot/P54422 P54422]
+** [http://www.uniprot.org/uniprot/P63186 P63186]
+** [http://www.uniprot.org/uniprot/Q9JUL8 Q9JUL8]
+** [http://www.uniprot.org/uniprot/Q60928 Q60928]
+** [http://www.uniprot.org/uniprot/P20735 P20735]
+** [http://www.uniprot.org/uniprot/Q39078 Q39078]
+** [http://www.uniprot.org/uniprot/Q14390 Q14390]
+** [http://www.uniprot.org/uniprot/P74181 P74181]
+** [http://www.uniprot.org/uniprot/O65652 O65652]
+** [http://www.uniprot.org/uniprot/O65653 O65653]
+** [http://www.uniprot.org/uniprot/O14194 O14194]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=gamma-glutamyl_transferase}}
+{{#set: ec number=EC-2.3.2.2}}
+{{#set: gene associated=Tiso_gene_12321}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

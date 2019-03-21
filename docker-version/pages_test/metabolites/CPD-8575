@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8575 CPD-8575] ==
+* common name:
+** a 4-hydroxyacid
+* Synonym(s):
+** a 4-hydroxyalkanoic acid
+** a 4-hydroxycarboxlic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[14-LACTONASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 4-hydroxyacid}}
+{{#set: common name=a 4-hydroxyalkanoic acid|a 4-hydroxycarboxlic acid}}
+{{#set: produced by=14-LACTONASE-RXN}}

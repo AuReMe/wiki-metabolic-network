@@ -1,0 +1,30 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14693 RXN-14693] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[D-Glucopyranuronate]][c] '''<=>''' 1 [[CPD-15530]][c]
+* With common name(s):
+** 1 D-glucopyranuronate[c] '''<=>''' 1 aldehydo-D-glucuronate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5525]], D-glucuronate degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5525 PWY-5525]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+* [[PWY3DJ-35471]], L-ascorbate biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY3DJ-35471 PWY3DJ-35471]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-7247]], &beta;-D-glucuronide and D-glucuronate degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7247 PWY-7247]
+** '''3''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=PWY-5525|PWY3DJ-35471|PWY-7247}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18491 CPD-18491] ==
+* smiles:
+** CCCCCC=CCC=CCC=CCC=CCC=CCCCCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** (6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA
+* inchi key:
+** InChIKey=XZYNVQDKYRHKFG-QOJZHLSOSA-J
+* molecular weight:
+** 1104.05    
+* Synonym(s):
+** (6Z,9Z,12Z,15Z,18Z)-tetracosa-6,9,12,15,18-pentaenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17113]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71581137 71581137]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=74084 74084]
+{{#set: smiles=CCCCCC=CCC=CCC=CCC=CCC=CCCCCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA}}
+{{#set: inchi key=InChIKey=XZYNVQDKYRHKFG-QOJZHLSOSA-J}}
+{{#set: molecular weight=1104.05    }}
+{{#set: common name=(6Z,9Z,12Z,15Z,18Z)-tetracosa-6,9,12,15,18-pentaenoyl-CoA}}
+{{#set: consumed by=RXN-17113}}

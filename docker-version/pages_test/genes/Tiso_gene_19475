@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19475 ==
+* right end position:
+** 2194
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2
+* centisome position:
+** 8.71839600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPCARBOXYKIN-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-561]]
+* [[GLUCONEO-PWY]]
+* [[PWY-7117]]
+== External links  ==
+{{#set: right end position=2194}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=8.71839600e-2}}
+{{#set: reaction associated=PEPCARBOXYKIN-RXN}}
+{{#set: pathway associated=PWY-561|GLUCONEO-PWY|PWY-7117}}

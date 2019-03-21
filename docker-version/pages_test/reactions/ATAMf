@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ATAMf ATAMf] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ATP:AMP phosphotransferase, flagella
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[AMP]][f] '''+''' 1.0 [[ATP]][f] '''=>''' 2.0 [[ADP]][f]
+* With common name(s):
+** 1.0 AMP[f] '''+''' 1.0 ATP[f] '''=>''' 2.0 ADP[f]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16793]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ATP:AMP phosphotransferase, flagella}}
+{{#set: gene associated=Tiso_gene_16793}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

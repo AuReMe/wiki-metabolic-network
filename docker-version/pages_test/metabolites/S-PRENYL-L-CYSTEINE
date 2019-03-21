@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-PRENYL-L-CYSTEINE S-PRENYL-L-CYSTEINE] ==
+* smiles:
+** CC(C)=CCSCC([N+])C(=O)[O-]
+* common name:
+** S-prenyl-L-cysteine
+* inchi key:
+** InChIKey=ULHWZNASVJIOEM-ZETCQYMHSA-N
+* molecular weight:
+** 189.272    
+* Synonym(s):
+** prenyl-L-cysteine
+
+== Reaction(s) known to consume the compound ==
+* [[1.8.3.5-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200435 25200435]
+* HMDB : HMDB12286
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=47914 47914]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06751 C06751]
+{{#set: smiles=CC(C)=CCSCC([N+])C(=O)[O-]}}
+{{#set: common name=S-prenyl-L-cysteine}}
+{{#set: inchi key=InChIKey=ULHWZNASVJIOEM-ZETCQYMHSA-N}}
+{{#set: molecular weight=189.272    }}
+{{#set: common name=prenyl-L-cysteine}}
+{{#set: consumed by=1.8.3.5-RXN}}

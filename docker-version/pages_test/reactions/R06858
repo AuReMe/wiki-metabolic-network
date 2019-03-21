@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R06858 R06858] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R611
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PHYTYL-PYROPHOSPHATE]][c] '''+''' 1.0 [[DIHYDROXYNAPHTHOATE]][c] '''=>''' 2.0 [[PROTON]][c] '''+''' 1.0 [[CPD-6947]][c] '''+''' 1.0 [[CARBON-DIOXIDE]][c] '''+''' 1.0 [[PPI]][c]
+* With common name(s):
+** 1.0 phytyl diphosphate[c] '''+''' 1.0 2-carboxy-1,4-naphthoquinol[c] '''=>''' 2.0 H+[c] '''+''' 1.0 demethylphylloquinone[c] '''+''' 1.0 CO2[c] '''+''' 1.0 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10317]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R611}}
+{{#set: gene associated=Tiso_gene_10317}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

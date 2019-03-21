@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17610 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACID-PHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXNQT-4191]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6348]]
+* [[PWY-6907]]
+* [[PWY-7356]]
+* [[PWY-6908]]
+== External links  ==
+{{#set: reaction associated=ACID-PHOSPHATASE-RXN|RXNQT-4191}}
+{{#set: pathway associated=PWY-6348|PWY-6907|PWY-7356|PWY-6908}}

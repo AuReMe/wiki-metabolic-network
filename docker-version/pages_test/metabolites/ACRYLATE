@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACRYLATE ACRYLATE] ==
+* smiles:
+** C=CC([O-])=O
+* common name:
+** acrylate
+* inchi key:
+** InChIKey=NIXOWILDQLNWCW-UHFFFAOYSA-M
+* molecular weight:
+** 71.055    
+* Synonym(s):
+** acrylic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[R311-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* UM-BBD-CPD : c0113
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25188 25188]
+* HMDB : HMDB31647
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00511 C00511]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.23524.html 23524]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=37080 37080]
+* METABOLIGHTS : MTBLC37080
+{{#set: smiles=C=CC([O-])=O}}
+{{#set: common name=acrylate}}
+{{#set: inchi key=InChIKey=NIXOWILDQLNWCW-UHFFFAOYSA-M}}
+{{#set: molecular weight=71.055    }}
+{{#set: common name=acrylic acid}}
+{{#set: produced by=R311-RXN}}

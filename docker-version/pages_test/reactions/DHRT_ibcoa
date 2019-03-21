@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DHRT_ibcoa DHRT_ibcoa] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dihydrolipoyllysine-residue (2-methylpropanoyl)transferase, Isobutyryl-CoA forming
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-281]][m] '''+''' 1.0 [[CO-A]][m] '''=>''' 1.0 [[DIHYDROLIPOAMIDE]][m] '''+''' 1.0 [[ISOBUTYRYL-COA]][m]
+* With common name(s):
+** 1.0 S-(2-methylpropanoyl)-dihydrolipoamide[m] '''+''' 1.0 coenzyme A[m] '''=>''' 1.0 dihydrolipoamide[m] '''+''' 1.0 isobutanoyl-CoA[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11793]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dihydrolipoyllysine-residue (2-methylpropanoyl)transferase, Isobutyryl-CoA forming}}
+{{#set: gene associated=Tiso_gene_11793}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

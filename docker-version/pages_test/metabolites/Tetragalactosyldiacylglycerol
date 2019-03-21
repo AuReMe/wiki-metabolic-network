@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Tetragalactosyldiacylglycerol Tetragalactosyldiacylglycerol] ==
+* common name:
+** a tetragalactosyldiacylglycerol
+* Synonym(s):
+** a (&beta;-D-galactosyl-(1->6)-(&beta;-D-galactosyl-(1->6)-&beta;-D-galactosyl-(1->6)-&beta;-D-galactosyl)-1,2-diacyl-sn-glycerol
+** TetGDG
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-16635]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tetragalactosyldiacylglycerol}}
+{{#set: common name=a (&beta;-D-galactosyl-(1->6)-(&beta;-D-galactosyl-(1->6)-&beta;-D-galactosyl-(1->6)-&beta;-D-galactosyl)-1,2-diacyl-sn-glycerol|TetGDG}}
+{{#set: produced by=RXN-16635}}

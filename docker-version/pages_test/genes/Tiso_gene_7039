@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7039 ==
+* right end position:
+** 2896
+* transcription direction:
+** POSITIVE
+* left end position:
+** 618
+* centisome position:
+** 3.5737004    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.5.1.9-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[LYSINE-DEG1-PWY]]
+== External links  ==
+{{#set: right end position=2896}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=618}}
+{{#set: centisome position=3.5737004    }}
+{{#set: reaction associated=1.5.1.9-RXN}}
+{{#set: pathway associated=LYSINE-DEG1-PWY}}

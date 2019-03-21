@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14560 ==
+* right end position:
+** 7920
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6015
+* centisome position:
+** 74.65558    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIACYLGLYKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[NAD-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[SPHINGANINE-KINASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7268]]
+* [[PWY-7269]]
+* [[PWY-7817]]
+* [[PWY-5129]]
+* [[PWY-5083]]
+* [[NADPHOS-DEPHOS-PWY-1]]
+* [[PWY-7119]]
+* [[PWY-7039]]
+* [[NADPHOS-DEPHOS-PWY]]
+== External links  ==
+{{#set: right end position=7920}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6015}}
+{{#set: centisome position=74.65558    }}
+{{#set: reaction associated=DIACYLGLYKIN-RXN|NAD-KIN-RXN|SPHINGANINE-KINASE-RXN}}
+{{#set: pathway associated=PWY-7268|PWY-7269|PWY-7817|PWY-5129|PWY-5083|NADPHOS-DEPHOS-PWY-1|PWY-7119|PWY-7039|NADPHOS-DEPHOS-PWY}}

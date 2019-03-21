@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-380 CPD-380] ==
+* smiles:
+** C(=O)([O-])C(=O)CS(=O)(=O)[O-]
+* common name:
+** 3-sulfopyruvate
+* inchi key:
+** InChIKey=BUTHMSUEBYPMKJ-UHFFFAOYSA-L
+* molecular weight:
+** 166.105    
+* Synonym(s):
+** sulfopyruvate
+** 3-Sulfopyruvic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-11737]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05528 C05528]
+* HMDB : HMDB04045
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57940 57940]
+* METABOLIGHTS : MTBLC57940
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245217 25245217]
+{{#set: smiles=C(=O)([O-])C(=O)CS(=O)(=O)[O-]}}
+{{#set: common name=3-sulfopyruvate}}
+{{#set: inchi key=InChIKey=BUTHMSUEBYPMKJ-UHFFFAOYSA-L}}
+{{#set: molecular weight=166.105    }}
+{{#set: common name=sulfopyruvate|3-Sulfopyruvic acid}}
+{{#set: reversible reaction associated=RXN-11737}}

@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACETONE ACETONE] ==
+* smiles:
+** CC(=O)C
+* common name:
+** acetone
+* inchi key:
+** InChIKey=CSCPPACGZOOCGX-UHFFFAOYSA-N
+* molecular weight:
+** 58.08    
+* Synonym(s):
+** dimethylketone
+** 2-propanone
+** propanone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8630]]
+== Reaction(s) known to produce the compound ==
+* [[ACETOACETATE-DECARBOXYLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 67-64-1
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=180 180]
+* HMDB : HMDB01659
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00207 C00207]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.175.html 175]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15347 15347]
+* METABOLIGHTS : MTBLC15347
+{{#set: smiles=CC(=O)C}}
+{{#set: common name=acetone}}
+{{#set: inchi key=InChIKey=CSCPPACGZOOCGX-UHFFFAOYSA-N}}
+{{#set: molecular weight=58.08    }}
+{{#set: common name=dimethylketone|2-propanone|propanone}}
+{{#set: consumed by=RXN-8630}}
+{{#set: produced by=ACETOACETATE-DECARBOXYLASE-RXN}}

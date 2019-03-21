@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10840 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN1G-1435]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-1436]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-1437]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-1438]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-1439]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[TREHALOSEPHOSPHA-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TREHALOSESYN-PWY]]
+* [[PWYG-321]]
+* [[PWY-881]]
+* [[TRESYN-PWY]]
+== External links  ==
+{{#set: reaction associated=RXN1G-1435|RXN1G-1436|RXN1G-1437|RXN1G-1438|RXN1G-1439|TREHALOSEPHOSPHA-RXN}}
+{{#set: pathway associated=TREHALOSESYN-PWY|PWYG-321|PWY-881|TRESYN-PWY}}

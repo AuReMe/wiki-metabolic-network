@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_355 ==
+* right end position:
+** 26672
+* transcription direction:
+** POSITIVE
+* left end position:
+** 302
+* centisome position:
+** 0.8647101    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NADH-DEHYDROG-A-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-3781]]
+* [[PWY-5083]]
+* [[PWY0-1334]]
+* [[PWY0-1335]]
+* [[PWY-4302]]
+== External links  ==
+{{#set: right end position=26672}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=302}}
+{{#set: centisome position=0.8647101    }}
+{{#set: reaction associated=NADH-DEHYDROG-A-RXN}}
+{{#set: pathway associated=PWY-6692|PWY-3781|PWY-5083|PWY0-1334|PWY0-1335|PWY-4302}}

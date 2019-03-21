@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13748 ==
+* right end position:
+** 3521
+* transcription direction:
+** POSITIVE
+* left end position:
+** 523
+* centisome position:
+** 8.558337    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TREHALA-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY0-1182]]
+* [[PWY0-1466]]
+== External links  ==
+{{#set: right end position=3521}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=523}}
+{{#set: centisome position=8.558337    }}
+{{#set: reaction associated=TREHALA-RXN}}
+{{#set: pathway associated=PWY0-1182|PWY0-1466}}

@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20023 ==
+* right end position:
+** 1487
+* transcription direction:
+** POSITIVE
+* left end position:
+** 227
+* centisome position:
+** 12.39083    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[SUPEROX-DISMUT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[DETOX1-PWY]]
+* [[PWY-6854]]
+* [[DETOX1-PWY-1]]
+== External links  ==
+{{#set: right end position=1487}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=227}}
+{{#set: centisome position=12.39083    }}
+{{#set: reaction associated=SUPEROX-DISMUT-RXN}}
+{{#set: pathway associated=DETOX1-PWY|PWY-6854|DETOX1-PWY-1}}

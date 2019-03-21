@@ -1,0 +1,22 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Nucleoside-Triphosphates Nucleoside-Triphosphates] ==
+* common name:
+** a nucleoside triphosphate
+* Synonym(s):
+** NTP
+** a nucleoside 5'-triphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[NUCLEOSIDE-TRIPHOSPHATASE-RXN]]
+* [[RXN-14024]]
+* [[NUCLEOTIDE-PYROPHOSPHATASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[NUCLEOSIDE-DIP-KIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+== External links  ==
+{{#set: common name=a nucleoside triphosphate}}
+{{#set: common name=NTP|a nucleoside 5'-triphosphate}}
+{{#set: consumed by=NUCLEOSIDE-TRIPHOSPHATASE-RXN|RXN-14024|NUCLEOTIDE-PYROPHOSPHATASE-RXN}}
+{{#set: produced by=NUCLEOSIDE-DIP-KIN-RXN}}
+{{#set: reversible reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

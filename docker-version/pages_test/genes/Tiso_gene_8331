@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8331 ==
+* right end position:
+** 10316
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8709
+* centisome position:
+** 84.23445    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MANNONDEHYDRAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7242]]
+== External links  ==
+{{#set: right end position=10316}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8709}}
+{{#set: centisome position=84.23445    }}
+{{#set: reaction associated=MANNONDEHYDRAT-RXN}}
+{{#set: pathway associated=PWY-7242}}

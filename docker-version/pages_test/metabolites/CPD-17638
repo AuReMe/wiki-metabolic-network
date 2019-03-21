@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17638 CPD-17638] ==
+* smiles:
+** CCCCCC(O)CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 7-hydroxylauroyl-CoA
+* inchi key:
+** InChIKey=RXEDUSGPUQQZEW-XIRPNGCASA-J
+* molecular weight:
+** 961.807    
+* Synonym(s):
+** 7-hydroxydodecanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12184]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91819849 91819849]
+{{#set: smiles=CCCCCC(O)CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=7-hydroxylauroyl-CoA}}
+{{#set: inchi key=InChIKey=RXEDUSGPUQQZEW-XIRPNGCASA-J}}
+{{#set: molecular weight=961.807    }}
+{{#set: common name=7-hydroxydodecanoyl-CoA}}
+{{#set: produced by=RXN-12184}}

@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TETRADECANOYL-COA TETRADECANOYL-COA] ==
+* smiles:
+** CCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** myristoyl-CoA
+* inchi key:
+** InChIKey=DUAFKXOFBZQTQE-QSGBVPJFSA-J
+* molecular weight:
+** 973.861    
+* Synonym(s):
+** Tetradecanoyl-CoA (n-C14:0CoA)
+** tetradecanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17021]]
+* [[RXN-14131]]
+* [[ACACT7m]]
+* [[RXN-17023]]
+* [[ACOA140or]]
+== Reaction(s) known to produce the compound ==
+* [[2.3.1.155-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.97-RXN]]
+* [[ACACT7]]
+== External links  ==
+* BIGG : tdcoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244582 25244582]
+* HMDB : HMDB01521
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02593 C02593]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57385 57385]
+* METABOLIGHTS : MTBLC57385
+{{#set: smiles=CCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=myristoyl-CoA}}
+{{#set: inchi key=InChIKey=DUAFKXOFBZQTQE-QSGBVPJFSA-J}}
+{{#set: molecular weight=973.861    }}
+{{#set: common name=Tetradecanoyl-CoA (n-C14:0CoA)|tetradecanoyl-CoA}}
+{{#set: consumed by=RXN-17021|RXN-14131|ACACT7m|RXN-17023|ACOA140or}}
+{{#set: produced by=2.3.1.155-RXN}}
+{{#set: reversible reaction associated=2.3.1.97-RXN|ACACT7}}

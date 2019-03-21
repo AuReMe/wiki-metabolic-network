@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-1361 PWY-1361] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** benzoyl-CoA degradation I (aerobic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-2425]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14257]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-2044]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11053 RXN-11053]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11054 RXN-11054]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2401 RXN-2401]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2424 RXN-2424]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-3641 RXN-3641]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=benzoyl-CoA degradation I (aerobic)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

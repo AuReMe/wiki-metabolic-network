@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UDP-MANNAC UDP-MANNAC] ==
+* smiles:
+** CC(=O)NC3(C(O)C(O)C(CO)OC(OP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2)))3)
+* common name:
+** UDP-N-acetyl-&alpha;-D-mannosamine
+* inchi key:
+** InChIKey=LFTYTUAZOPRMMI-ZYQOOJPVSA-L
+* molecular weight:
+** 605.342    
+* Synonym(s):
+** uridine diphosphate N-acetylmannosamine
+** uridine 5'-(trihydrogen diphosphate), P'-(2-(acetylamino)-2-deoxy-&alpha;-D-mannopyranosyl) ester
+** UDP-acetylmannosamine
+** UDP-ManNAc
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[UDPGLCNACEPIM-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01170 C01170]
+* HMDB : HMDB13112
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=68623 68623]
+* BIGG : uacmam
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245190 25245190]
+{{#set: smiles=CC(=O)NC3(C(O)C(O)C(CO)OC(OP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2)))3)}}
+{{#set: common name=UDP-N-acetyl-&alpha;-D-mannosamine}}
+{{#set: inchi key=InChIKey=LFTYTUAZOPRMMI-ZYQOOJPVSA-L}}
+{{#set: molecular weight=605.342    }}
+{{#set: common name=uridine diphosphate N-acetylmannosamine|uridine 5'-(trihydrogen diphosphate), P'-(2-(acetylamino)-2-deoxy-&alpha;-D-mannopyranosyl) ester|UDP-acetylmannosamine|UDP-ManNAc}}
+{{#set: reversible reaction associated=UDPGLCNACEPIM-RXN}}

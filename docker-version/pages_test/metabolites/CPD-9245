@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9245 CPD-9245] ==
+* smiles:
+** CCCCCCC=CCCCCCCCC(=O)[O-]
+* common name:
+** palmitoleate
+* inchi key:
+** InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-M
+* molecular weight:
+** 253.404    
+* Synonym(s):
+** palmitoleic acid (16:1&Delta;9)
+** palmitoleic acid
+** (9Z)-hexadecenoic acid
+** cis-9-hexadecenoic acid
+** (9Z)-hexadecenoate
+** cis-9-hexadecenoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-7248]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9550]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 373-49-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5461012 5461012]
+* HMDB : HMDB03229
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08362 C08362]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4574392.html 4574392]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=32372 32372]
+* METABOLIGHTS : MTBLC32372
+{{#set: smiles=CCCCCCC=CCCCCCCCC(=O)[O-]}}
+{{#set: common name=palmitoleate}}
+{{#set: inchi key=InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-M}}
+{{#set: molecular weight=253.404    }}
+{{#set: common name=palmitoleic acid (16:1&Delta;9)|palmitoleic acid|(9Z)-hexadecenoic acid|cis-9-hexadecenoic acid|(9Z)-hexadecenoate|cis-9-hexadecenoate}}
+{{#set: consumed by=RXN0-7248}}
+{{#set: produced by=RXN-9550}}

@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Oxo-octanoyl-ACPs 3-Oxo-octanoyl-ACPs] ==
+* common name:
+** a 3-oxo-octanoyl-[acp]
+* Synonym(s):
+** a 3-oxo-octanoyl-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14973]]
+* [[RXN-9524]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9523]]
+* [[RXN-14972]]
+* [[RXN-9650]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-octanoyl-[acp]}}
+{{#set: common name=a 3-oxo-octanoyl-[acyl-carrier-protein]}}
+{{#set: consumed by=RXN-14973|RXN-9524}}
+{{#set: produced by=RXN-9523|RXN-14972|RXN-9650}}

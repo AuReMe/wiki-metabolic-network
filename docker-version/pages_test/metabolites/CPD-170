@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-170 CPD-170] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(O)C(O1)OCC4(C(O)C(O)C(O)C(OCC3(C(O)C(O)C(O)C(OC2(CO)(C(O)C(O)C(CO)O2))O3))O4))
+* common name:
+** stachyose
+* inchi key:
+** InChIKey=UQZIYBXSHAGNOE-XNSRJBNMSA-N
+* molecular weight:
+** 666.583    
+* Synonym(s):
+** (2R,3R,4S,5S,6R)-2-[[(2R,3S,4S,5R,6R)-6-[(2R,3R,4S,5R,6R)-6-[(2S,3S,4R,5S)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-3,4,5-trihydroxy-oxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol
+** &alpha;-D-Galp-(1->6)-&alpha;-D-Galp-(1->6)-&alpha;-D-Glcp-(1->2)-&beta;-D-Fruf
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11501]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.4.1.67-RXN]]
+== External links  ==
+* CAS : 10094-58-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439531 439531]
+* KEGG-GLYCAN : G00278
+* HMDB : HMDB03553
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01613 C01613]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388624.html 388624]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17164 17164]
+{{#set: smiles=C(O)C1(C(O)C(O)C(O)C(O1)OCC4(C(O)C(O)C(O)C(OCC3(C(O)C(O)C(O)C(OC2(CO)(C(O)C(O)C(CO)O2))O3))O4))}}
+{{#set: common name=stachyose}}
+{{#set: inchi key=InChIKey=UQZIYBXSHAGNOE-XNSRJBNMSA-N}}
+{{#set: molecular weight=666.583    }}
+{{#set: common name=(2R,3R,4S,5S,6R)-2-[[(2R,3S,4S,5R,6R)-6-[(2R,3R,4S,5R,6R)-6-[(2S,3S,4R,5S)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-3,4,5-trihydroxy-oxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol|&alpha;-D-Galp-(1->6)-&alpha;-D-Galp-(1->6)-&alpha;-D-Glcp-(1->2)-&beta;-D-Fruf}}
+{{#set: consumed by=RXN-11501}}
+{{#set: reversible reaction associated=2.4.1.67-RXN}}

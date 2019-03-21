@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8127 ==
+* right end position:
+** 5931
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4553
+* centisome position:
+** 43.39083    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5931}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4553}}
+{{#set: centisome position=43.39083    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN}}

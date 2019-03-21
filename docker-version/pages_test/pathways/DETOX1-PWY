@@ -1,0 +1,51 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=DETOX1-PWY DETOX1-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superoxide radicals degradation
+* Synonym(s):
+** removal of superoxide radicals
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[CATAL-RXN]]
+** 8 associated gene(s):
+*** [[Tiso_gene_3006]]
+*** [[Tiso_gene_11607]]
+*** [[Tiso_gene_11916]]
+*** [[Tiso_gene_12499]]
+*** [[Tiso_gene_5435]]
+*** [[Tiso_gene_4990]]
+*** [[Tiso_gene_19683]]
+*** [[Tiso_gene_15923]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+* [[SUPEROX-DISMUT-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_3587]]
+*** [[Tiso_gene_15757]]
+*** [[Tiso_gene_12651]]
+*** [[Tiso_gene_20023]]
+*** [[Tiso_gene_12652]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=DETOX1-PWY DETOX1-PWY]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=DETOX1-PWY DETOX1-PWY]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superoxide radicals degradation}}
+{{#set: common name=removal of superoxide radicals}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

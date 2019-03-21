@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9459 ==
+* right end position:
+** 4695
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3268
+* centisome position:
+** 35.019287    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.26.4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4695}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3268}}
+{{#set: centisome position=35.019287    }}
+{{#set: reaction associated=3.1.26.4-RXN}}

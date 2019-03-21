@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY4LZ-257 PWY4LZ-257] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** superpathway of fermentation (Chlamydomonas reinhardtii)
+* Synonym(s):
+** pyruvate fermentation (Chlamydomonas overview)
+** superpathway of fermentation from pyruvate (Chlamydomonas reinhardtii)
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''13''' reactions in the full pathway
+* [[ACETALD-DEHYDROG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_2052]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[ALCOHOL-DEHYDROG-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18459]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_5425]]
+*** [[Tiso_gene_6562]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[HYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4288]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PWY-5480]]
+** 0 associated gene:
+* [[PWY-5486]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETATEKIN-RXN ACETATEKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=DLACTDEHYDROGNAD-RXN DLACTDEHYDROGNAD-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSACETYLTRANS-RXN PHOSACETYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5600 PWY-5600]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5600 PWY-5600]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUVFORMLY-RXN PYRUVFORMLY-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=superpathway of fermentation (Chlamydomonas reinhardtii)}}
+{{#set: common name=pyruvate fermentation (Chlamydomonas overview)|superpathway of fermentation from pyruvate (Chlamydomonas reinhardtii)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=13}}
+{{#set: completion rate=38.0}}

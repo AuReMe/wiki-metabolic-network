@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16237 ==
+* right end position:
+** 4391
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2776
+* centisome position:
+** 61.785    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4.1.2.20-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[KDGALDOL-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[GLUCARDEG-PWY]]
+* [[GALACTARDEG-PWY]]
+== External links  ==
+{{#set: right end position=4391}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2776}}
+{{#set: centisome position=61.785    }}
+{{#set: reaction associated=4.1.2.20-RXN|KDGALDOL-RXN}}
+{{#set: pathway associated=GLUCARDEG-PWY|GALACTARDEG-PWY}}

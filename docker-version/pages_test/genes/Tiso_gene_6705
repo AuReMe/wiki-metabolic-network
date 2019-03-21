@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6705 ==
+* right end position:
+** 4496
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 971
+* centisome position:
+** 8.14324    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LYSINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=4496}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=971}}
+{{#set: centisome position=8.14324    }}
+{{#set: reaction associated=LYSINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

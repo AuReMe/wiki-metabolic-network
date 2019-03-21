@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17306 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MYO-INOSITOL-2-DEHYDROGENASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[P562-PWY]]
+* [[PWY-7241]]
+* [[PWY-7237]]
+* [[PWY-5940]]
+== External links  ==
+{{#set: reaction associated=MYO-INOSITOL-2-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=P562-PWY|PWY-7241|PWY-7237|PWY-5940}}

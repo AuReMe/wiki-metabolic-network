@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-809 CPD-809] ==
+* smiles:
+** C(=O)(N)NC(=O)N
+* common name:
+** biuret
+* inchi key:
+** InChIKey=OHJMTUPIZMNBFR-UHFFFAOYSA-N
+* molecular weight:
+** 103.08    
+* Synonym(s):
+** allophanamide
+** carbamylurea
+** imidodicarbonic diamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[R468-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7913 7913]
+* CAS : 108-19-0
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=8020 8020]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06555 C06555]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7625.html 7625]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18138 18138]
+{{#set: smiles=C(=O)(N)NC(=O)N}}
+{{#set: common name=biuret}}
+{{#set: inchi key=InChIKey=OHJMTUPIZMNBFR-UHFFFAOYSA-N}}
+{{#set: molecular weight=103.08    }}
+{{#set: common name=allophanamide|carbamylurea|imidodicarbonic diamide}}
+{{#set: produced by=R468-RXN}}

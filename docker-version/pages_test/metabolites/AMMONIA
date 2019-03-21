@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=AMMONIA AMMONIA] ==
+* smiles:
+** [NH3]
+* common name:
+** ammonia
+* inchi key:
+** InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-N
+* molecular weight:
+** 17.03    
+* Synonym(s):
+** NH3
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[R00357]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-11811]]
+== External links  ==
+* CAS : 7664-41-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=222 222]
+* KNAPSACK : C00007267
+* HMDB : HMDB00051
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00014 C00014]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.217.html 217]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16134 16134]
+* METABOLIGHTS : MTBLC16134
+{{#set: smiles=[NH3]}}
+{{#set: common name=ammonia}}
+{{#set: inchi key=InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-N}}
+{{#set: molecular weight=17.03    }}
+{{#set: common name=NH3}}
+{{#set: produced by=R00357}}
+{{#set: reversible reaction associated=RXN-11811}}

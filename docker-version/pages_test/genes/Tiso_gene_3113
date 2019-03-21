@@ -1,0 +1,19 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3113 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NADH-DEHYDROG-A-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[NADHor_2m]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-3781]]
+* [[PWY-5083]]
+* [[PWY0-1334]]
+* [[PWY0-1335]]
+* [[PWY-4302]]
+== External links  ==
+{{#set: reaction associated=NADH-DEHYDROG-A-RXN|NADHor_2m}}
+{{#set: pathway associated=PWY-6692|PWY-3781|PWY-5083|PWY0-1334|PWY0-1335|PWY-4302}}

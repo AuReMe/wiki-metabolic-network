@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5281 ==
+* right end position:
+** 5113
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3545
+* centisome position:
+** 25.889141    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYOXII-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7919]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5386]]
+== External links  ==
+{{#set: right end position=5113}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3545}}
+{{#set: centisome position=25.889141    }}
+{{#set: reaction associated=GLYOXII-RXN|RXN-7919}}
+{{#set: pathway associated=PWY-5386}}

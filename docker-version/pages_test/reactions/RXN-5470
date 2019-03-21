@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-5470 RXN-5470] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.267 EC-2.4.1.267]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-166]][c] '''+''' 1 [[CPD-5168]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[CPD-5169]][c] '''+''' 1 [[DOLICHOLP]][c]
+* With common name(s):
+** 1 a dolichyl &beta;-D-glucosyl phosphate[c] '''+''' 1 &alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;6)]-&alpha;-D-Man-(1&rarr;6)]-&beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-GlcNAc-diphosphodolichol[c] '''=>''' 1 H+[c] '''+''' 1 &alpha;-D-Glc-(1&rarr;3)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;6)]-&alpha;-D-Man-(1&rarr;6)]-&beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-GlcNAc-diphosphodolichol[c] '''+''' 1 a dolichyl phosphate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]], protein N-glycosylation (eukaryotic, high mannose): [http://metacyc.org/META/NEW-IMAGE?object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]
+** '''19''' reactions found over '''19''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30638 30638]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R06262 R06262]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.4.1.267}}
+{{#set: in pathway=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

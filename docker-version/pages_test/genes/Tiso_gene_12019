@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12019 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.4.11-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13334]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6367]]
+* [[PWY-6351]]
+* [[PWY-7039]]
+* [[LIPASYN-PWY]]
+== External links  ==
+{{#set: reaction associated=3.1.4.11-RXN|RXN-13334}}
+{{#set: pathway associated=PWY-6367|PWY-6351|PWY-7039|LIPASYN-PWY}}

@@ -1,0 +1,69 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7282 PWY-7282] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PNKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PNPOXI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1471]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PRPPAMIDOTRANS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1007]]
+*** [[Tiso_gene_9914]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PYRIDOXINE-4-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18748]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[PYRIDOXKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PYRIMSYN3-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_16224]]
+*** [[Tiso_gene_17192]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14506 RXN-14506]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14507 RXN-14507]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-3797 RXN3O-3797]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast)}}
+{{#set: reaction found=6}}
+{{#set: total reaction=9}}
+{{#set: completion rate=67.0}}

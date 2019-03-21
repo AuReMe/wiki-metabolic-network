@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2337 ==
+* right end position:
+** 2648
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1085
+* centisome position:
+** 5.484507    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMATE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLUTAMATE-DEG1-PWY]]
+* [[ALACAT2-PWY]]
+* [[P162-PWY]]
+* [[PWY-5022]]
+* [[PWY-6728]]
+* [[PWY-7126]]
+== External links  ==
+{{#set: right end position=2648}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1085}}
+{{#set: centisome position=5.484507    }}
+{{#set: reaction associated=GLUTAMATE-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=GLUTAMATE-DEG1-PWY|ALACAT2-PWY|P162-PWY|PWY-5022|PWY-6728|PWY-7126}}

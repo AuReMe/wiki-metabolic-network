@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-481 CPD-481] ==
+* smiles:
+** CCCCCCCCCCCCCC=CC(C(COP([O-])(=O)OCC[N+](C)(C)C)[N+])O
+* common name:
+** sphingosylphosphorylcholine
+* inchi key:
+** InChIKey=JLVSPVFPBBFMBE-HXSWCURESA-O
+* molecular weight:
+** 465.632    
+* Synonym(s):
+** sphingosyl-phosphocholine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12339]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245908 25245908]
+* HMDB : HMDB06482
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58906 58906]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03640 C03640]
+{{#set: smiles=CCCCCCCCCCCCCC=CC(C(COP([O-])(=O)OCC[N+](C)(C)C)[N+])O}}
+{{#set: common name=sphingosylphosphorylcholine}}
+{{#set: inchi key=InChIKey=JLVSPVFPBBFMBE-HXSWCURESA-O}}
+{{#set: molecular weight=465.632    }}
+{{#set: common name=sphingosyl-phosphocholine}}
+{{#set: produced by=RXN-12339}}

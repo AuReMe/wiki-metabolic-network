@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6167 PWY-6167] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** flavin biosynthesis II (archaea)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''10''' reactions in the full pathway
+* [[DIOHBUTANONEPSYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14275]]
+*** [[Tiso_gene_19932]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[FADSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_5393]]
+*** [[Tiso_gene_5392]]
+*** [[Tiso_gene_7479]]
+*** [[Tiso_gene_1086]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RIBOFLAVIN-SYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13686]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10058]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17798]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=LUMAZINESYN-RXN LUMAZINESYN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RIBOPHOSPHAT-RXN RIBOPHOSPHAT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10055 RXN-10055]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10056 RXN-10056]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10057 RXN-10057]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9296 RXN-9296]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=flavin biosynthesis II (archaea)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=10}}
+{{#set: completion rate=40.0}}

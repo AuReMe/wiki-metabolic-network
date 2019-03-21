@@ -1,0 +1,62 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7356 PWY-7356] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** thiamine salvage IV (yeast)
+* Synonym(s):
+** thiamin salvage IV (yeast)
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''7''' reactions in the full pathway
+* [[PYRIMSYN3-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_16224]]
+*** [[Tiso_gene_17192]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXNQT-4191]]
+** 5 associated gene(s):
+*** [[Tiso_gene_4497]]
+*** [[Tiso_gene_15256]]
+*** [[Tiso_gene_17625]]
+*** [[Tiso_gene_11838]]
+*** [[Tiso_gene_17610]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[THI-P-SYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_10320]]
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[THIAMIN-PYROPHOSPHOKINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16512]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[THIAZOLSYN3-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3173]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=OHMETPYRKIN-RXN OHMETPYRKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=THIAMINASE-RXN THIAMINASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=thiamine salvage IV (yeast)}}
+{{#set: common name=thiamin salvage IV (yeast)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=7}}
+{{#set: completion rate=71.0}}

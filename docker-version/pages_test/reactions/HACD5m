@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HACD5m HACD5m] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 3-hydroxyacyl-CoA dehydrogenase (C12:0)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NADH]][m] '''+''' 1.0 [[PROTON]][m] '''+''' 1.0 [[CPD0-2105]][m] '''<=>''' 1.0 [[CPD0-2107]][m] '''+''' 1.0 [[NAD]][m]
+* With common name(s):
+** 1.0 NADH[m] '''+''' 1.0 H+[m] '''+''' 1.0 3-oxododecanoyl-CoA[m] '''<=>''' 1.0 (S)-3-hydroxydodecanoyl-CoA[m] '''+''' 1.0 NAD+[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5857]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=3-hydroxyacyl-CoA dehydrogenase (C12:0)}}
+{{#set: gene associated=Tiso_gene_5857}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

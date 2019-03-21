@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-646 RXN-646] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.1.107 EC-3.5.1.107]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[MALEAMATE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[MALEATE]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 maleamate[c] '''+''' 1 H2O[c] '''=>''' 1 maleate[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14341]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6993]], nicotine degradation II (pyrrolidine pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6993 PWY-6993]
+** '''2''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-722]], nicotinate degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-722 PWY-722]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-5033]], nicotinate degradation II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5033 PWY-5033]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-7128]], nicotine degradation III (VPP pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7128 PWY-7128]
+** '''1''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27385 27385]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03540 R03540]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.5.1.107}}
+{{#set: gene associated=Tiso_gene_14341}}
+{{#set: in pathway=PWY-6993|PWY-722|PWY-5033|PWY-7128}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6893 PWY-6893] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** thiamine diphosphate biosynthesis II (Bacillus)
+* Synonym(s):
+** vitamin B1 biosynthesis II
+** thiamin diphosphate biosynthesis II (Bacillus)
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-12610]]
+** 3 associated gene(s):
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_10320]]
+*** [[Tiso_gene_2160]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=THI-P-KIN-RXN THI-P-KIN-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=thiamine diphosphate biosynthesis II (Bacillus)}}
+{{#set: common name=vitamin B1 biosynthesis II|thiamin diphosphate biosynthesis II (Bacillus)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

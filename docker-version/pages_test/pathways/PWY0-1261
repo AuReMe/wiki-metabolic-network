@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1261 PWY0-1261] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** anhydromuropeptides recycling
+* Synonym(s):
+** 1,6-anhydro-N-acetylmuramic acid recycling
+** cell wall recycling
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''10''' reactions in the full pathway
+* [[NAG1P-URIDYLTRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_19372]]
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_6458]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN0-5226]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14122]]
+*** [[Tiso_gene_1129]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.157-RXN 2.3.1.157-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=5.4.2.10-RXN 5.4.2.10-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=NAG6PDEACET-RXN NAG6PDEACET-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-2361 RXN0-2361]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-4621 RXN0-4621]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-4641 RXN0-4641]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5225 RXN0-5225]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5227 RXN0-5227]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1261 PWY0-1261]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=anhydromuropeptides recycling}}
+{{#set: common name=1,6-anhydro-N-acetylmuramic acid recycling|cell wall recycling}}
+{{#set: reaction found=2}}
+{{#set: total reaction=10}}
+{{#set: completion rate=20.0}}

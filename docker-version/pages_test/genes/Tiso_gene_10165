@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10165 ==
+* right end position:
+** 8281
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7216
+* centisome position:
+** 82.40265    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NADPH-DEHYDROGENASE-FLAVIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12445]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8281}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7216}}
+{{#set: centisome position=82.40265    }}
+{{#set: reaction associated=NADPH-DEHYDROGENASE-FLAVIN-RXN|RXN-12445}}

@@ -1,0 +1,58 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7092 PWY-7092] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** neolinustatin bioactivation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-13603]]
+** 14 associated gene(s):
+*** [[Tiso_gene_15067]]
+*** [[Tiso_gene_6188]]
+*** [[Tiso_gene_3467]]
+*** [[Tiso_gene_6007]]
+*** [[Tiso_gene_13306]]
+*** [[Tiso_gene_13305]]
+*** [[Tiso_gene_5836]]
+*** [[Tiso_gene_8669]]
+*** [[Tiso_gene_2843]]
+*** [[Tiso_gene_10001]]
+*** [[Tiso_gene_6497]]
+*** [[Tiso_gene_2344]]
+*** [[Tiso_gene_15066]]
+*** [[Tiso_gene_6187]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-9674]]
+** 14 associated gene(s):
+*** [[Tiso_gene_15066]]
+*** [[Tiso_gene_13306]]
+*** [[Tiso_gene_3467]]
+*** [[Tiso_gene_2344]]
+*** [[Tiso_gene_6497]]
+*** [[Tiso_gene_8669]]
+*** [[Tiso_gene_2843]]
+*** [[Tiso_gene_6007]]
+*** [[Tiso_gene_10001]]
+*** [[Tiso_gene_6188]]
+*** [[Tiso_gene_13305]]
+*** [[Tiso_gene_6187]]
+*** [[Tiso_gene_15067]]
+*** [[Tiso_gene_5836]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11733 RXN-11733]
+== External links  ==
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=neolinustatin bioactivation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

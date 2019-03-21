@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11820-STEARIC_ACID/HYDROGEN-PEROXIDE//R-2-HYDROXYSTEARATE/WATER.58. RXN-11820-STEARIC_ACID/HYDROGEN-PEROXIDE//R-2-HYDROXYSTEARATE/WATER.58.] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[HYDROGEN-PEROXIDE]][c] '''+''' 1.0 [[STEARIC_ACID]][c] '''=>''' 1.0 [[R-2-HYDROXYSTEARATE]][c] '''+''' 1.0 [[WATER]][c]
+* With common name(s):
+** 1.0 hydrogen peroxide[c] '''+''' 1.0 stearate[c] '''=>''' 1.0 (R)-2-hydroxystearate[c] '''+''' 1.0 H2O[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[gap-filling]]
+** Source: [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+*** Tool: [[meneco]]
+**** Comment: [[added for gapfilling]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=gap-filling}}
+{{#set: reconstruction source=gap-filling-gapfilling_solution_with_meneco_draft_medium}}
+{{#set: reconstruction tool=meneco}}
+{{#set: reconstruction comment=added for gapfilling}}

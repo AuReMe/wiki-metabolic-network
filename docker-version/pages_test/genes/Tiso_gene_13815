@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13815 ==
+* right end position:
+** 5366
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4148
+* centisome position:
+** 68.63004    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-17155]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7735]]
+== External links  ==
+{{#set: right end position=5366}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4148}}
+{{#set: centisome position=68.63004    }}
+{{#set: reaction associated=RXN-17155}}
+{{#set: pathway associated=PWY-7735}}

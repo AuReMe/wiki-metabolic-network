@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15699 CPD-15699] ==
+* smiles:
+** [CH](=O)C(O)C(O)C(O)CO
+* common name:
+** aldehydo-L-arabinose
+* inchi key:
+** InChIKey=PYMYPHUHKUWMLA-VAYJURFESA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14102]]
+* [[RXN-14808]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460291 5460291]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=6182 6182]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11476 C11476]
+{{#set: smiles=[CH](=O)C(O)C(O)C(O)CO}}
+{{#set: common name=aldehydo-L-arabinose}}
+{{#set: inchi key=InChIKey=PYMYPHUHKUWMLA-VAYJURFESA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: reversible reaction associated=RXN-14102|RXN-14808}}

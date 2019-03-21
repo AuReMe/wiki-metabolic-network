@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=COB-I-ALAMIN COB-I-ALAMIN] ==
+* smiles:
+** CC%10(=C(C)C=C9(N8(C%12(OC(CO)C(OP([O-])(=O)OC(C)CNC(=O)CCC1(C)(C(CC(N)=O)[CH]%11(C7(C)(C(C)(CC(N)=O)C(CCC(=O)N)C6(C(C)=C5(C(CC(=O)N)(C)C(CCC(N)=O)C4(C=C3(C(C)(C)C(CCC(N)=O)C2(C(C)=C1N([Co----]([N+]=23)([N+]=45)([N+]=67)[N+](=C8)C9=C%10)%11)))))))))C(O)%12))))
+* common name:
+** cob(I)alamin
+* inchi key:
+** InChIKey=OMAOKVYASDIYQG-DSRCUDDDSA-L
+* molecular weight:
+** 1329.36    
+* Synonym(s):
+** cobalamin
+** B12s
+
+== Reaction(s) known to consume the compound ==
+* [[COBALADENOSYLTRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 18534-66-2
+* BIGG : cbl1
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460183 5460183]
+* HMDB : HMDB03429
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00853 C00853]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573816.html 4573816]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15982 15982]
+* METABOLIGHTS : MTBLC15982
+{{#set: smiles=CC%10(=C(C)C=C9(N8(C%12(OC(CO)C(OP([O-])(=O)OC(C)CNC(=O)CCC1(C)(C(CC(N)=O)[CH]%11(C7(C)(C(C)(CC(N)=O)C(CCC(=O)N)C6(C(C)=C5(C(CC(=O)N)(C)C(CCC(N)=O)C4(C=C3(C(C)(C)C(CCC(N)=O)C2(C(C)=C1N([Co----]([N+]=23)([N+]=45)([N+]=67)[N+](=C8)C9=C%10)%11)))))))))C(O)%12))))}}
+{{#set: common name=cob(I)alamin}}
+{{#set: inchi key=InChIKey=OMAOKVYASDIYQG-DSRCUDDDSA-L}}
+{{#set: molecular weight=1329.36    }}
+{{#set: common name=cobalamin|B12s}}
+{{#set: consumed by=COBALADENOSYLTRANS-RXN}}

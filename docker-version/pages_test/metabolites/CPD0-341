@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-341 CPD0-341] ==
+* smiles:
+** C(N)(=O)CCCCC(SC(=O)CCC(=O)[O-])CCS
+* common name:
+** S-succinyl-dihydrolipoamide
+* inchi key:
+** InChIKey=RJCJWONCSKSHES-VIFPVBQESA-M
+* molecular weight:
+** 306.414    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[AKGDHe2r]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657579 90657579]
+* HMDB : HMDB01177
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17432 17432]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01169 C01169]
+{{#set: smiles=C(N)(=O)CCCCC(SC(=O)CCC(=O)[O-])CCS}}
+{{#set: common name=S-succinyl-dihydrolipoamide}}
+{{#set: inchi key=InChIKey=RJCJWONCSKSHES-VIFPVBQESA-M}}
+{{#set: molecular weight=306.414    }}
+{{#set: reversible reaction associated=AKGDHe2r}}

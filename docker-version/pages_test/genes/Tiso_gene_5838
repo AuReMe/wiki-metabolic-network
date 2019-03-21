@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5838 ==
+* right end position:
+** 3410
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1939
+* centisome position:
+** 15.061363    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MERCAPYSTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-6359]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-6385]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[THIOSULFATE-SULFURTRANSFERASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5329]]
+* [[PWY-5350]]
+== External links  ==
+{{#set: right end position=3410}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1939}}
+{{#set: centisome position=15.061363    }}
+{{#set: reaction associated=MERCAPYSTRANS-RXN|RXN0-6359|RXN0-6385|THIOSULFATE-SULFURTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-5329|PWY-5350}}

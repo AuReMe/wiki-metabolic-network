@@ -1,0 +1,81 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16271 ==
+* right end position:
+** 1497
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 255
+* centisome position:
+** 5.697051    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3PGAREARR-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[R04594]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RIBAZOLEPHOSPHAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15509]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15510]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15511]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15512]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15513]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16788]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8770]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5114]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[SERSYN-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[P124-PWY]]
+* [[COBALSYN-PWY]]
+* [[P341-PWY]]
+* [[PWY-1622]]
+* [[GLUCONEO-PWY]]
+* [[PWY-6405]]
+* [[PWY-6269]]
+* [[PWY-5509]]
+* [[PWY-5508]]
+* [[PWY66-399]]
+* [[PWY-1042]]
+* [[PWY-5723]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[PWY-5484]]
+* [[PWY-7124]]
+* [[PWY-6142]]
+* [[PWY-7003]]
+* [[PWY-2221]]
+* [[PWY-6886]]
+* [[PWY-7218]]
+* [[P122-PWY]]
+== External links  ==
+{{#set: right end position=1497}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=255}}
+{{#set: centisome position=5.697051    }}
+{{#set: reaction associated=3PGAREARR-RXN|R04594|RIBAZOLEPHOSPHAT-RXN|RXN-15509|RXN-15510|RXN-15511|RXN-15512|RXN-15513|RXN-16788|RXN-8770|RXN0-5114}}
+{{#set: pathway associated=SERSYN-PWY|GLYCOLYSIS|PWY-6901|P124-PWY|COBALSYN-PWY|P341-PWY|PWY-1622|GLUCONEO-PWY|PWY-6405|PWY-6269|PWY-5509|PWY-5508|PWY66-399|PWY-1042|PWY-5723|ANAGLYCOLYSIS-PWY|PWY-5484|PWY-7124|PWY-6142|PWY-7003|PWY-2221|PWY-6886|PWY-7218|P122-PWY}}

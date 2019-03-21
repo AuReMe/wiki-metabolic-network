@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CANAVANINE CANAVANINE] ==
+* smiles:
+** C(CC([N+])C(=O)[O-])ONC(=[N+])N
+* common name:
+** L-canavanine
+* inchi key:
+** InChIKey=FSBIGDSBMBYOPN-VKHMYHEASA-O
+* molecular weight:
+** 177.183    
+* Synonym(s):
+** canavanine
+** 2-amino-4-(guanidinooxy)butyrate
+** 2-amino-4-(guanidinooxy)butyric acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-22]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 543-38-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=36688185 36688185]
+* HMDB : HMDB02706
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=78902 78902]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00308 C00308]
+{{#set: smiles=C(CC([N+])C(=O)[O-])ONC(=[N+])N}}
+{{#set: common name=L-canavanine}}
+{{#set: inchi key=InChIKey=FSBIGDSBMBYOPN-VKHMYHEASA-O}}
+{{#set: molecular weight=177.183    }}
+{{#set: common name=canavanine|2-amino-4-(guanidinooxy)butyrate|2-amino-4-(guanidinooxy)butyric acid}}
+{{#set: produced by=RXN-22}}

@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2206 ==
+* right end position:
+** 18049
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 11694
+* centisome position:
+** 58.072205    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=18049}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=11694}}
+{{#set: centisome position=58.072205    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN}}

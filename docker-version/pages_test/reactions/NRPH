@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NRPH NRPH] ==
+* direction:
+** REVERSIBLE
+* common name:
+** nicotinate D-ribonucleotide phosphohydrolase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][c] '''+''' 1.0 [[NICOTINATE_NUCLEOTIDE]][c] '''<=>''' 1.0 [[Pi]][c] '''+''' 1.0 [[CPD-8259]][c]
+* With common name(s):
+** 1.0 H2O[c] '''+''' 1.0 &beta;-nicotinate D-ribonucleotide[c] '''<=>''' 1.0 phosphate[c] '''+''' 1.0 &beta;-D-ribosylnicotinate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5911]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=nicotinate D-ribonucleotide phosphohydrolase}}
+{{#set: gene associated=Tiso_gene_5911}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

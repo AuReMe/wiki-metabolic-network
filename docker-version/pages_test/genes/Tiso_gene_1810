@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1810 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.10.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[2.7.12.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14906]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=2.7.10.1-RXN|2.7.12.1-RXN|RXN-14906}}

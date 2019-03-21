@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8974 CPD-8974] ==
+* smiles:
+** COP([O-])(=S)OC
+* common name:
+** dimethylthiophosphate
+* inchi key:
+** InChIKey=WWJJVKAEQGGYHJ-UHFFFAOYSA-M
+* molecular weight:
+** 141.101    
+* Synonym(s):
+** O,O-dimethylthiophosphate
+** O,O-dimethyl phosphorothionate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8743]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3539116 3539116]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2777580.html 2777580]
+{{#set: smiles=COP([O-])(=S)OC}}
+{{#set: common name=dimethylthiophosphate}}
+{{#set: inchi key=InChIKey=WWJJVKAEQGGYHJ-UHFFFAOYSA-M}}
+{{#set: molecular weight=141.101    }}
+{{#set: common name=O,O-dimethylthiophosphate|O,O-dimethyl phosphorothionate}}
+{{#set: produced by=RXN-8743}}

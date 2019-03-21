@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=UBIQUITIN-THIOLESTERASE-RXN UBIQUITIN-THIOLESTERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Ubiquitin-C-terminal-thioesters]][c] '''+''' 1.0 [[WATER]][c] '''=>''' 1.0 [[Ubiquitins]][c] '''+''' 1.0 [[Thiols]][c]
+* With common name(s):
+** 1.0 a ubiquitin C-terminal thioester[c] '''+''' 1.0 H2O[c] '''=>''' 1.0 a ubiquitin[c] '''+''' 1.0 a thiol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16450]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8650]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11533]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9986]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19804]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7260]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14310]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_16450|Tiso_gene_8650|Tiso_gene_11533|Tiso_gene_9986|Tiso_gene_19804|Tiso_gene_7260|Tiso_gene_14310}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

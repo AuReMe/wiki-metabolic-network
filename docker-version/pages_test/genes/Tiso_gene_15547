@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15547 ==
+* right end position:
+** 4534
+* transcription direction:
+** POSITIVE
+* left end position:
+** 105
+* centisome position:
+** 2.112251    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UNSPECIFIC-MONOOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4534}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=105}}
+{{#set: centisome position=2.112251    }}
+{{#set: reaction associated=UNSPECIFIC-MONOOXYGENASE-RXN}}

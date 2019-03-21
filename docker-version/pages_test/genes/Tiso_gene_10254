@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10254 ==
+* right end position:
+** 8475
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6520
+* centisome position:
+** 75.08061    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-12720]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[SULFATE-ADENYLYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6932]]
+* [[DISSULFRED-PWY]]
+* [[PWY-5340]]
+* [[PWY-5278]]
+* [[SULFMETII-PWY]]
+* [[PWY-6683]]
+* [[P224-PWY]]
+== External links  ==
+{{#set: right end position=8475}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6520}}
+{{#set: centisome position=75.08061    }}
+{{#set: reaction associated=RXN-12720|SULFATE-ADENYLYLTRANS-RXN}}
+{{#set: pathway associated=PWY-6932|DISSULFRED-PWY|PWY-5340|PWY-5278|SULFMETII-PWY|PWY-6683|P224-PWY}}

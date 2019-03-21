@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7725 PWY-7725] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** arachidonate biosynthesis V (8-detaturase, mammals)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-16094]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16095]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16096]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16097]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16064 RXN-16064]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17105 RXN-17105]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=arachidonate biosynthesis V (8-detaturase, mammals)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=6}}
+{{#set: completion rate=67.0}}

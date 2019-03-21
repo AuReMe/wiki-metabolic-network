@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7592 PWY-7592] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** arachidonate biosynthesis III (6-desaturase, mammals)
+* Synonym(s):
+** arachidonic acid biosynthesis III (metazoa)
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6000]]
+** 0 associated gene:
+* [[RXN-12968]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12777 RXN-12777]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12969 RXN-12969]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12971 RXN-12971]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16064 RXN-16064]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=arachidonate biosynthesis III (6-desaturase, mammals)}}
+{{#set: common name=arachidonic acid biosynthesis III (metazoa)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

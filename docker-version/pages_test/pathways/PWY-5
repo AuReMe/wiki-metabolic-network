@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5 PWY-5] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3803 TAX-3803]
+* common name:
+** canavanine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-10]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12592]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-22]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2485]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-25 RXN-25]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9 RXN-9]
+== External links  ==
+{{#set: taxonomic range=TAX-3803}}
+{{#set: common name=canavanine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

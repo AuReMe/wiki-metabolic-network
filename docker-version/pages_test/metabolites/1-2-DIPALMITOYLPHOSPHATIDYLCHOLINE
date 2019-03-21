@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=1-2-DIPALMITOYLPHOSPHATIDYLCHOLINE 1-2-DIPALMITOYLPHOSPHATIDYLCHOLINE] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(OCC(OC(=O)CCCCCCCCCCCCCCC)COP(OCC[N+](C)(C)C)([O-])=O)=O
+* common name:
+** 1,2-dipalmitoyl-phosphatidylcholine
+* inchi key:
+** InChIKey=KILNVBDSWZSGLL-KXQOOQHDSA-N
+* molecular weight:
+** 734.048    
+* Synonym(s):
+** 1,2-dipalmitoylphosphatidylcholine
+** 1-16:0-2-16:0-phosphatidylcholine
+** 1,2-dihexadecanoyl-sn-glycero-3-phosphocholine
+** 16:0-16:0-PC
+** 1,2-dipalmitoylphosphotidylcholine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15065]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15066]]
+== External links  ==
+* CAS : 2644-64-6
+* LIPID_MAPS : LMGP01010564
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=452110 452110]
+* HMDB : HMDB00564
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?D03585 D03585]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5908.html 5908]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72999 72999]
+* METABOLIGHTS : MTBLC72999
+{{#set: smiles=CCCCCCCCCCCCCCCC(OCC(OC(=O)CCCCCCCCCCCCCCC)COP(OCC[N+](C)(C)C)([O-])=O)=O}}
+{{#set: common name=1,2-dipalmitoyl-phosphatidylcholine}}
+{{#set: inchi key=InChIKey=KILNVBDSWZSGLL-KXQOOQHDSA-N}}
+{{#set: molecular weight=734.048    }}
+{{#set: common name=1,2-dipalmitoylphosphatidylcholine|1-16:0-2-16:0-phosphatidylcholine|1,2-dihexadecanoyl-sn-glycero-3-phosphocholine|16:0-16:0-PC|1,2-dipalmitoylphosphotidylcholine}}
+{{#set: consumed by=RXN-15065}}
+{{#set: reversible reaction associated=RXN-15066}}

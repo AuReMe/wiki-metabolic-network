@@ -1,0 +1,20 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11818 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[H2Ot]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[H2Otf]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[H2Oth]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[H2Othu]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[H2Otm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[H2Otx]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=H2Ot|H2Otf|H2Oth|H2Othu|H2Otm|H2Otx}}

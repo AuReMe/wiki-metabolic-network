@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17874 RXN-17874] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** methionine_aminopeptidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.11.18 EC-3.4.11.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-methionyl-L-cysteinyl-Protein]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[N-terminal-L-cysteine]][c] '''+''' 1 [[MET]][c]
+* With common name(s):
+** 1 an N-terminal-L-methionyl-L-cysteinyl-[protein][c] '''+''' 1 H2O[c] '''=>''' 1 an N-terminal L-cysteinyl-[protein][c] '''+''' 1 L-methionine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4247]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5715]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-7799]], Arg/N-end rule pathway (eukaryotic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7799 PWY-7799]
+** '''8''' reactions found over '''14''' reactions in the full pathway
+* [[PWY-7800]], Ac/N-end rule pathway: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7800 PWY-7800]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=methionine_aminopeptidase}}
+{{#set: ec number=EC-3.4.11.18}}
+{{#set: gene associated=Tiso_gene_4247|Tiso_gene_5715}}
+{{#set: in pathway=PWY-7799|PWY-7800}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

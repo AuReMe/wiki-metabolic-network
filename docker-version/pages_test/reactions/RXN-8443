@@ -1,0 +1,122 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8443 RXN-8443] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.173 EC-2.7.1.173]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[CPD-8259]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[NICOTINATE_NUCLEOTIDE]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 &beta;-D-ribosylnicotinate[c] '''=>''' 1 H+[c] '''+''' 1 ADP[c] '''+''' 1 &beta;-nicotinate D-ribonucleotide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18221]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2752]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_19763]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_12827]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_19151]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12828]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_12252]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17530]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8616]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17047]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_9582]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8480]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_4145]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15010]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_19611]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1696]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_12183]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_19579]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_6111]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_1894]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4144]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4902]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_13509]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_8561]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17305]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_12450]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17980]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_15483]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_18943]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_13724]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_12316]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_2262]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14059]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14030]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16455]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17795]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-5381]], pyridine nucleotide cycling (plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5381 PWY-5381]
+** '''3''' reactions found over '''11''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25568 25568]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03347 R03347]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.7.1.173}}
+{{#set: gene associated=Tiso_gene_18221|Tiso_gene_2752|Tiso_gene_19763|Tiso_gene_12827|Tiso_gene_19151|Tiso_gene_12828|Tiso_gene_12252|Tiso_gene_17530|Tiso_gene_8616|Tiso_gene_17047|Tiso_gene_9582|Tiso_gene_8480|Tiso_gene_4145|Tiso_gene_15010|Tiso_gene_19611|Tiso_gene_1696|Tiso_gene_12183|Tiso_gene_19579|Tiso_gene_6111|Tiso_gene_1894|Tiso_gene_4144|Tiso_gene_4902|Tiso_gene_13509|Tiso_gene_8561|Tiso_gene_17305|Tiso_gene_12450|Tiso_gene_17980|Tiso_gene_15483|Tiso_gene_18943|Tiso_gene_13724|Tiso_gene_12316|Tiso_gene_2262|Tiso_gene_14059|Tiso_gene_14030|Tiso_gene_16455|Tiso_gene_17795}}
+{{#set: in pathway=PWY-5381}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

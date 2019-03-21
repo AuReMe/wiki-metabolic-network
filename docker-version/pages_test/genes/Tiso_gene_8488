@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8488 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[D-LACTALDEHYDE-DEHYDROGENASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[MGLDLCTANA-PWY]]
+== External links  ==
+{{#set: reaction associated=D-LACTALDEHYDE-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=MGLDLCTANA-PWY}}

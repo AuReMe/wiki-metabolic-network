@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10001 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.21-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10769]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10773]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13600]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13602]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13603]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14179]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-5341]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8036]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9674]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-3121]]
+* [[PWY-6002]]
+* [[PWY-6788]]
+* [[PWY-5176]]
+* [[PWY-7092]]
+* [[PWY-7091]]
+* [[PWY-7089]]
+== External links  ==
+{{#set: reaction associated=3.2.1.21-RXN|RXN-10769|RXN-10773|RXN-13600|RXN-13602|RXN-13603|RXN-14179|RXN-5341|RXN-8036|RXN-9674}}
+{{#set: pathway associated=PWY-3121|PWY-6002|PWY-6788|PWY-5176|PWY-7092|PWY-7091|PWY-7089}}

@@ -1,0 +1,56 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19542 ==
+* right end position:
+** 2036
+* transcription direction:
+** POSITIVE
+* left end position:
+** 26
+* centisome position:
+** 1.1596788    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GPPSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R06284]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-7663]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-7673]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7674]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN1F-66]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7736]]
+* [[PWY-7764]]
+* [[PWY-6859]]
+* [[PWY-7709]]
+* [[PWY-7102]]
+* [[PWY-7182]]
+* [[PWY-7141]]
+* [[PWY-5123]]
+* [[PWY-5122]]
+* [[PWY-5064]]
+* [[PWY-6383]]
+* [[PWY-7659]]
+* [[PWY-5068]]
+* [[PWY-7410]]
+* [[PWY-5086]]
+== External links  ==
+{{#set: right end position=2036}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=26}}
+{{#set: centisome position=1.1596788    }}
+{{#set: reaction associated=GPPSYN-RXN|R06284|RXN-7663|RXN-7673|RXN-7674|RXN1F-66}}
+{{#set: pathway associated=PWY-7736|PWY-7764|PWY-6859|PWY-7709|PWY-7102|PWY-7182|PWY-7141|PWY-5123|PWY-5122|PWY-5064|PWY-6383|PWY-7659|PWY-5068|PWY-7410|PWY-5086}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-237 CPD-237] ==
+* smiles:
+** C1(=C(CC(N)=O)C2(=CC=CC=C(N1)2))
+* common name:
+** indole-3-acetamide
+* inchi key:
+** InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N
+* molecular weight:
+** 174.202    
+* Synonym(s):
+** 1H-indole-3-acetamide
+** indoleacetamide
+** (indol-3-yl)acetamide
+
+== Reaction(s) known to consume the compound ==
+* [[RXNN-404]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7567]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 879-37-8
+* DRUGBANK : DB08652
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=397 397]
+* HMDB : HMDB29739
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02693 C02693]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.386.html 386]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16031 16031]
+* METABOLIGHTS : MTBLC16031
+{{#set: smiles=C1(=C(CC(N)=O)C2(=CC=CC=C(N1)2))}}
+{{#set: common name=indole-3-acetamide}}
+{{#set: inchi key=InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N}}
+{{#set: molecular weight=174.202    }}
+{{#set: common name=1H-indole-3-acetamide|indoleacetamide|(indol-3-yl)acetamide}}
+{{#set: consumed by=RXNN-404}}
+{{#set: produced by=RXN-7567}}

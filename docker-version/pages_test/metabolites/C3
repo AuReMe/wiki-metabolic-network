@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=C3 C3] ==
+* smiles:
+** CC(C(=O)NC(C([O-])=O)C)NC(=O)C(CCCC[N+])NC(=O)CCC(C(=O)[O-])NC(=O)C(C)NC(=O)C(C)OC1(C(O)C(CO)OC(C(NC(=O)C)1)OP(OP(OCC2(OC(C(O)C(O)2)N3(C=CC(=O)NC(=O)3)))([O-])=O)([O-])=O)
+* common name:
+** UDP-N-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+* inchi key:
+** InChIKey=PFMVORMCVGOQKR-XNCOKRRHSA-K
+* molecular weight:
+** 1146.922    
+* Synonym(s):
+** UDP-Mur2Ac(oyl-L-Ala-g-D-Glu-L-Lys-D-Ala-D-Ala)
+** UDP-MurNAc-pentapeptide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-8975]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=86289103 86289103]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=70758 70758]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04846 C04846]
+{{#set: smiles=CC(C(=O)NC(C([O-])=O)C)NC(=O)C(CCCC[N+])NC(=O)CCC(C(=O)[O-])NC(=O)C(C)NC(=O)C(C)OC1(C(O)C(CO)OC(C(NC(=O)C)1)OP(OP(OCC2(OC(C(O)C(O)2)N3(C=CC(=O)NC(=O)3)))([O-])=O)([O-])=O)}}
+{{#set: common name=UDP-N-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine}}
+{{#set: inchi key=InChIKey=PFMVORMCVGOQKR-XNCOKRRHSA-K}}
+{{#set: molecular weight=1146.922    }}
+{{#set: common name=UDP-Mur2Ac(oyl-L-Ala-g-D-Glu-L-Lys-D-Ala-D-Ala)|UDP-MurNAc-pentapeptide}}
+{{#set: reversible reaction associated=RXN-8975}}

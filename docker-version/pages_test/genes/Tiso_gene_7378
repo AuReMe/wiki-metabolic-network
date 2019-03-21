@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7378 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-982]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-4621]]
+* [[PWY-4202]]
+== External links  ==
+{{#set: reaction associated=RXN-982}}
+{{#set: pathway associated=PWY-4621|PWY-4202}}

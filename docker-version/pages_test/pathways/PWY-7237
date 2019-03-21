@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7237 PWY-7237] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** myo-, chiro- and scillo-inositol degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[MYO-INOSITOL-2-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17306]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[P562-PWY]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13779 RXN-13779]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14148 RXN-14148]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14178 RXN-14178]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=myo-, chiro- and scillo-inositol degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

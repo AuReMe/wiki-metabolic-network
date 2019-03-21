@@ -1,0 +1,14 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10355 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.10.1-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[3.6.4.4-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=2.7.10.1-RXN|3.6.4.4-RXN|PROTEIN-KINASE-RXN}}

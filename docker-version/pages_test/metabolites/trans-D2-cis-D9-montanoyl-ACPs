@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=trans-D2-cis-D9-montanoyl-ACPs trans-D2-cis-D9-montanoyl-ACPs] ==
+* common name:
+** a trans-delta2-cis-delta9-C28:2-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-285]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans-delta2-cis-delta9-C28:2-[acp]}}
+{{#set: consumed by=RXN1G-285}}

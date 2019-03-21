@@ -1,0 +1,40 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20353 ==
+* right end position:
+** 151
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1
+* centisome position:
+** 6.765900e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NUCLEOSIDE-TRIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12196]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7184]]
+* [[PWY-7198]]
+* [[PWY-6545]]
+* [[PWY-7210]]
+== External links  ==
+{{#set: right end position=151}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1}}
+{{#set: centisome position=6.765900e-2}}
+{{#set: reaction associated=ATPASE-RXN|NUCLEOSIDE-TRIPHOSPHATASE-RXN|RXN-12195|RXN-12196|RXN0-5462}}
+{{#set: pathway associated=PWY-7184|PWY-7198|PWY-6545|PWY-7210}}

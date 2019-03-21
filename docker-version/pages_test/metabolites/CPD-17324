@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17324 CPD-17324] ==
+* smiles:
+** CCCCCC=CCC=CCC=CCC=CCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3-oxo adrenoyl-CoA
+* inchi key:
+** InChIKey=VMAJWSSWCPBIJY-KPOVBLHLSA-J
+* molecular weight:
+** 1091.996    
+* Synonym(s):
+** 3-oxo-(7Z,10Z,13Z,16Z)-docosa-7,10,13,16-tetraenoyl-CoA
+** 3-oxo-(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16112]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71581099 71581099]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=73852 73852]
+{{#set: smiles=CCCCCC=CCC=CCC=CCC=CCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3-oxo adrenoyl-CoA}}
+{{#set: inchi key=InChIKey=VMAJWSSWCPBIJY-KPOVBLHLSA-J}}
+{{#set: molecular weight=1091.996    }}
+{{#set: common name=3-oxo-(7Z,10Z,13Z,16Z)-docosa-7,10,13,16-tetraenoyl-CoA|3-oxo-(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA}}
+{{#set: consumed by=RXN-16112}}

@@ -1,0 +1,53 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLYCLEAV-PWY GLYCLEAV-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** glycine cleavage
+* Synonym(s):
+** glycine cleavage system
+** glycine decarboxylase complex
+** gcv system
+** glycine cleavage complex
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[GCVP-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17287]]
+*** [[Tiso_gene_428]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[GCVT-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_2717]]
+*** [[Tiso_gene_17287]]
+*** [[Tiso_gene_15700]]
+*** [[Tiso_gene_19389]]
+*** [[Tiso_gene_6882]]
+*** [[Tiso_gene_14788]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-8629]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9330]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=GLYCLEAV-PWY GLYCLEAV-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=glycine cleavage}}
+{{#set: common name=glycine cleavage system|glycine decarboxylase complex|gcv system|glycine cleavage complex}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

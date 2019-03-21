@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18753 ==
+* right end position:
+** 2532
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 446
+* centisome position:
+** 15.838069    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-9615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2532}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=446}}
+{{#set: centisome position=15.838069    }}
+{{#set: reaction associated=RXN-9615}}

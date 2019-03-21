@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5959 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALANINE-AMINOTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[D-ALANINE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GLYCINE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-13698]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-181]]
+* [[ALANINE-DEG3-PWY]]
+* [[PWY-7383]]
+* [[PWY-7117]]
+* [[ALACAT2-PWY]]
+* [[PWY-7115]]
+* [[ALANINE-SYN2-PWY]]
+== External links  ==
+{{#set: reaction associated=ALANINE-AMINOTRANSFERASE-RXN|D-ALANINE-AMINOTRANSFERASE-RXN|GLYCINE-AMINOTRANSFERASE-RXN|RXN-13698}}
+{{#set: pathway associated=PWY-181|ALANINE-DEG3-PWY|PWY-7383|PWY-7117|ALACAT2-PWY|PWY-7115|ALANINE-SYN2-PWY}}

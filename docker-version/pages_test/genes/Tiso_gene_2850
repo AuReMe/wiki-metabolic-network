@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2850 ==
+* right end position:
+** 18195
+* transcription direction:
+** POSITIVE
+* left end position:
+** 17117
+* centisome position:
+** 93.61737    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[INORGPYROPHOSPHAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7805]]
+* [[PWY-7807]]
+== External links  ==
+{{#set: right end position=18195}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=17117}}
+{{#set: centisome position=93.61737    }}
+{{#set: reaction associated=INORGPYROPHOSPHAT-RXN|TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}
+{{#set: pathway associated=PWY-7805|PWY-7807}}

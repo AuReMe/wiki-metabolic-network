@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5525 PWY-5525] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+* common name:
+** D-glucuronate degradation I
+* Synonym(s):
+** pentose pathway
+** glucuronic acid oxidation pathway
+** glucuronate/xylulose pathway
+** glucuronate degradation
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-14693]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DEHYDRO-L-GULONATE-DECARBOXYLASE-RXN DEHYDRO-L-GULONATE-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCURONATE-REDUCTASE-RXN GLUCURONATE-REDUCTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=L-GULONATE-3-DEHYDROGENASE-RXN L-GULONATE-3-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=L-XYLULOSE-REDUCTASE-RXN L-XYLULOSE-REDUCTASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-7742}}
+{{#set: common name=D-glucuronate degradation I}}
+{{#set: common name=pentose pathway|glucuronic acid oxidation pathway|glucuronate/xylulose pathway|glucuronate degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

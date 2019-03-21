@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-5462 RXN-5462] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** vacuolar_protein_sorting-associated_protein_51_homolog
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.132 EC-2.4.1.132]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GDP-MANNOSE]][c] '''+''' 1 [[ALPHA-D-MANNOSYLCHITOBIO]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[GDP]][c] '''+''' 1 [[CPD-5161]][c]
+* With common name(s):
+** 1 GDP-&alpha;-D-mannose[c] '''+''' 1 &beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-GlcNAc-diphosphodolichol[c] '''=>''' 1 H+[c] '''+''' 1 GDP[c] '''+''' 1 &alpha;-D-Man-(1&rarr;3)-&beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-GlcNAc-diphosphodolichol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16872]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10734]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]], protein N-glycosylation (eukaryotic, high mannose): [http://metacyc.org/META/NEW-IMAGE?object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]
+** '''19''' reactions found over '''19''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=29518 29518]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05973 R05973]
+** [http://www.genome.jp/dbget-bin/www_bget?R05002 R05002]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=vacuolar_protein_sorting-associated_protein_51_homolog}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-2.4.1.132}}
+{{#set: gene associated=Tiso_gene_16872|Tiso_gene_10734}}
+{{#set: in pathway=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

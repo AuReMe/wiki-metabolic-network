@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8049 ==
+* right end position:
+** 10504
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 8531
+* centisome position:
+** 80.63327    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-14950]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14957]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-949]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6987]]
+* [[PWY0-501]]
+* [[PWY-7382]]
+* [[PWY0-1275]]
+== External links  ==
+{{#set: right end position=10504}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=8531}}
+{{#set: centisome position=80.63327    }}
+{{#set: reaction associated=RXN-14950|RXN-14957|RXN-14959|RXN0-949}}
+{{#set: pathway associated=PWY-6987|PWY0-501|PWY-7382|PWY0-1275}}

@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-6992 CPD-6992] ==
+* smiles:
+** C3(C=CC(C2(OC1(=CC(=CC(=C1C(C2O)=O)O)[O-])))=CC=3)
+* common name:
+** (+)-pinobanksin
+* inchi key:
+** InChIKey=SUYJZKRQHBQNCA-LSDHHAIUSA-M
+* molecular weight:
+** 271.249    
+* Synonym(s):
+** (2R,3R)-pinobanksin
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7648]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C09826 C09826]
+* HMDB : HMDB37506
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28103 28103]
+* METABOLIGHTS : MTBLC28103
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200970 25200970]
+{{#set: smiles=C3(C=CC(C2(OC1(=CC(=CC(=C1C(C2O)=O)O)[O-])))=CC=3)}}
+{{#set: common name=(+)-pinobanksin}}
+{{#set: inchi key=InChIKey=SUYJZKRQHBQNCA-LSDHHAIUSA-M}}
+{{#set: molecular weight=271.249    }}
+{{#set: common name=(2R,3R)-pinobanksin}}
+{{#set: produced by=RXN-7648}}

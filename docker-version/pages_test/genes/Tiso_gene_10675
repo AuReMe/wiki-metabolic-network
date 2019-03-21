@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10675 ==
+* right end position:
+** 4263
+* transcription direction:
+** POSITIVE
+* left end position:
+** 738
+* centisome position:
+** 8.812992    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[METHYLCROTONYL-COA-CARBOXYLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[LEU-DEG2-PWY]]
+== External links  ==
+{{#set: right end position=4263}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=738}}
+{{#set: centisome position=8.812992    }}
+{{#set: reaction associated=METHYLCROTONYL-COA-CARBOXYLASE-RXN}}
+{{#set: pathway associated=LEU-DEG2-PWY}}

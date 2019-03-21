@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13230 ==
+* right end position:
+** 5508
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3810
+* centisome position:
+** 59.189064    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PHOSACETYLGLUCOSAMINEMUT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16425]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16426]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5514]]
+* [[PWY-6906]]
+* [[UDPNACETYLGALSYN-PWY]]
+== External links  ==
+{{#set: right end position=5508}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3810}}
+{{#set: centisome position=59.189064    }}
+{{#set: reaction associated=PHOSACETYLGLUCOSAMINEMUT-RXN|RXN-16425|RXN-16426}}
+{{#set: pathway associated=PWY-5514|PWY-6906|UDPNACETYLGALSYN-PWY}}

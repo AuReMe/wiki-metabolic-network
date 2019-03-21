@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7035 CPD-7035] ==
+* smiles:
+** C1(C=CC(CCO)=CC=1)
+* common name:
+** 2-phenylethanol
+* inchi key:
+** InChIKey=WRMNZCZEMHIOCP-UHFFFAOYSA-N
+* molecular weight:
+** 122.166    
+* Synonym(s):
+** benzeneethanol
+** phenethanol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7700]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB02192
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6054 6054]
+* HMDB : HMDB33944
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05853 C05853]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5830.html 5830]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=49000 49000]
+* METABOLIGHTS : MTBLC49000
+{{#set: smiles=C1(C=CC(CCO)=CC=1)}}
+{{#set: common name=2-phenylethanol}}
+{{#set: inchi key=InChIKey=WRMNZCZEMHIOCP-UHFFFAOYSA-N}}
+{{#set: molecular weight=122.166    }}
+{{#set: common name=benzeneethanol|phenethanol}}
+{{#set: produced by=RXN-7700}}

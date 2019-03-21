@@ -1,0 +1,101 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-10773 RXN-10773] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** low_quality_protein:_beta-glucosidase-like_chloroplastic-like
+** ORF
+** beta-glucosidase-like_chloroplastic
+** beta_glucosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.21 EC-3.2.1.21]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CELLOBIOSE]][c] '''=>''' 2 [[Glucopyranose]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 &beta;-D-cellobiose[c] '''=>''' 2 D-glucopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10001]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2344]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6497]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6187]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2843]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5836]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6007]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15067]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6188]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8669]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13306]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13305]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3467]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15066]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6788]], cellulose degradation II (fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6788 PWY-6788]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30682 30682]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00026 R00026]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=low_quality_protein:_beta-glucosidase-like_chloroplastic-like}}
+{{#set: common name=ORF}}
+{{#set: common name=beta-glucosidase-like_chloroplastic}}
+{{#set: common name=beta_glucosidase}}
+{{#set: ec number=EC-3.2.1.21}}
+{{#set: gene associated=Tiso_gene_10001|Tiso_gene_2344|Tiso_gene_6497|Tiso_gene_6187|Tiso_gene_2843|Tiso_gene_5836|Tiso_gene_6007|Tiso_gene_15067|Tiso_gene_6188|Tiso_gene_8669|Tiso_gene_13306|Tiso_gene_13305|Tiso_gene_3467|Tiso_gene_15066}}
+{{#set: in pathway=PWY-6788}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

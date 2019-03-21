@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-1327 CPD0-1327] ==
+* smiles:
+** C1(=C(C(=O)NC(N1)=O)F)
+* common name:
+** 5-fluorouracil
+* inchi key:
+** InChIKey=GHASVSINZRGABV-UHFFFAOYSA-N
+* molecular weight:
+** 130.078    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[5FLURAt]]
+== External links  ==
+* DRUGBANK : DB00544
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3385 3385]
+* HMDB : HMDB14684
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C07649 C07649]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3268.html 3268]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=46345 46345]
+{{#set: smiles=C1(=C(C(=O)NC(N1)=O)F)}}
+{{#set: common name=5-fluorouracil}}
+{{#set: inchi key=InChIKey=GHASVSINZRGABV-UHFFFAOYSA-N}}
+{{#set: molecular weight=130.078    }}
+{{#set: reversible reaction associated=5FLURAt}}

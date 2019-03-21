@@ -1,0 +1,114 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SUCCCOASYN-RXN SUCCCOASYN-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** succinyl-_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.2.1.5 EC-6.2.1.5]
+* Synonym(s):
+** Succinate thiokinase
+** succinyl CoA synthesis
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[SUC]][c] '''+''' 1 [[CO-A]][c] '''+''' 1 [[ATP]][c] '''<=>''' 1 [[Pi]][c] '''+''' 1 [[SUC-COA]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 succinate[c] '''+''' 1 coenzyme A[c] '''+''' 1 ATP[c] '''<=>''' 1 phosphate[c] '''+''' 1 succinyl-CoA[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15846]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_11866]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-5913]], partial TCA cycle (obligate autotrophs): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5913 PWY-5913]
+** '''9''' reactions found over '''11''' reactions in the full pathway
+* [[P42-PWY]], incomplete reductive TCA cycle: [http://metacyc.org/META/NEW-IMAGE?object=P42-PWY P42-PWY]
+** '''4''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7384]], anaerobic energy metabolism (invertebrates, mitochondrial): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7384 PWY-7384]
+** '''7''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-5392]], reductive TCA cycle II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5392 PWY-5392]
+** '''5''' reactions found over '''12''' reactions in the full pathway
+* [[P23-PWY]], reductive TCA cycle I: [http://metacyc.org/META/NEW-IMAGE?object=P23-PWY P23-PWY]
+** '''7''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-5690]], TCA cycle II (plants and fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5690 PWY-5690]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-6969]], TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6969 PWY-6969]
+** '''9''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-6728]], methylaspartate cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6728 PWY-6728]
+** '''11''' reactions found over '''18''' reactions in the full pathway
+* [[PWY-5538]], pyruvate fermentation to acetate VI: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5538 PWY-5538]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-5537]], pyruvate fermentation to acetate V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5537 PWY-5537]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY66-398]], TCA cycle III (animals): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-398 PWY66-398]
+** '''10''' reactions found over '''11''' reactions in the full pathway
+* [[TCA]], TCA cycle I (prokaryotic): [http://metacyc.org/META/NEW-IMAGE?object=TCA TCA]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17661 17661]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00405 R00405]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O28098 O28098]
+** [http://www.uniprot.org/uniprot/P53594 P53594]
+** [http://www.uniprot.org/uniprot/O28733 O28733]
+** [http://www.uniprot.org/uniprot/P45101 P45101]
+** [http://www.uniprot.org/uniprot/P45102 P45102]
+** [http://www.uniprot.org/uniprot/Q9JUT0 Q9JUT0]
+** [http://www.uniprot.org/uniprot/Q58643 Q58643]
+** [http://www.uniprot.org/uniprot/O26663 O26663]
+** [http://www.uniprot.org/uniprot/P80886 P80886]
+** [http://www.uniprot.org/uniprot/Q9PHY1 Q9PHY1]
+** [http://www.uniprot.org/uniprot/Q9JUS9 Q9JUS9]
+** [http://www.uniprot.org/uniprot/P80865 P80865]
+** [http://www.uniprot.org/uniprot/Q9PHY0 Q9PHY0]
+** [http://www.uniprot.org/uniprot/O67729 O67729]
+** [http://www.uniprot.org/uniprot/O67546 O67546]
+** [http://www.uniprot.org/uniprot/P53593 P53593]
+** [http://www.uniprot.org/uniprot/P0AGE9 P0AGE9]
+** [http://www.uniprot.org/uniprot/P0A836 P0A836]
+** [http://www.uniprot.org/uniprot/O82662 O82662]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=succinyl-_ligase}}
+{{#set: ec number=EC-6.2.1.5}}
+{{#set: common name=Succinate thiokinase|succinyl CoA synthesis}}
+{{#set: gene associated=Tiso_gene_15846|Tiso_gene_11866}}
+{{#set: in pathway=PWY-5913|P42-PWY|PWY-7384|PWY-5392|P23-PWY|PWY-5690|PWY-6969|PWY-6728|PWY-5538|PWY-5537|PWY66-398|TCA}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

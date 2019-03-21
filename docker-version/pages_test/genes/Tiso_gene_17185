@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17185 ==
+* right end position:
+** 3821
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 183
+* centisome position:
+** 4.737251    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPARTATE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=3821}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=183}}
+{{#set: centisome position=4.737251    }}
+{{#set: reaction associated=ASPARTATE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

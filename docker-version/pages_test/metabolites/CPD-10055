@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10055 CPD-10055] ==
+* smiles:
+** C=C(C1(CC(C(CC1)(O)C)O))C
+* common name:
+** (1R,2R,4S)-limonene-1,2-diol
+* inchi key:
+** InChIKey=WKZWTZTZWGWEGE-IVZWLZJFSA-N
+* molecular weight:
+** 170.251    
+* Synonym(s):
+** (1S,2S,4R)-menth-8-ene-1,2-diol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9413]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C19082 C19082]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.9392549.html 9392549]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=50244 50244]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11217495 11217495]
+{{#set: smiles=C=C(C1(CC(C(CC1)(O)C)O))C}}
+{{#set: common name=(1R,2R,4S)-limonene-1,2-diol}}
+{{#set: inchi key=InChIKey=WKZWTZTZWGWEGE-IVZWLZJFSA-N}}
+{{#set: molecular weight=170.251    }}
+{{#set: common name=(1S,2S,4R)-menth-8-ene-1,2-diol}}
+{{#set: produced by=RXN-9413}}

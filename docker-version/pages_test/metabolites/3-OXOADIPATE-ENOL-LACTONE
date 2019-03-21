@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-OXOADIPATE-ENOL-LACTONE 3-OXOADIPATE-ENOL-LACTONE] ==
+* smiles:
+** C(=O)(CC1(=CCC(=O)O1))[O-]
+* common name:
+** (4,5-dihydro-5-oxofuran-2-yl)-acetate
+* inchi key:
+** InChIKey=ZPEHSARSWGDCEX-UHFFFAOYSA-M
+* molecular weight:
+** 141.103    
+* Synonym(s):
+** 3-oxoadipate enol lactone
+** &beta;-ketoadipate-enol-lactone
+
+== Reaction(s) known to consume the compound ==
+* [[3-OXOADIPATE-ENOL-LACTONASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615198 23615198]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951100.html 19951100]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58425 58425]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03586 C03586]
+{{#set: smiles=C(=O)(CC1(=CCC(=O)O1))[O-]}}
+{{#set: common name=(4,5-dihydro-5-oxofuran-2-yl)-acetate}}
+{{#set: inchi key=InChIKey=ZPEHSARSWGDCEX-UHFFFAOYSA-M}}
+{{#set: molecular weight=141.103    }}
+{{#set: common name=3-oxoadipate enol lactone|&beta;-ketoadipate-enol-lactone}}
+{{#set: consumed by=3-OXOADIPATE-ENOL-LACTONASE-RXN}}

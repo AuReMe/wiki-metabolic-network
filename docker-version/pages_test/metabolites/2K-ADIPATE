@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2K-ADIPATE 2K-ADIPATE] ==
+* smiles:
+** C(CC(=O)C(=O)[O-])CC(=O)[O-]
+* common name:
+** 2-oxoadipate
+* inchi key:
+** InChIKey=FGSBNBBHOZHUBO-UHFFFAOYSA-L
+* molecular weight:
+** 158.11    
+* Synonym(s):
+** 2-ketoadipate
+** &alpha;-ketoadipate
+** 2-keto-adipate
+** 2-oxohexanedionic acid
+
+== Reaction(s) known to consume the compound ==
+* [[2-KETO-ADIPATE-DEHYDROG-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2-AMINOADIPATE-AMINOTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 3184-35-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615192 23615192]
+* HMDB : HMDB00225
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00322 C00322]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951093.html 19951093]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57499 57499]
+* METABOLIGHTS : MTBLC57499
+{{#set: smiles=C(CC(=O)C(=O)[O-])CC(=O)[O-]}}
+{{#set: common name=2-oxoadipate}}
+{{#set: inchi key=InChIKey=FGSBNBBHOZHUBO-UHFFFAOYSA-L}}
+{{#set: molecular weight=158.11    }}
+{{#set: common name=2-ketoadipate|&alpha;-ketoadipate|2-keto-adipate|2-oxohexanedionic acid}}
+{{#set: consumed by=2-KETO-ADIPATE-DEHYDROG-RXN}}
+{{#set: reversible reaction associated=2-AMINOADIPATE-AMINOTRANSFERASE-RXN}}

@@ -1,0 +1,83 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.18-RXN 3.2.1.18-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** sialidase
+** neuramidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.18 EC-3.2.1.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Sialyloligosaccharides]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[N-ACETYLNEURAMINATE]][c] '''+''' 1 [[Oligosaccharides]][c]
+* With common name(s):
+** 1 a sialyloligosaccharide[c] '''+''' 1 H2O[c] '''=>''' 1 N-acetylneuraminate[c] '''+''' 1 an oligosaccharide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9616]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18808]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18807]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17759]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17758]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P37060 P37060]
+** [http://www.uniprot.org/uniprot/P15698 P15698]
+** [http://www.uniprot.org/uniprot/P18269 P18269]
+** [http://www.uniprot.org/uniprot/Q02834 Q02834]
+** [http://www.uniprot.org/uniprot/P16199 P16199]
+** [http://www.uniprot.org/uniprot/Q64627 Q64627]
+** [http://www.uniprot.org/uniprot/Q03625 Q03625]
+** [http://www.uniprot.org/uniprot/P67907 P67907]
+** [http://www.uniprot.org/uniprot/P67923 P67923]
+** [http://www.uniprot.org/uniprot/P16207 P16207]
+** [http://www.uniprot.org/uniprot/P16205 P16205]
+** [http://www.uniprot.org/uniprot/P16201 P16201]
+** [http://www.uniprot.org/uniprot/P16203 P16203]
+** [http://www.uniprot.org/uniprot/P16191 P16191]
+** [http://www.uniprot.org/uniprot/Q59310 Q59310]
+** [http://www.uniprot.org/uniprot/P16195 P16195]
+** [http://www.uniprot.org/uniprot/P31206 P31206]
+** [http://www.uniprot.org/uniprot/P77848 P77848]
+** [http://www.uniprot.org/uniprot/P23253 P23253]
+** [http://www.uniprot.org/uniprot/Q67055 Q67055]
+** [http://www.uniprot.org/uniprot/P29767 P29767]
+** [http://www.uniprot.org/uniprot/Q9R5J8 Q9R5J8]
+** [http://www.uniprot.org/uniprot/P03473 P03473]
+** [http://www.uniprot.org/uniprot/P03474 P03474]
+** [http://www.uniprot.org/uniprot/P03472 P03472]
+** [http://www.uniprot.org/uniprot/P27907 P27907]
+** [http://www.uniprot.org/uniprot/P03478 P03478]
+** [http://www.uniprot.org/uniprot/Q7LZZ6 Q7LZZ6]
+** [http://www.uniprot.org/uniprot/P10481 P10481]
+** [http://www.uniprot.org/uniprot/Q59164 Q59164]
+** [http://www.uniprot.org/uniprot/Q90021 Q90021]
+** [http://www.uniprot.org/uniprot/Q59311 Q59311]
+** [http://www.uniprot.org/uniprot/P62575 P62575]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=sialidase}}
+{{#set: common name=neuramidase}}
+{{#set: ec number=EC-3.2.1.18}}
+{{#set: gene associated=Tiso_gene_9616|Tiso_gene_18808|Tiso_gene_18807|Tiso_gene_17759|Tiso_gene_17758}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

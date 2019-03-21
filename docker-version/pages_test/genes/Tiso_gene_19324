@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19324 ==
+* right end position:
+** 2322
+* transcription direction:
+** POSITIVE
+* left end position:
+** 769
+* centisome position:
+** 31.84265    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.21.4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17832]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7797]]
+== External links  ==
+{{#set: right end position=2322}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=769}}
+{{#set: centisome position=31.84265    }}
+{{#set: reaction associated=3.4.21.4-RXN|RXN-17832}}
+{{#set: pathway associated=PWY-7797}}

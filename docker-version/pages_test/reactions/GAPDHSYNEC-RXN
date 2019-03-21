@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GAPDHSYNEC-RXN GAPDHSYNEC-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.59 EC-1.2.1.59]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GAP]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[NAD-P-OR-NOP]][c] '''<=>''' 1 [[NADH-P-OR-NOP]][c] '''+''' 1 [[DPG]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 D-glyceraldehyde 3-phosphate[c] '''+''' 1 phosphate[c] '''+''' 1 NAD(P)+[c] '''<=>''' 1 NAD(P)H[c] '''+''' 1 1,3-bisphospho-D-glycerate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6765]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_20000]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_10646]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)}}
+{{#set: ec number=EC-1.2.1.59}}
+{{#set: gene associated=Tiso_gene_6765|Tiso_gene_20000|Tiso_gene_10646}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

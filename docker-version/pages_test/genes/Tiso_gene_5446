@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5446 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.14.21.6-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-4209]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN3O-218]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN66-26]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY66-341]]
+* [[PWY66-3]]
+* [[PWY-2541]]
+* [[PWY-6075]]
+== External links  ==
+{{#set: reaction associated=1.14.21.6-RXN|RXN-4209|RXN3O-218|RXN66-26}}
+{{#set: pathway associated=PWY66-341|PWY66-3|PWY-2541|PWY-6075}}

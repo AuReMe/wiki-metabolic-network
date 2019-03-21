@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3162 PWY-3162] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** L-tryptophan degradation V (side chain pathway)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''13''' reactions in the full pathway
+* [[RXN-5424]]
+** 5 associated gene(s):
+*** [[Tiso_gene_6562]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_5425]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-5581]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7322]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5402 RXN-5402]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5403 RXN-5403]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5421 RXN-5421]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5422 RXN-5422]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5423 RXN-5423]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5441 RXN-5441]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5442 RXN-5442]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5443 RXN-5443]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5444 RXN-5444]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5445 RXN-5445]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5603 RXN-5603]
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=L-tryptophan degradation V (side chain pathway)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=13}}
+{{#set: completion rate=15.0}}

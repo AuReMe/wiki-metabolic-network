@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALTOSE MALTOSE] ==
+* common name:
+** maltose
+* Synonym(s):
+** &alpha;-D-glucopyranose-(1&rarr;4)-D-glucopyranose
+** maltose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14349]]
+* [[RXN-15910]]
+* [[RXN-14350]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5183]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=maltose}}
+{{#set: common name=&alpha;-D-glucopyranose-(1&rarr;4)-D-glucopyranose|maltose}}
+{{#set: consumed by=RXN-14349|RXN-15910|RXN-14350}}
+{{#set: produced by=RXN0-5183}}

@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_794 ==
+* right end position:
+** 18943
+* transcription direction:
+** POSITIVE
+* left end position:
+** 14905
+* centisome position:
+** 51.89583    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UREASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5704]]
+== External links  ==
+{{#set: right end position=18943}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=14905}}
+{{#set: centisome position=51.89583    }}
+{{#set: reaction associated=UREASE-RXN}}
+{{#set: pathway associated=PWY-5704}}

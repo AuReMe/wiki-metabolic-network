@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=HOMOCYSDEGR-PWY HOMOCYSDEGR-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-cysteine biosynthesis III (from L-homocysteine)
+* Synonym(s):
+** L-homocysteine degradation
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[CYSTATHIONINE-BETA-SYNTHASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7852]]
+*** [[Tiso_gene_3732]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14048]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-15121]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-15123]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00660 map00660]
+{{#set: taxonomic range=TAX-33154}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-cysteine biosynthesis III (from L-homocysteine)}}
+{{#set: common name=L-homocysteine degradation}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

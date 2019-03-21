@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6707 PWY-6707] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** gallate biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[3-DEHYDROQUINATE-DEHYDRATASE-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5752]]
+*** [[Tiso_gene_5753]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_8720]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12131 RXN-12131]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12132 RXN-12132]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=gallate biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

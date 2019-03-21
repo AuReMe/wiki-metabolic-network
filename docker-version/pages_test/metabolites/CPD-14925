@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14925 CPD-14925] ==
+* smiles:
+** CCCCCCC=CCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** 3-cis-decenoyl-CoA
+* inchi key:
+** InChIKey=CQGVNMQHZQJNII-UUSBZYPOSA-J
+* molecular weight:
+** 915.738    
+* Synonym(s):
+** (3Z)-dec-3-enoyl-CoA
+** 10:1(n-7)-CoA
+** 10:1-&Delta;3-CoA
+** (3Z)-decenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17799]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659267 90659267]
+{{#set: smiles=CCCCCCC=CCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=3-cis-decenoyl-CoA}}
+{{#set: inchi key=InChIKey=CQGVNMQHZQJNII-UUSBZYPOSA-J}}
+{{#set: molecular weight=915.738    }}
+{{#set: common name=(3Z)-dec-3-enoyl-CoA|10:1(n-7)-CoA|10:1-&Delta;3-CoA|(3Z)-decenoyl-CoA}}
+{{#set: produced by=RXN-17799}}

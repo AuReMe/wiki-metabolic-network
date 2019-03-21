@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-10851 RXN-10851] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[CPD-11281]][c] '''+''' 1 [[Donor-H2]][c] '''<=>''' 1 [[HS]][c] '''+''' 1 [[CPD-11763]][c] '''+''' 1 [[Acceptor]][c]
+* With common name(s):
+** 2 S-sulfanylglutathione[c] '''+''' 1 a reduced electron acceptor[c] '''<=>''' 1 hydrogen sulfide[c] '''+''' 1 bisorganyltrisulfane[c] '''+''' 1 an oxidized electron acceptor[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5294]], superpathway of sulfide oxidation (Acidithiobacillus ferrooxidans): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5294 PWY-5294]
+** '''2''' reactions found over '''12''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=PWY-5294}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

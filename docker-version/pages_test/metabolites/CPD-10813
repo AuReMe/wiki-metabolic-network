@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10813 CPD-10813] ==
+* smiles:
+** C(C(CC1(=CC=C(C(=C1)I)OC2(=CC(=C(C(I)=C2)O)I)))[N+])([O-])=O
+* common name:
+** 3,3',5'-triiodo-L-thyronine
+* inchi key:
+** InChIKey=HZCBWYNLGPIQRK-LBPRGKRZSA-N
+* molecular weight:
+** 650.978    
+* Synonym(s):
+** reverse triiodothyronine
+** rT3
+** triiodothyronine, reverse
+** 4-(4-hydroxy-3,5-diiodophenoxy)-3-iodophenylalanine
+** O-(4-hydroxy-3,5-diiodophenyl)-3-iodotyrosine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10604]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44123465 44123465]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57261 57261]
+* METABOLIGHTS : MTBLC57261
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C07639 C07639]
+{{#set: smiles=C(C(CC1(=CC=C(C(=C1)I)OC2(=CC(=C(C(I)=C2)O)I)))[N+])([O-])=O}}
+{{#set: common name=3,3',5'-triiodo-L-thyronine}}
+{{#set: inchi key=InChIKey=HZCBWYNLGPIQRK-LBPRGKRZSA-N}}
+{{#set: molecular weight=650.978    }}
+{{#set: common name=reverse triiodothyronine|rT3|triiodothyronine, reverse|4-(4-hydroxy-3,5-diiodophenoxy)-3-iodophenylalanine|O-(4-hydroxy-3,5-diiodophenyl)-3-iodotyrosine}}
+{{#set: consumed by=RXN-10604}}

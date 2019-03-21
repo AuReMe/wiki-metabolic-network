@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9700 CPD-9700] ==
+* smiles:
+** C=C1(C(CC(C(=O)[O-])NC(CCC([N+])C([O-])=O)=O)C1)
+* common name:
+** hypoglycin B
+* inchi key:
+** InChIKey=UYDZYCPIQSRXKU-NPPUSCPJSA-M
+* molecular weight:
+** 269.277    
+* Synonym(s):
+** hypoglycine B
+** L-gamma-glutamyl-L-hypoglycin
+** &gamma;-glutamyl-&beta;-(methylenecyclopropyl)-alanine
+** (2S)-2-amino-5-[[(2S)-1-hydroxy-3-[(1S)-2-methylidenecyclopropyl]-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9157]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658135 90658135]
+* HMDB : HMDB29428
+* Wikipedia : Hypoglycin_B
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08280 C08280]
+{{#set: smiles=C=C1(C(CC(C(=O)[O-])NC(CCC([N+])C([O-])=O)=O)C1)}}
+{{#set: common name=hypoglycin B}}
+{{#set: inchi key=InChIKey=UYDZYCPIQSRXKU-NPPUSCPJSA-M}}
+{{#set: molecular weight=269.277    }}
+{{#set: common name=hypoglycine B|L-gamma-glutamyl-L-hypoglycin|&gamma;-glutamyl-&beta;-(methylenecyclopropyl)-alanine|(2S)-2-amino-5-[[(2S)-1-hydroxy-3-[(1S)-2-methylidenecyclopropyl]-1-oxopropan-2-yl]amino]-5-oxopentanoic acid}}
+{{#set: produced by=RXN-9157}}

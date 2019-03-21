@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DNA-Ligase-L-lysine DNA-Ligase-L-lysine] ==
+* common name:
+** a [DNA ligase]-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17917]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17918]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [DNA ligase]-L-lysine}}
+{{#set: consumed by=RXN-17917}}
+{{#set: produced by=RXN-17918}}

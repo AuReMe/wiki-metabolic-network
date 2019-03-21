@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18328 ==
+* right end position:
+** 3032
+* transcription direction:
+** POSITIVE
+* left end position:
+** 487
+* centisome position:
+** 15.765620    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[HPPD]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-10815]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-1581]]
+* [[PWY-7432]]
+* [[TYRFUMCAT-PWY]]
+* [[PWY-1422]]
+* [[PWY-6318]]
+== External links  ==
+{{#set: right end position=3032}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=487}}
+{{#set: centisome position=15.765620    }}
+{{#set: reaction associated=4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN|HPPD|RXN-10815}}
+{{#set: pathway associated=PWY-1581|PWY-7432|TYRFUMCAT-PWY|PWY-1422|PWY-6318}}

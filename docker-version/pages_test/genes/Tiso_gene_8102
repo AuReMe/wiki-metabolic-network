@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8102 ==
+* right end position:
+** 1804
+* transcription direction:
+** POSITIVE
+* left end position:
+** 85
+* centisome position:
+** 0.80875355    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[N-ACETYLGLUTPREDUCT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-15006]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5154]]
+* [[GLUTORN-PWY]]
+* [[ARGSYNBSUB-PWY]]
+* [[PWY-7400]]
+== External links  ==
+{{#set: right end position=1804}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=85}}
+{{#set: centisome position=0.80875355    }}
+{{#set: reaction associated=N-ACETYLGLUTPREDUCT-RXN|RXN-15006}}
+{{#set: pathway associated=PWY-5154|GLUTORN-PWY|ARGSYNBSUB-PWY|PWY-7400}}

@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LysW-L-ornithine LysW-L-ornithine] ==
+* common name:
+** an [L-2-aminoadipate carrier protein]-L-ornithine
+* Synonym(s):
+** a [LysW protein]-L-ornithine
+** an [&alpha;-aminoadipate carrier protein]-L-ornithine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15007]]
+== External links  ==
+{{#set: common name=an [L-2-aminoadipate carrier protein]-L-ornithine}}
+{{#set: common name=a [LysW protein]-L-ornithine|an [&alpha;-aminoadipate carrier protein]-L-ornithine}}
+{{#set: reversible reaction associated=RXN-15007}}

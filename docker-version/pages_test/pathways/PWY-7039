@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7039 PWY-7039] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** phosphatidate metabolism, as a signaling molecule
+* Synonym(s):
+** PA metabolism
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[3.1.4.11-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_7561]]
+*** [[Tiso_gene_12019]]
+*** [[Tiso_gene_12020]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[DIACYLGLYKIN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14560]]
+*** [[Tiso_gene_1163]]
+*** [[Tiso_gene_1420]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSCHOL-RXN PHOSCHOL-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11277 RXN-11277]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13336 RXN-13336]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=phosphatidate metabolism, as a signaling molecule}}
+{{#set: common name=PA metabolism}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

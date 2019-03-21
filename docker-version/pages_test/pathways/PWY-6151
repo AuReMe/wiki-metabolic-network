@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6151 PWY-6151] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** S-adenosyl-L-methionine cycle I
+* Synonym(s):
+** SAM cycle
+** activated methyl cycle
+** AMC
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''6''' reactions in the full pathway
+* [[ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14191]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[HOMOCYSMET-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1602]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-7605]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[SAM-PWY]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RIBOSYLHOMOCYSTEINASE-RXN RIBOSYLHOMOCYSTEINASE-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6151 PWY-6151]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=S-adenosyl-L-methionine cycle I}}
+{{#set: common name=SAM cycle|activated methyl cycle|AMC}}
+{{#set: reaction found=4}}
+{{#set: total reaction=6}}
+{{#set: completion rate=67.0}}

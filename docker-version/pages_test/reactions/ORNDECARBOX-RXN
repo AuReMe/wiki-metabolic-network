@@ -1,0 +1,67 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ORNDECARBOX-RXN ORNDECARBOX-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.1.17 EC-4.1.1.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[L-ORNITHINE]][c] '''=>''' 1 [[PUTRESCINE]][c] '''+''' 1 [[CARBON-DIOXIDE]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 L-ornithine[c] '''=>''' 1 putrescine[c] '''+''' 1 CO2[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10737]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[ORNDEG-PWY]], superpathway of ornithine degradation: [http://metacyc.org/META/NEW-IMAGE?object=ORNDEG-PWY ORNDEG-PWY]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6305]], putrescine biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6305 PWY-6305]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-46]], putrescine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-46 PWY-46]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22964 22964]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00670 R00670]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P24169 P24169]
+** [http://www.uniprot.org/uniprot/P27121 P27121]
+** [http://www.uniprot.org/uniprot/P27116 P27116]
+** [http://www.uniprot.org/uniprot/P27120 P27120]
+** [http://www.uniprot.org/uniprot/P43099 P43099]
+** [http://www.uniprot.org/uniprot/Q9X2I6 Q9X2I6]
+** [http://www.uniprot.org/uniprot/P08432 P08432]
+** [http://www.uniprot.org/uniprot/P27118 P27118]
+** [http://www.uniprot.org/uniprot/P11926 P11926]
+** [http://www.uniprot.org/uniprot/P14019 P14019]
+** [http://www.uniprot.org/uniprot/P00860 P00860]
+** [http://www.uniprot.org/uniprot/P09057 P09057]
+** [http://www.uniprot.org/uniprot/Q9TZZ6 Q9TZZ6]
+** [http://www.uniprot.org/uniprot/P44317 P44317]
+** [http://www.uniprot.org/uniprot/O66940 O66940]
+** [http://www.uniprot.org/uniprot/P27119 P27119]
+** [http://www.uniprot.org/uniprot/P49725 P49725]
+** [http://www.uniprot.org/uniprot/P50134 P50134]
+** [http://www.uniprot.org/uniprot/P93351 P93351]
+** [http://www.uniprot.org/uniprot/P93357 P93357]
+** [http://www.uniprot.org/uniprot/O15696 O15696]
+** [http://www.uniprot.org/uniprot/Q84527 Q84527]
+** [http://www.uniprot.org/uniprot/P41931 P41931]
+** [http://www.uniprot.org/uniprot/O69865 O69865]
+** [http://www.uniprot.org/uniprot/Q9UQW9 Q9UQW9]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.1.1.17}}
+{{#set: gene associated=Tiso_gene_10737}}
+{{#set: in pathway=ORNDEG-PWY|PWY-6305|PWY-46}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

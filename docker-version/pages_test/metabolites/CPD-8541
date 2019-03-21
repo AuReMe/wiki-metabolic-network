@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8541 CPD-8541] ==
+* common name:
+** a [protein]-N4-(N-acetyl-&beta;-D-glucosaminyl)-L-asparagine
+* Synonym(s):
+** a 4-N-(N-acetyl-&beta;-D-glucosaminyl)-protein
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[3.5.1.52-RXN]]
+== External links  ==
+{{#set: common name=a [protein]-N4-(N-acetyl-&beta;-D-glucosaminyl)-L-asparagine}}
+{{#set: common name=a 4-N-(N-acetyl-&beta;-D-glucosaminyl)-protein}}
+{{#set: reversible reaction associated=3.5.1.52-RXN}}

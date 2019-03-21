@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-1882 RXN-1882] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/5.1.3.18 EC-5.1.3.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GDP-MANNOSE]][c] '''<=>''' 1 [[GDP-L-GALACTOSE]][c]
+* With common name(s):
+** 1 GDP-&alpha;-D-mannose[c] '''<=>''' 1 GDP-&beta;-L-galactose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6621]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY4FS-12]], VTC2 cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-12 PWY4FS-12]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PWY4FS-13]], extended VTC2 cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-13 PWY4FS-13]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-5115]], GDP-L-galactose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5115 PWY-5115]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-882]], L-ascorbate biosynthesis I (L-galactose pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-882 PWY-882]
+** '''6''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11144 11144]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00889 R00889]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-5.1.3.18}}
+{{#set: gene associated=Tiso_gene_6621}}
+{{#set: in pathway=PWY4FS-12|PWY4FS-13|PWY-5115|PWY-882}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

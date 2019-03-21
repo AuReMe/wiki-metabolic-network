@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9624 RXN-9624] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.2.2 EC-3.1.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[STEAROYL-COA]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[STEARIC_ACID]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CO-A]][c]
+* With common name(s):
+** 1 stearoyl-CoA[c] '''+''' 1 H2O[c] '''=>''' 1 stearate[c] '''+''' 1 H+[c] '''+''' 1 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7477]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_801]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-5972]], stearate biosynthesis I (animals and fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5972 PWY-5972]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6733]], sporopollenin precursors biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6733 PWY-6733]
+** '''8''' reactions found over '''18''' reactions in the full pathway
+* [[PWY3O-355]], stearate biosynthesis III (fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY3O-355 PWY3O-355]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30139 30139]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R08174 R08174]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.1.2.2}}
+{{#set: gene associated=Tiso_gene_7477|Tiso_gene_801}}
+{{#set: in pathway=PWY-5972|PWY-6733|PWY3O-355}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-athaliana|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

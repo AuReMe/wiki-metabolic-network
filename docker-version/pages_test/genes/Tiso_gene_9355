@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9355 ==
+* right end position:
+** 2445
+* transcription direction:
+** POSITIVE
+* left end position:
+** 612
+* centisome position:
+** 6.5064855    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[METHIONYL-TRNA-FORMYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2445}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=612}}
+{{#set: centisome position=6.5064855    }}
+{{#set: reaction associated=METHIONYL-TRNA-FORMYLTRANSFERASE-RXN}}

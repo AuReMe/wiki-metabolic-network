@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7443 ==
+* right end position:
+** 8410
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6990
+* centisome position:
+** 62.673717    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMINOCYL-TRNA-HYDROLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12460]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16637]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY490-4]]
+* [[PWY-6308]]
+== External links  ==
+{{#set: right end position=8410}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6990}}
+{{#set: centisome position=62.673717    }}
+{{#set: reaction associated=AMINOCYL-TRNA-HYDROLASE-RXN|RXN-12460|RXN-16637}}
+{{#set: pathway associated=PWY490-4|PWY-6308}}

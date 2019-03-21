@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11770 CPD-11770] ==
+* smiles:
+** C1(NC2(N=C(N)NC(=O)C(N=C1C(O)C(O)CO)=2))
+* common name:
+** 7,8-dihydromonapterin
+* inchi key:
+** InChIKey=YQIFAMYNGGOTFB-NJGYIYPDSA-N
+* molecular weight:
+** 255.233    
+* Synonym(s):
+** DHM
+** H2-MPt
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-10857]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C21008 C21008]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71175 71175]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45479435 45479435]
+{{#set: smiles=C1(NC2(N=C(N)NC(=O)C(N=C1C(O)C(O)CO)=2))}}
+{{#set: common name=7,8-dihydromonapterin}}
+{{#set: inchi key=InChIKey=YQIFAMYNGGOTFB-NJGYIYPDSA-N}}
+{{#set: molecular weight=255.233    }}
+{{#set: common name=DHM|H2-MPt}}
+{{#set: reversible reaction associated=RXN-10857}}

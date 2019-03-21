@@ -1,0 +1,49 @@
+=Worklow command history=
+
+==Command sequence==
+* '''Check input''':
+''Check the validity, consistency and presence of input files''
+* '''Orthology based reconstruction''':
+''Run the orthology based reconstruction.''
+* '''Annotation based reconstruction''':
+''Extract network data from Pathway Tools annotation output.''
+* '''SBML mapping''':
+''Map an SBML file (all the entities IDs) to a reference database (specified in config.txt).''
+* '''SBML mapping''':
+''Map an SBML file (all the entities IDs) to a reference database (specified in config.txt).''
+* '''SBML mapping''':
+''Map an SBML file (all the entities IDs) to a reference database (specified in config.txt).''
+* '''Create draft network''':
+''Merges all available networks from the /networks directory into one metabolic network.<BR>Merge all data on the studied species.''
+* '''Get compartments''':
+''Display all the compartments of the metabolic network.''
+* '''Change compartment''':
+''Modify a compartment in the metabolic network.''
+* '''Change compartment''':
+''Modify a compartment in the metabolic network.''
+* '''Change compartment''':
+''Modify a compartment in the metabolic network.''
+* '''Change compartment''':
+''Modify a compartment in the metabolic network.''
+* '''Change compartment''':
+''Modify a compartment in the metabolic network.''
+* '''Change compartment''':
+''Modify a compartment in the metabolic network.''
+* '''Get compartments''':
+''Display all the compartments of the metabolic network.''
+* '''Set medium''':
+''Set the growth medium for the studied species.''
+* '''Run gap-filling''':
+''Calculate the gap-filling solution and generate the metabolic network, completed with the gap-filling solution.''
+* '''Manual curation''':
+''Apply the curation described in the form file export_biomass_rxn.csv.''
+* '''Manual curation''':
+''Apply the curation described in the form file reactions_PWY-6475_tiso_add.csv.''
+* '''Set FBA''':
+''Set the biomass reaction to run flux balance analysis on the network.''
+* '''Test FBA''':
+''Run flux balance analysis on the network.''
+* '''Create Wiki pages''':
+''Create Wiki pages to display the metabolic network.''
+==Downloads==
+You can download the [[MEDIA:log.txt|command log file here]]

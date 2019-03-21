@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9421 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-9537]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5971]]
+* [[PWY-5994]]
+== External links  ==
+{{#set: reaction associated=RXN-9537}}
+{{#set: pathway associated=PWY-5971|PWY-5994}}

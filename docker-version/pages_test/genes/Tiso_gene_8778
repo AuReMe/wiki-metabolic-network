@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8778 ==
+* right end position:
+** 7610
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5952
+* centisome position:
+** 60.121216    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RR-BUTANEDIOL-DEHYDROGENASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY3O-246]]
+* [[PWY-6386]]
+* [[PWY-6387]]
+* [[PWY-5951]]
+== External links  ==
+{{#set: right end position=7610}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5952}}
+{{#set: centisome position=60.121216    }}
+{{#set: reaction associated=RR-BUTANEDIOL-DEHYDROGENASE-RXN|UDPNACETYLMURAMATEDEHYDROG-RXN}}
+{{#set: pathway associated=PWY3O-246|PWY-6386|PWY-6387|PWY-5951}}

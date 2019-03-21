@@ -1,0 +1,61 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PREPHENATEDEHYDRAT-RXN PREPHENATEDEHYDRAT-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** bifunctional_chorismate_mutase_prephenate_dehydratase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.51 EC-4.2.1.51]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[PREPHENATE]][c] '''<=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[PHENYL-PYRUVATE]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 prephenate[c] '''<=>''' 1 CO2[c] '''+''' 1 H2O[c] '''+''' 1 2-oxo-3-phenylpropanoate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6815]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5940]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7432]], L-phenylalanine biosynthesis III (cytosolic, plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7432 PWY-7432]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PHESYN]], L-phenylalanine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PHESYN PHESYN]
+** '''3''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21648 21648]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01373 R01373]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P27603 P27603]
+** [http://www.uniprot.org/uniprot/P43900 P43900]
+** [http://www.uniprot.org/uniprot/P21203 P21203]
+** [http://www.uniprot.org/uniprot/Q58054 Q58054]
+** [http://www.uniprot.org/uniprot/Q9CEU2 Q9CEU2]
+** [http://www.uniprot.org/uniprot/Q9PII3 Q9PII3]
+** [http://www.uniprot.org/uniprot/P0A9J8 P0A9J8]
+** [http://www.uniprot.org/uniprot/Q02286 Q02286]
+** [http://www.uniprot.org/uniprot/P43909 P43909]
+** [http://www.uniprot.org/uniprot/P32452 P32452]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=bifunctional_chorismate_mutase_prephenate_dehydratase}}
+{{#set: ec number=EC-4.2.1.51}}
+{{#set: gene associated=Tiso_gene_6815|Tiso_gene_5940}}
+{{#set: in pathway=PWY-7432|PHESYN}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=manual-primary_network|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

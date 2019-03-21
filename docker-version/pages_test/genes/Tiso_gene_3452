@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3452 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-7828]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-8228]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-5268]]
+* [[PWY-5307]]
+* [[PWY-5139]]
+== External links  ==
+{{#set: reaction associated=RXN-7828|RXN-8228}}
+{{#set: pathway associated=PWY-5268|PWY-5307|PWY-5139}}

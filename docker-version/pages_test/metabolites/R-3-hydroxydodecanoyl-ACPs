@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=R-3-hydroxydodecanoyl-ACPs R-3-hydroxydodecanoyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxydodecanoyl-[acp]
+* Synonym(s):
+** a &beta;-hydroxydodecanoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9533]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9532]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxydodecanoyl-[acp]}}
+{{#set: common name=a &beta;-hydroxydodecanoyl-[acp]}}
+{{#set: consumed by=RXN-9533}}
+{{#set: produced by=RXN-9532}}

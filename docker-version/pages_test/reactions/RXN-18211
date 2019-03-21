@@ -1,0 +1,24 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-18211 RXN-18211] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[CPD-19492]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[CPD-3618]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 3-ethyl-2-oxosuccinate[c] '''=>''' 1 CO2[c] '''+''' 1 2-oxovalerate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

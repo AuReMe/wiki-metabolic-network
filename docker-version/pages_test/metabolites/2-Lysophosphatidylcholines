@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-Lysophosphatidylcholines 2-Lysophosphatidylcholines] ==
+* common name:
+** a 1-acyl-sn-glycero-3-phosphocholine
+* Synonym(s):
+** alpha-acylglycerophosphocholine
+** 1-acylglycerophosphocholine
+** a 1-acyl-sn-glycerol-3-phosphocholine
+** a 2-lyso-phosphatidylcholine
+** a 1-acylglycero-3-phosphocholine
+** 2-lysolecithin
+
+== Reaction(s) known to consume the compound ==
+* [[LYSOPHOSPHOLIPASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[PHOSPHOLIPASE-A2-RXN]]
+* [[RXN-1641]]
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.23-RXN]]
+* [[2.3.1.43-RXN]]
+== External links  ==
+{{#set: common name=a 1-acyl-sn-glycero-3-phosphocholine}}
+{{#set: common name=alpha-acylglycerophosphocholine|1-acylglycerophosphocholine|a 1-acyl-sn-glycerol-3-phosphocholine|a 2-lyso-phosphatidylcholine|a 1-acylglycero-3-phosphocholine|2-lysolecithin}}
+{{#set: consumed by=LYSOPHOSPHOLIPASE-RXN}}
+{{#set: produced by=PHOSPHOLIPASE-A2-RXN|RXN-1641}}
+{{#set: reversible reaction associated=2.3.1.23-RXN|2.3.1.43-RXN}}

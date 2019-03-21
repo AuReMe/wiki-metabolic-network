@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=7-AMINOMETHYL-7-DEAZAGUANINE 7-AMINOMETHYL-7-DEAZAGUANINE] ==
+* smiles:
+** C([N+])C2(C1(C(=O)NC(N)=NC=1NC=2))
+* common name:
+** preQ1
+* inchi key:
+** InChIKey=MEYMBLGOKYDGLZ-UHFFFAOYSA-O
+* molecular weight:
+** 180.189    
+* Synonym(s):
+** 7-aminomethyl-7-deazaguanine
+** 7-aminomethyl-7-carbaguanine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-1321]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202264 25202264]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58703 58703]
+{{#set: smiles=C([N+])C2(C1(C(=O)NC(N)=NC=1NC=2))}}
+{{#set: common name=preQ1}}
+{{#set: inchi key=InChIKey=MEYMBLGOKYDGLZ-UHFFFAOYSA-O}}
+{{#set: molecular weight=180.189    }}
+{{#set: common name=7-aminomethyl-7-deazaguanine|7-aminomethyl-7-carbaguanine}}
+{{#set: consumed by=RXN0-1321}}

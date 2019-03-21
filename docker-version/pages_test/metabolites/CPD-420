@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-420 CPD-420] ==
+* smiles:
+** CC(NC(C(=O)[O-])CC(=O)[O-])=O
+* common name:
+** N-acetyl-L-aspartate
+* inchi key:
+** InChIKey=OTCCIMWXFLJLIA-BYPYZUCNSA-L
+* molecular weight:
+** 173.125    
+* Synonym(s):
+** N-acetyl-&alpha;-L-aspartate
+** N-acetyl-L-aspartic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13680]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2042020 2042020]
+* HMDB : HMDB00812
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01042 C01042]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1539206.html 1539206]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16953 16953]
+* METABOLIGHTS : MTBLC16953
+{{#set: smiles=CC(NC(C(=O)[O-])CC(=O)[O-])=O}}
+{{#set: common name=N-acetyl-L-aspartate}}
+{{#set: inchi key=InChIKey=OTCCIMWXFLJLIA-BYPYZUCNSA-L}}
+{{#set: molecular weight=173.125    }}
+{{#set: common name=N-acetyl-&alpha;-L-aspartate|N-acetyl-L-aspartic acid}}
+{{#set: reversible reaction associated=RXN-13680}}

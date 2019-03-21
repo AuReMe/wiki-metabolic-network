@@ -1,0 +1,59 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5695 PWY-5695] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3803 TAX-3803]
+* common name:
+** urate biosynthesis/inosine 5'-phosphate degradation
+* Synonym(s):
+** ureide biogenesis
+** inosine 5'-phosphate degradation
+** IMP degradation
+** urate biosynthesis
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[IMP-DEHYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6377]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN0-901]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[XANTHOSINEPHOSPHORY-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[XMPXAN-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_14435]]
+*** [[Tiso_gene_6640]]
+*** [[Tiso_gene_14434]]
+*** [[Tiso_gene_13929]]
+*** [[Tiso_gene_5911]]
+*** [[Tiso_gene_14246]]
+*** [[Tiso_gene_6988]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-3803}}
+{{#set: common name=urate biosynthesis/inosine 5'-phosphate degradation}}
+{{#set: common name=ureide biogenesis|inosine 5'-phosphate degradation|IMP degradation|urate biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

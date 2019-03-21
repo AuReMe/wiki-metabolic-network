@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-2144 RXN0-2144] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.59 EC-4.2.1.59]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[b-Hydroxy-cis-D5-dodecenoyl-ACPs]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[Trans-D3-cis-D5-dodecenoyl-ACPs]][c]
+* With common name(s):
+** 1 a (3R,5Z)-3-hydroxy-dodec-5-enoyl-[acp][c] '''=>''' 1 H2O[c] '''+''' 1 a (3E,5Z)-dodeca-3,5-dienoyl-[acp][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6884]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY0-862]], (5Z)-dodec-5-enoate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-862 PWY0-862]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=3-hydroxyacyl-[acyl-carrier-protein] dehydratase}}
+{{#set: ec number=EC-4.2.1.59}}
+{{#set: gene associated=Tiso_gene_6884}}
+{{#set: in pathway=PWY0-862}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

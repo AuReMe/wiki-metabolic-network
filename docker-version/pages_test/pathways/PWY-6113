@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6113 PWY-6113] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1762 TAX-1762]
+* common name:
+** superpathway of mycolate biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-4381]]
+** 0 associated gene:
+* [[PWY-5971]]
+** 0 associated gene:
+* [[PWY-5989]]
+** 0 associated gene:
+* [[PWYG-321]]
+** 0 associated gene:
+* [[RXN-10059]]
+** 4 associated gene(s):
+*** [[Tiso_gene_15991]]
+*** [[Tiso_gene_19302]]
+*** [[Tiso_gene_14485]]
+*** [[Tiso_gene_5939]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10060]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9885]]
+*** [[Tiso_gene_13083]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10061]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6884]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10062]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10778]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-1762}}
+{{#set: common name=superpathway of mycolate biosynthesis}}
+{{#set: reaction found=8}}
+{{#set: total reaction=12}}
+{{#set: completion rate=67.0}}

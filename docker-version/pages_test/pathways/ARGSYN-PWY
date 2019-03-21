@@ -1,0 +1,68 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ARGSYN-PWY ARGSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-arginine biosynthesis I (via L-ornithine)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''6''' reactions in the full pathway
+* [[ARGSUCCINLYA-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2485]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ARGSUCCINSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12592]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[CARBPSYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_4976]]
+*** [[Tiso_gene_4975]]
+*** [[Tiso_gene_4685]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLUTORN-PWY]]
+** 0 associated gene:
+* [[ORNCARBAMTRANSFER-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18444]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=ARGSYN-PWY ARGSYN-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-arginine biosynthesis I (via L-ornithine)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=6}}
+{{#set: completion rate=83.0}}

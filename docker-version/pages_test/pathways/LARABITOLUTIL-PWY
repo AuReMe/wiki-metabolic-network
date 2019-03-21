@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=LARABITOLUTIL-PWY LARABITOLUTIL-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** xylitol degradation
+* Synonym(s):
+** L-arabitol and xylitol utilization
+** L-arabitol and xylitol degradation
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[XYLULOKIN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_15823]]
+*** [[Tiso_gene_15822]]
+*** [[Tiso_gene_14270]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=D-XYLULOSE-REDUCTASE-RXN D-XYLULOSE-REDUCTASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-7742}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=xylitol degradation}}
+{{#set: common name=L-arabitol and xylitol utilization|L-arabitol and xylitol degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

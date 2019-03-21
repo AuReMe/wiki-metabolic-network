@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-181 CPD0-181] ==
+* smiles:
+** C(OP([O-])([O-])=O)C2(C(O)C(O)C(N1(C=NC=C(NC(=O)[O-])1))O2)
+* common name:
+** N5-carboxyaminoimidazole ribonucleotide
+* inchi key:
+** InChIKey=JHLXDWGVSYMXPL-XVFCMESISA-K
+* molecular weight:
+** 336.174    
+* Synonym(s):
+** 5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole
+** 5-phosphoribosyl-5-carboxyaminoimidazole
+** N5-CAIR
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-742]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15667 C15667]
+* HMDB : HMDB12268
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58730 58730]
+* BIGG : 5caiz
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202011 25202011]
+{{#set: smiles=C(OP([O-])([O-])=O)C2(C(O)C(O)C(N1(C=NC=C(NC(=O)[O-])1))O2)}}
+{{#set: common name=N5-carboxyaminoimidazole ribonucleotide}}
+{{#set: inchi key=InChIKey=JHLXDWGVSYMXPL-XVFCMESISA-K}}
+{{#set: molecular weight=336.174    }}
+{{#set: common name=5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole|5-phosphoribosyl-5-carboxyaminoimidazole|N5-CAIR}}
+{{#set: produced by=RXN0-742}}

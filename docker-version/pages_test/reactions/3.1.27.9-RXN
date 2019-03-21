@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.27.9-RXN 3.1.27.9-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** trna_intron_catalytic_cterminal_subfamily_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/4.6.1.16 EC-4.6.1.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD0-2350]][c] '''=>''' 1 [[Pre-tRNA-3-prime-half-molecules]][c] '''+''' 1 [[Pre-tRNA-5-prime-half-molecules]][c] '''+''' 1 [[tRNA-Introns]][c]
+* With common name(s):
+** 1 a polycistronic tRNA precursor[c] '''=>''' 1 a 3'-half-tRNA molecule with a 5'-OH end[c] '''+''' 1 a 5'-half-tRNA molecule with a 2',3'-cyclic phosphate end[c] '''+''' 1 a tRNA intron with a 2',3'-cyclic phosphate and a 5'-hydroxyl terminus[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3776]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10338]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5254]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6689]], tRNA splicing I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6689 PWY-6689]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7803]], tRNA splicing II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7803 PWY-7803]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O07118 O07118]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=trna_intron_catalytic_cterminal_subfamily_protein}}
+{{#set: ec number=EC-4.6.1.16}}
+{{#set: gene associated=Tiso_gene_3776|Tiso_gene_10338|Tiso_gene_5254}}
+{{#set: in pathway=PWY-6689|PWY-7803}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

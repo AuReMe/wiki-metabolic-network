@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=OCTAPRENYL-DIPHOSPHATE OCTAPRENYL-DIPHOSPHATE] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]
+* common name:
+** all-trans-octaprenyl diphosphate
+* inchi key:
+** InChIKey=IKKLDISSULFFQO-DJMILUHSSA-K
+* molecular weight:
+** 719.897    
+* Synonym(s):
+** farnesylfarnesylgeranyl-PP
+** octaprenyl pyrophosphate
+** OPP
+** farnesylfarnesylgeraniol
+** octaprenyl diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[4OHBENZOATE-OCTAPRENYLTRANSFER-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04146 C04146]
+* HMDB : HMDB01094
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57711 57711]
+* BIGG : octdp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245331 25245331]
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]}}
+{{#set: common name=all-trans-octaprenyl diphosphate}}
+{{#set: inchi key=InChIKey=IKKLDISSULFFQO-DJMILUHSSA-K}}
+{{#set: molecular weight=719.897    }}
+{{#set: common name=farnesylfarnesylgeranyl-PP|octaprenyl pyrophosphate|OPP|farnesylfarnesylgeraniol|octaprenyl diphosphate}}
+{{#set: consumed by=4OHBENZOATE-OCTAPRENYLTRANSFER-RXN}}

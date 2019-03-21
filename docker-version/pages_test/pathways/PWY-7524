@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7524 PWY-7524] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** mevalonate pathway III (archaea)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''8''' reactions in the full pathway
+* [[1.1.1.34-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_16182]]
+*** [[Tiso_gene_17889]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_9236]]
+*** [[Tiso_gene_14303]]
+*** [[Tiso_gene_8563]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[IPPISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8653]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10068 RXN-10068]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15647 RXN-15647]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15648 RXN-15648]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15649 RXN-15649]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=mevalonate pathway III (archaea)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=8}}
+{{#set: completion rate=50.0}}

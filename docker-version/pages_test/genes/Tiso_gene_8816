@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8816 ==
+* right end position:
+** 9275
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8275
+* centisome position:
+** 83.933464    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.78-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7456]]
+== External links  ==
+{{#set: right end position=9275}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8275}}
+{{#set: centisome position=83.933464    }}
+{{#set: reaction associated=3.2.1.78-RXN}}
+{{#set: pathway associated=PWY-7456}}

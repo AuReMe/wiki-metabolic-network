@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15950 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6PGLUCONOLACT-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[P122-PWY]]
+* [[RUMP-PWY]]
+* [[OXIDATIVEPENT-PWY]]
+* [[GLYCOLYSIS-E-D]]
+== External links  ==
+{{#set: reaction associated=6PGLUCONOLACT-RXN}}
+{{#set: pathway associated=P122-PWY|RUMP-PWY|OXIDATIVEPENT-PWY|GLYCOLYSIS-E-D}}

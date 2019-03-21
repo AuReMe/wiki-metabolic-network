@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=INDOLE INDOLE] ==
+* smiles:
+** C2(C=CC1(=C(C=CN1)C=2))
+* common name:
+** indole
+* inchi key:
+** InChIKey=SIKJAQJRHWYJAI-UHFFFAOYSA-N
+* molecular weight:
+** 117.15    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-2382]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-2381]]
+== External links  ==
+* CAS : 120-72-9
+* DRUGBANK : DB04532
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=798 798]
+* HMDB : HMDB00738
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00463 C00463]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.776.html 776]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16881 16881]
+* BIGG : indole
+{{#set: smiles=C2(C=CC1(=C(C=CN1)C=2))}}
+{{#set: common name=indole}}
+{{#set: inchi key=InChIKey=SIKJAQJRHWYJAI-UHFFFAOYSA-N}}
+{{#set: molecular weight=117.15    }}
+{{#set: consumed by=RXN0-2382}}
+{{#set: reversible reaction associated=RXN0-2381}}

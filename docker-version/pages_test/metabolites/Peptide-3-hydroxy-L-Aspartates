@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Peptide-3-hydroxy-L-Aspartates Peptide-3-hydroxy-L-Aspartates] ==
+* common name:
+** a [protein]-3-hydroxy-L-aspartate
+* Synonym(s):
+** a peptide 3-hydroxy-L-aspartate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [protein]-3-hydroxy-L-aspartate}}
+{{#set: common name=a peptide 3-hydroxy-L-aspartate}}
+{{#set: produced by=PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN}}

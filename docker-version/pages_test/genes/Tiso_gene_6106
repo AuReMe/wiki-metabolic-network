@@ -1,0 +1,42 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6106 ==
+* right end position:
+** 2128
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 185
+* centisome position:
+** 1.287942    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PNKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PYRAMKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PYRIDOXKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7204]]
+* [[PWY-7282]]
+* [[PLPSAL-PWY]]
+== External links  ==
+{{#set: right end position=2128}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=185}}
+{{#set: centisome position=1.287942    }}
+{{#set: reaction associated=PNKIN-RXN|PYRAMKIN-RXN|PYRIDOXKIN-RXN}}
+{{#set: pathway associated=PWY-7204|PWY-7282|PLPSAL-PWY}}

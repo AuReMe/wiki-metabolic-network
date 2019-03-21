@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3693 ==
+* right end position:
+** 14427
+* transcription direction:
+** POSITIVE
+* left end position:
+** 14328
+* centisome position:
+** 88.66885    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-TYROSINE-PHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14427}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=14328}}
+{{#set: centisome position=88.66885    }}
+{{#set: reaction associated=PROTEIN-TYROSINE-PHOSPHATASE-RXN}}

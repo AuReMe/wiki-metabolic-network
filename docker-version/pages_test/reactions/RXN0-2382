@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-2382 RXN0-2382] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** tryptophan_synthase_(alpha_beta_chains)
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.122 EC-4.2.1.122]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[INDOLE]][c] '''+''' 1 [[SER]][c] '''=>''' 1 [[TRP]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 indole[c] '''+''' 1 L-serine[c] '''=>''' 1 L-tryptophan[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17207]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4604]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRPSYN-PWY]], L-tryptophan biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=TRPSYN-PWY TRPSYN-PWY]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=26434 26434]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00674 R00674]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=tryptophan_synthase_(alpha_beta_chains)}}
+{{#set: ec number=EC-4.2.1.122}}
+{{#set: gene associated=Tiso_gene_17207|Tiso_gene_4604}}
+{{#set: in pathway=TRPSYN-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

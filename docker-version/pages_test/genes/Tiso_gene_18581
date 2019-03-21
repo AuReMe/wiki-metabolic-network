@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18581 ==
+* right end position:
+** 2469
+* transcription direction:
+** POSITIVE
+* left end position:
+** 307
+* centisome position:
+** 10.488555    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2469}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=307}}
+{{#set: centisome position=10.488555    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

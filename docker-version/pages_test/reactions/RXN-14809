@@ -1,0 +1,27 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14809 RXN-14809] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-arabinofuranose]][c] '''<=>''' 1 [[L-arabinopyranose]][c]
+* With common name(s):
+**
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5517]], L-arabinose degradation III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5517 PWY-5517]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-7295]], L-arabinose degradation IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7295 PWY-7295]
+** '''3''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=PWY-5517|PWY-7295}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13974 ==
+* right end position:
+** 5693
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3819
+* centisome position:
+** 64.33625    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5693}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3819}}
+{{#set: centisome position=64.33625    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|PROTEIN-KINASE-RXN|RXN-11201}}

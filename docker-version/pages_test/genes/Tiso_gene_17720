@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17720 ==
+* right end position:
+** 3172
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 242
+* centisome position:
+** 6.9221964    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11696]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3172}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=242}}
+{{#set: centisome position=6.9221964    }}
+{{#set: reaction associated=RXN-11696}}

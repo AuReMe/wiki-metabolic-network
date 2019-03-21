@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MPBQ MPBQ] ==
+* smiles:
+** CC(CCCC(CCCC(C)CCCC(C)=CCC1(C=C(O)C=C(C)C(O)=1))C)C
+* common name:
+** 2-methyl-6-phytyl-1,4-benzoquinol
+* inchi key:
+** InChIKey=GTWCNYRFOZKWTL-UOFXASEASA-N
+* molecular weight:
+** 402.659    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-2542]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-2541]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15882 C15882]
+* HMDB : HMDB38959
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75920 75920]
+* METABOLIGHTS : MTBLC75920
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71768135 71768135]
+{{#set: smiles=CC(CCCC(CCCC(C)CCCC(C)=CCC1(C=C(O)C=C(C)C(O)=1))C)C}}
+{{#set: common name=2-methyl-6-phytyl-1,4-benzoquinol}}
+{{#set: inchi key=InChIKey=GTWCNYRFOZKWTL-UOFXASEASA-N}}
+{{#set: molecular weight=402.659    }}
+{{#set: consumed by=RXN-2542}}
+{{#set: produced by=RXN-2541}}

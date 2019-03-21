@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-METHYL-CROTONYL-COA 3-METHYL-CROTONYL-COA] ==
+* smiles:
+** CC(=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C
+* common name:
+** 3-methylcrotonyl-CoA
+* inchi key:
+** InChIKey=BXIPALATIYNHJN-ZMHDXICWSA-J
+* molecular weight:
+** 845.604    
+* Synonym(s):
+** &beta;-methylcrotonoyl-CoA
+** 3-methylbut-2-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[METHYLCROTONYL-COA-CARBOXYLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-2301]]
+* [[RXN-11921]]
+* [[IVCDH]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14264]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03069 C03069]
+* HMDB : HMDB01493
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57344 57344]
+* METABOLIGHTS : MTBLC57344
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266575 45266575]
+{{#set: smiles=CC(=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C}}
+{{#set: common name=3-methylcrotonyl-CoA}}
+{{#set: inchi key=InChIKey=BXIPALATIYNHJN-ZMHDXICWSA-J}}
+{{#set: molecular weight=845.604    }}
+{{#set: common name=&beta;-methylcrotonoyl-CoA|3-methylbut-2-enoyl-CoA}}
+{{#set: consumed by=METHYLCROTONYL-COA-CARBOXYLASE-RXN}}
+{{#set: produced by=RXN0-2301|RXN-11921|IVCDH}}
+{{#set: reversible reaction associated=RXN-14264}}

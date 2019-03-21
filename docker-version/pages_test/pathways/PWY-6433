@@ -1,0 +1,58 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6433 PWY-6433] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** hydroxylated fatty acid biosynthesis (plants)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''22''' reactions in the full pathway
+* [[RXN-13322]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6671]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-14484]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-14493]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-16154]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9871]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14485 RXN-14485]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14486 RXN-14486]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14488 RXN-14488]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14491 RXN-14491]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14492 RXN-14492]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14494 RXN-14494]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14495 RXN-14495]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16148 RXN-16148]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16149 RXN-16149]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16150 RXN-16150]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16151 RXN-16151]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16152 RXN-16152]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16153 RXN-16153]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16155 RXN-16155]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16156 RXN-16156]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16157 RXN-16157]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16158 RXN-16158]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9670 RXN-9670]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=hydroxylated fatty acid biosynthesis (plants)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=22}}
+{{#set: completion rate=18.0}}

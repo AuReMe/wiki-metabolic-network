@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16765 ==
+* right end position:
+** 3679
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 428
+* centisome position:
+** 10.350665    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CHD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-7230]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[CHOLINE-BETAINE-ANA-PWY]]
+* [[BETSYN-PWY]]
+== External links  ==
+{{#set: right end position=3679}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=428}}
+{{#set: centisome position=10.350665    }}
+{{#set: reaction associated=CHD-RXN|RXN0-7230}}
+{{#set: pathway associated=CHOLINE-BETAINE-ANA-PWY|BETSYN-PWY}}

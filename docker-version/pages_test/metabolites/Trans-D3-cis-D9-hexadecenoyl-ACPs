@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Trans-D3-cis-D9-hexadecenoyl-ACPs Trans-D3-cis-D9-hexadecenoyl-ACPs] ==
+* common name:
+** a trans-&Delta;3-cis-&Delta;9-hexadecenoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10661]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10660]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans-&Delta;3-cis-&Delta;9-hexadecenoyl-[acp]}}
+{{#set: consumed by=RXN-10661}}
+{{#set: produced by=RXN-10660}}

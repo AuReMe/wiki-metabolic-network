@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TYR-tRNAs TYR-tRNAs] ==
+* common name:
+** a tRNAtyr
+* Synonym(s):
+** TRNA(TYR)
+
+== Reaction(s) known to consume the compound ==
+* [[TYROSINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAtyr}}
+{{#set: common name=TRNA(TYR)}}
+{{#set: consumed by=TYROSINE--TRNA-LIGASE-RXN}}

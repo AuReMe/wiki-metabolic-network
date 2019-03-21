@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14113 ==
+* right end position:
+** 3559
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2
+* centisome position:
+** 3.428179600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3559}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=3.428179600e-2}}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN}}

@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=UGDC UGDC] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** UDP-glucuronate decarboxylase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PROTON]][c] '''+''' 1.0 [[UDP-GLUCURONATE]][c] '''=>''' 1.0 [[CARBON-DIOXIDE]][c] '''+''' 1.0 [[UDP-D-XYLOSE]][c]
+* With common name(s):
+** 1.0 H+[c] '''+''' 1.0 UDP-&alpha;-D-glucuronate[c] '''=>''' 1.0 CO2[c] '''+''' 1.0 UDP-&alpha;-D-xylose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12394]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=UDP-glucuronate decarboxylase}}
+{{#set: gene associated=Tiso_gene_12394}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

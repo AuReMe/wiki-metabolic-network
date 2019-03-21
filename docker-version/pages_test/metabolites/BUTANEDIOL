@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BUTANEDIOL BUTANEDIOL] ==
+* smiles:
+** CC(C(O)C)O
+* common name:
+** (R,R)-2,3-butanediol
+* inchi key:
+** InChIKey=OWBTYPJTUOEWEK-QWWZWVQMSA-N
+* molecular weight:
+** 90.122    
+* Synonym(s):
+** D(-)-2,3-butanediol
+** 2,3-butylene glycol
+** 2,3-butanediol
+** butanediol
+** (R,R)-butane-2,3-diol
+** (R,R)-2,3-butylene glycol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RR-BUTANEDIOL-DEHYDROGENASE-RXN]]
+== External links  ==
+* CAS : 24347-58-8
+* DRUGBANK : DB02418
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=225936 225936]
+* HMDB : HMDB33007
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03044 C03044]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.196452.html 196452]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16982 16982]
+{{#set: smiles=CC(C(O)C)O}}
+{{#set: common name=(R,R)-2,3-butanediol}}
+{{#set: inchi key=InChIKey=OWBTYPJTUOEWEK-QWWZWVQMSA-N}}
+{{#set: molecular weight=90.122    }}
+{{#set: common name=D(-)-2,3-butanediol|2,3-butylene glycol|2,3-butanediol|butanediol|(R,R)-butane-2,3-diol|(R,R)-2,3-butylene glycol}}
+{{#set: reversible reaction associated=RR-BUTANEDIOL-DEHYDROGENASE-RXN}}

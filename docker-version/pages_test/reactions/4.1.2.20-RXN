@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=4.1.2.20-RXN 4.1.2.20-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 2-dehydro-3-deoxyglucarate_aldolase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.2.20 EC-4.1.2.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[2-KETO-3-DEOXY-D-GLUCARATE]][c] '''<=>''' 1 [[PYRUVATE]][c] '''+''' 1 [[TARTRONATE-S-ALD]][c]
+* With common name(s):
+** 1 (2S,3S)-2,3-dihydroxy-5-oxohexanedioate[c] '''<=>''' 1 pyruvate[c] '''+''' 1 tartronate semialdehyde[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16237]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10268 10268]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03277 R03277]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=2-dehydro-3-deoxyglucarate_aldolase}}
+{{#set: ec number=EC-4.1.2.20}}
+{{#set: gene associated=Tiso_gene_16237}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

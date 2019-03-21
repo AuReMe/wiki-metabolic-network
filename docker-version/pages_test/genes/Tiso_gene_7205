@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7205 ==
+* right end position:
+** 2707
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 146
+* centisome position:
+** 1.2810389    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-5021]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2707}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=146}}
+{{#set: centisome position=1.2810389    }}
+{{#set: reaction associated=RXN0-5021}}

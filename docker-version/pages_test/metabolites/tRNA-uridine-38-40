@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=tRNA-uridine-38-40 tRNA-uridine-38-40] ==
+* common name:
+** a uridine38-40 in tRNA
+* Synonym(s):
+** a tRNA uridine38-40
+
+== Reaction(s) known to consume the compound ==
+* [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a uridine38-40 in tRNA}}
+{{#set: common name=a tRNA uridine38-40}}
+{{#set: consumed by=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

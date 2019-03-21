@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18170 ==
+* right end position:
+** 1384
+* transcription direction:
+** POSITIVE
+* left end position:
+** 341
+* centisome position:
+** 6.281083    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.6.14-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11570]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1384}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=341}}
+{{#set: centisome position=6.281083    }}
+{{#set: reaction associated=3.1.6.14-RXN|RXN-11570}}

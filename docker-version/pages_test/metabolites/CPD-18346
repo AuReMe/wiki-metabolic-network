@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18346 CPD-18346] ==
+* smiles:
+** CCCCCCC=CCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** cis-vaccenoyl-CoA
+* inchi key:
+** InChIKey=HEJOXXLSCAQQGQ-SAIINBSPSA-J
+* molecular weight:
+** 1027.953    
+* Synonym(s):
+** (Z)-octadec-11-enoyl CoA
+** (Z)-11-octadecenoic acyl-CoA
+** cis-11-octadecenoic acyl-CoA
+** cis-octadec-11-enoic acyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17011]]
+* [[RXN-17010]]
+* [[RXN-17784]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-7238]]
+* [[FACOAL18111Z]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71668355 71668355]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75121 75121]
+{{#set: smiles=CCCCCCC=CCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=cis-vaccenoyl-CoA}}
+{{#set: inchi key=InChIKey=HEJOXXLSCAQQGQ-SAIINBSPSA-J}}
+{{#set: molecular weight=1027.953    }}
+{{#set: common name=(Z)-octadec-11-enoyl CoA|(Z)-11-octadecenoic acyl-CoA|cis-11-octadecenoic acyl-CoA|cis-octadec-11-enoic acyl-CoA}}
+{{#set: consumed by=RXN-17011|RXN-17010|RXN-17784}}
+{{#set: produced by=RXN0-7238|FACOAL18111Z}}

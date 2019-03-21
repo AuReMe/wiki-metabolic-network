@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-302 CPD-302] ==
+* smiles:
+** C(C(=O)[O-])C([N+])C(=O)[O-]
+* common name:
+** D-aspartate
+* inchi key:
+** InChIKey=CKLJMWTZIZZHCS-UWTATZPHSA-M
+* molecular weight:
+** 132.096    
+* Synonym(s):
+** D-aspartic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ASPARTATE-RACEMASE-RXN]]
+== External links  ==
+* CAS : 1783-96-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460295 5460295]
+* HMDB : HMDB06483
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00402 C00402]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573880.html 4573880]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29990 29990]
+* METABOLIGHTS : MTBLC29990
+{{#set: smiles=C(C(=O)[O-])C([N+])C(=O)[O-]}}
+{{#set: common name=D-aspartate}}
+{{#set: inchi key=InChIKey=CKLJMWTZIZZHCS-UWTATZPHSA-M}}
+{{#set: molecular weight=132.096    }}
+{{#set: common name=D-aspartic acid}}
+{{#set: reversible reaction associated=ASPARTATE-RACEMASE-RXN}}

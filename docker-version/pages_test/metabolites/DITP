@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DITP DITP] ==
+* smiles:
+** C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(CC(O)1)N3(C=NC2(C(=O)NC=NC=23)))
+* common name:
+** dITP
+* inchi key:
+** InChIKey=UFJPAQSLHAGEBL-RRKCRQDMSA-J
+* molecular weight:
+** 488.137    
+* Synonym(s):
+** deoxyinosine triphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-1602]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14228]]
+== External links  ==
+* BIGG : ditp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25203822 25203822]
+* HMDB : HMDB03537
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01345 C01345]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61382 61382]
+* METABOLIGHTS : MTBLC61382
+{{#set: smiles=C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(CC(O)1)N3(C=NC2(C(=O)NC=NC=23)))}}
+{{#set: common name=dITP}}
+{{#set: inchi key=InChIKey=UFJPAQSLHAGEBL-RRKCRQDMSA-J}}
+{{#set: molecular weight=488.137    }}
+{{#set: common name=deoxyinosine triphosphate}}
+{{#set: consumed by=RXN0-1602}}
+{{#set: reversible reaction associated=RXN-14228}}

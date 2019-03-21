@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-6262 CPD-6262] ==
+* common name:
+** a [Cys-Gly]-S-conjugate
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6642]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [Cys-Gly]-S-conjugate}}
+{{#set: consumed by=RXN-6642}}

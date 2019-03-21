@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-PROLINE D-PROLINE] ==
+* smiles:
+** C1([N+]C(CC1)C(=O)[O-])
+* common name:
+** D-proline
+* inchi key:
+** InChIKey=ONIBWKKTOPOVIA-SCSAIBSYSA-N
+* molecular weight:
+** 115.132    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PROLINE-RACEMASE-RXN]]
+== External links  ==
+* CAS : 344-25-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971012 6971012]
+* HMDB : HMDB03411
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00763 C00763]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57726 57726]
+* METABOLIGHTS : MTBLC57726
+{{#set: smiles=C1([N+]C(CC1)C(=O)[O-])}}
+{{#set: common name=D-proline}}
+{{#set: inchi key=InChIKey=ONIBWKKTOPOVIA-SCSAIBSYSA-N}}
+{{#set: molecular weight=115.132    }}
+{{#set: reversible reaction associated=PROLINE-RACEMASE-RXN}}

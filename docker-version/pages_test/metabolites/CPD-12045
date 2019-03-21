@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12045 CPD-12045] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(O)O1)
+* common name:
+** &alpha;-L-arabinofuranose
+* inchi key:
+** InChIKey=HMFHBZSHGGEWLO-QMKXCQHVSA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+** &alpha;-L-arabinose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.55-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB03142
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=445935 445935]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.393416.html 393416]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28772 28772]
+{{#set: smiles=C(O)C1(C(O)C(O)C(O)O1)}}
+{{#set: common name=&alpha;-L-arabinofuranose}}
+{{#set: inchi key=InChIKey=HMFHBZSHGGEWLO-QMKXCQHVSA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: common name=&alpha;-L-arabinose}}
+{{#set: produced by=3.2.1.55-RXN}}

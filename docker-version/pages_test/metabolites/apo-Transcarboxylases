@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=apo-Transcarboxylases apo-Transcarboxylases] ==
+* common name:
+** an apo-[methylmalonyl-CoA:pyruvate carboxytransferase]
+* Synonym(s):
+** apo-[methylmalonyl-CoA-carboxyltransferase]
+
+== Reaction(s) known to consume the compound ==
+* [[6.3.4.9-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an apo-[methylmalonyl-CoA:pyruvate carboxytransferase]}}
+{{#set: common name=apo-[methylmalonyl-CoA-carboxyltransferase]}}
+{{#set: consumed by=6.3.4.9-RXN}}

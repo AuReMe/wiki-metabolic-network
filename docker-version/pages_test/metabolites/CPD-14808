@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14808 CPD-14808] ==
+* smiles:
+** C1(C(C(C(C(C1O)O)=O)O)O)O
+* common name:
+** scyllo-inosose
+* inchi key:
+** InChIKey=VYEGBDHSGHXOGT-HYFGLKJPSA-N
+* molecular weight:
+** 178.141    
+* Synonym(s):
+** 2-keto-myo-inositol
+** 2,4,6/3,5-pentahydroxycyclohexanone
+** 2-inosose
+** 2-keto-scyllo-inositol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[MYO-INOSITOL-2-DEHYDROGENASE-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439294 439294]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17811 17811]
+{{#set: smiles=C1(C(C(C(C(C1O)O)=O)O)O)O}}
+{{#set: common name=scyllo-inosose}}
+{{#set: inchi key=InChIKey=VYEGBDHSGHXOGT-HYFGLKJPSA-N}}
+{{#set: molecular weight=178.141    }}
+{{#set: common name=2-keto-myo-inositol|2,4,6/3,5-pentahydroxycyclohexanone|2-inosose|2-keto-scyllo-inositol}}
+{{#set: reversible reaction associated=MYO-INOSITOL-2-DEHYDROGENASE-RXN}}

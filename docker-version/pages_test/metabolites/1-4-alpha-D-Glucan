@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=1-4-alpha-D-Glucan 1-4-alpha-D-Glucan] ==
+* common name:
+** a 1,4-&alpha;-D-glucan
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[MALTODEXGLUCOSID-RXN]]
+* [[RXN0-5184]]
+== Reaction(s) known to produce the compound ==
+* [[MALTODEXGLUCOSID-RXN]]
+* [[RXN0-5184]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 1,4-&alpha;-D-glucan}}
+{{#set: consumed by=MALTODEXGLUCOSID-RXN|RXN0-5184}}
+{{#set: produced by=MALTODEXGLUCOSID-RXN|RXN0-5184}}

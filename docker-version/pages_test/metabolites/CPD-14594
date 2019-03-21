@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14594 CPD-14594] ==
+* smiles:
+** CC(OC2(OC(COC1(OC(CO)C(O)C(O)C(O)1))C(O)C(O)C(O)2))(C#N)C
+* common name:
+** linustatin
+* inchi key:
+** InChIKey=FERSMFQBWVBKQK-CXTTVELOSA-N
+* molecular weight:
+** 409.389    
+* Synonym(s):
+** propanenitrile
+** [2-(6-O-&beta;-D-glucopyranosyl-&beta;-D-glucopyranosyloxy)-2-methylpropiononitrile)]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13602]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08333 C08333]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=6483 6483]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=119301 119301]
+{{#set: smiles=CC(OC2(OC(COC1(OC(CO)C(O)C(O)C(O)1))C(O)C(O)C(O)2))(C#N)C}}
+{{#set: common name=linustatin}}
+{{#set: inchi key=InChIKey=FERSMFQBWVBKQK-CXTTVELOSA-N}}
+{{#set: molecular weight=409.389    }}
+{{#set: common name=propanenitrile|[2-(6-O-&beta;-D-glucopyranosyl-&beta;-D-glucopyranosyloxy)-2-methylpropiononitrile)]}}
+{{#set: consumed by=RXN-13602}}

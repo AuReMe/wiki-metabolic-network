@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Rubisco-lysine Rubisco-lysine] ==
+* common name:
+** a [ribulose-1,5-bisphosphate-carboxylase]-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[2.1.1.127-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [ribulose-1,5-bisphosphate-carboxylase]-lysine}}
+{{#set: consumed by=2.1.1.127-RXN}}

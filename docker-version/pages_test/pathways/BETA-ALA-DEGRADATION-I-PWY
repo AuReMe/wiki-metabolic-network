@@ -1,0 +1,25 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=BETA-ALA-DEGRADATION-I-PWY BETA-ALA-DEGRADATION-I-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** &beta;-alanine degradation I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-2902]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11323]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2901 RXN-2901]
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?MAP00410 MAP00410]
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=&beta;-alanine degradation I}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

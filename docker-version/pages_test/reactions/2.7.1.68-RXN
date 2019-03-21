@@ -1,0 +1,98 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.1.68-RXN 2.7.1.68-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 1-phosphatidylinositol-4-phosphate_5-kinase
+** ORF
+** phosphatidylinositol-4-phosphate_5-kinase
+** phosphatidylinositol4phosphate5kinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.68 EC-2.7.1.68]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-1108]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[ADP]][c] '''+''' 1 [[PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 a 1-phosphatidyl-1D-myo-inositol 4-phosphate[c] '''+''' 1 ATP[c] '''=>''' 1 ADP[c] '''+''' 1 a 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2021]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_17532]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_1131]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15721]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_14966]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2350]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_11381]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15722]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_14055]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_17887]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_9590]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2008]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_730]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9249]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_18887]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_7487]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6352]], 3-phosphoinositide biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6352 PWY-6352]
+** '''3''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-6351]], D-myo-inositol (1,4,5)-trisphosphate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6351 PWY-6351]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14425 14425]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03469 R03469]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P48426 P48426]
+** [http://www.uniprot.org/uniprot/Q56YP2 Q56YP2]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=1-phosphatidylinositol-4-phosphate_5-kinase}}
+{{#set: common name=ORF}}
+{{#set: common name=phosphatidylinositol-4-phosphate_5-kinase}}
+{{#set: common name=phosphatidylinositol4phosphate5kinase}}
+{{#set: ec number=EC-2.7.1.68}}
+{{#set: gene associated=Tiso_gene_2021|Tiso_gene_17532|Tiso_gene_1131|Tiso_gene_15721|Tiso_gene_14966|Tiso_gene_2350|Tiso_gene_11381|Tiso_gene_15722|Tiso_gene_14055|Tiso_gene_17887|Tiso_gene_9590|Tiso_gene_2008|Tiso_gene_730|Tiso_gene_9249|Tiso_gene_18887|Tiso_gene_7487}}
+{{#set: in pathway=PWY-6352|PWY-6351}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-athaliana|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6398 PWY-6398] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+* common name:
+** melatonin degradation I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-11056]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1035]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11057]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1035]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11058]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11059]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11060]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14141]]
+*** [[Tiso_gene_14140]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00380 map00380]
+{{#set: taxonomic range=TAX-7742}}
+{{#set: common name=melatonin degradation I}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DGTP DGTP] ==
+* smiles:
+** C(OP(=O)([O-])OP(=O)(OP([O-])([O-])=O)[O-])C1(OC(CC(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))
+* common name:
+** dGTP
+* inchi key:
+** InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J
+* molecular weight:
+** 503.152    
+* Synonym(s):
+** 2'-deoxyguanosine-5'-triphosphate
+** deoxy-GTP
+** deoxyguanosine-triphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[DGTCY]]
+* [[DGTUP]]
+* [[RXN0-385]]
+* [[RME255]]
+* [[RXN-11410]]
+* [[RXN-14208]]
+* [[RXN-14217]]
+* [[DGTD]]
+== Reaction(s) known to produce the compound ==
+* [[ATDGD]]
+* [[DGDPKIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14207]]
+== External links  ==
+* CAS : 2564-35-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25246112 25246112]
+* HMDB : HMDB01440
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00286 C00286]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61429 61429]
+* BIGG : dgtp
+{{#set: smiles=C(OP(=O)([O-])OP(=O)(OP([O-])([O-])=O)[O-])C1(OC(CC(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))}}
+{{#set: common name=dGTP}}
+{{#set: inchi key=InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J}}
+{{#set: molecular weight=503.152    }}
+{{#set: common name=2'-deoxyguanosine-5'-triphosphate|deoxy-GTP|deoxyguanosine-triphosphate}}
+{{#set: consumed by=DGTCY|DGTUP|RXN0-385|RME255|RXN-11410|RXN-14208|RXN-14217|DGTD}}
+{{#set: produced by=ATDGD|DGDPKIN-RXN}}
+{{#set: reversible reaction associated=RXN-14207}}

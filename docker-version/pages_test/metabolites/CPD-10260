@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10260 CPD-10260] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** 3-oxo-stearoyl-CoA
+* inchi key:
+** InChIKey=LGOGWHDPDVAUNY-LFZQUHGESA-J
+* molecular weight:
+** 1043.952    
+* Synonym(s):
+** 3-Oxooctadecanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9544]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9543]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16216 C16216]
+* HMDB : HMDB06498
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71407 71407]
+* BIGG : 3oodcoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25243996 25243996]
+{{#set: smiles=CCCCCCCCCCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=3-oxo-stearoyl-CoA}}
+{{#set: inchi key=InChIKey=LGOGWHDPDVAUNY-LFZQUHGESA-J}}
+{{#set: molecular weight=1043.952    }}
+{{#set: common name=3-Oxooctadecanoyl-CoA}}
+{{#set: consumed by=RXN-9544}}
+{{#set: produced by=RXN-9543}}

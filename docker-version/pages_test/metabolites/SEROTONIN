@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SEROTONIN SEROTONIN] ==
+* smiles:
+** C1(=C(CC[N+])C2(C=C(O)C=CC(N1)=2))
+* common name:
+** serotonin
+* inchi key:
+** InChIKey=QZAYGJVTTNCVMB-UHFFFAOYSA-O
+* molecular weight:
+** 177.225    
+* Synonym(s):
+** 5-HT
+** hydroxytryptamine
+** 5-hydroxytryptamine
+** 3-(2-aminoethyl)-1H-indol-5-ol
+** enteramine
+** thrombocytin
+** thrombotonin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10777]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 50-67-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4048638 4048638]
+* HMDB : HMDB00259
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00780 C00780]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3264617.html 3264617]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=350546 350546]
+* METABOLIGHTS : MTBLC350546
+{{#set: smiles=C1(=C(CC[N+])C2(C=C(O)C=CC(N1)=2))}}
+{{#set: common name=serotonin}}
+{{#set: inchi key=InChIKey=QZAYGJVTTNCVMB-UHFFFAOYSA-O}}
+{{#set: molecular weight=177.225    }}
+{{#set: common name=5-HT|hydroxytryptamine|5-hydroxytryptamine|3-(2-aminoethyl)-1H-indol-5-ol|enteramine|thrombocytin|thrombotonin}}
+{{#set: consumed by=RXN-10777}}

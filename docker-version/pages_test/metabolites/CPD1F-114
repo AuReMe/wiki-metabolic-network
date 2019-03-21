@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-114 CPD1F-114] ==
+* smiles:
+** CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(C=CC=C(CCC=C(C)C)C)C)C)C)C)C)C
+* common name:
+** all-trans-lycopene
+* inchi key:
+** InChIKey=OAIJSZIZWZSQBC-GYZMGTAESA-N
+* molecular weight:
+** 536.882    
+* Synonym(s):
+** &psi;,&psi;-carotene
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-147]]
+* [[RXN1F-150]]
+== Reaction(s) known to produce the compound ==
+* [[R96]]
+* [[RXN-8042]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR01070257
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=446925 446925]
+* HMDB : HMDB03000
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05432 C05432]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.394156.html 394156]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15948 15948]
+* METABOLIGHTS : MTBLC15948
+{{#set: smiles=CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(C=CC=C(CCC=C(C)C)C)C)C)C)C)C)C}}
+{{#set: common name=all-trans-lycopene}}
+{{#set: inchi key=InChIKey=OAIJSZIZWZSQBC-GYZMGTAESA-N}}
+{{#set: molecular weight=536.882    }}
+{{#set: common name=&psi;,&psi;-carotene}}
+{{#set: consumed by=RXN1F-147|RXN1F-150}}
+{{#set: produced by=R96|RXN-8042}}

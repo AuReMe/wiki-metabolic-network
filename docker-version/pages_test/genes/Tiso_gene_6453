@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6453 ==
+* right end position:
+** 3544
+* transcription direction:
+** POSITIVE
+* left end position:
+** 550
+* centisome position:
+** 4.5048738    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLOSUCCINATE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=3544}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=550}}
+{{#set: centisome position=4.5048738    }}
+{{#set: reaction associated=ADENYLOSUCCINATE-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-7219}}

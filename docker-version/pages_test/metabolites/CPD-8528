@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8528 CPD-8528] ==
+* common name:
+** a [protein] C-terminal hydroxyglycine
+* Synonym(s):
+** a C-terminal peptidylamidoglycolate
+** a C-terminal peptidyl 2-hydroxyglycine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PEPTIDYLGLYCINE-MONOOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [protein] C-terminal hydroxyglycine}}
+{{#set: common name=a C-terminal peptidylamidoglycolate|a C-terminal peptidyl 2-hydroxyglycine}}
+{{#set: produced by=PEPTIDYLGLYCINE-MONOOXYGENASE-RXN}}

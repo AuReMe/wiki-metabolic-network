@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10317 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GPPSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R06858]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-9003]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9384]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5180]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7736]]
+* [[PWY-6859]]
+* [[PWY-7709]]
+* [[PWY-7102]]
+* [[PWY-7235]]
+* [[PWY-7182]]
+* [[PWY-7141]]
+* [[PWY-5123]]
+* [[PWY-5122]]
+* [[PWY-6383]]
+* [[PWY-7659]]
+* [[PWY-7410]]
+* [[PWY3O-19]]
+== External links  ==
+{{#set: reaction associated=GPPSYN-RXN|R06858|RXN-9003|RXN-9384|RXN0-5180}}
+{{#set: pathway associated=PWY-7736|PWY-6859|PWY-7709|PWY-7102|PWY-7235|PWY-7182|PWY-7141|PWY-5123|PWY-5122|PWY-6383|PWY-7659|PWY-7410|PWY3O-19}}

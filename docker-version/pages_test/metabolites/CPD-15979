@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15979 CPD-15979] ==
+* common name:
+** D-mannopyranose 6-phosphate
+* Synonym(s):
+** D-mannopyranose-6-P
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[MANNKIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[PHOSMANMUT-RXN]]
+== External links  ==
+{{#set: common name=D-mannopyranose 6-phosphate}}
+{{#set: common name=D-mannopyranose-6-P}}
+{{#set: produced by=MANNKIN-RXN}}
+{{#set: reversible reaction associated=PHOSMANMUT-RXN}}

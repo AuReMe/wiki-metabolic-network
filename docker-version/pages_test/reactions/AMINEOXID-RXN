@@ -1,0 +1,53 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AMINEOXID-RXN AMINEOXID-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Aliphatic-amine oxidase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.4.3.21 EC-1.4.3.21]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Aliphatic-Amines]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''=>''' 1 [[HYDROGEN-PEROXIDE]][c] '''+''' 1 [[AMMONIUM]][c] '''+''' 1 [[Aldehydes]][c]
+* With common name(s):
+** 1 an aliphatic amine[c] '''+''' 1 H2O[c] '''+''' 1 oxygen[c] '''=>''' 1 hydrogen peroxide[c] '''+''' 1 ammonium[c] '''+''' 1 an aldehyde[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8756]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16153 16153]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M2P5 Q7M2P5]
+** [http://www.uniprot.org/uniprot/Q9TRK6 Q9TRK6]
+** [http://www.uniprot.org/uniprot/Q07123 Q07123]
+** [http://www.uniprot.org/uniprot/P19801 P19801]
+** [http://www.uniprot.org/uniprot/Q29437 Q29437]
+** [http://www.uniprot.org/uniprot/Q59118 Q59118]
+** [http://www.uniprot.org/uniprot/Q9TRK5 Q9TRK5]
+** [http://www.uniprot.org/uniprot/Q9TRC7 Q9TRC7]
+** [http://www.uniprot.org/uniprot/Q43077 Q43077]
+** [http://www.uniprot.org/uniprot/P46883 P46883]
+** [http://www.uniprot.org/uniprot/Q16853 Q16853]
+** [http://www.uniprot.org/uniprot/Q9SXW5 Q9SXW5]
+** [http://www.uniprot.org/uniprot/P12807 P12807]
+** [http://www.uniprot.org/uniprot/P49252 P49252]
+** [http://www.uniprot.org/uniprot/P36633 P36633]
+** [http://www.uniprot.org/uniprot/Q7M504 Q7M504]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Aliphatic-amine oxidase}}
+{{#set: ec number=EC-1.4.3.21}}
+{{#set: gene associated=Tiso_gene_8756}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

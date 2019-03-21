@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-136 CPD1F-136] ==
+* smiles:
+** C=C1(C4(CC[CH]3(C(C1)(C(O)C[CH]2(C(C([O-])=O)(C)CCCC(C)23))C4)))
+* common name:
+** ent-7&alpha;-hydroxykaur-16-en-19-oate
+* inchi key:
+** InChIKey=KMLXVEXJZSTMBV-YDIYEOSVSA-M
+* molecular weight:
+** 317.447    
+* Synonym(s):
+** ent-7-&alpha;-hydroxykaurenoate
+** ent-7-&alpha;-hydroxykaurenoic acid
+** 7-hydroxy-kaurenoic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-160]]
+== Reaction(s) known to produce the compound ==
+* [[1.14.13.79-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104540005
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200352 25200352]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57298 57298]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11875 C11875]
+{{#set: smiles=C=C1(C4(CC[CH]3(C(C1)(C(O)C[CH]2(C(C([O-])=O)(C)CCCC(C)23))C4)))}}
+{{#set: common name=ent-7&alpha;-hydroxykaur-16-en-19-oate}}
+{{#set: inchi key=InChIKey=KMLXVEXJZSTMBV-YDIYEOSVSA-M}}
+{{#set: molecular weight=317.447    }}
+{{#set: common name=ent-7-&alpha;-hydroxykaurenoate|ent-7-&alpha;-hydroxykaurenoic acid|7-hydroxy-kaurenoic acid}}
+{{#set: consumed by=RXN1F-160}}
+{{#set: produced by=1.14.13.79-RXN}}

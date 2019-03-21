@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AKGCITtm AKGCITtm] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Dicarboxylate/tricarboxylate carrier (akg:cit), mitochondrial
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CIT]][m] '''+''' 1.0 [[2-KETOGLUTARATE]][c] '''<=>''' 1.0 [[CIT]][c] '''+''' 1.0 [[2-KETOGLUTARATE]][m]
+* With common name(s):
+** 1.0 citrate[m] '''+''' 1.0 2-oxoglutarate[c] '''<=>''' 1.0 citrate[c] '''+''' 1.0 2-oxoglutarate[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14857]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Dicarboxylate/tricarboxylate carrier (akg:cit), mitochondrial}}
+{{#set: gene associated=Tiso_gene_14857}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,22 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DNA-N DNA-N] ==
+* common name:
+** DNAn
+* Synonym(s):
+** DNA(N)
+
+== Reaction(s) known to consume the compound ==
+* [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+* [[RXN0-4961]]
+== Reaction(s) known to produce the compound ==
+* [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+* [[DNA-LIGASE-ATP-RXN]]
+* [[RXN-17919]]
+== Reaction(s) of unknown directionality ==
+* [[RNA-DIRECTED-DNA-POLYMERASE-RXN]]
+== External links  ==
+{{#set: common name=DNAn}}
+{{#set: common name=DNA(N)}}
+{{#set: consumed by=DNA-DIRECTED-DNA-POLYMERASE-RXN|RXN0-4961}}
+{{#set: produced by=DNA-DIRECTED-DNA-POLYMERASE-RXN|DNA-LIGASE-ATP-RXN|RXN-17919}}
+{{#set: reversible reaction associated=RNA-DIRECTED-DNA-POLYMERASE-RXN}}

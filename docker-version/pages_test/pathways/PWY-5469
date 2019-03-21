@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5469 PWY-5469] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** sesamin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''8''' reactions in the full pathway
+* [[RXN-17352]]
+** 3 associated gene(s):
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_15820]]
+*** [[Tiso_gene_15962]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17351 RXN-17351]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8677 RXN-8677]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8695 RXN-8695]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8696 RXN-8696]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8703 RXN-8703]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8704 RXN-8704]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8705 RXN-8705]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=sesamin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=8}}
+{{#set: completion rate=13.0}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6339 ==
+* right end position:
+** 11619
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10787
+* centisome position:
+** 87.6066    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLYLSULFATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=11619}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10787}}
+{{#set: centisome position=87.6066    }}
+{{#set: reaction associated=ADENYLYLSULFATASE-RXN}}

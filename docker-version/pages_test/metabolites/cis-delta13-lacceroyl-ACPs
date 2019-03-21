@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-delta13-lacceroyl-ACPs cis-delta13-lacceroyl-ACPs] ==
+* common name:
+** a cis-delta13-C32:1-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-324]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-299]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis-delta13-C32:1-[acp]}}
+{{#set: consumed by=RXN1G-324}}
+{{#set: produced by=RXN1G-299}}

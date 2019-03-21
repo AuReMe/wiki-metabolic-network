@@ -1,0 +1,24 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TransportSeed_MN+2 TransportSeed_MN+2] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[MN+2]][e] '''=>''' 1.0 [[MN+2]][c]
+* With common name(s):
+** 1.0 Mn2+[e] '''=>''' 1.0 Mn2+[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-import_from_medium]]
+*** Comment: [[added to manage seeds from extracellular to cytosol compartment]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-import_from_medium}}
+{{#set: reconstruction comment=added to manage seeds from extracellular to cytosol compartment}}

@@ -1,0 +1,32 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7838 RXN-7838] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Cis-2-enoyl-CoAs]][c] '''+''' 1.0 [[WATER]][c] '''=>''' 1.0 [[D-3-HYDROXYACYL-COA]][c]
+* With common name(s):
+** 1.0 a cis-2-enoyl-CoA[c] '''+''' 1.0 H2O[c] '''=>''' 1.0 a (3R)-3-hydroxyacyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16145]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14262]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6885]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_16145|Tiso_gene_14262|Tiso_gene_6885}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

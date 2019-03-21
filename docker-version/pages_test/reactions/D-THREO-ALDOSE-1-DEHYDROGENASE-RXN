@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=D-THREO-ALDOSE-1-DEHYDROGENASE-RXN D-THREO-ALDOSE-1-DEHYDROGENASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** aldo_keto_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.122 EC-1.1.1.122]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-8548]][c] '''+''' 1 [[NAD]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[CPD-8549]][c]
+* With common name(s):
+** 1 a D-threo-aldose[c] '''+''' 1 NAD+[c] '''<=>''' 1 H+[c] '''+''' 1 NADH[c] '''+''' 1 a D-threo-aldono-1,5-lactone[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6340]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07148 R07148]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q52472 Q52472]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=aldo_keto_reductase}}
+{{#set: ec number=EC-1.1.1.122}}
+{{#set: gene associated=Tiso_gene_6340}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

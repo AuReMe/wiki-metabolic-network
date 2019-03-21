@@ -1,0 +1,46 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17057 ==
+* right end position:
+** 3704
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2469
+* centisome position:
+** 62.53799    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPARTATEKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GLUTKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12002]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[HOMOSERSYN-PWY]]
+* [[PWY-7176]]
+* [[PROSYN-PWY]]
+* [[PWY-7153]]
+* [[DAPLYSINESYN-PWY]]
+* [[PWY-2942]]
+* [[PWY-6922]]
+* [[PWY-2941]]
+* [[PWY-6559]]
+* [[PWY-3341]]
+* [[PWY-5097]]
+* [[CITRULBIO-PWY]]
+* [[PWY-6562]]
+* [[ARGININE-SYN4-PWY]]
+* [[P101-PWY]]
+== External links  ==
+{{#set: right end position=3704}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2469}}
+{{#set: centisome position=62.53799    }}
+{{#set: reaction associated=ASPARTATEKIN-RXN|GLUTKIN-RXN|RXN-12002}}
+{{#set: pathway associated=HOMOSERSYN-PWY|PWY-7176|PROSYN-PWY|PWY-7153|DAPLYSINESYN-PWY|PWY-2942|PWY-6922|PWY-2941|PWY-6559|PWY-3341|PWY-5097|CITRULBIO-PWY|PWY-6562|ARGININE-SYN4-PWY|P101-PWY}}

@@ -1,0 +1,42 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5991 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-11734]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14131]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14229]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14262]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14278]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16540]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16557]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7094]]
+* [[PWY-7654]]
+* [[PWY-7656]]
+== External links  ==
+{{#set: reaction associated=LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN|RXN-11734|RXN-13451|RXN-13615|RXN-14131|RXN-14229|RXN-14262|RXN-14278|RXN-16540|RXN-16557}}
+{{#set: pathway associated=PWY-7094|PWY-7654|PWY-7656}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Octanoylated-Gcv-H Octanoylated-Gcv-H] ==
+* common name:
+** a [glycine-cleavage complex H protein] N6-octanoyl-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14950]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13037]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [glycine-cleavage complex H protein] N6-octanoyl-L-lysine}}
+{{#set: consumed by=RXN-14950}}
+{{#set: produced by=RXN-13037}}

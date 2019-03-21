@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1G-768 CPD1G-768] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(O)CCCCCCCCCCCCCCCC2(CC(CCCCCCCCCCC1(CC(CCCCCCCCCCCCCCCCCC)1))2))C(=O)OCC3(OC(C(C(C3O)O)O)OC4(C(C(C(C(O4)COP([O-])(=O)[O-])O)O)O))
+* common name:
+** 6-O-&alpha;-mycolyl-trehalose 6-phosphate
+* inchi key:
+** InChIKey=GXOBNDAJNVBERI-BGZCIIMLSA-L
+* molecular weight:
+** 1540.305    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-1435]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659176 90659176]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(O)CCCCCCCCCCCCCCCC2(CC(CCCCCCCCCCC1(CC(CCCCCCCCCCCCCCCCCC)1))2))C(=O)OCC3(OC(C(C(C3O)O)O)OC4(C(C(C(C(O4)COP([O-])(=O)[O-])O)O)O))}}
+{{#set: common name=6-O-&alpha;-mycolyl-trehalose 6-phosphate}}
+{{#set: inchi key=InChIKey=GXOBNDAJNVBERI-BGZCIIMLSA-L}}
+{{#set: molecular weight=1540.305    }}
+{{#set: consumed by=RXN1G-1435}}

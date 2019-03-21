@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6948 PWY-6948] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** sitosterol degradation to androstenedione
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''18''' reactions in the full pathway
+* [[RXN-12710]]
+** 5 associated gene(s):
+*** [[Tiso_gene_17451]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_3855]]
+*** [[Tiso_gene_3856]]
+*** [[Tiso_gene_10116]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12789]]
+** 4 associated gene(s):
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_897]]
+*** [[Tiso_gene_18774]]
+*** [[Tiso_gene_2957]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12706 RXN-12706]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12707 RXN-12707]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12708 RXN-12708]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12709 RXN-12709]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12743 RXN-12743]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12744 RXN-12744]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12745 RXN-12745]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12780 RXN-12780]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12781 RXN-12781]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12782 RXN-12782]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12784 RXN-12784]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12785 RXN-12785]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12786 RXN-12786]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12787 RXN-12787]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12788 RXN-12788]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12790 RXN-12790]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=sitosterol degradation to androstenedione}}
+{{#set: reaction found=2}}
+{{#set: total reaction=18}}
+{{#set: completion rate=11.0}}

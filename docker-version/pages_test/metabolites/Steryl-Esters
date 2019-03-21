@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Steryl-Esters Steryl-Esters] ==
+* common name:
+** a steryl-ester
+* Synonym(s):
+** a sterol ester
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.43-RXN]]
+== External links  ==
+{{#set: common name=a steryl-ester}}
+{{#set: common name=a sterol ester}}
+{{#set: reversible reaction associated=2.3.1.43-RXN}}

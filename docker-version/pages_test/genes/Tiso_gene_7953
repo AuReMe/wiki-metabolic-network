@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7953 ==
+* right end position:
+** 10584
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7945
+* centisome position:
+** 74.461105    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-6883]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-4302]]
+== External links  ==
+{{#set: right end position=10584}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7945}}
+{{#set: centisome position=74.461105    }}
+{{#set: reaction associated=RXN-6883}}
+{{#set: pathway associated=PWY-4302}}

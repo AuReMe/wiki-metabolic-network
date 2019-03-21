@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13243 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UBIQUITIN--PROTEIN-LIGASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7511]]
+== External links  ==
+{{#set: reaction associated=UBIQUITIN--PROTEIN-LIGASE-RXN}}
+{{#set: pathway associated=PWY-7511}}

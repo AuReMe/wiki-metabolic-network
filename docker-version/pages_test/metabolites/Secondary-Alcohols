@@ -1,0 +1,14 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Secondary-Alcohols Secondary-Alcohols] ==
+* common name:
+** a secondary alcohol
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-12448]]
+* [[CARBONYL-REDUCTASE-NADPH-RXN]]
+== External links  ==
+{{#set: common name=a secondary alcohol}}
+{{#set: reversible reaction associated=RXN-12448|CARBONYL-REDUCTASE-NADPH-RXN}}

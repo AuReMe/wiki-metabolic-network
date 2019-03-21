@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18825 ==
+* right end position:
+** 2100
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5
+* centisome position:
+** 0.18050541    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-14903]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-7008]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PROUT-PWY]]
+* [[PWY-6922]]
+* [[PWY-5737]]
+* [[PWY0-1544]]
+* [[CITRULBIO-PWY]]
+== External links  ==
+{{#set: right end position=2100}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5}}
+{{#set: centisome position=0.18050541    }}
+{{#set: reaction associated=RXN-14903|RXN0-7008}}
+{{#set: pathway associated=PROUT-PWY|PWY-6922|PWY-5737|PWY0-1544|CITRULBIO-PWY}}

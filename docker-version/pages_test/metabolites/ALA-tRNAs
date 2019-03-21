@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALA-tRNAs ALA-tRNAs] ==
+* common name:
+** a tRNAala
+* Synonym(s):
+** TRNA(ALA)
+
+== Reaction(s) known to consume the compound ==
+* [[ALANINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAala}}
+{{#set: common name=TRNA(ALA)}}
+{{#set: consumed by=ALANINE--TRNA-LIGASE-RXN}}

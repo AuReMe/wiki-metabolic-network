@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.8.15-RXN 2.7.8.15-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.8.15 EC-2.7.8.15]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DOLICHOLP]][c] '''+''' 1 [[UDP-N-ACETYL-D-GLUCOSAMINE]][c] '''=>''' 1 [[UMP]][c] '''+''' 1 [[CPD-190]][c]
+* With common name(s):
+** 1 a dolichyl phosphate[c] '''+''' 1 UDP-N-acetyl-&alpha;-D-glucosamine[c] '''=>''' 1 UMP[c] '''+''' 1 N-acetyl-&alpha;-D-glucosaminyl-diphosphodolichol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1604]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]], protein N-glycosylation (eukaryotic, high mannose): [http://metacyc.org/META/NEW-IMAGE?object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]
+** '''19''' reactions found over '''19''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13289 13289]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01007 R01007]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P07286 P07286]
+** [http://www.uniprot.org/uniprot/P23338 P23338]
+** [http://www.uniprot.org/uniprot/P42864 P42864]
+** [http://www.uniprot.org/uniprot/P39465 P39465]
+** [http://www.uniprot.org/uniprot/Q9UY90 Q9UY90]
+** [http://www.uniprot.org/uniprot/Q58513 Q58513]
+** [http://www.uniprot.org/uniprot/P42867 P42867]
+** [http://www.uniprot.org/uniprot/P42881 P42881]
+** [http://www.uniprot.org/uniprot/P96000 P96000]
+** [http://www.uniprot.org/uniprot/Q9M2M5 Q9M2M5]
+** [http://www.uniprot.org/uniprot/O22211 O22211]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.7.8.15}}
+{{#set: gene associated=Tiso_gene_1604}}
+{{#set: in pathway=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

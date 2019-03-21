@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6763 PWY-6763] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40685 TAX-40685]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3689 TAX-3689]
+* common name:
+** salicortin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''11''' reactions in the full pathway
+* [[BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=BENZOATE--COA-LIGASE-RXN BENZOATE--COA-LIGASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=BENZYL-ALC-DEHYDROGENASE-RXN BENZYL-ALC-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11272 RXN-11272]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12250 RXN-12250]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12251 RXN-12251]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12253 RXN-12253]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12255 RXN-12255]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12257 RXN-12257]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12259 RXN-12259]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6724 RXN-6724]
+== External links  ==
+* PLANTCYC : PWY-6763
+{{#set: taxonomic range=TAX-40685}}
+{{#set: taxonomic range=TAX-3689}}
+{{#set: common name=salicortin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=11}}
+{{#set: completion rate=9.0}}

@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14742 ==
+* right end position:
+** 3352
+* transcription direction:
+** POSITIVE
+* left end position:
+** 25
+* centisome position:
+** 0.45829514    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYCINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=3352}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=25}}
+{{#set: centisome position=0.45829514    }}
+{{#set: reaction associated=GLYCINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

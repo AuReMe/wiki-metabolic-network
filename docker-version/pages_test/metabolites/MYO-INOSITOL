@@ -1,0 +1,57 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MYO-INOSITOL MYO-INOSITOL] ==
+* smiles:
+** C1(C(C(C(C(C1O)O)O)O)O)O
+* common name:
+** myo-inositol
+* inchi key:
+** InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N
+* molecular weight:
+** 180.157    
+* Synonym(s):
+** cis-1,2,3,5-trans-4,6-Cyclohexanehexol
+** dambose
+** mesoinositol
+** meso-inositol
+** M-inositol
+** 1,2,3,5/4,6 inositol
+
+== Reaction(s) known to consume the compound ==
+* [[2.7.8.11-RXN]]
+* [[2.4.1.123-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10954]]
+* [[RXN-10953]]
+* [[RXN-7253]]
+* [[RXN-10952]]
+* [[RXN-8281]]
+* [[RXN-10949]]
+* [[MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN]]
+* [[RXN0-5408]]
+== Reaction(s) of unknown directionality ==
+* [[MYO-INOSITOL-2-DEHYDROGENASE-RXN]]
+* [[2.4.1.67-RXN]]
+== External links  ==
+* CAS : 6917-35-7
+* CAS : 87-89-8
+* BIGG : inost
+* DRUGBANK : DB03106
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=892 892]
+* KNAPSACK : C00001164
+* HMDB : HMDB00211
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00137 C00137]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.868.html 868]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17268 17268]
+* METABOLIGHTS : MTBLC17268
+{{#set: smiles=C1(C(C(C(C(C1O)O)O)O)O)O}}
+{{#set: common name=myo-inositol}}
+{{#set: inchi key=InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N}}
+{{#set: molecular weight=180.157    }}
+{{#set: common name=cis-1,2,3,5-trans-4,6-Cyclohexanehexol|dambose|mesoinositol|meso-inositol|M-inositol|1,2,3,5/4,6 inositol}}
+{{#set: consumed by=2.7.8.11-RXN|2.4.1.123-RXN}}
+{{#set: produced by=RXN-10954|RXN-10953|RXN-7253|RXN-10952|RXN-8281|RXN-10949|MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN|RXN0-5408}}
+{{#set: reversible reaction associated=MYO-INOSITOL-2-DEHYDROGENASE-RXN|2.4.1.67-RXN}}

@@ -1,0 +1,73 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACETYLGLUTKIN-RXN ACETYLGLUTKIN-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** acetylglutamate_kinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.2.8 EC-2.7.2.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[ACETYL-GLU]][c] '''<=>''' 1 [[ADP]][c] '''+''' 1 [[N-ACETYL-GLUTAMYL-P]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 N-acetyl-L-glutamate[c] '''<=>''' 1 ADP[c] '''+''' 1 N-acetylglutamyl-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13144]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-5154]], L-arginine biosynthesis III (via N-acetyl-L-citrulline): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5154 PWY-5154]
+** '''7''' reactions found over '''9''' reactions in the full pathway
+* [[GLUTORN-PWY]], L-ornithine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=GLUTORN-PWY GLUTORN-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+* [[ARGSYNBSUB-PWY]], L-arginine biosynthesis II (acetyl cycle): [http://metacyc.org/META/NEW-IMAGE?object=ARGSYNBSUB-PWY ARGSYNBSUB-PWY]
+** '''9''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14629 14629]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02649 R02649]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P54898 P54898]
+** [http://www.uniprot.org/uniprot/Q9PIR8 Q9PIR8]
+** [http://www.uniprot.org/uniprot/Q60382 Q60382]
+** [http://www.uniprot.org/uniprot/Q9JUK2 Q9JUK2]
+** [http://www.uniprot.org/uniprot/Q9CHD2 Q9CHD2]
+** [http://www.uniprot.org/uniprot/Q07905 Q07905]
+** [http://www.uniprot.org/uniprot/P0A6C8 P0A6C8]
+** [http://www.uniprot.org/uniprot/Q01217 Q01217]
+** [http://www.uniprot.org/uniprot/P31318 P31318]
+** [http://www.uniprot.org/uniprot/P69366 P69366]
+** [http://www.uniprot.org/uniprot/P69365 P69365]
+** [http://www.uniprot.org/uniprot/P73326 P73326]
+** [http://www.uniprot.org/uniprot/O50147 O50147]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=acetylglutamate_kinase}}
+{{#set: ec number=EC-2.7.2.8}}
+{{#set: gene associated=Tiso_gene_13144}}
+{{#set: in pathway=PWY-5154|GLUTORN-PWY|ARGSYNBSUB-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

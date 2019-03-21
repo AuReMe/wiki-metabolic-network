@@ -1,0 +1,82 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DIAMINOPIMDECARB-RXN DIAMINOPIMDECARB-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** diaminopimelate_decarboxylase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.1.20 EC-4.1.1.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[MESO-DIAMINOPIMELATE]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[LYS]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 meso-diaminopimelate[c] '''=>''' 1 CO2[c] '''+''' 1 L-lysine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10737]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_12041]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-5097]], L-lysine biosynthesis VI: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5097 PWY-5097]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-2942]], L-lysine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2942 PWY-2942]
+** '''6''' reactions found over '''7''' reactions in the full pathway
+* [[DAPLYSINESYN-PWY]], L-lysine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=DAPLYSINESYN-PWY DAPLYSINESYN-PWY]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-2941]], L-lysine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2941 PWY-2941]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15101 15101]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00451 R00451]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P19572 P19572]
+** [http://www.uniprot.org/uniprot/P0A5M4 P0A5M4]
+** [http://www.uniprot.org/uniprot/P44316 P44316]
+** [http://www.uniprot.org/uniprot/P56129 P56129]
+** [http://www.uniprot.org/uniprot/O67262 O67262]
+** [http://www.uniprot.org/uniprot/Q9JWA6 Q9JWA6]
+** [http://www.uniprot.org/uniprot/Q9CG26 Q9CG26]
+** [http://www.uniprot.org/uniprot/P00861 P00861]
+** [http://www.uniprot.org/uniprot/O27390 O27390]
+** [http://www.uniprot.org/uniprot/Q9PII5 Q9PII5]
+** [http://www.uniprot.org/uniprot/Q58497 Q58497]
+** [http://www.uniprot.org/uniprot/O29458 O29458]
+** [http://www.uniprot.org/uniprot/P41023 P41023]
+** [http://www.uniprot.org/uniprot/P23630 P23630]
+** [http://www.uniprot.org/uniprot/P09890 P09890]
+** [http://www.uniprot.org/uniprot/Q55484 Q55484]
+** [http://www.uniprot.org/uniprot/O05321 O05321]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=diaminopimelate_decarboxylase}}
+{{#set: ec number=EC-4.1.1.20}}
+{{#set: gene associated=Tiso_gene_10737|Tiso_gene_12041}}
+{{#set: in pathway=PWY-5097|PWY-2942|DAPLYSINESYN-PWY|PWY-2941}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

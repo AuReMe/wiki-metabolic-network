@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Deoxy-Ribonucleoside-Diphosphates Deoxy-Ribonucleoside-Diphosphates] ==
+* common name:
+** a 2'-deoxyribonucleoside 5'-diphosphate
+* Synonym(s):
+** a deoxyribonucleoside diphosphate
+** a deoxynucleoside diphosphate
+** 2'-deoxyribonucleoside diphosphate
+** deoxynucleoside diphosphate
+** deoxyribonucleoside diphosphate
+** a 2'-deoxyribonucleoside diphosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RIBONUCLEOSIDE-DIP-REDUCTI-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2'-deoxyribonucleoside 5'-diphosphate}}
+{{#set: common name=a deoxyribonucleoside diphosphate|a deoxynucleoside diphosphate|2'-deoxyribonucleoside diphosphate|deoxynucleoside diphosphate|deoxyribonucleoside diphosphate|a 2'-deoxyribonucleoside diphosphate}}
+{{#set: produced by=RIBONUCLEOSIDE-DIP-REDUCTI-RXN}}

@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11582 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.5.1.39-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[GPPSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9003]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-9384]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN0-5180]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-7736]]
+* [[PWY-6383]]
+* [[PWY-6859]]
+* [[PWY-7709]]
+* [[PWY-6978]]
+* [[PWY-7235]]
+* [[PWY-7182]]
+* [[PWY-7141]]
+* [[PWY-5123]]
+* [[PWY-5122]]
+* [[PWY-5856]]
+* [[PWY-7659]]
+* [[PWY-5871]]
+* [[PWY-7410]]
+* [[PWY-7102]]
+* [[PWY3O-19]]
+== External links  ==
+{{#set: reaction associated=2.5.1.39-RXN|GPPSYN-RXN|RXN-9003|RXN-9384|RXN0-5180}}
+{{#set: pathway associated=PWY-7736|PWY-6383|PWY-6859|PWY-7709|PWY-6978|PWY-7235|PWY-7182|PWY-7141|PWY-5123|PWY-5122|PWY-5856|PWY-7659|PWY-5871|PWY-7410|PWY-7102|PWY3O-19}}

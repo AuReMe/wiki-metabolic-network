@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.24.59-RXN 3.4.24.59-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** mitochondrial_intermediate_peptidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.24.59 EC-3.4.24.59]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[mitochondrial-intermediate-protein]][c] '''=>''' 1 [[Octapeptides]][c] '''+''' 1 [[mature-protein]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 mitochondrial intermediate protein[c] '''=>''' 1 an octapeptide[c] '''+''' 1 a mature protein[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10069]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=mitochondrial_intermediate_peptidase}}
+{{#set: ec number=EC-3.4.24.59}}
+{{#set: gene associated=Tiso_gene_10069}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

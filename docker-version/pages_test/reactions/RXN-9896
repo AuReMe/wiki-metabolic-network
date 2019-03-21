@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9896 RXN-9896] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[3-HYDROXY-N6N6N6-TRIMETHYL-L-LYSINE]][c] '''=>''' 1 [[4-TRIMETHYLAMMONIOBUTANAL]][c] '''+''' 1 [[GLY]][c]
+* With common name(s):
+** 1 3-hydroxy-N6,N6,N6-trimethyl-L-lysine[c] '''=>''' 1 4-trimethylammoniobutanal[c] '''+''' 1 glycine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13940]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6100]], L-carnitine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6100 PWY-6100]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03284 R03284]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_13940}}
+{{#set: in pathway=PWY-6100}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17283 CPD-17283] ==
+* common name:
+** a [glycerolipid]-di-homo-&gamma;-linolenate
+* Synonym(s):
+** a [glycerolipid]-(8Z,11Z,14Z)-icosa-8,11,14-trienoate
+** a [glycerolipid]-(8Z,11Z,14Z)-icosatrienoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8346]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16099]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [glycerolipid]-di-homo-&gamma;-linolenate}}
+{{#set: common name=a [glycerolipid]-(8Z,11Z,14Z)-icosa-8,11,14-trienoate|a [glycerolipid]-(8Z,11Z,14Z)-icosatrienoate}}
+{{#set: consumed by=RXN-8346}}
+{{#set: produced by=RXN-16099}}

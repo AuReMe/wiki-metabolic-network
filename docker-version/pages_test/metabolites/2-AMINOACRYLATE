@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-AMINOACRYLATE 2-AMINOACRYLATE] ==
+* smiles:
+** C=C(N)C(=O)[O-]
+* common name:
+** 2-aminoprop-2-enoate
+* inchi key:
+** InChIKey=UQBOJOOOTLPNST-UHFFFAOYSA-M
+* molecular weight:
+** 86.07    
+* Synonym(s):
+** 2-aminoacrylate
+** &alpha;-aminoacrylate
+** 2-aminoacrylic acid
+** 2,3-didehydroalanine
+** &alpha;,&beta;-dehydroalanine
+** anhydroserine 2-aminopropenoic acid
+** dehydroalanine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15124]]
+* [[RXN-8899]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15131]]
+* [[RXN-15137]]
+* [[RXN-15129]]
+* [[RXN-15128]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=22022579 22022579]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10759332.html 10759332]
+* HMDB : HMDB03609
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58020 58020]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02218 C02218]
+{{#set: smiles=C=C(N)C(=O)[O-]}}
+{{#set: common name=2-aminoprop-2-enoate}}
+{{#set: inchi key=InChIKey=UQBOJOOOTLPNST-UHFFFAOYSA-M}}
+{{#set: molecular weight=86.07    }}
+{{#set: common name=2-aminoacrylate|&alpha;-aminoacrylate|2-aminoacrylic acid|2,3-didehydroalanine|&alpha;,&beta;-dehydroalanine|anhydroserine 2-aminopropenoic acid|dehydroalanine}}
+{{#set: consumed by=RXN-15124|RXN-8899}}
+{{#set: produced by=RXN-15131|RXN-15137|RXN-15129|RXN-15128}}

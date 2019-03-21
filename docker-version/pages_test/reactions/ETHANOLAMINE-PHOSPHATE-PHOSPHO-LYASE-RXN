@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ETHANOLAMINE-PHOSPHATE-PHOSPHO-LYASE-RXN ETHANOLAMINE-PHOSPHATE-PHOSPHO-LYASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** ethanolamine-phosphate_phospho-lyase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.3.2 EC-4.2.3.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PHOSPHORYL-ETHANOLAMINE]][c] '''+''' 1 [[WATER]][c] '''<=>''' 1 [[ACETALD]][c] '''+''' 1 [[AMMONIUM]][c] '''+''' 1 [[Pi]][c]
+* With common name(s):
+** 1 O-phosphoethanolamine[c] '''+''' 1 H2O[c] '''<=>''' 1 acetaldehyde[c] '''+''' 1 ammonium[c] '''+''' 1 phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12143]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17889 17889]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00748 R00748]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=ethanolamine-phosphate_phospho-lyase}}
+{{#set: ec number=EC-4.2.3.2}}
+{{#set: gene associated=Tiso_gene_12143}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

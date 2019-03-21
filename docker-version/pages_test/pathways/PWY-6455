@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6455 PWY-6455] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** vancomycin resistance II
+* Synonym(s):
+** D-ala-D-serine biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[5.1.1.18-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17207]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3.4.13.22-RXN 3.4.13.22-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11299 RXN-11299]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=vancomycin resistance II}}
+{{#set: common name=D-ala-D-serine biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

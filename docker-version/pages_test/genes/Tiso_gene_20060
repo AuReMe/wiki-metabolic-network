@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20060 ==
+* right end position:
+** 1787
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 77
+* centisome position:
+** 4.2944784    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HOLOCYTOCHROME-C-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1787}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=77}}
+{{#set: centisome position=4.2944784    }}
+{{#set: reaction associated=HOLOCYTOCHROME-C-SYNTHASE-RXN}}

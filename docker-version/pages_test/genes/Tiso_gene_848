@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_848 ==
+* right end position:
+** 17933
+* transcription direction:
+** POSITIVE
+* left end position:
+** 13969
+* centisome position:
+** 49.458294    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=17933}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=13969}}
+{{#set: centisome position=49.458294    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN}}

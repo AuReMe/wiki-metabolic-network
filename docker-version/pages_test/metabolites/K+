@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=K+ K+] ==
+* smiles:
+** [K+]
+* common name:
+** K+
+* inchi key:
+** InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+* molecular weight:
+** 39.098    
+* Synonym(s):
+** potassium
+** potassium ion
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_K+]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_K+]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_K+]]
+== External links  ==
+* BIGG : k
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=813 813]
+* HMDB : HMDB00586
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00238 C00238]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.791.html 791]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29103 29103]
+* METABOLIGHTS : MTBLC29103
+{{#set: smiles=[K+]}}
+{{#set: common name=K+}}
+{{#set: inchi key=InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N}}
+{{#set: molecular weight=39.098    }}
+{{#set: common name=potassium|potassium ion}}
+{{#set: consumed by=TransportSeed_K+}}
+{{#set: produced by=TransportSeed_K+}}
+{{#set: reversible reaction associated=ExchangeSeed_K+}}

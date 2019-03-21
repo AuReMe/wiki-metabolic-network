@@ -1,0 +1,52 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18748 ==
+* right end position:
+** 1984
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2
+* centisome position:
+** 7.09471460e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.274-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ALDEHYDE-REDUCTASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[PYRIDOXINE-4-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12078]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14102]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-1884]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8772]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8773]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6693]]
+* [[PWY-882]]
+* [[PWY-7204]]
+* [[KETOGLUCONMET-PWY]]
+* [[PWY-7282]]
+* [[PWY-7165]]
+* [[PWY-5515]]
+* [[PWY-5516]]
+== External links  ==
+{{#set: right end position=1984}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=7.09471460e-2}}
+{{#set: reaction associated=1.1.1.274-RXN|ALDEHYDE-REDUCTASE-RXN|PYRIDOXINE-4-DEHYDROGENASE-RXN|RXN-12078|RXN-14102|RXN-1884|RXN-8772|RXN-8773}}
+{{#set: pathway associated=PWY-6693|PWY-882|PWY-7204|KETOGLUCONMET-PWY|PWY-7282|PWY-7165|PWY-5515|PWY-5516}}

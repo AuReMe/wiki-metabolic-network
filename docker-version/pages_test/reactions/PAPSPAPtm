@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PAPSPAPtm PAPSPAPtm] ==
+* direction:
+** REVERSIBLE
+* common name:
+** PAPS:PAP antiporter, mitochondria
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[3-5-ADP]][c] '''+''' 1.0 [[PAPS]][m] '''<=>''' 1.0 [[3-5-ADP]][m] '''+''' 1.0 [[PAPS]][c]
+* With common name(s):
+** 1.0 adenosine 3',5'-bisphosphate[c] '''+''' 1.0 3'-phosphoadenylyl-sulfate[m] '''<=>''' 1.0 adenosine 3',5'-bisphosphate[m] '''+''' 1.0 3'-phosphoadenylyl-sulfate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5277]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=PAPS:PAP antiporter, mitochondria}}
+{{#set: gene associated=Tiso_gene_5277}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

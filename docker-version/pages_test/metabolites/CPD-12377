@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12377 CPD-12377] ==
+* smiles:
+** O
+* common name:
+** hydroxyl radical
+* inchi key:
+** InChIKey=TUJKJAMUKRIRHC-UHFFFAOYSA-N
+* molecular weight:
+** 18.015    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11409]]
+* [[RXN-15139]]
+* [[RXN0-7080]]
+* [[RXN-14290]]
+* [[RXN-11410]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12540]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=157350 157350]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29191 29191]
+* Wikipedia : Hydroxyl_radical
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16844 C16844]
+{{#set: smiles=O}}
+{{#set: common name=hydroxyl radical}}
+{{#set: inchi key=InChIKey=TUJKJAMUKRIRHC-UHFFFAOYSA-N}}
+{{#set: molecular weight=18.015    }}
+{{#set: consumed by=RXN-11409|RXN-15139|RXN0-7080|RXN-14290|RXN-11410}}
+{{#set: produced by=RXN-12540}}

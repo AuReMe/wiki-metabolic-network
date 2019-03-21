@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R600 R600] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R600
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 4.0 [[PROTON]][c] '''+''' 1.0 [[NONAPRENYL-4-HYDROXYBENZOATE]][c] '''=>''' 1.0 [[2-METHYL-6-SOLANYL-14-BENZOQUINONE]][c] '''+''' 1.0 [[WATER]][c]
+* With common name(s):
+** 4.0 H+[c] '''+''' 1.0 3-nonaprenyl-4-hydroxybenzoate[c] '''=>''' 1.0 2-methyl-6-all-trans-nonaprenyl-1,4-benzoquinol[c] '''+''' 1.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11183]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R600}}
+{{#set: gene associated=Tiso_gene_11183}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15317 CPD-15317] ==
+* common name:
+** D-ribofuranose 5-phosphate
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14065]]
+* [[RXN0-1441]]
+== Reaction(s) of unknown directionality ==
+* [[RXN0-5398]]
+== External links  ==
+{{#set: common name=D-ribofuranose 5-phosphate}}
+{{#set: produced by=RXN-14065|RXN0-1441}}
+{{#set: reversible reaction associated=RXN0-5398}}

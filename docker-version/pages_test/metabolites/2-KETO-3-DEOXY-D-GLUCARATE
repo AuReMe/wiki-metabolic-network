@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-KETO-3-DEOXY-D-GLUCARATE 2-KETO-3-DEOXY-D-GLUCARATE] ==
+* smiles:
+** C(C(CC(C(C([O-])=O)O)O)=O)([O-])=O
+* common name:
+** (2S,3S)-2,3-dihydroxy-5-oxohexanedioate
+* inchi key:
+** InChIKey=QUURPCHWPQNNGL-OKKQSCSOSA-L
+* molecular weight:
+** 190.109    
+* Synonym(s):
+** 3-deoxy-L-allo-hex-2-ulosarate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[4.1.2.20-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245202 25245202]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58098 58098]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03921 C03921]
+{{#set: smiles=C(C(CC(C(C([O-])=O)O)O)=O)([O-])=O}}
+{{#set: common name=(2S,3S)-2,3-dihydroxy-5-oxohexanedioate}}
+{{#set: inchi key=InChIKey=QUURPCHWPQNNGL-OKKQSCSOSA-L}}
+{{#set: molecular weight=190.109    }}
+{{#set: common name=3-deoxy-L-allo-hex-2-ulosarate}}
+{{#set: reversible reaction associated=4.1.2.20-RXN}}

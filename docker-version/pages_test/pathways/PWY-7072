@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7072 PWY-7072] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** hopanoid biosynthesis (bacteria)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''14''' reactions in the full pathway
+* [[5.4.99.17-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12198]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12263 RXN-12263]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12337 RXN-12337]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13528 RXN-13528]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13529 RXN-13529]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13530 RXN-13530]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13531 RXN-13531]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13532 RXN-13532]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13533 RXN-13533]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13534 RXN-13534]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13535 RXN-13535]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17128 RXN-17128]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17129 RXN-17129]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4961 RXN-4961]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=hopanoid biosynthesis (bacteria)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=14}}
+{{#set: completion rate=7.0}}

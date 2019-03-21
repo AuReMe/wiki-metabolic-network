@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7721 PWY-7721] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** methyl phomopsenoate biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[FARNESYLTRANSTRANSFERASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7305]]
+*** [[Tiso_gene_16284]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[FPPSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16284]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17085 RXN-17085]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17086 RXN-17086]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=methyl phomopsenoate biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

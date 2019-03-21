@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6069 ==
+* right end position:
+** 2554
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 148
+* centisome position:
+** 1.1740441    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.8-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLYC3PDEHYDROGBIOSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6118]]
+* [[PWY-7385]]
+* [[PWY-7411]]
+* [[PWY-5667]]
+* [[PWY0-1319]]
+* [[PWY-5981]]
+== External links  ==
+{{#set: right end position=2554}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=148}}
+{{#set: centisome position=1.1740441    }}
+{{#set: reaction associated=1.1.1.8-RXN|GLYC3PDEHYDROGBIOSYN-RXN}}
+{{#set: pathway associated=PWY-6118|PWY-7385|PWY-7411|PWY-5667|PWY0-1319|PWY-5981}}

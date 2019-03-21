@@ -1,0 +1,59 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-302 RXN0-302] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 2-c-methyl-d-erythritol_-cyclodiphosphate_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.6.1.12 EC-4.6.1.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[2-PHOSPHO-4-CYTIDINE-5-DIPHOSPHO-2-C-MET]][c] '''=>''' 1 [[CMP]][c] '''+''' 1 [[2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE]][c]
+* With common name(s):
+** 1 2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol[c] '''=>''' 1 CMP[c] '''+''' 1 2-C-methyl-D-erythritol-2,4-cyclodiphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9642]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[NONMEVIPP-PWY]], methylerythritol phosphate pathway I: [http://metacyc.org/META/NEW-IMAGE?object=NONMEVIPP-PWY NONMEVIPP-PWY]
+** '''9''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7560]], methylerythritol phosphate pathway II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7560 PWY-7560]
+** '''9''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23864 23864]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05637 R05637]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=2-c-methyl-d-erythritol_-cyclodiphosphate_synthase}}
+{{#set: ec number=EC-4.6.1.12}}
+{{#set: gene associated=Tiso_gene_9642}}
+{{#set: in pathway=NONMEVIPP-PWY|PWY-7560}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

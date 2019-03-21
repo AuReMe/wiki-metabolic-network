@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-aspartyl-tRNAAsn L-aspartyl-tRNAAsn] ==
+* common name:
+** an L-aspartyl-[tRNAAsn]
+* Synonym(s):
+** asp-tRNA(asn)
+
+== Reaction(s) known to consume the compound ==
+* [[6.3.5.6-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-aspartyl-[tRNAAsn]}}
+{{#set: common name=asp-tRNA(asn)}}
+{{#set: consumed by=6.3.5.6-RXN}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1672 ==
+* right end position:
+** 9013
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1684
+* centisome position:
+** 7.5597057    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9013}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1684}}
+{{#set: centisome position=7.5597057    }}
+{{#set: reaction associated=ATPASE-RXN}}

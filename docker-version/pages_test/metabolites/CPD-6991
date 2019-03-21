@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-6991 CPD-6991] ==
+* smiles:
+** C3(C=CC(C2(OC1(=CC(=CC(=C1C(C2)=O)O)[O-])))=CC=3)
+* common name:
+** (2S)-pinocembrin
+* inchi key:
+** InChIKey=URFCJEUYXNAHFI-ZDUSSCGKSA-M
+* molecular weight:
+** 255.249    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7648]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7647]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPK12140214
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200438 25200438]
+* HMDB : HMDB30808
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C09827 C09827]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28157 28157]
+* METABOLIGHTS : MTBLC28157
+{{#set: smiles=C3(C=CC(C2(OC1(=CC(=CC(=C1C(C2)=O)O)[O-])))=CC=3)}}
+{{#set: common name=(2S)-pinocembrin}}
+{{#set: inchi key=InChIKey=URFCJEUYXNAHFI-ZDUSSCGKSA-M}}
+{{#set: molecular weight=255.249    }}
+{{#set: consumed by=RXN-7648}}
+{{#set: produced by=RXN-7647}}

@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Methyl-Adenines 3-Methyl-Adenines] ==
+* smiles:
+** CN1(C2(=NC=NC(=C(N)N=C1)2))
+* common name:
+** 3-methyladenine
+* inchi key:
+** InChIKey=FSASIHFSFGAIJM-UHFFFAOYSA-N
+* molecular weight:
+** 149.155    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5189]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB04104
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1673 1673]
+* HMDB : HMDB11600
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00913 C00913]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=38635 38635]
+* METABOLIGHTS : MTBLC38635
+{{#set: smiles=CN1(C2(=NC=NC(=C(N)N=C1)2))}}
+{{#set: common name=3-methyladenine}}
+{{#set: inchi key=InChIKey=FSASIHFSFGAIJM-UHFFFAOYSA-N}}
+{{#set: molecular weight=149.155    }}
+{{#set: produced by=RXN0-5189}}

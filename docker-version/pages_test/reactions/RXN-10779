@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-10779 RXN-10779] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[5-HYDROXYINDOLE_ACETALDEHYDE]][c] '''+''' 1 [[CYS]][c] '''<=>''' 1 [[CPD-11670]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 5-hydroxyindole acetaldehyde[c] '''+''' 1 L-cysteine[c] '''<=>''' 1 5-hydroxyindole thiazolidine carboxylate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6313]], serotonin degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6313 PWY-6313]
+** '''6''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=PWY-6313}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12724 CPD-12724] ==
+* smiles:
+** C1(C=CC(=CC=1)C2(=CC(=O)C3(=C(O2)C=C(O)C(O)=C(O)3)))
+* common name:
+** baicalein
+* inchi key:
+** InChIKey=FXNFHKRTJBSTCS-UHFFFAOYSA-N
+* molecular weight:
+** 270.241    
+* Synonym(s):
+** 5,6,7-trihydroxyflavone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14240]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPK12111095
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5281605 5281605]
+* HMDB : HMDB31991
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C10023 C10023]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444924.html 4444924]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=2979 2979]
+* METABOLIGHTS : MTBLC2979
+{{#set: smiles=C1(C=CC(=CC=1)C2(=CC(=O)C3(=C(O2)C=C(O)C(O)=C(O)3)))}}
+{{#set: common name=baicalein}}
+{{#set: inchi key=InChIKey=FXNFHKRTJBSTCS-UHFFFAOYSA-N}}
+{{#set: molecular weight=270.241    }}
+{{#set: common name=5,6,7-trihydroxyflavone}}
+{{#set: consumed by=RXN-14240}}

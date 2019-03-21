@@ -1,0 +1,88 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SULFOCYS-RXN SULFOCYS-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** cog0031:_cysteine_synthase
+** cysteine_synthase
+** cysteine
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.47 EC-2.5.1.47]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[S2O3]][c] '''+''' 1 [[ACETYLSERINE]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[ACET]][c] '''+''' 1 [[SULFO-CYSTEINE]][c]
+* With common name(s):
+** 1 thiosulfate[c] '''+''' 1 O-acetyl-L-serine[c] '''<=>''' 1 H+[c] '''+''' 1 acetate[c] '''+''' 1 S-sulfo-L-cysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2283]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17043]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6110]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_3732]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_7852]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_819]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12184]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30891 30891]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03132 R03132]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=cog0031:_cysteine_synthase}}
+{{#set: common name=cysteine_synthase}}
+{{#set: common name=cysteine}}
+{{#set: ec number=EC-2.5.1.47}}
+{{#set: gene associated=Tiso_gene_2283|Tiso_gene_17043|Tiso_gene_6110|Tiso_gene_3732|Tiso_gene_7852|Tiso_gene_819|Tiso_gene_12184}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-creinhardtii|annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Alkyl-enyl-acyl-gly-P-EtOH-amines Alkyl-enyl-acyl-gly-P-EtOH-amines] ==
+* common name:
+** a plasmenylethanolamine
+* Synonym(s):
+** a 1-Z-alkenyl-2-acylglycerophosphoethanolamine
+** an O-1-Z-alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17735]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a plasmenylethanolamine}}
+{{#set: common name=a 1-Z-alkenyl-2-acylglycerophosphoethanolamine|an O-1-Z-alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine}}
+{{#set: consumed by=RXN-17735}}

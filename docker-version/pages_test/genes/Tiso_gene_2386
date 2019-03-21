@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2386 ==
+* right end position:
+** 6336
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5150
+* centisome position:
+** 24.064297    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11832]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12002]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7913]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7205]]
+* [[PWY-7197]]
+* [[PWY-7176]]
+== External links  ==
+{{#set: right end position=6336}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5150}}
+{{#set: centisome position=24.064297    }}
+{{#set: reaction associated=RXN-11832|RXN-12002|RXN-7913}}
+{{#set: pathway associated=PWY-7205|PWY-7197|PWY-7176}}

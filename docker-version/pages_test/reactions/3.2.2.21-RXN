@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.2.21-RXN 3.2.2.21-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dna-3-methyladenine_glycosylase_i
+** 3-methyladenine_dna_glycosylase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.2.21 EC-3.2.2.21]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Alkylated-DNAs]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Alkylated-Bases]][c] '''+''' 1 [[DNA-containing-abasic-Sites]][c]
+* With common name(s):
+** 1 an alkylated DNA[c] '''+''' 1 H2O[c] '''=>''' 1 an alkylated nucleobase[c] '''+''' 1 a DNA containing an apurinic/apyrimidinic site[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15814]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7738]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P04395 P04395]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dna-3-methyladenine_glycosylase_i}}
+{{#set: common name=3-methyladenine_dna_glycosylase}}
+{{#set: ec number=EC-3.2.2.21}}
+{{#set: gene associated=Tiso_gene_15814|Tiso_gene_7738}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

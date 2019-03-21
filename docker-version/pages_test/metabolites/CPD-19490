@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19490 CPD-19490] ==
+* smiles:
+** CSCCCCC(C(=O)C(=O)[O-])C(=O)[O-]
+* common name:
+** 3-isopropyl-7-(methylthio)-2-oxoheptanoate
+* inchi key:
+** InChIKey=XXJZWLKRFPCKLB-UHFFFAOYSA-L
+* molecular weight:
+** 232.251    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-18207]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18206]]
+== External links  ==
+{{#set: smiles=CSCCCCC(C(=O)C(=O)[O-])C(=O)[O-]}}
+{{#set: common name=3-isopropyl-7-(methylthio)-2-oxoheptanoate}}
+{{#set: inchi key=InChIKey=XXJZWLKRFPCKLB-UHFFFAOYSA-L}}
+{{#set: molecular weight=232.251    }}
+{{#set: consumed by=RXN-18207}}
+{{#set: reversible reaction associated=RXN-18206}}

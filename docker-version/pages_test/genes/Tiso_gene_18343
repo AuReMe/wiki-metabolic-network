@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18343 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: reaction associated=DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN|H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN}}
+{{#set: pathway associated=PWY-7539|PWY-6797|PWY-6147}}

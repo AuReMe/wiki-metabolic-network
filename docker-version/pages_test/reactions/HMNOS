@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HMNOS HMNOS] ==
+* direction:
+** REVERSIBLE
+* common name:
+** (2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NAD]][m] '''+''' 1.0 [[2-METHYL-3-HYDROXY-BUTYRYL-COA]][m] '''<=>''' 1.0 [[2-METHYL-ACETO-ACETYL-COA]][m] '''+''' 1.0 [[NADH]][m] '''+''' 1.0 [[PROTON]][m]
+* With common name(s):
+** 1.0 NAD+[m] '''+''' 1.0 (2S,3S)-3-hydroxy-2-methylbutanoyl-CoA[m] '''<=>''' 1.0 2-methylacetoacetyl-CoA[m] '''+''' 1.0 NADH[m] '''+''' 1.0 H+[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5857]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase}}
+{{#set: gene associated=Tiso_gene_5857}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

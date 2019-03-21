@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=VINYLACETYL-COA-DELTA-ISOMERASE-RXN VINYLACETYL-COA-DELTA-ISOMERASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** structural_maintenance_of_chromosomes_protein_6
+* ec number:
+** [http://enzyme.expasy.org/EC/5.3.3.3 EC-5.3.3.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-226]][c] '''<=>''' 1 [[CROTONYL-COA]][c]
+* With common name(s):
+** 1 vinylacetyl-CoA[c] '''<=>''' 1 crotonyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10015]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10572 10572]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03031 R03031]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=structural_maintenance_of_chromosomes_protein_6}}
+{{#set: ec number=EC-5.3.3.3}}
+{{#set: gene associated=Tiso_gene_10015}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

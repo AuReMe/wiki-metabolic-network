@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15850 ==
+* right end position:
+** 3261
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 72
+* centisome position:
+** 1.5145141    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=3261}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=72}}
+{{#set: centisome position=1.5145141    }}
+{{#set: reaction associated=ATPASE-RXN|ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

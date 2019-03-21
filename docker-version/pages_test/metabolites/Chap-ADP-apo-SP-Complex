@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Chap-ADP-apo-SP-Complex Chap-ADP-apo-SP-Complex] ==
+* common name:
+** a [chaperone-ADP]-[disordered-form scaffold protein] complex
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14391]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14390]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [chaperone-ADP]-[disordered-form scaffold protein] complex}}
+{{#set: consumed by=RXN-14391}}
+{{#set: produced by=RXN-14390}}

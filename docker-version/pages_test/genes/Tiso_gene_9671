@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9671 ==
+* right end position:
+** 6008
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4814
+* centisome position:
+** 42.29485    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.3.2.15-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6745]]
+== External links  ==
+{{#set: right end position=6008}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4814}}
+{{#set: centisome position=42.29485    }}
+{{#set: reaction associated=2.3.2.15-RXN}}
+{{#set: pathway associated=PWY-6745}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4702 CPD-4702] ==
+* smiles:
+** CC(C)=CCCC(C)[CH]3(CC[CH]4(C2(CC[CH]1(C(C([O-])=O)C(O)CCC(C)1C=2CCC(C)34))))
+* common name:
+** 4&alpha;-carboxy-5&alpha;-cholesta-8,24-dien-3&beta;-ol
+* inchi key:
+** InChIKey=JHIWIFRQJXLNEU-GSQAGGHASA-M
+* molecular weight:
+** 427.646    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-318]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659076 90659076]
+{{#set: smiles=CC(C)=CCCC(C)[CH]3(CC[CH]4(C2(CC[CH]1(C(C([O-])=O)C(O)CCC(C)1C=2CCC(C)34))))}}
+{{#set: common name=4&alpha;-carboxy-5&alpha;-cholesta-8,24-dien-3&beta;-ol}}
+{{#set: inchi key=InChIKey=JHIWIFRQJXLNEU-GSQAGGHASA-M}}
+{{#set: molecular weight=427.646    }}
+{{#set: consumed by=RXN66-318}}

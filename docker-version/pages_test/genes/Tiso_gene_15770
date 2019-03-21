@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15770 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.8.4.8-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[SO4ASSIM-PWY]]
+== External links  ==
+{{#set: reaction associated=1.8.4.8-RXN}}
+{{#set: pathway associated=SO4ASSIM-PWY}}

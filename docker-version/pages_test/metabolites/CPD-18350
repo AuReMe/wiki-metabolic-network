@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18350 CPD-18350] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(OCC(OC(=O)CCCCCCCC=CCCCCCC)COP([O-])(=O)[O-])=O
+* common name:
+** 1-palmitoyl-2-palmitoleoyl phosphatidate
+* inchi key:
+** InChIKey=SCNLPRDASXIFJK-IQULNDIKSA-L
+* molecular weight:
+** 644.867    
+* Synonym(s):
+** 16:0-16:1-PA
+** 1-hexadecanoyl-2-(9Z-hexadecenoyl)-sn-glycerol-3-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17008]]
+* [[RXN-17012]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=102515007 102515007]
+{{#set: smiles=CCCCCCCCCCCCCCCC(OCC(OC(=O)CCCCCCCC=CCCCCCC)COP([O-])(=O)[O-])=O}}
+{{#set: common name=1-palmitoyl-2-palmitoleoyl phosphatidate}}
+{{#set: inchi key=InChIKey=SCNLPRDASXIFJK-IQULNDIKSA-L}}
+{{#set: molecular weight=644.867    }}
+{{#set: common name=16:0-16:1-PA|1-hexadecanoyl-2-(9Z-hexadecenoyl)-sn-glycerol-3-phosphate}}
+{{#set: produced by=RXN-17008|RXN-17012}}

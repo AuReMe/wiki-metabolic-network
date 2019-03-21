@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8625 ==
+* right end position:
+** 2577
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 125
+* centisome position:
+** 1.2429154    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PYRROLINECARBREDUCT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R01251]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN66-546]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PROSYN-PWY]]
+* [[ARG-PRO-PWY]]
+* [[PWY-6344]]
+* [[PWY-4981]]
+* [[PWY-3341]]
+== External links  ==
+{{#set: right end position=2577}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=125}}
+{{#set: centisome position=1.2429154    }}
+{{#set: reaction associated=PYRROLINECARBREDUCT-RXN|R01251|RXN66-546}}
+{{#set: pathway associated=PROSYN-PWY|ARG-PRO-PWY|PWY-6344|PWY-4981|PWY-3341}}

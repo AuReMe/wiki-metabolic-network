@@ -1,0 +1,57 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9787 RXN-9787] ==
+* direction:
+** REVERSIBLE
+* common name:
+** cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase
+** cysteine_mitochondrial
+** cysteine_desulfurase_for_iron-sulfur_cluster_formation_suf
+* ec number:
+** [http://enzyme.expasy.org/EC/2.8.1.7 EC-2.8.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Sulfur-Carrier-Proteins-ThiI]][c] '''+''' 1 [[CYS]][c] '''<=>''' 1 [[Sulfurylated-ThiI]][c] '''+''' 1 [[L-ALPHA-ALANINE]][c]
+* With common name(s):
+** 1 a ThiI sulfur-carrier protein[c] '''+''' 1 L-cysteine[c] '''<=>''' 1 an S-sulfanyl-[ThiI sulfur-carrier protein][c] '''+''' 1 L-alanine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4284]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14710]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase}}
+{{#set: common name=cysteine_mitochondrial}}
+{{#set: common name=cysteine_desulfurase_for_iron-sulfur_cluster_formation_suf}}
+{{#set: ec number=EC-2.8.1.7}}
+{{#set: gene associated=Tiso_gene_4284|Tiso_gene_11478|Tiso_gene_14710}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_800 ==
+* right end position:
+** 28494
+* transcription direction:
+** POSITIVE
+* left end position:
+** 26005
+* centisome position:
+** 90.5435    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYL-COA-HYDROLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10708]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[THIOESTER-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5148]]
+* [[PWY-735]]
+== External links  ==
+{{#set: right end position=28494}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=26005}}
+{{#set: centisome position=90.5435    }}
+{{#set: reaction associated=ACYL-COA-HYDROLASE-RXN|RXN-10708|THIOESTER-RXN}}
+{{#set: pathway associated=PWY-5148|PWY-735}}

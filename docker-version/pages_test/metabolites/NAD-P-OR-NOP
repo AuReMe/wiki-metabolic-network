@@ -1,0 +1,56 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=NAD-P-OR-NOP NAD-P-OR-NOP] ==
+* common name:
+** NAD(P)+
+* Synonym(s):
+** NAD(P)
+** NAD(P)+
+** &beta;-NAD(P)+
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-2962]]
+* [[RXN-7968]]
+* [[RXN-16333]]
+* [[RXN66-18]]
+* [[RXN66-23]]
+* [[RXN-6002]]
+* [[RXN-5581]]
+* [[RXN-7967]]
+* [[RXN-6382]]
+* [[1.2.1.31-RXN]]
+* [[6PGLUCONDEHYDROG-RXN]]
+* [[RXN-10855]]
+* [[RXN66-318]]
+* [[RXN66-313]]
+== Reaction(s) known to produce the compound ==
+* [[NQOR-RXN]]
+* [[RXN-12445]]
+* [[RXN66-26]]
+* [[RXN-12968]]
+* [[RXN-12994]]
+* [[RXN66-546]]
+* [[GLYC3PDEHYDROGBIOSYN-RXN]]
+* [[RXN-16020]]
+* [[PYRROLINECARBREDUCT-RXN]]
+* [[HOMOSERDEHYDROG-RXN]]
+* [[RXN-6903]]
+* [[BILIVERDIN-REDUCTASE-RXN]]
+* [[RXN-13443]]
+== Reaction(s) of unknown directionality ==
+* [[1.6.4.4-RXN]]
+* [[RME296]]
+* [[RME295]]
+* [[RXN-11696]]
+* [[1.1.1.170-RXN]]
+* [[ALDEHYDE-REDUCTASE-RXN]]
+* [[MANNURONATE-REDUCTASE-RXN]]
+* [[ALDEHYDE-DEHYDROGENASE-NADORNOP+-RXN]]
+* [[RXN-13926]]
+* [[RXN-12303]]
+* [[GAPDHSYNEC-RXN]]
+== External links  ==
+{{#set: common name=NAD(P)+}}
+{{#set: common name=NAD(P)|NAD(P)+|&beta;-NAD(P)+}}
+{{#set: consumed by=RXN-2962|RXN-7968|RXN-16333|RXN66-18|RXN66-23|RXN-6002|RXN-5581|RXN-7967|RXN-6382|1.2.1.31-RXN|6PGLUCONDEHYDROG-RXN|RXN-10855|RXN66-318|RXN66-313}}
+{{#set: produced by=NQOR-RXN|RXN-12445|RXN66-26|RXN-12968|RXN-12994|RXN66-546|GLYC3PDEHYDROGBIOSYN-RXN|RXN-16020|PYRROLINECARBREDUCT-RXN|HOMOSERDEHYDROG-RXN|RXN-6903|BILIVERDIN-REDUCTASE-RXN|RXN-13443}}
+{{#set: reversible reaction associated=1.6.4.4-RXN|RME296|RME295|RXN-11696|1.1.1.170-RXN|ALDEHYDE-REDUCTASE-RXN|MANNURONATE-REDUCTASE-RXN|ALDEHYDE-DEHYDROGENASE-NADORNOP+-RXN|RXN-13926|RXN-12303|GAPDHSYNEC-RXN}}

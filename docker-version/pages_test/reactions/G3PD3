@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=G3PD3 G3PD3] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glycerol-3-phosphate dehydrogenase (FAD)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[DIHYDROXY-ACETONE-PHOSPHATE]][c] '''+''' 1.0 [[FADH2]][c] '''=>''' 1.0 [[FAD]][c] '''+''' 1.0 [[GLYCEROL-3P]][c]
+* With common name(s):
+** 1.0 glycerone phosphate[c] '''+''' 1.0 FADH2[c] '''=>''' 1.0 FAD[c] '''+''' 1.0 sn-glycerol 3-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15777]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glycerol-3-phosphate dehydrogenase (FAD)}}
+{{#set: gene associated=Tiso_gene_15777}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=SUCROSEUTIL2-PWY SUCROSEUTIL2-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** sucrose degradation VII (sucrose 3-dehydrogenase)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[FRUCTOKINASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_1303]]
+*** [[Tiso_gene_17974]]
+*** [[Tiso_gene_3107]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3-KETOGLUCOSIDASE-RXN 3-KETOGLUCOSIDASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCOSIDE-3-DEHYDROGENASE-RXN GLUCOSIDE-3-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=KETOGLUCOSE-REDUCTASE-RXN KETOGLUCOSE-REDUCTASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=sucrose degradation VII (sucrose 3-dehydrogenase)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

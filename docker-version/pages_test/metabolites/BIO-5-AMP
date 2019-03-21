@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BIO-5-AMP BIO-5-AMP] ==
+* smiles:
+** C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP([O-])(=O)OC(=O)CCCCC4(SC[CH]5(NC(=O)N[CH]45))
+* common name:
+** biotinyl-5'-adenylate
+* inchi key:
+** InChIKey=UTQCSTJVMLODHM-RHCAYAJFSA-M
+* molecular weight:
+** 572.509    
+* Synonym(s):
+** biotinyl-5'-AMP
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-7192]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=53239798 53239798]
+* HMDB : HMDB04220
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62414 62414]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05921 C05921]
+{{#set: smiles=C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP([O-])(=O)OC(=O)CCCCC4(SC[CH]5(NC(=O)N[CH]45))}}
+{{#set: common name=biotinyl-5'-adenylate}}
+{{#set: inchi key=InChIKey=UTQCSTJVMLODHM-RHCAYAJFSA-M}}
+{{#set: molecular weight=572.509    }}
+{{#set: common name=biotinyl-5'-AMP}}
+{{#set: produced by=RXN0-7192}}

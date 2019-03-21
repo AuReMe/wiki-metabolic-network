@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9396 ==
+* right end position:
+** 6539
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5127
+* centisome position:
+** 39.852314    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINE-NUCLEOSIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[INOSINE-NUCLEOSIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN0-361]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[URIDINE-NUCLEOSIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6596]]
+* [[PWY-6605]]
+* [[PWY-6556]]
+* [[PWY-7195]]
+== External links  ==
+{{#set: right end position=6539}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5127}}
+{{#set: centisome position=39.852314    }}
+{{#set: reaction associated=ADENOSINE-NUCLEOSIDASE-RXN|INOSINE-NUCLEOSIDASE-RXN|RXN0-361|URIDINE-NUCLEOSIDASE-RXN}}
+{{#set: pathway associated=PWY-6596|PWY-6605|PWY-6556|PWY-7195}}

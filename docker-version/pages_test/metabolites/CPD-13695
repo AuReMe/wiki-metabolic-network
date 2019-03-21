@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13695 CPD-13695] ==
+* smiles:
+** CC(CCC(=O)C(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C)[CH]6(CC[CH]7([CH]5(CCC4(=CC(=O)CCC(C)4[CH]5CCC(C)67))))
+* common name:
+** 3,24-dioxocholest-4-en-26-oyl-CoA
+* inchi key:
+** InChIKey=ZVFUUGBGZMBUAN-KZNRQMKSSA-J
+* molecular weight:
+** 1174.098    
+* Synonym(s):
+** cholest-4-en--3,24,dione-26-oyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12705]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=102515485 102515485]
+{{#set: smiles=CC(CCC(=O)C(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C)[CH]6(CC[CH]7([CH]5(CCC4(=CC(=O)CCC(C)4[CH]5CCC(C)67))))}}
+{{#set: common name=3,24-dioxocholest-4-en-26-oyl-CoA}}
+{{#set: inchi key=InChIKey=ZVFUUGBGZMBUAN-KZNRQMKSSA-J}}
+{{#set: molecular weight=1174.098    }}
+{{#set: common name=cholest-4-en--3,24,dione-26-oyl-CoA}}
+{{#set: produced by=RXN-12705}}

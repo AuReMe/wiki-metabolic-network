@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R311-RXN R311-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Acrylamidase
+** amidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.1.4 EC-3.5.1.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[ACRYLAMIDE]][c] '''=>''' 1 [[ACRYLATE]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 acrylamide[c] '''=>''' 1 acrylate[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13682]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-7308]], acrylonitrile degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7308 PWY-7308]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=34367 34367]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05551 R05551]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Acrylamidase}}
+{{#set: common name=amidase}}
+{{#set: ec number=EC-3.5.1.4}}
+{{#set: gene associated=Tiso_gene_13682}}
+{{#set: in pathway=PWY-7308}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

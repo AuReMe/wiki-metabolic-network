@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1935 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NO3t]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TCV3]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[TRANS-RXN-137]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=NO3t|TCV3|TRANS-RXN-137}}

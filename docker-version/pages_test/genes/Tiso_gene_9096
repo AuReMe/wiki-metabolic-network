@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9096 ==
+* right end position:
+** 4516
+* transcription direction:
+** POSITIVE
+* left end position:
+** 19
+* centisome position:
+** 0.13492402    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.3.1.43-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4516}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=19}}
+{{#set: centisome position=0.13492402    }}
+{{#set: reaction associated=2.3.1.43-RXN}}

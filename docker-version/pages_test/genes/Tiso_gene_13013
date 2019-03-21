@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13013 ==
+* right end position:
+** 2418
+* transcription direction:
+** POSITIVE
+* left end position:
+** 40
+* centisome position:
+** 0.60845757    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.8-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLYC3PDEHYDROGBIOSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6118]]
+* [[PWY-7385]]
+* [[PWY-7411]]
+* [[PWY-5667]]
+* [[PWY0-1319]]
+* [[PWY-5981]]
+== External links  ==
+{{#set: right end position=2418}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=40}}
+{{#set: centisome position=0.60845757    }}
+{{#set: reaction associated=1.1.1.8-RXN|GLYC3PDEHYDROGBIOSYN-RXN}}
+{{#set: pathway associated=PWY-6118|PWY-7385|PWY-7411|PWY-5667|PWY0-1319|PWY-5981}}

@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1107 CPD-1107] ==
+* smiles:
+** C1(O)(C(OP([O-])([O-])=O)C(OP([O-])(=O)[O-])C(OP([O-])(=O)[O-])C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])1)
+* common name:
+** D-myo-inositol 1,3,4,5,6-pentakisphosphate
+* inchi key:
+** InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D
+* molecular weight:
+** 569.977    
+* Synonym(s):
+** Ins(1,3,4,5,6)P5
+** 1D-myo-inositol 1,3,4,5,6-pentakisphosphate
+** inositol 1,3,4,5,6-pentakisphosphate
+** I(1,3,4,5,6)P5
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10955]]
+* [[RXN-7163]]
+== Reaction(s) known to produce the compound ==
+* [[2.7.1.134-RXN]]
+* [[2.7.1.140-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01284 C01284]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27570 27570]
+* METABOLIGHTS : MTBLC57733
+* HMDB : HMDB03529
+{{#set: smiles=C1(O)(C(OP([O-])([O-])=O)C(OP([O-])(=O)[O-])C(OP([O-])(=O)[O-])C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])1)}}
+{{#set: common name=D-myo-inositol 1,3,4,5,6-pentakisphosphate}}
+{{#set: inchi key=InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D}}
+{{#set: molecular weight=569.977    }}
+{{#set: common name=Ins(1,3,4,5,6)P5|1D-myo-inositol 1,3,4,5,6-pentakisphosphate|inositol 1,3,4,5,6-pentakisphosphate|I(1,3,4,5,6)P5}}
+{{#set: consumed by=RXN-10955|RXN-7163}}
+{{#set: produced by=2.7.1.134-RXN|2.7.1.140-RXN}}

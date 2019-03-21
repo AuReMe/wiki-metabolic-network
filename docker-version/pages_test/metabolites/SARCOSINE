@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SARCOSINE SARCOSINE] ==
+* smiles:
+** C[N+]CC(=O)[O-]
+* common name:
+** sarcosine
+* inchi key:
+** InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N
+* molecular weight:
+** 89.094    
+* Synonym(s):
+** N-methylglycine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-577]]
+* [[SARCOSINE-DEHYDROGENASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[DIMETHYLGLYCINE-DEHYDROGENASE-RXN]]
+* [[RXN66-576]]
+* [[CREATINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 107-97-1
+* BIGG : sarcs
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7311726 7311726]
+* HMDB : HMDB00271
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00213 C00213]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57433 57433]
+* METABOLIGHTS : MTBLC57433
+{{#set: smiles=C[N+]CC(=O)[O-]}}
+{{#set: common name=sarcosine}}
+{{#set: inchi key=InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N}}
+{{#set: molecular weight=89.094    }}
+{{#set: common name=N-methylglycine}}
+{{#set: consumed by=RXN66-577|SARCOSINE-DEHYDROGENASE-RXN}}
+{{#set: produced by=DIMETHYLGLYCINE-DEHYDROGENASE-RXN|RXN66-576|CREATINASE-RXN}}

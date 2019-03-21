@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5750 PWY-5750] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** itaconate biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[CITSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18030]]
+*** [[Tiso_gene_9601]]
+*** [[Tiso_gene_9603]]
+*** [[Tiso_gene_9602]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[PYRUVATE-CARBOXYLASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_15144]]
+*** [[Tiso_gene_15145]]
+*** [[Tiso_gene_2812]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ACONITATE-DECARBOXYLASE-RXN ACONITATE-DECARBOXYLASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=itaconate biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

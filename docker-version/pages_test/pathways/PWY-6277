@@ -1,0 +1,61 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6277 PWY-6277] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''9''' reactions in the full pathway
+* [[AIRS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1369]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+* [[FGAMSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5865]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+* [[GLYRIBONUCSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1369]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[PRPPAMIDOTRANS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1007]]
+*** [[Tiso_gene_9914]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PWY-6121]]
+** 0 associated gene:
+* [[PWY-6122]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GARTRANSFORMYL2-RXN GARTRANSFORMYL2-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6277 PWY-6277]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superpathway of 5-aminoimidazole ribonucleotide biosynthesis}}
+{{#set: reaction found=6}}
+{{#set: total reaction=9}}
+{{#set: completion rate=67.0}}

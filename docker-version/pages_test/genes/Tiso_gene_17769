@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17769 ==
+* right end position:
+** 1017
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4
+* centisome position:
+** 0.11534025    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1017}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4}}
+{{#set: centisome position=0.11534025    }}
+{{#set: reaction associated=PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN}}

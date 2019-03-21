@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SINAPALDEHYDE SINAPALDEHYDE] ==
+* smiles:
+** COC1(C=C(C=CC=O)C=C(OC)C(O)=1)
+* common name:
+** sinapaldehyde
+* inchi key:
+** InChIKey=CDICDSOGTRCHMG-ONEGZZNKSA-N
+* molecular weight:
+** 208.213    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-1125]]
+* [[RXN-8014]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-1143]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-1124]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280802 5280802]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444359.html 4444359]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27949 27949]
+* METABOLIGHTS : MTBLC27949
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05610 C05610]
+{{#set: smiles=COC1(C=C(C=CC=O)C=C(OC)C(O)=1)}}
+{{#set: common name=sinapaldehyde}}
+{{#set: inchi key=InChIKey=CDICDSOGTRCHMG-ONEGZZNKSA-N}}
+{{#set: molecular weight=208.213    }}
+{{#set: consumed by=RXN-1125|RXN-8014}}
+{{#set: produced by=RXN-1143}}
+{{#set: reversible reaction associated=RXN-1124}}

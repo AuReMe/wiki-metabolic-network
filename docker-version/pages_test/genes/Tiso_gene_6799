@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6799 ==
+* right end position:
+** 11763
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 8738
+* centisome position:
+** 73.94432    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GDPPYPHOSKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GTPPYPHOSKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[PPGPPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-6427]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PPGPPMET-PWY]]
+== External links  ==
+{{#set: right end position=11763}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=8738}}
+{{#set: centisome position=73.94432    }}
+{{#set: reaction associated=GDPPYPHOSKIN-RXN|GTPPYPHOSKIN-RXN|PPGPPSYN-RXN|RXN0-6427}}
+{{#set: pathway associated=PPGPPMET-PWY}}

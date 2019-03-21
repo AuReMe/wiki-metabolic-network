@@ -1,0 +1,58 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7736 PWY-7736] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** stellatic acid biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''8''' reactions in the full pathway
+* [[FARNESYLTRANSTRANSFERASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7305]]
+*** [[Tiso_gene_16284]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[FPPSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16284]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[GPPSYN-RXN]]
+** 9 associated gene(s):
+*** [[Tiso_gene_19542]]
+*** [[Tiso_gene_18201]]
+*** [[Tiso_gene_16284]]
+*** [[Tiso_gene_2848]]
+*** [[Tiso_gene_1035]]
+*** [[Tiso_gene_4719]]
+*** [[Tiso_gene_11582]]
+*** [[Tiso_gene_13582]]
+*** [[Tiso_gene_10317]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17161 RXN-17161]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17162 RXN-17162]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17163 RXN-17163]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17164 RXN-17164]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8813 RXN-8813]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=stellatic acid biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=8}}
+{{#set: completion rate=38.0}}

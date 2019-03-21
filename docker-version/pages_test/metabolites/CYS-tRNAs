@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CYS-tRNAs CYS-tRNAs] ==
+* common name:
+** a tRNAcys
+* Synonym(s):
+** TRNA(CYS)
+
+== Reaction(s) known to consume the compound ==
+* [[CYSTEINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16637]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAcys}}
+{{#set: common name=TRNA(CYS)}}
+{{#set: consumed by=CYSTEINE--TRNA-LIGASE-RXN}}
+{{#set: produced by=RXN-16637}}

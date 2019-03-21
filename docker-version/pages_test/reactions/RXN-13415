@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13415 RXN-13415] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Deoxyhypusine-Synthase-Lysine]][c] '''+''' 1 [[CPD-14378]][c] '''=>''' 1 [[N-4-aminobutylidene-enzyme-lysine]][c] '''+''' 1 [[CPD-313]][c]
+* With common name(s):
+** 1 a [deoxyhypusine synthase]-L-lysine[c] '''+''' 1 dehydrospermidine[c] '''=>''' 1 a [deoxyhypusine synthase]-N-(4-aminobutylidene)-lysine[c] '''+''' 1 propane-1,3-diamine[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5905]], hypusine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5905 PWY-5905]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-5905}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

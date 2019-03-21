@@ -1,0 +1,10 @@
+{{#ask: [[Category:Reaction]] [[reconstruction category::manual]]
+| ?common name
+| ?ec number
+| ?reconstruction category
+| ?reconstruction tool
+| ?reconstruction source
+| ?reconstruction comment
+| ?gene associated
+| ?in pathway
+}}

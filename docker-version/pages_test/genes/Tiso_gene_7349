@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7349 ==
+* right end position:
+** 10042
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5146
+* centisome position:
+** 45.63675    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GDPPYPHOSKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[GTPPYPHOSKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PPGPPMET-PWY]]
+== External links  ==
+{{#set: right end position=10042}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5146}}
+{{#set: centisome position=45.63675    }}
+{{#set: reaction associated=GDPPYPHOSKIN-RXN|GTPPYPHOSKIN-RXN}}
+{{#set: pathway associated=PPGPPMET-PWY}}

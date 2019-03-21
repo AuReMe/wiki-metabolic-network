@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3061 CPD-3061] ==
+* smiles:
+** C1(C=C(C=CC=1C3(OC2(=CC(=CC=C2C(C3)=O)O)))O)
+* common name:
+** (2S)-liquiritigenin
+* inchi key:
+** InChIKey=FURUXTVZLHCCNA-AWEZNQCLSA-N
+* molecular weight:
+** 256.257    
+* Synonym(s):
+** 4',7-dihydroxyflavanone
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-3221]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB03601
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=114829 114829]
+* HMDB : HMDB29519
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C09762 C09762]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.102790.html 102790]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28777 28777]
+* METABOLIGHTS : MTBLC28777
+{{#set: smiles=C1(C=C(C=CC=1C3(OC2(=CC(=CC=C2C(C3)=O)O)))O)}}
+{{#set: common name=(2S)-liquiritigenin}}
+{{#set: inchi key=InChIKey=FURUXTVZLHCCNA-AWEZNQCLSA-N}}
+{{#set: molecular weight=256.257    }}
+{{#set: common name=4',7-dihydroxyflavanone}}
+{{#set: produced by=RXN-3221}}

@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7801 PWY-7801] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** N-end rule pathway I (prokaryotic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[LEUCYLTRANSFERASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_13698]]
+*** [[Tiso_gene_8540]]
+*** [[Tiso_gene_2584]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17846]]
+** 3 associated gene(s):
+*** [[Tiso_gene_8540]]
+*** [[Tiso_gene_13698]]
+*** [[Tiso_gene_2584]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-7801 PWY-7801]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=N-end rule pathway I (prokaryotic)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

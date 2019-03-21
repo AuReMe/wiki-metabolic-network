@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NUCLEOSIDE-PHOSPHATE-KINASE-RXN NUCLEOSIDE-PHOSPHATE-KINASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** adenylate_kinase_domain-containing_protein_1
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.4.4 EC-2.7.4.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Nucleoside-Monophosphates]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[Nucleoside-Diphosphates]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 a nucleoside 5'-monophosphate[c] '''+''' 1 ATP[c] '''=>''' 1 a nucleoside diphosphate[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=24036 24036]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00334 R00334]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=adenylate_kinase_domain-containing_protein_1}}
+{{#set: ec number=EC-2.7.4.4}}
+{{#set: gene associated=Tiso_gene_195}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

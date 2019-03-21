@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12389 ==
+* right end position:
+** 6968
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3269
+* centisome position:
+** 46.21148    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1-PHOSPHATIDYLINOSITOL-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6352]]
+* [[PWY-6351]]
+== External links  ==
+{{#set: right end position=6968}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3269}}
+{{#set: centisome position=46.21148    }}
+{{#set: reaction associated=1-PHOSPHATIDYLINOSITOL-KINASE-RXN}}
+{{#set: pathway associated=PWY-6352|PWY-6351}}

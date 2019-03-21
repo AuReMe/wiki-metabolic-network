@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6792 PWY-6792] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** scopoletin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10561]]
+*** [[Tiso_gene_14561]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12349 RXN-12349]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12350 RXN-12350]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=scopoletin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

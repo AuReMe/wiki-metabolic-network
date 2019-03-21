@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6812 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

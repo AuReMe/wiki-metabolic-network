@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-1321 RXN-1321] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lipoxygenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.13.11.12 EC-1.13.11.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[LINOLENIC_ACID]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''=>''' 1 [[CPD-725]][c]
+* With common name(s):
+** 1 &alpha;-linolenate[c] '''+''' 1 oxygen[c] '''=>''' 1 13(S)-HPOTE[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4463]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-5410]], traumatin and (Z)-3-hexen-1-yl acetate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5410 PWY-5410]
+** '''1''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-735]], jasmonic acid biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-735 PWY-735]
+** '''15''' reactions found over '''19''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=34495 34495]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07869 R07869]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lipoxygenase}}
+{{#set: ec number=EC-1.13.11.12}}
+{{#set: gene associated=Tiso_gene_4463}}
+{{#set: in pathway=PWY-5410|PWY-735}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

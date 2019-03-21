@@ -1,0 +1,50 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=OXIDIZED-GLUTATHIONE OXIDIZED-GLUTATHIONE] ==
+* smiles:
+** C(SSCC(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O)C(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O
+* common name:
+** glutathione disulfide
+* inchi key:
+** InChIKey=YPZRWBKMTBYPTK-BJDJZHNGSA-L
+* molecular weight:
+** 610.61    
+* Synonym(s):
+** glutathione oxidized
+** glutathione ox
+** GSSG
+** oxidized glutathione
+
+== Reaction(s) known to consume the compound ==
+* [[GDR]]
+* [[GDR_nadp]]
+* [[GLUTATHIONE-REDUCT-NADPH-RXN]]
+* [[GDRm]]
+* [[GDRh]]
+* [[GDR_nadp_h]]
+* [[GDR_nadp_m]]
+* [[RXN-15348]]
+== Reaction(s) known to produce the compound ==
+* [[1.11.1.12-RXN]]
+* [[GLUTATHIONE-PEROXIDASE-RXN]]
+* [[GTHP]]
+* [[1.8.4.9-RXN]]
+* [[PRODISULFREDUCT-A-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 27025-41-8
+* BIGG : gthox
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=40467895 40467895]
+* HMDB : HMDB03337
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00127 C00127]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58297 58297]
+* METABOLIGHTS : MTBLC58297
+{{#set: smiles=C(SSCC(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O)C(C(NCC([O-])=O)=O)NC(=O)CCC([N+])C([O-])=O}}
+{{#set: common name=glutathione disulfide}}
+{{#set: inchi key=InChIKey=YPZRWBKMTBYPTK-BJDJZHNGSA-L}}
+{{#set: molecular weight=610.61    }}
+{{#set: common name=glutathione oxidized|glutathione ox|GSSG|oxidized glutathione}}
+{{#set: consumed by=GDR|GDR_nadp|GLUTATHIONE-REDUCT-NADPH-RXN|GDRm|GDRh|GDR_nadp_h|GDR_nadp_m|RXN-15348}}
+{{#set: produced by=1.11.1.12-RXN|GLUTATHIONE-PEROXIDASE-RXN|GTHP|1.8.4.9-RXN|PRODISULFREDUCT-A-RXN}}

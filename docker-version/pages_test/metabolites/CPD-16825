@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-16825 CPD-16825] ==
+* smiles:
+** C1(C=C(C=C2(OCC(CC=12)C3(C=CC(=CC=3)OS([O-])(=O)=O)))O)
+* common name:
+** (S)-equol 4'-sulfate
+* inchi key:
+** InChIKey=UXOJWGSGKUYMIA-GFCCVEGCSA-M
+* molecular weight:
+** 321.324    
+* Synonym(s):
+** 4',7-isoflavandiol 4'-sulfate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15589]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=29979373 29979373]
+{{#set: smiles=C1(C=C(C=C2(OCC(CC=12)C3(C=CC(=CC=3)OS([O-])(=O)=O)))O)}}
+{{#set: common name=(S)-equol 4'-sulfate}}
+{{#set: inchi key=InChIKey=UXOJWGSGKUYMIA-GFCCVEGCSA-M}}
+{{#set: molecular weight=321.324    }}
+{{#set: common name=4',7-isoflavandiol 4'-sulfate}}
+{{#set: reversible reaction associated=RXN-15589}}

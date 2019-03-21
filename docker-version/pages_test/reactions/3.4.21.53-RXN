@@ -1,0 +1,63 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.21.53-RXN 3.4.21.53-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Lon protease homolog, mitochondrial
+** Lon Protease
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.21.53 EC-3.4.21.53]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[General-Protein-Substrates]][c] '''=>''' 1 [[Peptides-holder]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a protein[c] '''=>''' 1 a peptide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4277]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_7032]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P36774 P36774]
+** [http://www.uniprot.org/uniprot/P36773 P36773]
+** [http://www.uniprot.org/uniprot/P43864 P43864]
+** [http://www.uniprot.org/uniprot/O66605 O66605]
+** [http://www.uniprot.org/uniprot/Q9ZD92 Q9ZD92]
+** [http://www.uniprot.org/uniprot/Q9ZJL3 Q9ZJL3]
+** [http://www.uniprot.org/uniprot/Q9X1W8 Q9X1W8]
+** [http://www.uniprot.org/uniprot/O83536 O83536]
+** [http://www.uniprot.org/uniprot/Q9Z9F4 Q9Z9F4]
+** [http://www.uniprot.org/uniprot/P55995 P55995]
+** [http://www.uniprot.org/uniprot/O84348 O84348]
+** [http://www.uniprot.org/uniprot/P47481 P47481]
+** [http://www.uniprot.org/uniprot/O51558 O51558]
+** [http://www.uniprot.org/uniprot/O69300 O69300]
+** [http://www.uniprot.org/uniprot/Q59185 Q59185]
+** [http://www.uniprot.org/uniprot/Q9JUC0 Q9JUC0]
+** [http://www.uniprot.org/uniprot/P37945 P37945]
+** [http://www.uniprot.org/uniprot/P77810 P77810]
+** [http://www.uniprot.org/uniprot/P46067 P46067]
+** [http://www.uniprot.org/uniprot/P78025 P78025]
+** [http://www.uniprot.org/uniprot/Q59511 Q59511]
+** [http://www.uniprot.org/uniprot/P0A9M0 P0A9M0]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Lon protease homolog, mitochondrial}}
+{{#set: common name=Lon Protease}}
+{{#set: ec number=EC-3.4.21.53}}
+{{#set: gene associated=Tiso_gene_4277|Tiso_gene_7032}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

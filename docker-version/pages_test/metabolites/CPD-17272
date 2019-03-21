@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17272 CPD-17272] ==
+* smiles:
+** CCCCCCCCC=CCCCCCCCC(OCC(OC(=O)CCCCCCCCCCCCCCC)CO)=O
+* common name:
+** 1-oleoyl-2-palmitoyl-glycerol
+* inchi key:
+** InChIKey=DOZKMFVMCATMEH-OZKTZCCCSA-N
+* molecular weight:
+** 594.957    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-16027]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5283471 5283471]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75447 75447]
+{{#set: smiles=CCCCCCCCC=CCCCCCCCC(OCC(OC(=O)CCCCCCCCCCCCCCC)CO)=O}}
+{{#set: common name=1-oleoyl-2-palmitoyl-glycerol}}
+{{#set: inchi key=InChIKey=DOZKMFVMCATMEH-OZKTZCCCSA-N}}
+{{#set: molecular weight=594.957    }}
+{{#set: reversible reaction associated=RXN-16027}}

@@ -1,0 +1,70 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7401 PWY-7401] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** crotonate fermentation (to acetate and cyclohexane carboxylate)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''17''' reactions in the full pathway
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11662]]
+** 7 associated gene(s):
+*** [[Tiso_gene_16703]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_5857]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11667]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5857]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-15013]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7477]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-8032]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7195]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.259-RXN 1.1.1.259-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=4.2.1.100-RXN 4.2.1.100-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUTACONYL-COA-DECARBOXYLASE-RXN GLUTACONYL-COA-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUTARYL-COA-DEHYDROG-RXN GLUTARYL-COA-DEHYDROG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=HADTHAUERA-RXN HADTHAUERA-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5535 PWY-5535]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5535 PWY-5535]
+* [http://metacyc.org/META/NEW-IMAGE?object=R265-RXN R265-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R282-RXN R282-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15008 RXN-15008]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15010 RXN-15010]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15012 RXN-15012]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=crotonate fermentation (to acetate and cyclohexane carboxylate)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=17}}
+{{#set: completion rate=29.0}}

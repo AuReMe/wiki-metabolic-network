@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALONATE-S-ALD MALONATE-S-ALD] ==
+* smiles:
+** [CH](=O)CC([O-])=O
+* common name:
+** 3-oxopropanoate
+* inchi key:
+** InChIKey=OAKURXIZZOAYBC-UHFFFAOYSA-M
+* molecular weight:
+** 87.055    
+* Synonym(s):
+** malonate semialdehyde
+** malonic semialdehyde
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-2902]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 926-61-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9543142 9543142]
+* HMDB : HMDB11111
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00222 C00222]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7822115.html 7822115]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=33190 33190]
+* METABOLIGHTS : MTBLC33190
+{{#set: smiles=[CH](=O)CC([O-])=O}}
+{{#set: common name=3-oxopropanoate}}
+{{#set: inchi key=InChIKey=OAKURXIZZOAYBC-UHFFFAOYSA-M}}
+{{#set: molecular weight=87.055    }}
+{{#set: common name=malonate semialdehyde|malonic semialdehyde}}
+{{#set: consumed by=RXN-2902}}

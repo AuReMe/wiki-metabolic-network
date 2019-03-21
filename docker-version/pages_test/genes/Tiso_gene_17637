@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17637 ==
+* right end position:
+** 3472
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2381
+* centisome position:
+** 66.82570    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PHOSPHORIBULOKINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[CALVIN-PWY]]
+* [[PWY-5723]]
+== External links  ==
+{{#set: right end position=3472}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2381}}
+{{#set: centisome position=66.82570    }}
+{{#set: reaction associated=PHOSPHORIBULOKINASE-RXN}}
+{{#set: pathway associated=CALVIN-PWY|PWY-5723}}

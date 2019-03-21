@@ -1,0 +1,72 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6317 PWY-6317] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** D-galactose degradation I (Leloir pathway)
+* Synonym(s):
+** Leloir pathway
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[ALDOSE1EPIM-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17734]]
+*** [[Tiso_gene_19779]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[GALACTOKIN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_11795]]
+*** [[Tiso_gene_12191]]
+*** [[Tiso_gene_5041]]
+*** [[Tiso_gene_10797]]
+*** [[Tiso_gene_5042]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[GALACTURIDYLYLTRANS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2435]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSPHOGLUCMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_13477]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[UDPGLUCEPIM-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9823]]
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3236]]
+*** [[Tiso_gene_10797]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=GALACTMETAB-PWY GALACTMETAB-PWY]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-3193}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=D-galactose degradation I (Leloir pathway)}}
+{{#set: common name=Leloir pathway}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,74 @@
+[[Category:Gene]]
+== Gene Tiso_gene_974 ==
+* right end position:
+** 4615
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2012
+* centisome position:
+** 7.440003    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GTPOP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PEPDEPHOS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14117]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14192]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14207]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-1042]]
+* [[P341-PWY]]
+* [[PWY-2221]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[P124-PWY]]
+* [[NPGLUCAT-PWY]]
+* [[PWY-7383]]
+* [[PWY-6886]]
+* [[PWY-5723]]
+* [[FERMENTATION-PWY]]
+* [[PWY-7218]]
+* [[PWY-6142]]
+* [[P122-PWY]]
+* [[PWY-5484]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=4615}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2012}}
+{{#set: centisome position=7.440003    }}
+{{#set: reaction associated=GTPOP|PEPDEPHOS-RXN|RXN-14117|RXN-14192|RXN-14207}}
+{{#set: pathway associated=PWY-1042|P341-PWY|PWY-2221|GLYCOLYSIS|PWY-6901|ANAGLYCOLYSIS-PWY|P124-PWY|NPGLUCAT-PWY|PWY-7383|PWY-6886|PWY-5723|FERMENTATION-PWY|PWY-7218|PWY-6142|P122-PWY|PWY-5484|PWY-7003}}

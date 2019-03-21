@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-AMINO-3-3-OXOPROP-2-ENYL-BUT-2-ENEDI 2-AMINO-3-3-OXOPROP-2-ENYL-BUT-2-ENEDI] ==
+* smiles:
+** C(=O)([O-])C(=C(C([O-])=O)N)C=C[CH]=O
+* common name:
+** aminocarboxymuconate semialdehyde
+* inchi key:
+** InChIKey=KACPVQQHDVBVFC-PMRVSPHWSA-L
+* molecular weight:
+** 183.12    
+* Synonym(s):
+** 2-amino-3-carboxymuconate-6-semialdehyde
+** 2-amino-3-carboxymuconate semialdehyde
+** 2-amino-3-(3-oxoprop-1-en-1-yl)-but-2-enedioate
+** (E,E)-2-amino-3-(3-oxoprop-1-enyl)but-2-enedioate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-5721]]
+== Reaction(s) known to produce the compound ==
+* [[1.13.11.6-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9543319 9543319]
+* HMDB : HMDB01330
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04409 C04409]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7822292.html 7822292]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=994 994]
+* METABOLIGHTS : MTBLC994
+{{#set: smiles=C(=O)([O-])C(=C(C([O-])=O)N)C=C[CH]=O}}
+{{#set: common name=aminocarboxymuconate semialdehyde}}
+{{#set: inchi key=InChIKey=KACPVQQHDVBVFC-PMRVSPHWSA-L}}
+{{#set: molecular weight=183.12    }}
+{{#set: common name=2-amino-3-carboxymuconate-6-semialdehyde|2-amino-3-carboxymuconate semialdehyde|2-amino-3-(3-oxoprop-1-en-1-yl)-but-2-enedioate|(E,E)-2-amino-3-(3-oxoprop-1-enyl)but-2-enedioate}}
+{{#set: consumed by=RXN-5721}}
+{{#set: produced by=1.13.11.6-RXN}}

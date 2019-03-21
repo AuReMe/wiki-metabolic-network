@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10280 CPD-10280] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** lignoceroyl-CoA
+* inchi key:
+** InChIKey=MOYMQYZWIUKGGY-JBKAVQFISA-J
+* molecular weight:
+** 1114.129    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13296]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13308]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201814 25201814]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=65052 65052]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=lignoceroyl-CoA}}
+{{#set: inchi key=InChIKey=MOYMQYZWIUKGGY-JBKAVQFISA-J}}
+{{#set: molecular weight=1114.129    }}
+{{#set: consumed by=RXN-13296}}
+{{#set: produced by=RXN-13308}}

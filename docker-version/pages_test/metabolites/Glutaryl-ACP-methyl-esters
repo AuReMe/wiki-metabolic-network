@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Glutaryl-ACP-methyl-esters Glutaryl-ACP-methyl-esters] ==
+* common name:
+** a glutaryl-[acp] methyl ester
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11479]]
+== Reaction(s) known to produce the compound ==
+* [[EGMEACPR]]
+* [[RXN-11478]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a glutaryl-[acp] methyl ester}}
+{{#set: consumed by=RXN-11479}}
+{{#set: produced by=EGMEACPR|RXN-11478}}

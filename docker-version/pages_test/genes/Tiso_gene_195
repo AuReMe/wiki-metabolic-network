@@ -1,0 +1,91 @@
+[[Category:Gene]]
+== Gene Tiso_gene_195 ==
+* right end position:
+** 5957
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4431
+* centisome position:
+** 11.757058    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[CDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DADPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DCDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DGDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DTDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DUDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NUCLEOSIDE-DIP-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NUCLEOSIDE-PHOSPHATE-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NUCLEOSIDE-TRIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12196]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14074]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14120]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14228]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UDPKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7210]]
+* [[PWY-7198]]
+* [[PWY-7176]]
+* [[PWY-7220]]
+* [[PWY-7184]]
+* [[PWY-7222]]
+* [[PWY-7205]]
+* [[PWY-7224]]
+* [[PWY-7197]]
+* [[PWY0-166]]
+* [[PWY-7227]]
+* [[PPGPPMET-PWY]]
+* [[PWY-7226]]
+* [[PWY-7221]]
+* [[PWY-6545]]
+* [[PWY-7187]]
+== External links  ==
+{{#set: right end position=5957}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4431}}
+{{#set: centisome position=11.757058    }}
+{{#set: reaction associated=ATPASE-RXN|CDPKIN-RXN|DADPKIN-RXN|DCDPKIN-RXN|DGDPKIN-RXN|DTDPKIN-RXN|DUDPKIN-RXN|GDPKIN-RXN|NUCLEOSIDE-DIP-KIN-RXN|NUCLEOSIDE-PHOSPHATE-KINASE-RXN|NUCLEOSIDE-TRIPHOSPHATASE-RXN|RXN-12195|RXN-12196|RXN-14074|RXN-14120|RXN-14228|RXN0-5462|UDPKIN-RXN}}
+{{#set: pathway associated=PWY-7210|PWY-7198|PWY-7176|PWY-7220|PWY-7184|PWY-7222|PWY-7205|PWY-7224|PWY-7197|PWY0-166|PWY-7227|PPGPPMET-PWY|PWY-7226|PWY-7221|PWY-6545|PWY-7187}}

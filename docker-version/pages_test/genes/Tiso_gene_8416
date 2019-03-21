@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8416 ==
+* right end position:
+** 8757
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7653
+* centisome position:
+** 74.431046    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15684]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[THIOL-OXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7533]]
+== External links  ==
+{{#set: right end position=8757}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7653}}
+{{#set: centisome position=74.431046    }}
+{{#set: reaction associated=RXN-15684|THIOL-OXIDASE-RXN}}
+{{#set: pathway associated=PWY-7533}}

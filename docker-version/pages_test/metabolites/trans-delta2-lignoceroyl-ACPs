@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=trans-delta2-lignoceroyl-ACPs trans-delta2-lignoceroyl-ACPs] ==
+* common name:
+** a trans-tetracos-2-enoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-526]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-517]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans-tetracos-2-enoyl-[acp]}}
+{{#set: consumed by=RXN1G-526}}
+{{#set: produced by=RXN1G-517}}

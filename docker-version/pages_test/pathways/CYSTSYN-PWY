@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=CYSTSYN-PWY CYSTSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-cysteine biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[ACSERLY-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_819]]
+*** [[Tiso_gene_7852]]
+*** [[Tiso_gene_17043]]
+*** [[Tiso_gene_6110]]
+*** [[Tiso_gene_2283]]
+*** [[Tiso_gene_12184]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[SERINE-O-ACETTRAN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_7066]]
+*** [[Tiso_gene_10634]]
+*** [[Tiso_gene_4492]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=CYSTSYN-PWY CYSTSYN-PWY]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=CYSTSYN-PWY CYSTSYN-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-cysteine biosynthesis I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

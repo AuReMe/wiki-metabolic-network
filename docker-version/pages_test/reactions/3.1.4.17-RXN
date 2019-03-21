@@ -1,0 +1,85 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.4.17-RXN 3.1.4.17-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** iesterase_family_member
+** amino_acid_transporter
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.4.17 EC-3.1.4.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[Cyclic-3-5-Nucleoside-Monophosphates]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[Nucleoside-Monophosphates]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a nucleoside cyclic 3',5'-monophosphate[c] '''=>''' 1 H+[c] '''+''' 1 a nucleoside 5'-monophosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9644]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1763]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12792]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14653 14653]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03259 R03259]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P12019 P12019]
+** [http://www.uniprot.org/uniprot/Q56686 Q56686]
+** [http://www.uniprot.org/uniprot/P14099 P14099]
+** [http://www.uniprot.org/uniprot/Q01066 Q01066]
+** [http://www.uniprot.org/uniprot/Q01061 Q01061]
+** [http://www.uniprot.org/uniprot/P14100 P14100]
+** [http://www.uniprot.org/uniprot/Q01065 Q01065]
+** [http://www.uniprot.org/uniprot/P27815 P27815]
+** [http://www.uniprot.org/uniprot/O66909 O66909]
+** [http://www.uniprot.org/uniprot/P14270 P14270]
+** [http://www.uniprot.org/uniprot/O27755 O27755]
+** [http://www.uniprot.org/uniprot/P44685 P44685]
+** [http://www.uniprot.org/uniprot/P22434 P22434]
+** [http://www.uniprot.org/uniprot/P0AEW4 P0AEW4]
+** [http://www.uniprot.org/uniprot/O26280 O26280]
+** [http://www.uniprot.org/uniprot/O06629 O06629]
+** [http://www.uniprot.org/uniprot/O30241 O30241]
+** [http://www.uniprot.org/uniprot/P14644 P14644]
+** [http://www.uniprot.org/uniprot/P54748 P54748]
+** [http://www.uniprot.org/uniprot/Q13945 Q13945]
+** [http://www.uniprot.org/uniprot/Q01062 Q01062]
+** [http://www.uniprot.org/uniprot/P54827 P54827]
+** [http://www.uniprot.org/uniprot/Q01064 Q01064]
+** [http://www.uniprot.org/uniprot/Q9NP56 Q9NP56]
+** [http://www.uniprot.org/uniprot/O60658 O60658]
+** [http://www.uniprot.org/uniprot/P36599 P36599]
+** [http://www.uniprot.org/uniprot/P30645 P30645]
+** [http://www.uniprot.org/uniprot/Q45859 Q45859]
+** [http://www.uniprot.org/uniprot/P12252 P12252]
+** [http://www.uniprot.org/uniprot/P06776 P06776]
+** [http://www.uniprot.org/uniprot/Q08493 Q08493]
+** [http://www.uniprot.org/uniprot/Q63421 Q63421]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=iesterase_family_member}}
+{{#set: common name=amino_acid_transporter}}
+{{#set: ec number=EC-3.1.4.17}}
+{{#set: gene associated=Tiso_gene_9644|Tiso_gene_1763|Tiso_gene_12792}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

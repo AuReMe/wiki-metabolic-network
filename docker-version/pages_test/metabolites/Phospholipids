@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Phospholipids Phospholipids] ==
+* common name:
+** a phospholipid
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.6.3.1-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3.6.3.1-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a phospholipid}}
+{{#set: consumed by=3.6.3.1-RXN}}
+{{#set: produced by=3.6.3.1-RXN}}

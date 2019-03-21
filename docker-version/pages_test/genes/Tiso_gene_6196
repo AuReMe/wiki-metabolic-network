@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6196 ==
+* right end position:
+** 10496
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7678
+* centisome position:
+** 61.665733    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[KYNURENINE-3-MONOOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7765]]
+* [[PWY-5651]]
+* [[PWY-6309]]
+* [[PWY-7717]]
+== External links  ==
+{{#set: right end position=10496}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7678}}
+{{#set: centisome position=61.665733    }}
+{{#set: reaction associated=KYNURENINE-3-MONOOXYGENASE-RXN}}
+{{#set: pathway associated=PWY-7765|PWY-5651|PWY-6309|PWY-7717}}

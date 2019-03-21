@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-4209 RXN-4209] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.19.20 EC-1.14.19.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[FERROCYTOCHROME-B5]][c] '''+''' 2 [[PROTON]][c] '''+''' 1 [[CPD-4125]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''=>''' 1 [[CPD-4126]][c] '''+''' 2 [[FERRICYTOCHROME-B5]][c] '''+''' 2 [[WATER]][c]
+* With common name(s):
+** 2 a ferrocytochrome b5[c] '''+''' 2 H+[c] '''+''' 1 avenasterol[c] '''+''' 1 oxygen[c] '''=>''' 1 5-dehydroavenasterol[c] '''+''' 2 a ferricytochrome b5[c] '''+''' 2 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5446]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-2541]], plant sterol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2541 PWY-2541]
+** '''10''' reactions found over '''36''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07486 R07486]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.14.19.20}}
+{{#set: gene associated=Tiso_gene_5446}}
+{{#set: in pathway=PWY-2541}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

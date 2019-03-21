@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8612 ==
+* right end position:
+** 2657
+* transcription direction:
+** POSITIVE
+* left end position:
+** 759
+* centisome position:
+** 7.534247    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ARYL-ALCOHOL-DEHYDROGENASE-NADP+-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5141]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2657}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=759}}
+{{#set: centisome position=7.534247    }}
+{{#set: reaction associated=ARYL-ALCOHOL-DEHYDROGENASE-NADP+-RXN|RXN0-5141}}

@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Fatty-Acids Fatty-Acids] ==
+* common name:
+** a fatty acid
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-1602]]
+* [[TRIACYLGLYCEROL-LIPASE-RXN]]
+* [[ACYLCARNITINE-HYDROLASE-RXN]]
+* [[RXN-11375]]
+* [[CERAMIDASE-RXN]]
+* [[3.1.1.23-RXN]]
+* [[RXN-12339]]
+* [[RXN0-6725]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a fatty acid}}
+{{#set: produced by=RXN-1602|TRIACYLGLYCEROL-LIPASE-RXN|ACYLCARNITINE-HYDROLASE-RXN|RXN-11375|CERAMIDASE-RXN|3.1.1.23-RXN|RXN-12339|RXN0-6725}}

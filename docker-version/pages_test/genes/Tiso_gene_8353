@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8353 ==
+* right end position:
+** 6959
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4577
+* centisome position:
+** 44.35937    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LYSOPHOSPHOLIPASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-15035]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7409]]
+== External links  ==
+{{#set: right end position=6959}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4577}}
+{{#set: centisome position=44.35937    }}
+{{#set: reaction associated=LYSOPHOSPHOLIPASE-RXN|RXN-15035}}
+{{#set: pathway associated=PWY-7409}}

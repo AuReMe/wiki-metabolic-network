@@ -1,0 +1,51 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4981 PWY-4981] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** L-proline biosynthesis II (from arginine)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''6''' reactions in the full pathway
+* [[ORNCARBAMTRANSFER-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18444]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ORNITHINE-GLU-AMINOTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11231]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[PYRROLINECARBREDUCT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8625]]
+*** [[Tiso_gene_20218]]
+*** [[Tiso_gene_19254]]
+*** [[Tiso_gene_17059]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[SPONTPRO-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ARGININE-DEIMINASE-RXN ARGININE-DEIMINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=CITRULLINASE-RXN CITRULLINASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=L-proline biosynthesis II (from arginine)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=6}}
+{{#set: completion rate=67.0}}

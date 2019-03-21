@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R468-RXN R468-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** cyanuric_acid_amidohydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.2.15 EC-3.5.2.15]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CYANURIC-ACID]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[CPD-809]][c]
+* With common name(s):
+** 1 cyanurate[c] '''+''' 1 H2O[c] '''=>''' 1 CO2[c] '''+''' 1 biuret[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9325]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5169]], cyanurate degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5169 PWY-5169]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14641 14641]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07305 R07305]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=cyanuric_acid_amidohydrolase}}
+{{#set: ec number=EC-3.5.2.15}}
+{{#set: gene associated=Tiso_gene_9325}}
+{{#set: in pathway=PWY-5169}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

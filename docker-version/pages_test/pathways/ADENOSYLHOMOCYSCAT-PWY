@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ADENOSYLHOMOCYSCAT-PWY ADENOSYLHOMOCYSCAT-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** L-methionine salvage from L-homocysteine
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[HOMOCYSMETB12-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1602]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[MMUM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5515]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.5-RXN 2.1.1.5-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=L-methionine salvage from L-homocysteine}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

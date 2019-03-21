@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13538 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPAMINOTRANS-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PHEAMINOTRANS-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10814]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11737]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13697]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5913]]
+* [[PHESYN]]
+* [[PWY-6318]]
+* [[PWY-7383]]
+* [[ASPARTATE-DEG1-PWY]]
+* [[PWY-6643]]
+* [[PWY-6642]]
+* [[PWY-6638]]
+* [[ASPARTATESYN-PWY]]
+* [[PWY-7432]]
+* [[PWY-7117]]
+* [[GLUTDEG-PWY]]
+* [[PWY-7115]]
+* [[ANAPHENOXI-PWY]]
+* [[MALATE-ASPARTATE-SHUTTLE-PWY]]
+* [[PWY-5079]]
+* [[ASPARAGINE-DEG1-PWY-1]]
+== External links  ==
+{{#set: reaction associated=ASPAMINOTRANS-RXN|PHEAMINOTRANS-RXN|RXN-10814|RXN-11737|RXN-13697}}
+{{#set: pathway associated=PWY-5913|PHESYN|PWY-6318|PWY-7383|ASPARTATE-DEG1-PWY|PWY-6643|PWY-6642|PWY-6638|ASPARTATESYN-PWY|PWY-7432|PWY-7117|GLUTDEG-PWY|PWY-7115|ANAPHENOXI-PWY|MALATE-ASPARTATE-SHUTTLE-PWY|PWY-5079|ASPARAGINE-DEG1-PWY-1}}

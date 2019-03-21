@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5508 PWY-5508] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** adenosylcobalamin biosynthesis from cobyrinate a,c-diamide II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''9''' reactions in the full pathway
+* [[COBALAMINSYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8411]]
+*** [[Tiso_gene_8410]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[R344-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6190]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RIBAZOLEPHOSPHAT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16271]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=COBINPGUANYLYLTRANS-RXN COBINPGUANYLYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=DMBPPRIBOSYLTRANS-RXN DMBPPRIBOSYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R343-RXN R343-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R345-RXN R345-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6261 RXN-6261]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8771 RXN-8771]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=adenosylcobalamin biosynthesis from cobyrinate a,c-diamide II}}
+{{#set: reaction found=3}}
+{{#set: total reaction=9}}
+{{#set: completion rate=33.0}}

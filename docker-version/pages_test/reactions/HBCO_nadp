@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HBCO_nadp HBCO_nadp] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NADPH]][c] '''+''' 1.0 [[ACETOACETYL-COA]][c] '''+''' 1.0 [[PROTON]][c] '''<=>''' 1.0 [[S-3-HYDROXYBUTANOYL-COA]][c] '''+''' 1.0 [[NADP]][c]
+* With common name(s):
+** 1.0 NADPH[c] '''+''' 1.0 acetoacetyl-CoA[c] '''+''' 1.0 H+[c] '''<=>''' 1.0 (S)-3-hydroxybutanoyl-CoA[c] '''+''' 1.0 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14027]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_14026]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase}}
+{{#set: gene associated=Tiso_gene_14027|Tiso_gene_14026}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

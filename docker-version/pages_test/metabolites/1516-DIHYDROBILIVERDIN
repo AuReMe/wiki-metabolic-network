@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=1516-DIHYDROBILIVERDIN 1516-DIHYDROBILIVERDIN] ==
+* smiles:
+** C=CC1(=C(C)C(NC1=CC4(=C(C)C(CCC(=O)[O-])=C(C=C2(C(CCC(=O)[O-])=C(C)C(=N2)C[CH]3(C(C)=C(C=C)C(=O)N3)))N4))=O)
+* common name:
+** 15,16-dihydrobiliverdin
+* inchi key:
+** InChIKey=ZQHDSLZHMAUUQK-ZTYGKHTCSA-L
+* molecular weight:
+** 582.655    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[1.3.7.3-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25243901 25243901]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57899 57899]
+{{#set: smiles=C=CC1(=C(C)C(NC1=CC4(=C(C)C(CCC(=O)[O-])=C(C=C2(C(CCC(=O)[O-])=C(C)C(=N2)C[CH]3(C(C)=C(C=C)C(=O)N3)))N4))=O)}}
+{{#set: common name=15,16-dihydrobiliverdin}}
+{{#set: inchi key=InChIKey=ZQHDSLZHMAUUQK-ZTYGKHTCSA-L}}
+{{#set: molecular weight=582.655    }}
+{{#set: consumed by=1.3.7.3-RXN}}

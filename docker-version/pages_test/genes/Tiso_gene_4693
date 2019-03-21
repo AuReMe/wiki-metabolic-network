@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4693 ==
+* right end position:
+** 6508
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3430
+* centisome position:
+** 23.666597    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[TCX8]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6508}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3430}}
+{{#set: centisome position=23.666597    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN|TCX8}}

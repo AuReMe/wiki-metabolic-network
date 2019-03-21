@@ -1,0 +1,49 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FADH2 FADH2] ==
+* smiles:
+** CC1(=C(C)C=C2(N(C3(NC(NC(=O)C(NC(=C1)2)=3)=O))CC(O)C(O)C(O)COP(OP([O-])(OCC6(C(O)C(O)C(N5(C=NC4(C(N)=NC=NC=45)))O6))=O)([O-])=O))
+* common name:
+** FADH2
+* inchi key:
+** InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
+* molecular weight:
+** 785.556    
+* Synonym(s):
+** flavin adenine dinucleotide reduced
+** 1,5-dihydro-FAD
+
+== Reaction(s) known to consume the compound ==
+* [[G3PD3]]
+== Reaction(s) known to produce the compound ==
+* [[MEPROPCOA-FAD-RXN]]
+* [[ACOA120or]]
+* [[MCDH_2mb2coa]]
+* [[ACOA140or]]
+* [[ACOA160or]]
+* [[ACOA80or]]
+* [[MCDH]]
+* [[IVCDH]]
+* [[ACOA40or]]
+== Reaction(s) of unknown directionality ==
+* [[PPCOAOm]]
+* [[RXN-14264]]
+* [[RXN-14193]]
+== External links  ==
+* CAS : 1910-41-4
+* BIGG : fadh2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46931118 46931118]
+* HMDB : HMDB01197
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01352 C01352]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58307 58307]
+* METABOLIGHTS : MTBLC58307
+{{#set: smiles=CC1(=C(C)C=C2(N(C3(NC(NC(=O)C(NC(=C1)2)=3)=O))CC(O)C(O)C(O)COP(OP([O-])(OCC6(C(O)C(O)C(N5(C=NC4(C(N)=NC=NC=45)))O6))=O)([O-])=O))}}
+{{#set: common name=FADH2}}
+{{#set: inchi key=InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L}}
+{{#set: molecular weight=785.556    }}
+{{#set: common name=flavin adenine dinucleotide reduced|1,5-dihydro-FAD}}
+{{#set: consumed by=G3PD3}}
+{{#set: produced by=MEPROPCOA-FAD-RXN|ACOA120or|MCDH_2mb2coa|ACOA140or|ACOA160or|ACOA80or|MCDH|IVCDH|ACOA40or}}
+{{#set: reversible reaction associated=PPCOAOm|RXN-14264|RXN-14193}}

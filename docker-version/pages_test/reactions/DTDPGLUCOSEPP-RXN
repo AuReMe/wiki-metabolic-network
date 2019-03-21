@@ -1,0 +1,95 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DTDPGLUCOSEPP-RXN DTDPGLUCOSEPP-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7.24 EC-2.7.7.24]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[TTP]][c] '''+''' 1 [[GLC-1-P]][c] '''+''' 1 [[PROTON]][c] '''<=>''' 1 [[PPI]][c] '''+''' 1 [[DTDP-D-GLUCOSE]][c]
+* With common name(s):
+** 1 dTTP[c] '''+''' 1 &alpha;-D-glucopyranose 1-phosphate[c] '''+''' 1 H+[c] '''<=>''' 1 diphosphate[c] '''+''' 1 dTDP-&alpha;-D-glucose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14704]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-7315]], dTDP-N-acetylthomosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7315 PWY-7315]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-7316]], dTDP-N-acetylviosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7316 PWY-7316]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[DTDPRHAMSYN-PWY]], dTDP-L-rhamnose biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=DTDPRHAMSYN-PWY DTDPRHAMSYN-PWY]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-7301]], dTDP-4-O-demethyl-&beta;-L-noviose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7301 PWY-7301]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-7657]], dTDP-&beta;-L-digitoxose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7657 PWY-7657]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7318]], dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7318 PWY-7318]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-7312]], dTDP-D-&beta;-fucofuranose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7312 PWY-7312]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6942]], dTDP-D-desosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6942 PWY-6942]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-7104]], dTDP-L-megosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7104 PWY-7104]
+** '''2''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-7814]], dTDP-L-daunosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7814 PWY-7814]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-7440]], dTDP-&beta;-L-4-epi-vancosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7440 PWY-7440]
+** '''2''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-6953]], dTDP-3-acetamido-&alpha;-D-fucose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6953 PWY-6953]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6808]], dTDP-D-forosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6808 PWY-6808]
+** '''2''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7413]], dTDP-6-deoxy-&alpha;-D-allose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7413 PWY-7413]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6976]], dTDP-L-mycarose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6976 PWY-6976]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7688]], dTDP-D-ravidosamine and dTDP-4-acetyl-D-ravidosamine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7688 PWY-7688]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6974]], dTDP-L-olivose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6974 PWY-6974]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6973]], dTDP-D-olivose, dTDP-D-oliose and dTDP-D-mycarose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6973 PWY-6973]
+** '''2''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-3221]], dTDP-L-rhamnose biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-3221 PWY-3221]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-7414]], dTDP-&alpha;-D-mycaminose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7414 PWY-7414]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15225 15225]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02328 R02328]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P55256 P55256]
+** [http://www.uniprot.org/uniprot/O27819 O27819]
+** [http://www.uniprot.org/uniprot/Q58501 Q58501]
+** [http://www.uniprot.org/uniprot/P37744 P37744]
+** [http://www.uniprot.org/uniprot/P72017 P72017]
+** [http://www.uniprot.org/uniprot/P61887 P61887]
+** [http://www.uniprot.org/uniprot/P57040 P57040]
+** [http://www.uniprot.org/uniprot/P26393 P26393]
+** [http://www.uniprot.org/uniprot/P55254 P55254]
+** [http://www.uniprot.org/uniprot/P55257 P55257]
+** [http://www.uniprot.org/uniprot/P37779 P37779]
+** [http://www.uniprot.org/uniprot/P37762 P37762]
+** [http://www.uniprot.org/uniprot/Q54143 Q54143]
+** [http://www.uniprot.org/uniprot/Q56174 Q56174]
+** [http://www.uniprot.org/uniprot/Q51149 Q51149]
+** [http://www.uniprot.org/uniprot/P55253 P55253]
+** [http://www.uniprot.org/uniprot/O66250 O66250]
+** [http://www.uniprot.org/uniprot/O08245 O08245]
+** [http://www.uniprot.org/uniprot/Q9RR29 Q9RR29]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.7.7.24}}
+{{#set: gene associated=Tiso_gene_14704}}
+{{#set: in pathway=PWY-7315|PWY-7316|DTDPRHAMSYN-PWY|PWY-7301|PWY-7657|PWY-7318|PWY-7312|PWY-6942|PWY-7104|PWY-7814|PWY-7440|PWY-6953|PWY-6808|PWY-7413|PWY-6976|PWY-7688|PWY-6974|PWY-6973|PWY-3221|PWY-7414}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

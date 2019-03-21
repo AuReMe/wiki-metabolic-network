@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=COA-PWY-1 COA-PWY-1] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** coenzyme A biosynthesis II (mammalian)
+* Synonym(s):
+** CoA biosynthesis
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[DEPHOSPHOCOAKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19719]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[P-PANTOCYSDECARB-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15171]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+* [[PANTEPADENYLYLTRAN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4648]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+* [[PANTOTHENATE-KIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4467]]
+*** [[Tiso_gene_4468]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN66-555]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15171]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=coenzyme A biosynthesis II (mammalian)}}
+{{#set: common name=CoA biosynthesis}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=VAL VAL] ==
+* smiles:
+** CC(C)C([N+])C([O-])=O
+* common name:
+** L-valine
+* inchi key:
+** InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
+* molecular weight:
+** 117.147    
+* Synonym(s):
+** V
+** val
+** valine
+** L-val
+
+== Reaction(s) known to consume the compound ==
+* [[VALINE--TRNA-LIGASE-RXN]]
+* [[RME144]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[BRANCHED-CHAINAMINOTRANSFERVAL-RXN]]
+== External links  ==
+* CAS : 72-18-4
+* BIGG : val__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971018 6971018]
+* HMDB : HMDB00883
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00183 C00183]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57762 57762]
+* METABOLIGHTS : MTBLC57762
+{{#set: smiles=CC(C)C([N+])C([O-])=O}}
+{{#set: common name=L-valine}}
+{{#set: inchi key=InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N}}
+{{#set: molecular weight=117.147    }}
+{{#set: common name=V|val|valine|L-val}}
+{{#set: consumed by=VALINE--TRNA-LIGASE-RXN|RME144}}
+{{#set: reversible reaction associated=BRANCHED-CHAINAMINOTRANSFERVAL-RXN}}

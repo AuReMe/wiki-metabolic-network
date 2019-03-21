@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9007 CPD-9007] ==
+* smiles:
+** C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(OP(=O)([O-])OCC5(C(O)C4(C(OP([O-])(=O)O4)O5)))([O-])=O
+* common name:
+** ADP ribose 1'',2''-cyclic phosphate
+* inchi key:
+** InChIKey=NPSPRYXPOGPCPM-TYASJMOZSA-K
+* molecular weight:
+** 618.26    
+* Synonym(s):
+** ADP ribose 1''-2''-cyclic phosphate
+** ADP ribose 1'',2''-phosphate
+** adenosine diphosphate ribose 1'',2''-cyclic phosphate
+** Appr>p
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2.7.1.160-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245989 25245989]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=76596 76596]
+{{#set: smiles=C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(OP(=O)([O-])OCC5(C(O)C4(C(OP([O-])(=O)O4)O5)))([O-])=O}}
+{{#set: common name=ADP ribose 1'',2''-cyclic phosphate}}
+{{#set: inchi key=InChIKey=NPSPRYXPOGPCPM-TYASJMOZSA-K}}
+{{#set: molecular weight=618.26    }}
+{{#set: common name=ADP ribose 1''-2''-cyclic phosphate|ADP ribose 1'',2''-phosphate|adenosine diphosphate ribose 1'',2''-cyclic phosphate|Appr>p}}
+{{#set: produced by=2.7.1.160-RXN}}

@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-hydroxypimeloyl-ACP-methyl-esters 3-hydroxypimeloyl-ACP-methyl-esters] ==
+* common name:
+** a (3R)-3-hydroxypimeloyl-[acp] methyl ester
+* Synonym(s):
+** a 3-hydroxypimeloyl-[acyl-carrier protein] methyl ester
+** a 3-hydroxypimeloyl-[acp] methyl ester
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11481]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11480]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxypimeloyl-[acp] methyl ester}}
+{{#set: common name=a 3-hydroxypimeloyl-[acyl-carrier protein] methyl ester|a 3-hydroxypimeloyl-[acp] methyl ester}}
+{{#set: consumed by=RXN-11481}}
+{{#set: produced by=RXN-11480}}

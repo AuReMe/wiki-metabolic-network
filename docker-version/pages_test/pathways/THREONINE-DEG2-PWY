@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=THREONINE-DEG2-PWY THREONINE-DEG2-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** L-threonine degradation II
+* Synonym(s):
+** threonine dehydrogenase pathway
+** TDG pathway
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[AKBLIG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3555]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[THREODEHYD-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1301]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=THREONINE-DEG2-PWY THREONINE-DEG2-PWY]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=L-threonine degradation II}}
+{{#set: common name=threonine dehydrogenase pathway|TDG pathway}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

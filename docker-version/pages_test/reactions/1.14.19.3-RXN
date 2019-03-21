@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.14.19.3-RXN 1.14.19.3-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.19.3 EC-1.14.19.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[PROTON]][c] '''+''' 2 [[FERROCYTOCHROME-B5]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[CPD-18]][c] '''=>''' 2 [[WATER]][c] '''+''' 1 [[GAMMA-LINOLENOYL-COA]][c] '''+''' 2 [[FERRICYTOCHROME-B5]][c]
+* With common name(s):
+** 2 H+[c] '''+''' 2 a ferrocytochrome b5[c] '''+''' 1 oxygen[c] '''+''' 1 linoleoyl-CoA[c] '''=>''' 2 H2O[c] '''+''' 1 &gamma;-linolenoyl-CoA[c] '''+''' 2 a ferricytochrome b5[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2508]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6000]], &gamma;-linolenate biosynthesis II (animals): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6000 PWY-6000]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22196 22196]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03814 R03814]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9HDG8 Q9HDG8]
+** [http://www.uniprot.org/uniprot/Q54795 Q54795]
+** [http://www.uniprot.org/uniprot/O95864 O95864]
+** [http://www.uniprot.org/uniprot/O61388 O61388]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.14.19.3}}
+{{#set: gene associated=Tiso_gene_2508}}
+{{#set: in pathway=PWY-6000}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

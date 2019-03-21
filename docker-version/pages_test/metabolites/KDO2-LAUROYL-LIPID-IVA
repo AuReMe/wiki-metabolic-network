@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=KDO2-LAUROYL-LIPID-IVA KDO2-LAUROYL-LIPID-IVA] ==
+* smiles:
+** CCCCCCCCCCCC(O)CC(=O)NC1(C(OP([O-])([O-])=O)OC(C(O)C(OC(CC(O)CCCCCCCCCCC)=O)1)COC2(C(NC(CC(OC(CCCCCCCCCCC)=O)CCCCCCCCCCC)=O)C(OC(CC(O)CCCCCCCCCCC)=O)C(C(O2)COC4(C([O-])=O)(O[CH](C(CO)O)C(O)C(OC3(C([O-])=O)(O[CH](C(CO)O)C(O)C(O)C3))C4))OP([O-])([O-])=O))
+* common name:
+** &alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-(lauroyl)-lipid IVA
+* inchi key:
+** InChIKey=JVUUYJGQIVCMIU-UKBUPMDXSA-H
+* molecular weight:
+** 2022.337    
+* Synonym(s):
+** lauroyl-(Kdo)2-lipid IV (A)
+** (Kdo)2-(lauroyl)-lipid IVA
+
+== Reaction(s) known to consume the compound ==
+* [[MYRISTOYLACYLTRAN-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91819851 91819851]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61524 61524]
+* BIGG : kdo2lipid4L
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06251 C06251]
+{{#set: smiles=CCCCCCCCCCCC(O)CC(=O)NC1(C(OP([O-])([O-])=O)OC(C(O)C(OC(CC(O)CCCCCCCCCCC)=O)1)COC2(C(NC(CC(OC(CCCCCCCCCCC)=O)CCCCCCCCCCC)=O)C(OC(CC(O)CCCCCCCCCCC)=O)C(C(O2)COC4(C([O-])=O)(O[CH](C(CO)O)C(O)C(OC3(C([O-])=O)(O[CH](C(CO)O)C(O)C(O)C3))C4))OP([O-])([O-])=O))}}
+{{#set: common name=&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-(lauroyl)-lipid IVA}}
+{{#set: inchi key=InChIKey=JVUUYJGQIVCMIU-UKBUPMDXSA-H}}
+{{#set: molecular weight=2022.337    }}
+{{#set: common name=lauroyl-(Kdo)2-lipid IV (A)|(Kdo)2-(lauroyl)-lipid IVA}}
+{{#set: consumed by=MYRISTOYLACYLTRAN-RXN}}

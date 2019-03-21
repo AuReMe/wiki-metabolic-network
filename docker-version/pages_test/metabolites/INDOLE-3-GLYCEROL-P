@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=INDOLE-3-GLYCEROL-P INDOLE-3-GLYCEROL-P] ==
+* smiles:
+** C2(=C(C1(C=CC=CC=1N2))C(C(COP([O-])(=O)[O-])O)O)
+* common name:
+** (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate
+* inchi key:
+** InChIKey=NQEQTYPJSIEPHW-MNOVXSKESA-L
+* molecular weight:
+** 285.193    
+* Synonym(s):
+** C1-(3-Indolyl)-glycerol 3-phosphate
+** indole-3-glycerol-P
+** 1-(indol-3-yl)glycerol-3-P
+** 1-(indol-3-yl)glycerol-3-phosphate
+** indoleglycerol phosphate
+** indole-3-glycerol-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[TRYPSYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[IGPSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN0-2381]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878464 46878464]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58866 58866]
+* BIGG : 3ig3p
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03506 C03506]
+{{#set: smiles=C2(=C(C1(C=CC=CC=1N2))C(C(COP([O-])(=O)[O-])O)O)}}
+{{#set: common name=(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate}}
+{{#set: inchi key=InChIKey=NQEQTYPJSIEPHW-MNOVXSKESA-L}}
+{{#set: molecular weight=285.193    }}
+{{#set: common name=C1-(3-Indolyl)-glycerol 3-phosphate|indole-3-glycerol-P|1-(indol-3-yl)glycerol-3-P|1-(indol-3-yl)glycerol-3-phosphate|indoleglycerol phosphate|indole-3-glycerol-phosphate}}
+{{#set: consumed by=TRYPSYN-RXN}}
+{{#set: produced by=IGPSYN-RXN}}
+{{#set: reversible reaction associated=RXN0-2381}}

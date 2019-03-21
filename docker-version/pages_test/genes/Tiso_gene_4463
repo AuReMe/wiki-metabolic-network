@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4463 ==
+* right end position:
+** 5657
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3027
+* centisome position:
+** 20.436134    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MALONYL-COA-DECARBOXYLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-1321]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5410]]
+* [[PWY-735]]
+== External links  ==
+{{#set: right end position=5657}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3027}}
+{{#set: centisome position=20.436134    }}
+{{#set: reaction associated=MALONYL-COA-DECARBOXYLASE-RXN|RXN-1321}}
+{{#set: pathway associated=PWY-5410|PWY-735}}

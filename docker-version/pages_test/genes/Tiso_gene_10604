@@ -1,0 +1,19 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10604 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.3.1.23-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15036]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15066]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7409]]
+* [[PWY-6803]]
+* [[PWY-7470]]
+* [[PWY-7416]]
+== External links  ==
+{{#set: reaction associated=2.3.1.23-RXN|RXN-15036|RXN-15066}}
+{{#set: pathway associated=PWY-7409|PWY-6803|PWY-7470|PWY-7416}}

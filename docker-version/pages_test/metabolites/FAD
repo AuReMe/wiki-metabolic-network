@@ -1,0 +1,53 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FAD FAD] ==
+* smiles:
+** CC6(=C(C)C=C5(C(N=C1(C(=O)[N-]C(=O)N=C1N(CC(C(O)C(O)COP(OP([O-])(OCC4(C(O)C(O)C(N3(C=NC2(C(N)=NC=NC=23)))O4))=O)([O-])=O)O)5))=C6))
+* common name:
+** FAD
+* inchi key:
+** InChIKey=IMGVNJNCCGXBHD-UYBVJOGSSA-K
+* molecular weight:
+** 782.533    
+* Synonym(s):
+** flavin adenine dinucleotide oxidized
+** flavin adenine dinucleotide
+** flavitan
+
+== Reaction(s) known to consume the compound ==
+* [[MEPROPCOA-FAD-RXN]]
+* [[ACOA120or]]
+* [[MCDH_2mb2coa]]
+* [[ACOA140or]]
+* [[ACOA160or]]
+* [[ACOA80or]]
+* [[MCDH]]
+* [[IVCDH]]
+* [[ACOA40or]]
+== Reaction(s) known to produce the compound ==
+* [[G3PD3]]
+* [[FADSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[PPCOAOm]]
+* [[RXN-14264]]
+* [[RXN-14193]]
+== External links  ==
+* CAS : 146-14-5
+* Wikipedia : Flavin_adenine_dinucleotide
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46906035 46906035]
+* HMDB : HMDB01248
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00016 C00016]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13082029.html 13082029]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57692 57692]
+* BIGG : fad
+{{#set: smiles=CC6(=C(C)C=C5(C(N=C1(C(=O)[N-]C(=O)N=C1N(CC(C(O)C(O)COP(OP([O-])(OCC4(C(O)C(O)C(N3(C=NC2(C(N)=NC=NC=23)))O4))=O)([O-])=O)O)5))=C6))}}
+{{#set: common name=FAD}}
+{{#set: inchi key=InChIKey=IMGVNJNCCGXBHD-UYBVJOGSSA-K}}
+{{#set: molecular weight=782.533    }}
+{{#set: common name=flavin adenine dinucleotide oxidized|flavin adenine dinucleotide|flavitan}}
+{{#set: consumed by=MEPROPCOA-FAD-RXN|ACOA120or|MCDH_2mb2coa|ACOA140or|ACOA160or|ACOA80or|MCDH|IVCDH|ACOA40or}}
+{{#set: produced by=G3PD3|FADSYN-RXN}}
+{{#set: reversible reaction associated=PPCOAOm|RXN-14264|RXN-14193}}

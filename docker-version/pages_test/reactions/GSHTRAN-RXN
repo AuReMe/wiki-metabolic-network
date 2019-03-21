@@ -1,0 +1,247 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GSHTRAN-RXN GSHTRAN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutathione_s-transferase
+** glutathione_s-
+** ORF
+** phi_class_glutathione_s-transferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.18 EC-2.5.1.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[RX]][c] '''+''' 1 [[GLUTATHIONE]][c] '''=>''' 1 [[S-Substituted-Glutathione]][c] '''+''' 1 [[HX]][c]
+* With common name(s):
+** 1 RX[c] '''+''' 1 glutathione[c] '''=>''' 1 a glutathione-toxin conjugate[c] '''+''' 1 HX[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19791]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_1104]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_8389]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3233]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5129]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_20110]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6036]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3535]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8508]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_19041]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1666]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_8509]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2775]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-6842]], glutathione-mediated detoxification II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6842 PWY-6842]
+** '''2''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-4061]], glutathione-mediated detoxification I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-4061 PWY-4061]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03522 R03522]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P30116 P30116]
+** [http://www.uniprot.org/uniprot/P04903 P04903]
+** [http://www.uniprot.org/uniprot/P04904 P04904]
+** [http://www.uniprot.org/uniprot/P13745 P13745]
+** [http://www.uniprot.org/uniprot/P08011 P08011]
+** [http://www.uniprot.org/uniprot/Q7M0B7 Q7M0B7]
+** [http://www.uniprot.org/uniprot/P08009 P08009]
+** [http://www.uniprot.org/uniprot/P04905 P04905]
+** [http://www.uniprot.org/uniprot/P21266 P21266]
+** [http://www.uniprot.org/uniprot/P09211 P09211]
+** [http://www.uniprot.org/uniprot/P28161 P28161]
+** [http://www.uniprot.org/uniprot/Q08863 Q08863]
+** [http://www.uniprot.org/uniprot/P30109 P30109]
+** [http://www.uniprot.org/uniprot/P28338 P28338]
+** [http://www.uniprot.org/uniprot/P46088 P46088]
+** [http://www.uniprot.org/uniprot/P15964 P15964]
+** [http://www.uniprot.org/uniprot/P46439 P46439]
+** [http://www.uniprot.org/uniprot/Q9VG97 Q9VG97]
+** [http://www.uniprot.org/uniprot/Q03013 Q03013]
+** [http://www.uniprot.org/uniprot/P41043 P41043]
+** [http://www.uniprot.org/uniprot/P28801 P28801]
+** [http://www.uniprot.org/uniprot/P46418 P46418]
+** [http://www.uniprot.org/uniprot/P46425 P46425]
+** [http://www.uniprot.org/uniprot/P0A9D2 P0A9D2]
+** [http://www.uniprot.org/uniprot/P08263 P08263]
+** [http://www.uniprot.org/uniprot/P30712 P30712]
+** [http://www.uniprot.org/uniprot/Q9NAW7 Q9NAW7]
+** [http://www.uniprot.org/uniprot/P08515 P08515]
+** [http://www.uniprot.org/uniprot/P10620 P10620]
+** [http://www.uniprot.org/uniprot/P19639 P19639]
+** [http://www.uniprot.org/uniprot/Q9WU21 Q9WU21]
+** [http://www.uniprot.org/uniprot/P15626 P15626]
+** [http://www.uniprot.org/uniprot/Q08862 Q08862]
+** [http://www.uniprot.org/uniprot/P26624 P26624]
+** [http://www.uniprot.org/uniprot/Q03377 Q03377]
+** [http://www.uniprot.org/uniprot/P19157 P19157]
+** [http://www.uniprot.org/uniprot/P20137 P20137]
+** [http://www.uniprot.org/uniprot/Q9VG95 Q9VG95]
+** [http://www.uniprot.org/uniprot/Q9VG98 Q9VG98]
+** [http://www.uniprot.org/uniprot/Q9VG96 Q9VG96]
+** [http://www.uniprot.org/uniprot/O31817 O31817]
+** [http://www.uniprot.org/uniprot/Q8X6U4 Q8X6U4]
+** [http://www.uniprot.org/uniprot/P30713 P30713]
+** [http://www.uniprot.org/uniprot/Q42706 Q42706]
+** [http://www.uniprot.org/uniprot/Q28514 Q28514]
+** [http://www.uniprot.org/uniprot/Q9TXB7 Q9TXB7]
+** [http://www.uniprot.org/uniprot/P09792 P09792]
+** [http://www.uniprot.org/uniprot/P16413 P16413]
+** [http://www.uniprot.org/uniprot/P81706 P81706]
+** [http://www.uniprot.org/uniprot/P09488 P09488]
+** [http://www.uniprot.org/uniprot/Q7M446 Q7M446]
+** [http://www.uniprot.org/uniprot/P10299 P10299]
+** [http://www.uniprot.org/uniprot/Q7M0B6 Q7M0B6]
+** [http://www.uniprot.org/uniprot/Q7M0C0 Q7M0C0]
+** [http://www.uniprot.org/uniprot/Q7M0F7 Q7M0F7]
+** [http://www.uniprot.org/uniprot/P22416 P22416]
+** [http://www.uniprot.org/uniprot/P30102 P30102]
+** [http://www.uniprot.org/uniprot/P28342 P28342]
+** [http://www.uniprot.org/uniprot/P24473 P24473]
+** [http://www.uniprot.org/uniprot/Q7M0F4 Q7M0F4]
+** [http://www.uniprot.org/uniprot/Q7M0F3 Q7M0F3]
+** [http://www.uniprot.org/uniprot/P26697 P26697]
+** [http://www.uniprot.org/uniprot/Q9PS57 Q9PS57]
+** [http://www.uniprot.org/uniprot/Q9JLQ6 Q9JLQ6]
+** [http://www.uniprot.org/uniprot/P30115 P30115]
+** [http://www.uniprot.org/uniprot/P09210 P09210]
+** [http://www.uniprot.org/uniprot/Q01579 Q01579]
+** [http://www.uniprot.org/uniprot/P24472 P24472]
+** [http://www.uniprot.org/uniprot/Q7M0F5 Q7M0F5]
+** [http://www.uniprot.org/uniprot/Q7M0F6 Q7M0F6]
+** [http://www.uniprot.org/uniprot/Q7M0F2 Q7M0F2]
+** [http://www.uniprot.org/uniprot/Q9TQQ8 Q9TQQ8]
+** [http://www.uniprot.org/uniprot/Q7M0B8 Q7M0B8]
+** [http://www.uniprot.org/uniprot/Q7M059 Q7M059]
+** [http://www.uniprot.org/uniprot/P30568 P30568]
+** [http://www.uniprot.org/uniprot/Q03425 Q03425]
+** [http://www.uniprot.org/uniprot/P10649 P10649]
+** [http://www.uniprot.org/uniprot/P46422 P46422]
+** [http://www.uniprot.org/uniprot/P45875 P45875]
+** [http://www.uniprot.org/uniprot/P42769 P42769]
+** [http://www.uniprot.org/uniprot/P46436 P46436]
+** [http://www.uniprot.org/uniprot/Q7M0F1 Q7M0F1]
+** [http://www.uniprot.org/uniprot/P42760 P42760]
+** [http://www.uniprot.org/uniprot/P42761 P42761]
+** [http://www.uniprot.org/uniprot/Q9GQE3 Q9GQE3]
+** [http://www.uniprot.org/uniprot/P46427 P46427]
+** [http://www.uniprot.org/uniprot/P48438 P48438]
+** [http://www.uniprot.org/uniprot/Q08392 Q08392]
+** [http://www.uniprot.org/uniprot/Q08393 Q08393]
+** [http://www.uniprot.org/uniprot/P30711 P30711]
+** [http://www.uniprot.org/uniprot/Q9UDH6 Q9UDH6]
+** [http://www.uniprot.org/uniprot/Q9UDH3 Q9UDH3]
+** [http://www.uniprot.org/uniprot/Q9UDH2 Q9UDH2]
+** [http://www.uniprot.org/uniprot/Q9UDH1 Q9UDH1]
+** [http://www.uniprot.org/uniprot/P46432 P46432]
+** [http://www.uniprot.org/uniprot/P46433 P46433]
+** [http://www.uniprot.org/uniprot/P46420 P46420]
+** [http://www.uniprot.org/uniprot/P27013 P27013]
+** [http://www.uniprot.org/uniprot/P27014 P27014]
+** [http://www.uniprot.org/uniprot/P20135 P20135]
+** [http://www.uniprot.org/uniprot/P46409 P46409]
+** [http://www.uniprot.org/uniprot/P46421 P46421]
+** [http://www.uniprot.org/uniprot/P46431 P46431]
+** [http://www.uniprot.org/uniprot/Q7M0B9 Q7M0B9]
+** [http://www.uniprot.org/uniprot/Q7M3E7 Q7M3E7]
+** [http://www.uniprot.org/uniprot/Q7M3E8 Q7M3E8]
+** [http://www.uniprot.org/uniprot/Q7M3E9 Q7M3E9]
+** [http://www.uniprot.org/uniprot/Q64471 Q64471]
+** [http://www.uniprot.org/uniprot/Q91VB0 Q91VB0]
+** [http://www.uniprot.org/uniprot/P15214 P15214]
+** [http://www.uniprot.org/uniprot/P47954 P47954]
+** [http://www.uniprot.org/uniprot/Q60550 Q60550]
+** [http://www.uniprot.org/uniprot/Q12760 Q12760]
+** [http://www.uniprot.org/uniprot/O65032 O65032]
+** [http://www.uniprot.org/uniprot/O65857 O65857]
+** [http://www.uniprot.org/uniprot/O82451 O82451]
+** [http://www.uniprot.org/uniprot/O24595 O24595]
+** [http://www.uniprot.org/uniprot/O49235 O49235]
+** [http://www.uniprot.org/uniprot/O04437 O04437]
+** [http://www.uniprot.org/uniprot/P30110 P30110]
+** [http://www.uniprot.org/uniprot/P30111 P30111]
+** [http://www.uniprot.org/uniprot/O04874 O04874]
+** [http://www.uniprot.org/uniprot/P32111 P32111]
+** [http://www.uniprot.org/uniprot/O22330 O22330]
+** [http://www.uniprot.org/uniprot/O49821 O49821]
+** [http://www.uniprot.org/uniprot/O65344 O65344]
+** [http://www.uniprot.org/uniprot/O81602 O81602]
+** [http://www.uniprot.org/uniprot/O85984 O85984]
+** [http://www.uniprot.org/uniprot/Q21355 Q21355]
+** [http://www.uniprot.org/uniprot/O16115 O16115]
+** [http://www.uniprot.org/uniprot/O16116 O16116]
+** [http://www.uniprot.org/uniprot/Q9ZRT5 Q9ZRT5]
+** [http://www.uniprot.org/uniprot/Q9ZRW8 Q9ZRW8]
+** [http://www.uniprot.org/uniprot/Q9SM20 Q9SM20]
+** [http://www.uniprot.org/uniprot/Q9ZP62 Q9ZP62]
+** [http://www.uniprot.org/uniprot/Q9ZS18 Q9ZS18]
+** [http://www.uniprot.org/uniprot/Q9ZS16 Q9ZS16]
+** [http://www.uniprot.org/uniprot/Q9SB97 Q9SB97]
+** [http://www.uniprot.org/uniprot/Q9ZS17 Q9ZS17]
+** [http://www.uniprot.org/uniprot/Q9ZRR6 Q9ZRR6]
+** [http://www.uniprot.org/uniprot/P20432 P20432]
+** [http://www.uniprot.org/uniprot/P14942 P14942]
+** [http://www.uniprot.org/uniprot/P08010 P08010]
+** [http://www.uniprot.org/uniprot/P04906 P04906]
+** [http://www.uniprot.org/uniprot/P12653 P12653]
+** [http://www.uniprot.org/uniprot/P04907 P04907]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutathione_s-transferase}}
+{{#set: common name=glutathione_s-}}
+{{#set: common name=ORF}}
+{{#set: common name=phi_class_glutathione_s-transferase}}
+{{#set: ec number=EC-2.5.1.18}}
+{{#set: gene associated=Tiso_gene_19791|Tiso_gene_1104|Tiso_gene_8389|Tiso_gene_3233|Tiso_gene_5129|Tiso_gene_20110|Tiso_gene_6036|Tiso_gene_3535|Tiso_gene_8508|Tiso_gene_19041|Tiso_gene_1666|Tiso_gene_8509|Tiso_gene_2775}}
+{{#set: in pathway=PWY-6842|PWY-4061}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

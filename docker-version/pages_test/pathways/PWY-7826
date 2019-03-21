@@ -1,0 +1,50 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7826 PWY-7826] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4668 TAX-4668]
+* common name:
+** Amaryllidacea alkaloids biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''25''' reactions in the full pathway
+* [[RXN-8872]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1035]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[TYROSINE-DECARBOXYLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3686]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18120 RXN-18120]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18121 RXN-18121]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18122 RXN-18122]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18123 RXN-18123]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18124 RXN-18124]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18125 RXN-18125]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18126 RXN-18126]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18127 RXN-18127]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18128 RXN-18128]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18129 RXN-18129]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18132 RXN-18132]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18133 RXN-18133]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18134 RXN-18134]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18135 RXN-18135]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18136 RXN-18136]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18137 RXN-18137]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18138 RXN-18138]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18140 RXN-18140]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18141 RXN-18141]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18142 RXN-18142]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18152 RXN-18152]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18153 RXN-18153]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8871 RXN-8871]
+== External links  ==
+{{#set: taxonomic range=TAX-4668}}
+{{#set: common name=Amaryllidacea alkaloids biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=25}}
+{{#set: completion rate=8.0}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20348 ==
+* right end position:
+** 589
+* transcription direction:
+** POSITIVE
+* left end position:
+** 224
+* centisome position:
+** 15.11471    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[KDO-8PSYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7674]]
+* [[PWY-1269]]
+== External links  ==
+{{#set: right end position=589}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=224}}
+{{#set: centisome position=15.11471    }}
+{{#set: reaction associated=KDO-8PSYNTH-RXN}}
+{{#set: pathway associated=PWY-7674|PWY-1269}}

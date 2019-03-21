@@ -1,0 +1,98 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RETINYL-PALMITATE-ESTERASE-RXN RETINYL-PALMITATE-ESTERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** retinyl-palmitate esterase
+** ORF
+** serine_esterase
+** sialate_o-acetylesterase-like_protein
+** lysophospholipase
+** alpha_beta_hydrolase
+** alpha_beta_hydrolase_fold_protein
+** protein_chloroplastic
+** para-nitrobenzyl_esterase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.1 EC-3.1.1.1]
+* Synonym(s):
+** retinyl palmitate hydrolase
+** retinyl palmitate hydrolyase
+** retinyl ester hydrolase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CHOCOLA_A]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[PALMITATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Retinols]][c]
+* With common name(s):
+** 1 all-trans-retinyl palmitate[c] '''+''' 1 H2O[c] '''=>''' 1 palmitate[c] '''+''' 1 H+[c] '''+''' 1 a retinol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4650]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10066]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4606]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1538]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19778]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11351]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_1922]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9429]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12686]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16518]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1537]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17029]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21508 21508]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=retinyl-palmitate esterase}}
+{{#set: common name=ORF}}
+{{#set: common name=serine_esterase}}
+{{#set: common name=sialate_o-acetylesterase-like_protein}}
+{{#set: common name=lysophospholipase}}
+{{#set: common name=alpha_beta_hydrolase}}
+{{#set: common name=alpha_beta_hydrolase_fold_protein}}
+{{#set: common name=protein_chloroplastic}}
+{{#set: common name=para-nitrobenzyl_esterase}}
+{{#set: ec number=EC-3.1.1.1}}
+{{#set: common name=retinyl palmitate hydrolase|retinyl palmitate hydrolyase|retinyl ester hydrolase}}
+{{#set: gene associated=Tiso_gene_4650|Tiso_gene_10066|Tiso_gene_4606|Tiso_gene_1538|Tiso_gene_19778|Tiso_gene_11351|Tiso_gene_1922|Tiso_gene_9429|Tiso_gene_2556|Tiso_gene_12686|Tiso_gene_16518|Tiso_gene_1537|Tiso_gene_17029}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,117 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=5.99.1.2-RXN 5.99.1.2-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** dna_topoisomerase
+** dna_topoisomerase1
+* ec number:
+** [http://enzyme.expasy.org/EC/5.99.1.2 EC-5.99.1.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Negatively-super-coiled-DNAs]][c] '''<=>''' 1 [[Relaxed-DNAs]][c]
+* With common name(s):
+** 1 a negatively supercoiled DNA[c] '''<=>''' 1 a relaxed DNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14333]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5748]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5747]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5036]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5749]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_6569]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_200]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_10513]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1740]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5035]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_1739]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3425]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1291]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M0H8 Q7M0H8]
+** [http://www.uniprot.org/uniprot/Q07050 Q07050]
+** [http://www.uniprot.org/uniprot/Q9JWZ5 Q9JWZ5]
+** [http://www.uniprot.org/uniprot/Q59046 Q59046]
+** [http://www.uniprot.org/uniprot/Q9PLZ2 Q9PLZ2]
+** [http://www.uniprot.org/uniprot/P47368 P47368]
+** [http://www.uniprot.org/uniprot/Q9CG80 Q9CG80]
+** [http://www.uniprot.org/uniprot/P43704 P43704]
+** [http://www.uniprot.org/uniprot/P43012 P43012]
+** [http://www.uniprot.org/uniprot/P0A620 P0A620]
+** [http://www.uniprot.org/uniprot/P04786 P04786]
+** [http://www.uniprot.org/uniprot/P13099 P13099]
+** [http://www.uniprot.org/uniprot/P06612 P06612]
+** [http://www.uniprot.org/uniprot/P11387 P11387]
+** [http://www.uniprot.org/uniprot/P07799 P07799]
+** [http://www.uniprot.org/uniprot/P93119 P93119]
+** [http://www.uniprot.org/uniprot/O13463 O13463]
+** [http://www.uniprot.org/uniprot/Q94705 Q94705]
+** [http://www.uniprot.org/uniprot/Q04750 Q04750]
+** [http://www.uniprot.org/uniprot/P14294 P14294]
+** [http://www.uniprot.org/uniprot/P30181 P30181]
+** [http://www.uniprot.org/uniprot/P34185 P34185]
+** [http://www.uniprot.org/uniprot/P30189 P30189]
+** [http://www.uniprot.org/uniprot/P40114 P40114]
+** [http://www.uniprot.org/uniprot/P41511 P41511]
+** [http://www.uniprot.org/uniprot/Q8I3Z9 Q8I3Z9]
+** [http://www.uniprot.org/uniprot/Q26024 Q26024]
+** [http://www.uniprot.org/uniprot/Q27529 Q27529]
+** [http://www.uniprot.org/uniprot/P41512 P41512]
+** [http://www.uniprot.org/uniprot/O24307 O24307]
+** [http://www.uniprot.org/uniprot/P71196 P71196]
+** [http://www.uniprot.org/uniprot/O70157 O70157]
+** [http://www.uniprot.org/uniprot/O60126 O60126]
+** [http://www.uniprot.org/uniprot/O61660 O61660]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=dna_topoisomerase}}
+{{#set: common name=dna_topoisomerase1}}
+{{#set: ec number=EC-5.99.1.2}}
+{{#set: gene associated=Tiso_gene_14333|Tiso_gene_5748|Tiso_gene_5747|Tiso_gene_5036|Tiso_gene_5749|Tiso_gene_6569|Tiso_gene_200|Tiso_gene_10513|Tiso_gene_1740|Tiso_gene_5035|Tiso_gene_1739|Tiso_gene_3425|Tiso_gene_1291}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

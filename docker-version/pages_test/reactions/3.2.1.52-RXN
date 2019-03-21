@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.52-RXN 3.2.1.52-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** beta-hexosaminidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.52 EC-3.2.1.52]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[N-Acetyl-beta-D-Hexosaminides]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Alcohols]][c] '''+''' 1 [[N-acetyl-beta-D-hexosamines]][c]
+* With common name(s):
+** 1 an N-acetyl-&beta;-D-hexosaminide[c] '''+''' 1 H2O[c] '''=>''' 1 an alcohol[c] '''+''' 1 an N-acetyl-&beta;-D-hexosamine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1129]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14122]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P13723 P13723]
+** [http://www.uniprot.org/uniprot/P07686 P07686]
+** [http://www.uniprot.org/uniprot/Q04786 Q04786]
+** [http://www.uniprot.org/uniprot/P06865 P06865]
+** [http://www.uniprot.org/uniprot/P20060 P20060]
+** [http://www.uniprot.org/uniprot/Q9CFI2 Q9CFI2]
+** [http://www.uniprot.org/uniprot/Q9JVT3 Q9JVT3]
+** [http://www.uniprot.org/uniprot/P29416 P29416]
+** [http://www.uniprot.org/uniprot/Q54468 Q54468]
+** [http://www.uniprot.org/uniprot/P39848 P39848]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=beta-hexosaminidase}}
+{{#set: ec number=EC-3.2.1.52}}
+{{#set: gene associated=Tiso_gene_1129|Tiso_gene_14122}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

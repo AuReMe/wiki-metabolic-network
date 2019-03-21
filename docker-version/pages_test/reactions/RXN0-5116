@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5116 RXN0-5116] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ribulokinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.16 EC-2.7.1.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-RIBULOSE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[ADP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[L-RIBULOSE-5-P]][c]
+* With common name(s):
+** 1 L-ribulose[c] '''+''' 1 ATP[c] '''=>''' 1 ADP[c] '''+''' 1 H+[c] '''+''' 1 L-ribulose 5-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16670]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[ARABCAT-PWY]], L-arabinose degradation I: [http://metacyc.org/META/NEW-IMAGE?object=ARABCAT-PWY ARABCAT-PWY]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22072 22072]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02439 R02439]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ribulokinase}}
+{{#set: ec number=EC-2.7.1.16}}
+{{#set: gene associated=Tiso_gene_16670}}
+{{#set: in pathway=ARABCAT-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

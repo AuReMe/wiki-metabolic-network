@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-GLT-tRNAs Charged-GLT-tRNAs] ==
+* common name:
+** an L-glutamyl-[tRNAGlu]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[GLUTRNAREDUCT-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[GLURS-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-glutamyl-[tRNAGlu]}}
+{{#set: consumed by=GLUTRNAREDUCT-RXN}}
+{{#set: produced by=GLURS-RXN}}

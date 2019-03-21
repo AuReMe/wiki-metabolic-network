@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ALANINE-VALINESYN-PWY ALANINE-VALINESYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-alanine biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[ALARACECAT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20278]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[BRANCHED-CHAINAMINOTRANSFERVAL-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18403]]
+*** [[Tiso_gene_14984]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=VALINE-PYRUVATE-AMINOTRANSFER-RXN VALINE-PYRUVATE-AMINOTRANSFER-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=ALANINE-VALINESYN-PWY ALANINE-VALINESYN-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-alanine biosynthesis I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

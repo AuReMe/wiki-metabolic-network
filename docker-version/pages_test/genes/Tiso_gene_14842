@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14842 ==
+* right end position:
+** 1546
+* transcription direction:
+** POSITIVE
+* left end position:
+** 40
+* centisome position:
+** 0.74142724    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMINESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLNSYN-PWY]]
+* [[PWY-5675]]
+* [[PWY-381]]
+* [[PWY-6549]]
+* [[PWY-6964]]
+* [[PWY490-3]]
+* [[PWY-6963]]
+== External links  ==
+{{#set: right end position=1546}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=40}}
+{{#set: centisome position=0.74142724    }}
+{{#set: reaction associated=GLUTAMINESYN-RXN}}
+{{#set: pathway associated=GLNSYN-PWY|PWY-5675|PWY-381|PWY-6549|PWY-6964|PWY490-3|PWY-6963}}

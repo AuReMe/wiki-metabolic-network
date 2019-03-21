@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6370 PWY-6370] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+* common name:
+** ascorbate recycling (cytosolic)
+* Synonym(s):
+** vitamin C recycling (cytosolic)
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[1.6.5.4-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2478]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-10981]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-3523]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.8.5.1-RXN 1.8.5.1-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10980 RXN-10980]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-3522 RXN-3522]
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00053 map00053]
+{{#set: taxonomic range=TAX-7742}}
+{{#set: common name=ascorbate recycling (cytosolic)}}
+{{#set: common name=vitamin C recycling (cytosolic)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

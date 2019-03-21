@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7295 PWY-7295] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** L-arabinose degradation IV
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''8''' reactions in the full pathway
+* [[GLYCOLATE-REDUCTASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_91]]
+*** [[Tiso_gene_777]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[MALSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14377]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14809]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.1.2.18-RXN 4.1.2.18-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=L-ARABINONATE-DEHYDRATASE-RXN L-ARABINONATE-DEHYDRATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=L-ARABINONOLACTONASE-RXN L-ARABINONOLACTONASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14642 RXN-14642]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8774 RXN-8774]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=L-arabinose degradation IV}}
+{{#set: reaction found=3}}
+{{#set: total reaction=8}}
+{{#set: completion rate=38.0}}

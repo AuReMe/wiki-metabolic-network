@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18918 ==
+* right end position:
+** 2714
+* transcription direction:
+** POSITIVE
+* left end position:
+** 616
+* centisome position:
+** 22.672064    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NITRATE-REDUCTASE-NADH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-381]]
+== External links  ==
+{{#set: right end position=2714}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=616}}
+{{#set: centisome position=22.672064    }}
+{{#set: reaction associated=NITRATE-REDUCTASE-NADH-RXN}}
+{{#set: pathway associated=PWY-381}}

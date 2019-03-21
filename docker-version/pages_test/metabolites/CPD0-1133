@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-1133 CPD0-1133] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(O)C(O1)OC2(C(O)C(O)C(OC(CO)2)OC3(C(O)C(O)C(OC(CO)3)OC7(C(O)C(O)C(OC6(C(O)C(O)C(OC4(C(O)C(O)C(OC(CO)4)OC5(C(O)C(O)C(O)OC(CO)5)))OC(CO)6))OC(CO)7))))
+* common name:
+** maltoheptaose
+* inchi key:
+** InChIKey=BNABBHGYYMZMOA-QJBBZCPBSA-N
+* molecular weight:
+** 1153.009    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14286]]
+* [[RXN-14283]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?G00689 G00689]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61954 61954]
+* METABOLIGHTS : MTBLC61954
+* BIGG : malthp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=13908996 13908996]
+{{#set: smiles=C(O)C1(C(O)C(O)C(O)C(O1)OC2(C(O)C(O)C(OC(CO)2)OC3(C(O)C(O)C(OC(CO)3)OC7(C(O)C(O)C(OC6(C(O)C(O)C(OC4(C(O)C(O)C(OC(CO)4)OC5(C(O)C(O)C(O)OC(CO)5)))OC(CO)6))OC(CO)7))))}}
+{{#set: common name=maltoheptaose}}
+{{#set: inchi key=InChIKey=BNABBHGYYMZMOA-QJBBZCPBSA-N}}
+{{#set: molecular weight=1153.009    }}
+{{#set: consumed by=RXN-14286|RXN-14283}}

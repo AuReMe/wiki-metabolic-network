@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7214 PWY-7214] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** baicalein degradation (hydrogen peroxide detoxification)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN-14240]]
+** 11 associated gene(s):
+*** [[Tiso_gene_17551]]
+*** [[Tiso_gene_19683]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_9359]]
+*** [[Tiso_gene_7067]]
+*** [[Tiso_gene_20206]]
+*** [[Tiso_gene_16028]]
+*** [[Tiso_gene_15962]]
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_15820]]
+*** [[Tiso_gene_6431]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11760 RXN-11760]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=baicalein degradation (hydrogen peroxide detoxification)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13227 CPD-13227] ==
+* smiles:
+** CC(=O)NC1(C(O)OC(CO)C(C(O)1)OC2(C(NC(C)=O)C(O)C(C(CO)O2)OC3(OC(C(O)C(O)C(NC(C)=O)3)CO)))
+* common name:
+** N,N',N''-triacetylchitotriose
+* inchi key:
+** InChIKey=WZZVUHWLNMNWLW-MEWKLCDLSA-N
+* molecular weight:
+** 627.598    
+* Synonym(s):
+** triacetylchitotriose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12626]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10930193 10930193]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.392429.html 392429]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71404 71404]
+{{#set: smiles=CC(=O)NC1(C(O)OC(CO)C(C(O)1)OC2(C(NC(C)=O)C(O)C(C(CO)O2)OC3(OC(C(O)C(O)C(NC(C)=O)3)CO)))}}
+{{#set: common name=N,N',N''-triacetylchitotriose}}
+{{#set: inchi key=InChIKey=WZZVUHWLNMNWLW-MEWKLCDLSA-N}}
+{{#set: molecular weight=627.598    }}
+{{#set: common name=triacetylchitotriose}}
+{{#set: consumed by=RXN-12626}}

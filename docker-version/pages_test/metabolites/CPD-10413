@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10413 CPD-10413] ==
+* smiles:
+** C1(=C(C=CC(O)=C1)C2(C(O)CC3(C(O2)=CC(O)=CC(O)=3)))
+* common name:
+** (-)-epiafzelechin
+* inchi key:
+** InChIKey=RSYUFYQTACJFML-UKRRQHHQSA-N
+* molecular weight:
+** 274.273    
+* Synonym(s):
+** 2,3-cis-epiafzelechin
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9724]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=443639 443639]
+* HMDB : HMDB30822
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C12128 C12128]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.391781.html 391781]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=31028 31028]
+* METABOLIGHTS : MTBLC31028
+{{#set: smiles=C1(=C(C=CC(O)=C1)C2(C(O)CC3(C(O2)=CC(O)=CC(O)=3)))}}
+{{#set: common name=(-)-epiafzelechin}}
+{{#set: inchi key=InChIKey=RSYUFYQTACJFML-UKRRQHHQSA-N}}
+{{#set: molecular weight=274.273    }}
+{{#set: common name=2,3-cis-epiafzelechin}}
+{{#set: produced by=RXN-9724}}

@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18105 ==
+* right end position:
+** 2865
+* transcription direction:
+** POSITIVE
+* left end position:
+** 116
+* centisome position:
+** 3.5703294    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.6.3.50-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=2865}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=116}}
+{{#set: centisome position=3.5703294    }}
+{{#set: reaction associated=3.6.3.50-RXN|ATPASE-RXN|ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

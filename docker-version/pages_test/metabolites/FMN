@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FMN FMN] ==
+* smiles:
+** CC2(=CC1(N=C3(C(=O)[N-]C(=O)N=C(N(CC(O)C(O)C(O)COP([O-])(=O)[O-])C=1C=C(C)2)3)))
+* common name:
+** FMN
+* inchi key:
+** InChIKey=ANKZYBDXHMZBDK-SCRDCRAPSA-K
+* molecular weight:
+** 453.324    
+* Synonym(s):
+** flavin mononucleotide
+** riboflavin 5'-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[FADSYN-RXN]]
+* [[RXN0-5187]]
+== Reaction(s) known to produce the compound ==
+* [[RIBOFLAVINKIN-RXN]]
+* [[ARPT]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 146-17-8
+* Wikipedia : Flavin_mononucleotide
+* BIGG : fmn
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44229199 44229199]
+* HMDB : HMDB01520
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00061 C00061]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58210 58210]
+* METABOLIGHTS : MTBLC58210
+{{#set: smiles=CC2(=CC1(N=C3(C(=O)[N-]C(=O)N=C(N(CC(O)C(O)C(O)COP([O-])(=O)[O-])C=1C=C(C)2)3)))}}
+{{#set: common name=FMN}}
+{{#set: inchi key=InChIKey=ANKZYBDXHMZBDK-SCRDCRAPSA-K}}
+{{#set: molecular weight=453.324    }}
+{{#set: common name=flavin mononucleotide|riboflavin 5'-phosphate}}
+{{#set: consumed by=FADSYN-RXN|RXN0-5187}}
+{{#set: produced by=RIBOFLAVINKIN-RXN|ARPT}}

@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6505 PWY-6505] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-tryptophan degradation XII (Geobacillus)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''9''' reactions in the full pathway
+* [[1.13.11.6-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10922]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[PWY-5162]]
+** 0 associated gene:
+* [[TRPCAT-PWY]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5654 PWY-5654]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5654 PWY-5654]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-6504 PWY-6504]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-6504 PWY-6504]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-tryptophan degradation XII (Geobacillus)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=9}}
+{{#set: completion rate=33.0}}

@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CHITOBIOSE CHITOBIOSE] ==
+* common name:
+** N,N'-diacetylchitobiose
+* Synonym(s):
+** diacetylchitobiose
+** N-[2-[5-acetylamino-4,6-dihydroxy-2-(hydroxymethyl)tetrahydropyran-3-yl]oxy-4,5-dihyrdoxy-6-(hydroxymethyl)tetrahydropyran-3-yl]acetamide
+** CBS
+** chitobiose
+** 2-(acetylamino)-4-O-[2-(acetylamino)-2-deoxy-&beta;-D-glucopyranosyl]-2-deoxy-&beta;-D-glucopyranose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12625]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12626]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=N,N'-diacetylchitobiose}}
+{{#set: common name=diacetylchitobiose|N-[2-[5-acetylamino-4,6-dihydroxy-2-(hydroxymethyl)tetrahydropyran-3-yl]oxy-4,5-dihyrdoxy-6-(hydroxymethyl)tetrahydropyran-3-yl]acetamide|CBS|chitobiose|2-(acetylamino)-4-O-[2-(acetylamino)-2-deoxy-&beta;-D-glucopyranosyl]-2-deoxy-&beta;-D-glucopyranose}}
+{{#set: consumed by=RXN-12625}}
+{{#set: produced by=RXN-12626}}

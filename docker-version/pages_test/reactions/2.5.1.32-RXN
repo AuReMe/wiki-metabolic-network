@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.5.1.32-RXN 2.5.1.32-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+** PSase
+** geranylgeranyl-diphosphate geranylgeranyltransferase
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[GERANYLGERANYL-PP]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[CPD-464]][c]
+* With common name(s):
+** 2 geranylgeranyl diphosphate[c] '''=>''' 1 diphosphate[c] '''+''' 1 prephytoene diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15914]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6287]], neurosporene biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6287 PWY-6287]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6475]], trans-lycopene biosynthesis II (plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6475 PWY-6475]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22296 22296]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02065 R02065]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P53609 P53609]
+** [http://www.uniprot.org/uniprot/P37295 P37295]
+** [http://www.uniprot.org/uniprot/P22872 P22872]
+** [http://www.uniprot.org/uniprot/P53610 P53610]
+** [http://www.uniprot.org/uniprot/P53612 P53612]
+** [http://www.uniprot.org/uniprot/P17056 P17056]
+** [http://www.uniprot.org/uniprot/P49293 P49293]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=PSase|geranylgeranyl-diphosphate geranylgeranyltransferase}}
+{{#set: gene associated=Tiso_gene_15914}}
+{{#set: in pathway=PWY-6287|PWY-6475}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

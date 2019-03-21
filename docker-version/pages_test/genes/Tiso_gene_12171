@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12171 ==
+* right end position:
+** 6922
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1674
+* centisome position:
+** 23.127935    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TYROSINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=6922}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1674}}
+{{#set: centisome position=23.127935    }}
+{{#set: reaction associated=TYROSINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

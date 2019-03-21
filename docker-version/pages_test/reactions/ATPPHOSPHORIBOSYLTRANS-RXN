@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ATPPHOSPHORIBOSYLTRANS-RXN ATPPHOSPHORIBOSYLTRANS-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.2.17 EC-2.4.2.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PPI]][c] '''+''' 1 [[PHOSPHORIBOSYL-ATP]][c] '''<=>''' 1 [[PRPP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ATP]][c]
+* With common name(s):
+** 1 diphosphate[c] '''+''' 1 1-(5-phospho-&beta;-D-ribosyl)-ATP[c] '''<=>''' 1 5-phospho-&alpha;-D-ribose 1-diphosphate[c] '''+''' 1 H+[c] '''+''' 1 ATP[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[HISTSYN-PWY]], L-histidine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=HISTSYN-PWY HISTSYN-PWY]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18473 18473]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01071 R01071]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9X0D2 Q9X0D2]
+** [http://www.uniprot.org/uniprot/Q58601 Q58601]
+** [http://www.uniprot.org/uniprot/O34520 O34520]
+** [http://www.uniprot.org/uniprot/Q9RUE2 Q9RUE2]
+** [http://www.uniprot.org/uniprot/P64347 P64347]
+** [http://www.uniprot.org/uniprot/Q9PM78 Q9PM78]
+** [http://www.uniprot.org/uniprot/Q02129 Q02129]
+** [http://www.uniprot.org/uniprot/P43853 P43853]
+** [http://www.uniprot.org/uniprot/O67543 O67543]
+** [http://www.uniprot.org/uniprot/P40373 P40373]
+** [http://www.uniprot.org/uniprot/P46586 P46586]
+** [http://www.uniprot.org/uniprot/Q55503 Q55503]
+** [http://www.uniprot.org/uniprot/Q9S762 Q9S762]
+** [http://www.uniprot.org/uniprot/P00498 P00498]
+** [http://www.uniprot.org/uniprot/P00499 P00499]
+** [http://www.uniprot.org/uniprot/P60757 P60757]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.4.2.17}}
+{{#set: in pathway=HISTSYN-PWY}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

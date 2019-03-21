@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=4-hydroxybenzoate 4-hydroxybenzoate] ==
+* smiles:
+** C(C1(C=CC(=CC=1)O))(=O)[O-]
+* common name:
+** 4-hydroxybenzoate
+* inchi key:
+** InChIKey=FJKROLUGYXJWQN-UHFFFAOYSA-M
+* molecular weight:
+** 137.115    
+* Synonym(s):
+** p-hydroxybenzoate
+
+== Reaction(s) known to consume the compound ==
+* [[4OHBENZOATE-OCTAPRENYLTRANSFER-RXN]]
+* [[RXN-9003]]
+* [[2.5.1.39-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 99-96-7
+* BIGG : 4hbz
+* DRUGBANK : DB04242
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=135 135]
+* HMDB : HMDB00500
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00156 C00156]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.132.html 132]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=30763 30763]
+* METABOLIGHTS : MTBLC17879
+{{#set: smiles=C(C1(C=CC(=CC=1)O))(=O)[O-]}}
+{{#set: common name=4-hydroxybenzoate}}
+{{#set: inchi key=InChIKey=FJKROLUGYXJWQN-UHFFFAOYSA-M}}
+{{#set: molecular weight=137.115    }}
+{{#set: common name=p-hydroxybenzoate}}
+{{#set: consumed by=4OHBENZOATE-OCTAPRENYLTRANSFER-RXN|RXN-9003|2.5.1.39-RXN}}

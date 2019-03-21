@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-oxo-cerotoyl-ACPs 3-oxo-cerotoyl-ACPs] ==
+* common name:
+** a 3-oxo-cerotoyl-[acp]
+* Synonym(s):
+** a 3-oxo-cerotoyl [acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10060]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10059]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-cerotoyl-[acp]}}
+{{#set: common name=a 3-oxo-cerotoyl [acyl-carrier-protein]}}
+{{#set: consumed by=RXN-10060}}
+{{#set: produced by=RXN-10059}}

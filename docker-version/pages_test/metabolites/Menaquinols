@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Menaquinols Menaquinols] ==
+* common name:
+** a menaquinol
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14107]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5254]]
+* [[RXN-15740]]
+* [[RXN0-6554]]
+* [[RXN-11046]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a menaquinol}}
+{{#set: consumed by=RXN-14107}}
+{{#set: produced by=RXN0-5254|RXN-15740|RXN0-6554|RXN-11046}}

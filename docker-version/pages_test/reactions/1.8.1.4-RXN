@@ -1,0 +1,85 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.8.1.4-RXN 1.8.1.4-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.8.1.4 EC-1.8.1.4]
+* Synonym(s):
+** E3 component of &alpha;-ketoacid dehydrogenase complexes
+** Diaphorase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Dihydro-Lipoyl-Proteins]][c] '''+''' 1 [[NAD]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[Lipoyl-Protein-N6-lipoyllysine]][c]
+* With common name(s):
+** 1 a [lipoyl-carrier protein] N6-dihydrolipoyl-L-lysine[c] '''+''' 1 NAD+[c] '''=>''' 1 H+[c] '''+''' 1 NADH[c] '''+''' 1 a [lipoyl-carrier protein]-N6-lipoyl-L-lysine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9330]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=33059 33059]
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15045 15045]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R08550 R08550]
+** [http://www.genome.jp/dbget-bin/www_bget?R07618 R07618]
+** [http://www.genome.jp/dbget-bin/www_bget?R03815 R03815]
+** [http://www.genome.jp/dbget-bin/www_bget?R01698 R01698]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P52992 P52992]
+** [http://www.uniprot.org/uniprot/O00087 O00087]
+** [http://www.uniprot.org/uniprot/O17953 O17953]
+** [http://www.uniprot.org/uniprot/O50311 O50311]
+** [http://www.uniprot.org/uniprot/Q41219 Q41219]
+** [http://www.uniprot.org/uniprot/O81413 O81413]
+** [http://www.uniprot.org/uniprot/P75393 P75393]
+** [http://www.uniprot.org/uniprot/Q9I1M1 Q9I1M1]
+** [http://www.uniprot.org/uniprot/Q7M0Q1 Q7M0Q1]
+** [http://www.uniprot.org/uniprot/Q9JZ09 Q9JZ09]
+** [http://www.uniprot.org/uniprot/Q04933 Q04933]
+** [http://www.uniprot.org/uniprot/P31023 P31023]
+** [http://www.uniprot.org/uniprot/P0A0E8 P0A0E8]
+** [http://www.uniprot.org/uniprot/P31046 P31046]
+** [http://www.uniprot.org/uniprot/P11959 P11959]
+** [http://www.uniprot.org/uniprot/Q48419 Q48419]
+** [http://www.uniprot.org/uniprot/P49819 P49819]
+** [http://www.uniprot.org/uniprot/P47513 P47513]
+** [http://www.uniprot.org/uniprot/Q59299 Q59299]
+** [http://www.uniprot.org/uniprot/P43784 P43784]
+** [http://www.uniprot.org/uniprot/Q9JU06 Q9JU06]
+** [http://www.uniprot.org/uniprot/Q60154 Q60154]
+** [http://www.uniprot.org/uniprot/Q9RRG6 Q9RRG6]
+** [http://www.uniprot.org/uniprot/P21880 P21880]
+** [http://www.uniprot.org/uniprot/P09063 P09063]
+** [http://www.uniprot.org/uniprot/P09623 P09623]
+** [http://www.uniprot.org/uniprot/P09622 P09622]
+** [http://www.uniprot.org/uniprot/P0A9P0 P0A9P0]
+** [http://www.uniprot.org/uniprot/P18925 P18925]
+** [http://www.uniprot.org/uniprot/Q9JZP5 Q9JZP5]
+** [http://www.uniprot.org/uniprot/Q58053 Q58053]
+** [http://www.uniprot.org/uniprot/Q59099 Q59099]
+** [http://www.uniprot.org/uniprot/P35484 P35484]
+** [http://www.uniprot.org/uniprot/Q7M0Y3 Q7M0Y3]
+** [http://www.uniprot.org/uniprot/Q9JUT1 Q9JUT1]
+** [http://www.uniprot.org/uniprot/Q9ZD83 Q9ZD83]
+** [http://www.uniprot.org/uniprot/Q7M0Y4 Q7M0Y4]
+** [http://www.uniprot.org/uniprot/Q9JUT5 Q9JUT5]
+** [http://www.uniprot.org/uniprot/Q04829 Q04829]
+** [http://www.uniprot.org/uniprot/P31052 P31052]
+** [http://www.uniprot.org/uniprot/Q7M0Y5 Q7M0Y5]
+** [http://www.uniprot.org/uniprot/P09624 P09624]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.8.1.4}}
+{{#set: common name=E3 component of &alpha;-ketoacid dehydrogenase complexes|Diaphorase}}
+{{#set: gene associated=Tiso_gene_9330}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

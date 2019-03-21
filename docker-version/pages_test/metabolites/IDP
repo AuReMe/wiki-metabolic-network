@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=IDP IDP] ==
+* smiles:
+** C(OP(=O)([O-])OP([O-])(=O)[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC=NC=23)))
+* common name:
+** IDP
+* inchi key:
+** InChIKey=JPXZQMKKFWMMGK-KQYNXXCUSA-K
+* molecular weight:
+** 425.165    
+* Synonym(s):
+** riboxin
+** inosine diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[ATIDm]]
+* [[RXN-14003]]
+* [[ATID]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5073]]
+* [[ITUP]]
+* [[ITCY]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14120]]
+== External links  ==
+* CAS : 86-04-4
+* BIGG : idp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7156952 7156952]
+* HMDB : HMDB03335
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00104 C00104]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3279691.html 3279691]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58280 58280]
+* METABOLIGHTS : MTBLC58280
+{{#set: smiles=C(OP(=O)([O-])OP([O-])(=O)[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC=NC=23)))}}
+{{#set: common name=IDP}}
+{{#set: inchi key=InChIKey=JPXZQMKKFWMMGK-KQYNXXCUSA-K}}
+{{#set: molecular weight=425.165    }}
+{{#set: common name=riboxin|inosine diphosphate}}
+{{#set: consumed by=ATIDm|RXN-14003|ATID}}
+{{#set: produced by=RXN0-5073|ITUP|ITCY}}
+{{#set: reversible reaction associated=RXN-14120}}

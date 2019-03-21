@@ -1,0 +1,40 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14122 ==
+* right end position:
+** 4894
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2133
+* centisome position:
+** 36.580345    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.52-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12625]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-12626]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-18082]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5226]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7822]]
+* [[PWY-6902]]
+* [[PWY0-1261]]
+== External links  ==
+{{#set: right end position=4894}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2133}}
+{{#set: centisome position=36.580345    }}
+{{#set: reaction associated=3.2.1.52-RXN|RXN-12625|RXN-12626|RXN-18082|RXN0-5226}}
+{{#set: pathway associated=PWY-7822|PWY-6902|PWY0-1261}}

@@ -1,0 +1,66 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NADH-DEHYDROGENASE-RXN NADH-DEHYDROGENASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** selenophosphate_synthetase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.6.99.3 EC-1.6.99.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Acceptor]][c] '''<=>''' 1 [[Donor-H2]][c] '''+''' 1 [[NAD]][c]
+* With common name(s):
+** 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 an oxidized electron acceptor[c] '''<=>''' 1 a reduced electron acceptor[c] '''+''' 1 NAD+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5668]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5669]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11356 11356]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00281 R00281]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P21301 P21301]
+** [http://www.uniprot.org/uniprot/O05267 O05267]
+** [http://www.uniprot.org/uniprot/P04394 P04394]
+** [http://www.uniprot.org/uniprot/P80861 P80861]
+** [http://www.uniprot.org/uniprot/P44856 P44856]
+** [http://www.uniprot.org/uniprot/P00393 P00393]
+** [http://www.uniprot.org/uniprot/P52504 P52504]
+** [http://www.uniprot.org/uniprot/O75380 O75380]
+** [http://www.uniprot.org/uniprot/Q7M2F7 Q7M2F7]
+** [http://www.uniprot.org/uniprot/Q7M2F8 Q7M2F8]
+** [http://www.uniprot.org/uniprot/Q7M2G8 Q7M2G8]
+** [http://www.uniprot.org/uniprot/Q7M2F9 Q7M2F9]
+** [http://www.uniprot.org/uniprot/Q7M2G0 Q7M2G0]
+** [http://www.uniprot.org/uniprot/Q7M2G1 Q7M2G1]
+** [http://www.uniprot.org/uniprot/Q7M2G2 Q7M2G2]
+** [http://www.uniprot.org/uniprot/Q7M2G3 Q7M2G3]
+** [http://www.uniprot.org/uniprot/Q7M2G4 Q7M2G4]
+** [http://www.uniprot.org/uniprot/Q7M2G7 Q7M2G7]
+** [http://www.uniprot.org/uniprot/P23934 P23934]
+** [http://www.uniprot.org/uniprot/P42116 P42116]
+** [http://www.uniprot.org/uniprot/P73739 P73739]
+** [http://www.uniprot.org/uniprot/P74614 P74614]
+** [http://www.uniprot.org/uniprot/Q35322 Q35322]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=selenophosphate_synthetase}}
+{{#set: ec number=EC-1.6.99.3}}
+{{#set: gene associated=Tiso_gene_5668|Tiso_gene_5669}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

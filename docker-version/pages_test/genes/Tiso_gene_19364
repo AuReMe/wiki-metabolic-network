@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19364 ==
+* right end position:
+** 2255
+* transcription direction:
+** POSITIVE
+* left end position:
+** 683
+* centisome position:
+** 28.60134    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HEME-OXYGENASE-DECYCLIZING-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5874]]
+== External links  ==
+{{#set: right end position=2255}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=683}}
+{{#set: centisome position=28.60134    }}
+{{#set: reaction associated=HEME-OXYGENASE-DECYCLIZING-RXN}}
+{{#set: pathway associated=PWY-5874}}

@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7953 CPD-7953] ==
+* smiles:
+** CC(=CC=CC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(C=CC1(C(CCCC=1C)(C)C))C)C)C)C)C)C
+* common name:
+** torulene
+* inchi key:
+** InChIKey=AIBOHNYYKWYQMM-IQKLXLPLSA-N
+* molecular weight:
+** 534.867    
+* Synonym(s):
+** 3',4'-didehydro-&beta;,&psi;-carotene
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11989]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10218186 10218186]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8393678.html 8393678]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=9638 9638]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08613 C08613]
+{{#set: smiles=CC(=CC=CC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(C=CC1(C(CCCC=1C)(C)C))C)C)C)C)C)C}}
+{{#set: common name=torulene}}
+{{#set: inchi key=InChIKey=AIBOHNYYKWYQMM-IQKLXLPLSA-N}}
+{{#set: molecular weight=534.867    }}
+{{#set: common name=3',4'-didehydro-&beta;,&psi;-carotene}}
+{{#set: consumed by=RXN-11989}}

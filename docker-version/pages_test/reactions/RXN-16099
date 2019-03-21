@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16099 RXN-16099] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** delta-8_desaturase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.19.4 EC-1.14.19.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[PROTON]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[CPD-17351]][c] '''+''' 2 [[FERROCYTOCHROME-B5]][c] '''=>''' 1 [[CPD-17283]][c] '''+''' 2 [[WATER]][c] '''+''' 2 [[FERRICYTOCHROME-B5]][c]
+* With common name(s):
+** 2 H+[c] '''+''' 1 oxygen[c] '''+''' 1 a [glycerolipid]-(11Z,14Z)-icosa-11,14-dienoate[c] '''+''' 2 a ferrocytochrome b5[c] '''=>''' 1 a [glycerolipid]-di-homo-&gamma;-linolenate[c] '''+''' 2 H2O[c] '''+''' 2 a ferricytochrome b5[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5024]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-7601]], arachidonate biosynthesis IV (8-detaturase, lower eukaryotes): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7601 PWY-7601]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=delta-8_desaturase}}
+{{#set: ec number=EC-1.14.19.4}}
+{{#set: gene associated=Tiso_gene_5024}}
+{{#set: in pathway=PWY-7601}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

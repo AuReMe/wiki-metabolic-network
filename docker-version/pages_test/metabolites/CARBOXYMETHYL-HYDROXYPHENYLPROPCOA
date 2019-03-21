@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CARBOXYMETHYL-HYDROXYPHENYLPROPCOA CARBOXYMETHYL-HYDROXYPHENYLPROPCOA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(C(CC([O-])=O)C(O)C1(=CC=CC=C1))=O)COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]
+* common name:
+** 2-carboxymethyl-3-hydroxyphenylpropanoyl-CoA
+* inchi key:
+** InChIKey=DVSQFPLMOLPRDU-ACXVELPGSA-I
+* molecular weight:
+** 968.692    
+* Synonym(s):
+** (hydroxymethylphenyl)succinyl-CoA
+** 2-carboxymethyl-3-hydroxyphenylpropionyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-905]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658758 90658758]
+* HMDB : HMDB12145
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28202 28202]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C09819 C09819]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(C(CC([O-])=O)C(O)C1(=CC=CC=C1))=O)COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]}}
+{{#set: common name=2-carboxymethyl-3-hydroxyphenylpropanoyl-CoA}}
+{{#set: inchi key=InChIKey=DVSQFPLMOLPRDU-ACXVELPGSA-I}}
+{{#set: molecular weight=968.692    }}
+{{#set: common name=(hydroxymethylphenyl)succinyl-CoA|2-carboxymethyl-3-hydroxyphenylpropionyl-CoA}}
+{{#set: consumed by=RXN-905}}

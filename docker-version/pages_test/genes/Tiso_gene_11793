@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11793 ==
+* right end position:
+** 7522
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5188
+* centisome position:
+** 68.94353    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.2.1.25-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[1.2.4.4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[2.3.1.168-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[2KETO-3METHYLVALERATE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DHRT_2mbcoa]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DHRT_ibcoa]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-7719]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5046]]
+* [[VALDEG-PWY]]
+* [[ILEUDEG-PWY]]
+* [[PWY-5108]]
+== External links  ==
+{{#set: right end position=7522}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5188}}
+{{#set: centisome position=68.94353    }}
+{{#set: reaction associated=1.2.1.25-RXN|1.2.4.4-RXN|2.3.1.168-RXN|2KETO-3METHYLVALERATE-RXN|DHRT_2mbcoa|DHRT_ibcoa|RXN-7719}}
+{{#set: pathway associated=PWY-5046|VALDEG-PWY|ILEUDEG-PWY|PWY-5108}}

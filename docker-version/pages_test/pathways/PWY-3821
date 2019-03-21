@@ -1,0 +1,57 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3821 PWY-3821] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** D-galactose degradation III
+* Synonym(s):
+** UDP-D-galatose biosynthesis (from D-galactose)
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[GALACTOKIN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_11795]]
+*** [[Tiso_gene_12191]]
+*** [[Tiso_gene_5041]]
+*** [[Tiso_gene_10797]]
+*** [[Tiso_gene_5042]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[UDPGLUCEPIM-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9823]]
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3236]]
+*** [[Tiso_gene_10797]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[UTPHEXPURIDYLYLTRANS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_9110]]
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_14796]]
+*** [[Tiso_gene_17566]]
+*** [[Tiso_gene_6458]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-3821 PWY-3821]
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=D-galactose degradation III}}
+{{#set: common name=UDP-D-galatose biosynthesis (from D-galactose)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

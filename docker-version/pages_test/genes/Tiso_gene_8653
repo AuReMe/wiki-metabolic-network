@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8653 ==
+* right end position:
+** 5209
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2429
+* centisome position:
+** 24.270584    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[IPPISOM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6174]]
+* [[PWY-922]]
+* [[PWY-6859]]
+* [[NONMEVIPP-PWY]]
+* [[PWY-7102]]
+* [[PWY-7391]]
+* [[PWY-5123]]
+* [[PWY-7560]]
+* [[PWY-6383]]
+* [[PWY-7524]]
+== External links  ==
+{{#set: right end position=5209}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2429}}
+{{#set: centisome position=24.270584    }}
+{{#set: reaction associated=IPPISOM-RXN}}
+{{#set: pathway associated=PWY-6174|PWY-922|PWY-6859|NONMEVIPP-PWY|PWY-7102|PWY-7391|PWY-5123|PWY-7560|PWY-6383|PWY-7524}}

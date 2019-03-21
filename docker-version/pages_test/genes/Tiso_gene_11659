@@ -1,0 +1,46 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11659 ==
+* right end position:
+** 7408
+* transcription direction:
+** POSITIVE
+* left end position:
+** 103
+* centisome position:
+** 1.3492272    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[H2PTERIDINEPYROPHOSPHOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[H2PTEROATESYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[R00939]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-14226]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-15733]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6148]]
+* [[PWY-7539]]
+* [[PWY-6614]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: right end position=7408}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=103}}
+{{#set: centisome position=1.3492272    }}
+{{#set: reaction associated=H2PTERIDINEPYROPHOSPHOKIN-RXN|H2PTEROATESYNTH-RXN|R00939|RXN-14226|RXN-15733}}
+{{#set: pathway associated=PWY-6148|PWY-7539|PWY-6614|PWY-6797|PWY-6147}}

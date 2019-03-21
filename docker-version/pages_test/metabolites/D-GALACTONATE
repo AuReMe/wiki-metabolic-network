@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-GALACTONATE D-GALACTONATE] ==
+* smiles:
+** C(O)C(O)C(O)C(O)C(O)C(=O)[O-]
+* common name:
+** D-galactonate
+* inchi key:
+** InChIKey=RGHNJXZEOKUKBD-MGCNEYSASA-M
+* molecular weight:
+** 195.149    
+* Synonym(s):
+** galactonate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[GALACTONOLACTONASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5461127 5461127]
+* HMDB : HMDB00565
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00880 C00880]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4574468.html 4574468]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=12931 12931]
+* BIGG : galctn__D
+{{#set: smiles=C(O)C(O)C(O)C(O)C(O)C(=O)[O-]}}
+{{#set: common name=D-galactonate}}
+{{#set: inchi key=InChIKey=RGHNJXZEOKUKBD-MGCNEYSASA-M}}
+{{#set: molecular weight=195.149    }}
+{{#set: common name=galactonate}}
+{{#set: produced by=GALACTONOLACTONASE-RXN}}

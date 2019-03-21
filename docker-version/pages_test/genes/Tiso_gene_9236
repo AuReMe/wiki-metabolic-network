@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9236 ==
+* right end position:
+** 7286
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4241
+* centisome position:
+** 44.675022    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY66-367]]
+* [[PWY-6174]]
+* [[PWY-922]]
+* [[PWY-7391]]
+* [[PWY-7571]]
+* [[PWY-7524]]
+== External links  ==
+{{#set: right end position=7286}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4241}}
+{{#set: centisome position=44.675022    }}
+{{#set: reaction associated=HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY66-367|PWY-6174|PWY-922|PWY-7391|PWY-7571|PWY-7524}}

@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8398 ==
+* right end position:
+** 5351
+* transcription direction:
+** POSITIVE
+* left end position:
+** 543
+* centisome position:
+** 5.2749176    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RNA-LIGASE-ATP-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17925]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17926]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17927]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5351}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=543}}
+{{#set: centisome position=5.2749176    }}
+{{#set: reaction associated=RNA-LIGASE-ATP-RXN|RXN-17925|RXN-17926|RXN-17927}}

@@ -1,0 +1,94 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7664 PWY-7664] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** oleate biosynthesis IV (anaerobic)
+* Synonym(s):
+** cis-7-hexadecenoate biosynthesis
+** cis-9-octadecenoate biosynthesis
+** (7Z)-hexadec-7-enoate biosynthesis
+** (9Z)-octadec-9-enoate biosynthesis
+** (7Z)-hexadecenoate biosynthesis
+** (9Z)-octadecenoate biosynthesis
+
+== Reaction(s) found ==
+ '''10''' reactions found over '''14''' reactions in the full pathway
+* [[RXN-16615]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5939]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16616]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9885]]
+*** [[Tiso_gene_13083]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16619]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6884]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-16621]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5939]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-16622]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9885]]
+*** [[Tiso_gene_13083]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-16623]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6884]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-16625]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5939]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-16626]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9885]]
+*** [[Tiso_gene_13083]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16627]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6884]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-9533]]
+** 6 associated gene(s):
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_6884]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16614 RXN-16614]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16620 RXN-16620]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16624 RXN-16624]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16628 RXN-16628]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=oleate biosynthesis IV (anaerobic)}}
+{{#set: common name=cis-7-hexadecenoate biosynthesis|cis-9-octadecenoate biosynthesis|(7Z)-hexadec-7-enoate biosynthesis|(9Z)-octadec-9-enoate biosynthesis|(7Z)-hexadecenoate biosynthesis|(9Z)-octadecenoate biosynthesis}}
+{{#set: reaction found=10}}
+{{#set: total reaction=14}}
+{{#set: completion rate=71.0}}

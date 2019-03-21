@@ -1,0 +1,70 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.63-RXN 2.1.1.63-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** heat_shock_40_kda_protein
+** domain-containing_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.63 EC-2.1.1.63]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DNA-6-O-Methyl-Guanines]][c] '''+''' 1 [[PROT-CYS]][c] '''=>''' 1 [[DNA-Guanines]][c] '''+''' 1 [[Protein-S-methyl-L-cysteine]][c]
+* With common name(s):
+** 1 an O6-methylguanine in DNA[c] '''+''' 1 a [protein]-L-cysteine[c] '''=>''' 1 a guanine in DNA[c] '''+''' 1 a [protein]-S-methyl-L-cysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12732]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12990]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04314 R04314]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P26187 P26187]
+** [http://www.uniprot.org/uniprot/O67467 O67467]
+** [http://www.uniprot.org/uniprot/Q9V1N7 Q9V1N7]
+** [http://www.uniprot.org/uniprot/O26715 O26715]
+** [http://www.uniprot.org/uniprot/O27970 O27970]
+** [http://www.uniprot.org/uniprot/Q9ZLG2 Q9ZLG2]
+** [http://www.uniprot.org/uniprot/O25387 O25387]
+** [http://www.uniprot.org/uniprot/O59499 O59499]
+** [http://www.uniprot.org/uniprot/Q9PP87 Q9PP87]
+** [http://www.uniprot.org/uniprot/Q9KKT3 Q9KKT3]
+** [http://www.uniprot.org/uniprot/P44687 P44687]
+** [http://www.uniprot.org/uniprot/O83177 O83177]
+** [http://www.uniprot.org/uniprot/Q58924 Q58924]
+** [http://www.uniprot.org/uniprot/P0A696 P0A696]
+** [http://www.uniprot.org/uniprot/Q9WZY9 Q9WZY9]
+** [http://www.uniprot.org/uniprot/P52982 P52982]
+** [http://www.uniprot.org/uniprot/Q9ZBT7 Q9ZBT7]
+** [http://www.uniprot.org/uniprot/Q9ZBF1 Q9ZBF1]
+** [http://www.uniprot.org/uniprot/O74023 O74023]
+** [http://www.uniprot.org/uniprot/P11742 P11742]
+** [http://www.uniprot.org/uniprot/P19220 P19220]
+** [http://www.uniprot.org/uniprot/P26188 P26188]
+** [http://www.uniprot.org/uniprot/P0AFH0 P0AFH0]
+** [http://www.uniprot.org/uniprot/P16455 P16455]
+** [http://www.uniprot.org/uniprot/P24528 P24528]
+** [http://www.uniprot.org/uniprot/P26189 P26189]
+** [http://www.uniprot.org/uniprot/P06134 P06134]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=heat_shock_40_kda_protein}}
+{{#set: common name=domain-containing_protein}}
+{{#set: ec number=EC-2.1.1.63}}
+{{#set: gene associated=Tiso_gene_12732|Tiso_gene_12990}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

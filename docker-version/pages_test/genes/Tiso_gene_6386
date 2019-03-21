@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6386 ==
+* right end position:
+** 6737
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3772
+* centisome position:
+** 19.049543    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-7978]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5945]]
+== External links  ==
+{{#set: right end position=6737}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3772}}
+{{#set: centisome position=19.049543    }}
+{{#set: reaction associated=RXN-7978}}
+{{#set: pathway associated=PWY-5945}}

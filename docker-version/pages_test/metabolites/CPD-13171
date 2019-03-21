@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13171 CPD-13171] ==
+* smiles:
+** CC(=CCCC(=CCCC(=CC=CC(=CC=CC=C(CCC=C(CCC=C(CCC=C(C)C)C)C)C)C)C)C)C
+* inchi key:
+** InChIKey=OVSVTCFNLSGAMM-IQEMYQFOSA-N
+* common name:
+** 15,9'-di-cis-phytofluene
+* molecular weight:
+** 542.93    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12244]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12243]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C19765 C19765]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61990 61990]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=51351778 51351778]
+{{#set: smiles=CC(=CCCC(=CCCC(=CC=CC(=CC=CC=C(CCC=C(CCC=C(CCC=C(C)C)C)C)C)C)C)C)C}}
+{{#set: inchi key=InChIKey=OVSVTCFNLSGAMM-IQEMYQFOSA-N}}
+{{#set: common name=15,9'-di-cis-phytofluene}}
+{{#set: molecular weight=542.93    }}
+{{#set: consumed by=RXN-12244}}
+{{#set: produced by=RXN-12243}}

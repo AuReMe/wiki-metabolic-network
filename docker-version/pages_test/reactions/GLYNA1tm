@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLYNA1tm GLYNA1tm] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Neutral amino acid transporter (gly), mitochondrial
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NA+]][c] '''+''' 1.0 [[GLY]][c] '''<=>''' 1.0 [[NA+]][m] '''+''' 1.0 [[GLY]][m]
+* With common name(s):
+** 1.0 Na+[c] '''+''' 1.0 glycine[c] '''<=>''' 1.0 Na+[m] '''+''' 1.0 glycine[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1764]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Neutral amino acid transporter (gly), mitochondrial}}
+{{#set: gene associated=Tiso_gene_1764}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

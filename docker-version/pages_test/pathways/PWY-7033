@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7033 PWY-7033] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** alkane biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-7904]]
+** 9 associated gene(s):
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_9394]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_4191]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13273 RXN-13273]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13281 RXN-13281]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=alkane biosynthesis II}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

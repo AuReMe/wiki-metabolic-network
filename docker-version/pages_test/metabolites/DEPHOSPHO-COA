@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEPHOSPHO-COA DEPHOSPHO-COA] ==
+* smiles:
+** CC(C)(COP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N3(C=NC2(C(N)=NC=NC=23))))C(O)C(=O)NCCC(=O)NCCS
+* common name:
+** 3'-dephospho-CoA
+* inchi key:
+** InChIKey=KDTSHFARGAKYJN-IBOSZNHHSA-L
+* molecular weight:
+** 685.538    
+* Synonym(s):
+** 3-dephospho-CoA
+** dephosphocoenzyme A
+
+== Reaction(s) known to consume the compound ==
+* [[DEPHOSPHOCOAKIN-RXN]]
+* [[ADCPT]]
+== Reaction(s) known to produce the compound ==
+* [[PANTEPADENYLYLTRAN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 3633-59-8
+* BIGG : dpcoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266562 45266562]
+* HMDB : HMDB01373
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00882 C00882]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57328 57328]
+* METABOLIGHTS : MTBLC57328
+{{#set: smiles=CC(C)(COP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N3(C=NC2(C(N)=NC=NC=23))))C(O)C(=O)NCCC(=O)NCCS}}
+{{#set: common name=3'-dephospho-CoA}}
+{{#set: inchi key=InChIKey=KDTSHFARGAKYJN-IBOSZNHHSA-L}}
+{{#set: molecular weight=685.538    }}
+{{#set: common name=3-dephospho-CoA|dephosphocoenzyme A}}
+{{#set: consumed by=DEPHOSPHOCOAKIN-RXN|ADCPT}}
+{{#set: produced by=PANTEPADENYLYLTRAN-RXN}}

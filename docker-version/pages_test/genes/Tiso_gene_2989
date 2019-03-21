@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2989 ==
+* right end position:
+** 17250
+* transcription direction:
+** POSITIVE
+* left end position:
+** 14156
+* centisome position:
+** 79.622025    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[BETA-LACTAMASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=17250}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=14156}}
+{{#set: centisome position=79.622025    }}
+{{#set: reaction associated=BETA-LACTAMASE-RXN}}

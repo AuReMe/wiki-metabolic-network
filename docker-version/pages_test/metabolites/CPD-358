@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-358 CPD-358] ==
+* smiles:
+** CC([CH]=O)O
+* common name:
+** (R)-lactaldehyde
+* inchi key:
+** InChIKey=BSABBBMNWQWLLU-GSVOUGTGSA-N
+* molecular weight:
+** 74.079    
+* Synonym(s):
+** D-lactaldehyde
+** D-2-hydroxy-propionaldehyde
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[D-LACTALDEHYDE-DEHYDROGENASE-RXN]]
+== External links  ==
+* BIGG : lald__D
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439350 439350]
+* HMDB : HMDB06458
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00937 C00937]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388473.html 388473]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17167 17167]
+* METABOLIGHTS : MTBLC17167
+{{#set: smiles=CC([CH]=O)O}}
+{{#set: common name=(R)-lactaldehyde}}
+{{#set: inchi key=InChIKey=BSABBBMNWQWLLU-GSVOUGTGSA-N}}
+{{#set: molecular weight=74.079    }}
+{{#set: common name=D-lactaldehyde|D-2-hydroxy-propionaldehyde}}
+{{#set: reversible reaction associated=D-LACTALDEHYDE-DEHYDROGENASE-RXN}}

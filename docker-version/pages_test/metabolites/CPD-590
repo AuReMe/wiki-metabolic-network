@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-590 CPD-590] ==
+* smiles:
+** C3(C(C2(OC1(C=C(C=C(C=1C(C2O)O)O)O)))=CC(O)=C(C=3)O)
+* common name:
+** (2R,3S,4S)-leucocyanidin
+* inchi key:
+** InChIKey=SBZWTSHAFILOTE-SOUVJXGZSA-N
+* molecular weight:
+** 306.271    
+* Synonym(s):
+** 2,3-trans-3,4-cis-leucocyanidin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-602]]
+* [[1.14.11.19-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-600]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=440833 440833]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.389677.html 389677]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=11412 11412]
+* METABOLIGHTS : MTBLC11412
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05906 C05906]
+{{#set: smiles=C3(C(C2(OC1(C=C(C=C(C=1C(C2O)O)O)O)))=CC(O)=C(C=3)O)}}
+{{#set: common name=(2R,3S,4S)-leucocyanidin}}
+{{#set: inchi key=InChIKey=SBZWTSHAFILOTE-SOUVJXGZSA-N}}
+{{#set: molecular weight=306.271    }}
+{{#set: common name=2,3-trans-3,4-cis-leucocyanidin}}
+{{#set: consumed by=RXN-602|1.14.11.19-RXN}}
+{{#set: produced by=RXN-600}}

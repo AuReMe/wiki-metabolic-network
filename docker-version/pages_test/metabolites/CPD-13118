@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13118 CPD-13118] ==
+* smiles:
+** CC4(OC(OP(OP(OCC3(C(C(C(N2(C1(=C(C(NC(=N1)N)=O)N=C2)))O3)O)O))([O-])=O)([O-])=O)C(C(C4O)O)O)
+* common name:
+** GDP-&beta;-L-fucose
+* inchi key:
+** InChIKey=LQEBEXMHBLQMDB-JGQUBWHWSA-L
+* molecular weight:
+** 587.33    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[1.1.1.271-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244478 25244478]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57273 57273]
+{{#set: smiles=CC4(OC(OP(OP(OCC3(C(C(C(N2(C1(=C(C(NC(=N1)N)=O)N=C2)))O3)O)O))([O-])=O)([O-])=O)C(C(C4O)O)O)}}
+{{#set: common name=GDP-&beta;-L-fucose}}
+{{#set: inchi key=InChIKey=LQEBEXMHBLQMDB-JGQUBWHWSA-L}}
+{{#set: molecular weight=587.33    }}
+{{#set: produced by=1.1.1.271-RXN}}

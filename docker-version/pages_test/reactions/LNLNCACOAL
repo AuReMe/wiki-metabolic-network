@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=LNLNCACOAL LNLNCACOAL] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha-Linolenic acid:CoA ligase (AMP-forming)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[LINOLENIC_ACID]][c] '''+''' 1.0 [[ATP]][c] '''+''' 1.0 [[CO-A]][c] '''=>''' 1.0 [[PPI]][c] '''+''' 1.0 [[LINOLENOYL-COA]][c] '''+''' 1.0 [[AMP]][c]
+* With common name(s):
+** 1.0 &alpha;-linolenate[c] '''+''' 1.0 ATP[c] '''+''' 1.0 coenzyme A[c] '''=>''' 1.0 diphosphate[c] '''+''' 1.0 &alpha;-linolenoyl-CoA[c] '''+''' 1.0 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9394]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_12275]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha-Linolenic acid:CoA ligase (AMP-forming)}}
+{{#set: gene associated=Tiso_gene_9394|Tiso_gene_12275}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6703 PWY-6703] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** preQ0 biosynthesis
+* Synonym(s):
+** deazapurine biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[GTP-CYCLOHYDRO-I-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12736]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12093]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10965]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5507 RXN0-5507]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6575 RXN0-6575]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6703 PWY-6703]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=preQ0 biosynthesis}}
+{{#set: common name=deazapurine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

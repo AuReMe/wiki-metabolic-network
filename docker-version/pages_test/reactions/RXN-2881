@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-2881 RXN-2881] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[FORMALDEHYDE]][c] '''+''' 1 [[THF-GLU-N]][c] '''=>''' 1 [[METHYLENE-THF-GLU-N]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 formaldehyde[c] '''+''' 1 a tetrahydrofolate[c] '''=>''' 1 a 5,10-methylene-tetrahydrofolate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-1622]], formaldehyde assimilation I (serine pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-1622 PWY-1622]
+** '''5''' reactions found over '''13''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R09093 R09093]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-1622}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

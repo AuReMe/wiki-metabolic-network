@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=P-NITROPHENOL P-NITROPHENOL] ==
+* smiles:
+** C1(C=C([O-])C=CC=1[N+](=O)[O-])
+* common name:
+** 4-nitrophenol
+* inchi key:
+** InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-M
+* molecular weight:
+** 138.102    
+* Synonym(s):
+** p-nitrophenol
+** PNP
+** niphen
+** 4-hydroxynitrobenzene
+** para-nitrophenol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ARYLDIALKYL-PHOSPHATASE-RXN]]
+* [[4-NITROPHENYLPHOSPHATASE-RXN]]
+* [[RXN-8746]]
+* [[RXN-8743]]
+* [[RXN-17830]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 100-02-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=644235 644235]
+* HMDB : HMDB01232
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00870 C00870]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.559254.html 559254]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57917 57917]
+* METABOLIGHTS : MTBLC57917
+{{#set: smiles=C1(C=C([O-])C=CC=1[N+](=O)[O-])}}
+{{#set: common name=4-nitrophenol}}
+{{#set: inchi key=InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-M}}
+{{#set: molecular weight=138.102    }}
+{{#set: common name=p-nitrophenol|PNP|niphen|4-hydroxynitrobenzene|para-nitrophenol}}
+{{#set: produced by=ARYLDIALKYL-PHOSPHATASE-RXN|4-NITROPHENYLPHOSPHATASE-RXN|RXN-8746|RXN-8743|RXN-17830}}

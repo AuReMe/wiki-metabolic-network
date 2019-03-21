@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8634 ==
+* right end position:
+** 6654
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5840
+* centisome position:
+** 58.086334    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6654}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5840}}
+{{#set: centisome position=58.086334    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|RXN-11201}}

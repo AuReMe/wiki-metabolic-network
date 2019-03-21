@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Gcv-H Gcv-H] ==
+* common name:
+** [glycine cleavage system lipoyl-carrier protein]-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13039]]
+* [[RXN0-1141]]
+* [[RXN-13037]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=[glycine cleavage system lipoyl-carrier protein]-L-lysine}}
+{{#set: consumed by=RXN-13039|RXN0-1141|RXN-13037}}

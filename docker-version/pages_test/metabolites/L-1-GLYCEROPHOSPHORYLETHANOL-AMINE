@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-1-GLYCEROPHOSPHORYLETHANOL-AMINE L-1-GLYCEROPHOSPHORYLETHANOL-AMINE] ==
+* smiles:
+** C(OP([O-])(OCC(CO)O)=O)C[N+]
+* common name:
+** sn-glycero-3-phosphoethanolamine
+* inchi key:
+** InChIKey=JZNWSCPGTDBMEW-RXMQYKEDSA-N
+* molecular weight:
+** 215.142    
+* Synonym(s):
+** L-1-glycerophosphorylethanolamine
+** 1-glycerophosphorylethanolamine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14160]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15035]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01233 C01233]
+* HMDB : HMDB00114
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16929 16929]
+* BIGG : g3pe
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=70678815 70678815]
+{{#set: smiles=C(OP([O-])(OCC(CO)O)=O)C[N+]}}
+{{#set: common name=sn-glycero-3-phosphoethanolamine}}
+{{#set: inchi key=InChIKey=JZNWSCPGTDBMEW-RXMQYKEDSA-N}}
+{{#set: molecular weight=215.142    }}
+{{#set: common name=L-1-glycerophosphorylethanolamine|1-glycerophosphorylethanolamine}}
+{{#set: consumed by=RXN-14160}}
+{{#set: produced by=RXN-15035}}

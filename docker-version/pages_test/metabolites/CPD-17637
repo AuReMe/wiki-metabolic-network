@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17637 CPD-17637] ==
+* smiles:
+** CCCCCC(O)CCCCCC([O-])=O
+* common name:
+** 7-hydroxylaurate
+* inchi key:
+** InChIKey=BNWKMHUFFKDAMV-UHFFFAOYSA-M
+* molecular weight:
+** 215.312    
+* Synonym(s):
+** 7-hydroxydodecanoic acid
+** 7-hydroxylauric acid
+** 7-hydroxydodecanoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12184]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659904 90659904]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=84921 84921]
+{{#set: smiles=CCCCCC(O)CCCCCC([O-])=O}}
+{{#set: common name=7-hydroxylaurate}}
+{{#set: inchi key=InChIKey=BNWKMHUFFKDAMV-UHFFFAOYSA-M}}
+{{#set: molecular weight=215.312    }}
+{{#set: common name=7-hydroxydodecanoic acid|7-hydroxylauric acid|7-hydroxydodecanoate}}
+{{#set: consumed by=RXN-12184}}

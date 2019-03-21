@@ -1,0 +1,81 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=VALINE--TRNA-LIGASE-RXN VALINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.9 EC-6.1.1.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[VAL]][c] '''+''' 1 [[VAL-tRNAs]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[AMP]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[Charged-VAL-tRNAs]][c]
+* With common name(s):
+** 1 L-valine[c] '''+''' 1 a tRNAval[c] '''+''' 1 ATP[c] '''=>''' 1 AMP[c] '''+''' 1 diphosphate[c] '''+''' 1 an L-valyl-[tRNAval][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1372]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8041]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10704 10704]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03665 R03665]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P28350 P28350]
+** [http://www.uniprot.org/uniprot/P36420 P36420]
+** [http://www.uniprot.org/uniprot/P56000 P56000]
+** [http://www.uniprot.org/uniprot/O51680 O51680]
+** [http://www.uniprot.org/uniprot/O67411 O67411]
+** [http://www.uniprot.org/uniprot/O83998 O83998]
+** [http://www.uniprot.org/uniprot/Q9ZCN6 Q9ZCN6]
+** [http://www.uniprot.org/uniprot/Q9Z987 Q9Z987]
+** [http://www.uniprot.org/uniprot/Q9X2D7 Q9X2D7]
+** [http://www.uniprot.org/uniprot/Q9ZK61 Q9ZK61]
+** [http://www.uniprot.org/uniprot/Q9CDP6 Q9CDP6]
+** [http://www.uniprot.org/uniprot/Q58413 Q58413]
+** [http://www.uniprot.org/uniprot/P43834 P43834]
+** [http://www.uniprot.org/uniprot/Q9PPE4 Q9PPE4]
+** [http://www.uniprot.org/uniprot/O84304 O84304]
+** [http://www.uniprot.org/uniprot/P47576 P47576]
+** [http://www.uniprot.org/uniprot/Q94678 Q94678]
+** [http://www.uniprot.org/uniprot/Q04462 Q04462]
+** [http://www.uniprot.org/uniprot/P26640 P26640]
+** [http://www.uniprot.org/uniprot/Q05873 Q05873]
+** [http://www.uniprot.org/uniprot/Q26177 Q26177]
+** [http://www.uniprot.org/uniprot/P75304 P75304]
+** [http://www.uniprot.org/uniprot/Q49021 Q49021]
+** [http://www.uniprot.org/uniprot/P11931 P11931]
+** [http://www.uniprot.org/uniprot/P07806 P07806]
+** [http://www.uniprot.org/uniprot/P07118 P07118]
+** [http://www.uniprot.org/uniprot/O77443 O77443]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-6.1.1.9}}
+{{#set: gene associated=Tiso_gene_1372|Tiso_gene_8041}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

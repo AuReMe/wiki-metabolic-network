@@ -1,0 +1,54 @@
+[[Category:Gene]]
+== Gene Tiso_gene_777 ==
+* right end position:
+** 26194
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 24009
+* centisome position:
+** 83.55607    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[GLYCLTD]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLYCOLATE-REDUCTASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[GLYOXYLATE-REDUCTASE-NADP+-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-6903]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9952]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5289]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-4321]]
+* [[GLUDEG-I-PWY]]
+* [[PWY-7295]]
+* [[OXIDATIVEPENT-PWY]]
+* [[PWY-7294]]
+* [[PWY-5022]]
+* [[PWY-6473]]
+* [[PWY-6535]]
+* [[PWY-5677]]
+* [[GLYCOLATEMET-PWY]]
+== External links  ==
+{{#set: right end position=26194}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=24009}}
+{{#set: centisome position=83.55607    }}
+{{#set: reaction associated=4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN|GLYCLTD|GLYCOLATE-REDUCTASE-RXN|GLYOXYLATE-REDUCTASE-NADP+-RXN|RXN-6903|RXN-9952|RXN0-5289|SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=PWY-4321|GLUDEG-I-PWY|PWY-7295|OXIDATIVEPENT-PWY|PWY-7294|PWY-5022|PWY-6473|PWY-6535|PWY-5677|GLYCOLATEMET-PWY}}

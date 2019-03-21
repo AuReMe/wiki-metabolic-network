@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Oxidized-adrenal-ferredoxins Oxidized-adrenal-ferredoxins] ==
+* common name:
+** an oxidized adrenodoxin
+* Synonym(s):
+** an oxidized adrenal ferredoxin
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9843]]
+* [[RXN-9844]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an oxidized adrenodoxin}}
+{{#set: common name=an oxidized adrenal ferredoxin}}
+{{#set: produced by=RXN-9843|RXN-9844}}

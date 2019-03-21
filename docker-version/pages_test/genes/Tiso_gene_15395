@@ -1,0 +1,44 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15395 ==
+* right end position:
+** 4968
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 109
+* centisome position:
+** 2.1626985    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GALPMUT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[R02984]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[UDP-ARABINOSE-4-EPIMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UDPGLUCEPIM-RXN]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[OANTIGEN-PWY]]
+* [[PWY-3821]]
+* [[PWY-6397]]
+* [[PWY-6317]]
+* [[PWY-63]]
+* [[PWY-6527]]
+* [[PWY-7328]]
+* [[PWY-7622]]
+* [[COLANSYN-PWY]]
+* [[PWY66-422]]
+* [[PWY-7344]]
+== External links  ==
+{{#set: right end position=4968}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=109}}
+{{#set: centisome position=2.1626985    }}
+{{#set: reaction associated=GALPMUT-RXN|R02984|UDP-ARABINOSE-4-EPIMERASE-RXN|UDPGLUCEPIM-RXN}}
+{{#set: pathway associated=OANTIGEN-PWY|PWY-3821|PWY-6397|PWY-6317|PWY-63|PWY-6527|PWY-7328|PWY-7622|COLANSYN-PWY|PWY66-422|PWY-7344}}

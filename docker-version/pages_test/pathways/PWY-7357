@@ -1,0 +1,44 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7357 PWY-7357] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** thiamine formation from pyrithiamine and oxythiamine (yeast)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[PYRIMSYN3-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_16224]]
+*** [[Tiso_gene_17192]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[THI-P-SYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_10320]]
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[THIAZOLSYN3-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3173]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=OHMETPYRKIN-RXN OHMETPYRKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14857 RXN-14857]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14858 RXN-14858]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=thiamine formation from pyrithiamine and oxythiamine (yeast)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

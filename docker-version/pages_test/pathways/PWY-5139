@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5139 PWY-5139] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3398 TAX-3398]
+* common name:
+** pelargonidin conjugates biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-7828]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3452]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7830 RXN-7830]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7832 RXN-7832]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7834 RXN-7834]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7997 RXN-7997]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7998 RXN-7998]
+== External links  ==
+{{#set: taxonomic range=TAX-3398}}
+{{#set: common name=pelargonidin conjugates biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

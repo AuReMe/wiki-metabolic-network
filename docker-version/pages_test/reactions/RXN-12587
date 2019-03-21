@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12587 RXN-12587] ==
+* direction:
+** REVERSIBLE
+* common name:
+** cysteine_desulfurase_for_iron-sulfur_cluster_formation_suf
+** cysteine_mitochondrial
+* ec number:
+** [http://enzyme.expasy.org/EC/2.8.1.7 EC-2.8.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Unsulfurated-Sulfur-Acceptors]][c] '''+''' 1 [[L-Cysteine-Desulfurase-persulfide]][c] '''<=>''' 1 [[Sulfurated-Sulfur-Acceptors]][c] '''+''' 1 [[Cysteine-Desulfurase-L-cysteine]][c]
+* With common name(s):
+** 1 an unsulfurated [sulfur carrier][c] '''+''' 1 an [L-cysteine desulfurase] L-cysteine persulfide[c] '''<=>''' 1 a sulfurated [sulfur carrier][c] '''+''' 1 an [L-cysteine desulfurase]-L-cysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14710]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4284]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=cysteine_desulfurase_for_iron-sulfur_cluster_formation_suf}}
+{{#set: common name=cysteine_mitochondrial}}
+{{#set: ec number=EC-2.8.1.7}}
+{{#set: gene associated=Tiso_gene_14710|Tiso_gene_11478|Tiso_gene_4284}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TREHALOSE-6P TREHALOSE-6P] ==
+* smiles:
+** C(C1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)COP([O-])(=O)[O-])O)O)O)))O
+* common name:
+** &alpha;,&alpha;-trehalose 6-phosphate
+* inchi key:
+** InChIKey=LABSPYBHMPDTEL-LIZSDCNHSA-L
+* molecular weight:
+** 420.263    
+* Synonym(s):
+** &alpha;,&alpha;-D-trehalose 6-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[TREHALOSEPHOSPHA-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[UG6PGT]]
+* [[UG6PGTn]]
+* [[TREHALOSE6PSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 4484-88-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25246105 25246105]
+* HMDB : HMDB01124
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00689 C00689]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58429 58429]
+* BIGG : tre6p
+{{#set: smiles=C(C1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)COP([O-])(=O)[O-])O)O)O)))O}}
+{{#set: common name=&alpha;,&alpha;-trehalose 6-phosphate}}
+{{#set: inchi key=InChIKey=LABSPYBHMPDTEL-LIZSDCNHSA-L}}
+{{#set: molecular weight=420.263    }}
+{{#set: common name=&alpha;,&alpha;-D-trehalose 6-phosphate}}
+{{#set: consumed by=TREHALOSEPHOSPHA-RXN}}
+{{#set: produced by=UG6PGT|UG6PGTn|TREHALOSE6PSYN-RXN}}

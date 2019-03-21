@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DETHIOBIOTIN-SYN-RXN DETHIOBIOTIN-SYN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** adenosylmethionine-8-amino-7-oxononanoate_aminotransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.3.3.3 EC-6.3.3.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[DIAMINONONANOATE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[ADP]][c] '''+''' 1 [[Pi]][c] '''+''' 3 [[PROTON]][c] '''+''' 1 [[DETHIOBIOTIN]][c]
+* With common name(s):
+** 1 CO2[c] '''+''' 1 7,8-diaminopelargonate[c] '''+''' 1 ATP[c] '''=>''' 1 ADP[c] '''+''' 1 phosphate[c] '''+''' 3 H+[c] '''+''' 1 dethiobiotin[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11635]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY0-1507]], biotin biosynthesis from 8-amino-7-oxononanoate I: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1507 PWY0-1507]
+** '''3''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-7380]], biotin biosynthesis from 8-amino-7-oxononanoate II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7380 PWY-7380]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15805 15805]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03182 R03182]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JV95 Q9JV95]
+** [http://www.uniprot.org/uniprot/Q9PIJ1 Q9PIJ1]
+** [http://www.uniprot.org/uniprot/P46397 P46397]
+** [http://www.uniprot.org/uniprot/P22818 P22818]
+** [http://www.uniprot.org/uniprot/P13000 P13000]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=adenosylmethionine-8-amino-7-oxononanoate_aminotransferase}}
+{{#set: ec number=EC-6.3.3.3}}
+{{#set: gene associated=Tiso_gene_11635}}
+{{#set: in pathway=PWY0-1507|PWY-7380}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

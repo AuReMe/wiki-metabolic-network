@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11395 CPD-11395] ==
+* smiles:
+** C(C(CC1(=CC=C(C(=C1)I)OC2(=CC=C(C(I)=C2)O)))[N+])([O-])=O
+* common name:
+** 3,3'-diiodothyronine
+* inchi key:
+** InChIKey=CPCJBZABTUOGNM-LBPRGKRZSA-N
+* molecular weight:
+** 525.081    
+* Synonym(s):
+** O-(4-hydroxy-3-iodophenyl)-3-iodotyrosine
+** 3,3'-T2
+** tyrosine, O-(4-hydroxy-3-iodophenyl)-3-iodo-
+** 2-amino-3-[4-(4-hydroxy-3-iodophenoxy)-3-iodophenyl]propanoic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10604]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237213 44237213]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=45698 45698]
+* METABOLIGHTS : MTBLC45698
+* HMDB : HMDB05869
+{{#set: smiles=C(C(CC1(=CC=C(C(=C1)I)OC2(=CC=C(C(I)=C2)O)))[N+])([O-])=O}}
+{{#set: common name=3,3'-diiodothyronine}}
+{{#set: inchi key=InChIKey=CPCJBZABTUOGNM-LBPRGKRZSA-N}}
+{{#set: molecular weight=525.081    }}
+{{#set: common name=O-(4-hydroxy-3-iodophenyl)-3-iodotyrosine|3,3'-T2|tyrosine, O-(4-hydroxy-3-iodophenyl)-3-iodo-|2-amino-3-[4-(4-hydroxy-3-iodophenoxy)-3-iodophenyl]propanoic acid}}
+{{#set: produced by=RXN-10604}}

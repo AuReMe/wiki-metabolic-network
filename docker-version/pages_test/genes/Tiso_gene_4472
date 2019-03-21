@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4472 ==
+* right end position:
+** 13681
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11910
+* centisome position:
+** 80.45123    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DTDPDEHYRHAMREDUCT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[DTDPRHAMSYN-PWY]]
+== External links  ==
+{{#set: right end position=13681}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11910}}
+{{#set: centisome position=80.45123    }}
+{{#set: reaction associated=DTDPDEHYRHAMREDUCT-RXN}}
+{{#set: pathway associated=DTDPRHAMSYN-PWY}}

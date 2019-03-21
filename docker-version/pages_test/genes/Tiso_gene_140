@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_140 ==
+* right end position:
+** 8330
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6536
+* centisome position:
+** 16.109632    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[QUINOPRIBOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5316]]
+* [[PWY-5653]]
+* [[PYRIDNUCSYN-PWY]]
+* [[PWY-7342]]
+== External links  ==
+{{#set: right end position=8330}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6536}}
+{{#set: centisome position=16.109632    }}
+{{#set: reaction associated=QUINOPRIBOTRANS-RXN}}
+{{#set: pathway associated=PWY-5316|PWY-5653|PYRIDNUCSYN-PWY|PWY-7342}}

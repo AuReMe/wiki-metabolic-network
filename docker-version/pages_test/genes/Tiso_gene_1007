@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1007 ==
+* right end position:
+** 6190
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3470
+* centisome position:
+** 11.509120    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PRPPAMIDOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6121]]
+* [[PWY-6122]]
+* [[PWY-7282]]
+* [[PWY-6277]]
+== External links  ==
+{{#set: right end position=6190}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3470}}
+{{#set: centisome position=11.509120    }}
+{{#set: reaction associated=PRPPAMIDOTRANS-RXN}}
+{{#set: pathway associated=PWY-6121|PWY-6122|PWY-7282|PWY-6277}}

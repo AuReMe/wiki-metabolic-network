@@ -1,0 +1,74 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=REDCITCYC REDCITCYC] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** TCA cycle VIII (helicobacter)
+* Synonym(s):
+** Krebs cycle
+** tricarboxylic acid cycle
+** TCA cycle
+** citric acid cycle
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''9''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[ACONITATEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[CITSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18030]]
+*** [[Tiso_gene_9601]]
+*** [[Tiso_gene_9603]]
+*** [[Tiso_gene_9602]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ISOCITDEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18262]]
+*** [[Tiso_gene_10809]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXNI-2]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6754]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2-OXOGLUTARATE-SYNTHASE-RXN 2-OXOGLUTARATE-SYNTHASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R601-RXN R601-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNI-3 RXNI-3]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=TCA cycle VIII (helicobacter)}}
+{{#set: common name=Krebs cycle|tricarboxylic acid cycle|TCA cycle|citric acid cycle}}
+{{#set: reaction found=6}}
+{{#set: total reaction=9}}
+{{#set: completion rate=67.0}}

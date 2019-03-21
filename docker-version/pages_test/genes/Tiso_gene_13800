@@ -1,0 +1,22 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13800 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMINOCYL-TRNA-HYDROLASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12460]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16637]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY490-4]]
+* [[PWY-6308]]
+== External links  ==
+{{#set: reaction associated=AMINOCYL-TRNA-HYDROLASE-RXN|RXN-12460|RXN-16637}}
+{{#set: pathway associated=PWY490-4|PWY-6308}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9748 ==
+* right end position:
+** 8885
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7857
+* centisome position:
+** 86.321686    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CYSTEAMINE-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5331]]
+== External links  ==
+{{#set: right end position=8885}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7857}}
+{{#set: centisome position=86.321686    }}
+{{#set: reaction associated=CYSTEAMINE-DIOXYGENASE-RXN}}
+{{#set: pathway associated=PWY-5331}}

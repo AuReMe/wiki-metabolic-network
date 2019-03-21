@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11910 ==
+* right end position:
+** 7426
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4613
+* centisome position:
+** 62.111217    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PURINE-NUCLEOSIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14065]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-363]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6596]]
+* [[PWY-7570]]
+* [[PWY-6607]]
+* [[PWY-6606]]
+* [[PWY-6599]]
+* [[PWY-7569]]
+== External links  ==
+{{#set: right end position=7426}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4613}}
+{{#set: centisome position=62.111217    }}
+{{#set: reaction associated=PURINE-NUCLEOSIDASE-RXN|RXN-14065|RXN0-363|RXN0-366}}
+{{#set: pathway associated=PWY-6596|PWY-7570|PWY-6607|PWY-6606|PWY-6599|PWY-7569}}

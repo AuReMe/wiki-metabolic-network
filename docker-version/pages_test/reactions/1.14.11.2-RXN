@@ -1,0 +1,112 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.14.11.2-RXN 1.14.11.2-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** prolyl_4-hydroxylase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.11.2 EC-1.14.11.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROCOLLAGEN-L-PROLINE]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[2-KETOGLUTARATE]][c] '''=>''' 1 [[SUC]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[CPD-6321]][c]
+* With common name(s):
+** 1 a [procollagen]-L-proline[c] '''+''' 1 oxygen[c] '''+''' 1 2-oxoglutarate[c] '''=>''' 1 succinate[c] '''+''' 1 CO2[c] '''+''' 1 a [procollagen] trans 4-hyroxy-L-proline[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4246]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_18689]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18933]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9035]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3021]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13008]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9636]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9165]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6296]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2158]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16122]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9455]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16842]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17823]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18208]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_292]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18145]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9873]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15328]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1468]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2280]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19638]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17593]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18235]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15594]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8652]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17919]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9227]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03219 R03219]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P21195 P21195]
+** [http://www.uniprot.org/uniprot/Q10576 Q10576]
+** [http://www.uniprot.org/uniprot/P16924 P16924]
+** [http://www.uniprot.org/uniprot/P13674 P13674]
+** [http://www.uniprot.org/uniprot/P05307 P05307]
+** [http://www.uniprot.org/uniprot/P09102 P09102]
+** [http://www.uniprot.org/uniprot/P07237 P07237]
+** [http://www.uniprot.org/uniprot/Q922C8 Q922C8]
+** [http://www.uniprot.org/uniprot/P04785 P04785]
+** [http://www.uniprot.org/uniprot/P54001 P54001]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=prolyl_4-hydroxylase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.14.11.2}}
+{{#set: gene associated=Tiso_gene_4246|Tiso_gene_18689|Tiso_gene_18933|Tiso_gene_9035|Tiso_gene_3021|Tiso_gene_13008|Tiso_gene_9636|Tiso_gene_9165|Tiso_gene_6296|Tiso_gene_2158|Tiso_gene_16122|Tiso_gene_9455|Tiso_gene_16842|Tiso_gene_17823|Tiso_gene_18208|Tiso_gene_292|Tiso_gene_18145|Tiso_gene_9873|Tiso_gene_15328|Tiso_gene_1468|Tiso_gene_2280|Tiso_gene_19638|Tiso_gene_17593|Tiso_gene_18235|Tiso_gene_15594|Tiso_gene_8652|Tiso_gene_17919|Tiso_gene_9227}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

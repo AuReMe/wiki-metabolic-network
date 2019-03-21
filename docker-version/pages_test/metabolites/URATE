@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=URATE URATE] ==
+* smiles:
+** C12(NC(=O)NC=1C(=O)NC(=O)N2)
+* common name:
+** urate
+* inchi key:
+** InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
+* molecular weight:
+** 168.112    
+* Synonym(s):
+** 2,6,8-trioxypurine
+** purine-2,6,8-(1H,3H,9H)-trione
+** 7,9-dihydro-1H-purine-2,6,8(3H)-trione
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[XANTHINE-OXIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[URATEtm]]
+* [[RXN0-901]]
+* [[URATEt]]
+== External links  ==
+* CAS : 69-93-2
+* Wikipedia : Uric_acid
+* BIGG : urate
+* DRUGBANK : DB01696
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44229235 44229235]
+* HMDB : HMDB00289
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00366 C00366]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17775 17775]
+* METABOLIGHTS : MTBLC17775
+{{#set: smiles=C12(NC(=O)NC=1C(=O)NC(=O)N2)}}
+{{#set: common name=urate}}
+{{#set: inchi key=InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N}}
+{{#set: molecular weight=168.112    }}
+{{#set: common name=2,6,8-trioxypurine|purine-2,6,8-(1H,3H,9H)-trione|7,9-dihydro-1H-purine-2,6,8(3H)-trione}}
+{{#set: produced by=XANTHINE-OXIDASE-RXN}}
+{{#set: reversible reaction associated=URATEtm|RXN0-901|URATEt}}

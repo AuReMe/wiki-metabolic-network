@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-0 PWY-0] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** putrescine degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-37]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3513]]
+*** [[Tiso_gene_7322]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-0 RXN-0]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1 RXN-1]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-36 RXN-36]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=putrescine degradation III}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

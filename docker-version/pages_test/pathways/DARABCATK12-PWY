@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=DARABCATK12-PWY DARABCATK12-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** D-arabinose degradation I
+* Synonym(s):
+** D-arabinose catabolism
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[GLYCOLALD-DEHYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7322]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DARABALDOL-RXN DARABALDOL-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=DARABISOM-RXN DARABISOM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=DARABKIN-RXN DARABKIN-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=DARABCATK12-PWY DARABCATK12-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=D-arabinose degradation I}}
+{{#set: common name=D-arabinose catabolism}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

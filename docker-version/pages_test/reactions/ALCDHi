@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ALCDHi ALCDHi] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alcohol dehydrogenase (ethanol: NAD)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ACETALD]][c] '''+''' 1.0 [[NADH]][c] '''+''' 1.0 [[PROTON]][c] '''=>''' 1.0 [[ETOH]][c] '''+''' 1.0 [[NAD]][c]
+* With common name(s):
+** 1.0 acetaldehyde[c] '''+''' 1.0 NADH[c] '''+''' 1.0 H+[c] '''=>''' 1.0 ethanol[c] '''+''' 1.0 NAD+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2052]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alcohol dehydrogenase (ethanol: NAD)}}
+{{#set: gene associated=Tiso_gene_2052}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

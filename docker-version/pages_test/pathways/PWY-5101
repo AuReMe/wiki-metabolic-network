@@ -1,0 +1,68 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5101 PWY-5101] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183924 TAX-183924]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-224756 TAX-224756]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183925 TAX-183925]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-203691 TAX-203691]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183939 TAX-183939]
+* common name:
+** L-isoleucine biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''8''' reactions in the full pathway
+* [[ACETOOHBUTSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11362]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[BRANCHED-CHAINAMINOTRANSFERILEU-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14984]]
+*** [[Tiso_gene_18403]]
+*** [[Tiso_gene_17748]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[DIHYDROXYMETVALDEHYDRAT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1563]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN-7743]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11453]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[RXN-7745]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=R-2-METHYLMALATE-DEHYDRATASE-RXN R-2-METHYLMALATE-DEHYDRATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16062 RXN-16062]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7744 RXN-7744]
+== External links  ==
+{{#set: taxonomic range=TAX-183924}}
+{{#set: taxonomic range=TAX-224756}}
+{{#set: taxonomic range=TAX-183925}}
+{{#set: taxonomic range=TAX-203691}}
+{{#set: taxonomic range=TAX-183939}}
+{{#set: common name=L-isoleucine biosynthesis II}}
+{{#set: reaction found=5}}
+{{#set: total reaction=8}}
+{{#set: completion rate=63.0}}

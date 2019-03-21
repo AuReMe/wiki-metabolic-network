@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12828 ==
+* right end position:
+** 6166
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5844
+* centisome position:
+** 87.171844    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: right end position=6166}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5844}}
+{{#set: centisome position=87.171844    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN|RXN-8443}}
+{{#set: pathway associated=PWY-5381}}

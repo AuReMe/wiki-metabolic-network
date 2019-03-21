@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13907 CPD-13907] ==
+* smiles:
+** C2(=O)(O[CH]1(C(O)(OCC(O)1)C(O)(O)2))
+* common name:
+** dehydroascorbate (bicyclic form)
+* inchi key:
+** InChIKey=QPPOKIPSRPKDEM-VPGXFDHMSA-N
+* molecular weight:
+** 192.125    
+* Synonym(s):
+** dehydroascorbate monohydrate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12861]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12862]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659000 90659000]
+{{#set: smiles=C2(=O)(O[CH]1(C(O)(OCC(O)1)C(O)(O)2))}}
+{{#set: common name=dehydroascorbate (bicyclic form)}}
+{{#set: inchi key=InChIKey=QPPOKIPSRPKDEM-VPGXFDHMSA-N}}
+{{#set: molecular weight=192.125    }}
+{{#set: common name=dehydroascorbate monohydrate}}
+{{#set: consumed by=RXN-12861}}
+{{#set: produced by=RXN-12862}}

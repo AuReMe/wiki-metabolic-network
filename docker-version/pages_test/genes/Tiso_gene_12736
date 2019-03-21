@@ -1,0 +1,20 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12736 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GTP-CYCLOHYDRO-I-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5663]]
+* [[PWY0-1433]]
+* [[PWY-7442]]
+* [[PWY-6983]]
+* [[PWY-5664]]
+* [[PWY-6703]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: reaction associated=GTP-CYCLOHYDRO-I-RXN}}
+{{#set: pathway associated=PWY-5663|PWY0-1433|PWY-7442|PWY-6983|PWY-5664|PWY-6703|PWY-6147}}

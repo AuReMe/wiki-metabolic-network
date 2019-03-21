@@ -1,0 +1,125 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19302 ==
+* right end position:
+** 1473
+* transcription direction:
+** POSITIVE
+* left end position:
+** 67
+* centisome position:
+** 2.7583368    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.3.1.179-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[2.3.1.41-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[3-OXOACYL-ACP-SYNTH-BASE-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[3-OXOACYL-ACP-SYNTH-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10059]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10654]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10658]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11474]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11479]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8391]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-9516]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9523]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9527]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9531]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9535]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9539]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9632]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9648]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9650]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9651]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9652]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9653]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9654]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-1003]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-132]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-138]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-218]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-236]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-26]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-306]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-324]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-368]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-445]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-460]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-499]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1G-840]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN3O-1803]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6113]]
+* [[FASYN-ELONG-PWY]]
+* [[PWY-6519]]
+* [[PWY-7388]]
+* [[PWY-5367]]
+* [[PWY-5971]]
+* [[PWY-6282]]
+* [[PWY-5965]]
+* [[PWY-5973]]
+* [[PWY-5989]]
+* [[PWY-5966]]
+* [[PWYG-321]]
+* [[FASYN-INITIAL-PWY]]
+* [[PWY-5994]]
+* [[PWY3O-355]]
+== External links  ==
+{{#set: right end position=1473}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=67}}
+{{#set: centisome position=2.7583368    }}
+{{#set: reaction associated=2.3.1.179-RXN|2.3.1.41-RXN|3-OXOACYL-ACP-SYNTH-BASE-RXN|3-OXOACYL-ACP-SYNTH-RXN|RXN-10059|RXN-10654|RXN-10658|RXN-11474|RXN-11479|RXN-8391|RXN-9516|RXN-9523|RXN-9527|RXN-9531|RXN-9535|RXN-9539|RXN-9632|RXN-9648|RXN-9650|RXN-9651|RXN-9652|RXN-9653|RXN-9654|RXN1G-1003|RXN1G-132|RXN1G-138|RXN1G-218|RXN1G-236|RXN1G-26|RXN1G-306|RXN1G-324|RXN1G-368|RXN1G-445|RXN1G-460|RXN1G-499|RXN1G-840|RXN3O-1803}}
+{{#set: pathway associated=PWY-6113|FASYN-ELONG-PWY|PWY-6519|PWY-7388|PWY-5367|PWY-5971|PWY-6282|PWY-5965|PWY-5973|PWY-5989|PWY-5966|PWYG-321|FASYN-INITIAL-PWY|PWY-5994|PWY3O-355}}

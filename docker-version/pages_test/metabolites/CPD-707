@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-707 CPD-707] ==
+* smiles:
+** CC(C)C(C)CCC(C)[CH]3(CC[CH]4([CH]2(CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** campesterol
+* inchi key:
+** InChIKey=SGNBVLSWZMBQTH-PODYLUTMSA-N
+* molecular weight:
+** 400.687    
+* Synonym(s):
+** cholest 5-en-3-ol, 24-methyl
+** ergost-5-en-3&beta;-ol, (24R)-
+** (24R)-24-methylcholest-5-en-3&beta;-ol
+** 24(R)-methylcholesterol
+** campesterin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-4225]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST01030097
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=173183 173183]
+* HMDB : HMDB02869
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01789 C01789]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10469749.html 10469749]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28623 28623]
+{{#set: smiles=CC(C)C(C)CCC(C)[CH]3(CC[CH]4([CH]2(CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=campesterol}}
+{{#set: inchi key=InChIKey=SGNBVLSWZMBQTH-PODYLUTMSA-N}}
+{{#set: molecular weight=400.687    }}
+{{#set: common name=cholest 5-en-3-ol, 24-methyl|ergost-5-en-3&beta;-ol, (24R)-|(24R)-24-methylcholest-5-en-3&beta;-ol|24(R)-methylcholesterol|campesterin}}
+{{#set: consumed by=RXN-4225}}

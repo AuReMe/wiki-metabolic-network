@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13793 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTCYSLIG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7255]]
+* [[GLUTATHIONESYN-PWY]]
+* [[PWY-6840]]
+== External links  ==
+{{#set: reaction associated=GLUTCYSLIG-RXN}}
+{{#set: pathway associated=PWY-7255|GLUTATHIONESYN-PWY|PWY-6840}}

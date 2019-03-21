@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P 3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P] ==
+* smiles:
+** C(=O)([O-])C(=O)CC(O)C(O)C(O)COP([O-])(=O)[O-]
+* common name:
+** 3-deoxy-D-arabino-heptulosonate 7-phosphate
+* inchi key:
+** InChIKey=PJWIPEXIFFQAQZ-PUFIMZNGSA-K
+* molecular weight:
+** 285.124    
+* Synonym(s):
+** 3-deoxy-D-arabino-heptulosonate-7-P
+** 3-deoxy-arabino-heptulosonate 7-phosphate
+** 3-deoxy-arabino-heptulosonate-7-P
+** 2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate
+** 3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate
+** 3-deoxy-arabino-heptulonate 7-phosphate
+** DAHP
+
+== Reaction(s) known to consume the compound ==
+* [[3-DEHYDROQUINATE-SYNTHASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[DAHPSYN-RXN]]
+== External links  ==
+* CAS : 2627-73-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460215 5460215]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58394 58394]
+* BIGG : 2dda7p
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04691 C04691]
+{{#set: smiles=C(=O)([O-])C(=O)CC(O)C(O)C(O)COP([O-])(=O)[O-]}}
+{{#set: common name=3-deoxy-D-arabino-heptulosonate 7-phosphate}}
+{{#set: inchi key=InChIKey=PJWIPEXIFFQAQZ-PUFIMZNGSA-K}}
+{{#set: molecular weight=285.124    }}
+{{#set: common name=3-deoxy-D-arabino-heptulosonate-7-P|3-deoxy-arabino-heptulosonate 7-phosphate|3-deoxy-arabino-heptulosonate-7-P|2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate|3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate|3-deoxy-arabino-heptulonate 7-phosphate|DAHP}}
+{{#set: consumed by=3-DEHYDROQUINATE-SYNTHASE-RXN}}
+{{#set: reversible reaction associated=DAHPSYN-RXN}}

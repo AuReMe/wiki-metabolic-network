@@ -1,0 +1,22 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19115 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5FTHFt]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[5FTHFtm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[METHFth]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[METHFtm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[METHFtx]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[MLTHFtm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[THFtm]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=5FTHFt|5FTHFtm|METHFth|METHFtm|METHFtx|MLTHFtm|THFtm}}

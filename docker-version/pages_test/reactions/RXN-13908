@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13908 RXN-13908] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** transcriptional_coactivator_pterin_dehydratase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.96 EC-4.2.1.96]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-14931]][c] '''=>''' 1 [[10-FORMYL-DIHYDROFOLATE-GLU-N]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 a 10-formyltetrahydrofolate-4a-carbinolamine[c] '''=>''' 1 an N10-formyldihydrofolate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14844]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14845]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7158]], L-phenylalanine degradation V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7158 PWY-7158]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=transcriptional_coactivator_pterin_dehydratase}}
+{{#set: ec number=EC-4.2.1.96}}
+{{#set: gene associated=Tiso_gene_14844|Tiso_gene_14845}}
+{{#set: in pathway=PWY-7158}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

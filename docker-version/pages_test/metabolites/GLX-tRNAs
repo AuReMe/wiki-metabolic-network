@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLX-tRNAs GLX-tRNAs] ==
+* common name:
+** a tRNAGlx
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[6.1.1.24-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAGlx}}
+{{#set: consumed by=6.1.1.24-RXN}}

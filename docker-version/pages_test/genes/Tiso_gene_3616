@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3616 ==
+* right end position:
+** 13845
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10769
+* centisome position:
+** 61.291973    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACETATE--COA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY66-161]]
+* [[PWY66-21]]
+* [[PWY66-162]]
+* [[PWY0-1313]]
+* [[PWY-6672]]
+* [[PWY-7118]]
+== External links  ==
+{{#set: right end position=13845}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10769}}
+{{#set: centisome position=61.291973    }}
+{{#set: reaction associated=ACETATE--COA-LIGASE-RXN}}
+{{#set: pathway associated=PWY66-161|PWY66-21|PWY66-162|PWY0-1313|PWY-6672|PWY-7118}}

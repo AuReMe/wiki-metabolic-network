@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RFH RFH] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** raffinose fructohydrolase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-1099]][h] '''+''' 1.0 [[WATER]][h] '''=>''' 1.0 [[BETA-D-FRUCTOSE]][h] '''+''' 1.0 [[MELIBIOSE]][h]
+* With common name(s):
+** 1.0 raffinose[h] '''+''' 1.0 H2O[h] '''=>''' 1.0 &beta;-D-fructofuranose[h] '''+''' 1.0 melibiose[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1580]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_1006]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=raffinose fructohydrolase}}
+{{#set: gene associated=Tiso_gene_1580|Tiso_gene_1006}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

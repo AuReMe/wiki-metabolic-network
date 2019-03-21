@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Oxidized-NrdH-Proteins Oxidized-NrdH-Proteins] ==
+* common name:
+** an oxidized NrdH glutaredoxin-like protein
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-722]]
+* [[RXN0-748]]
+* [[RIBONUCLEOSIDE-DIP-REDUCTII-RXN]]
+* [[RXN0-747]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an oxidized NrdH glutaredoxin-like protein}}
+{{#set: produced by=RXN0-722|RXN0-748|RIBONUCLEOSIDE-DIP-REDUCTII-RXN|RXN0-747}}

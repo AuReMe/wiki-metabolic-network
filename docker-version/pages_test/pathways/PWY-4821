@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4821 PWY-4821] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-82115 TAX-82115]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** UDP-D-xylose biosynthesis
+* Synonym(s):
+** UDP-xylose biosynthesis
+** UDPXyl biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[UDP-GLUCURONATE-DECARBOXYLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12394]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-7346 PWY-7346]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-7346 PWY-7346]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-4821 PWY-4821]
+{{#set: taxonomic range=TAX-82115}}
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=UDP-D-xylose biosynthesis}}
+{{#set: common name=UDP-xylose biosynthesis|UDPXyl biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

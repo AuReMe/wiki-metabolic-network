@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13014 CPD-13014] ==
+* smiles:
+** CCCC(OCC(OC(CCC)=O)COC(CCC)=O)=O
+* common name:
+** tributyrin
+* inchi key:
+** InChIKey=UYXTWWCETRIEDR-UHFFFAOYSA-N
+* molecular weight:
+** 302.367    
+* Synonym(s):
+** butyryl triglyceride
+** butanoic acid, 1,2,3-propanetriyl ester
+** 1,2,3-tributyrylglycerol
+** tributin
+** tributyrinine
+** glycerol tributyrate
+** glyceryl tributyrate
+** butyrin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12086]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C13870 C13870]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13849665.html 13849665]
+* HMDB : HMDB31094
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35020 35020]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6050 6050]
+{{#set: smiles=CCCC(OCC(OC(CCC)=O)COC(CCC)=O)=O}}
+{{#set: common name=tributyrin}}
+{{#set: inchi key=InChIKey=UYXTWWCETRIEDR-UHFFFAOYSA-N}}
+{{#set: molecular weight=302.367    }}
+{{#set: common name=butyryl triglyceride|butanoic acid, 1,2,3-propanetriyl ester|1,2,3-tributyrylglycerol|tributin|tributyrinine|glycerol tributyrate|glyceryl tributyrate|butyrin}}
+{{#set: consumed by=RXN-12086}}

@@ -1,0 +1,57 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=HOMOSERSYN-PWY HOMOSERSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-homoserine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18603]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ASPARTATEKIN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_4345]]
+*** [[Tiso_gene_17057]]
+*** [[Tiso_gene_13809]]
+*** [[Tiso_gene_16097]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[HOMOSERDEHYDROG-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_5558]]
+*** [[Tiso_gene_1148]]
+*** [[Tiso_gene_4345]]
+** 3 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=HOMOSERSYN-PWY HOMOSERSYN-PWY]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-homoserine biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20543 ==
+* right end position:
+** 1028
+* transcription direction:
+** POSITIVE
+* left end position:
+** 618
+* centisome position:
+** 53.138435    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1028}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=618}}
+{{#set: centisome position=53.138435    }}
+{{#set: reaction associated=RNA-DIRECTED-DNA-POLYMERASE-RXN}}

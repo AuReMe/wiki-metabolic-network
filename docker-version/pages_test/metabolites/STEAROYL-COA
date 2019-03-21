@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=STEAROYL-COA STEAROYL-COA] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** stearoyl-CoA
+* inchi key:
+** InChIKey=SIARJEKBADXQJG-LFZQUHGESA-J
+* molecular weight:
+** 1029.968    
+* Synonym(s):
+** Stearoyl-CoA (n-C18:0CoA)
+** stearyl-CoA
+** stearyl coenzyme A
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9624]]
+* [[RXN-13294]]
+* [[1.14.19.1-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN3O-5304]]
+* [[RXN-16380]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 362-66-3
+* BIGG : stcoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266614 45266614]
+* HMDB : HMDB01114
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00412 C00412]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57394 57394]
+* METABOLIGHTS : MTBLC57394
+{{#set: smiles=CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=stearoyl-CoA}}
+{{#set: inchi key=InChIKey=SIARJEKBADXQJG-LFZQUHGESA-J}}
+{{#set: molecular weight=1029.968    }}
+{{#set: common name=Stearoyl-CoA (n-C18:0CoA)|stearyl-CoA|stearyl coenzyme A}}
+{{#set: consumed by=RXN-9624|RXN-13294|1.14.19.1-RXN}}
+{{#set: produced by=RXN3O-5304|RXN-16380}}

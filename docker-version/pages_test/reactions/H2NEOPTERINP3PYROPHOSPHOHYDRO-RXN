@@ -1,0 +1,126 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1.67 EC-3.6.1.67]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DIHYDRONEOPTERIN-P3]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[DIHYDRONEOPTERIN-P]][c] '''+''' 1 [[PPI]][c]
+* With common name(s):
+** 1 7,8-dihydroneopterin 3'-triphosphate[c] '''+''' 1 H2O[c] '''=>''' 1 H+[c] '''+''' 1 7,8-dihydroneopterin 3'-phosphate[c] '''+''' 1 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17804]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12636]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15582]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12514]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13784]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13729]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_43]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_277]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14428]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_11387]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_15988]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_2019]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10288]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19075]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8600]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5713]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8601]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18343]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2924]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10158]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_16176]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6277]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13847]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3667]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1142]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17467]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_8599]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6144]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_7067]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2747]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_1799]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3314]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13604]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4112]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10760]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_16712]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6767]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4645]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6147]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6147 PWY-6147]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25302 25302]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04638 R04638]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.6.1.67}}
+{{#set: gene associated=Tiso_gene_17804|Tiso_gene_12636|Tiso_gene_15582|Tiso_gene_12514|Tiso_gene_13784|Tiso_gene_13729|Tiso_gene_43|Tiso_gene_277|Tiso_gene_14428|Tiso_gene_11387|Tiso_gene_15988|Tiso_gene_2019|Tiso_gene_10288|Tiso_gene_19075|Tiso_gene_8600|Tiso_gene_5713|Tiso_gene_8601|Tiso_gene_18343|Tiso_gene_2924|Tiso_gene_10158|Tiso_gene_16176|Tiso_gene_6277|Tiso_gene_13847|Tiso_gene_3667|Tiso_gene_1142|Tiso_gene_17467|Tiso_gene_8599|Tiso_gene_6144|Tiso_gene_7067|Tiso_gene_2747|Tiso_gene_1799|Tiso_gene_3314|Tiso_gene_13604|Tiso_gene_4112|Tiso_gene_10760|Tiso_gene_16712|Tiso_gene_6767|Tiso_gene_4645}}
+{{#set: in pathway=PWY-6147}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

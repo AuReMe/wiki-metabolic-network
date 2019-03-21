@@ -1,0 +1,53 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12625 RXN-12625] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** N,N'-diacetylchitobiose &beta;-N-acetylglucosaminidase
+** beta-hexosaminidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.52 EC-3.2.1.52]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CHITOBIOSE]][c] '''+''' 1 [[WATER]][c] '''=>''' 2 [[N-acetyl-D-glucosamine]][c]
+* With common name(s):
+** 1 N,N'-diacetylchitobiose[c] '''+''' 1 H2O[c] '''=>''' 2 N-acetyl-D-glucosamine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1129]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_14122]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-7822]], chitin degradation III (Serratia): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7822 PWY-7822]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6902]], chitin degradation II (Vibrio): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6902 PWY-6902]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30674 30674]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00022 R00022]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=N,N'-diacetylchitobiose &beta;-N-acetylglucosaminidase}}
+{{#set: common name=beta-hexosaminidase}}
+{{#set: ec number=EC-3.2.1.52}}
+{{#set: gene associated=Tiso_gene_1129|Tiso_gene_14122}}
+{{#set: in pathway=PWY-7822|PWY-6902}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

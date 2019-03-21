@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11913 ==
+* right end position:
+** 7187
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6005
+* centisome position:
+** 80.87542    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11839]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11840]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11841]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11842]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7187}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6005}}
+{{#set: centisome position=80.87542    }}
+{{#set: reaction associated=RXN-11839|RXN-11840|RXN-11841|RXN-11842|TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

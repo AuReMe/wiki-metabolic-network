@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=B-Gal-14-NacGlc-R B-Gal-14-NacGlc-R] ==
+* common name:
+** a type 2 histo-blood group antigen precursor disaccharide
+* Synonym(s):
+** an N-acetyllactosaminyl-R
+** a &beta;-D-galactosyl-1,4-N-acetyl-D-glucosaminyl-R
+** a &beta;-D-galactosyl-1,4-N-acetyl-&beta;-D-glucosaminyl-R
+** a &beta;-D-galactosyl-(1&rarr;4)-N-acetyl-&beta;-D-glucosaminyl-R
+
+== Reaction(s) known to consume the compound ==
+* [[2.4.1.151-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a type 2 histo-blood group antigen precursor disaccharide}}
+{{#set: common name=an N-acetyllactosaminyl-R|a &beta;-D-galactosyl-1,4-N-acetyl-D-glucosaminyl-R|a &beta;-D-galactosyl-1,4-N-acetyl-&beta;-D-glucosaminyl-R|a &beta;-D-galactosyl-(1&rarr;4)-N-acetyl-&beta;-D-glucosaminyl-R}}
+{{#set: consumed by=2.4.1.151-RXN}}

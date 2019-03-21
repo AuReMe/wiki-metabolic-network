@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2588 ==
+* right end position:
+** 4731
+* transcription direction:
+** POSITIVE
+* left end position:
+** 520
+* centisome position:
+** 2.766546    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.84-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ALPHAGALACTOSID-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-15910]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-2141]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-842]]
+* [[PWY0-1301]]
+== External links  ==
+{{#set: right end position=4731}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=520}}
+{{#set: centisome position=2.766546    }}
+{{#set: reaction associated=3.2.1.84-RXN|ALPHAGALACTOSID-RXN|RXN-15910|RXN-2141}}
+{{#set: pathway associated=PWY-842|PWY0-1301}}

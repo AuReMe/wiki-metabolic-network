@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MALONYL-COA-DECARBOXYLASE-RXN MALONYL-COA-DECARBOXYLASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lipoxygenase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.1.9 EC-4.1.1.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[MALONYL-COA]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[ACETYL-COA]][c]
+* With common name(s):
+** 1 malonyl-CoA[c] '''+''' 1 H+[c] '''=>''' 1 CO2[c] '''+''' 1 acetyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4463]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18781 18781]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00233 R00233]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P12617 P12617]
+** [http://www.uniprot.org/uniprot/Q54112 Q54112]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lipoxygenase}}
+{{#set: ec number=EC-4.1.1.9}}
+{{#set: gene associated=Tiso_gene_4463}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-creinhardtii|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

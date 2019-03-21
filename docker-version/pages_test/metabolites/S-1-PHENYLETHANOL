@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-1-PHENYLETHANOL S-1-PHENYLETHANOL] ==
+* smiles:
+** CC(O)C1(C=CC=CC=1)
+* common name:
+** (S)-1-phenylethanol
+* inchi key:
+** InChIKey=WAPNOHKVXSQRPX-ZETCQYMHSA-N
+* molecular weight:
+** 122.166    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-1302]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=443135 443135]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.391409.html 391409]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16346 16346]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11348 C11348]
+{{#set: smiles=CC(O)C1(C=CC=CC=1)}}
+{{#set: common name=(S)-1-phenylethanol}}
+{{#set: inchi key=InChIKey=WAPNOHKVXSQRPX-ZETCQYMHSA-N}}
+{{#set: molecular weight=122.166    }}
+{{#set: reversible reaction associated=RXN-1302}}

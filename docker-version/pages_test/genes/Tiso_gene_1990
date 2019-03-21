@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1990 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MALATE-DEH-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-561]]
+* [[PWY-5913]]
+* [[PWY-1622]]
+* [[PWY66-399]]
+* [[P42-PWY]]
+* [[PWY-7383]]
+* [[PWY-5392]]
+* [[TCA]]
+* [[P105-PWY]]
+* [[P23-PWY]]
+* [[PWY-5690]]
+* [[GLYOXYLATE-BYPASS]]
+* [[FERMENTATION-PWY]]
+* [[PWY-6728]]
+* [[PWY-7115]]
+* [[GLUCONEO-PWY]]
+* [[P108-PWY]]
+* [[MALATE-ASPARTATE-SHUTTLE-PWY]]
+* [[PWY66-398]]
+* [[PWY-6969]]
+== External links  ==
+{{#set: reaction associated=MALATE-DEH-RXN}}
+{{#set: pathway associated=PWY-561|PWY-5913|PWY-1622|PWY66-399|P42-PWY|PWY-7383|PWY-5392|TCA|P105-PWY|P23-PWY|PWY-5690|GLYOXYLATE-BYPASS|FERMENTATION-PWY|PWY-6728|PWY-7115|GLUCONEO-PWY|P108-PWY|MALATE-ASPARTATE-SHUTTLE-PWY|PWY66-398|PWY-6969}}

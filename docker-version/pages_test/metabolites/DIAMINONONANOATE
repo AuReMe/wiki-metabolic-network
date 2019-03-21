@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIAMINONONANOATE DIAMINONONANOATE] ==
+* smiles:
+** CC(C(CCCCCC([O-])=O)[N+])[N+]
+* common name:
+** 7,8-diaminopelargonate
+* inchi key:
+** InChIKey=KCEGBPIYGIWCDH-UHFFFAOYSA-O
+* molecular weight:
+** 189.277    
+* Synonym(s):
+** 7,8-diaminononanoate
+** DAPA
+
+== Reaction(s) known to consume the compound ==
+* [[DETHIOBIOTIN-SYN-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[DAPASYN-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245451 25245451]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58500 58500]
+* BIGG : dann
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01037 C01037]
+{{#set: smiles=CC(C(CCCCCC([O-])=O)[N+])[N+]}}
+{{#set: common name=7,8-diaminopelargonate}}
+{{#set: inchi key=InChIKey=KCEGBPIYGIWCDH-UHFFFAOYSA-O}}
+{{#set: molecular weight=189.277    }}
+{{#set: common name=7,8-diaminononanoate|DAPA}}
+{{#set: consumed by=DETHIOBIOTIN-SYN-RXN}}
+{{#set: reversible reaction associated=DAPASYN-RXN}}

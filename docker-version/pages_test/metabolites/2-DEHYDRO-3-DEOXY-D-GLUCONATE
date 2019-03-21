@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-DEHYDRO-3-DEOXY-D-GLUCONATE 2-DEHYDRO-3-DEOXY-D-GLUCONATE] ==
+* smiles:
+** C(=O)([O-])C(=O)CC(O)C(O)CO
+* common name:
+** 2-dehydro-3-deoxy-D-gluconate
+* inchi key:
+** InChIKey=WPAMZTWLKIDIOP-WVZVXSGGSA-M
+* molecular weight:
+** 177.133    
+* Synonym(s):
+** 2-keto-3-deoxy-D-gluconic acid
+** 2-keto-3-deoxy-D-gluconate
+** 3-deoxy-2-oxo-D-gluconate
+** 2-keto-3-deoxygluconate
+** 3-deoxy-D-erythro-hex-2-ulosonic acid
+** KDG
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[MANNONDEHYDRAT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 17510-99-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44229111 44229111]
+* HMDB : HMDB01353
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00204 C00204]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57990 57990]
+* BIGG : 2ddglcn
+{{#set: smiles=C(=O)([O-])C(=O)CC(O)C(O)CO}}
+{{#set: common name=2-dehydro-3-deoxy-D-gluconate}}
+{{#set: inchi key=InChIKey=WPAMZTWLKIDIOP-WVZVXSGGSA-M}}
+{{#set: molecular weight=177.133    }}
+{{#set: common name=2-keto-3-deoxy-D-gluconic acid|2-keto-3-deoxy-D-gluconate|3-deoxy-2-oxo-D-gluconate|2-keto-3-deoxygluconate|3-deoxy-D-erythro-hex-2-ulosonic acid|KDG}}
+{{#set: produced by=MANNONDEHYDRAT-RXN}}

@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9051 ==
+* right end position:
+** 3946
+* transcription direction:
+** POSITIVE
+* left end position:
+** 913
+* centisome position:
+** 9.449390    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[L-GLN-FRUCT-6-P-AMINOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[UDPNACETYLGALSYN-PWY]]
+* [[PWY-6749]]
+* [[UDPNAGSYN-PWY]]
+== External links  ==
+{{#set: right end position=3946}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=913}}
+{{#set: centisome position=9.449390    }}
+{{#set: reaction associated=L-GLN-FRUCT-6-P-AMINOTRANS-RXN}}
+{{#set: pathway associated=UDPNACETYLGALSYN-PWY|PWY-6749|UDPNAGSYN-PWY}}

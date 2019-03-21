@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=1-PALMITOYLGLYCEROL-3-PHOSPHATE 1-PALMITOYLGLYCEROL-3-PHOSPHATE] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])[O-]
+* common name:
+** 1-palmitoylglycerol 3-phosphate
+* inchi key:
+** InChIKey=YNDYKPRNFWPPFU-GOSISDBHSA-L
+* molecular weight:
+** 408.471    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17010]]
+* [[RXN-17012]]
+* [[RXN-17014]]
+* [[RXN-17008]]
+* [[RXN0-6705]]
+* [[RXN-17023]]
+* [[RXN-17024]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04036 C04036]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57518 57518]
+* METABOLIGHTS : MTBLC57518
+* BIGG : 1hdecg3p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173172 46173172]
+{{#set: smiles=CCCCCCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])[O-]}}
+{{#set: common name=1-palmitoylglycerol 3-phosphate}}
+{{#set: inchi key=InChIKey=YNDYKPRNFWPPFU-GOSISDBHSA-L}}
+{{#set: molecular weight=408.471    }}
+{{#set: consumed by=RXN-17010|RXN-17012|RXN-17014|RXN-17008|RXN0-6705|RXN-17023|RXN-17024}}

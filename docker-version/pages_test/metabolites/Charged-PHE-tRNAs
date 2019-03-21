@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-PHE-tRNAs Charged-PHE-tRNAs] ==
+* common name:
+** an L-phenylalanyl-[tRNAphe]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17847]]
+* [[RXN-17848]]
+== Reaction(s) known to produce the compound ==
+* [[PHENYLALANINE--TRNA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-phenylalanyl-[tRNAphe]}}
+{{#set: consumed by=RXN-17847|RXN-17848}}
+{{#set: produced by=PHENYLALANINE--TRNA-LIGASE-RXN}}

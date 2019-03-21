@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12128 ==
+* right end position:
+** 6630
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 631
+* centisome position:
+** 5.984446    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6630}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=631}}
+{{#set: centisome position=5.984446    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

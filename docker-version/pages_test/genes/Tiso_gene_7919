@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7919 ==
+* right end position:
+** 3112
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 299
+* centisome position:
+** 1.5643803    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FERREDOXIN--NITRITE-REDUCTASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-381]]
+* [[PWY490-3]]
+== External links  ==
+{{#set: right end position=3112}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=299}}
+{{#set: centisome position=1.5643803    }}
+{{#set: reaction associated=FERREDOXIN--NITRITE-REDUCTASE-RXN}}
+{{#set: pathway associated=PWY-381|PWY490-3}}

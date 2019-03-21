@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1242 CPD-1242] ==
+* smiles:
+** C(O)C1(OC(C(C(C1O)=O)O)O)
+* common name:
+** 3-keto-&beta;-D-galactose
+* inchi key:
+** InChIKey=APIQNBNBIICCON-FKMSRSAHSA-N
+* molecular weight:
+** 178.141    
+* Synonym(s):
+** 3-dehydro-&beta;-D-galactose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[KETOLACTOSE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=440653 440653]
+* HMDB : HMDB01385
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05394 C05394]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.389534.html 389534]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27453 27453]
+* METABOLIGHTS : MTBLC27453
+{{#set: smiles=C(O)C1(OC(C(C(C1O)=O)O)O)}}
+{{#set: common name=3-keto-&beta;-D-galactose}}
+{{#set: inchi key=InChIKey=APIQNBNBIICCON-FKMSRSAHSA-N}}
+{{#set: molecular weight=178.141    }}
+{{#set: common name=3-dehydro-&beta;-D-galactose}}
+{{#set: produced by=KETOLACTOSE-RXN}}

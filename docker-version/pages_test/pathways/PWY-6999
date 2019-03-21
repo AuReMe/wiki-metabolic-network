@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6999 PWY-6999] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** theophylline degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''9''' reactions in the full pathway
+* [[RXN0-901]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[XANTHINE-OXIDASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13108 RXN-13108]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13109 RXN-13109]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13110 RXN-13110]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13111 RXN-13111]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13113 RXN-13113]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13114 RXN-13114]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13115 RXN-13115]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=theophylline degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=9}}
+{{#set: completion rate=22.0}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5611 ==
+* right end position:
+** 10815
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9356
+* centisome position:
+** 71.142876    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TUBULIN-N-ACETYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10815}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9356}}
+{{#set: centisome position=71.142876    }}
+{{#set: reaction associated=TUBULIN-N-ACETYLTRANSFERASE-RXN}}

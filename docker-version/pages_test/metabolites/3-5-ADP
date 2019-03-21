@@ -1,0 +1,65 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-5-ADP 3-5-ADP] ==
+* smiles:
+** C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)OP(=O)([O-])[O-]))OP([O-])([O-])=O
+* common name:
+** adenosine 3',5'-bisphosphate
+* inchi key:
+** InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
+* molecular weight:
+** 423.172    
+* Synonym(s):
+** adenosine-3',5'-bisphosphate
+** 3',5'-ADP
+** phosphoadenosine phosphate
+** PAP
+
+== Reaction(s) known to consume the compound ==
+* [[325-BISPHOSPHATE-NUCLEOTIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-18303]]
+* [[RXN-18301]]
+* [[RXN-10614]]
+* [[RXN-10615]]
+* [[HOLO-ACP-SYNTH-RXN]]
+* [[RXN-15889]]
+* [[GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN]]
+* [[RXN-11059]]
+* [[RXN-10777]]
+* [[ENTDB-RXN]]
+* [[RXN6666-9]]
+* [[RXN-10782]]
+* [[RXN-11058]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-16759]]
+* [[PAPSPAPtm]]
+* [[PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN]]
+* [[RXN-15588]]
+* [[ARYL-SULFOTRANSFERASE-RXN]]
+* [[1.8.4.8-RXN]]
+* [[RXN-15589]]
+* [[RXN-10994]]
+* [[RXN-17203]]
+* [[RXN-15587]]
+* [[PAPSPAPthr]]
+== External links  ==
+* CAS : 1053-73-2
+* BIGG : pap
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615194 23615194]
+* HMDB : HMDB00061
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00054 C00054]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951095.html 19951095]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58343 58343]
+* METABOLIGHTS : MTBLC58343
+{{#set: smiles=C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)OP(=O)([O-])[O-]))OP([O-])([O-])=O}}
+{{#set: common name=adenosine 3',5'-bisphosphate}}
+{{#set: inchi key=InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J}}
+{{#set: molecular weight=423.172    }}
+{{#set: common name=adenosine-3',5'-bisphosphate|3',5'-ADP|phosphoadenosine phosphate|PAP}}
+{{#set: consumed by=325-BISPHOSPHATE-NUCLEOTIDASE-RXN}}
+{{#set: produced by=RXN-18303|RXN-18301|RXN-10614|RXN-10615|HOLO-ACP-SYNTH-RXN|RXN-15889|GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN|RXN-11059|RXN-10777|ENTDB-RXN|RXN6666-9|RXN-10782|RXN-11058}}
+{{#set: reversible reaction associated=RXN-16759|PAPSPAPtm|PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN|RXN-15588|ARYL-SULFOTRANSFERASE-RXN|1.8.4.8-RXN|RXN-15589|RXN-10994|RXN-17203|RXN-15587|PAPSPAPthr}}

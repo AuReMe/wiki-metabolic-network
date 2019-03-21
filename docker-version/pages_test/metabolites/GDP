@@ -1,0 +1,73 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GDP GDP] ==
+* smiles:
+** C(OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))
+* common name:
+** GDP
+* inchi key:
+** InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
+* molecular weight:
+** 440.179    
+* Synonym(s):
+** ppG
+** guanosine-5'-diphosphate
+** guanosine-diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[GDPPYPHOSKIN-RXN]]
+* [[GDPKIN-RXN]]
+* [[ATGD]]
+* [[GDPA]]
+* [[RXN0-748]]
+* [[GTPOP]]
+* [[GUANOSINE-DIPHOSPHATASE-RXN]]
+* [[GDPREDUCT-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-5464]]
+* [[RXN-8988]]
+* [[RXN-14074]]
+* [[AGPTf]]
+* [[AGPT]]
+* [[RXN-5462]]
+* [[2.4.1.83-RXN]]
+* [[RXN-5463]]
+* [[2.4.1.142-RXN]]
+* [[RXN-16602]]
+* [[RXN0-5462]]
+* [[PPGPPSYN-RXN]]
+* [[GTUP]]
+* [[ADENYLOSUCCINATE-SYNTHASE-RXN]]
+* [[GUANYL-KIN-RXN]]
+* [[FE2GTPabc]]
+* [[GTPA]]
+* [[GTCY]]
+== Reaction(s) of unknown directionality ==
+* [[2.4.1.232-RXN]]
+* [[2.4.1.32-RXN]]
+* [[RXN-14117]]
+* [[SUCCINATE--COA-LIGASE-GDP-FORMING-RXN]]
+* [[SUCL_gdp_m]]
+* [[URKI-RXN]]
+* [[MANNPGUANYLTRANGDP-RXN]]
+* [[GBDP]]
+== External links  ==
+* CAS : 146-91-8
+* BIGG : gdp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21604868 21604868]
+* HMDB : HMDB01201
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00035 C00035]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10239187.html 10239187]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58189 58189]
+* METABOLIGHTS : MTBLC58189
+{{#set: smiles=C(OP(=O)([O-])OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))}}
+{{#set: common name=GDP}}
+{{#set: inchi key=InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K}}
+{{#set: molecular weight=440.179    }}
+{{#set: common name=ppG|guanosine-5'-diphosphate|guanosine-diphosphate}}
+{{#set: consumed by=GDPPYPHOSKIN-RXN|GDPKIN-RXN|ATGD|GDPA|RXN0-748|GTPOP|GUANOSINE-DIPHOSPHATASE-RXN|GDPREDUCT-RXN}}
+{{#set: produced by=RXN-5464|RXN-8988|RXN-14074|AGPTf|AGPT|RXN-5462|2.4.1.83-RXN|RXN-5463|2.4.1.142-RXN|RXN-16602|RXN0-5462|PPGPPSYN-RXN|GTUP|ADENYLOSUCCINATE-SYNTHASE-RXN|GUANYL-KIN-RXN|FE2GTPabc|GTPA|GTCY}}
+{{#set: reversible reaction associated=2.4.1.232-RXN|2.4.1.32-RXN|RXN-14117|SUCCINATE--COA-LIGASE-GDP-FORMING-RXN|SUCL_gdp_m|URKI-RXN|MANNPGUANYLTRANGDP-RXN|GBDP}}

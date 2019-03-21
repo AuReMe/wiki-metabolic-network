@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=RIBITOL RIBITOL] ==
+* smiles:
+** C(O)C(O)C(O)C(O)CO
+* common name:
+** ribitol
+* inchi key:
+** InChIKey=HEBKCHPVOIAQTA-ZXFHETKHSA-N
+* molecular weight:
+** 152.147    
+* Synonym(s):
+** meso-ribitol
+** adonitol
+** (2R,3s,4S)-pentane-1,2,3,4,5-pentol
+** D-ribitol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RIBITOL-2-DEHYDROGENASE-RXN]]
+== External links  ==
+* CAS : 488-81-3
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00474 C00474]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15963 15963]
+* METABOLIGHTS : MTBLC15963
+* HMDB : HMDB00508
+{{#set: smiles=C(O)C(O)C(O)C(O)CO}}
+{{#set: common name=ribitol}}
+{{#set: inchi key=InChIKey=HEBKCHPVOIAQTA-ZXFHETKHSA-N}}
+{{#set: molecular weight=152.147    }}
+{{#set: common name=meso-ribitol|adonitol|(2R,3s,4S)-pentane-1,2,3,4,5-pentol|D-ribitol}}
+{{#set: reversible reaction associated=RIBITOL-2-DEHYDROGENASE-RXN}}

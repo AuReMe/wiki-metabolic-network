@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13817 ==
+* right end position:
+** 6006
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4489
+* centisome position:
+** 74.272    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13398]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7676]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7677]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5068]]
+== External links  ==
+{{#set: right end position=6006}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4489}}
+{{#set: centisome position=74.272    }}
+{{#set: reaction associated=RXN-13398|RXN-7676|RXN-7677}}
+{{#set: pathway associated=PWY-5068}}

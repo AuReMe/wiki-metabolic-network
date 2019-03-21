@@ -1,0 +1,68 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3801 PWY-3801] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** sucrose degradation II (sucrose synthase)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[FRUCTOKINASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_1303]]
+*** [[Tiso_gene_17974]]
+*** [[Tiso_gene_3107]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[annotation-experimental_annotation]]
+* [[GLUC1PURIDYLTRANS-RXN]]
+** 14 associated gene(s):
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_17531]]
+*** [[Tiso_gene_5879]]
+*** [[Tiso_gene_17566]]
+*** [[Tiso_gene_16930]]
+*** [[Tiso_gene_14796]]
+*** [[Tiso_gene_9110]]
+*** [[Tiso_gene_13477]]
+*** [[Tiso_gene_7440]]
+*** [[Tiso_gene_11401]]
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_6458]]
+*** [[Tiso_gene_7102]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSPHOGLUCMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_13477]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=SUCROSE-SYNTHASE-RXN SUCROSE-SYNTHASE-RXN]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-3801 PWY-3801]
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=sucrose degradation II (sucrose synthase)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

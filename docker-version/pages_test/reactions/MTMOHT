@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MTMOHT MTMOHT] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[METHYLENE-THF]][m] '''+''' 1.0 [[2-KETO-ISOVALERATE]][m] '''+''' 1.0 [[WATER]][m] '''=>''' 1.0 [[THF]][m] '''+''' 1.0 [[2-DEHYDROPANTOATE]][m]
+* With common name(s):
+** 1.0 5,10-methylenetetrahydropteroyl mono-L-glutamate[m] '''+''' 1.0 3-methyl-2-oxobutanoate[m] '''+''' 1.0 H2O[m] '''=>''' 1.0 tetrahydropteroyl mono-L-glutamate[m] '''+''' 1.0 2-dehydropantoate[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14465]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase}}
+{{#set: gene associated=Tiso_gene_14465}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

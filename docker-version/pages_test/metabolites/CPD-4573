@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4573 CPD-4573] ==
+* smiles:
+** CC(C)=CCCC([CH]1(C2(C)(C(C=O)(CC1)C4(=C(CC2)C3([CH](C(C)(C)C(O)CC3)CC4)(C)))))C
+* common name:
+** 14-oxolanosterol
+* inchi key:
+** InChIKey=PGGIMLIQOHYFIS-PUXRVUTHSA-N
+* molecular weight:
+** 440.708    
+* Synonym(s):
+** 14-oxo-lanosterol
+** 4,4-dimethyl-14&alpha;-formyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-305]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-304]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21121725 21121725]
+{{#set: smiles=CC(C)=CCCC([CH]1(C2(C)(C(C=O)(CC1)C4(=C(CC2)C3([CH](C(C)(C)C(O)CC3)CC4)(C)))))C}}
+{{#set: common name=14-oxolanosterol}}
+{{#set: inchi key=InChIKey=PGGIMLIQOHYFIS-PUXRVUTHSA-N}}
+{{#set: molecular weight=440.708    }}
+{{#set: common name=14-oxo-lanosterol|4,4-dimethyl-14&alpha;-formyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol}}
+{{#set: consumed by=RXN66-305}}
+{{#set: produced by=RXN66-304}}

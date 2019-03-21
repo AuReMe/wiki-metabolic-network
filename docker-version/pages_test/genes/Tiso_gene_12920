@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12920 ==
+* right end position:
+** 6559
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5540
+* centisome position:
+** 83.496605    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-TYROSINE-PHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6559}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5540}}
+{{#set: centisome position=83.496605    }}
+{{#set: reaction associated=PROTEIN-TYROSINE-PHOSPHATASE-RXN}}

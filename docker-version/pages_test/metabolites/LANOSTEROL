@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LANOSTEROL LANOSTEROL] ==
+* smiles:
+** CC(C)=CCCC([CH]1(C2(C)(C(C)(CC1)C4(=C(CC2)C3([CH](C(C)(C)C(O)CC3)CC4)(C)))))C
+* common name:
+** lanosterol
+* inchi key:
+** InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N
+* molecular weight:
+** 426.724    
+* Synonym(s):
+** 4,4,14&alpha;-trimethyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN3O-130]]
+* [[RXN66-303]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 79-63-0
+* DRUGBANK : DB03696
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=246983 246983]
+* HMDB : HMDB01251
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01724 C01724]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16521 16521]
+* METABOLIGHTS : MTBLC16521
+{{#set: smiles=CC(C)=CCCC([CH]1(C2(C)(C(C)(CC1)C4(=C(CC2)C3([CH](C(C)(C)C(O)CC3)CC4)(C)))))C}}
+{{#set: common name=lanosterol}}
+{{#set: inchi key=InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N}}
+{{#set: molecular weight=426.724    }}
+{{#set: common name=4,4,14&alpha;-trimethyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol}}
+{{#set: consumed by=RXN3O-130|RXN66-303}}

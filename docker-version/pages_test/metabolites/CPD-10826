@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10826 CPD-10826] ==
+* smiles:
+** CC(C(=O)CC(=O)[O-])CC(=O)[O-]
+* common name:
+** 4-methyl-3-oxoadipate
+* inchi key:
+** InChIKey=HKHNBKNLBZMXIV-UHFFFAOYSA-L
+* molecular weight:
+** 172.137    
+* Synonym(s):
+** 4-methyl-3-ketoadipate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10083]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44123441 44123441]
+{{#set: smiles=CC(C(=O)CC(=O)[O-])CC(=O)[O-]}}
+{{#set: common name=4-methyl-3-oxoadipate}}
+{{#set: inchi key=InChIKey=HKHNBKNLBZMXIV-UHFFFAOYSA-L}}
+{{#set: molecular weight=172.137    }}
+{{#set: common name=4-methyl-3-ketoadipate}}
+{{#set: produced by=RXN-10083}}

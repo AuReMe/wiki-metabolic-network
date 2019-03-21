@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPDQT-28 CPDQT-28] ==
+* smiles:
+** CSCCCCCC(=O)C([O-])=O
+* common name:
+** 7-(methylthio)-2-oxoheptanoate
+* inchi key:
+** InChIKey=TWAIOPPFLZEXCO-UHFFFAOYSA-M
+* molecular weight:
+** 189.249    
+* Synonym(s):
+** 7-(methylthio)-2-oxoheptanoic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXNQT-4168]]
+* [[RXN-18207]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237184 44237184]
+* KNAPSACK : C00007645
+{{#set: smiles=CSCCCCCC(=O)C([O-])=O}}
+{{#set: common name=7-(methylthio)-2-oxoheptanoate}}
+{{#set: inchi key=InChIKey=TWAIOPPFLZEXCO-UHFFFAOYSA-M}}
+{{#set: molecular weight=189.249    }}
+{{#set: common name=7-(methylthio)-2-oxoheptanoic acid}}
+{{#set: produced by=RXNQT-4168|RXN-18207}}

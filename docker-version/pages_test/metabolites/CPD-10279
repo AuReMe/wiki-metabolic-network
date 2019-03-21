@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10279 CPD-10279] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** docosanoyl-CoA
+* inchi key:
+** InChIKey=NDDZLVOCGALPLR-GNSUAQHMSA-J
+* molecular weight:
+** 1086.076    
+* Synonym(s):
+** behenoyl CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13297]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13307]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201268 25201268]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=65059 65059]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=docosanoyl-CoA}}
+{{#set: inchi key=InChIKey=NDDZLVOCGALPLR-GNSUAQHMSA-J}}
+{{#set: molecular weight=1086.076    }}
+{{#set: common name=behenoyl CoA}}
+{{#set: consumed by=RXN-13297}}
+{{#set: produced by=RXN-13307}}

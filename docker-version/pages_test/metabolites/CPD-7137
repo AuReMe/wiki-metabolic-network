@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7137 CPD-7137] ==
+* smiles:
+** C(O)C5(C(C(C(C(OC3(=CC([O-])=CC2([O+]=C(C1(=CC=C(O)C=C1))C(=CC=23)OC4(C(O)C(O)C(O)C(CO)O4))))O5)O)O)O)
+* common name:
+** pelargonidin-3,5-di-O-&beta;-D-glucoside
+* inchi key:
+** InChIKey=SLCKJKWFULXZBD-ZOTFFYTFSA-N
+* molecular weight:
+** 594.525    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7828]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=167643 167643]
+* HMDB : HMDB33681
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57503 57503]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08725 C08725]
+{{#set: smiles=C(O)C5(C(C(C(C(OC3(=CC([O-])=CC2([O+]=C(C1(=CC=C(O)C=C1))C(=CC=23)OC4(C(O)C(O)C(O)C(CO)O4))))O5)O)O)O)}}
+{{#set: common name=pelargonidin-3,5-di-O-&beta;-D-glucoside}}
+{{#set: inchi key=InChIKey=SLCKJKWFULXZBD-ZOTFFYTFSA-N}}
+{{#set: molecular weight=594.525    }}
+{{#set: produced by=RXN-7828}}

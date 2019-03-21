@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_866 ==
+* right end position:
+** 10991
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7878
+* centisome position:
+** 28.183022    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10991}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7878}}
+{{#set: centisome position=28.183022    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN}}

@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-RIBULOSE L-RIBULOSE] ==
+* smiles:
+** C(O)C(O)C(O)C(=O)CO
+* common name:
+** L-ribulose
+* inchi key:
+** InChIKey=ZAQJHHRNXZUBTE-UCORVYFPSA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+** ribulose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5116]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 488-84-6
+* CAS : 2042-27-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=644111 644111]
+* HMDB : HMDB03371
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00508 C00508]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.559151.html 559151]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16880 16880]
+* BIGG : rbl__L
+{{#set: smiles=C(O)C(O)C(O)C(=O)CO}}
+{{#set: common name=L-ribulose}}
+{{#set: inchi key=InChIKey=ZAQJHHRNXZUBTE-UCORVYFPSA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: common name=ribulose}}
+{{#set: consumed by=RXN0-5116}}

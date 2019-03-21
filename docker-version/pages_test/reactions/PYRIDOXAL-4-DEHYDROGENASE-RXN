@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PYRIDOXAL-4-DEHYDROGENASE-RXN PYRIDOXAL-4-DEHYDROGENASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** aldo_keto_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.107 EC-1.1.1.107]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PYRIDOXAL]][c] '''+''' 1 [[NAD]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[CPD-375]][c]
+* With common name(s):
+** 1 pyridoxal[c] '''+''' 1 NAD+[c] '''=>''' 1 H+[c] '''+''' 1 NADH[c] '''+''' 1 4-pyridoxolactone[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13083]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_6340]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9885]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-5499]], vitamin B6 degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5499 PWY-5499]
+** '''1''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21339 21339]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01707 R01707]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=aldo_keto_reductase}}
+{{#set: ec number=EC-1.1.1.107}}
+{{#set: gene associated=Tiso_gene_13083|Tiso_gene_6340|Tiso_gene_9885}}
+{{#set: in pathway=PWY-5499}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

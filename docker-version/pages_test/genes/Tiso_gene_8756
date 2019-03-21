@@ -1,0 +1,41 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8756 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMACETOXID-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[AMINEOXID-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[AMINEPHEN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11784]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-5821]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-6381]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9597]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9600]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN6666-4]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7431]]
+* [[PWY-3981]]
+* [[THRDLCTCAT-PWY]]
+* [[PWY6666-2]]
+* [[2PHENDEG-PWY]]
+* [[PWY-6181]]
+* [[PWY-6802]]
+* [[PWY-5751]]
+== External links  ==
+{{#set: reaction associated=AMACETOXID-RXN|AMINEOXID-RXN|AMINEPHEN-RXN|RXN-11784|RXN-5821|RXN-6381|RXN-9597|RXN-9600|RXN6666-4}}
+{{#set: pathway associated=PWY-7431|PWY-3981|THRDLCTCAT-PWY|PWY6666-2|2PHENDEG-PWY|PWY-6181|PWY-6802|PWY-5751}}

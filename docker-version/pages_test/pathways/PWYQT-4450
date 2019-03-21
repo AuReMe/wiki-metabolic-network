@@ -1,0 +1,85 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWYQT-4450 PWYQT-4450] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3699 TAX-3699]
+* common name:
+** aliphatic glucosinolate biosynthesis, side chain elongation cycle
+* Synonym(s):
+** methionine elongation
+
+== Reaction(s) found ==
+ '''10''' reactions found over '''30''' reactions in the full pathway
+* [[RXN-18200]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18201]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18202]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18203]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18204]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18205]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18206]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18207]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18208]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2920]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-18209]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18184 RXN-18184]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18185 RXN-18185]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18186 RXN-18186]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18187 RXN-18187]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18188 RXN-18188]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18189 RXN-18189]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18190 RXN-18190]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18191 RXN-18191]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18192 RXN-18192]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18193 RXN-18193]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4163 RXNQT-4163]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4166 RXNQT-4166]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4169 RXNQT-4169]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4172 RXNQT-4172]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4175 RXNQT-4175]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4345 RXNQT-4345]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4346 RXNQT-4346]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4347 RXNQT-4347]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4348 RXNQT-4348]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4349 RXNQT-4349]
+== External links  ==
+* PLANTCYC : PWYQT-4450
+{{#set: taxonomic range=TAX-3699}}
+{{#set: common name=aliphatic glucosinolate biosynthesis, side chain elongation cycle}}
+{{#set: common name=methionine elongation}}
+{{#set: reaction found=10}}
+{{#set: total reaction=30}}
+{{#set: completion rate=33.0}}

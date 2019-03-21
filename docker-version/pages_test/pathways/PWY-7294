@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7294 PWY-7294] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** xylose degradation IV
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[GLYCOLATE-REDUCTASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_91]]
+*** [[Tiso_gene_777]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[MALSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14377]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.1.2.28-RXN 4.1.2.28-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12246 RXN-12246]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14641 RXN-14641]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14642 RXN-14642]
+* [http://metacyc.org/META/NEW-IMAGE?object=XYLONATE-DEHYDRATASE-RXN XYLONATE-DEHYDRATASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=xylose degradation IV}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

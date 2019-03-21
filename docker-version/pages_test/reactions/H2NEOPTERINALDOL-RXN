@@ -1,0 +1,58 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=H2NEOPTERINALDOL-RXN H2NEOPTERINALDOL-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** dihydroneopterin_aldolase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.2.25 EC-4.1.2.25]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DIHYDRO-NEO-PTERIN]][c] '''<=>''' 1 [[GLYCOLALDEHYDE]][c] '''+''' 1 [[AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE]][c]
+* With common name(s):
+** 1 7,8-dihydroneopterin[c] '''<=>''' 1 glycolaldehyde[c] '''+''' 1 6-(hydroxymethyl)-7,8-dihydropterin[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2576]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2577]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7539]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7539 PWY-7539]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6148]], tetrahydromethanopterin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6148 PWY-6148]
+** '''2''' reactions found over '''14''' reactions in the full pathway
+* [[PWY-6797]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (archaea): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6797 PWY-6797]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6147]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6147 PWY-6147]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10540 10540]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03504 R03504]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P22291 P22291]
+** [http://www.uniprot.org/uniprot/Q9CGE4 Q9CGE4]
+** [http://www.uniprot.org/uniprot/Q9JUL3 Q9JUL3]
+** [http://www.uniprot.org/uniprot/P28823 P28823]
+** [http://www.uniprot.org/uniprot/P29251 P29251]
+** [http://www.uniprot.org/uniprot/P53848 P53848]
+** [http://www.uniprot.org/uniprot/O75013 O75013]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=dihydroneopterin_aldolase}}
+{{#set: ec number=EC-4.1.2.25}}
+{{#set: gene associated=Tiso_gene_2576|Tiso_gene_2577}}
+{{#set: in pathway=PWY-7539|PWY-6148|PWY-6797|PWY-6147}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

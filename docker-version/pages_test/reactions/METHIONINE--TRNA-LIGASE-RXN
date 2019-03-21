@@ -1,0 +1,83 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=METHIONINE--TRNA-LIGASE-RXN METHIONINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** methionyl-trna_synthetase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.10 EC-6.1.1.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[MET]][c] '''+''' 1 [[Elongation-tRNAMet]][c] '''=>''' 1 [[AMP]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[Charged-MET-tRNAs]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 L-methionine[c] '''+''' 1 elongator tRNAmet[c] '''=>''' 1 AMP[c] '''+''' 1 diphosphate[c] '''+''' 1 an L-methionyl-[elongator tRNAmet][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_284]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_406]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13481 13481]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03659 R03659]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P56127 P56127]
+** [http://www.uniprot.org/uniprot/Q44951 Q44951]
+** [http://www.uniprot.org/uniprot/P47267 P47267]
+** [http://www.uniprot.org/uniprot/O84035 O84035]
+** [http://www.uniprot.org/uniprot/O28819 O28819]
+** [http://www.uniprot.org/uniprot/O58721 O58721]
+** [http://www.uniprot.org/uniprot/O83776 O83776]
+** [http://www.uniprot.org/uniprot/O33925 O33925]
+** [http://www.uniprot.org/uniprot/Q58659 Q58659]
+** [http://www.uniprot.org/uniprot/O66738 O66738]
+** [http://www.uniprot.org/uniprot/Q9ZCP0 Q9ZCP0]
+** [http://www.uniprot.org/uniprot/Q9PP85 Q9PP85]
+** [http://www.uniprot.org/uniprot/O26687 O26687]
+** [http://www.uniprot.org/uniprot/O67298 O67298]
+** [http://www.uniprot.org/uniprot/Q9JWP0 Q9JWP0]
+** [http://www.uniprot.org/uniprot/Q9ZKG9 Q9ZKG9]
+** [http://www.uniprot.org/uniprot/Q9Z959 Q9Z959]
+** [http://www.uniprot.org/uniprot/Q9CHE0 Q9CHE0]
+** [http://www.uniprot.org/uniprot/P43828 P43828]
+** [http://www.uniprot.org/uniprot/P56192 P56192]
+** [http://www.uniprot.org/uniprot/Q50319 Q50319]
+** [http://www.uniprot.org/uniprot/P23920 P23920]
+** [http://www.uniprot.org/uniprot/P75091 P75091]
+** [http://www.uniprot.org/uniprot/Q55729 Q55729]
+** [http://www.uniprot.org/uniprot/P22438 P22438]
+** [http://www.uniprot.org/uniprot/P00958 P00958]
+** [http://www.uniprot.org/uniprot/P00959 P00959]
+** [http://www.uniprot.org/uniprot/Q9M2T9 Q9M2T9]
+** [http://www.uniprot.org/uniprot/O23761 O23761]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=methionyl-trna_synthetase}}
+{{#set: ec number=EC-6.1.1.10}}
+{{#set: gene associated=Tiso_gene_284|Tiso_gene_406}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

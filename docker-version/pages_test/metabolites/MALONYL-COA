@@ -1,0 +1,65 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALONYL-COA MALONYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** malonyl-CoA
+* inchi key:
+** InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I
+* molecular weight:
+** 848.541    
+* Synonym(s):
+** malonyl coenzyme A
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16082]]
+* [[RXN1G-445]]
+* [[MALONYL-COA-ACP-TRANSACYL-RXN]]
+* [[RXN-9654]]
+* [[RXN1G-368]]
+* [[2.3.1.165-RXN]]
+* [[RXN-13322]]
+* [[RXN-9632]]
+* [[RXN-9653]]
+* [[RXN-9652]]
+* [[RXN-9651]]
+* [[RXN-9650]]
+* [[RXN-9543]]
+* [[RXN-13441]]
+* [[RXN-13442]]
+* [[RXN-16094]]
+* [[FATTY-ACYL-COA-SYNTHASE-RXN]]
+* [[RXN-10059]]
+* [[RXN-7697]]
+* [[RXN-13297]]
+* [[RXN-13296]]
+* [[RXN-13295]]
+* [[RXN-13294]]
+* [[RXN-16017]]
+* [[RXN-3142]]
+* [[RXN1G-499]]
+* [[RXN-9648]]
+* [[MALONYL-COA-DECARBOXYLASE-RXN]]
+* [[RXN-13431]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5055]]
+* [[ACETYL-COA-CARBOXYLTRANSFER-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 524-14-1
+* BIGG : malcoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266608 45266608]
+* HMDB : HMDB01175
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00083 C00083]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57384 57384]
+* METABOLIGHTS : MTBLC57384
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=malonyl-CoA}}
+{{#set: inchi key=InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I}}
+{{#set: molecular weight=848.541    }}
+{{#set: common name=malonyl coenzyme A}}
+{{#set: consumed by=RXN-16082|RXN1G-445|MALONYL-COA-ACP-TRANSACYL-RXN|RXN-9654|RXN1G-368|2.3.1.165-RXN|RXN-13322|RXN-9632|RXN-9653|RXN-9652|RXN-9651|RXN-9650|RXN-9543|RXN-13441|RXN-13442|RXN-16094|FATTY-ACYL-COA-SYNTHASE-RXN|RXN-10059|RXN-7697|RXN-13297|RXN-13296|RXN-13295|RXN-13294|RXN-16017|RXN-3142|RXN1G-499|RXN-9648|MALONYL-COA-DECARBOXYLASE-RXN|RXN-13431}}
+{{#set: produced by=RXN0-5055|ACETYL-COA-CARBOXYLTRANSFER-RXN}}

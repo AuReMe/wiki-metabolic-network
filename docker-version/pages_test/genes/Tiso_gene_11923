@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11923 ==
+* right end position:
+** 4803
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 28
+* centisome position:
+** 0.3775111    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4803}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=28}}
+{{#set: centisome position=0.3775111    }}
+{{#set: reaction associated=ATPASE-RXN}}

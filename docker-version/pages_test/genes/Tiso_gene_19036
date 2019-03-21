@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19036 ==
+* right end position:
+** 2296
+* transcription direction:
+** POSITIVE
+* left end position:
+** 77
+* centisome position:
+** 2.9210925    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+* Reaction: [[DEOXYADENYLATE-KINASE-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-7219]]
+* [[PWY-7224]]
+== External links  ==
+{{#set: right end position=2296}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=77}}
+{{#set: centisome position=2.9210925    }}
+{{#set: reaction associated=ADENYL-KIN-RXN|DEOXYADENYLATE-KINASE-RXN}}
+{{#set: pathway associated=PWY-7219|PWY-7224}}

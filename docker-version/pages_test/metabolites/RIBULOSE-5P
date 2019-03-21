@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=RIBULOSE-5P RIBULOSE-5P] ==
+* smiles:
+** C(C(C(C(CO)=O)O)O)OP([O-])([O-])=O
+* common name:
+** D-ribulose 5-phosphate
+* inchi key:
+** InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-L
+* molecular weight:
+** 228.095    
+* Synonym(s):
+** ribulose-5P
+** D-ribulose-5-P
+** ribulose-5-P
+
+== Reaction(s) known to consume the compound ==
+* [[DIOHBUTANONEPSYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9952]]
+* [[6PGLUCONDEHYDROG-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[D-RIBULOKIN-RXN]]
+* [[RIBULP3EPIM-RXN]]
+* [[PHOSPHORIBULOKINASE-RXN]]
+* [[RIB5PISOM-RXN]]
+== External links  ==
+* CAS : 4151-19-3
+* BIGG : ru5p__D
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21144996 21144996]
+* HMDB : HMDB00618
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00199 C00199]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20015724.html 20015724]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58121 58121]
+* METABOLIGHTS : MTBLC58121
+{{#set: smiles=C(C(C(C(CO)=O)O)O)OP([O-])([O-])=O}}
+{{#set: common name=D-ribulose 5-phosphate}}
+{{#set: inchi key=InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-L}}
+{{#set: molecular weight=228.095    }}
+{{#set: common name=ribulose-5P|D-ribulose-5-P|ribulose-5-P}}
+{{#set: consumed by=DIOHBUTANONEPSYN-RXN}}
+{{#set: produced by=RXN-9952|6PGLUCONDEHYDROG-RXN}}
+{{#set: reversible reaction associated=D-RIBULOKIN-RXN|RIBULP3EPIM-RXN|PHOSPHORIBULOKINASE-RXN|RIB5PISOM-RXN}}

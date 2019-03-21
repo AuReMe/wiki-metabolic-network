@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5664 PWY-5664] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** tetrahydrobiopterin biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[GTP-CYCLOHYDRO-I-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12736]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.220-RXN 1.1.1.220-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=4.2.3.12-RXN 4.2.3.12-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8854 RXN-8854]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=tetrahydrobiopterin biosynthesis II}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

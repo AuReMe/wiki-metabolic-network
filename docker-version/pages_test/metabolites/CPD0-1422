@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-1422 CPD0-1422] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])[O-])OC(CCCCCCCCCCCCCCC)=O
+* common name:
+** dipalmitoyl phosphatidate
+* inchi key:
+** InChIKey=PORPENFLTBBHSG-MGBGTMOVSA-L
+* molecular weight:
+** 646.883    
+* Synonym(s):
+** PA(16:0/16:0)
+** 1,2-dihexadecanoyl-sn-glycero 3-phosphate
+** 1,2-dipalmitoyl-3-sn-phosphatidic acid
+** dipalmitoyl phosphatidic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-6705]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201390 25201390]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72859 72859]
+* METABOLIGHTS : MTBLC72859
+{{#set: smiles=CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])[O-])OC(CCCCCCCCCCCCCCC)=O}}
+{{#set: common name=dipalmitoyl phosphatidate}}
+{{#set: inchi key=InChIKey=PORPENFLTBBHSG-MGBGTMOVSA-L}}
+{{#set: molecular weight=646.883    }}
+{{#set: common name=PA(16:0/16:0)|1,2-dihexadecanoyl-sn-glycero 3-phosphate|1,2-dipalmitoyl-3-sn-phosphatidic acid|dipalmitoyl phosphatidic acid}}
+{{#set: produced by=RXN0-6705}}

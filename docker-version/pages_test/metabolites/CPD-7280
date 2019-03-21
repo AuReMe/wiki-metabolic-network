@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7280 CPD-7280] ==
+* smiles:
+** CC(C=CC=C(C)C=CC12(OC(CC(O)CC(C)(C)1)2))=CC=CC=C(C)CC=O
+* common name:
+** (3S,5R,6S)-5,6-epoxy-3-hydroxy-5,6-dihydro-12'-apo-&beta;-caroten-12'-al
+* inchi key:
+** InChIKey=FYYDCJDEFSYVOY-WENURHBKSA-N
+* molecular weight:
+** 382.542    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7974]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25246021 25246021]
+{{#set: smiles=CC(C=CC=C(C)C=CC12(OC(CC(O)CC(C)(C)1)2))=CC=CC=C(C)CC=O}}
+{{#set: common name=(3S,5R,6S)-5,6-epoxy-3-hydroxy-5,6-dihydro-12'-apo-&beta;-caroten-12'-al}}
+{{#set: inchi key=InChIKey=FYYDCJDEFSYVOY-WENURHBKSA-N}}
+{{#set: molecular weight=382.542    }}
+{{#set: produced by=RXN-7974}}

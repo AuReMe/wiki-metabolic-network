@@ -1,0 +1,78 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GUANYL-KIN-RXN GUANYL-KIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** thymidine_phosphorylase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.4.8 EC-2.7.4.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[GMP]][c] '''=>''' 1 [[GDP]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 GMP[c] '''=>''' 1 GDP[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1011]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15049]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12554]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_4560]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-7221]], guanosine ribonucleotides de novo biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7221 PWY-7221]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20780 20780]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00332 R00332]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9PNB8 Q9PNB8]
+** [http://www.uniprot.org/uniprot/Q9CEE3 Q9CEE3]
+** [http://www.uniprot.org/uniprot/Q9JT96 Q9JT96]
+** [http://www.uniprot.org/uniprot/P44310 P44310]
+** [http://www.uniprot.org/uniprot/P15454 P15454]
+** [http://www.uniprot.org/uniprot/P60546 P60546]
+** [http://www.uniprot.org/uniprot/P31006 P31006]
+** [http://www.uniprot.org/uniprot/P46195 P46195]
+** [http://www.uniprot.org/uniprot/Q16774 Q16774]
+** [http://www.uniprot.org/uniprot/P72648 P72648]
+** [http://www.uniprot.org/uniprot/Q6RHR9 Q6RHR9]
+** [http://www.uniprot.org/uniprot/Q9M681 Q9M681]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=thymidine_phosphorylase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-2.7.4.8}}
+{{#set: gene associated=Tiso_gene_1011|Tiso_gene_15049|Tiso_gene_12554|Tiso_gene_4560}}
+{{#set: in pathway=PWY-7221}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=manual-primary_network|orthology-athaliana|annotation-in-silico_annotation|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

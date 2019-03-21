@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.2.1.65-RXN 1.2.1.65-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.65 EC-1.2.1.65]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[SALICYLALDEHYDE]][c] '''+''' 1 [[NAD]][c] '''=>''' 2 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[CPD-110]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 salicylaldehyde[c] '''+''' 1 NAD+[c] '''=>''' 2 H+[c] '''+''' 1 NADH[c] '''+''' 1 salicylate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5427]], naphthalene degradation (aerobic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5427 PWY-5427]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18540 18540]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02941 R02941]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.2.1.65}}
+{{#set: in pathway=PWY-5427}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

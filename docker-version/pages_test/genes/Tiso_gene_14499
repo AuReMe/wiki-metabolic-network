@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14499 ==
+* right end position:
+** 5287
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3462
+* centisome position:
+** 61.73324    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[METHYLCROTONYL-COA-CARBOXYLASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[LEU-DEG2-PWY]]
+== External links  ==
+{{#set: right end position=5287}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3462}}
+{{#set: centisome position=61.73324    }}
+{{#set: reaction associated=METHYLCROTONYL-COA-CARBOXYLASE-RXN}}
+{{#set: pathway associated=LEU-DEG2-PWY}}

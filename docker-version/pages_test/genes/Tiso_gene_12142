@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12142 ==
+* right end position:
+** 4381
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 296
+* centisome position:
+** 2.5247357    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-LIGASE-ATP-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17917]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17918]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17919]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4381}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=296}}
+{{#set: centisome position=2.5247357    }}
+{{#set: reaction associated=DNA-LIGASE-ATP-RXN|RXN-17917|RXN-17918|RXN-17919}}

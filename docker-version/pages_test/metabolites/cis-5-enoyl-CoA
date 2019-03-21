@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-5-enoyl-CoA cis-5-enoyl-CoA] ==
+* common name:
+** a cis-5-enoyl-CoA
+* Synonym(s):
+** cis-&Delta;5-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12518]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis-5-enoyl-CoA}}
+{{#set: common name=cis-&Delta;5-enoyl-CoA}}
+{{#set: consumed by=RXN-12518}}

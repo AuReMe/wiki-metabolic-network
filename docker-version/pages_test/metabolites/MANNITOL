@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MANNITOL MANNITOL] ==
+* smiles:
+** C(C(C(C(C(CO)O)O)O)O)O
+* common name:
+** D-mannitol
+* inchi key:
+** InChIKey=FBPFZTCFMRRESA-KVTDHHQDSA-N
+* molecular weight:
+** 182.173    
+* Synonym(s):
+** D-mitobronitol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[MANNITOL-1-PHOSPHATASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[1.1.1.255-RXN]]
+== External links  ==
+* CAS : 69-65-8
+* BIGG : mnl
+* DRUGBANK : DB00742
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6251 6251]
+* HMDB : HMDB00765
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00392 C00392]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.6015.html 6015]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16899 16899]
+* METABOLIGHTS : MTBLC16899
+{{#set: smiles=C(C(C(C(C(CO)O)O)O)O)O}}
+{{#set: common name=D-mannitol}}
+{{#set: inchi key=InChIKey=FBPFZTCFMRRESA-KVTDHHQDSA-N}}
+{{#set: molecular weight=182.173    }}
+{{#set: common name=D-mitobronitol}}
+{{#set: produced by=MANNITOL-1-PHOSPHATASE-RXN}}
+{{#set: reversible reaction associated=1.1.1.255-RXN}}

@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4101 CPD-4101] ==
+* smiles:
+** CC(C)C(=C)CCC(C)[CH]3(CC[CH]4(C2(=CC[CH]1(C(C)C(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** 24-methylenelophenol
+* inchi key:
+** InChIKey=RSMKYRDCCSNYFM-AAGDOFLISA-N
+* molecular weight:
+** 412.698    
+* Synonym(s):
+** 4&alpha;-methyl-5&alpha;-ergosta-7,24-dien-3&beta;-ol
+
+== Reaction(s) known to consume the compound ==
+* [[2.1.1.143-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5283640 5283640]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29107 29107]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11522 C11522]
+{{#set: smiles=CC(C)C(=C)CCC(C)[CH]3(CC[CH]4(C2(=CC[CH]1(C(C)C(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=24-methylenelophenol}}
+{{#set: inchi key=InChIKey=RSMKYRDCCSNYFM-AAGDOFLISA-N}}
+{{#set: molecular weight=412.698    }}
+{{#set: common name=4&alpha;-methyl-5&alpha;-ergosta-7,24-dien-3&beta;-ol}}
+{{#set: consumed by=2.1.1.143-RXN}}

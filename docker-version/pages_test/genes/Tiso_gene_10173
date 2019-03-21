@@ -1,0 +1,45 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10173 ==
+* right end position:
+** 6981
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4535
+* centisome position:
+** 51.881935    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-DEHYDROPANTOATE-REDUCT-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[ACETOLACTREDUCTOISOM-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ACETOOHBUTREDUCTOISOM-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R05068]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-14106]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PANTO-PWY]]
+* [[ILEUSYN-PWY]]
+* [[PWY-6654]]
+* [[VALSYN-PWY]]
+* [[PWY-7111]]
+* [[PWY-5103]]
+== External links  ==
+{{#set: right end position=6981}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4535}}
+{{#set: centisome position=51.881935    }}
+{{#set: reaction associated=2-DEHYDROPANTOATE-REDUCT-RXN|ACETOLACTREDUCTOISOM-RXN|ACETOOHBUTREDUCTOISOM-RXN|R05068|RXN-14106}}
+{{#set: pathway associated=PANTO-PWY|ILEUSYN-PWY|PWY-6654|VALSYN-PWY|PWY-7111|PWY-5103}}

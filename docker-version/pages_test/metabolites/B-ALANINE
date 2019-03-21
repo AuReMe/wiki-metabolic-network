@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=B-ALANINE B-ALANINE] ==
+* smiles:
+** C(C[N+])C([O-])=O
+* common name:
+** &beta;-alanine
+* inchi key:
+** InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
+* molecular weight:
+** 89.094    
+* Synonym(s):
+** 3-azaniumylpropanoate
+** 3-ammoniopropanoate
+
+== Reaction(s) known to consume the compound ==
+* [[PANTOATE-BETA-ALANINE-LIG-RXN]]
+* [[CARNOSINE-SYNTHASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[ASPDECARBOX-RXN]]
+* [[RXN-6382]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12332]]
+== External links  ==
+* CAS : 107-95-9
+* BIGG : ala_B
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4755801 4755801]
+* HMDB : HMDB00056
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00099 C00099]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57966 57966]
+* METABOLIGHTS : MTBLC57966
+{{#set: smiles=C(C[N+])C([O-])=O}}
+{{#set: common name=&beta;-alanine}}
+{{#set: inchi key=InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N}}
+{{#set: molecular weight=89.094    }}
+{{#set: common name=3-azaniumylpropanoate|3-ammoniopropanoate}}
+{{#set: consumed by=PANTOATE-BETA-ALANINE-LIG-RXN|CARNOSINE-SYNTHASE-RXN}}
+{{#set: produced by=ASPDECARBOX-RXN|RXN-6382}}
+{{#set: reversible reaction associated=RXN-12332}}

@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACYLPHOSPHATASE-RXN ACYLPHOSPHATASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** acylphosphatase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1.7 EC-3.6.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Acyl-Phosphates]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[Carboxylates]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 an acyl phosphate[c] '''+''' 1 H2O[c] '''=>''' 1 phosphate[c] '''+''' 1 a carboxylate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13909]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14965 14965]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00539 R00539]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P14620 P14620]
+** [http://www.uniprot.org/uniprot/P35745 P35745]
+** [http://www.uniprot.org/uniprot/P41500 P41500]
+** [http://www.uniprot.org/uniprot/Q9CHW2 Q9CHW2]
+** [http://www.uniprot.org/uniprot/P0AB65 P0AB65]
+** [http://www.uniprot.org/uniprot/P07033 P07033]
+** [http://www.uniprot.org/uniprot/P07031 P07031]
+** [http://www.uniprot.org/uniprot/P07032 P07032]
+** [http://www.uniprot.org/uniprot/P35744 P35744]
+** [http://www.uniprot.org/uniprot/P00818 P00818]
+** [http://www.uniprot.org/uniprot/P07311 P07311]
+** [http://www.uniprot.org/uniprot/P00819 P00819]
+** [http://www.uniprot.org/uniprot/P00820 P00820]
+** [http://www.uniprot.org/uniprot/P00821 P00821]
+** [http://www.uniprot.org/uniprot/P14621 P14621]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=acylphosphatase}}
+{{#set: ec number=EC-3.6.1.7}}
+{{#set: gene associated=Tiso_gene_13909}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

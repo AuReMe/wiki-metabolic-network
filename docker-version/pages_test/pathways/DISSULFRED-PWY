@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=DISSULFRED-PWY DISSULFRED-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** sulfate reduction IV (dissimilatory, to hydrogen sufide))
+* Synonym(s):
+** sulfate respiration
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[SULFATE-ADENYLYLTRANS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10254]]
+*** [[Tiso_gene_17879]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ADENYLYLSULFATE-REDUCTASE-RXN ADENYLYLSULFATE-REDUCTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17803 RXN-17803]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17804 RXN-17804]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=sulfate reduction IV (dissimilatory, to hydrogen sufide))}}
+{{#set: common name=sulfate respiration}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

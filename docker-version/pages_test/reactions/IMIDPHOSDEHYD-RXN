@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=IMIDPHOSDEHYD-RXN IMIDPHOSDEHYD-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.19 EC-4.2.1.19]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[D-ERYTHRO-IMIDAZOLE-GLYCEROL-P]][c] '''=>''' 1 [[IMIDAZOLE-ACETOL-P]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 D-erythro-imidazole-glycerol-phosphate[c] '''=>''' 1 imidazole acetol-phosphate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[HISTSYN-PWY]], L-histidine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=HISTSYN-PWY HISTSYN-PWY]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11040 11040]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03457 R03457]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q58109 Q58109]
+** [http://www.uniprot.org/uniprot/P06633 P06633]
+** [http://www.uniprot.org/uniprot/P10368 P10368]
+** [http://www.uniprot.org/uniprot/P06987 P06987]
+** [http://www.uniprot.org/uniprot/Q9PM76 Q9PM76]
+** [http://www.uniprot.org/uniprot/P44327 P44327]
+** [http://www.uniprot.org/uniprot/Q02134 Q02134]
+** [http://www.uniprot.org/uniprot/P64371 P64371]
+** [http://www.uniprot.org/uniprot/Q12578 Q12578]
+** [http://www.uniprot.org/uniprot/P18787 P18787]
+** [http://www.uniprot.org/uniprot/P16247 P16247]
+** [http://www.uniprot.org/uniprot/P28624 P28624]
+** [http://www.uniprot.org/uniprot/P34041 P34041]
+** [http://www.uniprot.org/uniprot/Q02986 Q02986]
+** [http://www.uniprot.org/uniprot/P40374 P40374]
+** [http://www.uniprot.org/uniprot/P48054 P48054]
+** [http://www.uniprot.org/uniprot/Q43072 Q43072]
+** [http://www.uniprot.org/uniprot/Q9X7B9 Q9X7B9]
+** [http://www.uniprot.org/uniprot/O48932 O48932]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.2.1.19}}
+{{#set: in pathway=HISTSYN-PWY}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

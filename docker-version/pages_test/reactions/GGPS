@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GGPS GGPS] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** geranylgeranyl diphosphate synthase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[FARNESYL-PP]][h] '''+''' 1.0 [[DELTA3-ISOPENTENYL-PP]][h] '''=>''' 1.0 [[PROTON]][h] '''+''' 1.0 [[GERANYLGERANYL-PP]][h] '''+''' 1.0 [[PPI]][h]
+* With common name(s):
+** 1.0 (2E,6E)-farnesyl diphosphate[h] '''+''' 1.0 isopentenyl diphosphate[h] '''=>''' 1.0 H+[h] '''+''' 1.0 geranylgeranyl diphosphate[h] '''+''' 1.0 diphosphate[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18201]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16284]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2848]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=geranylgeranyl diphosphate synthase}}
+{{#set: gene associated=Tiso_gene_18201|Tiso_gene_16284|Tiso_gene_2848}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

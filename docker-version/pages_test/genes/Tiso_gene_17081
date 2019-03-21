@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17081 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[SPERMIDINESYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[SPERMINE-SYNTHASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[ARGSPECAT-PWY]]
+* [[BSUBPOLYAMSYN-PWY]]
+* [[POLYAMINSYN3-PWY]]
+== External links  ==
+{{#set: reaction associated=SPERMIDINESYN-RXN|SPERMINE-SYNTHASE-RXN}}
+{{#set: pathway associated=ARGSPECAT-PWY|BSUBPOLYAMSYN-PWY|POLYAMINSYN3-PWY}}

@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Beta-3-hydroxybutyryl-ACPs Beta-3-hydroxybutyryl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxybutanoyl-[acp]
+* Synonym(s):
+** a &beta;-3-hydroxybutyryl-[acp]
+** a &beta;-3-hydroxybutyryl-[acyl-carrier-protein]
+** a (R)-3-hydroxybutanoyl-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[4.2.1.58-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9514]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxybutanoyl-[acp]}}
+{{#set: common name=a &beta;-3-hydroxybutyryl-[acp]|a &beta;-3-hydroxybutyryl-[acyl-carrier-protein]|a (R)-3-hydroxybutanoyl-[acyl-carrier-protein]}}
+{{#set: consumed by=4.2.1.58-RXN}}
+{{#set: produced by=RXN-9514}}

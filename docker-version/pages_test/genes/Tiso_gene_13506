@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13506 ==
+* right end position:
+** 2245
+* transcription direction:
+** POSITIVE
+* left end position:
+** 786
+* centisome position:
+** 12.576    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GUANPRIBOSYLTRAN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[HYPOXANPRIBOSYLTRAN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[XANPRIBOSYLTRAN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6609]]
+* [[PWY-6620]]
+* [[PWY-6599]]
+* [[PWY-6610]]
+* [[SALVPURINE2-PWY]]
+== External links  ==
+{{#set: right end position=2245}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=786}}
+{{#set: centisome position=12.576    }}
+{{#set: reaction associated=GUANPRIBOSYLTRAN-RXN|HYPOXANPRIBOSYLTRAN-RXN|XANPRIBOSYLTRAN-RXN}}
+{{#set: pathway associated=PWY-6609|PWY-6620|PWY-6599|PWY-6610|SALVPURINE2-PWY}}

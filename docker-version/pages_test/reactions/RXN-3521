@@ -1,0 +1,75 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-3521 RXN-3521] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ascorbate_peroxidase
+* Synonym(s):
+** L-ascorbic acid peroxidase
+** L-ascorbic acid-specific peroxidase
+** ascorbic acid peroxidase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HYDROGEN-PEROXIDE]][c] '''+''' 2 [[ASCORBATE]][c] '''+''' 2 [[PROTON]][c] '''=>''' 2 [[WATER]][c] '''+''' 2 [[CPD-318]][c]
+* With common name(s):
+** 1 hydrogen peroxide[c] '''+''' 2 L-ascorbate[c] '''+''' 2 H+[c] '''=>''' 2 H2O[c] '''+''' 2 monodehydroascorbate radical[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16028]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15962]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5435]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-2261]], ascorbate glutathione cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2261 PWY-2261]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30266 30266]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R09540 R09540]
+** [http://www.genome.jp/dbget-bin/www_bget?R00644 R00644]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P48534 P48534]
+** [http://www.uniprot.org/uniprot/Q7M287 Q7M287]
+** [http://www.uniprot.org/uniprot/O49159 O49159]
+** [http://www.uniprot.org/uniprot/Q7M3G0 Q7M3G0]
+** [http://www.uniprot.org/uniprot/Q05431 Q05431]
+** [http://www.uniprot.org/uniprot/Q43824 Q43824]
+** [http://www.uniprot.org/uniprot/Q41772 Q41772]
+** [http://www.uniprot.org/uniprot/Q41371 Q41371]
+** [http://www.uniprot.org/uniprot/Q42661 Q42661]
+** [http://www.uniprot.org/uniprot/Q42564 Q42564]
+** [http://www.uniprot.org/uniprot/O46921 O46921]
+** [http://www.uniprot.org/uniprot/P93404 P93404]
+** [http://www.uniprot.org/uniprot/Q9FE01 Q9FE01]
+** [http://www.uniprot.org/uniprot/O65634 O65634]
+** [http://www.uniprot.org/uniprot/Q39843 Q39843]
+** [http://www.uniprot.org/uniprot/O49122 O49122]
+** [http://www.uniprot.org/uniprot/O49822 O49822]
+** [http://www.uniprot.org/uniprot/Q42459 Q42459]
+** [http://www.uniprot.org/uniprot/Q39780 Q39780]
+** [http://www.uniprot.org/uniprot/Q96399 Q96399]
+** [http://www.uniprot.org/uniprot/O81333 O81333]
+** [http://www.uniprot.org/uniprot/O81603 O81603]
+** [http://www.uniprot.org/uniprot/O81604 O81604]
+** [http://www.uniprot.org/uniprot/Q42909 Q42909]
+** [http://www.uniprot.org/uniprot/Q9STM9 Q9STM9]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ascorbate_peroxidase}}
+{{#set: common name=L-ascorbic acid peroxidase|L-ascorbic acid-specific peroxidase|ascorbic acid peroxidase}}
+{{#set: gene associated=Tiso_gene_16028|Tiso_gene_15962|Tiso_gene_5435}}
+{{#set: in pathway=PWY-2261}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

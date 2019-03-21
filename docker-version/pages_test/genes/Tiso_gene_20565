@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20565 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LYSOPHOSPHOLIPASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14899]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15035]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7409]]
+* [[PWY-7367]]
+== External links  ==
+{{#set: reaction associated=LYSOPHOSPHOLIPASE-RXN|RXN-14899|RXN-15035}}
+{{#set: pathway associated=PWY-7409|PWY-7367}}

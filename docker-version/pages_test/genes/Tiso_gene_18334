@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18334 ==
+* right end position:
+** 3072
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 339
+* centisome position:
+** 10.985094    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.12.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16317]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3072}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=339}}
+{{#set: centisome position=10.985094    }}
+{{#set: reaction associated=2.7.12.2-RXN|PROTEIN-KINASE-RXN|RXN-16317}}

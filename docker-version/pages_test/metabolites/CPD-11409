@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11409 CPD-11409] ==
+* smiles:
+** C(=O)([O-])CC1(C=C(I)C(=C(I)C=1)OC3(=CC(I)=C(OC2(OC(C([O-])=O)C(O)C(O)C(O)2))C(I)=C3))
+* common name:
+** tetraiodothyroacetate ether glucuronide
+* inchi key:
+** InChIKey=GYORPZQLVMNOGY-RUPWJETCSA-L
+* molecular weight:
+** 921.943    
+* Synonym(s):
+** tetraiodothyroacetic acid ether glucuronide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10616]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659237 90659237]
+{{#set: smiles=C(=O)([O-])CC1(C=C(I)C(=C(I)C=1)OC3(=CC(I)=C(OC2(OC(C([O-])=O)C(O)C(O)C(O)2))C(I)=C3))}}
+{{#set: common name=tetraiodothyroacetate ether glucuronide}}
+{{#set: inchi key=InChIKey=GYORPZQLVMNOGY-RUPWJETCSA-L}}
+{{#set: molecular weight=921.943    }}
+{{#set: common name=tetraiodothyroacetic acid ether glucuronide}}
+{{#set: produced by=RXN-10616}}

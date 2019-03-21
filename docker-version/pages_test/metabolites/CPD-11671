@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11671 CPD-11671] ==
+* smiles:
+** C(O)CC1(=CNC2(=C1C=C(O)C=C2))
+* common name:
+** 5-hydroxytryptophol
+* inchi key:
+** InChIKey=KQROHCSYOGBQGJ-UHFFFAOYSA-N
+* molecular weight:
+** 177.202    
+* Synonym(s):
+** hydroxytryptophol
+** 5-hydroxyindole-3-ethanol
+** 5-hydroxy-1H-indole-3-ethanol
+** 1H-indole-3-ethanol, 5-hydroxy-
+** indole-3-ethanol, 5-hydroxy-
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10784]]
+* [[RXN-10782]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10781]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9061 9061]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8708.html 8708]
+* HMDB : HMDB01855
+{{#set: smiles=C(O)CC1(=CNC2(=C1C=C(O)C=C2))}}
+{{#set: common name=5-hydroxytryptophol}}
+{{#set: inchi key=InChIKey=KQROHCSYOGBQGJ-UHFFFAOYSA-N}}
+{{#set: molecular weight=177.202    }}
+{{#set: common name=hydroxytryptophol|5-hydroxyindole-3-ethanol|5-hydroxy-1H-indole-3-ethanol|1H-indole-3-ethanol, 5-hydroxy-|indole-3-ethanol, 5-hydroxy-}}
+{{#set: consumed by=RXN-10784|RXN-10782}}
+{{#set: produced by=RXN-10781}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=trans-D2-cis-cis-D9-27-C46-3-ACPs trans-D2-cis-cis-D9-27-C46-3-ACPs] ==
+* common name:
+** a trans-delta2-cis,cis-delta9,27-C46:3-[acp]
+* Synonym(s):
+** a trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-686]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans-delta2-cis,cis-delta9,27-C46:3-[acp]}}
+{{#set: common name=a trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier-protein]}}
+{{#set: consumed by=RXN1G-686}}

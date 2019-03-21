@@ -1,0 +1,14 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2351 CPD0-2351] ==
+* common name:
+** a tRNA precursor with a 5' extension and a long 3' trailer
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-6479]]
+* [[RXN0-4222]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNA precursor with a 5' extension and a long 3' trailer}}
+{{#set: consumed by=RXN0-6479|RXN0-4222}}

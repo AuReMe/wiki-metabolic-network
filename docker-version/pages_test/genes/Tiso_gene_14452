@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14452 ==
+* right end position:
+** 4969
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4261
+* centisome position:
+** 75.442635    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7511]]
+== External links  ==
+{{#set: right end position=4969}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4261}}
+{{#set: centisome position=75.442635    }}
+{{#set: reaction associated=RXN-15556}}
+{{#set: pathway associated=PWY-7511}}

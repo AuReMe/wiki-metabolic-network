@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Aliphatic-Amines Aliphatic-Amines] ==
+* common name:
+** an aliphatic amine
+* Synonym(s):
+** RCH2NH2
+** RCH(2)NH(2)
+
+== Reaction(s) known to consume the compound ==
+* [[AMINEOXID-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an aliphatic amine}}
+{{#set: common name=RCH2NH2|RCH(2)NH(2)}}
+{{#set: consumed by=AMINEOXID-RXN}}

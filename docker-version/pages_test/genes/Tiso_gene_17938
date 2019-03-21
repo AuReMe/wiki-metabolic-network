@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17938 ==
+* right end position:
+** 3066
+* transcription direction:
+** POSITIVE
+* left end position:
+** 165
+* centisome position:
+** 4.910714    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3066}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=165}}
+{{#set: centisome position=4.910714    }}
+{{#set: reaction associated=2.4.2.31-RXN}}

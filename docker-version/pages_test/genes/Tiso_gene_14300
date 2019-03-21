@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14300 ==
+* right end position:
+** 9977
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8194
+* centisome position:
+** 80.61787    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMINOCYL-TRNA-HYDROLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12460]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16637]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY490-4]]
+* [[PWY-6308]]
+== External links  ==
+{{#set: right end position=9977}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8194}}
+{{#set: centisome position=80.61787    }}
+{{#set: reaction associated=AMINOCYL-TRNA-HYDROLASE-RXN|RXN-12460|RXN-16637}}
+{{#set: pathway associated=PWY490-4|PWY-6308}}

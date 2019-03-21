@@ -1,0 +1,49 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-DELTA1-PYRROLINE_5-CARBOXYLATE L-DELTA1-PYRROLINE_5-CARBOXYLATE] ==
+* smiles:
+** C1(=NC(CC1)C(=O)[O-])
+* common name:
+** (S)-1-pyrroline-5-carboxylate
+* inchi key:
+** InChIKey=DWAKNKKXGALPNW-BYPYZUCNSA-M
+* molecular weight:
+** 112.108    
+* Synonym(s):
+** pyrroline 5-carboxylate
+** L-&Delta;1-pyrroline-5-carboxylate
+** 1-pyrroline-5-carboxylate
+** L-1-pyrroline-5-carboxylate
+** &delta;-1-pyrroline-5-carboxylic acid
+** &delta;-1-pyrroline-5-carboxylate
+
+== Reaction(s) known to consume the compound ==
+* [[PYRROLINECARBDEHYDROG-RXN]]
+* [[RXN0-7005]]
+* [[R01251]]
+* [[PYRROLINECARBREDUCT-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14903]]
+* [[RXN0-7008]]
+== Reaction(s) of unknown directionality ==
+* [[SPONTPRO-RXN]]
+== External links  ==
+* CAS : 2906-39-0
+* BIGG : 1pyr5c
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11966181 11966181]
+* HMDB : HMDB01301
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03912 C03912]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10140174.html 10140174]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17388 17388]
+* METABOLIGHTS : MTBLC17388
+{{#set: smiles=C1(=NC(CC1)C(=O)[O-])}}
+{{#set: common name=(S)-1-pyrroline-5-carboxylate}}
+{{#set: inchi key=InChIKey=DWAKNKKXGALPNW-BYPYZUCNSA-M}}
+{{#set: molecular weight=112.108    }}
+{{#set: common name=pyrroline 5-carboxylate|L-&Delta;1-pyrroline-5-carboxylate|1-pyrroline-5-carboxylate|L-1-pyrroline-5-carboxylate|&delta;-1-pyrroline-5-carboxylic acid|&delta;-1-pyrroline-5-carboxylate}}
+{{#set: consumed by=PYRROLINECARBDEHYDROG-RXN|RXN0-7005|R01251|PYRROLINECARBREDUCT-RXN}}
+{{#set: produced by=RXN-14903|RXN0-7008}}
+{{#set: reversible reaction associated=SPONTPRO-RXN}}

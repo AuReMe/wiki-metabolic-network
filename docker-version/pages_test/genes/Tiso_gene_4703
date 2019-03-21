@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4703 ==
+* right end position:
+** 14194
+* transcription direction:
+** POSITIVE
+* left end position:
+** 12599
+* centisome position:
+** 87.06378    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14194}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=12599}}
+{{#set: centisome position=87.06378    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

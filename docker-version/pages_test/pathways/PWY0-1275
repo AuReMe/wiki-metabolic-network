@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1275 PWY0-1275] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** lipoate biosynthesis and incorporation II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[RXN0-5098]]
+** 5 associated gene(s):
+*** [[Tiso_gene_4494]]
+*** [[Tiso_gene_8713]]
+*** [[Tiso_gene_17216]]
+*** [[Tiso_gene_17215]]
+*** [[Tiso_gene_4493]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN0-949]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8049]]
+*** [[Tiso_gene_437]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1275 PWY0-1275]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=lipoate biosynthesis and incorporation II}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

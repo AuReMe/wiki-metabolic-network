@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=COUMARATE COUMARATE] ==
+* smiles:
+** C(=O)([O-])C=CC1(=CC=C(O)C=C1)
+* common name:
+** 4-coumarate
+* inchi key:
+** InChIKey=NGSWKAQJJWESNS-ZZXKWVIFSA-M
+* molecular weight:
+** 163.152    
+* Synonym(s):
+** 4-hydroxycinnamate
+** 4-hydroxycinnamic acid
+** p-coumarate
+** trans-4-hydroxycinnamate
+** p-coumaric acid
+** trans-p-hydroxycinnamate
+** trans-4-coumarate
+
+== Reaction(s) known to consume the compound ==
+* [[4-COUMARATE--COA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[TRANS-CINNAMATE-4-MONOOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 7400-08-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54708745 54708745]
+* HMDB : HMDB02035
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00811 C00811]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4450678.html 4450678]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=12876 12876]
+* METABOLIGHTS : MTBLC12876
+{{#set: smiles=C(=O)([O-])C=CC1(=CC=C(O)C=C1)}}
+{{#set: common name=4-coumarate}}
+{{#set: inchi key=InChIKey=NGSWKAQJJWESNS-ZZXKWVIFSA-M}}
+{{#set: molecular weight=163.152    }}
+{{#set: common name=4-hydroxycinnamate|4-hydroxycinnamic acid|p-coumarate|trans-4-hydroxycinnamate|p-coumaric acid|trans-p-hydroxycinnamate|trans-4-coumarate}}
+{{#set: consumed by=4-COUMARATE--COA-LIGASE-RXN}}
+{{#set: produced by=TRANS-CINNAMATE-4-MONOOXYGENASE-RXN}}

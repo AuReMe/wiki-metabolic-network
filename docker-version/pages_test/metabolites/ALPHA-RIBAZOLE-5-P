@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALPHA-RIBAZOLE-5-P ALPHA-RIBAZOLE-5-P] ==
+* smiles:
+** CC2(C(C)=CC1(N(C=NC=1C=2)C3(C(O)C(O)C(COP([O-])(=O)[O-])O3)))
+* common name:
+** &alpha;-ribazole 5'-phosphate
+* inchi key:
+** InChIKey=ZMRGXEJKZPRBPJ-SYQHCUMBSA-L
+* molecular weight:
+** 356.271    
+* Synonym(s):
+** N1-(5'-phospho-&alpha;-D-ribosyl)-5,6-dimethylbenzimidazole
+** DMB-ribose-5'-P
+** &alpha;-ribazole-5'-P
+
+== Reaction(s) known to consume the compound ==
+* [[RIBAZOLEPHOSPHAT-RXN]]
+* [[R04594]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-16788]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04778 C04778]
+* HMDB : HMDB03882
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57918 57918]
+* BIGG : 5prdmbz
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49791947 49791947]
+{{#set: smiles=CC2(C(C)=CC1(N(C=NC=1C=2)C3(C(O)C(O)C(COP([O-])(=O)[O-])O3)))}}
+{{#set: common name=&alpha;-ribazole 5'-phosphate}}
+{{#set: inchi key=InChIKey=ZMRGXEJKZPRBPJ-SYQHCUMBSA-L}}
+{{#set: molecular weight=356.271    }}
+{{#set: common name=N1-(5'-phospho-&alpha;-D-ribosyl)-5,6-dimethylbenzimidazole|DMB-ribose-5'-P|&alpha;-ribazole-5'-P}}
+{{#set: consumed by=RIBAZOLEPHOSPHAT-RXN|R04594}}
+{{#set: reversible reaction associated=RXN-16788}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UBIQUINONE-8 UBIQUINONE-8] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCC1(C(C(OC)=C(OC)C(=O)C(C)=1)=O)
+* common name:
+** ubiquinone-8
+* inchi key:
+** InChIKey=ICFIZJQGJAJRSU-SGHXUWJISA-N
+* molecular weight:
+** 727.121    
+* Synonym(s):
+** ubiquinone(8)
+** coenzyme-Q8
+
+== Reaction(s) known to consume the compound ==
+* [[NADHor_2m]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 1339-63-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5283546 5283546]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C17569 C17569]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4446659.html 4446659]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61683 61683]
+* BIGG : q8
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCC1(C(C(OC)=C(OC)C(=O)C(C)=1)=O)}}
+{{#set: common name=ubiquinone-8}}
+{{#set: inchi key=InChIKey=ICFIZJQGJAJRSU-SGHXUWJISA-N}}
+{{#set: molecular weight=727.121    }}
+{{#set: common name=ubiquinone(8)|coenzyme-Q8}}
+{{#set: consumed by=NADHor_2m}}

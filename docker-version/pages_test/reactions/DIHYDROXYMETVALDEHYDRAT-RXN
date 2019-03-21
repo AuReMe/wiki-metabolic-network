@@ -1,0 +1,69 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROXYMETVALDEHYDRAT-RXN DIHYDROXYMETVALDEHYDRAT-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 2,3-Dihydroxy-3-methylvalerate dehydratase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.9 EC-4.2.1.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[1-KETO-2-METHYLVALERATE]][c] '''=>''' 1 [[2-KETO-3-METHYL-VALERATE]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 (R)-2,3-dihydroxy-3-methylpentanoate[c] '''=>''' 1 (S)-3-methyl-2-oxopentanoate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1563]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-5103]], L-isoleucine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5103 PWY-5103]
+** '''4''' reactions found over '''7''' reactions in the full pathway
+* [[ILEUSYN-PWY]], L-isoleucine biosynthesis I (from threonine): [http://metacyc.org/META/NEW-IMAGE?object=ILEUSYN-PWY ILEUSYN-PWY]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-5101]], L-isoleucine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5101 PWY-5101]
+** '''5''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-5104]], L-isoleucine biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5104 PWY-5104]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27694 27694]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05070 R05070]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P55186 P55186]
+** [http://www.uniprot.org/uniprot/Q9JUE0 Q9JUE0]
+** [http://www.uniprot.org/uniprot/P05791 P05791]
+** [http://www.uniprot.org/uniprot/Q9UZ03 Q9UZ03]
+** [http://www.uniprot.org/uniprot/P44851 P44851]
+** [http://www.uniprot.org/uniprot/Q02139 Q02139]
+** [http://www.uniprot.org/uniprot/Q9PJ98 Q9PJ98]
+** [http://www.uniprot.org/uniprot/P39522 P39522]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=2,3-Dihydroxy-3-methylvalerate dehydratase}}
+{{#set: ec number=EC-4.2.1.9}}
+{{#set: gene associated=Tiso_gene_1563}}
+{{#set: in pathway=PWY-5103|ILEUSYN-PWY|PWY-5101|PWY-5104}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

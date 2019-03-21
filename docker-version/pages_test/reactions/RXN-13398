@@ -1,0 +1,59 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13398 RXN-13398] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** rieske_2fe-2sdomainiss
+** tic55_component_of_chloroplast_import_machinery
+** isp_domain-containing_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.13.122 EC-1.14.13.122]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[PROTON]][c] '''+''' 2 [[NADPH]][c] '''+''' 1 [[CHLOROPHYLLIDE-A]][c] '''+''' 2 [[OXYGEN-MOLECULE]][c] '''=>''' 2 [[NADP]][c] '''+''' 1 [[CPD-7014]][c] '''+''' 3 [[WATER]][c]
+* With common name(s):
+** 2 H+[c] '''+''' 2 NADPH[c] '''+''' 1 chlorophyllide a[c] '''+''' 2 oxygen[c] '''=>''' 2 NADP+[c] '''+''' 1 chlorophyllide b[c] '''+''' 3 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13817]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8091]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12611]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_152]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4002]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22139 22139]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R10080 R10080]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=rieske_2fe-2sdomainiss}}
+{{#set: common name=tic55_component_of_chloroplast_import_machinery}}
+{{#set: common name=isp_domain-containing_protein}}
+{{#set: ec number=EC-1.14.13.122}}
+{{#set: gene associated=Tiso_gene_13817|Tiso_gene_8091|Tiso_gene_12611|Tiso_gene_152|Tiso_gene_4002}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

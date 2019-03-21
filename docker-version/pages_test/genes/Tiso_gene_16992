@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16992 ==
+* right end position:
+** 1997
+* transcription direction:
+** POSITIVE
+* left end position:
+** 260
+* centisome position:
+** 6.5261045    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.2.23-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1997}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=260}}
+{{#set: centisome position=6.5261045    }}
+{{#set: reaction associated=3.2.2.23-RXN}}

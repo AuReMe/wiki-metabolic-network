@@ -1,0 +1,111 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=NONMEVIPP-PWY NONMEVIPP-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** methylerythritol phosphate pathway I
+* Synonym(s):
+** nonmevalonate isopentenyl diphosphate biosynthesis
+** methylerythritol phosphate degradation
+** MEP degradation
+** deoxyxylulose phosphate pathway
+** DOXP pathway
+** Rohmer pathway
+** isopentenyl diphosphate biosynthesis -- mevalonate-independent
+** nonmevalonate isoprenoid pathway
+** MEP pathway
+
+== Reaction(s) found ==
+ '''9''' reactions found over '''9''' reactions in the full pathway
+* [[2.7.1.148-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13463]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[2.7.7.60-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17568]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[DXPREDISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15169]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[DXS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17311]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[IPPISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8653]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[ISPH2-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5609]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[RXN-15878]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[RXN0-302]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9642]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN0-884]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5609]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=NONMEVIPP-PWY NONMEVIPP-PWY]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=NONMEVIPP-PWY NONMEVIPP-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=methylerythritol phosphate pathway I}}
+{{#set: common name=nonmevalonate isopentenyl diphosphate biosynthesis|methylerythritol phosphate degradation|MEP degradation|deoxyxylulose phosphate pathway|DOXP pathway|Rohmer pathway|isopentenyl diphosphate biosynthesis -- mevalonate-independent|nonmevalonate isoprenoid pathway|MEP pathway}}
+{{#set: reaction found=9}}
+{{#set: total reaction=9}}
+{{#set: completion rate=100.0}}

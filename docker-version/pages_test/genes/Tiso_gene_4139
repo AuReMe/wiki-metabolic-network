@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4139 ==
+* right end position:
+** 3987
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2802
+* centisome position:
+** 18.22676    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.135-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6557]]
+== External links  ==
+{{#set: right end position=3987}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2802}}
+{{#set: centisome position=18.22676    }}
+{{#set: reaction associated=2.4.1.135-RXN}}
+{{#set: pathway associated=PWY-6557}}

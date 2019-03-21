@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11753 ==
+* right end position:
+** 1531
+* transcription direction:
+** POSITIVE
+* left end position:
+** 583
+* centisome position:
+** 7.7167435    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=1531}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=583}}
+{{#set: centisome position=7.7167435    }}
+{{#set: reaction associated=ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

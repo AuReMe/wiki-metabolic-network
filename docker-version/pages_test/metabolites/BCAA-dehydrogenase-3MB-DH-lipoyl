@@ -1,0 +1,14 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BCAA-dehydrogenase-3MB-DH-lipoyl BCAA-dehydrogenase-3MB-DH-lipoyl] ==
+* common name:
+** a [apo BCAA dehydrogenase E2 protein] N6-S-[3-methylbutanoyl]dihydrolipoyl-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ISOVALERYLCOA-DHLIPOAMIDE-RXN]]
+* [[KETOISOCAPROATE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [apo BCAA dehydrogenase E2 protein] N6-S-[3-methylbutanoyl]dihydrolipoyl-L-lysine}}
+{{#set: produced by=ISOVALERYLCOA-DHLIPOAMIDE-RXN|KETOISOCAPROATE-RXN}}

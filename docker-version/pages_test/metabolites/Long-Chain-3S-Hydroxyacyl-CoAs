@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Long-Chain-3S-Hydroxyacyl-CoAs Long-Chain-3S-Hydroxyacyl-CoAs] ==
+* common name:
+** a long-chain (3S)-3-hydroxyacyl-CoA
+* Synonym(s):
+** a long-chain-L-3-hydroxyacyl-CoA
+** a long-chain (S)-hydroxyacyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.1.1.211-RXN]]
+== External links  ==
+{{#set: common name=a long-chain (3S)-3-hydroxyacyl-CoA}}
+{{#set: common name=a long-chain-L-3-hydroxyacyl-CoA|a long-chain (S)-hydroxyacyl-CoA}}
+{{#set: reversible reaction associated=1.1.1.211-RXN}}

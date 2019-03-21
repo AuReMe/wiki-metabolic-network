@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5451 PWY-5451] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** acetone degradation I (to methylglyoxal)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[ACETOACETATE-DECARBOXYLASE-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-8630]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1035]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ISOPROPANOL-DEHYDROGENASE-NADP+-RXN ISOPROPANOL-DEHYDROGENASE-NADP+-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17627 RXN-17627]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=acetone degradation I (to methylglyoxal)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

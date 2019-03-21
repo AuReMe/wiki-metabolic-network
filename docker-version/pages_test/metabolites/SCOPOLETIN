@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SCOPOLETIN SCOPOLETIN] ==
+* smiles:
+** COC2(C=C1(C(OC(=O)C=C1)=CC=2O))
+* common name:
+** scopoletin
+* inchi key:
+** InChIKey=RODXRVNMMDRFIK-UHFFFAOYSA-N
+* molecular weight:
+** 192.171    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14179]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280460 5280460]
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=405647 405647]
+* HMDB : HMDB34344
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01752 C01752]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444113.html 4444113]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17488 17488]
+* METABOLIGHTS : MTBLC17488
+{{#set: smiles=COC2(C=C1(C(OC(=O)C=C1)=CC=2O))}}
+{{#set: common name=scopoletin}}
+{{#set: inchi key=InChIKey=RODXRVNMMDRFIK-UHFFFAOYSA-N}}
+{{#set: molecular weight=192.171    }}
+{{#set: produced by=RXN-14179}}

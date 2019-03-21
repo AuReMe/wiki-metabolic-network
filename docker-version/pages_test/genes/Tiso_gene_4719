@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4719 ==
+* right end position:
+** 5461
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4094
+* centisome position:
+** 28.361622    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4OHBENZOATE-OCTAPRENYLTRANSFER-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[GPPSYN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7736]]
+* [[PWY-7410]]
+* [[PWY-6859]]
+* [[PWY-7709]]
+* [[PWY-7102]]
+* [[PWY-7182]]
+* [[PWY-6708]]
+* [[PWY-7141]]
+* [[PWY-5123]]
+* [[PWY-5122]]
+* [[PWY-6383]]
+* [[PWY-7659]]
+* [[PWY-5870]]
+== External links  ==
+{{#set: right end position=5461}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4094}}
+{{#set: centisome position=28.361622    }}
+{{#set: reaction associated=4OHBENZOATE-OCTAPRENYLTRANSFER-RXN|GPPSYN-RXN}}
+{{#set: pathway associated=PWY-7736|PWY-7410|PWY-6859|PWY-7709|PWY-7102|PWY-7182|PWY-6708|PWY-7141|PWY-5123|PWY-5122|PWY-6383|PWY-7659|PWY-5870}}

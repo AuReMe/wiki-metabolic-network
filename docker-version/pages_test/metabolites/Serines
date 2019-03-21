@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Serines Serines] ==
+* common name:
+** serine
+* Synonym(s):
+** (L) or (D)-serine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PSERPHOSPHA-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=serine}}
+{{#set: common name=(L) or (D)-serine}}
+{{#set: produced by=PSERPHOSPHA-RXN}}

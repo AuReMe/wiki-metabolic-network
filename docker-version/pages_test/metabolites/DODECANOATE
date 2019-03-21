@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DODECANOATE DODECANOATE] ==
+* smiles:
+** CCCCCCCCCCCC([O-])=O
+* common name:
+** laurate
+* inchi key:
+** InChIKey=POULHZVOKOAJMA-UHFFFAOYSA-M
+* molecular weight:
+** 199.312    
+* Synonym(s):
+** n-dodecanoic acid
+** dodecanoic acid
+** lauric acid
+** tin II 2-ethylhexanoate
+** dodecanoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16393]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9627]]
+* [[3.1.2.21-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4149208 4149208]
+* CAS : 143-07-7
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=5026 5026]
+* HMDB : HMDB00638
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02679 C02679]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3361474.html 3361474]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18262 18262]
+* METABOLIGHTS : MTBLC18262
+{{#set: smiles=CCCCCCCCCCCC([O-])=O}}
+{{#set: common name=laurate}}
+{{#set: inchi key=InChIKey=POULHZVOKOAJMA-UHFFFAOYSA-M}}
+{{#set: molecular weight=199.312    }}
+{{#set: common name=n-dodecanoic acid|dodecanoic acid|lauric acid|tin II 2-ethylhexanoate|dodecanoate}}
+{{#set: consumed by=RXN-16393}}
+{{#set: produced by=RXN-9627|3.1.2.21-RXN}}

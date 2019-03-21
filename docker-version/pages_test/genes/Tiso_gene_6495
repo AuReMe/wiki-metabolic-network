@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6495 ==
+* right end position:
+** 3284
+* transcription direction:
+** POSITIVE
+* left end position:
+** 344
+* centisome position:
+** 2.8371134    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.224-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[2.4.1.225-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6558]]
+== External links  ==
+{{#set: right end position=3284}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=344}}
+{{#set: centisome position=2.8371134    }}
+{{#set: reaction associated=2.4.1.224-RXN|2.4.1.225-RXN}}
+{{#set: pathway associated=PWY-6558}}

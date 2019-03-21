@@ -1,0 +1,22 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10363 CPD-10363] ==
+* common name:
+** a 1,2-diacyl-3-O-[&beta;-D-galactosyl-(1&rarr;6)-&beta;-D-galactosyl]-sn-glycerol
+* Synonym(s):
+** a (&beta;-D-galactosyl-(1->6)-&beta;-D-galactosyl)-1,2-diacyl-sn-glycerol
+** an &beta;-D-galactosyl-&beta;-D-galactosyldiacylglycerol
+** DGDG
+** a &beta;,&beta; digalactosyldiacylglycerol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9721]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-1226]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-16634]]
+== External links  ==
+{{#set: common name=a 1,2-diacyl-3-O-[&beta;-D-galactosyl-(1&rarr;6)-&beta;-D-galactosyl]-sn-glycerol}}
+{{#set: common name=a (&beta;-D-galactosyl-(1->6)-&beta;-D-galactosyl)-1,2-diacyl-sn-glycerol|an &beta;-D-galactosyl-&beta;-D-galactosyldiacylglycerol|DGDG|a &beta;,&beta; digalactosyldiacylglycerol}}
+{{#set: consumed by=RXN-9721}}
+{{#set: produced by=RXN-1226}}
+{{#set: reversible reaction associated=RXN-16634}}

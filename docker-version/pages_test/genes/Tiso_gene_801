@@ -1,0 +1,47 @@
+[[Category:Gene]]
+== Gene Tiso_gene_801 ==
+* right end position:
+** 28494
+* transcription direction:
+** POSITIVE
+* left end position:
+** 27820
+* centisome position:
+** 96.86292    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYL-COA-HYDROLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[FACOAE1839Z12Z15Z]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[LINOLEOYL-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PALMITOYL-COA-HYDROLASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-10708]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-9624]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[THIOESTER-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-1121]]
+* [[PWY-321]]
+* [[PWY-5972]]
+* [[PWY-6733]]
+* [[PWY-735]]
+* [[PWY-5994]]
+* [[PWY3O-355]]
+* [[PWY-6917]]
+* [[PWY-5148]]
+== External links  ==
+{{#set: right end position=28494}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=27820}}
+{{#set: centisome position=96.86292    }}
+{{#set: reaction associated=ACYL-COA-HYDROLASE-RXN|FACOAE1839Z12Z15Z|LINOLEOYL-RXN|PALMITOYL-COA-HYDROLASE-RXN|RXN-10708|RXN-9624|THIOESTER-RXN}}
+{{#set: pathway associated=PWY-1121|PWY-321|PWY-5972|PWY-6733|PWY-735|PWY-5994|PWY3O-355|PWY-6917|PWY-5148}}

@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-1603 RXN0-1603] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1.66 EC-3.6.1.66]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[XTP]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[XANTHOSINE-5-PHOSPHATE]][c]
+* With common name(s):
+** 1 XTP[c] '''+''' 1 H2O[c] '''=>''' 1 diphosphate[c] '''+''' 1 H+[c] '''+''' 1 XMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18793]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28610 28610]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02720 R02720]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.6.1.66}}
+{{#set: gene associated=Tiso_gene_18793}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

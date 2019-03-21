@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SORBITOL SORBITOL] ==
+* smiles:
+** C(C(C(C(C(CO)O)O)O)O)O
+* common name:
+** D-sorbitol
+* inchi key:
+** InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N
+* molecular weight:
+** 182.173    
+* Synonym(s):
+** L-gulitol
+** D-glucitol
+** meglumine
+** iso-sorbide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-7644]]
+== External links  ==
+* CAS : 50-70-4
+* BIGG : sbt__D
+* DRUGBANK : DB01638
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5780 5780]
+* HMDB : HMDB00247
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00794 C00794]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5576.html 5576]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17924 17924]
+* METABOLIGHTS : MTBLC17924
+{{#set: smiles=C(C(C(C(C(CO)O)O)O)O)O}}
+{{#set: common name=D-sorbitol}}
+{{#set: inchi key=InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N}}
+{{#set: molecular weight=182.173    }}
+{{#set: common name=L-gulitol|D-glucitol|meglumine|iso-sorbide}}
+{{#set: reversible reaction associated=RXN-7644}}

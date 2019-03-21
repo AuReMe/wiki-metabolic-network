@@ -1,0 +1,89 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.23-RXN 3.2.1.23-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** polyprotein
+** glycoside_hydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.23 EC-3.2.1.23]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[Beta-D-Galactosides]][c] '''=>''' 1 [[D-galactopyranose]][c] '''+''' 1 [[Non-Galactosylated-Galactose-Acceptors]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a &beta;-D-galactoside[c] '''=>''' 1 D-galactopyranose[c] '''+''' 1 a non galactosylated galactose acceptor[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12839]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17558]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1398]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P06219 P06219]
+** [http://www.uniprot.org/uniprot/P11175 P11175]
+** [http://www.uniprot.org/uniprot/P19668 P19668]
+** [http://www.uniprot.org/uniprot/P20043 P20043]
+** [http://www.uniprot.org/uniprot/P16278 P16278]
+** [http://www.uniprot.org/uniprot/P23780 P23780]
+** [http://www.uniprot.org/uniprot/P24131 P24131]
+** [http://www.uniprot.org/uniprot/Q02603 Q02603]
+** [http://www.uniprot.org/uniprot/Q53790 Q53790]
+** [http://www.uniprot.org/uniprot/P23989 P23989]
+** [http://www.uniprot.org/uniprot/P48982 P48982]
+** [http://www.uniprot.org/uniprot/Q9UYG5 Q9UYG5]
+** [http://www.uniprot.org/uniprot/Q02604 Q02604]
+** [http://www.uniprot.org/uniprot/P0AC73 P0AC73]
+** [http://www.uniprot.org/uniprot/O58247 O58247]
+** [http://www.uniprot.org/uniprot/Q9UYH2 Q9UYH2]
+** [http://www.uniprot.org/uniprot/P00722 P00722]
+** [http://www.uniprot.org/uniprot/P06864 P06864]
+** [http://www.uniprot.org/uniprot/Q47170 Q47170]
+** [http://www.uniprot.org/uniprot/Q59140 Q59140]
+** [http://www.uniprot.org/uniprot/P00723 P00723]
+** [http://www.uniprot.org/uniprot/P94248 P94248]
+** [http://www.uniprot.org/uniprot/O31341 O31341]
+** [http://www.uniprot.org/uniprot/P22498 P22498]
+** [http://www.uniprot.org/uniprot/Q02401 Q02401]
+** [http://www.uniprot.org/uniprot/P26257 P26257]
+** [http://www.uniprot.org/uniprot/Q59422 Q59422]
+** [http://www.uniprot.org/uniprot/P30812 P30812]
+** [http://www.uniprot.org/uniprot/Q12660 Q12660]
+** [http://www.uniprot.org/uniprot/P45582 P45582]
+** [http://www.uniprot.org/uniprot/P49676 P49676]
+** [http://www.uniprot.org/uniprot/Q9SCV3 Q9SCV3]
+** [http://www.uniprot.org/uniprot/Q9SZI5 Q9SZI5]
+** [http://www.uniprot.org/uniprot/O81100 O81100]
+** [http://www.uniprot.org/uniprot/Q42150 Q42150]
+** [http://www.uniprot.org/uniprot/P48980 P48980]
+** [http://www.uniprot.org/uniprot/P48981 P48981]
+** [http://www.uniprot.org/uniprot/O86616 O86616]
+** [http://www.uniprot.org/uniprot/P70753 P70753]
+** [http://www.uniprot.org/uniprot/P29853 P29853]
+** [http://www.uniprot.org/uniprot/P94804 P94804]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=polyprotein}}
+{{#set: common name=glycoside_hydrolase}}
+{{#set: ec number=EC-3.2.1.23}}
+{{#set: gene associated=Tiso_gene_12839|Tiso_gene_17558|Tiso_gene_1398}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

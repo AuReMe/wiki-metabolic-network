@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5871 PWY-5871] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** ubiquinol-9 biosynthesis (eukaryotic)
+* Synonym(s):
+** Q9 biosynthesis
+** ubiquinone-9 biosynthesis (eukaryotic)
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''8''' reactions in the full pathway
+* [[2.5.1.39-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11582]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.64-RXN 2.1.1.64-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9241 RXN-9241]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9242 RXN-9242]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9243 RXN-9243]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9278 RXN-9278]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9281 RXN-9281]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9284 RXN-9284]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=ubiquinol-9 biosynthesis (eukaryotic)}}
+{{#set: common name=Q9 biosynthesis|ubiquinone-9 biosynthesis (eukaryotic)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=8}}
+{{#set: completion rate=13.0}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Lignoceroyl-ACPs Lignoceroyl-ACPs] ==
+* common name:
+** a lignoceroyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10059]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-526]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a lignoceroyl-[acp]}}
+{{#set: consumed by=RXN-10059}}
+{{#set: produced by=RXN1G-526}}

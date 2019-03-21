@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-P-HYDROXYPYRUVATE 3-P-HYDROXYPYRUVATE] ==
+* smiles:
+** C(OP([O-])(=O)[O-])C(=O)C(=O)[O-]
+* common name:
+** 3-phospho-hydroxypyruvate
+* inchi key:
+** InChIKey=LFLUCDOSQPJJBE-UHFFFAOYSA-K
+* molecular weight:
+** 181.018    
+* Synonym(s):
+** phosphohydroxypyruvate
+** 3-phosphonooxypyruvate
+** 3-P-hydroxypyruvate
+** 3-p-OH-pyr
+** 3-phosphohydroxypyruvate
+** 3-p-OH-pyruvate
+** 3-p-hydroxy-pyr
+** 3-phosphohydroxy-pyr
+** phosphohydroxypyruate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PSERTRANSAM-RXN]]
+* [[PGLYCDEHYDROG-RXN]]
+== External links  ==
+* CAS : 3913-50-6
+* BIGG : 3php
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460375 5460375]
+* HMDB : HMDB01024
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03232 C03232]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573923.html 4573923]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18110 18110]
+* METABOLIGHTS : MTBLC18110
+{{#set: smiles=C(OP([O-])(=O)[O-])C(=O)C(=O)[O-]}}
+{{#set: common name=3-phospho-hydroxypyruvate}}
+{{#set: inchi key=InChIKey=LFLUCDOSQPJJBE-UHFFFAOYSA-K}}
+{{#set: molecular weight=181.018    }}
+{{#set: common name=phosphohydroxypyruvate|3-phosphonooxypyruvate|3-P-hydroxypyruvate|3-p-OH-pyr|3-phosphohydroxypyruvate|3-p-OH-pyruvate|3-p-hydroxy-pyr|3-phosphohydroxy-pyr|phosphohydroxypyruate}}
+{{#set: reversible reaction associated=PSERTRANSAM-RXN|PGLYCDEHYDROG-RXN}}

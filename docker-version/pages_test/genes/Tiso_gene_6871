@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6871 ==
+* right end position:
+** 7508
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 127
+* centisome position:
+** 1.0811272    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLATECYC-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7508}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=127}}
+{{#set: centisome position=1.0811272    }}
+{{#set: reaction associated=ADENYLATECYC-RXN}}

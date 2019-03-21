@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Mercapturates Mercapturates] ==
+* common name:
+** a mercapturate
+* Synonym(s):
+** an S-substituted-N-acetyl-L-cysteine
+** an N-acetyl-L-cysteine-S-conjugate
+** a mercapturic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13684]]
+== External links  ==
+{{#set: common name=a mercapturate}}
+{{#set: common name=an S-substituted-N-acetyl-L-cysteine|an N-acetyl-L-cysteine-S-conjugate|a mercapturic acid}}
+{{#set: reversible reaction associated=RXN-13684}}

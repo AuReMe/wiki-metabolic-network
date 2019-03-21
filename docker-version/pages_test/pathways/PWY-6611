@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6611 PWY-6611] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** adenine and adenosine salvage V
+* Synonym(s):
+** adenosine nucleosides salvage V
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[ADENODEAMIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_19373]]
+*** [[Tiso_gene_18322]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ADENPHOSPHOR-RXN ADENPHOSPHOR-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=INOSINEKIN-RXN INOSINEKIN-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6611 PWY-6611]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=adenine and adenosine salvage V}}
+{{#set: common name=adenosine nucleosides salvage V}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PROPIONAMIDE PROPIONAMIDE] ==
+* smiles:
+** CCC(N)=O
+* common name:
+** propionamide
+* inchi key:
+** InChIKey=QLNJFJADRCOGBJ-UHFFFAOYSA-N
+* molecular weight:
+** 73.094    
+* Synonym(s):
+** propanamide
+** propanimidic acid
+** propionic amide
+** propionimidic acid
+** propylamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14725]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14727]]
+== External links  ==
+* DRUGBANK : DB04161
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6578 6578]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.6330.html 6330]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=45422 45422]
+{{#set: smiles=CCC(N)=O}}
+{{#set: common name=propionamide}}
+{{#set: inchi key=InChIKey=QLNJFJADRCOGBJ-UHFFFAOYSA-N}}
+{{#set: molecular weight=73.094    }}
+{{#set: common name=propanamide|propanimidic acid|propionic amide|propionimidic acid|propylamide}}
+{{#set: produced by=RXN-14725}}
+{{#set: reversible reaction associated=RXN-14727}}

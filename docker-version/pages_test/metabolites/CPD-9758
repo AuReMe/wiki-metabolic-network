@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9758 CPD-9758] ==
+* smiles:
+** CC(=CCCC(=CCOC(C)=O)C)C
+* common name:
+** geranyl acetate
+* inchi key:
+** InChIKey=HIGQPQRQIQDZMP-DHZHZOJOSA-N
+* molecular weight:
+** 196.289    
+* Synonym(s):
+** geraniol acetate
+** neryl acetate
+** geranyl acetate, cis-
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9192]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1549026 1549026]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1266019.html 1266019]
+* HMDB : HMDB35157
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=5331 5331]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C09861 C09861]
+{{#set: smiles=CC(=CCCC(=CCOC(C)=O)C)C}}
+{{#set: common name=geranyl acetate}}
+{{#set: inchi key=InChIKey=HIGQPQRQIQDZMP-DHZHZOJOSA-N}}
+{{#set: molecular weight=196.289    }}
+{{#set: common name=geraniol acetate|neryl acetate|geranyl acetate, cis-}}
+{{#set: produced by=RXN-9192}}

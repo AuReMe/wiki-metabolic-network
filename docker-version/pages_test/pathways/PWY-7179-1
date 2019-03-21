@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7179-1 PWY-7179-1] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** purine deoxyribonucleosides degradation II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[ADDALT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_19373]]
+*** [[Tiso_gene_18322]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DEOXYGUANPHOSPHOR-RXN DEOXYGUANPHOSPHOR-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=DEOXYINOPHOSPHOR-RXN DEOXYINOPHOSPHOR-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=purine deoxyribonucleosides degradation II}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

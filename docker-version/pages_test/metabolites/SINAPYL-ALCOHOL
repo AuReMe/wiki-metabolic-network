@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SINAPYL-ALCOHOL SINAPYL-ALCOHOL] ==
+* smiles:
+** COC1(C=C(C=CCO)C=C(OC)C(O)=1)
+* common name:
+** sinapyl alcohol
+* inchi key:
+** InChIKey=LZFOPEXOUVTGJS-ONEGZZNKSA-N
+* molecular weight:
+** 210.229    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-1125]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280507 5280507]
+* HMDB : HMDB13070
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02325 C02325]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444145.html 4444145]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28813 28813]
+* METABOLIGHTS : MTBLC64557
+{{#set: smiles=COC1(C=C(C=CCO)C=C(OC)C(O)=1)}}
+{{#set: common name=sinapyl alcohol}}
+{{#set: inchi key=InChIKey=LZFOPEXOUVTGJS-ONEGZZNKSA-N}}
+{{#set: molecular weight=210.229    }}
+{{#set: produced by=RXN-1125}}

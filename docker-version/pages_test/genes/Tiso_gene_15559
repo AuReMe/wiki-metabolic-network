@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15559 ==
+* right end position:
+** 1475
+* transcription direction:
+** POSITIVE
+* left end position:
+** 135
+* centisome position:
+** 2.719581    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.3.16-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[4-NITROPHENYLPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1475}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=135}}
+{{#set: centisome position=2.719581    }}
+{{#set: reaction associated=3.1.3.16-RXN|4-NITROPHENYLPHOSPHATASE-RXN}}

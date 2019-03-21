@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2747 ==
+* right end position:
+** 17203
+* transcription direction:
+** POSITIVE
+* left end position:
+** 16277
+* centisome position:
+** 77.99607    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ARDP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[DNNH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN0-1441]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: right end position=17203}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=16277}}
+{{#set: centisome position=77.99607    }}
+{{#set: reaction associated=ARDP|DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN|DNNH|H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN|RXN0-1441}}
+{{#set: pathway associated=PWY-7539|PWY-6797|PWY-6147}}

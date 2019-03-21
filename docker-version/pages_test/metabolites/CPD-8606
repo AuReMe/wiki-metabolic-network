@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8606 CPD-8606] ==
+* smiles:
+** CC(C)CCCC([CH]4(C1(C)(C(C)(C2(=C(CC1)C3(C)([CH](CC2)C(C)(C)C(O)CC3)))CC4)))C
+* common name:
+** 24,25-dihydrolanosterol
+* inchi key:
+** InChIKey=MBZYKEVPFYHDOH-BQNIITSRSA-N
+* molecular weight:
+** 428.74    
+* Synonym(s):
+** 4,4,14&alpha;-trimethyl-5&alpha;-cholesta-8-en-3&beta;-ol
+** 5alpha-lanost-8-en-3beta-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-11]]
+* [[RXN-13707]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=440560 440560]
+* HMDB : HMDB06839
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05109 C05109]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5140691.html 5140691]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28113 28113]
+* METABOLIGHTS : MTBLC28113
+{{#set: smiles=CC(C)CCCC([CH]4(C1(C)(C(C)(C2(=C(CC1)C3(C)([CH](CC2)C(C)(C)C(O)CC3)))CC4)))C}}
+{{#set: common name=24,25-dihydrolanosterol}}
+{{#set: inchi key=InChIKey=MBZYKEVPFYHDOH-BQNIITSRSA-N}}
+{{#set: molecular weight=428.74    }}
+{{#set: common name=4,4,14&alpha;-trimethyl-5&alpha;-cholesta-8-en-3&beta;-ol|5alpha-lanost-8-en-3beta-ol}}
+{{#set: consumed by=RXN66-11|RXN-13707}}

@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19147 CPD-19147] ==
+* smiles:
+** CCCCCCC=CCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** (7Z)-tetradecenoyl-CoA
+* inchi key:
+** InChIKey=JPIHVKICKVPFFY-TWAFKMGKSA-J
+* molecular weight:
+** 971.845    
+* Synonym(s):
+** 14:1-&Delta;7-CoA
+** cis-7-tetradecenoyl-CoA
+** 14:1(n-7)-CoA
+** (7Z)-tetradec-7-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17792]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17791]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: smiles=CCCCCCC=CCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=(7Z)-tetradecenoyl-CoA}}
+{{#set: inchi key=InChIKey=JPIHVKICKVPFFY-TWAFKMGKSA-J}}
+{{#set: molecular weight=971.845    }}
+{{#set: common name=14:1-&Delta;7-CoA|cis-7-tetradecenoyl-CoA|14:1(n-7)-CoA|(7Z)-tetradec-7-enoyl-CoA}}
+{{#set: consumed by=RXN-17792}}
+{{#set: produced by=RXN-17791}}

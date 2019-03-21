@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TROPINE TROPINE] ==
+* smiles:
+** C[N+]1(C2(CCC1CC(O)C2))
+* common name:
+** tropine
+* inchi key:
+** InChIKey=CYHOMWAPJJPNMW-JIGDXULJSA-O
+* molecular weight:
+** 142.22    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[TROPINESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[TROPINE-DEHYDROGENASE-RXN]]
+== External links  ==
+* CAS : 120-29-6
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00729 C00729]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57554 57554]
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=43870 43870]
+{{#set: smiles=C[N+]1(C2(CCC1CC(O)C2))}}
+{{#set: common name=tropine}}
+{{#set: inchi key=InChIKey=CYHOMWAPJJPNMW-JIGDXULJSA-O}}
+{{#set: molecular weight=142.22    }}
+{{#set: produced by=TROPINESTERASE-RXN}}
+{{#set: reversible reaction associated=TROPINE-DEHYDROGENASE-RXN}}

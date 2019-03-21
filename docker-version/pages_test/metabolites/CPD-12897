@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12897 CPD-12897] ==
+* smiles:
+** CC(C)=CCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 7-methyl-3-oxooct-6-enoyl-CoA
+* inchi key:
+** InChIKey=LPMIXVANMSEERY-FUEUKBNZSA-J
+* molecular weight:
+** 915.695    
+* Synonym(s):
+** 7-methyl-3-oxo-6-octenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11917]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=50986200 50986200]
+* HMDB : HMDB60421
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71410 71410]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16466 C16466]
+{{#set: smiles=CC(C)=CCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=7-methyl-3-oxooct-6-enoyl-CoA}}
+{{#set: inchi key=InChIKey=LPMIXVANMSEERY-FUEUKBNZSA-J}}
+{{#set: molecular weight=915.695    }}
+{{#set: common name=7-methyl-3-oxo-6-octenoyl-CoA}}
+{{#set: consumed by=RXN-11917}}

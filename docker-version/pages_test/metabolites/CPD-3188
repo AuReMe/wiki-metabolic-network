@@ -1,0 +1,25 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3188 CPD-3188] ==
+* smiles:
+** C1(=O)(CC[CH](N(CO)1)C2(C=NC=CC=2))
+* common name:
+** N'-hydroxymethyl-norcotinine
+* inchi key:
+** InChIKey=GQUFOBHEPVFQMD-VIFPVBQESA-N
+* molecular weight:
+** 192.217    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN66-169]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201488 25201488]
+* HMDB : HMDB01324
+{{#set: smiles=C1(=O)(CC[CH](N(CO)1)C2(C=NC=CC=2))}}
+{{#set: common name=N'-hydroxymethyl-norcotinine}}
+{{#set: inchi key=InChIKey=GQUFOBHEPVFQMD-VIFPVBQESA-N}}
+{{#set: molecular weight=192.217    }}
+{{#set: produced by=RXN66-169}}

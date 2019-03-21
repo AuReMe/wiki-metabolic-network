@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7002 CPD-7002] ==
+* smiles:
+** CC(=CCCC(=CCCC(CCCC(=CCOP([O-])(=O)OP([O-])(=O)[O-])C)C)C)C
+* common name:
+** dihydrogeranylgeranyl diphosphate
+* inchi key:
+** InChIKey=YJGANOFPASCZBK-WCNZLWBOSA-K
+* molecular weight:
+** 449.44    
+* Synonym(s):
+** dihydroGGPP
+** dihydrogeranylgeranyl-PP
+** dihydrogeranylgeranyl pyrophosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-7659]]
+* [[RXN-7658]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658526 90658526]
+{{#set: smiles=CC(=CCCC(=CCCC(CCCC(=CCOP([O-])(=O)OP([O-])(=O)[O-])C)C)C)C}}
+{{#set: common name=dihydrogeranylgeranyl diphosphate}}
+{{#set: inchi key=InChIKey=YJGANOFPASCZBK-WCNZLWBOSA-K}}
+{{#set: molecular weight=449.44    }}
+{{#set: common name=dihydroGGPP|dihydrogeranylgeranyl-PP|dihydrogeranylgeranyl pyrophosphate}}
+{{#set: reversible reaction associated=RXN-7659|RXN-7658}}

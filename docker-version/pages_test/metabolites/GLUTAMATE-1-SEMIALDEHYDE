@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLUTAMATE-1-SEMIALDEHYDE GLUTAMATE-1-SEMIALDEHYDE] ==
+* smiles:
+** [CH](C(CCC([O-])=O)[N+])=O
+* common name:
+** (S)-4-amino-5-oxopentanoate
+* inchi key:
+** InChIKey=MPUUQNGXJSEWTF-BYPYZUCNSA-N
+* molecular weight:
+** 131.131    
+* Synonym(s):
+** L-glutamate 1-semialdehyde
+
+== Reaction(s) known to consume the compound ==
+* [[GSAAMINOTRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[GLUTRNAREDUCT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244684 25244684]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57501 57501]
+* BIGG : glu1sa
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03741 C03741]
+{{#set: smiles=[CH](C(CCC([O-])=O)[N+])=O}}
+{{#set: common name=(S)-4-amino-5-oxopentanoate}}
+{{#set: inchi key=InChIKey=MPUUQNGXJSEWTF-BYPYZUCNSA-N}}
+{{#set: molecular weight=131.131    }}
+{{#set: common name=L-glutamate 1-semialdehyde}}
+{{#set: consumed by=GSAAMINOTRANS-RXN}}
+{{#set: produced by=GLUTRNAREDUCT-RXN}}

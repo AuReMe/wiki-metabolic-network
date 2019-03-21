@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Short-Mannan Short-Mannan] ==
+* common name:
+** a &beta;-(1,4)-mannan oligosaccharide
+* Synonym(s):
+** a (1&rarr;4)-&beta;-D-mannooligosaccharide
+** a short  &beta;-(1,4)-mannoglycan
+** a short  &beta;-(1,4)-mannan
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.78-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a &beta;-(1,4)-mannan oligosaccharide}}
+{{#set: common name=a (1&rarr;4)-&beta;-D-mannooligosaccharide|a short  &beta;-(1,4)-mannoglycan|a short  &beta;-(1,4)-mannan}}
+{{#set: produced by=3.2.1.78-RXN}}

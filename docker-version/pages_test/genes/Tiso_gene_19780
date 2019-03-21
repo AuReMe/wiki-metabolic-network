@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19780 ==
+* right end position:
+** 2019
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4
+* centisome position:
+** 0.19598235    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDLIPACETRANS-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PYRUVDEH-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-1133]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PYRUVDEHYD-PWY]]
+* [[PWY-7218]]
+* [[PWY-7384]]
+* [[PWY-6886]]
+* [[PWY-5537]]
+* [[GLYCOLYSIS-TCA-GLYOX-BYPASS]]
+* [[PWY-5482]]
+== External links  ==
+{{#set: right end position=2019}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4}}
+{{#set: centisome position=0.19598235    }}
+{{#set: reaction associated=DIHYDLIPACETRANS-RXN|PYRUVDEH-RXN|RXN0-1133}}
+{{#set: pathway associated=PYRUVDEHYD-PWY|PWY-7218|PWY-7384|PWY-6886|PWY-5537|GLYCOLYSIS-TCA-GLYOX-BYPASS|PWY-5482}}

@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6754 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-OXOACID-COA-TRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXNI-2]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[REDCITCYC]]
+* [[PWY66-368]]
+== External links  ==
+{{#set: reaction associated=3-OXOACID-COA-TRANSFERASE-RXN|RXNI-2}}
+{{#set: pathway associated=REDCITCYC|PWY66-368}}

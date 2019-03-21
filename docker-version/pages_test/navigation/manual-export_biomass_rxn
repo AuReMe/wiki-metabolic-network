@@ -1,0 +1,10 @@
+{{#ask: [[Category:Reaction]] [[reconstruction source::manual-export_biomass_rxn]]
+| ?COMMON NAME
+| ?ec number
+| ?reconstruction category
+| ?reconstruction tool
+| ?reconstruction source
+| ?reconstruction comment
+| ?gene associated
+| ?in pathway
+}}

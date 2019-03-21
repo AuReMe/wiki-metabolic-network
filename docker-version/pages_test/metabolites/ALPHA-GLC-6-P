@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALPHA-GLC-6-P ALPHA-GLC-6-P] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(O)C(O)C(O)C(O)1)
+* common name:
+** &alpha;-D-glucose 6-phosphate
+* inchi key:
+** InChIKey=NBSCHQHZLSJFNQ-DVKNGEFBSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** &alpha;-glucose 6-phosphate
+** &alpha;-D-glucose-6-P
+
+== Reaction(s) known to consume the compound ==
+* [[UG6PGT]]
+* [[UG6PGTn]]
+* [[G6PADHh]]
+== Reaction(s) known to produce the compound ==
+* [[BFFS]]
+* [[RXN-1685]]
+== Reaction(s) of unknown directionality ==
+* [[PGIA]]
+* [[PGIAh]]
+* [[G6PI]]
+* [[G6PA_pi_th]]
+* [[RXN-6182]]
+* [[GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN]]
+* [[PGMTh]]
+* [[PGCM]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21604864 21604864]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10239175.html 10239175]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58225 58225]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00668 C00668]
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(O)C(O)C(O)C(O)1)}}
+{{#set: common name=&alpha;-D-glucose 6-phosphate}}
+{{#set: inchi key=InChIKey=NBSCHQHZLSJFNQ-DVKNGEFBSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=&alpha;-glucose 6-phosphate|&alpha;-D-glucose-6-P}}
+{{#set: consumed by=UG6PGT|UG6PGTn|G6PADHh}}
+{{#set: produced by=BFFS|RXN-1685}}
+{{#set: reversible reaction associated=PGIA|PGIAh|G6PI|G6PA_pi_th|RXN-6182|GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN|PGMTh|PGCM}}

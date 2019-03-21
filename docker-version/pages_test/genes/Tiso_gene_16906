@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16906 ==
+* right end position:
+** 4049
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 288
+* centisome position:
+** 7.111111    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.11.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[LEUKOTRIENE-A4-HYDROLASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13677]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-6642]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7112]]
+* [[PWY-6842]]
+* [[PWY-4061]]
+* [[PWY66-375]]
+== External links  ==
+{{#set: right end position=4049}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=288}}
+{{#set: centisome position=7.111111    }}
+{{#set: reaction associated=3.4.11.2-RXN|LEUKOTRIENE-A4-HYDROLASE-RXN|RXN-13677|RXN-6642}}
+{{#set: pathway associated=PWY-7112|PWY-6842|PWY-4061|PWY66-375}}

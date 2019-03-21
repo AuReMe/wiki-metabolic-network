@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2500 CPD0-2500] ==
+* smiles:
+** C(O)C2(C(O)C(O)C(O)C(OC1(C=CC(=CC=1)[N+]([O-])=O))O2)
+* common name:
+** p-nitrophenyl-&alpha;-D-galactopyranoside
+* inchi key:
+** InChIKey=IFBHRQDFSNCLOZ-IIRVCBMXSA-N
+* molecular weight:
+** 301.252    
+* Synonym(s):
+** 4-nitrophenyl-&alpha;-D-galactopyranoside
+** 4-nitrophenyl-&alpha;-D-galactoside
+** p-nitrophenyl-&alpha;-D-galactoside
+** pNP&alpha;Gal
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17830]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=82000 82000]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=546840 546840]
+{{#set: smiles=C(O)C2(C(O)C(O)C(O)C(OC1(C=CC(=CC=1)[N+]([O-])=O))O2)}}
+{{#set: common name=p-nitrophenyl-&alpha;-D-galactopyranoside}}
+{{#set: inchi key=InChIKey=IFBHRQDFSNCLOZ-IIRVCBMXSA-N}}
+{{#set: molecular weight=301.252    }}
+{{#set: common name=4-nitrophenyl-&alpha;-D-galactopyranoside|4-nitrophenyl-&alpha;-D-galactoside|p-nitrophenyl-&alpha;-D-galactoside|pNP&alpha;Gal}}
+{{#set: consumed by=RXN-17830}}

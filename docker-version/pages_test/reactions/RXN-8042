@@ -1,0 +1,58 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8042 RXN-8042] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** carotene_isomerase
+** carotenoid_isomerase
+* ec number:
+** [http://enzyme.expasy.org/EC/5.2.1.13 EC-5.2.1.13]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-7496]][c] '''=>''' 1 [[CPD1F-114]][c]
+* With common name(s):
+** 1 prolycopene[c] '''=>''' 1 all-trans-lycopene[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13369]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_13367]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_917]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_916]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15802]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_915]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-6475]], trans-lycopene biosynthesis II (plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6475 PWY-6475]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30974 30974]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07512 R07512]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=carotene_isomerase}}
+{{#set: common name=carotenoid_isomerase}}
+{{#set: ec number=EC-5.2.1.13}}
+{{#set: gene associated=Tiso_gene_13369|Tiso_gene_13367|Tiso_gene_917|Tiso_gene_916|Tiso_gene_15802|Tiso_gene_915}}
+{{#set: in pathway=PWY-6475}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12953 ==
+* right end position:
+** 2520
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9
+* centisome position:
+** 0.13632233    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2520}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9}}
+{{#set: centisome position=0.13632233    }}
+{{#set: reaction associated=ATPASE-RXN}}

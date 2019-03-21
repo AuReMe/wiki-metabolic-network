@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7173 ==
+* right end position:
+** 11222
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9938
+* centisome position:
+** 86.92382    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MRNA-GUANYLYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7375]]
+== External links  ==
+{{#set: right end position=11222}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9938}}
+{{#set: centisome position=86.92382    }}
+{{#set: reaction associated=MRNA-GUANYLYLTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-7375}}

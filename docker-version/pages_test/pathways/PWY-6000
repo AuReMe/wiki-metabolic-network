@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6000 PWY-6000] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** &gamma;-linolenate biosynthesis II (animals)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[1.14.19.3-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2508]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-9673]]
+** 9 associated gene(s):
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_9394]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_10876]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=&gamma;-linolenate biosynthesis II (animals)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

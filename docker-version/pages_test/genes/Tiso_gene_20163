@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20163 ==
+* right end position:
+** 442
+* transcription direction:
+** POSITIVE
+* left end position:
+** 195
+* centisome position:
+** 11.477339    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15684]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[THIOL-OXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7533]]
+== External links  ==
+{{#set: right end position=442}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=195}}
+{{#set: centisome position=11.477339    }}
+{{#set: reaction associated=RXN-15684|THIOL-OXIDASE-RXN}}
+{{#set: pathway associated=PWY-7533}}

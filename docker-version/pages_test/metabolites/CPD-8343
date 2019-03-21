@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8343 CPD-8343] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(OCC(O)COP([O-])(=O)OCC[N+](C)(C)C)=O
+* common name:
+** 1-16:0-2-lysophosphatidylcholine
+* inchi key:
+** InChIKey=ASWBNKHCZGQVJV-HSZRJFAPSA-N
+* molecular weight:
+** 495.635    
+* Synonym(s):
+** 1-16:0-lysoPC
+** 1-hexadecanoyl-sn-glycero-3-phosphocholine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15065]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-15066]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=460602 460602]
+* HMDB : HMDB10382
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04102 C04102]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.78064.html 78064]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72998 72998]
+* METABOLIGHTS : MTBLC72998
+{{#set: smiles=CCCCCCCCCCCCCCCC(OCC(O)COP([O-])(=O)OCC[N+](C)(C)C)=O}}
+{{#set: common name=1-16:0-2-lysophosphatidylcholine}}
+{{#set: inchi key=InChIKey=ASWBNKHCZGQVJV-HSZRJFAPSA-N}}
+{{#set: molecular weight=495.635    }}
+{{#set: common name=1-16:0-lysoPC|1-hexadecanoyl-sn-glycero-3-phosphocholine}}
+{{#set: produced by=RXN-15065}}
+{{#set: reversible reaction associated=RXN-15066}}

@@ -1,0 +1,46 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3101 PWY-3101] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** flavonol biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-12510]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_1547]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-527]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-8450]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN1F-93]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13718 RXN-13718]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-525 RXN-525]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7782 RXN-7782]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-3101 PWY-3101]
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=flavonol biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=7}}
+{{#set: completion rate=57.0}}

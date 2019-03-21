@@ -1,0 +1,174 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLUC1PURIDYLTRANS-RXN GLUC1PURIDYLTRANS-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** utp--glucose-1-phosphate_uridylyltransferase
+** dp-n-acetylglucosamine_pyrophosphorylase
+** f-box_lrr-repeat_protein_13-like
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7.64 EC-2.7.7.64]
+** [http://enzyme.expasy.org/EC/2.7.7.9 EC-2.7.7.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[UTP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[GLC-1-P]][c] '''<=>''' 1 [[PPI]][c] '''+''' 1 [[CPD-12575]][c]
+* With common name(s):
+** 1 UTP[c] '''+''' 1 H+[c] '''+''' 1 &alpha;-D-glucopyranose 1-phosphate[c] '''<=>''' 1 diphosphate[c] '''+''' 1 UDP-&alpha;-D-glucose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6459]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4816]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17531]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5879]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17566]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16930]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_14796]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_9110]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13477]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7440]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11401]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6457]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6458]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7102]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7343]], UDP-glucose biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7343 PWY-7343]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-3801]], sucrose degradation II (sucrose synthase): [http://metacyc.org/META/NEW-IMAGE?object=PWY-3801 PWY-3801]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-7817]], type I lipoteichoic acid biosynthesis (S. aureus): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7817 PWY-7817]
+** '''7''' reactions found over '''16''' reactions in the full pathway
+* [[PWY-6527]], stachyose degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6527 PWY-6527]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7238]], sucrose biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7238 PWY-7238]
+** '''6''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=19889 19889]
+* PIR:
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A40650 A40650]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A41382 A41382]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A56146 A56146]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A64250 A64250]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A64970 A64970]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A75096 A75096]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=D49349 D49349]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=D69184 D69184]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=D70601 D70601]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=E64466 E64466]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=E71913 E71913]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=F59102 F59102]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=F64600 F64600]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=F81300 F81300]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=G64095 G64095]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=G70125 G70125]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=H70446 H70446]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=JC2265 JC2265]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=JC4785 JC4785]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=JC4985 JC4985]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=JX0277 JX0277]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S15298 S15298]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S30007 S30007]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S31431 S31431]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S35692 S35692]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S41533 S41533]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S62599 S62599]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S73501 S73501]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S78541 S78541]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T42521 T42521]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T44841 T44841]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T45453 T45453]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=XNDOU XNDOU]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=XNPOU XNPOU]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00289 R00289]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q05852 Q05852]
+** [http://www.uniprot.org/uniprot/P27897 P27897]
+** [http://www.uniprot.org/uniprot/Q48447 Q48447]
+** [http://www.uniprot.org/uniprot/P47691 P47691]
+** [http://www.uniprot.org/uniprot/P0AAB6 P0AAB6]
+** [http://www.uniprot.org/uniprot/Q9UZI7 Q9UZI7]
+** [http://www.uniprot.org/uniprot/P33696 P33696]
+** [http://www.uniprot.org/uniprot/O26731 O26731]
+** [http://www.uniprot.org/uniprot/O05576 O05576]
+** [http://www.uniprot.org/uniprot/Q58730 Q58730]
+** [http://www.uniprot.org/uniprot/Q9ZLI8 Q9ZLI8]
+** [http://www.uniprot.org/uniprot/Q9X364 Q9X364]
+** [http://www.uniprot.org/uniprot/O25363 O25363]
+** [http://www.uniprot.org/uniprot/Q9PMD3 Q9PMD3]
+** [http://www.uniprot.org/uniprot/P44878 P44878]
+** [http://www.uniprot.org/uniprot/O51225 O51225]
+** [http://www.uniprot.org/uniprot/O67602 O67602]
+** [http://www.uniprot.org/uniprot/P0AEP3 P0AEP3]
+** [http://www.uniprot.org/uniprot/Q43772 Q43772]
+** [http://www.uniprot.org/uniprot/P74969 P74969]
+** [http://www.uniprot.org/uniprot/Q07130 Q07130]
+** [http://www.uniprot.org/uniprot/P32861 P32861]
+** [http://www.uniprot.org/uniprot/P19595 P19595]
+** [http://www.uniprot.org/uniprot/Q07131 Q07131]
+** [http://www.uniprot.org/uniprot/P37776 P37776]
+** [http://www.uniprot.org/uniprot/P75124 P75124]
+** [http://www.uniprot.org/uniprot/Q46768 Q46768]
+** [http://www.uniprot.org/uniprot/P78811 P78811]
+** [http://www.uniprot.org/uniprot/Q9RMC3 Q9RMC3]
+** [http://www.uniprot.org/uniprot/Q9Z5G1 Q9Z5G1]
+** [http://www.uniprot.org/uniprot/P08800 P08800]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=utp--glucose-1-phosphate_uridylyltransferase}}
+{{#set: common name=dp-n-acetylglucosamine_pyrophosphorylase}}
+{{#set: common name=f-box_lrr-repeat_protein_13-like}}
+{{#set: ec number=EC-2.7.7.64}}
+{{#set: ec number=EC-2.7.7.9}}
+{{#set: gene associated=Tiso_gene_6459|Tiso_gene_4816|Tiso_gene_17531|Tiso_gene_5879|Tiso_gene_17566|Tiso_gene_16930|Tiso_gene_14796|Tiso_gene_9110|Tiso_gene_13477|Tiso_gene_7440|Tiso_gene_11401|Tiso_gene_6457|Tiso_gene_6458|Tiso_gene_7102}}
+{{#set: in pathway=PWY-7343|PWY-3801|PWY-7817|PWY-6527|PWY-7238}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-athaliana|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

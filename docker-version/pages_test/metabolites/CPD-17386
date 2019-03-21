@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17386 CPD-17386] ==
+* smiles:
+** CCC=CCC=CCC=CCC=CCC=CCC=CCCC=CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** (2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosaheptaenoyl-CoA
+* inchi key:
+** InChIKey=NVOWZIBKQIWTDG-ADUCOSNASA-J
+* molecular weight:
+** 1100.019    
+* Synonym(s):
+** (2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosa-2,6,9,12,15,18,21-heptaenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16135]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16134]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=72193705 72193705]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=76360 76360]
+{{#set: smiles=CCC=CCC=CCC=CCC=CCC=CCC=CCCC=CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=(2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosaheptaenoyl-CoA}}
+{{#set: inchi key=InChIKey=NVOWZIBKQIWTDG-ADUCOSNASA-J}}
+{{#set: molecular weight=1100.019    }}
+{{#set: common name=(2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosa-2,6,9,12,15,18,21-heptaenoyl-CoA}}
+{{#set: consumed by=RXN-16135}}
+{{#set: produced by=RXN-16134}}

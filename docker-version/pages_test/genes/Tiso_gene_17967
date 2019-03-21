@@ -1,0 +1,66 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17967 ==
+* right end position:
+** 2220
+* transcription direction:
+** POSITIVE
+* left end position:
+** 159
+* centisome position:
+** 4.753363    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACOA120or]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ACOA140or]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ACOA160or]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ACOA40or]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ACOA80or]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[PPCOAOm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-11734]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14131]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14229]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14262]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14278]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16540]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16557]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7094]]
+* [[PWY-7654]]
+* [[PWY-7656]]
+== External links  ==
+{{#set: right end position=2220}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=159}}
+{{#set: centisome position=4.753363    }}
+{{#set: reaction associated=ACOA120or|ACOA140or|ACOA160or|ACOA40or|ACOA80or|LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN|PPCOAOm|RXN-11734|RXN-13451|RXN-13615|RXN-14131|RXN-14229|RXN-14262|RXN-14278|RXN-16540|RXN-16557}}
+{{#set: pathway associated=PWY-7094|PWY-7654|PWY-7656}}

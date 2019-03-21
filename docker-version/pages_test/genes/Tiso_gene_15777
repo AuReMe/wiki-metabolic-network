@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15777 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.8-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[G3PD3]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-15740]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15745]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5260]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6118]]
+* [[PWY-7385]]
+* [[PWY-4261]]
+* [[PWY0-1561]]
+* [[PWY-6952]]
+* [[PWY0-1582]]
+* [[PWY-7411]]
+* [[PWY0-1581]]
+* [[PWY0-1584]]
+== External links  ==
+{{#set: reaction associated=1.1.1.8-RXN|G3PD3|RXN-15740|RXN-15745|RXN0-5260}}
+{{#set: pathway associated=PWY-6118|PWY-7385|PWY-4261|PWY0-1561|PWY-6952|PWY0-1582|PWY-7411|PWY0-1581|PWY0-1584}}

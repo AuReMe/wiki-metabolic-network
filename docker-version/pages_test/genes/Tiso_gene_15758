@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15758 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HDS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN0-882]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7560]]
+== External links  ==
+{{#set: reaction associated=HDS|RXN0-882}}
+{{#set: pathway associated=PWY-7560}}

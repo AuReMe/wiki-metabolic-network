@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12753 RXN-12753] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[NADH]][c] '''=>''' 1 [[CPD-653]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 NADH[c] '''=>''' 1 (S)-NADHX[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6938]], NADH repair: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6938 PWY-6938]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-6938}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

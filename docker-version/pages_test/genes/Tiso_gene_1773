@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1773 ==
+* right end position:
+** 18855
+* transcription direction:
+** POSITIVE
+* left end position:
+** 16660
+* centisome position:
+** 76.60123    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMATE-SYNTHASE-FERREDOXIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[GLUTAMIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-12878]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6964]]
+* [[GLUTAMINDEG-PWY]]
+* [[PWY-4341]]
+* [[CITRULBIO-PWY]]
+* [[PWY-6549]]
+== External links  ==
+{{#set: right end position=18855}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=16660}}
+{{#set: centisome position=76.60123    }}
+{{#set: reaction associated=GLUTAMATE-SYNTHASE-FERREDOXIN-RXN|GLUTAMIN-RXN|RXN-12878}}
+{{#set: pathway associated=PWY-6964|GLUTAMINDEG-PWY|PWY-4341|CITRULBIO-PWY|PWY-6549}}

@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=8-AMINO-7-OXONONANOATE 8-AMINO-7-OXONONANOATE] ==
+* smiles:
+** CC(C(CCCCCC([O-])=O)=O)[N+]
+* common name:
+** 8-amino-7-oxononanoate
+* inchi key:
+** InChIKey=GUAHPAJOXVYFON-UHFFFAOYSA-N
+* molecular weight:
+** 187.238    
+* Synonym(s):
+** 7-keto-8-aminopelargonate
+** KAPA
+** 7-KAP
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[7KAPSYN-RXN]]
+* [[RXN-11484]]
+== Reaction(s) of unknown directionality ==
+* [[DAPASYN-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01092 C01092]
+* HMDB : HMDB37790
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57532 57532]
+* BIGG : 8aonn
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244029 25244029]
+{{#set: smiles=CC(C(CCCCCC([O-])=O)=O)[N+]}}
+{{#set: common name=8-amino-7-oxononanoate}}
+{{#set: inchi key=InChIKey=GUAHPAJOXVYFON-UHFFFAOYSA-N}}
+{{#set: molecular weight=187.238    }}
+{{#set: common name=7-keto-8-aminopelargonate|KAPA|7-KAP}}
+{{#set: produced by=7KAPSYN-RXN|RXN-11484}}
+{{#set: reversible reaction associated=DAPASYN-RXN}}

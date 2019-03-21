@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ATP_3h_th ATP_3h_th] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ADP/ATP transporter, chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ATP]][h] '''+''' 1.0 [[ADP]][c] '''+''' 3.0 [[PROTON]][c] '''=>''' 1.0 [[ADP]][h] '''+''' 3.0 [[PROTON]][h] '''+''' 1.0 [[ATP]][c]
+* With common name(s):
+** 1.0 ATP[h] '''+''' 1.0 ADP[c] '''+''' 3.0 H+[c] '''=>''' 1.0 ADP[h] '''+''' 3.0 H+[h] '''+''' 1.0 ATP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2774]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ADP/ATP transporter, chloroplast}}
+{{#set: gene associated=Tiso_gene_2774}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

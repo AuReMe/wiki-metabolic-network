@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Long-Chain-234-Saturated-acyl-CoAs Long-Chain-234-Saturated-acyl-CoAs] ==
+* common name:
+** a long-chain 2,3,4-saturated fatty acyl CoA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+== External links  ==
+{{#set: common name=a long-chain 2,3,4-saturated fatty acyl CoA}}
+{{#set: reversible reaction associated=LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN}}

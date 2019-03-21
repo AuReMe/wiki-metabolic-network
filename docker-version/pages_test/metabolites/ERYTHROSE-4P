@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ERYTHROSE-4P ERYTHROSE-4P] ==
+* smiles:
+** [CH](C(C(COP([O-])([O-])=O)O)O)=O
+* common name:
+** D-erythrose 4-phosphate
+* inchi key:
+** InChIKey=NGHMDNPXVRFFGS-IUYQGCFVSA-L
+* molecular weight:
+** 198.069    
+* Synonym(s):
+** erythrose-4P
+** threose 4-phosphate
+** erythrose-4-phosphate
+** erythrose-4-P
+** D-erythrose-4-P
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[DAHPSYN-RXN]]
+* [[R01067]]
+* [[TRANSALDOL-RXN]]
+* [[R08575]]
+* [[2TRANSKETO-RXN]]
+* [[SEDOBISALDOL-RXN]]
+== External links  ==
+* CAS : 585-18-2
+* BIGG : e4p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459862 5459862]
+* HMDB : HMDB01321
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00279 C00279]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573609.html 4573609]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16897 16897]
+* METABOLIGHTS : MTBLC16897
+{{#set: smiles=[CH](C(C(COP([O-])([O-])=O)O)O)=O}}
+{{#set: common name=D-erythrose 4-phosphate}}
+{{#set: inchi key=InChIKey=NGHMDNPXVRFFGS-IUYQGCFVSA-L}}
+{{#set: molecular weight=198.069    }}
+{{#set: common name=erythrose-4P|threose 4-phosphate|erythrose-4-phosphate|erythrose-4-P|D-erythrose-4-P}}
+{{#set: reversible reaction associated=DAHPSYN-RXN|R01067|TRANSALDOL-RXN|R08575|2TRANSKETO-RXN|SEDOBISALDOL-RXN}}

@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6368 PWY-6368] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** 3-phosphoinositide degradation
+* Synonym(s):
+** phosphatidyl-inositol 3,4,5-trisphosphate degradation
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''9''' reactions in the full pathway
+* [[3.1.3.66-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3052]]
+*** [[Tiso_gene_4822]]
+*** [[Tiso_gene_4823]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[3.1.3.67-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19083]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHATIDYLINOSITOL-3-PHOSPHATASE-RXN PHOSPHATIDYLINOSITOL-3-PHOSPHATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHATIDYLINOSITOL-BISPHOSPHATASE-RXN PHOSPHATIDYLINOSITOL-BISPHOSPHATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10036 RXN-10036]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10947 RXN-10947]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10961 RXN-10961]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10962 RXN-10962]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9779 RXN-9779]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=3-phosphoinositide degradation}}
+{{#set: common name=phosphatidyl-inositol 3,4,5-trisphosphate degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=9}}
+{{#set: completion rate=22.0}}

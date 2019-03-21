@@ -1,0 +1,61 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-ASPARTATE L-ASPARTATE] ==
+* smiles:
+** C(C(=O)[O-])C([N+])C(=O)[O-]
+* common name:
+** L-aspartate
+* inchi key:
+** InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
+* molecular weight:
+** 132.096    
+* Synonym(s):
+** L-aspartic acid
+** aspartic acid
+** D
+** aspartate
+** asp
+** L-asp
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10]]
+* [[ASPDECARBOX-RXN]]
+* [[RME144]]
+* [[ASPARTATE--TRNA-LIGASE-RXN]]
+* [[ASNSYNA-RXN]]
+* [[R00357]]
+* [[ARGSUCCINSYN-RXN]]
+* [[ADENYLOSUCCINATE-SYNTHASE-RXN]]
+* [[L-ASPARTATE-OXID-RXN]]
+* [[SAICARSYN-RXN]]
+* [[ASNSYNB-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[ASPARAGHYD-RXN]]
+* [[ASPARTOACYLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13680]]
+* [[RXN-13697]]
+* [[ASPAMINOTRANS-RXN]]
+* [[ASPCARBTRANS-RXN]]
+* [[ASPARTATEKIN-RXN]]
+* [[ASPARTATE-RACEMASE-RXN]]
+== External links  ==
+* CAS : 56-84-8
+* BIGG : asp__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460294 5460294]
+* HMDB : HMDB00191
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00049 C00049]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573879.html 4573879]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29991 29991]
+* METABOLIGHTS : MTBLC29991
+{{#set: smiles=C(C(=O)[O-])C([N+])C(=O)[O-]}}
+{{#set: common name=L-aspartate}}
+{{#set: inchi key=InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M}}
+{{#set: molecular weight=132.096    }}
+{{#set: common name=L-aspartic acid|aspartic acid|D|aspartate|asp|L-asp}}
+{{#set: consumed by=RXN-10|ASPDECARBOX-RXN|RME144|ASPARTATE--TRNA-LIGASE-RXN|ASNSYNA-RXN|R00357|ARGSUCCINSYN-RXN|ADENYLOSUCCINATE-SYNTHASE-RXN|L-ASPARTATE-OXID-RXN|SAICARSYN-RXN|ASNSYNB-RXN}}
+{{#set: produced by=ASPARAGHYD-RXN|ASPARTOACYLASE-RXN}}
+{{#set: reversible reaction associated=RXN-13680|RXN-13697|ASPAMINOTRANS-RXN|ASPCARBTRANS-RXN|ASPARTATEKIN-RXN|ASPARTATE-RACEMASE-RXN}}

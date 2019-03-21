@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6801 PWY-6801] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** volatile esters biosynthesis (during fruit ripening)
+* Synonym(s):
+** ethylene-stimulated fruit ester biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-12362]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10528]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12363]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10528]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6724 RXN-6724]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=volatile esters biosynthesis (during fruit ripening)}}
+{{#set: common name=ethylene-stimulated fruit ester biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

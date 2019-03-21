@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12692 ==
+* right end position:
+** 6775
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4588
+* centisome position:
+** 67.68958    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6775}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4588}}
+{{#set: centisome position=67.68958    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Apocytochromes-c Apocytochromes-c] ==
+* common name:
+** an apo-[c-type cytochrome]
+* Synonym(s):
+** an apocytochrome c
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[HOLOCYTOCHROME-C-SYNTHASE-RXN]]
+== External links  ==
+{{#set: common name=an apo-[c-type cytochrome]}}
+{{#set: common name=an apocytochrome c}}
+{{#set: reversible reaction associated=HOLOCYTOCHROME-C-SYNTHASE-RXN}}

@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=5.4.99.17-RXN 5.4.99.17-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/5.4.99.17 EC-5.4.99.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[SQUALENE]][c] '''=>''' 1 [[HOP-2229-ENE]][c]
+* With common name(s):
+** 1 squalene[c] '''=>''' 1 hop-22(29)-ene[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12198]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7072]], hopanoid biosynthesis (bacteria): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7072 PWY-7072]
+** '''1''' reactions found over '''14''' reactions in the full pathway
+* [[PWY-6098]], diploterol and cycloartenol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6098 PWY-6098]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17637 17637]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07322 R07322]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-5.4.99.17}}
+{{#set: gene associated=Tiso_gene_12198}}
+{{#set: in pathway=PWY-7072|PWY-6098}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

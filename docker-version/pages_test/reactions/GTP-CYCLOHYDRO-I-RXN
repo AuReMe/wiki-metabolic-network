@@ -1,0 +1,73 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GTP-CYCLOHYDRO-I-RXN GTP-CYCLOHYDRO-I-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.16 EC-3.5.4.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[GTP]][c] '''=>''' 1 [[DIHYDRONEOPTERIN-P3]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[FORMATE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 GTP[c] '''=>''' 1 7,8-dihydroneopterin 3'-triphosphate[c] '''+''' 1 H+[c] '''+''' 1 formate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12736]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-5663]], tetrahydrobiopterin biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5663 PWY-5663]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY0-1433]], tetrahydromonapterin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1433 PWY0-1433]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-7442]], drosopterin and aurodrosopterin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7442 PWY-7442]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6983]], tetrahydrobiopterin biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6983 PWY-6983]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-5664]], tetrahydrobiopterin biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5664 PWY-5664]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6703]], preQ0 biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6703 PWY-6703]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6147]], 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6147 PWY-6147]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17473 17473]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00424 R00424]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P19465 P19465]
+** [http://www.uniprot.org/uniprot/P22288 P22288]
+** [http://www.uniprot.org/uniprot/P43866 P43866]
+** [http://www.uniprot.org/uniprot/P51594 P51594]
+** [http://www.uniprot.org/uniprot/P64207 P64207]
+** [http://www.uniprot.org/uniprot/Q9CGE3 Q9CGE3]
+** [http://www.uniprot.org/uniprot/O66603 O66603]
+** [http://www.uniprot.org/uniprot/P56462 P56462]
+** [http://www.uniprot.org/uniprot/P0A6T5 P0A6T5]
+** [http://www.uniprot.org/uniprot/P50141 P50141]
+** [http://www.uniprot.org/uniprot/P30793 P30793]
+** [http://www.uniprot.org/uniprot/P51601 P51601]
+** [http://www.uniprot.org/uniprot/Q05915 Q05915]
+** [http://www.uniprot.org/uniprot/P51597 P51597]
+** [http://www.uniprot.org/uniprot/P51600 P51600]
+** [http://www.uniprot.org/uniprot/Q94465 Q94465]
+** [http://www.uniprot.org/uniprot/Q55759 Q55759]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.5.4.16}}
+{{#set: gene associated=Tiso_gene_12736}}
+{{#set: in pathway=PWY-5663|PWY0-1433|PWY-7442|PWY-6983|PWY-5664|PWY-6703|PWY-6147}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CL- CL-] ==
+* smiles:
+** [Cl-]
+* common name:
+** chloride
+* inchi key:
+** InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+* molecular weight:
+** 35.453    
+* Synonym(s):
+** chloride ion
+** Cl-
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_CL-]]
+* [[CHLORIDE-PEROXIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_CL-]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_CL-]]
+* [[GST-RXN]]
+== External links  ==
+* UM-BBD-CPD : c0884
+* BIGG : cl
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=312 312]
+* HMDB : HMDB00492
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00698 C00698]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.306.html 306]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17996 17996]
+* METABOLIGHTS : MTBLC17996
+{{#set: smiles=[Cl-]}}
+{{#set: common name=chloride}}
+{{#set: inchi key=InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M}}
+{{#set: molecular weight=35.453    }}
+{{#set: common name=chloride ion|Cl-}}
+{{#set: consumed by=TransportSeed_CL-|CHLORIDE-PEROXIDASE-RXN}}
+{{#set: produced by=TransportSeed_CL-}}
+{{#set: reversible reaction associated=ExchangeSeed_CL-|GST-RXN}}

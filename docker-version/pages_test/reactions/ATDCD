@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ATDCD ATDCD] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ATP:dCDP phosphotransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ATP]][c] '''+''' 1.0 [[DCDP]][c] '''=>''' 1.0 [[ADP]][c] '''+''' 1.0 [[DCTP]][c]
+* With common name(s):
+** 1.0 ATP[c] '''+''' 1.0 dCDP[c] '''=>''' 1.0 ADP[c] '''+''' 1.0 dCTP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13128]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16529]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ATP:dCDP phosphotransferase}}
+{{#set: gene associated=Tiso_gene_13128|Tiso_gene_16529}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

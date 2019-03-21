@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14774 ==
+* right end position:
+** 5048
+* transcription direction:
+** POSITIVE
+* left end position:
+** 56
+* centisome position:
+** 1.0309278    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11109]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5048}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=56}}
+{{#set: centisome position=1.0309278    }}
+{{#set: reaction associated=RXN-11109}}

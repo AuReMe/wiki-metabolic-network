@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Non-Glycosylated-sugar-Acceptors Non-Glycosylated-sugar-Acceptors] ==
+* common name:
+** a non glycosylated sugar acceptor
+* Synonym(s):
+** a non glycosylated sugar donor
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.24-RXN]]
+* [[3.2.1.25-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a non glycosylated sugar acceptor}}
+{{#set: common name=a non glycosylated sugar donor}}
+{{#set: produced by=3.2.1.24-RXN|3.2.1.25-RXN}}

@@ -1,0 +1,53 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GDP-MANNOSE GDP-MANNOSE] ==
+* smiles:
+** C(OP([O-])(=O)OP([O-])(=O)OC1(OC(C(O)C(O)C(O)1)CO))C2(C(O)C(O)C(O2)N4(C=NC3(C(=O)NC(N)=NC=34)))
+* common name:
+** GDP-&alpha;-D-mannose
+* inchi key:
+** InChIKey=MVMSCBBUIHUTGJ-GDJBGNAASA-L
+* molecular weight:
+** 603.329    
+* Synonym(s):
+** guanosine pyrophosphate mannose
+** guanosine diphosphomannose
+** guanosine diphosphate mannose
+** GDP-mannose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-5464]]
+* [[GDPMANDEHYDRA-RXN]]
+* [[RXN-5462]]
+* [[RXN-5463]]
+* [[2.4.1.83-RXN]]
+* [[2.4.1.142-RXN]]
+* [[RXN-16602]]
+== Reaction(s) known to produce the compound ==
+* [[2.7.7.13-RXN]]
+* [[GAMPG]]
+== Reaction(s) of unknown directionality ==
+* [[2.4.1.232-RXN]]
+* [[2.4.1.32-RXN]]
+* [[RXN-1882]]
+* [[RXN-7771]]
+* [[MANNPGUANYLTRANGDP-RXN]]
+== External links  ==
+* CAS : 18441-12-8
+* CAS : 3123-67-9
+* BIGG : gdpmann
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878389 46878389]
+* HMDB : HMDB01163
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00096 C00096]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57527 57527]
+* METABOLIGHTS : MTBLC57527
+{{#set: smiles=C(OP([O-])(=O)OP([O-])(=O)OC1(OC(C(O)C(O)C(O)1)CO))C2(C(O)C(O)C(O2)N4(C=NC3(C(=O)NC(N)=NC=34)))}}
+{{#set: common name=GDP-&alpha;-D-mannose}}
+{{#set: inchi key=InChIKey=MVMSCBBUIHUTGJ-GDJBGNAASA-L}}
+{{#set: molecular weight=603.329    }}
+{{#set: common name=guanosine pyrophosphate mannose|guanosine diphosphomannose|guanosine diphosphate mannose|GDP-mannose}}
+{{#set: consumed by=RXN-5464|GDPMANDEHYDRA-RXN|RXN-5462|RXN-5463|2.4.1.83-RXN|2.4.1.142-RXN|RXN-16602}}
+{{#set: produced by=2.7.7.13-RXN|GAMPG}}
+{{#set: reversible reaction associated=2.4.1.232-RXN|2.4.1.32-RXN|RXN-1882|RXN-7771|MANNPGUANYLTRANGDP-RXN}}

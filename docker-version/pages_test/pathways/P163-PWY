@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P163-PWY P163-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-lysine fermentation to acetate and butanoate
+* Synonym(s):
+** 3-keto-5-aminohexanoate pathway
+** L-lysine fermentation to acetate and butyrate
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''10''' reactions in the full pathway
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.4.1.11-RXN 1.4.1.11-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.8.3.9-RXN 2.8.3.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=4.3.1.14-RXN 4.3.1.14-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETATEKIN-RXN ACETATEKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=BETA-LYSINE-56-AMINOMUTASE-RXN BETA-LYSINE-56-AMINOMUTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=BUTYRYL-COA-DEHYDROGENASE-RXN BUTYRYL-COA-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-23-AMINOMUTASE-RXN LYSINE-23-AMINOMUTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSACETYLTRANS-RXN PHOSACETYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R125-RXN R125-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-lysine fermentation to acetate and butanoate}}
+{{#set: common name=3-keto-5-aminohexanoate pathway|L-lysine fermentation to acetate and butyrate}}
+{{#set: reaction found=1}}
+{{#set: total reaction=10}}
+{{#set: completion rate=10.0}}

@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7126 PWY-7126] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4890 TAX-4890]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** ethylene biosynthesis IV (engineered)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[GLUTAMATE-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2337]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12538 RXN-12538]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13396 RXN-13396]
+== External links  ==
+{{#set: taxonomic range=TAX-4890}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=ethylene biosynthesis IV (engineered)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

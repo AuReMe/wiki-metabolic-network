@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5675 PWY-5675] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** nitrate reduction V (assimilatory)
+* Synonym(s):
+** nitrate assimilation
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[GLUTAMINESYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_14842]]
+*** [[Tiso_gene_13754]]
+*** [[Tiso_gene_13820]]
+*** [[Tiso_gene_6647]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[GLUTDEHYD-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_2581]]
+*** [[Tiso_gene_1154]]
+*** [[Tiso_gene_11511]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=NITRATE-REDUCTASE-NADPH-RXN NITRATE-REDUCTASE-NADPH-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6377 RXN0-6377]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=nitrate reduction V (assimilatory)}}
+{{#set: common name=nitrate assimilation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

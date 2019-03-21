@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3755 ==
+* right end position:
+** 10683
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8934
+* centisome position:
+** 55.55279    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DTMPKI-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7210]]
+* [[PWY-7198]]
+* [[PWY-7184]]
+* [[PWY-7187]]
+* [[PWY-7197]]
+* [[PWY0-166]]
+* [[PWY-6545]]
+== External links  ==
+{{#set: right end position=10683}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8934}}
+{{#set: centisome position=55.55279    }}
+{{#set: reaction associated=DTMPKI-RXN}}
+{{#set: pathway associated=PWY-7210|PWY-7198|PWY-7184|PWY-7187|PWY-7197|PWY0-166|PWY-6545}}

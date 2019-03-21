@@ -1,0 +1,63 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ADENODEAMIN-RXN ADENODEAMIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** aldo-keto_reductase_family_4_member_c9_isoform_x2
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.4 EC-3.5.4.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[ADENOSINE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[AMMONIUM]][c] '''+''' 1 [[INOSINE]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 adenosine[c] '''+''' 1 H2O[c] '''=>''' 1 ammonium[c] '''+''' 1 inosine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19373]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18322]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6609]], adenine and adenosine salvage III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6609 PWY-6609]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY0-1296]], purine ribonucleosides degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1296 PWY0-1296]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6611]], adenine and adenosine salvage V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6611 PWY-6611]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[SALVADEHYPOX-PWY]], adenosine nucleotides degradation II: [http://metacyc.org/META/NEW-IMAGE?object=SALVADEHYPOX-PWY SALVADEHYPOX-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=24408 24408]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01560 R01560]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P22333 P22333]
+** [http://www.uniprot.org/uniprot/P00813 P00813]
+** [http://www.uniprot.org/uniprot/P03958 P03958]
+** [http://www.uniprot.org/uniprot/Q9CIR9 Q9CIR9]
+** [http://www.uniprot.org/uniprot/P55266 P55266]
+** [http://www.uniprot.org/uniprot/P53984 P53984]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=aldo-keto_reductase_family_4_member_c9_isoform_x2}}
+{{#set: ec number=EC-3.5.4.4}}
+{{#set: gene associated=Tiso_gene_19373|Tiso_gene_18322}}
+{{#set: in pathway=PWY-6609|PWY0-1296|PWY-6611|SALVADEHYPOX-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

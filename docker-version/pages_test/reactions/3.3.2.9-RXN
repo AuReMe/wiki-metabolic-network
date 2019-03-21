@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.3.2.9-RXN 3.3.2.9-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 2-hydroxy-6-oxohepta-_-dienoate_hydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.3.2.9 EC-3.3.2.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CPD-8984]][c] '''<=>''' 1 [[CPD-8985]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 cis-stilbene oxide[c] '''<=>''' 1 (+)-(1R,2R)-1,2-diphenylethane-1,2-diol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6877]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23900 23900]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07627 R07627]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=2-hydroxy-6-oxohepta-_-dienoate_hydrolase}}
+{{#set: ec number=EC-3.3.2.9}}
+{{#set: gene associated=Tiso_gene_6877}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

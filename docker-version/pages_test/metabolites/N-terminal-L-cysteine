@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-terminal-L-cysteine N-terminal-L-cysteine] ==
+* common name:
+** an N-terminal L-cysteinyl-[protein]
+* Synonym(s):
+** an N-terminal [protein]-L-cysteine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17881]]
+* [[RXN-17861]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17874]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-terminal L-cysteinyl-[protein]}}
+{{#set: common name=an N-terminal [protein]-L-cysteine}}
+{{#set: consumed by=RXN-17881|RXN-17861}}
+{{#set: produced by=RXN-17874}}

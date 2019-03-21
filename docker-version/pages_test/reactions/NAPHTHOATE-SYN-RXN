@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NAPHTHOATE-SYN-RXN NAPHTHOATE-SYN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.3.36 EC-4.1.3.36]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[CPD-6972]][c] '''=>''' 1 [[CPD-9925]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 4-(2'-carboxyphenyl)-4-oxobutyryl-CoA[c] '''=>''' 1 1,4-dihydroxy-2-naphthoyl-CoA[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14257]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_19690]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_16145]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-5837]], 1,4-dihydroxy-2-naphthoate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5837 PWY-5837]
+** '''4''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=26562 26562]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07263 R07263]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9CHK2 Q9CHK2]
+** [http://www.uniprot.org/uniprot/P44960 P44960]
+** [http://www.uniprot.org/uniprot/P0ABU0 P0ABU0]
+** [http://www.uniprot.org/uniprot/P23966 P23966]
+** [http://www.uniprot.org/uniprot/Q59464 Q59464]
+** [http://www.uniprot.org/uniprot/P73495 P73495]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.1.3.36}}
+{{#set: gene associated=Tiso_gene_14257|Tiso_gene_19690|Tiso_gene_16145}}
+{{#set: in pathway=PWY-5837}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

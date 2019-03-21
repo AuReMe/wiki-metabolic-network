@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE 2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE] ==
+* smiles:
+** CC(C)C(C([O-])=O)C(C([O-])=O)O
+* common name:
+** (2R,3S)-3-isopropylmalate
+* inchi key:
+** InChIKey=RNQHMTFBUSSBJQ-CRCLSJGQSA-L
+* molecular weight:
+** 174.153    
+* Synonym(s):
+** 2-D-threo-hydroxy-3-carboxy-isocaproate
+** 3-carboxy-2-hydroxy-4-methylpentanoate
+** &beta;-isopropylmalate
+** 3-isopropylmalate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13158]]
+* [[IMDH]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-8991]]
+* [[RXN-13163]]
+* [[3-ISOPROPYLMALDEHYDROG-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6857402 6857402]
+* HMDB : HMDB12156
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04411 C04411]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5256741.html 5256741]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35121 35121]
+* BIGG : 3c2hmp
+{{#set: smiles=CC(C)C(C([O-])=O)C(C([O-])=O)O}}
+{{#set: common name=(2R,3S)-3-isopropylmalate}}
+{{#set: inchi key=InChIKey=RNQHMTFBUSSBJQ-CRCLSJGQSA-L}}
+{{#set: molecular weight=174.153    }}
+{{#set: common name=2-D-threo-hydroxy-3-carboxy-isocaproate|3-carboxy-2-hydroxy-4-methylpentanoate|&beta;-isopropylmalate|3-isopropylmalate}}
+{{#set: consumed by=RXN-13158|IMDH}}
+{{#set: reversible reaction associated=RXN-8991|RXN-13163|3-ISOPROPYLMALDEHYDROG-RXN}}

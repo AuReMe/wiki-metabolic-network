@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-CYANOPYRIDINE 3-CYANOPYRIDINE] ==
+* smiles:
+** C(C1(=CN=CC=C1))#N
+* common name:
+** 3-cyanopyridine
+* inchi key:
+** InChIKey=GZPHSAQLYPIAIN-UHFFFAOYSA-N
+* molecular weight:
+** 104.111    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[R313-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 100-54-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=79 79]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.78.html 78]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=86556 86556]
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=17558 17558]
+{{#set: smiles=C(C1(=CN=CC=C1))#N}}
+{{#set: common name=3-cyanopyridine}}
+{{#set: inchi key=InChIKey=GZPHSAQLYPIAIN-UHFFFAOYSA-N}}
+{{#set: molecular weight=104.111    }}
+{{#set: consumed by=R313-RXN}}

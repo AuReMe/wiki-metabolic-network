@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16261 RXN-16261] ==
+* direction:
+** REVERSIBLE
+* common name:
+** phospholipase_c_beta_4
+** 1-phosphatidylinositol-_-bisphosphate_phosphodiesterase_gamma-2
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.4.11 EC-3.1.4.11]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[L-1-phosphatidyl-inositols]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[DIACYLGLYCEROL]][c] '''+''' 1 [[D-MYO-INOSITOL-1-MONOPHOSPHATE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 an L-1-phosphatidyl-inositol[c] '''<=>''' 1 H+[c] '''+''' 1 a 1,2-diacyl-sn-glycerol[c] '''+''' 1 1D-myo-inositol 1-monophosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7561]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12020]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=phospholipase_c_beta_4}}
+{{#set: common name=1-phosphatidylinositol-_-bisphosphate_phosphodiesterase_gamma-2}}
+{{#set: ec number=EC-3.1.4.11}}
+{{#set: gene associated=Tiso_gene_7561|Tiso_gene_12020}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

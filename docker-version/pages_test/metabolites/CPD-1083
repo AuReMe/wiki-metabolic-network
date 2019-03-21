@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1083 CPD-1083] ==
+* smiles:
+** CC=C(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** (E)-2-methylcrotonoyl-CoA
+* inchi key:
+** InChIKey=PMWATMXOQQZNBX-DKBZLLMOSA-J
+* molecular weight:
+** 845.604    
+* Synonym(s):
+** methylcrotonyl-CoA
+** trans-2-methylbut-2-enoyl-CoA
+** 2-methylbut-2-enoyl-CoA
+** tigloyl-CoA
+** tiglyl-CoA
+** 2-methyl-crotonyl-CoA
+** (E)-2-methylbut-2-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[MCDH_2mb2coa]]
+== Reaction(s) of unknown directionality ==
+* [[TIGLYLCOA-HYDROXY-RXN]]
+* [[RXN-14266]]
+== External links  ==
+* CAS : 6247-62-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266534 45266534]
+* HMDB : HMDB02054
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15478 15478]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03345 C03345]
+{{#set: smiles=CC=C(C)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=(E)-2-methylcrotonoyl-CoA}}
+{{#set: inchi key=InChIKey=PMWATMXOQQZNBX-DKBZLLMOSA-J}}
+{{#set: molecular weight=845.604    }}
+{{#set: common name=methylcrotonyl-CoA|trans-2-methylbut-2-enoyl-CoA|2-methylbut-2-enoyl-CoA|tigloyl-CoA|tiglyl-CoA|2-methyl-crotonyl-CoA|(E)-2-methylbut-2-enoyl-CoA}}
+{{#set: produced by=MCDH_2mb2coa}}
+{{#set: reversible reaction associated=TIGLYLCOA-HYDROXY-RXN|RXN-14266}}

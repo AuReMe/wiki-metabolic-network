@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19578 ==
+* right end position:
+** 1422
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 366
+* centisome position:
+** 16.546112    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.8.4.12-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[1.8.4.14-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1422}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=366}}
+{{#set: centisome position=16.546112    }}
+{{#set: reaction associated=1.8.4.12-RXN|1.8.4.14-RXN}}

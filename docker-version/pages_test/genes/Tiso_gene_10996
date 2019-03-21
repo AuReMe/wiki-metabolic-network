@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10996 ==
+* right end position:
+** 6707
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4886
+* centisome position:
+** 60.068848    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.5.5.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-1404]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-17607]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-18229]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-581]]
+* [[PWY-5026]]
+* [[PWYQT-4476]]
+== External links  ==
+{{#set: right end position=6707}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4886}}
+{{#set: centisome position=60.068848    }}
+{{#set: reaction associated=3.5.5.1-RXN|RXN-1404|RXN-17607|RXN-18229}}
+{{#set: pathway associated=PWY-581|PWY-5026|PWYQT-4476}}

@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PHENDEHYD-RXN PHENDEHYD-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.39 EC-1.2.1.39]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[PHENYLACETALDEHYDE]][c] '''+''' 1 [[WATER]][c] '''<=>''' 1 [[NADH]][c] '''+''' 1 [[PHENYLACETATE]][c] '''+''' 2 [[PROTON]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 phenylacetaldehyde[c] '''+''' 1 H2O[c] '''<=>''' 1 NADH[c] '''+''' 1 phenylacetate[c] '''+''' 2 H+[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[ANAPHENOXI-PWY]], L-phenylalanine degradation II (anaerobic): [http://metacyc.org/META/NEW-IMAGE?object=ANAPHENOXI-PWY ANAPHENOXI-PWY]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-6534]], phenylethylamine degradation II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6534 PWY-6534]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[2PHENDEG-PWY]], phenylethylamine degradation I: [http://metacyc.org/META/NEW-IMAGE?object=2PHENDEG-PWY 2PHENDEG-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-6318]], L-phenylalanine degradation IV (mammalian, via side chain): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6318 PWY-6318]
+** '''4''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-6941]], styrene degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6941 PWY-6941]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21392 21392]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02536 R02536]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-1.2.1.39}}
+{{#set: in pathway=ANAPHENOXI-PWY|PWY-6534|2PHENDEG-PWY|PWY-6318|PWY-6941}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

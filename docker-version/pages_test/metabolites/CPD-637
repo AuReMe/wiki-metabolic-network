@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-637 CPD-637] ==
+* smiles:
+** CC1(C(=C(C=CC=1)O)C([O-])=O)
+* common name:
+** 6-methylsalicylate
+* inchi key:
+** InChIKey=HCJMNOSIAGSZBM-UHFFFAOYSA-M
+* molecular weight:
+** 151.141    
+* Synonym(s):
+** Methylsalicylic acid
+** 6-Methyl 2-hydroxybenzenecarboxylate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2.3.1.165-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54693536 54693536]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5342108.html 5342108]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=36658 36658]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02657 C02657]
+{{#set: smiles=CC1(C(=C(C=CC=1)O)C([O-])=O)}}
+{{#set: common name=6-methylsalicylate}}
+{{#set: inchi key=InChIKey=HCJMNOSIAGSZBM-UHFFFAOYSA-M}}
+{{#set: molecular weight=151.141    }}
+{{#set: common name=Methylsalicylic acid|6-Methyl 2-hydroxybenzenecarboxylate}}
+{{#set: produced by=2.3.1.165-RXN}}

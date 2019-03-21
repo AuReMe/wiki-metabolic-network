@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11399 ==
+* right end position:
+** 3463
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 441
+* centisome position:
+** 5.645884    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3463}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=441}}
+{{#set: centisome position=5.645884    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN}}

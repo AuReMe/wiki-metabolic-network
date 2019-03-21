@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7191 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HBNOm]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY66-367]]
+* [[PWY66-368]]
+== External links  ==
+{{#set: reaction associated=3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN|HBNOm}}
+{{#set: pathway associated=PWY66-367|PWY66-368}}

@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=diacyl-3-O-glucl-1-6-gluc-sn-glycerol diacyl-3-O-glucl-1-6-gluc-sn-glycerol] ==
+* common name:
+** a 1,2-diacyl-3-O-(&beta;-D-glucopyranosyl-(1->6)-O-&beta;-D-glucopyranosyl)-sn-glycerol
+* Synonym(s):
+** diglucosyl-diacylglycerol
+** Glc2-DAG
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15117]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 1,2-diacyl-3-O-(&beta;-D-glucopyranosyl-(1->6)-O-&beta;-D-glucopyranosyl)-sn-glycerol}}
+{{#set: common name=diglucosyl-diacylglycerol|Glc2-DAG}}
+{{#set: produced by=RXN-15117}}

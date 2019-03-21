@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10174 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-DEHYDROPANTOATE-REDUCT-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[R05068]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-14106]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PANTO-PWY]]
+* [[PWY-6654]]
+== External links  ==
+{{#set: reaction associated=2-DEHYDROPANTOATE-REDUCT-RXN|R05068|RXN-14106}}
+{{#set: pathway associated=PANTO-PWY|PWY-6654}}

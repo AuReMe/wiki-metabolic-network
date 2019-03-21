@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ox-NADPH-Hemoprotein-Reductases Ox-NADPH-Hemoprotein-Reductases] ==
+* common name:
+** an oxidized [NADPH-hemoprotein reductase]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN66-181]]
+* [[HEME-OXYGENASE-DECYCLIZING-RXN]]
+* [[RXN66-161]]
+* [[RXN-8630]]
+* [[RXN-11057]]
+* [[RXN-11056]]
+* [[RXN66-169]]
+* [[RXN66-146]]
+* [[RXN66-163]]
+* [[UNSPECIFIC-MONOOXYGENASE-RXN]]
+* [[RXN-13064]]
+* [[RXN-8872]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an oxidized [NADPH-hemoprotein reductase]}}
+{{#set: produced by=RXN66-181|HEME-OXYGENASE-DECYCLIZING-RXN|RXN66-161|RXN-8630|RXN-11057|RXN-11056|RXN66-169|RXN66-146|RXN66-163|UNSPECIFIC-MONOOXYGENASE-RXN|RXN-13064|RXN-8872}}

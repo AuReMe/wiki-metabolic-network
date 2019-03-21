@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=4.2.2.10-RXN 4.2.2.10-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.2.10 EC-4.2.2.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Pectin]][c] '''<=>''' n [[CPD-12980]][c]
+* With common name(s):
+** 1 a pectin[c] '''<=>''' n an oligosaccharide with 4-deoxy-6-O-methyl-&alpha;-D-galact-4-enuronate end[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3396]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1435]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3975]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4393]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13619]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12495]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10323]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3904]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3374]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q47512 Q47512]
+** [http://www.uniprot.org/uniprot/Q02726 Q02726]
+** [http://www.uniprot.org/uniprot/P22864 P22864]
+** [http://www.uniprot.org/uniprot/P24112 P24112]
+** [http://www.uniprot.org/uniprot/P27027 P27027]
+** [http://www.uniprot.org/uniprot/Q01172 Q01172]
+** [http://www.uniprot.org/uniprot/Q12639 Q12639]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-4.2.2.10}}
+{{#set: gene associated=Tiso_gene_3396|Tiso_gene_1435|Tiso_gene_3975|Tiso_gene_4393|Tiso_gene_13619|Tiso_gene_12495|Tiso_gene_10323|Tiso_gene_3904|Tiso_gene_3374}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

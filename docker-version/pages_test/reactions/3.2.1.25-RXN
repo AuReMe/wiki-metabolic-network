@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.25-RXN 3.2.1.25-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** mannosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.25 EC-3.2.1.25]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Beta-D-Mannosides]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[CPD-12601]][c] '''+''' 1 [[Non-Glycosylated-sugar-Acceptors]][c]
+* With common name(s):
+** 1 a &beta;-D-mannoside[c] '''+''' 1 H2O[c] '''=>''' 1 &beta;-D-mannopyranose[c] '''+''' 1 a non glycosylated sugar acceptor[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_634]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q29444 Q29444]
+** [http://www.uniprot.org/uniprot/P55278 P55278]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=mannosidase}}
+{{#set: ec number=EC-3.2.1.25}}
+{{#set: gene associated=Tiso_gene_634}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

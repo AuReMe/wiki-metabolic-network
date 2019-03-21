@@ -1,0 +1,42 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12533 ==
+* right end position:
+** 6912
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3857
+* centisome position:
+** 55.74505    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GDR]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDR_nadp]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDR_nadp_h]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDR_nadp_m]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDRh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDRm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUTATHIONE-REDUCT-NADPH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLUT-REDOX-PWY]]
+* [[PWY-4081]]
+== External links  ==
+{{#set: right end position=6912}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3857}}
+{{#set: centisome position=55.74505    }}
+{{#set: reaction associated=GDR|GDR_nadp|GDR_nadp_h|GDR_nadp_m|GDRh|GDRm|GLUTATHIONE-REDUCT-NADPH-RXN}}
+{{#set: pathway associated=GLUT-REDOX-PWY|PWY-4081}}

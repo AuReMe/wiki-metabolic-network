@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Chalcones Chalcones] ==
+* common name:
+** a chalcone
+* Synonym(s):
+** a chalconoid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[CHALCONE-ISOMERASE-RXN]]
+== External links  ==
+{{#set: common name=a chalcone}}
+{{#set: common name=a chalconoid}}
+{{#set: reversible reaction associated=CHALCONE-ISOMERASE-RXN}}

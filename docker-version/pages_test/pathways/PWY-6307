@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6307 PWY-6307] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** L-tryptophan degradation X (mammalian, via tryptamine)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-10715]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7322]]
+*** [[Tiso_gene_3513]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10717 RXN-10717]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1401 RXN-1401]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=L-tryptophan degradation X (mammalian, via tryptamine)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

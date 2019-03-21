@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13030 ==
+* right end position:
+** 2246
+* transcription direction:
+** POSITIVE
+* left end position:
+** 192
+* centisome position:
+** 2.9246001    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17203]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-18301]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-18303]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7840]]
+== External links  ==
+{{#set: right end position=2246}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=192}}
+{{#set: centisome position=2.9246001    }}
+{{#set: reaction associated=GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN|RXN-17203|RXN-18301|RXN-18303}}
+{{#set: pathway associated=PWY-7840}}

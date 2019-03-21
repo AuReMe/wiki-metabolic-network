@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4244 ==
+* right end position:
+** 14835
+* transcription direction:
+** POSITIVE
+* left end position:
+** 12634
+* centisome position:
+** 83.43128    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.3.4.1-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[DISULFOXRED-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[DISULISOM-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14835}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=12634}}
+{{#set: centisome position=83.43128    }}
+{{#set: reaction associated=5.3.4.1-RXN|DISULFOXRED-RXN|DISULISOM-RXN}}

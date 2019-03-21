@@ -1,0 +1,29 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TRANS-RXN-261 TRANS-RXN-261] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GLT]][e] '''+''' 1 [[4-AMINO-BUTYRATE]][c] '''=>''' 1 [[4-AMINO-BUTYRATE]][e] '''+''' 1 [[GLT]][c]
+* With common name(s):
+** 1 L-glutamate[e] '''+''' 1 4-aminobutanoate[c] '''=>''' 1 4-aminobutanoate[e] '''+''' 1 L-glutamate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10958]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_10958}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

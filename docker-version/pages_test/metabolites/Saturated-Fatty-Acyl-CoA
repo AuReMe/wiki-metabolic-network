@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Saturated-Fatty-Acyl-CoA Saturated-Fatty-Acyl-CoA] ==
+* common name:
+** a 2,3,4-saturated fatty acyl CoA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11026]]
+* [[ACYLCOADEHYDROG-RXN]]
+* [[THIOESTER-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[TRANS-RXN0-623]]
+* [[TRANSENOYLCOARED-RXN]]
+* [[ACYLCOASYN-RXN]]
+* [[KETOACYLCOATHIOL-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2,3,4-saturated fatty acyl CoA}}
+{{#set: consumed by=RXN-11026|ACYLCOADEHYDROG-RXN|THIOESTER-RXN}}
+{{#set: produced by=TRANS-RXN0-623|TRANSENOYLCOARED-RXN|ACYLCOASYN-RXN|KETOACYLCOATHIOL-RXN}}

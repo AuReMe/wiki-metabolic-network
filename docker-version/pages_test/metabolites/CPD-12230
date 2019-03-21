@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12230 CPD-12230] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(=CCOP(=O)([O-])OP(=O)([O-])OC4(OC(CO)C3(OC9(OC(CO)C(OC8(OC(CO)C(OC1(OC(CO)C(O)C(O)C(NC(=O)C)1))C(OC(C)C(=O)NC(C)C(=O)NC(CCC(=O)NC(CCCCNC(CNC(CNC(CNC(CNC(CNC(=O)C(C)NC(=O)C(CCCCNC(CNC(CNC(CNC(CNC(C[N+])=O)=O)=O)=O)=O)NC(=O)CCC(NC(=O)C(C)NC(=O)C(C)OC7(C(OC6(OC(CO)C(OC5(OC(CO)C(OC2(OC(CO)C(O)C(O)C(NC(=O)C)2))C(OC(C)C(=O)NC(C)C(=O)NC(CCC(=O)NC(CCCCNC(CNC(CNC(CNC(CNC(CNC(=O)C(C)NC(=O)C(CCCCNC(CNC(CNC(CNC(CNC(C[N+])=O)=O)=O)=O)=O)NC(=O)CCC(NC(=O)C(C)NC(=O)C(C)OC3C(NC(C)=O)4)C(=O)N)=O)=O)=O)=O)=O)C(NC(C)C([O-])=O)=O)C(=O)N)C(NC(C)=O)5))C(O)C(NC(=O)C)6))C(CO)OC(O)C(NC(C)=O)7))C(=O)N)=O)=O)=O)=O)=O)C(NC(C)C([O-])=O)=O)C(=O)N)C(NC(C)=O)8))C(O)C(NC(=O)C)9))))C)C)C)C)C)C
+* common name:
+** a peptidoglycan with D,D cross-link (S. aureus)
+* inchi key:
+** InChIKey=CPYBFCKZOJOYOB-QRBVYMFTSA-L
+* molecular weight:
+** 5555.933    
+* Synonym(s):
+** N-acetylglucosamine--N-acetylmuramoyl-(tetrapeptide) diphospho-undecaprenol dimer with D,D cross-link (S. aureus)
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-11065]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659363 90659363]
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(C)=CCCC(=CCCC(=CCCC(=CCOP(=O)([O-])OP(=O)([O-])OC4(OC(CO)C3(OC9(OC(CO)C(OC8(OC(CO)C(OC1(OC(CO)C(O)C(O)C(NC(=O)C)1))C(OC(C)C(=O)NC(C)C(=O)NC(CCC(=O)NC(CCCCNC(CNC(CNC(CNC(CNC(CNC(=O)C(C)NC(=O)C(CCCCNC(CNC(CNC(CNC(CNC(C[N+])=O)=O)=O)=O)=O)NC(=O)CCC(NC(=O)C(C)NC(=O)C(C)OC7(C(OC6(OC(CO)C(OC5(OC(CO)C(OC2(OC(CO)C(O)C(O)C(NC(=O)C)2))C(OC(C)C(=O)NC(C)C(=O)NC(CCC(=O)NC(CCCCNC(CNC(CNC(CNC(CNC(CNC(=O)C(C)NC(=O)C(CCCCNC(CNC(CNC(CNC(CNC(C[N+])=O)=O)=O)=O)=O)NC(=O)CCC(NC(=O)C(C)NC(=O)C(C)OC3C(NC(C)=O)4)C(=O)N)=O)=O)=O)=O)=O)C(NC(C)C([O-])=O)=O)C(=O)N)C(NC(C)=O)5))C(O)C(NC(=O)C)6))C(CO)OC(O)C(NC(C)=O)7))C(=O)N)=O)=O)=O)=O)=O)C(NC(C)C([O-])=O)=O)C(=O)N)C(NC(C)=O)8))C(O)C(NC(=O)C)9))))C)C)C)C)C)C}}
+{{#set: common name=a peptidoglycan with D,D cross-link (S. aureus)}}
+{{#set: inchi key=InChIKey=CPYBFCKZOJOYOB-QRBVYMFTSA-L}}
+{{#set: molecular weight=5555.933    }}
+{{#set: common name=N-acetylglucosamine--N-acetylmuramoyl-(tetrapeptide) diphospho-undecaprenol dimer with D,D cross-link (S. aureus)}}
+{{#set: produced by=RXN-11065}}

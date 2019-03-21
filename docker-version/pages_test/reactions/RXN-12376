@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12376 RXN-12376] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** trna_(guanine_-n1)-methyltransferase
+** probable_trna_(guanine_-n_)-dimethyltransferase_1
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.216 EC-2.1.1.216]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[tRNA-Containing-N2-Methylguanine-26]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[tRNA-Containing-N2-dimethylguanine-26]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 an N2-methylguanine26 in tRNA[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 an N2dimethylguanine26 in tRNA[c] '''+''' 1 S-adenosyl-L-homocysteine[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9360]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16307]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6829]], tRNA methylation (yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6829 PWY-6829]
+** '''3''' reactions found over '''15''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=trna_(guanine_-n1)-methyltransferase}}
+{{#set: common name=probable_trna_(guanine_-n_)-dimethyltransferase_1}}
+{{#set: ec number=EC-2.1.1.216}}
+{{#set: gene associated=Tiso_gene_9360|Tiso_gene_16307}}
+{{#set: in pathway=PWY-6829}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

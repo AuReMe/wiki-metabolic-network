@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-353 RXN66-353] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 3-beta_hydroxysteroid_dehydrogenase_isomerase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.145 EC-1.1.1.145]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PREGNENOLONE]][c] '''+''' 1 [[NAD]][c] '''=>''' 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CPD66-28]][c]
+* With common name(s):
+** 1 pregnenolone[c] '''+''' 1 NAD+[c] '''=>''' 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 pregn-5-ene-3,20-dione[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18774]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2957]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_897]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11016]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7299]], progesterone biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7299 PWY-7299]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=3-beta_hydroxysteroid_dehydrogenase_isomerase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.1.1.145}}
+{{#set: gene associated=Tiso_gene_18774|Tiso_gene_2957|Tiso_gene_897|Tiso_gene_11016}}
+{{#set: in pathway=PWY-7299}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

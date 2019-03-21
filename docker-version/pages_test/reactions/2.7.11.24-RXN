@@ -1,0 +1,81 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.11.24-RXN 2.7.11.24-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** mitogen_activatedproteinkinase
+** extracellular_response_kinase
+** mitogenactivated_protein_kinase
+** mitogen-activated_protein_kinase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.11.24 EC-2.7.11.24]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Protein-L-Ser-or-L-Thr-L-Pro]][c] '''+''' 1 [[ATP]][c] '''<=>''' 1 [[Protein-L-Ser-or-L-Thr-P-L-Pro]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 a protein containing an (L-serine/L-threonine)-L-proline motif[c] '''+''' 1 ATP[c] '''<=>''' 1 a protein containing a phosphorylated (L-serine/L-threonine)-L-proline motif[c] '''+''' 1 H+[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15060]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_169]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19611]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15329]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_8480]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_7161]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10792]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_10060]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2152]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_10793]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_1338]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_9582]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=mitogen_activatedproteinkinase}}
+{{#set: common name=extracellular_response_kinase}}
+{{#set: common name=mitogenactivated_protein_kinase}}
+{{#set: common name=mitogen-activated_protein_kinase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-2.7.11.24}}
+{{#set: gene associated=Tiso_gene_15060|Tiso_gene_169|Tiso_gene_19611|Tiso_gene_15329|Tiso_gene_8480|Tiso_gene_7161|Tiso_gene_10792|Tiso_gene_10060|Tiso_gene_2152|Tiso_gene_10793|Tiso_gene_1338|Tiso_gene_9582}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

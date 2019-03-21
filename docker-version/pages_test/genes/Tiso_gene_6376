@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6376 ==
+* right end position:
+** 7383
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2643
+* centisome position:
+** 21.557913    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.1.1.77-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7383}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2643}}
+{{#set: centisome position=21.557913    }}
+{{#set: reaction associated=2.1.1.77-RXN}}

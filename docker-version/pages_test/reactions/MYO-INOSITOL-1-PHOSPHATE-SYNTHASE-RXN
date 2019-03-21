@@ -1,0 +1,69 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** myo-inositol-1-phosphate_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/5.5.1.4 EC-5.5.1.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[D-glucopyranose-6-phosphate]][c] '''=>''' 1 [[1-L-MYO-INOSITOL-1-P]][c]
+* With common name(s):
+** 1 D-glucopyranose 6-phosphate[c] '''=>''' 1 1D-myo-inositol 3-monophosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7167]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-2301]], myo-inositol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2301 PWY-2301]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-4661]], 1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza): [http://metacyc.org/META/NEW-IMAGE?object=PWY-4661 PWY-4661]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6580]], phosphatidylinositol biosynthesis I (bacteria): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6580 PWY-6580]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-6664]], di-myo-inositol phosphate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6664 PWY-6664]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+* [[PWY1G-0]], mycothiol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY1G-0 PWY1G-0]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6372]], 1D-myo-inositol hexakisphosphate biosynthesis IV (Dictyostelium): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6372 PWY-6372]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10716 10716]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07324 R07324]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P42800 P42800]
+** [http://www.uniprot.org/uniprot/P42802 P42802]
+** [http://www.uniprot.org/uniprot/P42803 P42803]
+** [http://www.uniprot.org/uniprot/Q9FPK7 Q9FPK7]
+** [http://www.uniprot.org/uniprot/O65195 O65195]
+** [http://www.uniprot.org/uniprot/P42801 P42801]
+** [http://www.uniprot.org/uniprot/Q96348 Q96348]
+** [http://www.uniprot.org/uniprot/Q41107 Q41107]
+** [http://www.uniprot.org/uniprot/Q40271 Q40271]
+** [http://www.uniprot.org/uniprot/Q18664 Q18664]
+** [http://www.uniprot.org/uniprot/Q9LX12 Q9LX12]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=myo-inositol-1-phosphate_synthase}}
+{{#set: ec number=EC-5.5.1.4}}
+{{#set: gene associated=Tiso_gene_7167}}
+{{#set: in pathway=PWY-2301|PWY-4661|PWY-6580|PWY-6664|PWY1G-0|PWY-6372}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2461 CPD0-2461] ==
+* smiles:
+** C2(=NC1(=C(NC(N=C(N)1)=O)N2))
+* common name:
+** isoguanine
+* inchi key:
+** InChIKey=DRAVOWXCEBXPTN-UHFFFAOYSA-N
+* molecular weight:
+** 151.127    
+* Synonym(s):
+** 2-oxoadenine
+** 2-hydroxyadenine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15139]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=76900 76900]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.69351.html 69351]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62462 62462]
+* HMDB : HMDB00403
+{{#set: smiles=C2(=NC1(=C(NC(N=C(N)1)=O)N2))}}
+{{#set: common name=isoguanine}}
+{{#set: inchi key=InChIKey=DRAVOWXCEBXPTN-UHFFFAOYSA-N}}
+{{#set: molecular weight=151.127    }}
+{{#set: common name=2-oxoadenine|2-hydroxyadenine}}
+{{#set: produced by=RXN-15139}}

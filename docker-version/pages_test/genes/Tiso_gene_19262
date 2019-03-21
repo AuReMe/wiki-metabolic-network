@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19262 ==
+* right end position:
+** 1694
+* transcription direction:
+** POSITIVE
+* left end position:
+** 77
+* centisome position:
+** 3.1123686    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-ARGININE-DEIMINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-4921]]
+== External links  ==
+{{#set: right end position=1694}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=77}}
+{{#set: centisome position=3.1123686    }}
+{{#set: reaction associated=PROTEIN-ARGININE-DEIMINASE-RXN}}
+{{#set: pathway associated=PWY-4921}}

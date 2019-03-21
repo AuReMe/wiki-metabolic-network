@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17734 ==
+* right end position:
+** 1703
+* transcription direction:
+** POSITIVE
+* left end position:
+** 272
+* centisome position:
+** 7.804878    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALDOSE-1-EPIMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[ALDOSE1EPIM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[G6PI]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6317]]
+* [[PWY66-422]]
+* [[PWY0-1466]]
+== External links  ==
+{{#set: right end position=1703}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=272}}
+{{#set: centisome position=7.804878    }}
+{{#set: reaction associated=ALDOSE-1-EPIMERASE-RXN|ALDOSE1EPIM-RXN|G6PI|GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN}}
+{{#set: pathway associated=PWY-6317|PWY66-422|PWY0-1466}}

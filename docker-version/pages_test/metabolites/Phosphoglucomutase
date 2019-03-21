@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Phosphoglucomutase Phosphoglucomutase] ==
+* common name:
+** a phosphoglucomutase
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16998]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16997]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a phosphoglucomutase}}
+{{#set: consumed by=RXN-16998}}
+{{#set: produced by=RXN-16997}}

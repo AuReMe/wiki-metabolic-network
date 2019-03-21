@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-653 CPD-653] ==
+* smiles:
+** C1(=C(CCC(O)N1C5(OC(COP(=O)([O-])OP(=O)([O-])OCC2(OC(C(O)C(O)2)N4(C=NC3(C(N)=NC=NC=34))))C(O)C(O)5))C(N)=O)
+* common name:
+** (S)-NADHX
+* inchi key:
+** InChIKey=IDBZKGQRLBFUFQ-VPHRTNKSSA-L
+* molecular weight:
+** 681.445    
+* Synonym(s):
+** (6S)-6-&beta;-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12753]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25203523 25203523]
+* HMDB : HMDB59644
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=64074 64074]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04856 C04856]
+{{#set: smiles=C1(=C(CCC(O)N1C5(OC(COP(=O)([O-])OP(=O)([O-])OCC2(OC(C(O)C(O)2)N4(C=NC3(C(N)=NC=NC=34))))C(O)C(O)5))C(N)=O)}}
+{{#set: common name=(S)-NADHX}}
+{{#set: inchi key=InChIKey=IDBZKGQRLBFUFQ-VPHRTNKSSA-L}}
+{{#set: molecular weight=681.445    }}
+{{#set: common name=(6S)-6-&beta;-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide}}
+{{#set: produced by=RXN-12753}}

@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=C1 C1] ==
+* smiles:
+** CC(C(=O)NC(C)C([O-])=O)NC(=O)C(CCCC([N+])C(=O)[O-])NC(=O)CCC(C(=O)[O-])NC(=O)C(C)NC(=O)C(C)OC1(C(O)C(CO)OC(C(NC(=O)C)1)OP([O-])(OP([O-])(OCC2(C(O)C(O)C(O2)N3(C=CC(=O)NC(=O)3)))=O)=O)
+* common name:
+** UDP-N-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+* inchi key:
+** InChIKey=IMWOXEZVYQDRDF-MCZXNMLPSA-J
+* molecular weight:
+** 1189.924    
+* Synonym(s):
+** UDP-N-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+** UDP-N-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-meso-2,6-diaminoheptanedioate- D-alanyl-D-alanine
+
+== Reaction(s) known to consume the compound ==
+* [[PHOSNACMURPENTATRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244658 25244658]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61386 61386]
+* BIGG : ugmda
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04882 C04882]
+{{#set: smiles=CC(C(=O)NC(C)C([O-])=O)NC(=O)C(CCCC([N+])C(=O)[O-])NC(=O)CCC(C(=O)[O-])NC(=O)C(C)NC(=O)C(C)OC1(C(O)C(CO)OC(C(NC(=O)C)1)OP([O-])(OP([O-])(OCC2(C(O)C(O)C(O2)N3(C=CC(=O)NC(=O)3)))=O)=O)}}
+{{#set: common name=UDP-N-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine}}
+{{#set: inchi key=InChIKey=IMWOXEZVYQDRDF-MCZXNMLPSA-J}}
+{{#set: molecular weight=1189.924    }}
+{{#set: common name=UDP-N-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine|UDP-N-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-meso-2,6-diaminoheptanedioate- D-alanyl-D-alanine}}
+{{#set: consumed by=PHOSNACMURPENTATRANS-RXN}}

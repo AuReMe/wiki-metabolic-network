@@ -1,0 +1,50 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5537 PWY-5537] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** pyruvate fermentation to acetate V
+* Synonym(s):
+** acetate fermentation
+** acetate:succinate CoA transferase/SCoAS cycle
+** ASCT cycle
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PYRUVDEH-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_2515]]
+*** [[Tiso_gene_6983]]
+*** [[Tiso_gene_17539]]
+*** [[Tiso_gene_2693]]
+*** [[Tiso_gene_9330]]
+*** [[Tiso_gene_7519]]
+*** [[Tiso_gene_19780]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[SUCCCOASYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15846]]
+*** [[Tiso_gene_11866]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5536 PWY-5536]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5536 PWY-5536]
+== External links  ==
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=pyruvate fermentation to acetate V}}
+{{#set: common name=acetate fermentation|acetate:succinate CoA transferase/SCoAS cycle|ASCT cycle}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

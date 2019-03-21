@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GUANOSINE GUANOSINE] ==
+* smiles:
+** C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))
+* common name:
+** guanosine
+* inchi key:
+** InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
+* molecular weight:
+** 283.243    
+* Synonym(s):
+** nucleoside Q
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-366]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7609]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 118-00-3
+* BIGG : gsn
+* DRUGBANK : DB02857
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6802 6802]
+* HMDB : HMDB00133
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00387 C00387]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.6544.html 6544]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16750 16750]
+* METABOLIGHTS : MTBLC16750
+{{#set: smiles=C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))}}
+{{#set: common name=guanosine}}
+{{#set: inchi key=InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N}}
+{{#set: molecular weight=283.243    }}
+{{#set: common name=nucleoside Q}}
+{{#set: consumed by=RXN0-366}}
+{{#set: produced by=RXN-7609}}

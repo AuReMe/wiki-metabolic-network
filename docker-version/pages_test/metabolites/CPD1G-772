@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1G-772 CPD1G-772] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(OCC1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)COP([O-])(=O)[O-])O)O)O)))=O)C(O)CCCCCCCCCCCCCCCC3(CC3C(C)CCCCCCCCCCCCCCCC(OC)C(C)CCCCCCCCCCCCCCCCCC)
+* common name:
+** 6-O-trans-methoxy-mycolyl-trehalose 6-phosphate
+* inchi key:
+** InChIKey=XLNAXSPACRJUAD-BZZONOHYSA-L
+* molecular weight:
+** 1670.535    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-1437]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659335 90659335]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(OCC1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)COP([O-])(=O)[O-])O)O)O)))=O)C(O)CCCCCCCCCCCCCCCC3(CC3C(C)CCCCCCCCCCCCCCCC(OC)C(C)CCCCCCCCCCCCCCCCCC)}}
+{{#set: common name=6-O-trans-methoxy-mycolyl-trehalose 6-phosphate}}
+{{#set: inchi key=InChIKey=XLNAXSPACRJUAD-BZZONOHYSA-L}}
+{{#set: molecular weight=1670.535    }}
+{{#set: consumed by=RXN1G-1437}}

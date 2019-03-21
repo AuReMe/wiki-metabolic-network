@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.1.4.1-RXN 1.1.4.1-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** vitamin_k_epoxide_reductase_complex
+* ec number:
+** [http://enzyme.expasy.org/EC/1.17.4.4 EC-1.17.4.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[2-METHYL-3-PHYTYL-14-NAPHTHOQUINONE]][c] '''+''' 1 [[OXIDIZED-DITHIOTHREITOL]][c] '''<=>''' 1 [[23-EPOXY-23-DIHYDRO-2-METHYL-14-NAPHTHOQ]][c] '''+''' 1 [[DITHIOTHREITOL]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 phylloquinone[c] '''+''' 1 oxidized dithiothreitol[c] '''<=>''' 1 vitamin K 2,3-epoxide[c] '''+''' 1 L-dithiothreitol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11760]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13817 13817]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03511 R03511]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=vitamin_k_epoxide_reductase_complex}}
+{{#set: ec number=EC-1.17.4.4}}
+{{#set: gene associated=Tiso_gene_11760}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

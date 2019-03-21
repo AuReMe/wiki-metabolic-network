@@ -1,0 +1,25 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CYSTATHIONINE-BETA-LYASE-RXN CYSTATHIONINE-BETA-LYASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** CYSTATHIONINE-BETA-LYASE-RXN
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[L-CYSTATHIONINE]][c] '''+''' 1.0 [[WATER]][c] '''=>''' 1.0 [[PYRUVATE]][c] '''+''' 1.0 [[HOMO-CYS]][c] '''+''' 1.0 [[AMMONIUM]][c]
+* With common name(s):
+** 1.0 L-cystathionine[c] '''+''' 1.0 H2O[c] '''=>''' 1.0 pyruvate[c] '''+''' 1.0 L-homocysteine[c] '''+''' 1.0 ammonium[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=CYSTATHIONINE-BETA-LYASE-RXN}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

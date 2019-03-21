@@ -1,0 +1,90 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ISOLEUCINE--TRNA-LIGASE-RXN ISOLEUCINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** isoleucine--trna_cytoplasmic
+** isoleucine--trna_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.5 EC-6.1.1.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[ILE-tRNAs]][c] '''+''' 1 [[ILE]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[Charged-ILE-tRNAs]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 a tRNAile[c] '''+''' 1 L-isoleucine[c] '''=>''' 1 diphosphate[c] '''+''' 1 an L-isoleucyl-[tRNAile][c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12496]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11779]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11060 11060]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03656 R03656]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P18330 P18330]
+** [http://www.uniprot.org/uniprot/P36422 P36422]
+** [http://www.uniprot.org/uniprot/O29622 O29622]
+** [http://www.uniprot.org/uniprot/P47587 P47587]
+** [http://www.uniprot.org/uniprot/Q9ZCU4 Q9ZCU4]
+** [http://www.uniprot.org/uniprot/P46213 P46213]
+** [http://www.uniprot.org/uniprot/P41257 P41257]
+** [http://www.uniprot.org/uniprot/Q9JVY4 Q9JVY4]
+** [http://www.uniprot.org/uniprot/Q58357 Q58357]
+** [http://www.uniprot.org/uniprot/O83466 O83466]
+** [http://www.uniprot.org/uniprot/Q9Z972 Q9Z972]
+** [http://www.uniprot.org/uniprot/P56456 P56456]
+** [http://www.uniprot.org/uniprot/O58792 O58792]
+** [http://www.uniprot.org/uniprot/O84022 O84022]
+** [http://www.uniprot.org/uniprot/Q9ZJJ1 Q9ZJJ1]
+** [http://www.uniprot.org/uniprot/O66651 O66651]
+** [http://www.uniprot.org/uniprot/Q9CEH8 Q9CEH8]
+** [http://www.uniprot.org/uniprot/O27428 O27428]
+** [http://www.uniprot.org/uniprot/Q45477 Q45477]
+** [http://www.uniprot.org/uniprot/O51773 O51773]
+** [http://www.uniprot.org/uniprot/P46207 P46207]
+** [http://www.uniprot.org/uniprot/P41252 P41252]
+** [http://www.uniprot.org/uniprot/P41972 P41972]
+** [http://www.uniprot.org/uniprot/P48526 P48526]
+** [http://www.uniprot.org/uniprot/P75258 P75258]
+** [http://www.uniprot.org/uniprot/P73505 P73505]
+** [http://www.uniprot.org/uniprot/Q49024 Q49024]
+** [http://www.uniprot.org/uniprot/Q49074 Q49074]
+** [http://www.uniprot.org/uniprot/P43824 P43824]
+** [http://www.uniprot.org/uniprot/P09436 P09436]
+** [http://www.uniprot.org/uniprot/P00956 P00956]
+** [http://www.uniprot.org/uniprot/Q94425 Q94425]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=isoleucine--trna_cytoplasmic}}
+{{#set: common name=isoleucine--trna_ligase}}
+{{#set: ec number=EC-6.1.1.5}}
+{{#set: gene associated=Tiso_gene_12496|Tiso_gene_11779}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

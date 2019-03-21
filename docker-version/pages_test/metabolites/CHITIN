@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CHITIN CHITIN] ==
+* common name:
+** chitin
+* Synonym(s):
+** [GlcNAc]n
+** beta-1,4-Poly-N-acetyl-D-glucosamine
+** (1&rarr;4)-2-acetamido-2-deoxy-&beta;-D-glucan
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-18082]]
+* [[3.2.1.14-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-18082]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=chitin}}
+{{#set: common name=[GlcNAc]n|beta-1,4-Poly-N-acetyl-D-glucosamine|(1&rarr;4)-2-acetamido-2-deoxy-&beta;-D-glucan}}
+{{#set: consumed by=RXN-18082|3.2.1.14-RXN}}
+{{#set: produced by=RXN-18082}}

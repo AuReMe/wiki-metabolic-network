@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1420 ==
+* right end position:
+** 22665
+* transcription direction:
+** POSITIVE
+* left end position:
+** 20240
+* centisome position:
+** 85.084915    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIACYLGLYKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[NAD-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7268]]
+* [[PWY-7269]]
+* [[PWY-7817]]
+* [[PWY-5083]]
+* [[NADPHOS-DEPHOS-PWY-1]]
+* [[PWY-7039]]
+* [[NADPHOS-DEPHOS-PWY]]
+== External links  ==
+{{#set: right end position=22665}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=20240}}
+{{#set: centisome position=85.084915    }}
+{{#set: reaction associated=DIACYLGLYKIN-RXN|NAD-KIN-RXN}}
+{{#set: pathway associated=PWY-7268|PWY-7269|PWY-7817|PWY-5083|NADPHOS-DEPHOS-PWY-1|PWY-7039|NADPHOS-DEPHOS-PWY}}

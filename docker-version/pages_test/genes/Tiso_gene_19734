@@ -1,0 +1,47 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19734 ==
+* right end position:
+** 1723
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 198
+* centisome position:
+** 9.542169    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATCM]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATDCM]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-11832]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12002]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-7913]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7219]]
+* [[PWY-7205]]
+* [[PWY-7197]]
+* [[PWY-7176]]
+== External links  ==
+{{#set: right end position=1723}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=198}}
+{{#set: centisome position=9.542169    }}
+{{#set: reaction associated=ADENYL-KIN-RXN|ATCM|ATDCM|RXN-11832|RXN-12002|RXN-7913}}
+{{#set: pathway associated=PWY-7219|PWY-7205|PWY-7197|PWY-7176}}

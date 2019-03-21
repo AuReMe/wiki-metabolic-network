@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-375 CPD-375] ==
+* smiles:
+** CC1(=C(C2(=C(C=N1)COC2=O))O)
+* common name:
+** 4-pyridoxolactone
+* inchi key:
+** InChIKey=HHPDVQLBYQFYFA-UHFFFAOYSA-N
+* molecular weight:
+** 165.148    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PYRIDOXAL-4-DEHYDROGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=151228 151228]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.133287.html 133287]
+* HMDB : HMDB03454
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16871 16871]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00971 C00971]
+{{#set: smiles=CC1(=C(C2(=C(C=N1)COC2=O))O)}}
+{{#set: common name=4-pyridoxolactone}}
+{{#set: inchi key=InChIKey=HHPDVQLBYQFYFA-UHFFFAOYSA-N}}
+{{#set: molecular weight=165.148    }}
+{{#set: produced by=PYRIDOXAL-4-DEHYDROGENASE-RXN}}

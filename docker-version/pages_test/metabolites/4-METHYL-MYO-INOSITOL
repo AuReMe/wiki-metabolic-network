@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=4-METHYL-MYO-INOSITOL 4-METHYL-MYO-INOSITOL] ==
+* smiles:
+** COC1(C(O)C(O)C(O)C(O)C(O)1)
+* common name:
+** D-ononitol
+* inchi key:
+** InChIKey=DSCFFEYYQKSRSV-GESKJZQWSA-N
+* molecular weight:
+** 194.184    
+* Synonym(s):
+** 4-O-methyl-myo-inositol
+** ononitol
+** 1D-4-O-methyl-myo-inositol
+** 4-methyl-myo-inositol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8281]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06352 C06352]
+* HMDB : HMDB29915
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18266 18266]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=12300199 12300199]
+{{#set: smiles=COC1(C(O)C(O)C(O)C(O)C(O)1)}}
+{{#set: common name=D-ononitol}}
+{{#set: inchi key=InChIKey=DSCFFEYYQKSRSV-GESKJZQWSA-N}}
+{{#set: molecular weight=194.184    }}
+{{#set: common name=4-O-methyl-myo-inositol|ononitol|1D-4-O-methyl-myo-inositol|4-methyl-myo-inositol}}
+{{#set: consumed by=RXN-8281}}

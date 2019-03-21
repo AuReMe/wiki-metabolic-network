@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_322 ==
+* right end position:
+** 28180
+* transcription direction:
+** POSITIVE
+* left end position:
+** 22442
+* centisome position:
+** 62.94738    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.32-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[CELLULOSE-SYNTHASE-UDP-FORMING-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16648]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-7817]]
+* [[PWY-7666]]
+* [[PWY-1001]]
+== External links  ==
+{{#set: right end position=28180}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=22442}}
+{{#set: centisome position=62.94738    }}
+{{#set: reaction associated=2.4.1.32-RXN|CELLULOSE-SYNTHASE-UDP-FORMING-RXN|RXN-16648}}
+{{#set: pathway associated=PWY-7817|PWY-7666|PWY-1001}}

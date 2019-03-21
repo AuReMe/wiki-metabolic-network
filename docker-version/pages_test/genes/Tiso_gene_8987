@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8987 ==
+* right end position:
+** 9686
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8446
+* centisome position:
+** 86.91089    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9686}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8446}}
+{{#set: centisome position=86.91089    }}
+{{#set: reaction associated=R4-RXN}}

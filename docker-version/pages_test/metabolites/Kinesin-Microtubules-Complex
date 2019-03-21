@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Kinesin-Microtubules-Complex Kinesin-Microtubules-Complex] ==
+* common name:
+** a kinesin-microtubules complex
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.6.4.4-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3.6.4.4-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a kinesin-microtubules complex}}
+{{#set: consumed by=3.6.4.4-RXN}}
+{{#set: produced by=3.6.4.4-RXN}}

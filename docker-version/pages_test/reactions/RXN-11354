@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11354 RXN-11354] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/5.2.1.12 EC-5.2.1.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-7535]][c] '''=>''' 1 [[CPD-7526]][c]
+* With common name(s):
+** 1 9,15,9'-tri-cis-&zeta;-carotene[c] '''=>''' 1 9,9'-di-cis-&zeta;-carotene[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6475]], trans-lycopene biosynthesis II (plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6475 PWY-6475]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-reactions_pwy-6475_tiso_add]]
+*** Comment: [[reaction added to complete pwy-6475]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30970 30970]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-5.2.1.12}}
+{{#set: in pathway=PWY-6475}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-reactions_pwy-6475_tiso_add}}
+{{#set: reconstruction comment=reaction added to complete pwy-6475}}

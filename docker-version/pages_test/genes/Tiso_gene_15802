@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15802 ==
+* right end position:
+** 3238
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 270
+* centisome position:
+** 3.2850714    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R95]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[R96]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-8042]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6475]]
+== External links  ==
+{{#set: right end position=3238}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=270}}
+{{#set: centisome position=3.2850714    }}
+{{#set: reaction associated=R95|R96|RXN-8042}}
+{{#set: pathway associated=PWY-6475}}

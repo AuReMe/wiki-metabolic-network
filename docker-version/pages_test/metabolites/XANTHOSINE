@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=XANTHOSINE XANTHOSINE] ==
+* smiles:
+** C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(=O)NC=23)))
+* common name:
+** xanthosine
+* inchi key:
+** InChIKey=UBORTCNDUKBEOP-UUOKFMHZSA-N
+* molecular weight:
+** 284.228    
+* Synonym(s):
+** 9 &beta;-D-ribofuranosylxanthine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-363]]
+* [[XANTHOSINEPHOSPHORY-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[X5NT]]
+* [[XMPXAN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 146-80-5
+* BIGG : xtsn
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=64959 64959]
+* HMDB : HMDB00299
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01762 C01762]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1152.html 1152]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18107 18107]
+* METABOLIGHTS : MTBLC18107
+{{#set: smiles=C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(=O)NC=23)))}}
+{{#set: common name=xanthosine}}
+{{#set: inchi key=InChIKey=UBORTCNDUKBEOP-UUOKFMHZSA-N}}
+{{#set: molecular weight=284.228    }}
+{{#set: common name=9 &beta;-D-ribofuranosylxanthine}}
+{{#set: consumed by=RXN0-363|XANTHOSINEPHOSPHORY-RXN}}
+{{#set: produced by=X5NT|XMPXAN-RXN}}

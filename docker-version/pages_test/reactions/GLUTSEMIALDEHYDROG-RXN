@@ -1,0 +1,74 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLUTSEMIALDEHYDROG-RXN GLUTSEMIALDEHYDROG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutamate-5-semialdehyde_dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.41 EC-1.2.1.41]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-GLUTAMATE-5-P]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[NADPH]][c] '''=>''' 1 [[NADP]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[L-GLUTAMATE_GAMMA-SEMIALDEHYDE]][c]
+* With common name(s):
+** 1 &gamma;-L-glutamyl 5-phosphate[c] '''+''' 1 H+[c] '''+''' 1 NADPH[c] '''=>''' 1 NADP+[c] '''+''' 1 phosphate[c] '''+''' 1 L-glutamate-5-semialdehyde[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16634]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16258]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-6922]], L-N&delta;-acetylornithine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6922 PWY-6922]
+** '''6''' reactions found over '''7''' reactions in the full pathway
+* [[PROSYN-PWY]], L-proline biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PROSYN-PWY PROSYN-PWY]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-3341]], L-proline biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-3341 PWY-3341]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+* [[ARGININE-SYN4-PWY]], L-ornithine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=ARGININE-SYN4-PWY ARGININE-SYN4-PWY]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[CITRULBIO-PWY]], L-citrulline biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=CITRULBIO-PWY CITRULBIO-PWY]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=19541 19541]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03313 R03313]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JUK8 Q9JUK8]
+** [http://www.uniprot.org/uniprot/P45121 P45121]
+** [http://www.uniprot.org/uniprot/P53000 P53000]
+** [http://www.uniprot.org/uniprot/P07004 P07004]
+** [http://www.uniprot.org/uniprot/P17857 P17857]
+** [http://www.uniprot.org/uniprot/P45638 P45638]
+** [http://www.uniprot.org/uniprot/P54885 P54885]
+** [http://www.uniprot.org/uniprot/O04226 O04226]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutamate-5-semialdehyde_dehydrogenase}}
+{{#set: ec number=EC-1.2.1.41}}
+{{#set: gene associated=Tiso_gene_16634|Tiso_gene_16258}}
+{{#set: in pathway=PWY-6922|PROSYN-PWY|PWY-3341|ARGININE-SYN4-PWY|CITRULBIO-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

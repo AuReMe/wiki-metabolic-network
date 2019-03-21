@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13367 ==
+* right end position:
+** 2108
+* transcription direction:
+** POSITIVE
+* left end position:
+** 478
+* centisome position:
+** 7.531117    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.3.99.23-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8042]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6475]]
+== External links  ==
+{{#set: right end position=2108}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=478}}
+{{#set: centisome position=7.531117    }}
+{{#set: reaction associated=1.3.99.23-RXN|RXN-8042}}
+{{#set: pathway associated=PWY-6475}}

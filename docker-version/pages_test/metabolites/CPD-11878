@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11878 CPD-11878] ==
+* smiles:
+** C(O)C(O)C1(C=CC(O)=C(O)C=1)
+* common name:
+** 3,4-dihydroxyphenylglycol
+* inchi key:
+** InChIKey=MTVWFVDWRVYDOR-QMMMGPOBSA-N
+* molecular weight:
+** 170.165    
+* Synonym(s):
+** dihydroxyphenylethylene glycol
+** 3,4-dihydroxyphenylethyleneglycol
+** DHPG
+** DOPEG
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10911]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6951097 6951097]
+* HMDB : HMDB00318
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05576 C05576]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.82648.html 82648]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=1387 1387]
+* METABOLIGHTS : MTBLC1387
+{{#set: smiles=C(O)C(O)C1(C=CC(O)=C(O)C=1)}}
+{{#set: common name=3,4-dihydroxyphenylglycol}}
+{{#set: inchi key=InChIKey=MTVWFVDWRVYDOR-QMMMGPOBSA-N}}
+{{#set: molecular weight=170.165    }}
+{{#set: common name=dihydroxyphenylethylene glycol|3,4-dihydroxyphenylethyleneglycol|DHPG|DOPEG}}
+{{#set: produced by=RXN-10911}}

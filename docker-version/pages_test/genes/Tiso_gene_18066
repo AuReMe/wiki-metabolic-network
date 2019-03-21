@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18066 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HEMN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5531]]
+* [[HEMESYN2-PWY]]
+== External links  ==
+{{#set: reaction associated=HEMN-RXN}}
+{{#set: pathway associated=PWY-5531|HEMESYN2-PWY}}

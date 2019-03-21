@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5288 PWY-5288] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3042 TAX-3042]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** astaxanthin biosynthesis (bacteria, fungi, algae)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''10''' reactions in the full pathway
+* [[RXN-8025]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10837]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[RXN-8026]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10837]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8184 RXN-8184]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8185 RXN-8185]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8186 RXN-8186]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8187 RXN-8187]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8189 RXN-8189]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8190 RXN-8190]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8214 RXN-8214]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8215 RXN-8215]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-3042}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=astaxanthin biosynthesis (bacteria, fungi, algae)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=10}}
+{{#set: completion rate=20.0}}

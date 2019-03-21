@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17661 ==
+* right end position:
+** 2560
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1003
+* centisome position:
+** 14.467041    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3PG_pi_thr]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DHAP_pi_thr]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[G1P_pi_th]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[G3P_pi_thr]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[G6PA_pi_th]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[G6PB_pi_th]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PEPPIth]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2560}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1003}}
+{{#set: centisome position=14.467041    }}
+{{#set: reaction associated=3PG_pi_thr|DHAP_pi_thr|DNA-DIRECTED-DNA-POLYMERASE-RXN|G1P_pi_th|G3P_pi_thr|G6PA_pi_th|G6PB_pi_th|PEPPIth}}

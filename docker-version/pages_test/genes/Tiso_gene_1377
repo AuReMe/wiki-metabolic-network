@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1377 ==
+* right end position:
+** 22785
+* transcription direction:
+** POSITIVE
+* left end position:
+** 21535
+* centisome position:
+** 89.64326    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTATHIONE-PEROXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[DETOX1-PWY-1]]
+* [[PWY-4081]]
+== External links  ==
+{{#set: right end position=22785}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=21535}}
+{{#set: centisome position=89.64326    }}
+{{#set: reaction associated=GLUTATHIONE-PEROXIDASE-RXN}}
+{{#set: pathway associated=DETOX1-PWY-1|PWY-4081}}

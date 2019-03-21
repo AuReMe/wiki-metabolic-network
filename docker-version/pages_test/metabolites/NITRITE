@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=NITRITE NITRITE] ==
+* smiles:
+** N([O-])=O
+* common name:
+** nitrite
+* inchi key:
+** InChIKey=IOVCWXUNBOPUCH-UHFFFAOYSA-M
+* molecular weight:
+** 46.005    
+* Synonym(s):
+** NO2
+** NO2-
+
+== Reaction(s) known to consume the compound ==
+* [[FERREDOXIN--NITRITE-REDUCTASE-RXN]]
+* [[TRANS-RXN-137]]
+== Reaction(s) known to produce the compound ==
+* [[TRANS-RXN-137]]
+* [[RXN-3661]]
+* [[NITRATE-REDUCTASE-NADH-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 7697-37-2
+* CAS : 14797-65-0
+* BIGG : no2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=946 946]
+* HMDB : HMDB02786
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00088 C00088]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.921.html 921]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16301 16301]
+* METABOLIGHTS : MTBLC16301
+{{#set: smiles=N([O-])=O}}
+{{#set: common name=nitrite}}
+{{#set: inchi key=InChIKey=IOVCWXUNBOPUCH-UHFFFAOYSA-M}}
+{{#set: molecular weight=46.005    }}
+{{#set: common name=NO2|NO2-}}
+{{#set: consumed by=FERREDOXIN--NITRITE-REDUCTASE-RXN|TRANS-RXN-137}}
+{{#set: produced by=TRANS-RXN-137|RXN-3661|NITRATE-REDUCTASE-NADH-RXN}}

@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14719 CPD-14719] ==
+* smiles:
+** CCCCCCCCCCCCCCCC[CH]=O
+* inchi key:
+** InChIKey=PIYDVAYKYBWPPY-UHFFFAOYSA-N
+* common name:
+** heptadecanal
+* molecular weight:
+** 254.455    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-476-CPD-14719/NAD/WATER//CPD-7830/NADH/PROTON.42.]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-475-CPD-14717//CPD-14719/FORMYL-COA.32.]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71552 71552]
+* HMDB : HMDB31039
+{{#set: smiles=CCCCCCCCCCCCCCCC[CH]=O}}
+{{#set: inchi key=InChIKey=PIYDVAYKYBWPPY-UHFFFAOYSA-N}}
+{{#set: common name=heptadecanal}}
+{{#set: molecular weight=254.455    }}
+{{#set: consumed by=RXN66-476-CPD-14719/NAD/WATER//CPD-7830/NADH/PROTON.42.}}
+{{#set: produced by=RXN66-475-CPD-14717//CPD-14719/FORMYL-COA.32.}}

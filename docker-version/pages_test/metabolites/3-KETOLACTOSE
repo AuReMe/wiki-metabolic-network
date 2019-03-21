@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-KETOLACTOSE 3-KETOLACTOSE] ==
+* smiles:
+** C(O)C2(OC(OC1(C(CO)OC(O)C(O)C(O)1))C(O)C(=O)C(O)2)
+* common name:
+** 3'-ketolactose
+* inchi key:
+** InChIKey=HKKHTABTHSUDBP-GIHCHDTPSA-N
+* molecular weight:
+** 340.283    
+* Synonym(s):
+** 3'-dehydro-&beta;-D-galactosyl-&beta;-D-glucopyranoside
+
+== Reaction(s) known to consume the compound ==
+* [[KETOLACTOSE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* KEGG-GLYCAN : G10531
+* HMDB : HMDB01030
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27571 27571]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201057 25201057]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05403 C05403]
+{{#set: smiles=C(O)C2(OC(OC1(C(CO)OC(O)C(O)C(O)1))C(O)C(=O)C(O)2)}}
+{{#set: common name=3'-ketolactose}}
+{{#set: inchi key=InChIKey=HKKHTABTHSUDBP-GIHCHDTPSA-N}}
+{{#set: molecular weight=340.283    }}
+{{#set: common name=3'-dehydro-&beta;-D-galactosyl-&beta;-D-glucopyranoside}}
+{{#set: consumed by=KETOLACTOSE-RXN}}

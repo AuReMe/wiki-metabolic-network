@@ -1,0 +1,56 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.7.8-RXN 2.7.7.8-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** polynucleotide_phosphorylase_polyadenylase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7.8 EC-2.7.7.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ssRNAs]][c] '''+''' 1 [[Pi]][c] '''<=>''' 1 [[Nucleoside-Diphosphates]][c] '''+''' 1 [[ssRNAs]][c]
+* With common name(s):
+** 1 a single-stranded RNA[c] '''+''' 1 phosphate[c] '''<=>''' 1 a nucleoside diphosphate[c] '''+''' 1 a single-stranded RNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2987]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07282 R07282]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P44584 P44584]
+** [http://www.uniprot.org/uniprot/Q9PN44 Q9PN44]
+** [http://www.uniprot.org/uniprot/P05055 P05055]
+** [http://www.uniprot.org/uniprot/Q9JV72 Q9JV72]
+** [http://www.uniprot.org/uniprot/P41121 P41121]
+** [http://www.uniprot.org/uniprot/P50849 P50849]
+** [http://www.uniprot.org/uniprot/P72659 P72659]
+** [http://www.uniprot.org/uniprot/O24288 O24288]
+** [http://www.uniprot.org/uniprot/Q8CJQ6 Q8CJQ6]
+** [http://www.uniprot.org/uniprot/O32966 O32966]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=polynucleotide_phosphorylase_polyadenylase}}
+{{#set: ec number=EC-2.7.7.8}}
+{{#set: gene associated=Tiso_gene_2987}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

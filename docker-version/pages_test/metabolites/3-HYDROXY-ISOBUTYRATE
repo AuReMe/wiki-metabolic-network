@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROXY-ISOBUTYRATE 3-HYDROXY-ISOBUTYRATE] ==
+* common name:
+** 3-hydroxy-isobutanoate
+* Synonym(s):
+** 3-hydroxy-isobutyrate
+** 3-hydroxyisobutyric acid
+** 3-hydroxy-2-methylpropanoate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-13721]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=3-hydroxy-isobutanoate}}
+{{#set: common name=3-hydroxy-isobutyrate|3-hydroxyisobutyric acid|3-hydroxy-2-methylpropanoate}}
+{{#set: produced by=RXN-13721}}

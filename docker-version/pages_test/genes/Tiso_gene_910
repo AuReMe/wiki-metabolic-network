@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_910 ==
+* right end position:
+** 16111
+* transcription direction:
+** POSITIVE
+* left end position:
+** 15174
+* centisome position:
+** 54.811443    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-12459]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=16111}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=15174}}
+{{#set: centisome position=54.811443    }}
+{{#set: reaction associated=RXN-12459}}

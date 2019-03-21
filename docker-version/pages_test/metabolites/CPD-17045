@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17045 CPD-17045] ==
+* smiles:
+** C(O)C2(O)(NC(=O)C(O)(CC1(=CC=CC=C1))NC(=O)2)
+* common name:
+** 3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)-diketopiperazine
+* inchi key:
+** InChIKey=PXYPZMRMTKVYSM-VXGBXAGGSA-N
+* molecular weight:
+** 266.253    
+* Synonym(s):
+** 3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)-DKP
+** 3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)piperazine-2,5-dione
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15680]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659074 90659074]
+{{#set: smiles=C(O)C2(O)(NC(=O)C(O)(CC1(=CC=CC=C1))NC(=O)2)}}
+{{#set: common name=3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)-diketopiperazine}}
+{{#set: inchi key=InChIKey=PXYPZMRMTKVYSM-VXGBXAGGSA-N}}
+{{#set: molecular weight=266.253    }}
+{{#set: common name=3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)-DKP|3-benzyl-3,6-dihydroxy-6-(hydroxymethyl)piperazine-2,5-dione}}
+{{#set: consumed by=RXN-15680}}

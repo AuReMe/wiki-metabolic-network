@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16225 ==
+* right end position:
+** 1981
+* transcription direction:
+** POSITIVE
+* left end position:
+** 74
+* centisome position:
+** 1.6455415    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1981}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=74}}
+{{#set: centisome position=1.6455415    }}
+{{#set: reaction associated=PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN}}

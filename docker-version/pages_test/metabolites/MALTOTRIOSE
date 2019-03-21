@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALTOTRIOSE MALTOTRIOSE] ==
+* smiles:
+** C(C1(OC(C(C(C1O)O)O)OC2(C(OC(C(C2O)O)OC3(C(OC(C(C3O)O)O)CO))CO)))O
+* common name:
+** maltotriose
+* inchi key:
+** InChIKey=FYGDTMLNYKFZSV-DZOUCCHMSA-N
+* molecular weight:
+** 504.441    
+* Synonym(s):
+** amylotriose
+** &alpha;-D-glucopyranosyl-(1&rarr;4)-&alpha;-D-glucopyranosyl-(1&rarr;4)-D-glucose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5183]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5182]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 1109-28-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439586 439586]
+* HMDB : HMDB01262
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01835 C01835]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388669.html 388669]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61993 61993]
+* BIGG : malttr
+{{#set: smiles=C(C1(OC(C(C(C1O)O)O)OC2(C(OC(C(C2O)O)OC3(C(OC(C(C3O)O)O)CO))CO)))O}}
+{{#set: common name=maltotriose}}
+{{#set: inchi key=InChIKey=FYGDTMLNYKFZSV-DZOUCCHMSA-N}}
+{{#set: molecular weight=504.441    }}
+{{#set: common name=amylotriose|&alpha;-D-glucopyranosyl-(1&rarr;4)-&alpha;-D-glucopyranosyl-(1&rarr;4)-D-glucose}}
+{{#set: consumed by=RXN0-5183}}
+{{#set: produced by=RXN0-5182}}

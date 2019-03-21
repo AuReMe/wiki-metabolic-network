@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5706 PWY-5706] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40553 TAX-40553]
+* common name:
+** alliin metabolism
+* Synonym(s):
+** allium thiosulfinates metabolism
+** garlic thiosulfinate metabolism
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''11''' reactions in the full pathway
+* [[RXN-8899]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16193 RXN-16193]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16194 RXN-16194]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16195 RXN-16195]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16197 RXN-16197]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16198 RXN-16198]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8898 RXN-8898]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8900 RXN-8900]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8901 RXN-8901]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8902 RXN-8902]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8905 RXN-8905]
+== External links  ==
+{{#set: taxonomic range=TAX-40553}}
+{{#set: common name=alliin metabolism}}
+{{#set: common name=allium thiosulfinates metabolism|garlic thiosulfinate metabolism}}
+{{#set: reaction found=1}}
+{{#set: total reaction=11}}
+{{#set: completion rate=9.0}}

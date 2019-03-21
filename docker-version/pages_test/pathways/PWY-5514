@@ -1,0 +1,57 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5514 PWY-5514] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-68459 TAX-68459]
+* common name:
+** UDP-N-acetyl-D-galactosamine biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''7''' reactions in the full pathway
+* [[GLUCOKIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3107]]
+*** [[Tiso_gene_1303]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[GLUCOSAMINEPNACETYLTRANS-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[NAG1P-URIDYLTRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_19372]]
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_6458]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSACETYLGLUCOSAMINEMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13231]]
+*** [[Tiso_gene_13230]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCOSAMINE-6-P-DEAMIN-RXN GLUCOSAMINE-6-P-DEAMIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UDP-N-ACETYLGLUCOSAMINE-4-EPIMERASE-RXN UDP-N-ACETYLGLUCOSAMINE-4-EPIMERASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-68459}}
+{{#set: common name=UDP-N-acetyl-D-galactosamine biosynthesis II}}
+{{#set: reaction found=5}}
+{{#set: total reaction=7}}
+{{#set: completion rate=71.0}}

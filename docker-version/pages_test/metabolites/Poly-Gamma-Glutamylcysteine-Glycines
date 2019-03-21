@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Poly-Gamma-Glutamylcysteine-Glycines Poly-Gamma-Glutamylcysteine-Glycines] ==
+* common name:
+** a poly-[&gamma;-glutamylcysteine]-glycine
+* Synonym(s):
+** a phytochelatin
+
+== Reaction(s) known to consume the compound ==
+* [[2.3.2.15-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[2.3.2.15-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a poly-[&gamma;-glutamylcysteine]-glycine}}
+{{#set: common name=a phytochelatin}}
+{{#set: consumed by=2.3.2.15-RXN}}
+{{#set: produced by=2.3.2.15-RXN}}

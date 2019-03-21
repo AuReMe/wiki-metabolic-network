@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5379 ==
+* right end position:
+** 13557
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10558
+* centisome position:
+** 77.878586    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6.1.1.24-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GLURS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+* [[PWY-5188]]
+== External links  ==
+{{#set: right end position=13557}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10558}}
+{{#set: centisome position=77.878586    }}
+{{#set: reaction associated=6.1.1.24-RXN|GLURS-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY|PWY-5188}}
