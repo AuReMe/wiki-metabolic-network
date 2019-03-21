@@ -1,6 +1,6 @@
 SHELL := /bin/bash 
 # very important to stop make from deleting intermediate files
-NETWORK_NAME = 'wiki-metabolic'
+NETWORK_NAME = 'wikimetabolic'
 
 #---------------
 #TODO
