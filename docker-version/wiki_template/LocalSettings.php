@@ -149,3 +149,4 @@ $wgFooterIcons['poweredby']['aureme'] = array(
         "url" => "http://aureme.genouest.org/",
         "alt" => "Powered by AuReMe"
 );
+$wgGroupPermissions['bureaucrat']['ediinterface'] = true;
