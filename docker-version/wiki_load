@@ -15,7 +15,7 @@ Description:
 """
 
 
-import aiowiki, asyncio
+import aiowiki, asyncio, aiohttp
 import os
 import sys
 import time
@@ -154,13 +154,13 @@ async def check_page(bot_data):
                         local_data_array = content_file.read().splitlines()
                     success = True
                     if local_data_array != host_data_array:
-                        print("diff in %s" % title)
+                        print("difference found in %s" % title)
     
                 except aiowiki.exceptions.PageNotFound:
                     print("Page %s not found" %title)
                     retries = max_retries
                     last_exc = aiowiki.exceptions.PageNotFound
-            except (aiowiki.exceptions.EditError) as e:
+            except (aiowiki.exceptions.EditError, aiohttp.client_exceptions.ServerDisconnectedError) as e:
                 retries += 1
                 print('Failed to load "%s", retrying in %s seconds...' % (title, retries))
                 last_exc = e
