@@ -150,3 +150,8 @@ $wgFooterIcons['poweredby']['aureme'] = array(
         "alt" => "Powered by AuReMe"
 );
 $wgGroupPermissions['bureaucrat']['ediinterface'] = true;
+#Setting private or public wiki
+$wgGroupPermissions['*']['edit'] = true;
+$wgGroupPermissions['*']['read'] = true;
+$wgGroupPermissions['*']['createaccount'] = true;
+
