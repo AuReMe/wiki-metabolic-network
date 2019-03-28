@@ -31,7 +31,7 @@ import configparser
 
 def set_var():
     global db_host, db_host, db_name, db_user, db_pwd, \
-    wiki_host, default_wiki_username, default_wiki_password, \
+    wiki_host, \
     wiki_folders, wiki_template, forms_path,\
     db_alias
 
@@ -46,8 +46,6 @@ def set_var():
     db_pwd = config.get('MYSQL_VAR','db_pwd')
     #[MEDIAWIKI_VAR]
     wiki_host = config.get('MEDIAWIKI_VAR','wiki_host')
-    default_wiki_username =  config.get('MEDIAWIKI_VAR','default_wiki_username')
-    default_wiki_password = config.get('MEDIAWIKI_VAR','default_wiki_password')
     #[PATHS]
     wiki_folders = config.get('PATHS','wiki_folders')
     wiki_template = config.get('PATHS','wiki_template')
@@ -59,12 +57,8 @@ def set_var():
 def main():
     set_var()
     args = docopt.docopt(__doc__)
-    _access = args["--access"]
-    if _access in [None, 'public']:
-        access = False
-    elif _access == 'private':
-        access = True
-    else:
+    access = args["--access"]
+    if access not in [None, 'public', 'private']:
         raise ValueError("--access must be in ['private' or 'public'], default value is set as 'public'")
     #check if db wiki_db exist, if no create it
     #DB is an alias for 'mysql --user ... --admin ...'
@@ -218,25 +212,28 @@ def main():
 
 
 def config_access(localSettings_path, access):
+    if access == 'public':
+        bool_access = 'true'
+    elif access == 'private':
+        bool_access = 'false'
     #access true: config to private, else config to public
-    #TODO
-    if access:
-        private_access_data = ["$wgGroupPermissions['*']['edit'] = false;",
-                           "$wgGroupPermissions['*']['read'] = false;",
-                           "$wgGroupPermissions['user']['read'] = true;",
-                           "$wgGroupPermissions['*']['createaccount'] = false;",
-                           "$wgGroupPermissions['sysop']['createaccount'] = true;",
-            ]
-    else:
-        private_access_data = ["$wgGroupPermissions['*']['edit'] = false;",
-                           "$wgGroupPermissions['*']['read'] = false;",
-                           "$wgGroupPermissions['user']['read'] = true;",
-                           "$wgGroupPermissions['*']['createaccount'] = false;",
-                           "$wgGroupPermissions['sysop']['createaccount'] = true;",
-            ]
-    #config wiki access to private
-    with open(localSettings_path, 'wa') as f:
-        f.write(private_access_data)
+    with open(localSettings_path, 'r') as f:
+        localSettings_data = f.read().splitlines()
+    new_localSettings_data = []
+    
+    for line in localSettings_data:
+        if line.startswith("$wgGroupPermissions['*']['edit'] = "):
+            new_line = f"$wgGroupPermissions['*']['edit'] = {bool_access};"
+        elif line.startswith("$wgGroupPermissions['*']['read'] = "):
+            new_line = f"$wgGroupPermissions['*']['read'] = {bool_access};"
+        elif line.startswith("$wgGroupPermissions['*']['createaccount'] = "):
+            new_line = f"$wgGroupPermissions['*']['createaccount'] = {bool_access};"
+        else:
+            new_line = line
+        new_localSettings_data.append(new_line)
+    new_localSettings_data = "\n".join(new_localSettings_data)
+    with open(localSettings_path, 'w') as f:
+        f.write(new_localSettings_data)
 
 
 if __name__ == "__main__":
