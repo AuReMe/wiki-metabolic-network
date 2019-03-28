@@ -212,7 +212,7 @@ def main():
 
 
 def config_access(localSettings_path, access):
-    if access == 'public':
+    if access in ['public', None]:
         bool_access = 'true'
     elif access == 'private':
         bool_access = 'false'
