@@ -1,14 +1,53 @@
 #!/usr/bin/env python3.7
 """
 Description:
-    aureme launcher from /bin
-    To create a new run from the aureme default pipeline use the first usage.
-    To get a sample from the aureme default pipeline use the second usage.
+    Tool for wiki management.
+    Works without setting in docker image docker.io/dyliss/wiki-metabolic-network-img.
+    To create a new wiki use:
+
+        wiki --init=ID [--access=STR]
+
+        set init: as the name of your wiki.
+
+        Will check if a wiki already exist in wiki_folder and in the database.
+
+        set access: 
+
+            'private' to create a wiki preventing access and editing for non-user. Prevent account creation (confidential data).
+
+            'public' to create a wiki allowing access and editing for non-user. Allow account creation.
+
+        After running the command simply the instructions on the terminal.
+
+    To remove a wiki use:
+
+        wiki --id=ID --remove
+        
+        will remove wiki from wiki_folders and remove table from database which start with prefix ID_.
+        
+    To reset a wiki use:
+        
+        wiki --id=ID --clean
+        
+        will remove all the pages of a wiki only.
+    
+    To change access rule to a wiki use:
+        
+    	wiki --id=ID --access=STR
+
+        set access: 
+
+            'private' to create a wiki preventing access and editing for non-user. Prevent account creation (confidential data).
+
+            'public' to create a wiki allowing access and editing for non-user. Allow account creation.
+        
+    To list all deployed wiki use:
+
+        wiki --all
 
 ::
 
     usage:
-    	wiki --info [--cmd=STR]
     	wiki --init=ID [--access=STR]
     	wiki --id=ID --clean
     	wiki --id=ID --remove
@@ -20,6 +59,9 @@ Description:
     	--init=ID    identifier of the new wiki to initialize.
     	--wiki=ID    identifier of the wiki to manage.
     	--access=STR    set access to wiki as 'public' or 'private'. Default is 'public'.
+    	--remove    Remove wiki from wiki_folders and remove table from database which start with prefix ID_.
+    	--clean    Remove all the pages of a wiki only.
+    	--all    list all wiki found in wiki_folders.
 
 """
 import docopt
@@ -30,6 +72,10 @@ import configparser
 
 
 def set_var():
+    """
+    Set global variable by reading config file 'config_file_path'
+
+    """
     global db_host, db_host, db_name, db_user, db_pwd, \
     wiki_host, \
     wiki_folders, wiki_template, forms_path,\
@@ -55,10 +101,15 @@ def set_var():
 
 
 def main():
+    """
+    Ref to global doc
+    """
     set_var()
     args = docopt.docopt(__doc__)
     access = args["--access"]
-    if access not in [None, 'public', 'private']:
+    if access == None:
+        access = 'public'
+    if access not in ['public', 'private']:
         raise ValueError("--access must be in ['private' or 'public'], default value is set as 'public'")
     #check if db wiki_db exist, if no create it
     try:
@@ -211,11 +262,43 @@ def main():
 
 
 def config_access(localSettings_path, access):
-    if access in ['public', None]:
+    """
+    Edit LocaSetting file 'localSettings_path' to update wiki access.
+    if 'acces' == 'public' or None:
+
+        update wiki to public:
+
+            Non-user can read the wiki
+
+            Non-user can create an account
+
+            All user or non-user can edit pages
+
+    elif 'acces' == 'private':
+
+        update wiki to private:
+
+            Non-user can't read the wiki
+
+            Non-user can't create an account
+
+            All user or non-user can't edit pages
+            
+    Parameters
+    ----------
+    localSettings_path: str
+        path of LocalSettings.php file to edit
+    access: str
+        access in ['public', 'private']
+
+    """
+    if access == 'public':
         bool_access = 'true'
     elif access == 'private':
         bool_access = 'false'
-    #access true: config to private, else config to public
+    else:
+        raise ValueError("--access must be in ['private' or 'public'], default value is set as 'public'")
+
     with open(localSettings_path, 'r') as f:
         localSettings_data = f.read().splitlines()
     new_localSettings_data = []
