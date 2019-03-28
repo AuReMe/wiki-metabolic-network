@@ -1,41 +1,28 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.7
 """
-This file is part of AuReMe-workflow.
-
-AuReMe-workflow is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, and as specified in the LICENSE file
-attached.
-
-AuReMe-workflow is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY. See the GNU General Public License and the
-LICENSE file attached for more details.
-
-You should have received a copy of the GNU General Public License
-along with AuReMe-workflow. If not, see <http://www.gnu.org/licenses/>.
-
-@author: Meziane AITE, meziane.aite@inria.fr
 Description:
-aureme launcher from /bin
-To create a new run from the aureme default pipeline use the first usage.
-To get a sample from the aureme default pipeline use the second usage.
+    aureme launcher from /bin
+    To create a new run from the aureme default pipeline use the first usage.
+    To get a sample from the aureme default pipeline use the second usage.
 
-usage:
-	wiki --info [--cmd=STR]
-	wiki --init=ID [--host=STR]
-	wiki --id=ID --update=DIR [--api_url=STR] [--username=STR] [--password=STR]
-	wiki --id=ID --clean
-	wiki --id=ID --remove
-	wiki --all
-
-options:
-	-h --help     Show help.
-	--id=ID    identifier of the new wiki to initialize.
-	--wiki=ID    identifier of the wiki.
-	--update=DIR    folder containing wiki pages.
-	--api_url=STR    url of the wiki api, default is: 127.0.0.1:88/wiki_id/api.php.
-	--username=STR    username of the admin account.
-	--password=STR    password of the admin account.
+::
+    
+    usage:
+    	wiki --info [--cmd=STR]
+    	wiki --init=ID [--host=STR]
+    	wiki --id=ID --update=DIR [--api_url=STR] [--username=STR] [--password=STR]
+    	wiki --id=ID --clean
+    	wiki --id=ID --remove
+    	wiki --all
+    
+    options:
+    	-h --help    Show help.
+    	--id=ID    identifier of the new wiki to initialize.
+    	--wiki=ID    identifier of the wiki.
+    	--update=DIR    folder containing wiki pages.
+    	--api_url=STR    url of the wiki api, default is: 127.0.0.1:88/wiki_id/api.php.
+    	--username=STR    username of the admin account [default: admin].
+    	--password=STR    password of the admin account [default: default_pwd].
 
 """
 try:
@@ -47,54 +34,100 @@ except ImportError:
 import os
 import subprocess
 import shutil
+import configparser
+
+
+def set_var():
+    global db_host, db_host, db_name, db_user, db_pwd, \
+    wiki_host, default_wiki_username, default_wiki_password, \
+    wiki_folders, wiki_template, db_alias
+
+    #config_file_path = "/home/maite/Aureme_project/wiki-metabolic-network/docker-version/wiki_config.txt"
+    config_file_path = "/home/wiki_config.txt"
+
+    config = configparser.ConfigParser()
+    config.read(config_file_path)
+    #[MYSQL_VAR]
+    db_host = config.get('MYSQL_VAR','db_host')
+    db_name = config.get('MYSQL_VAR','db_name')
+    db_user = config.get('MYSQL_VAR','db_user')
+    db_pwd = config.get('MYSQL_VAR','db_pwd')
+    #[MEDIAWIKI_VAR]
+    wiki_host = config.get('MEDIAWIKI_VAR','wiki_host')
+    default_wiki_username =  config.get('MEDIAWIKI_VAR','default_wiki_username')
+    default_wiki_password = config.get('MEDIAWIKI_VAR','default_wiki_password')
+    #[PATHS]
+    wiki_folders = config.get('PATHS','wiki_folders')
+    wiki_template = config.get('PATHS','wiki_template')
+
+    db_alias = f'mysql --host={db_host} --user={db_user} --password={db_pwd}'
+   
 
 def main():
-
+    set_var()
     args = docopt.docopt(__doc__)
-    #print(args)
-    wiki_folders = "/var/www/html/"
-    wiki_manager = "/home/wikiManager/"
-    default_username, default_password = "admin", "default_pwd"
-    db_name = "wiki_db"
     #check if db wiki_db exist, if no create it
     #DB is an alias for 'mysql --user ... --admin ...'
     try:
-        out = subprocess.check_output(["/bin/bash", "-i", "-c", 'DB -e "show databases" -s | egrep "'+db_name+'"'])
+        cmd = f'{db_alias} -e "show databases" -s | egrep {db_name}'
+        out = subprocess.check_output(["/bin/bash", "-i", "-c", cmd])
     except subprocess.CalledProcessError:
-        print("Init, creating database %s" %db_name)
-        subprocess.call(["/bin/bash", "-i", "-c", 'DB -e "create database '+db_name+'"'])
+        print(f'Init, creating database {db_name}')
+        cmd = f'{db_alias} -e "create database "{db_name}"'
+        subprocess.call(["/bin/bash", "-i", "-c", cmd])
 
     if args["--init"]:
         wiki_id = args["--init"]
-        print("Checking wiki id %s..." %wiki_id)
-        if wiki_id in os.walk(wiki_folders).next()[1]:
-            raise ValueError("A wiki with the id %s already exist, remove it or change the new wiki id" %wiki_id)
-        print("Checking wiki id %s: OK" %wiki_id)
-        print("Checking if the prefix %s_ is already used in the database..." %wiki_id)
+        wiki_path = os.path.join(wiki_folders, wiki_id)
+        print(f'Checking wiki id {wiki_id}...')
+        if os.path.exists(wiki_path):
+            raise ValueError(f'A wiki with the id {wiki_id} already exist, remove it or change the new wiki id')
+        print(f'Checking wiki id {wiki_id}: OK')
+        print(f'Checking if the prefix {wiki_id}_ is already used in the database...')
         try:
-            out = subprocess.check_output(["/bin/bash", "-i", "-c", 'DB -D '+db_name+' -e "show tables" -s | egrep "^'+wiki_id+'"'])
+            cmd = f'{db_alias} -D {db_name} -e "show tables" -s | egrep "^{wiki_id}_"'
+            out = subprocess.check_output(["/bin/bash", "-i", "-c", cmd])
             raise ValueError("%s tables found with prefix %s_, a wiki is already using this prefix." %(out.count("\n"), wiki_id))
         except subprocess.CalledProcessError:
-            print("Checking the if the prefix %s_ is already used in the database: OK" %wiki_id)
-
+            print('Checking the if the prefix {wiki_id}_ is already used in the database: OK')
         print("Wiki initialization...")
         print("\tCopying wiki folder")
-        cmd = "cp -r /home/wiki_template/ "+wiki_folders+wiki_id
+        cmd = f'cp -r {wiki_template} {wiki_path}'
         subprocess.call(cmd, shell=True)
+        localSettings_path = os.path.join(wiki_path, 'LocalSettings.php')
         print("\tUpdating var in LocalSettings.php")
-        cmd = "sed -i -e 's#$wgScriptPath = \"/wiki\";#$wgScriptPath = \"/"+wiki_id+"\";#g' "+wiki_folders+wiki_id+"/LocalSettings.php"
+        print(f"\tSetting wiki host url to {wiki_host}")
+        wiki_host_for_cmd = wiki_host.replace("/", "\/")
+        cmd = f"sed -i 's/$wgServer =.*/$wgServer = \"{wiki_host_for_cmd}\";/' {localSettings_path}"
         subprocess.call(cmd, shell=True)
-        cmd = "sed -i -e 's#$wgDBprefix = \"prefix_\";#$wgDBprefix = \""+wiki_id+"_\";#g' "+wiki_folders+wiki_id+"/LocalSettings.php"
+        print(f"\tSetting wiki id to {wiki_id}")
+        cmd = f"sed -i 's/$wgScriptPath =.*/$wgScriptPath = \"\/{wiki_id}\";/' {localSettings_path}"
         subprocess.call(cmd, shell=True)
+        cmd = f"sed -i 's/$wgDBprefix =.*/$wgDBprefix = \"{wiki_id}_\";/' {localSettings_path}"
+        subprocess.call(cmd, shell=True)
+        print(f"\tSetting database host {db_host}")
+        cmd = f"sed -i 's/$wgDBserver =.*/$wgDBserver = \"{db_host}\";/' {localSettings_path}"
+        subprocess.call(cmd, shell=True)
+        print(f"\tSetting database name {db_name}")
+        cmd = f"sed -i 's/$wgDBname =.*/$wgDBname = \"{db_name}\";/' {localSettings_path}"
+        subprocess.call(cmd, shell=True)
+        print(f"\tSetting database user {db_user}")
+        cmd = f"sed -i 's/$wgDBuser =.*/$wgDBuser = \"{db_user}\";/' {localSettings_path}"
+        subprocess.call(cmd, shell=True)
+        print("\tSetting database password")
+        cmd = f"sed -i 's/$wgDBpassword =.*/$wgDBpassword = \"{db_pwd}\";/' {localSettings_path}"
+        subprocess.call(cmd, shell=True)
+        config_url = f'{wiki_host}/{wiki_id}/mw-config/index.php'
+        main_url = f'{wiki_host}/{wiki_id}/index.php/Main_Page'
         print("\n")
         print("##############################################################")
         print("MANUAL SETUP IS NOW REQUIRED. Access to this link from your browser:")
-        print("\thttp://localhost:8888/"+wiki_id+"/mw-config/index.php")
+        print(f"\t{config_url}")
         print("Follow this instructions to setup mediawiki:")
         print("Language:")
         print("\tContinue->")
         print("Existing wiki:")
-        print("\tUpgrade key: e94b13c7ca0b922f")
+        print("\tUpgrade key: 62763ed4b27d11fc")
         print("\tContinue->")
         print("Welcome to MediaWiki!:")
         print("\tContinue->")
@@ -112,76 +145,51 @@ def main():
         print("\tContinue->")
         print("\tDo not save the LocalSettings file")
         print("##############################################################")
-        raw_input("When the previous setup is done, press enter to continue...")
-        print("\tRunning update.php")        
-        cmd = "php "+wiki_folders+wiki_id+"/maintenance/update.php"
+        input("When the previous setup is done, press enter to continue...")
+        print("\tRunning update.php")
+        update_path = os.path.join(wiki_path, 'maintenance/update.php')
+        cmd = f'php {update_path}'
         subprocess.call(cmd, shell=True)
         print("Importings manual curation forms")
-        cmd = "php "+wiki_folders+wiki_id+"/maintenance/importImages.php --extensions=csv /home/forms/"
+        importImg_path = os.path.join(wiki_path, 'maintenance/importImages.php')
+        cmd = f'php {importImg_path} --extensions=csv /home/forms/'
         subprocess.call(cmd, shell=True)
         print("The wiki is now online and reachable at this link:")
-        print("\thttp://localhost:8888/"+wiki_id+"/index.php")
+        print(f'\t{main_url}')
         print("You have now to select the folder containing the wiki pages you want to upload on this wiki")
-        print("Ex: wiki --wiki=my_wiki --update=/shared/my_run/analysis/wiki_pages/draft/")
+        print("Ex: wiki --id=my_wiki --update=/shared/my_run/analysis/wiki_pages/draft/")
 
-    elif args["--wiki"]:
-        wiki_id = args["--wiki"]
+    elif args["--id"]:
+        wiki_id = args["--id"]
+        wiki_path = os.path.join(wiki_folders, wiki_id)
         if args["--remove"]:
-            print("Removing wiki %s" %wiki_id)
-            if wiki_id in os.walk(wiki_folders).next()[1]:
+            print(f'Removing wiki {wiki_id}')
+            if os.path.exists(wiki_path):
                 print("Removing wiki folder")
-                shutil.rmtree(wiki_folders+wiki_id)
+                shutil.rmtree(wiki_path)
             else:
-                print("No folder %s found" %(wiki_folders+wiki_id))
+                print(f'No folder {wiki_path} found')
             try:
-                get_all_tables = 'DB -D '+db_name+' -e "show tables" -s | egrep "^'+wiki_id+'_"'
-                all_tables = subprocess.check_output(["/bin/bash", "-i", "-c",get_all_tables]).split("\n")
-                all_tables = all_tables[:-1]
+                get_all_tables = f'{db_alias} -D {db_name} -e "show tables" -s | egrep "^{wiki_id}_"'
+                all_tables = subprocess.check_output(["/bin/bash", "-i", "-c", get_all_tables])
+                all_tables = str(all_tables, 'utf-8', 'ignore').splitlines()
                 print("%s tables to drop" %len(all_tables))
-                cmd = 'DB -D '+db_name+' -e "DROP TABLE '+",".join(all_tables)+'"'
+                cmd = f'{db_alias} -D {db_name} -e "DROP TABLE '+",".join(all_tables)+'"'
                 subprocess.call(["/bin/bash", "-i", "-c",cmd])
             except subprocess.CalledProcessError:
-                print("No tables with prefix %s_ found" %wiki_id)
+                print(f'No tables with prefix {wiki_id}_ found')
         elif args["--clean"]:
             try:
-                get_all_tables = 'DB -D '+db_name+' -e "show tables" -s | egrep "^'+wiki_id+'_"'
-                all_tables = subprocess.check_output(["/bin/bash", "-i", "-c",get_all_tables]).split("\n")
+                get_all_tables = f'{db_alias} -D {db_name} -e "show tables" -s | egrep "^{wiki_id}_"'
+                all_tables = subprocess.check_output(["/bin/bash", "-i", "-c",get_all_tables])
+                all_tables = str(all_tables, 'utf-8', 'ignore').splitlines()
                 if wiki_id+"_page" in all_tables:
-                    print("%s table to empty" %(wiki_id+"_page"))
-                    cmd = 'DB -D '+db_name+' -e "TRUNCATE TABLE '+wiki_id+'_page"'
+                    print(f'{wiki_id}_page table to empty')
+                    cmd = f'{db_alias} -D {db_name} -e "truncate table {wiki_id}_page"'
                     subprocess.call(["/bin/bash", "-i", "-c",cmd])
             except subprocess.CalledProcessError:
                 print("No tables with prefix %s_ found" %wiki_id)
-        elif args["--update"]:
-            wiki_pages_folder = args["--update"]
-            if not wiki_pages_folder.endswith("/") : wiki_pages_folder += "/"
-            print("Check in wiki %s exist" %wiki_id)
-            if wiki_id in os.walk(wiki_folders).next()[1]:
-                print("Folder %s found: OK" %(wiki_folders+wiki_id))
-            else:
-                raise IOError("No folder %s found" %(wiki_folders+wiki_id))
-            try:
-                get_all_tables = 'DB -D '+db_name+' -e "show tables" -s | egrep "^'+wiki_id+'_"'
-                print("Tables founds: OK")
-            except subprocess.CalledProcessError:
-                raise IOError("No tables with prefix %s_ found" %wiki_id)
-            print("Sending wiki pages...")
-            if args["--api_url"]:
-                api_url = args["--api_url"]
-            else:
-                api_url = "127.0.0.1:80/"+wiki_id+"/api.php"
-            if args["--username"]:
-                username = args["--username"]
-            else:
-                username = default_username
-            if args["--password"]:
-                password =args["--password"]
-            else:
-                password = default_password
-            cmd = "cd %s; make update pages_dir=%s api_url=%s U=%s P=%s" %(wiki_manager, wiki_pages_folder, api_url, username, password)
-            subprocess.call(["/bin/bash","-i","-c", cmd])
-            cmd = "cd %s%s/maintenance; php importImages.php %s/files" %(wiki_folders, wiki_id, wiki_pages_folder) 
-            subprocess.call(["/bin/bash","-i","-c", cmd])
+            
     elif args["--all"]:
         print("All deployed wiki:")
         for i in os.walk(wiki_folders).next()[1]:
