@@ -1,0 +1,54 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14382 RXN-14382] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** cysteine_mitochondrial
+** cysteine_desulfurase_for_iron-sulfur_cluster_formation_suf
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Sulfur-Carrier-Proteins-ThiI]][c] '''+''' 1 [[L-Cysteine-Desulfurase-persulfide]][c] '''=>''' 1 [[Cysteine-Desulfurase-L-cysteine]][c] '''+''' 1 [[Sulfurylated-ThiI]][c]
+* With common name(s):
+** 1 a ThiI sulfur-carrier protein[c] '''+''' 1 an [L-cysteine desulfurase] L-cysteine persulfide[c] '''=>''' 1 an [L-cysteine desulfurase]-L-cysteine[c] '''+''' 1 an S-sulfanyl-[ThiI sulfur-carrier protein][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14710]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4284]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6892]], thiazole biosynthesis I (facultative anaerobic bacteria): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6892 PWY-6892]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=cysteine_mitochondrial}}
+{{#set: common name=cysteine_desulfurase_for_iron-sulfur_cluster_formation_suf}}
+{{#set: gene associated=Tiso_gene_14710|Tiso_gene_11478|Tiso_gene_4284}}
+{{#set: in pathway=PWY-6892}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

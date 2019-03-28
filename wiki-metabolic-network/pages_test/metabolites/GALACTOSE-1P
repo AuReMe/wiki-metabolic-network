@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GALACTOSE-1P GALACTOSE-1P] ==
+* smiles:
+** C(O)C1(OC(OP(=O)([O-])[O-])C(O)C(O)C(O)1)
+* common name:
+** &alpha;-D-galactose 1-phosphate
+* inchi key:
+** InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** &alpha;-D-Gal-1-P
+** &alpha;-D-galactopyranose 1-phosphate
+** galactose-1-P
+** D-galactose-1-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[UTPHEXPURIDYLYLTRANS-RXN]]
+* [[GALACTURIDYLYLTRANS-RXN]]
+* [[GALACTOKIN-RXN]]
+== External links  ==
+* CAS : 2255-14-3
+* BIGG : gal1p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7098639 7098639]
+* HMDB : HMDB00645
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00446 C00446]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5447153.html 5447153]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58336 58336]
+* METABOLIGHTS : MTBLC58336
+{{#set: smiles=C(O)C1(OC(OP(=O)([O-])[O-])C(O)C(O)C(O)1)}}
+{{#set: common name=&alpha;-D-galactose 1-phosphate}}
+{{#set: inchi key=InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=&alpha;-D-Gal-1-P|&alpha;-D-galactopyranose 1-phosphate|galactose-1-P|D-galactose-1-phosphate}}
+{{#set: reversible reaction associated=UTPHEXPURIDYLYLTRANS-RXN|GALACTURIDYLYLTRANS-RXN|GALACTOKIN-RXN}}

@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CARBAMATE-KINASE-RXN CARBAMATE-KINASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.2.2 EC-2.7.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[AMMONIUM]][c] '''+''' 1 [[ATP]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''<=>''' 1 [[ADP]][c] '''+''' 2 [[PROTON]][c] '''+''' 1 [[CARBAMOYL-P]][c]
+* With common name(s):
+** 1 ammonium[c] '''+''' 1 ATP[c] '''+''' 1 CO2[c] '''<=>''' 1 ADP[c] '''+''' 2 H+[c] '''+''' 1 carbamoyl phosphate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY0-41]], allantoin degradation IV (anaerobic): [http://metacyc.org/META/NEW-IMAGE?object=PWY0-41 PWY0-41]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+* [[CITRULLINE-DEG-PWY]], L-citrulline degradation: [http://metacyc.org/META/NEW-IMAGE?object=CITRULLINE-DEG-PWY CITRULLINE-DEG-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10152 10152]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00150 R00150]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9CE17 Q9CE17]
+** [http://www.uniprot.org/uniprot/Q46807 Q46807]
+** [http://www.uniprot.org/uniprot/Q8XCV5 Q8XCV5]
+** [http://www.uniprot.org/uniprot/Q9CE16 Q9CE16]
+** [http://www.uniprot.org/uniprot/P77624 P77624]
+** [http://www.uniprot.org/uniprot/Q8X6A8 Q8X6A8]
+** [http://www.uniprot.org/uniprot/P44769 P44769]
+** [http://www.uniprot.org/uniprot/P37306 P37306]
+** [http://www.uniprot.org/uniprot/Q9CEY7 Q9CEY7]
+** [http://www.uniprot.org/uniprot/P13982 P13982]
+** [http://www.uniprot.org/uniprot/P0A2X8 P0A2X8]
+** [http://www.uniprot.org/uniprot/P78030 P78030]
+** [http://www.uniprot.org/uniprot/P74733 P74733]
+** [http://www.uniprot.org/uniprot/Q48295 Q48295]
+** [http://www.uniprot.org/uniprot/O53090 O53090]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.7.2.2}}
+{{#set: in pathway=PWY0-41|CITRULLINE-DEG-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

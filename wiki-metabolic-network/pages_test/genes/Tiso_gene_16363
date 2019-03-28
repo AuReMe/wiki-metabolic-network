@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16363 ==
+* right end position:
+** 2408
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1733
+* centisome position:
+** 39.217014    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2408}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1733}}
+{{#set: centisome position=39.217014    }}
+{{#set: reaction associated=RNA-DIRECTED-DNA-POLYMERASE-RXN}}

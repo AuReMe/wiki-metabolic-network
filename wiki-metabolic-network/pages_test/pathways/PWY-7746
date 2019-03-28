@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7746 PWY-7746] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1762 TAX-1762]
+* common name:
+** mycobacterial sulfolipid biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''8''' reactions in the full pathway
+* [[RXN-9549]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+* [[RXN3O-9780]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15426 RXN-15426]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17317 RXN-17317]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17318 RXN-17318]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17319 RXN-17319]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17320 RXN-17320]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17323 RXN-17323]
+== External links  ==
+{{#set: taxonomic range=TAX-1762}}
+{{#set: common name=mycobacterial sulfolipid biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=8}}
+{{#set: completion rate=25.0}}

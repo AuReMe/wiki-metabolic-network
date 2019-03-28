@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12173 CPD-12173] ==
+* smiles:
+** CC(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])CO
+* common name:
+** (S)-3-hydroxy-isobutanoyl-CoA
+* inchi key:
+** InChIKey=WWEOGFZEFHPUAM-UQCJFRAESA-J
+* molecular weight:
+** 849.593    
+* Synonym(s):
+** (S)-3-hydroxy-2-methylpropanoyl-CoA
+** (S)-3-hydroxy-isobutyryl-coenzyme A
+** (S)-3-Hydroxy-2-methylpropionyl-CoA
+** (S)-&beta;-hydroxy-isobutyryl-CoA
+** (S)-3-hydroxy-isobutyryl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[METHYLACYLYLCOA-HYDROXY-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173510 46173510]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62611 62611]
+* METABOLIGHTS : MTBLC28259
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06000 C06000]
+{{#set: smiles=CC(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])CO}}
+{{#set: common name=(S)-3-hydroxy-isobutanoyl-CoA}}
+{{#set: inchi key=InChIKey=WWEOGFZEFHPUAM-UQCJFRAESA-J}}
+{{#set: molecular weight=849.593    }}
+{{#set: common name=(S)-3-hydroxy-2-methylpropanoyl-CoA|(S)-3-hydroxy-isobutyryl-coenzyme A|(S)-3-Hydroxy-2-methylpropionyl-CoA|(S)-&beta;-hydroxy-isobutyryl-CoA|(S)-3-hydroxy-isobutyryl-CoA}}
+{{#set: consumed by=3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN}}
+{{#set: reversible reaction associated=METHYLACYLYLCOA-HYDROXY-RXN}}

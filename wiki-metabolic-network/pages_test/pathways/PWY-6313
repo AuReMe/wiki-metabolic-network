@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6313 PWY-6313] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** serotonin degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-10777]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-10779]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10780]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7322]]
+*** [[Tiso_gene_3513]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10781]]
+** 5 associated gene(s):
+*** [[Tiso_gene_6562]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_5425]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10782]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-10784]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14140]]
+*** [[Tiso_gene_14141]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10778 RXN-10778]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=serotonin degradation}}
+{{#set: reaction found=6}}
+{{#set: total reaction=7}}
+{{#set: completion rate=86.0}}

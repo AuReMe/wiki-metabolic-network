@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CORTISONE-ALPHA-REDUCTASE-RXN CORTISONE-ALPHA-REDUCTASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** cortisone &alpha;-reductase
+** 3-oxo-5-alpha-steroid_4-dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.3.1.22 EC-1.3.1.22]
+* Synonym(s):
+** cortisone &Delta;4-5&alpha;-reductase
+** microsomal steroid reductase (5&alpha;)
+** &Delta;4-3-ketosteroid reductase (5&alpha;)
+** &Delta;4-3-oxosteroid-5&alpha;-reductase
+** NADPH:&Delta;4-3-oxosteroid-5&alpha;-oxidoreductase
+** &Delta;4-5&alpha;-reductase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADP]][c] '''+''' 1 [[CPD-286]][c] '''<=>''' 1 [[NADPH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CORTISONE]][c]
+* With common name(s):
+** 1 NADP+[c] '''+''' 1 4,5&alpha;-dihydrocortisone[c] '''<=>''' 1 NADPH[c] '''+''' 1 H+[c] '''+''' 1 cortisone[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14327]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17981 17981]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02892 R02892]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=cortisone &alpha;-reductase}}
+{{#set: common name=3-oxo-5-alpha-steroid_4-dehydrogenase}}
+{{#set: ec number=EC-1.3.1.22}}
+{{#set: common name=cortisone &Delta;4-5&alpha;-reductase|microsomal steroid reductase (5&alpha;)|&Delta;4-3-ketosteroid reductase (5&alpha;)|&Delta;4-3-oxosteroid-5&alpha;-reductase|NADPH:&Delta;4-3-oxosteroid-5&alpha;-oxidoreductase|&Delta;4-5&alpha;-reductase}}
+{{#set: gene associated=Tiso_gene_14327}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

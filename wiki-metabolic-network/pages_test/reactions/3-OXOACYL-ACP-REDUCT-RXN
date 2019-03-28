@@ -1,0 +1,95 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3-OXOACYL-ACP-REDUCT-RXN 3-OXOACYL-ACP-REDUCT-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** polyketide_synthase
+** 3-oxoacyl-(acyl-carrier-protein)
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.86 EC-2.3.1.86]
+** [http://enzyme.expasy.org/EC/2.3.1.85 EC-2.3.1.85]
+** [http://enzyme.expasy.org/EC/1.1.1.100 EC-1.1.1.100]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[B-KETOACYL-ACP]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[OH-ACYL-ACP]][c] '''+''' 1 [[NADP]][c]
+* With common name(s):
+** 1 a 3-oxoacyl-[acp][c] '''+''' 1 NADPH[c] '''+''' 1 H+[c] '''=>''' 1 a (3R)-3-hydroxyacyl-[acyl-carrier protein][c] '''+''' 1 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9885]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13394]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13083]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_135]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10876]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_500]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_136]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[FASYN-ELONG-PWY]], fatty acid elongation -- saturated: [http://metacyc.org/META/NEW-IMAGE?object=FASYN-ELONG-PWY FASYN-ELONG-PWY]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02767 R02767]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P49327 P49327]
+** [http://www.uniprot.org/uniprot/O25286 O25286]
+** [http://www.uniprot.org/uniprot/P51831 P51831]
+** [http://www.uniprot.org/uniprot/Q9PI70 Q9PI70]
+** [http://www.uniprot.org/uniprot/P0AEK2 P0AEK2]
+** [http://www.uniprot.org/uniprot/Q9ZLS0 Q9ZLS0]
+** [http://www.uniprot.org/uniprot/P43713 P43713]
+** [http://www.uniprot.org/uniprot/P14802 P14802]
+** [http://www.uniprot.org/uniprot/O32229 O32229]
+** [http://www.uniprot.org/uniprot/Q9JW61 Q9JW61]
+** [http://www.uniprot.org/uniprot/O34782 O34782]
+** [http://www.uniprot.org/uniprot/O67610 O67610]
+** [http://www.uniprot.org/uniprot/P27583 P27583]
+** [http://www.uniprot.org/uniprot/P33207 P33207]
+** [http://www.uniprot.org/uniprot/P27582 P27582]
+** [http://www.uniprot.org/uniprot/P28643 P28643]
+** [http://www.uniprot.org/uniprot/P73574 P73574]
+** [http://www.uniprot.org/uniprot/O54438 O54438]
+** [http://www.uniprot.org/uniprot/P55336 P55336]
+** [http://www.uniprot.org/uniprot/Q9RA33 Q9RA33]
+** [http://www.uniprot.org/uniprot/Q44326 Q44326]
+** [http://www.uniprot.org/uniprot/P12276 P12276]
+** [http://www.uniprot.org/uniprot/P12785 P12785]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=polyketide_synthase}}
+{{#set: common name=3-oxoacyl-(acyl-carrier-protein)}}
+{{#set: ec number=EC-2.3.1.86}}
+{{#set: ec number=EC-2.3.1.85}}
+{{#set: ec number=EC-1.1.1.100}}
+{{#set: gene associated=Tiso_gene_9885|Tiso_gene_13394|Tiso_gene_13083|Tiso_gene_135|Tiso_gene_10876|Tiso_gene_500|Tiso_gene_136}}
+{{#set: in pathway=FASYN-ELONG-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROXY-3-METHYL-GLUTARYL-COA 3-HYDROXY-3-METHYL-GLUTARYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC(C)(O)CC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** (S)-3-hydroxy-3-methylglutaryl-CoA
+* inchi key:
+** InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
+* molecular weight:
+** 906.621    
+* Synonym(s):
+** 3-hydroxy-3-methyl-glutaryl-CoA
+** HMG-CoA
+** hydroxymethylglutaryl-CoA
+** 3-hydroxy-3-methylglutaryl-coenzyme A
+** 3-Hydroxy-3-methylglutaryl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.1.1.34-RXN]]
+* [[METHYLGLUTACONYL-COA-HYDRATASE-RXN]]
+* [[HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN]]
+== External links  ==
+* CAS : 1553-55-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5288565 5288565]
+* HMDB : HMDB01375
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=43074 43074]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00356 C00356]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC(C)(O)CC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=(S)-3-hydroxy-3-methylglutaryl-CoA}}
+{{#set: inchi key=InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I}}
+{{#set: molecular weight=906.621    }}
+{{#set: common name=3-hydroxy-3-methyl-glutaryl-CoA|HMG-CoA|hydroxymethylglutaryl-CoA|3-hydroxy-3-methylglutaryl-coenzyme A|3-Hydroxy-3-methylglutaryl-CoA}}
+{{#set: consumed by=HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN}}
+{{#set: reversible reaction associated=1.1.1.34-RXN|METHYLGLUTACONYL-COA-HYDRATASE-RXN|HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN}}

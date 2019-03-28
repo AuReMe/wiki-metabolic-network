@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=TREHALOSESYN-PWY TREHALOSESYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** trehalose biosynthesis III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[TREHALOSEPHOSPHA-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_10840]]
+*** [[Tiso_gene_18196]]
+*** [[Tiso_gene_14220]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.4.1.36-RXN 2.4.1.36-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=trehalose biosynthesis III}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RIBONUCLEOSIDE-DIP-REDUCTII-RXN RIBONUCLEOSIDE-DIP-REDUCTII-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ribonucleoside-diphosphate_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.17.4.1 EC-1.17.4.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Reduced-NrdH-Proteins]][c] '''+''' 1 [[CDP]][c] '''=>''' 1 [[DCDP]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[Oxidized-NrdH-Proteins]][c]
+* With common name(s):
+** 1 a reduced NrdH glutaredoxin-like protein[c] '''+''' 1 CDP[c] '''=>''' 1 dCDP[c] '''+''' 1 H2O[c] '''+''' 1 an oxidized NrdH glutaredoxin-like protein[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9915]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10138]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9916]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10617]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY0-166]], superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli): [http://metacyc.org/META/NEW-IMAGE?object=PWY0-166 PWY0-166]
+** '''12''' reactions found over '''17''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ribonucleoside-diphosphate_reductase}}
+{{#set: ec number=EC-1.17.4.1}}
+{{#set: gene associated=Tiso_gene_9915|Tiso_gene_10138|Tiso_gene_9916|Tiso_gene_10617}}
+{{#set: in pathway=PWY0-166}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

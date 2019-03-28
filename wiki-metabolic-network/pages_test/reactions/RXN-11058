@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11058 RXN-11058] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.8.2.1 EC-2.8.2.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-12014]][c] '''+''' 1 [[PAPS]][c] '''=>''' 1 [[3-5-ADP]][c] '''+''' 1 [[CPD-12015]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 6-hydroxymelatonin[c] '''+''' 1 3'-phosphoadenylyl-sulfate[c] '''=>''' 1 adenosine 3',5'-bisphosphate[c] '''+''' 1 6-sulfatoxymelatonin[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5505]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6398]], melatonin degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6398 PWY-6398]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.8.2.1}}
+{{#set: gene associated=Tiso_gene_5505}}
+{{#set: in pathway=PWY-6398}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

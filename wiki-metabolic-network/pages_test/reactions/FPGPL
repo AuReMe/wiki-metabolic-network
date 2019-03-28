@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=FPGPL FPGPL] ==
+* direction:
+** REVERSIBLE
+* common name:
+** D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[D-fructofuranose-1-phosphate]][h] '''<=>''' 1.0 [[GLYCERALD]][h] '''+''' 1.0 [[DIHYDROXY-ACETONE-PHOSPHATE]][h]
+* With common name(s):
+** 1.0 D-fructofuranose 1-phosphate[h] '''<=>''' 1.0 D-glyceraldehyde[h] '''+''' 1.0 glycerone phosphate[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_65]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase}}
+{{#set: gene associated=Tiso_gene_65}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

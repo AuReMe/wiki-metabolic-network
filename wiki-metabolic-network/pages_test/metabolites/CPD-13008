@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13008 CPD-13008] ==
+* smiles:
+** C(C(CC1(=CC=C(C=C1)OC2(=CC(I)=C(C(I)=C2)O)))[N+])([O-])=O
+* common name:
+** 3',5'-diiodothyronine
+* inchi key:
+** InChIKey=LROTZSUGDZPWDN-ZDUSSCGKSA-N
+* molecular weight:
+** 525.081    
+* Synonym(s):
+** 3',5'-diiodo-L-thyronine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12037]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=50986088 50986088]
+{{#set: smiles=C(C(CC1(=CC=C(C=C1)OC2(=CC(I)=C(C(I)=C2)O)))[N+])([O-])=O}}
+{{#set: common name=3',5'-diiodothyronine}}
+{{#set: inchi key=InChIKey=LROTZSUGDZPWDN-ZDUSSCGKSA-N}}
+{{#set: molecular weight=525.081    }}
+{{#set: common name=3',5'-diiodo-L-thyronine}}
+{{#set: consumed by=RXN-12037}}

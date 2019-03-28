@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14420 ==
+* right end position:
+** 5518
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4812
+* centisome position:
+** 84.897675    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-4261]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5518}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4812}}
+{{#set: centisome position=84.897675    }}
+{{#set: reaction associated=RXN0-4261}}

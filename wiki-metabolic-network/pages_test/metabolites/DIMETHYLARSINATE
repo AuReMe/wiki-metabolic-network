@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIMETHYLARSINATE DIMETHYLARSINATE] ==
+* smiles:
+** C[As](C)(=O)[O-]
+* common name:
+** cacodylate
+* inchi key:
+** InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-M
+* molecular weight:
+** 136.99    
+* Synonym(s):
+** dimethylarsinate
+** DMAV
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2.1.1.138-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB04399
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=167250 167250]
+* HMDB : HMDB11625
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C07308 C07308]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.146326.html 146326]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16223 16223]
+{{#set: smiles=C[As](C)(=O)[O-]}}
+{{#set: common name=cacodylate}}
+{{#set: inchi key=InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-M}}
+{{#set: molecular weight=136.99    }}
+{{#set: common name=dimethylarsinate|DMAV}}
+{{#set: produced by=2.1.1.138-RXN}}

@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.14.21.6-RXN 1.14.21.6-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.19.20 EC-1.14.19.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OXYGEN-MOLECULE]][c] '''+''' 2 [[FERROCYTOCHROME-B5]][c] '''+''' 2 [[PROTON]][c] '''+''' 1 [[CPD-4186]][c] '''=>''' 1 [[CPD-4187]][c] '''+''' 2 [[WATER]][c] '''+''' 2 [[FERRICYTOCHROME-B5]][c]
+* With common name(s):
+** 1 oxygen[c] '''+''' 2 a ferrocytochrome b5[c] '''+''' 2 H+[c] '''+''' 1 lathosterol[c] '''=>''' 1 7-dehydrocholesterol[c] '''+''' 2 H2O[c] '''+''' 2 a ferricytochrome b5[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5446]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY66-341]], cholesterol biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-341 PWY66-341]
+** '''8''' reactions found over '''22''' reactions in the full pathway
+* [[PWY66-3]], cholesterol biosynthesis II (via 24,25-dihydrolanosterol): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-3 PWY66-3]
+** '''8''' reactions found over '''22''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18924 18924]
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18920 18920]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07215 R07215]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.14.19.20}}
+{{#set: gene associated=Tiso_gene_5446}}
+{{#set: in pathway=PWY66-341|PWY66-3}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

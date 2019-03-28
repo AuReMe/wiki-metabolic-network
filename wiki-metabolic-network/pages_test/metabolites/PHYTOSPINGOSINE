@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHYTOSPINGOSINE PHYTOSPINGOSINE] ==
+* smiles:
+** CCCCCCCCCCCCCCC(O)C(C(CO)[N+])O
+* common name:
+** phytosphingosine
+* inchi key:
+** InChIKey=AERBNCYCJBRYDG-KSZLIROESA-O
+* molecular weight:
+** 318.519    
+* Synonym(s):
+** 4-hydroxysphinganine
+** D-ribo-4-hydroxysphinganine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[CERAMIDASE-YEAST-RXN]]
+== External links  ==
+* LIPID_MAPS : LMSP01030001
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=56927898 56927898]
+* HMDB : HMDB04610
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=64124 64124]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C12144 C12144]
+{{#set: smiles=CCCCCCCCCCCCCCC(O)C(C(CO)[N+])O}}
+{{#set: common name=phytosphingosine}}
+{{#set: inchi key=InChIKey=AERBNCYCJBRYDG-KSZLIROESA-O}}
+{{#set: molecular weight=318.519    }}
+{{#set: common name=4-hydroxysphinganine|D-ribo-4-hydroxysphinganine}}
+{{#set: reversible reaction associated=CERAMIDASE-YEAST-RXN}}

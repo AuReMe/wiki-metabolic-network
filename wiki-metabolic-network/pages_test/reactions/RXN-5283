@@ -1,0 +1,30 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-5283 RXN-5283] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADPH]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[13-HYDROXY-MAGNESIUM-PROTOPORP]][c] '''=>''' 1 [[131-OXO-MAGNESIUM-PROTOPORPHYRIN-IX-13-M]][c] '''+''' 1 [[NADP]][c] '''+''' 2 [[WATER]][c]
+* With common name(s):
+** 1 NADPH[c] '''+''' 1 oxygen[c] '''+''' 1 H+[c] '''+''' 1 131-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester[c] '''=>''' 1 131-oxo-magnesium-protoporphyrin IX 13-monomethyl ester[c] '''+''' 1 NADP+[c] '''+''' 2 H2O[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[CHLOROPHYLL-SYN]], 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent): [http://metacyc.org/META/NEW-IMAGE?object=CHLOROPHYLL-SYN CHLOROPHYLL-SYN]
+** '''9''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7159]], 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7159 PWY-7159]
+** '''8''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20542 20542]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R06266 R06266]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=CHLOROPHYLL-SYN|PWY-7159}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

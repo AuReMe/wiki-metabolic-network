@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7025 CPD-7025] ==
+* smiles:
+** CC(CCCC(CCCC(C)CCCC(C)=CCOP([O-])(=O)[O-])C)C
+* common name:
+** phytyl monophosphate
+* inchi key:
+** InChIKey=YRXRHZOKDFCXIB-PYDDKJGSSA-L
+* molecular weight:
+** 374.499    
+* Synonym(s):
+** phytolmonophosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7683]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245113 25245113]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75483 75483]
+{{#set: smiles=CC(CCCC(CCCC(C)CCCC(C)=CCOP([O-])(=O)[O-])C)C}}
+{{#set: common name=phytyl monophosphate}}
+{{#set: inchi key=InChIKey=YRXRHZOKDFCXIB-PYDDKJGSSA-L}}
+{{#set: molecular weight=374.499    }}
+{{#set: common name=phytolmonophosphate}}
+{{#set: produced by=RXN-7683}}

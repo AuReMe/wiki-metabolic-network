@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3211 ==
+* right end position:
+** 6161
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5162
+* centisome position:
+** 29.941994    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UBIQUITIN--PROTEIN-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7511]]
+== External links  ==
+{{#set: right end position=6161}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5162}}
+{{#set: centisome position=29.941994    }}
+{{#set: reaction associated=RXN-15556|UBIQUITIN--PROTEIN-LIGASE-RXN}}
+{{#set: pathway associated=PWY-7511}}

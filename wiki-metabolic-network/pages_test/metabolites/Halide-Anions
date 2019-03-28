@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Halide-Anions Halide-Anions] ==
+* common name:
+** a halide anion
+* Synonym(s):
+** a halide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2-HALOACID-DEHALOGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-6263]]
+* [[3.8.1.11-RXN]]
+* [[RXN-6264]]
+== External links  ==
+{{#set: common name=a halide anion}}
+{{#set: common name=a halide}}
+{{#set: produced by=2-HALOACID-DEHALOGENASE-RXN}}
+{{#set: reversible reaction associated=RXN-6263|3.8.1.11-RXN|RXN-6264}}

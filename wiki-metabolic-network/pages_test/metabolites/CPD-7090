@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7090 CPD-7090] ==
+* smiles:
+** C1(C(O)=C(O)C(O)=CC=1C2(C([O-])=CC3(=C([O+]=2)C=C(O)C=C([O-])3)))
+* common name:
+** delphinidin
+* inchi key:
+** InChIKey=JKHRCGUTYDNCLE-UHFFFAOYSA-M
+* molecular weight:
+** 301.232    
+* Synonym(s):
+** delfinidin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9723]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7785]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25203213 25203213]
+* HMDB : HMDB03074
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28436 28436]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05908 C05908]
+{{#set: smiles=C1(C(O)=C(O)C(O)=CC=1C2(C([O-])=CC3(=C([O+]=2)C=C(O)C=C([O-])3)))}}
+{{#set: common name=delphinidin}}
+{{#set: inchi key=InChIKey=JKHRCGUTYDNCLE-UHFFFAOYSA-M}}
+{{#set: molecular weight=301.232    }}
+{{#set: common name=delfinidin}}
+{{#set: consumed by=RXN-9723}}
+{{#set: produced by=RXN-7785}}

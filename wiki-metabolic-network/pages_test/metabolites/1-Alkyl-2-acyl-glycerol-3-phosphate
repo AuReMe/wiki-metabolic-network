@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=1-Alkyl-2-acyl-glycerol-3-phosphate 1-Alkyl-2-acyl-glycerol-3-phosphate] ==
+* common name:
+** a 2-acyl-1-alkyl-sn-glycerol 3-phosphate
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17730]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17729]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2-acyl-1-alkyl-sn-glycerol 3-phosphate}}
+{{#set: consumed by=RXN-17730}}
+{{#set: produced by=RXN-17729}}

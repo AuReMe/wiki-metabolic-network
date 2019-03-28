@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Oxo-glutarate-dehydrogenase-DH-lipoyl Oxo-glutarate-dehydrogenase-DH-lipoyl] ==
+* common name:
+** a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine
+* Synonym(s):
+** an enzyme N6-(dihydrolipoyl)lysine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-1147]]
+* [[RXN-7716]]
+== External links  ==
+{{#set: common name=a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine}}
+{{#set: common name=an enzyme N6-(dihydrolipoyl)lysine}}
+{{#set: reversible reaction associated=RXN0-1147|RXN-7716}}

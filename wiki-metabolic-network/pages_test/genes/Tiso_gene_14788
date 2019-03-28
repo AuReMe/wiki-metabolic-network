@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14788 ==
+* right end position:
+** 4327
+* transcription direction:
+** POSITIVE
+* left end position:
+** 470
+* centisome position:
+** 8.665192    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GCVT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-577]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[SARCOSINE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-4722]]
+* [[CRNFORCAT-PWY]]
+* [[PWY-3661-1]]
+* [[GLYCLEAV-PWY]]
+== External links  ==
+{{#set: right end position=4327}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=470}}
+{{#set: centisome position=8.665192    }}
+{{#set: reaction associated=GCVT-RXN|RXN66-577|SARCOSINE-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=PWY-4722|CRNFORCAT-PWY|PWY-3661-1|GLYCLEAV-PWY}}

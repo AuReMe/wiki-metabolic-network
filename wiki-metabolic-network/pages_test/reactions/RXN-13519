@@ -1,0 +1,29 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13519 RXN-13519] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** vectoral H+ export
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 4 [[PROTON]][c] '''=>''' 4 [[PROTON]][e]
+* With common name(s):
+** 4 H+[c] '''=>''' 4 H+[e]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=vectoral H+ export}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9924 CPD-9924] ==
+* smiles:
+** C=C(C(=O)[O-])OC1(CC=C(C(=O)CCC(=O)[O-])C(C(O)1)C(=O)[O-])
+* common name:
+** 2-succinyl-5-enolpyruvoyl-6-hydroxy-3-cyclohexene-1-carboxylate
+* inchi key:
+** InChIKey=JKJGLRGLOMRXFN-MVWJERBFSA-K
+* molecular weight:
+** 325.251    
+* Synonym(s):
+** SEPHCHC
+** 5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9310]]
+== Reaction(s) known to produce the compound ==
+* [[2.5.1.64-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657446 90657446]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=50271 50271]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16519 C16519]
+{{#set: smiles=C=C(C(=O)[O-])OC1(CC=C(C(=O)CCC(=O)[O-])C(C(O)1)C(=O)[O-])}}
+{{#set: common name=2-succinyl-5-enolpyruvoyl-6-hydroxy-3-cyclohexene-1-carboxylate}}
+{{#set: inchi key=InChIKey=JKJGLRGLOMRXFN-MVWJERBFSA-K}}
+{{#set: molecular weight=325.251    }}
+{{#set: common name=SEPHCHC|5-enolpyruvoyl-6-hydroxy-2-succinyl-cyclohex-3-ene-1-carboxylate}}
+{{#set: consumed by=RXN-9310}}
+{{#set: produced by=2.5.1.64-RXN}}

@@ -1,0 +1,207 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** drap_deaminase
+** pseudouridine_synthase_family_protein
+** ORF
+** pseudouridine_synthase
+** Transmembrane_protein
+** trna-pseudouridine_synthasei
+** ribosomal_large_subunit_pseudouridine_synthase_d
+** trna_pseudouridinesynthase
+** trna_pseudouridine_synthase
+** pseudouridylate_synthase
+** pseudouridine_synthase_rlu_family_protein
+** protein_pus7
+** trna_pseudouridine_synthase_a
+** pseudouridine
+** rna_pseudouridylate_synthase_domain-containing_protein_1
+** pseudouridine_synthase_1-like_protein
+** trna_pseudouridine_synthase_d
+* ec number:
+** [http://enzyme.expasy.org/EC/5.4.99.12 EC-5.4.99.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[tRNA-uridine-38-40]][c] '''=>''' 1 [[tRNA-pseudouridine-38-40]][c]
+* With common name(s):
+** 1 a uridine38-40 in tRNA[c] '''=>''' 1 a pseudouridine38-40 in tRNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3154]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17798]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15274]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5651]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1134]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18936]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4020]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2851]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7584]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11913]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_582]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9833]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17799]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18988]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16656]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_178]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11842]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10567]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12093]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18184]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1548]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17745]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4703]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2850]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2988]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19667]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13557]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18028]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18987]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16727]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5234]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19622]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3970]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3166]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12635]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7417]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4021]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03020 R03020]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q59069 Q59069]
+** [http://www.uniprot.org/uniprot/P47428 P47428]
+** [http://www.uniprot.org/uniprot/P45291 P45291]
+** [http://www.uniprot.org/uniprot/Q45557 Q45557]
+** [http://www.uniprot.org/uniprot/Q50291 Q50291]
+** [http://www.uniprot.org/uniprot/P53167 P53167]
+** [http://www.uniprot.org/uniprot/Q12211 Q12211]
+** [http://www.uniprot.org/uniprot/P73295 P73295]
+** [http://www.uniprot.org/uniprot/P07649 P07649]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=drap_deaminase}}
+{{#set: common name=pseudouridine_synthase_family_protein}}
+{{#set: common name=ORF}}
+{{#set: common name=pseudouridine_synthase}}
+{{#set: common name=Transmembrane_protein}}
+{{#set: common name=trna-pseudouridine_synthasei}}
+{{#set: common name=ribosomal_large_subunit_pseudouridine_synthase_d}}
+{{#set: common name=trna_pseudouridinesynthase}}
+{{#set: common name=trna_pseudouridine_synthase}}
+{{#set: common name=pseudouridylate_synthase}}
+{{#set: common name=pseudouridine_synthase_rlu_family_protein}}
+{{#set: common name=protein_pus7}}
+{{#set: common name=trna_pseudouridine_synthase_a}}
+{{#set: common name=pseudouridine}}
+{{#set: common name=rna_pseudouridylate_synthase_domain-containing_protein_1}}
+{{#set: common name=pseudouridine_synthase_1-like_protein}}
+{{#set: common name=trna_pseudouridine_synthase_d}}
+{{#set: ec number=EC-5.4.99.12}}
+{{#set: gene associated=Tiso_gene_3154|Tiso_gene_17798|Tiso_gene_15274|Tiso_gene_5651|Tiso_gene_1134|Tiso_gene_18936|Tiso_gene_4020|Tiso_gene_2851|Tiso_gene_7584|Tiso_gene_11913|Tiso_gene_582|Tiso_gene_9833|Tiso_gene_17799|Tiso_gene_18988|Tiso_gene_16656|Tiso_gene_18959|Tiso_gene_178|Tiso_gene_11842|Tiso_gene_10567|Tiso_gene_12093|Tiso_gene_18184|Tiso_gene_1548|Tiso_gene_17745|Tiso_gene_4703|Tiso_gene_2850|Tiso_gene_2988|Tiso_gene_19667|Tiso_gene_13557|Tiso_gene_18028|Tiso_gene_18987|Tiso_gene_16727|Tiso_gene_5234|Tiso_gene_19622|Tiso_gene_3970|Tiso_gene_3166|Tiso_gene_12635|Tiso_gene_7417|Tiso_gene_4021}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

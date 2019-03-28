@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2117 CPD0-2117] ==
+* smiles:
+** CCCCCCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** trans-hexadec-2-enoyl-CoA
+* inchi key:
+** InChIKey=JUPAQFRKPHPXLD-MSHHSVQMSA-J
+* molecular weight:
+** 999.899    
+* Synonym(s):
+** trans-2-hexadecenoyl-CoA
+** (2E)-hexadecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-16540]]
+* [[ACOA160or]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : hdd2coa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173176 46173176]
+* HMDB : HMDB03945
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05272 C05272]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61526 61526]
+* METABOLIGHTS : MTBLC61526
+{{#set: smiles=CCCCCCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=trans-hexadec-2-enoyl-CoA}}
+{{#set: inchi key=InChIKey=JUPAQFRKPHPXLD-MSHHSVQMSA-J}}
+{{#set: molecular weight=999.899    }}
+{{#set: common name=trans-2-hexadecenoyl-CoA|(2E)-hexadecenoyl-CoA}}
+{{#set: produced by=RXN-16540|ACOA160or}}

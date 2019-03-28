@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-5S-5-AMINO-5-CARBOXYPENTANOYL-L-CY N-5S-5-AMINO-5-CARBOXYPENTANOYL-L-CY] ==
+* smiles:
+** CC(C)C(NC(=O)C(NC(=O)CCCC([N+])C(=O)[O-])CS)C(=O)[O-]
+* common name:
+** N-[(5S)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine
+* inchi key:
+** InChIKey=BYEIJZFKOAXBBV-QXEWZRGKSA-M
+* molecular weight:
+** 362.42    
+* Synonym(s):
+** ACV
+** L-&delta;-(&alpha;-aminoadipoyl)-L-cysteinyl-D-valine
+** &delta;(L-2-aminoadipyl)-L-cysteinyl-D-valine
+** N-[L-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine
+
+== Reaction(s) known to consume the compound ==
+* [[1.21.3.1-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91820470 91820470]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58572 58572]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05556 C05556]
+{{#set: smiles=CC(C)C(NC(=O)C(NC(=O)CCCC([N+])C(=O)[O-])CS)C(=O)[O-]}}
+{{#set: common name=N-[(5S)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine}}
+{{#set: inchi key=InChIKey=BYEIJZFKOAXBBV-QXEWZRGKSA-M}}
+{{#set: molecular weight=362.42    }}
+{{#set: common name=ACV|L-&delta;-(&alpha;-aminoadipoyl)-L-cysteinyl-D-valine|&delta;(L-2-aminoadipyl)-L-cysteinyl-D-valine|N-[L-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine}}
+{{#set: consumed by=1.21.3.1-RXN}}

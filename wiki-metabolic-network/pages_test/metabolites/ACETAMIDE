@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACETAMIDE ACETAMIDE] ==
+* smiles:
+** CC(=O)N
+* common name:
+** acetamide
+* inchi key:
+** InChIKey=DLFVBJFMPXGRIB-UHFFFAOYSA-N
+* molecular weight:
+** 59.068    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14728]]
+== External links  ==
+* CAS : 60-35-5
+* DRUGBANK : DB02736
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=178 178]
+* HMDB : HMDB31645
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06244 C06244]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.173.html 173]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27856 27856]
+* METABOLIGHTS : MTBLC27856
+{{#set: smiles=CC(=O)N}}
+{{#set: common name=acetamide}}
+{{#set: inchi key=InChIKey=DLFVBJFMPXGRIB-UHFFFAOYSA-N}}
+{{#set: molecular weight=59.068    }}
+{{#set: reversible reaction associated=RXN-14728}}

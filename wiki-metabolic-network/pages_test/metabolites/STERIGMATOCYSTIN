@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=STERIGMATOCYSTIN STERIGMATOCYSTIN] ==
+* smiles:
+** COC5(C=C2(C([CH]1([CH](OC=C1)O2))=C4(OC3(C(=C(C=CC=3)O)C(=O)C4=5))))
+* common name:
+** sterigmatocystin
+* inchi key:
+** InChIKey=UTSVPXMQSFGQTM-DCXZOGHSSA-N
+* molecular weight:
+** 324.289    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2.1.1.109-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280389 5280389]
+* CAS : 10048-13-2
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=204985 204985]
+* HMDB : HMDB30588
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00961 C00961]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4447522.html 4447522]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18227 18227]
+* METABOLIGHTS : MTBLC18227
+{{#set: smiles=COC5(C=C2(C([CH]1([CH](OC=C1)O2))=C4(OC3(C(=C(C=CC=3)O)C(=O)C4=5))))}}
+{{#set: common name=sterigmatocystin}}
+{{#set: inchi key=InChIKey=UTSVPXMQSFGQTM-DCXZOGHSSA-N}}
+{{#set: molecular weight=324.289    }}
+{{#set: produced by=2.1.1.109-RXN}}

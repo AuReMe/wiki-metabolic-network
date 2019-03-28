@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7569 PWY-7569] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** arginomycin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''9''' reactions in the full pathway
+* [[RXN-14065]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11910]]
+*** [[Tiso_gene_12995]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15927 RXN-15927]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15928 RXN-15928]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15929 RXN-15929]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15930 RXN-15930]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15931 RXN-15931]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15932 RXN-15932]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15933 RXN-15933]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15934 RXN-15934]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=arginomycin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=9}}
+{{#set: completion rate=11.0}}

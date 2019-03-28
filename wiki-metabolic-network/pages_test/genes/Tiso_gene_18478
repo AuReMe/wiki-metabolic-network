@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18478 ==
+* right end position:
+** 2248
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8
+* centisome position:
+** 0.26640025    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[THYMIDYLATESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7210]]
+* [[PWY-7198]]
+* [[PWY-7199]]
+* [[PWY-3841]]
+* [[1CMET2-PWY]]
+* [[PWY-7187]]
+* [[PWY0-166]]
+* [[PWY-7184]]
+== External links  ==
+{{#set: right end position=2248}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8}}
+{{#set: centisome position=0.26640025    }}
+{{#set: reaction associated=THYMIDYLATESYN-RXN}}
+{{#set: pathway associated=PWY-7210|PWY-7198|PWY-7199|PWY-3841|1CMET2-PWY|PWY-7187|PWY0-166|PWY-7184}}

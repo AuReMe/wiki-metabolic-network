@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9460 CPD-9460] ==
+* smiles:
+** CC6(CCC5(CCC1(C(=CC[CH]2(C1(CC[CH]3(C2(CCC(C3(C)C)OC4(C(C(C(C(O4)C(=O)[O-])O)O)O))C))C))[CH]5C6)C)C(=O)[O-])C
+* common name:
+** oleanolate 3 &beta;-D-glucuronoside
+* inchi key:
+** InChIKey=IUCHKMAZAWJNBJ-RCYXVVTDSA-L
+* molecular weight:
+** 630.817    
+* Synonym(s):
+** oleanolic acid 3 &beta;-D-glucuronoside
+** oleanoic acid 3-O-glucuronide
+** monoglucuronide F
+** oleanolic acid 3-O-glucuronide
+** oleanolic acid 3-O-monoglucuronide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9000]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659092 90659092]
+* HMDB : HMDB40851
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=37658 37658]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08964 C08964]
+{{#set: smiles=CC6(CCC5(CCC1(C(=CC[CH]2(C1(CC[CH]3(C2(CCC(C3(C)C)OC4(C(C(C(C(O4)C(=O)[O-])O)O)O))C))C))[CH]5C6)C)C(=O)[O-])C}}
+{{#set: common name=oleanolate 3 &beta;-D-glucuronoside}}
+{{#set: inchi key=InChIKey=IUCHKMAZAWJNBJ-RCYXVVTDSA-L}}
+{{#set: molecular weight=630.817    }}
+{{#set: common name=oleanolic acid 3 &beta;-D-glucuronoside|oleanoic acid 3-O-glucuronide|monoglucuronide F|oleanolic acid 3-O-glucuronide|oleanolic acid 3-O-monoglucuronide}}
+{{#set: produced by=RXN-9000}}

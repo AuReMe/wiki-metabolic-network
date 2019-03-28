@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17804 ==
+* right end position:
+** 2045
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 244
+* centisome position:
+** 7.0786195    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11109]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: right end position=2045}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=244}}
+{{#set: centisome position=7.0786195    }}
+{{#set: reaction associated=DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN|H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN|RXN-11109}}
+{{#set: pathway associated=PWY-7539|PWY-6797|PWY-6147}}

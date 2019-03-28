@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2954 ==
+* right end position:
+** 10803
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9251
+* centisome position:
+** 51.606606    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-305]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10803}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9251}}
+{{#set: centisome position=51.606606    }}
+{{#set: reaction associated=RXN0-305}}

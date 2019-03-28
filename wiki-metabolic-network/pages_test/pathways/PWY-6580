@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6580 PWY-6580] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** phosphatidylinositol biosynthesis I (bacteria)
+* Synonym(s):
+** L-1-phosphatidyl-inositol biosynthesis I (bacteria)
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7167]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHATIDYLINOSITOL-3-PHOSPHATASE-RXN PHOSPHATIDYLINOSITOL-3-PHOSPHATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11639 RXN-11639]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=phosphatidylinositol biosynthesis I (bacteria)}}
+{{#set: common name=L-1-phosphatidyl-inositol biosynthesis I (bacteria)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

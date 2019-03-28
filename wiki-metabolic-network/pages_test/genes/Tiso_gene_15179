@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15179 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TROPINE-DEHYDROGENASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5317]]
+* [[PWY-7341]]
+== External links  ==
+{{#set: reaction associated=TROPINE-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=PWY-5317|PWY-7341}}

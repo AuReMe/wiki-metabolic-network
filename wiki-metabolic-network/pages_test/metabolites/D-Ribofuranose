@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-Ribofuranose D-Ribofuranose] ==
+* common name:
+** D-ribofuranose
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-363]]
+* [[RXN0-361]]
+* [[RXN0-366]]
+* [[PURINE-NUCLEOSIDASE-RXN]]
+* [[URIDINE-NUCLEOSIDASE-RXN]]
+* [[INOSINE-NUCLEOSIDASE-RXN]]
+* [[ADENOSINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14882]]
+== External links  ==
+{{#set: common name=D-ribofuranose}}
+{{#set: produced by=RXN0-363|RXN0-361|RXN0-366|PURINE-NUCLEOSIDASE-RXN|URIDINE-NUCLEOSIDASE-RXN|INOSINE-NUCLEOSIDASE-RXN|ADENOSINE-NUCLEOSIDASE-RXN}}
+{{#set: reversible reaction associated=RXN-14882}}

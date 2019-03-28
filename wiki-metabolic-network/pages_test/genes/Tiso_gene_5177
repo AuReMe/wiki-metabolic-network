@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5177 ==
+* right end position:
+** 4000
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2286
+* centisome position:
+** 16.547232    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4000}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2286}}
+{{#set: centisome position=16.547232    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

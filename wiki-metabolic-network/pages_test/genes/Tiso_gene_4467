@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4467 ==
+* right end position:
+** 11138
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9357
+* centisome position:
+** 63.17175    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PANTOTHENATE-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PANTO-PWY]]
+* [[PWY-3961]]
+* [[COA-PWY-1]]
+== External links  ==
+{{#set: right end position=11138}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9357}}
+{{#set: centisome position=63.17175    }}
+{{#set: reaction associated=PANTOTHENATE-KIN-RXN}}
+{{#set: pathway associated=PANTO-PWY|PWY-3961|COA-PWY-1}}

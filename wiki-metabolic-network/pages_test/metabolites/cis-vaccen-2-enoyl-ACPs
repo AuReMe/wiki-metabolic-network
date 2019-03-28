@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-vaccen-2-enoyl-ACPs cis-vaccen-2-enoyl-ACPs] ==
+* common name:
+** a (2-trans-11-cis)-vaccen-2-enoyl-[acp]
+* Synonym(s):
+** a (2E,11Z)-octadeca-2,11-dienoyl-[acp]
+** a (2E,11Z)-octadeca-2,11-dienoyl-[acyl-carrier protein]
+** a ( 2-trans-11-cis)-octadeca-2,11-dienoyl-[acyl-carrier protein]
+** a (2-trans-11-cis)-octadeca-2,11-dienoyl-[acp]
+** a (2-trans-11-cis)-vaccen-2-enoyl-[acyl-carrier protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9558]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9557]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (2-trans-11-cis)-vaccen-2-enoyl-[acp]}}
+{{#set: common name=a (2E,11Z)-octadeca-2,11-dienoyl-[acp]|a (2E,11Z)-octadeca-2,11-dienoyl-[acyl-carrier protein]|a ( 2-trans-11-cis)-octadeca-2,11-dienoyl-[acyl-carrier protein]|a (2-trans-11-cis)-octadeca-2,11-dienoyl-[acp]|a (2-trans-11-cis)-vaccen-2-enoyl-[acyl-carrier protein]}}
+{{#set: consumed by=RXN-9558}}
+{{#set: produced by=RXN-9557}}

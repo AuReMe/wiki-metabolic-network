@@ -1,0 +1,29 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16100 RXN-16100] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1 EC-2.3.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Glycerolipids]][c] '''+''' 1 [[CPD-12647]][c] '''=>''' 1 [[CPD-17352]][c] '''+''' 1 [[CO-A]][c]
+* With common name(s):
+** 1 a glycerolipid[c] '''+''' 1 (11Z,14Z,17Z)-icosa-11,14,17-trienoyl-CoA[c] '''=>''' 1 a [glycerolipid]-(11Z,14Z,17Z)-icosatrienoate[c] '''+''' 1 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7602]], icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7602 PWY-7602]
+** '''7''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.3.1}}
+{{#set: in pathway=PWY-7602}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

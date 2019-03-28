@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17705 ==
+* right end position:
+** 3028
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1348
+* centisome position:
+** 38.37176    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HOMOSERKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-702]]
+* [[HOMOSER-THRESYN-PWY]]
+== External links  ==
+{{#set: right end position=3028}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1348}}
+{{#set: centisome position=38.37176    }}
+{{#set: reaction associated=HOMOSERKIN-RXN}}
+{{#set: pathway associated=PWY-702|HOMOSER-THRESYN-PWY}}

@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13909 ==
+* right end position:
+** 4667
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3330
+* centisome position:
+** 55.73222    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ACPh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ACYLPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[APhi]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4667}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3330}}
+{{#set: centisome position=55.73222    }}
+{{#set: reaction associated=ACP|ACPh|ACYLPHOSPHATASE-RXN|APhi}}

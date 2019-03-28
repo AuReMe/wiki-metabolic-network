@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-1162 CPD0-1162] ==
+* smiles:
+** CCCCCCCCC=CCC=CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** (2E,5Z)-tetradecenoyl-CoA
+* inchi key:
+** InChIKey=JVEFYXPCQBMMAA-ZMLWRGBOSA-J
+* molecular weight:
+** 969.83    
+* Synonym(s):
+** 2-trans,5-cis-tetradecenoyl-CoA
+** 14:2-&Delta;2,&Delta;5-CoA
+** 2-trans,5-cis-tetradecadienoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14576]]
+* [[RXN-17783]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244134 25244134]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87701 87701]
+{{#set: smiles=CCCCCCCCC=CCC=CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=(2E,5Z)-tetradecenoyl-CoA}}
+{{#set: inchi key=InChIKey=JVEFYXPCQBMMAA-ZMLWRGBOSA-J}}
+{{#set: molecular weight=969.83    }}
+{{#set: common name=2-trans,5-cis-tetradecenoyl-CoA|14:2-&Delta;2,&Delta;5-CoA|2-trans,5-cis-tetradecadienoyl-CoA}}
+{{#set: produced by=RXN-14576|RXN-17783}}

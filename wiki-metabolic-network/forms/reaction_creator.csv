@@ -1,0 +1,17 @@
+reaction_id	my_rxn
+comment	reaction added for X reason
+reversible	false
+linked_gene	(gene_a or gene_b) and gene_c
+#reactant/product	#stoichio:compound_id:compart
+reactant	1.0:compound_a:c
+reactant	2.0:compound_b:c
+product	1.0:compound_c:c
+
+reaction_id	my_rxn_2
+comment	reaction added for X reason
+reversible	true
+linked_gene	
+#reactant/product	#stoichio:compound_id:compart
+reactant	1.0:compound_a:c
+reactant	2.0:compound_d:c
+product	1.0:compound_c:c

@@ -1,0 +1,58 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-15829 RXN-15829] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** probable_mitochondrial-processingpeptidasesubunitbeta
+** cytochrome_b6-fcomplexiron-sulfurchloroplastic
+** ubiquinol-cytochrome_c_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.10.2.2 EC-1.10.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Ubiquinones]][c] '''+''' 2 [[Reduced-CycA1-cytochromes]][e] '''+''' 4 [[PROTON]][c] '''=>''' 1 [[Ubiquinols]][c] '''+''' 2 [[PROTON]][e] '''+''' 2 [[Oxidized-CycA1-cytochromes]][e]
+* With common name(s):
+** 1 a ubiquinone[c] '''+''' 2 a reduced CycA1 cytochrome[e] '''+''' 4 H+[c] '''=>''' 1 an ubiquinol[c] '''+''' 2 H+[e] '''+''' 2 an oxidized CycA1 cytochrome[e]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7235]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9627]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4973]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_18330]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15926]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6692]], Fe(II) oxidation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6692 PWY-6692]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=probable_mitochondrial-processingpeptidasesubunitbeta}}
+{{#set: common name=cytochrome_b6-fcomplexiron-sulfurchloroplastic}}
+{{#set: common name=ubiquinol-cytochrome_c_reductase}}
+{{#set: ec number=EC-1.10.2.2}}
+{{#set: gene associated=Tiso_gene_7235|Tiso_gene_9627|Tiso_gene_4973|Tiso_gene_18330|Tiso_gene_15926}}
+{{#set: in pathway=PWY-6692}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

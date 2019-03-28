@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7235 PWY-7235] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** superpathway of ubiquinol-6 biosynthesis (eukaryotic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7230]]
+** 0 associated gene:
+* [[RXN-9003]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2848]]
+*** [[Tiso_gene_11582]]
+*** [[Tiso_gene_18201]]
+*** [[Tiso_gene_10317]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.114-RXN 2.1.1.114-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-12 RXN3O-12]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-58 RXN3O-58]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-73 RXN3O-73]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=superpathway of ubiquinol-6 biosynthesis (eukaryotic)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

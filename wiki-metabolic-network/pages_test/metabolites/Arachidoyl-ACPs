@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Arachidoyl-ACPs Arachidoyl-ACPs] ==
+* common name:
+** an arachidoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-445]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-395]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an arachidoyl-[acp]}}
+{{#set: consumed by=RXN1G-445}}
+{{#set: produced by=RXN1G-395}}

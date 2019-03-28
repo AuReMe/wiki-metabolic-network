@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12179 CPD-12179] ==
+* common name:
+** methylmalonate semialdehyde
+* Synonym(s):
+** 2-methyl-3-oxopropanoate
+** CH3-malonate-semialdehyde
+
+== Reaction(s) known to consume the compound ==
+* [[1.2.1.27-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=methylmalonate semialdehyde}}
+{{#set: common name=2-methyl-3-oxopropanoate|CH3-malonate-semialdehyde}}
+{{#set: consumed by=1.2.1.27-RXN}}

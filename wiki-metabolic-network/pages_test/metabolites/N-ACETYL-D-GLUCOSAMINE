@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYL-D-GLUCOSAMINE N-ACETYL-D-GLUCOSAMINE] ==
+* smiles:
+** CC(=O)NC1(C(O)OC(CO)C(O)C(O)1)
+* common name:
+** N-acetyl-&beta;-D-glucosamine
+* inchi key:
+** InChIKey=OVRNDRQMDRJTHS-FMDGEEDCSA-N
+* molecular weight:
+** 221.21    
+* Synonym(s):
+** NAcGlc
+** N-acetylglucosamine
+** GlcNAc
+** N-acetyl-D-glucosamine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5226]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 7512-17-6
+* BIGG : acgam
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=24139 24139]
+* HMDB : HMDB00803
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03878 C03878]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.22563.html 22563]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28009 28009]
+* METABOLIGHTS : MTBLC28009
+{{#set: smiles=CC(=O)NC1(C(O)OC(CO)C(O)C(O)1)}}
+{{#set: common name=N-acetyl-&beta;-D-glucosamine}}
+{{#set: inchi key=InChIKey=OVRNDRQMDRJTHS-FMDGEEDCSA-N}}
+{{#set: molecular weight=221.21    }}
+{{#set: common name=NAcGlc|N-acetylglucosamine|GlcNAc|N-acetyl-D-glucosamine}}
+{{#set: produced by=RXN0-5226}}

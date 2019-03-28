@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7128 PWY-7128] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** nicotine degradation III (VPP pathway)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''10''' reactions in the full pathway
+* [[RXN-646]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14341]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.13.11.9-RXN 1.13.11.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALEATE-ISOMERASE-RXN MALEATE-ISOMERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=NICOTINE-DEHYDROGENASE-RXN NICOTINE-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11318 RXN-11318]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13081 RXN-13081]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16526 RXN-16526]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16527 RXN-16527]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16529 RXN-16529]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16530 RXN-16530]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=nicotine degradation III (VPP pathway)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=10}}
+{{#set: completion rate=10.0}}

@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14408 RXN-14408] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-15374]][c] '''=>''' 1 [[Glucopyranose]][c]
+* With common name(s):
+** 1 aldehydo-D-glucose[c] '''=>''' 1 D-glucopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19779]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_19779}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

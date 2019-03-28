@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ZN+2 ZN+2] ==
+* smiles:
+** [Zn++]
+* common name:
+** Zn2+
+* inchi key:
+** InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+* molecular weight:
+** 65.38    
+* Synonym(s):
+** Zn
+** Zinc
+** Zn+2
+** Zn++
+** zinc ion
+** Zn(II)
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_ZN+2]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_ZN+2]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_ZN+2]]
+== External links  ==
+* CAS : 7440-66-6
+* BIGG : zn2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=32051 32051]
+* HMDB : HMDB01303
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00038 C00038]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.29723.html 29723]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29105 29105]
+* METABOLIGHTS : MTBLC29105
+{{#set: smiles=[Zn++]}}
+{{#set: common name=Zn2+}}
+{{#set: inchi key=InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N}}
+{{#set: molecular weight=65.38    }}
+{{#set: common name=Zn|Zinc|Zn+2|Zn++|zinc ion|Zn(II)}}
+{{#set: consumed by=TransportSeed_ZN+2}}
+{{#set: produced by=TransportSeed_ZN+2}}
+{{#set: reversible reaction associated=ExchangeSeed_ZN+2}}

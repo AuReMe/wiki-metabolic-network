@@ -1,0 +1,147 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=5.99.1.3-RXN 5.99.1.3-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** dna_topoisomerase
+** ORF
+** dna_topoisomerase_6_subunit_a
+** dna_topoisomerase_2
+* ec number:
+** [http://enzyme.expasy.org/EC/5.99.1.3 EC-5.99.1.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[Double-Stranded-DNAs]][c] '''<=>''' 1 [[Pi]][c] '''+''' 1 [[Negatively-super-coiled-DNAs]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 a double stranded DNA[c] '''<=>''' 1 phosphate[c] '''+''' 1 a negatively supercoiled DNA[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_828]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3610]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3374]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12629]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1291]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3728]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3396]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6569]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_829]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M3G2 Q7M3G2]
+** [http://www.uniprot.org/uniprot/Q02880 Q02880]
+** [http://www.uniprot.org/uniprot/P0A0K8 P0A0K8]
+** [http://www.uniprot.org/uniprot/P41515 P41515]
+** [http://www.uniprot.org/uniprot/P12531 P12531]
+** [http://www.uniprot.org/uniprot/P27570 P27570]
+** [http://www.uniprot.org/uniprot/Q03470 Q03470]
+** [http://www.uniprot.org/uniprot/P35810 P35810]
+** [http://www.uniprot.org/uniprot/P43701 P43701]
+** [http://www.uniprot.org/uniprot/Q9JX55 Q9JX55]
+** [http://www.uniprot.org/uniprot/Q9CH36 Q9CH36]
+** [http://www.uniprot.org/uniprot/P20831 P20831]
+** [http://www.uniprot.org/uniprot/Q9JTW5 Q9JTW5]
+** [http://www.uniprot.org/uniprot/P33769 P33769]
+** [http://www.uniprot.org/uniprot/P47250 P47250]
+** [http://www.uniprot.org/uniprot/Q59189 Q59189]
+** [http://www.uniprot.org/uniprot/P05652 P05652]
+** [http://www.uniprot.org/uniprot/P43700 P43700]
+** [http://www.uniprot.org/uniprot/P05653 P05653]
+** [http://www.uniprot.org/uniprot/O87667 O87667]
+** [http://www.uniprot.org/uniprot/Q9CGI5 Q9CGI5]
+** [http://www.uniprot.org/uniprot/P23992 P23992]
+** [http://www.uniprot.org/uniprot/P09176 P09176]
+** [http://www.uniprot.org/uniprot/P06786 P06786]
+** [http://www.uniprot.org/uniprot/P0AES6 P0AES6]
+** [http://www.uniprot.org/uniprot/Q00942 Q00942]
+** [http://www.uniprot.org/uniprot/P22447 P22447]
+** [http://www.uniprot.org/uniprot/P08096 P08096]
+** [http://www.uniprot.org/uniprot/P07065 P07065]
+** [http://www.uniprot.org/uniprot/P0AES4 P0AES4]
+** [http://www.uniprot.org/uniprot/P14829 P14829]
+** [http://www.uniprot.org/uniprot/P77993 P77993]
+** [http://www.uniprot.org/uniprot/P22840 P22840]
+** [http://www.uniprot.org/uniprot/Q01320 Q01320]
+** [http://www.uniprot.org/uniprot/P15348 P15348]
+** [http://www.uniprot.org/uniprot/P13364 P13364]
+** [http://www.uniprot.org/uniprot/P34203 P34203]
+** [http://www.uniprot.org/uniprot/P50074 P50074]
+** [http://www.uniprot.org/uniprot/P34031 P34031]
+** [http://www.uniprot.org/uniprot/Q50404 Q50404]
+** [http://www.uniprot.org/uniprot/Q50405 Q50405]
+** [http://www.uniprot.org/uniprot/Q50406 Q50406]
+** [http://www.uniprot.org/uniprot/P41513 P41513]
+** [http://www.uniprot.org/uniprot/Q43906 Q43906]
+** [http://www.uniprot.org/uniprot/P30182 P30182]
+** [http://www.uniprot.org/uniprot/P37411 P37411]
+** [http://www.uniprot.org/uniprot/P0A0L0 P0A0L0]
+** [http://www.uniprot.org/uniprot/Q50435 Q50435]
+** [http://www.uniprot.org/uniprot/P22446 P22446]
+** [http://www.uniprot.org/uniprot/P77966 P77966]
+** [http://www.uniprot.org/uniprot/Q48974 Q48974]
+** [http://www.uniprot.org/uniprot/Q48995 Q48995]
+** [http://www.uniprot.org/uniprot/Q49017 Q49017]
+** [http://www.uniprot.org/uniprot/O68071 O68071]
+** [http://www.uniprot.org/uniprot/O68140 O68140]
+** [http://www.uniprot.org/uniprot/O24308 O24308]
+** [http://www.uniprot.org/uniprot/Q57532 Q57532]
+** [http://www.uniprot.org/uniprot/O41065 O41065]
+** [http://www.uniprot.org/uniprot/Q9ZNN5 Q9ZNN5]
+** [http://www.uniprot.org/uniprot/Q9ZNN4 Q9ZNN4]
+** [http://www.uniprot.org/uniprot/Q9ZNN3 Q9ZNN3]
+** [http://www.uniprot.org/uniprot/Q9ZNN2 Q9ZNN2]
+** [http://www.uniprot.org/uniprot/Q9ZNN1 Q9ZNN1]
+** [http://www.uniprot.org/uniprot/Q9ZNN0 Q9ZNN0]
+** [http://www.uniprot.org/uniprot/O87117 O87117]
+** [http://www.uniprot.org/uniprot/Q9WXF4 Q9WXF4]
+** [http://www.uniprot.org/uniprot/O50627 O50627]
+** [http://www.uniprot.org/uniprot/O50628 O50628]
+** [http://www.uniprot.org/uniprot/P94604 P94604]
+** [http://www.uniprot.org/uniprot/P94605 P94605]
+** [http://www.uniprot.org/uniprot/Q9S5H9 Q9S5H9]
+** [http://www.uniprot.org/uniprot/Q9ZNH3 Q9ZNH3]
+** [http://www.uniprot.org/uniprot/Q9ZNH2 Q9ZNH2]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=dna_topoisomerase}}
+{{#set: common name=ORF}}
+{{#set: common name=dna_topoisomerase_6_subunit_a}}
+{{#set: common name=dna_topoisomerase_2}}
+{{#set: ec number=EC-5.99.1.3}}
+{{#set: gene associated=Tiso_gene_828|Tiso_gene_3610|Tiso_gene_3374|Tiso_gene_12629|Tiso_gene_1291|Tiso_gene_3728|Tiso_gene_3396|Tiso_gene_6569|Tiso_gene_829}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

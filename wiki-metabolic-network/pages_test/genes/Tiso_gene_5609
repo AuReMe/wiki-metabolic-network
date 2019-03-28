@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5609 ==
+* right end position:
+** 8593
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6074
+* centisome position:
+** 46.186604    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[IDS1]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[IDS2]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ISPH2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R07219]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN0-884]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[NONMEVIPP-PWY]]
+* [[PWY-7560]]
+== External links  ==
+{{#set: right end position=8593}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6074}}
+{{#set: centisome position=46.186604    }}
+{{#set: reaction associated=IDS1|IDS2|ISPH2-RXN|R07219|RXN0-884}}
+{{#set: pathway associated=NONMEVIPP-PWY|PWY-7560}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11604 ==
+* right end position:
+** 7011
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4678
+* centisome position:
+** 60.887676    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-305]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7011}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4678}}
+{{#set: centisome position=60.887676    }}
+{{#set: reaction associated=RXN0-305}}

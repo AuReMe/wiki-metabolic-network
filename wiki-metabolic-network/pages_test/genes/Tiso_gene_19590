@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19590 ==
+* right end position:
+** 2169
+* transcription direction:
+** POSITIVE
+* left end position:
+** 25
+* centisome position:
+** 1.1379154    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-9952]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[VALDEG-PWY]]
+* [[OXIDATIVEPENT-PWY]]
+== External links  ==
+{{#set: right end position=2169}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=25}}
+{{#set: centisome position=1.1379154    }}
+{{#set: reaction associated=3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN|RXN-9952}}
+{{#set: pathway associated=VALDEG-PWY|OXIDATIVEPENT-PWY}}

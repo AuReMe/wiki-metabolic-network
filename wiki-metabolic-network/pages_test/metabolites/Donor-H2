@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Donor-H2 Donor-H2] ==
+* common name:
+** a reduced electron acceptor
+* Synonym(s):
+** a reduced electron donor
+** A(H2)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5063]]
+* [[DEOXYHYPUSINE-MONOOXYGENASE-RXN]]
+* [[RXN0-2023]]
+* [[1.3.99.23-RXN]]
+* [[RXN-12037]]
+* [[RXN-12776]]
+* [[RXN-8340]]
+* [[RXN-14480]]
+* [[THYROXINE-DEIODINASE-RXN]]
+* [[RXN-774]]
+* [[RXN-13445]]
+* [[RXN-716]]
+* [[RXN-10604]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-8022]]
+* [[RXN-6081]]
+* [[GLYCERALDEHYDE-DEHYDRO-RXN]]
+* [[RXN-8024]]
+* [[RXN-12124]]
+* [[RXN-10981]]
+* [[RXN-717]]
+* [[RXN-775]]
+* [[THIOREDOXIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13682]]
+* [[NADH-DEHYDROGENASE-RXN]]
+* [[RXN-17487]]
+* [[CHD-RXN]]
+* [[RXN-10851]]
+* [[RXN-11334]]
+== External links  ==
+{{#set: common name=a reduced electron acceptor}}
+{{#set: common name=a reduced electron donor|A(H2)}}
+{{#set: consumed by=RXN0-5063|DEOXYHYPUSINE-MONOOXYGENASE-RXN|RXN0-2023|1.3.99.23-RXN|RXN-12037|RXN-12776|RXN-8340|RXN-14480|THYROXINE-DEIODINASE-RXN|RXN-774|RXN-13445|RXN-716|RXN-10604}}
+{{#set: produced by=RXN-8022|RXN-6081|GLYCERALDEHYDE-DEHYDRO-RXN|RXN-8024|RXN-12124|RXN-10981|RXN-717|RXN-775|THIOREDOXIN-RXN}}
+{{#set: reversible reaction associated=RXN-13682|NADH-DEHYDROGENASE-RXN|RXN-17487|CHD-RXN|RXN-10851|RXN-11334}}

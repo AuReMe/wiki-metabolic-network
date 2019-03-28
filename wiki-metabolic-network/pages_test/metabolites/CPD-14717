@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14717 CPD-14717] ==
+* smiles:
+** CCCCCCCCCCCCCCCCC(O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* inchi key:
+** InChIKey=OJQMIXCIJFLULT-MXQBTARFSA-J
+* common name:
+** (R)-2-hydroxy-stearoyl-CoA
+* molecular weight:
+** 1045.968    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-475-CPD-14717//CPD-14719/FORMYL-COA.32.]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-474-R-2-HYDROXYSTEARATE/ATP/CO-A//CPD-14717/AMP/PPI.48.]]
+== Reaction(s) of unknown directionality ==
+* [[ACECOATRANS-RXN-CPD-14717/ACET//R-2-HYDROXYSTEARATE/ACETYL-COA.47.]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658965 90658965]
+{{#set: smiles=CCCCCCCCCCCCCCCCC(O)C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: inchi key=InChIKey=OJQMIXCIJFLULT-MXQBTARFSA-J}}
+{{#set: common name=(R)-2-hydroxy-stearoyl-CoA}}
+{{#set: molecular weight=1045.968    }}
+{{#set: consumed by=RXN66-475-CPD-14717//CPD-14719/FORMYL-COA.32.}}
+{{#set: produced by=RXN66-474-R-2-HYDROXYSTEARATE/ATP/CO-A//CPD-14717/AMP/PPI.48.}}
+{{#set: reversible reaction associated=ACECOATRANS-RXN-CPD-14717/ACET//R-2-HYDROXYSTEARATE/ACETYL-COA.47.}}

@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RIBITOL-2-DEHYDROGENASE-RXN RIBITOL-2-DEHYDROGENASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.56 EC-1.1.1.56]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[RIBITOL]][c] '''<=>''' 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[D-RIBULOSE]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 ribitol[c] '''<=>''' 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 D-ribulose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15780]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10870]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5087]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14162]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[RIBITOLUTIL-PWY]], ribitol degradation: [http://metacyc.org/META/NEW-IMAGE?object=RIBITOLUTIL-PWY RIBITOLUTIL-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20053 20053]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01895 R01895]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P00335 P00335]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-1.1.1.56}}
+{{#set: gene associated=Tiso_gene_15780|Tiso_gene_10870|Tiso_gene_5087|Tiso_gene_14162}}
+{{#set: in pathway=RIBITOLUTIL-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

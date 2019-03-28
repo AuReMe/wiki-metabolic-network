@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9908 ==
+* right end position:
+** 8782
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6235
+* centisome position:
+** 69.38571    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6.3.5.6-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ASPARAGINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY490-4]]
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=8782}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6235}}
+{{#set: centisome position=69.38571    }}
+{{#set: reaction associated=6.3.5.6-RXN|ASPARAGINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=PWY490-4|TRNA-CHARGING-PWY}}

@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7775 RXN-7775] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.11.9 EC-1.14.11.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-6994]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[2-KETOGLUTARATE]][c] '''=>''' 1 [[CPD-474]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[SUC]][c]
+* With common name(s):
+** 1 (2S)-eriodictyol[c] '''+''' 1 oxygen[c] '''+''' 1 2-oxoglutarate[c] '''=>''' 1 (+)-taxifolin[c] '''+''' 1 CO2[c] '''+''' 1 succinate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3330]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY1F-823]], leucopelargonidin and leucocyanidin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY1F-823 PWY1F-823]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6787]], flavonoid biosynthesis (in equisetum): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6787 PWY-6787]
+** '''5''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03640 R03640]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.14.11.9}}
+{{#set: gene associated=Tiso_gene_3330}}
+{{#set: in pathway=PWY1F-823|PWY-6787}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

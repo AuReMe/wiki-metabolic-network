@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6829 PWY-6829] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** tRNA methylation (yeast)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''15''' reactions in the full pathway
+* [[RXN-11856]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3065]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-12375]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9360]]
+*** [[Tiso_gene_16307]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-12376]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9360]]
+*** [[Tiso_gene_16307]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11857 RXN-11857]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11858 RXN-11858]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11859 RXN-11859]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11868 RXN-11868]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12368 RXN-12368]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12374 RXN-12374]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12461 RXN-12461]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12466 RXN-12466]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12477 RXN-12477]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12478 RXN-12478]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12479 RXN-12479]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14517 RXN-14517]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=tRNA methylation (yeast)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=15}}
+{{#set: completion rate=20.0}}

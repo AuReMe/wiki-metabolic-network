@@ -1,0 +1,207 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** tRNA charging
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''21''' reactions found over '''21''' reactions in the full pathway
+* [[ALANINE--TRNA-LIGASE-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_2298]]
+*** [[Tiso_gene_3249]]
+*** [[Tiso_gene_18607]]
+*** [[Tiso_gene_18609]]
+*** [[Tiso_gene_19573]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ARGININE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12997]]
+*** [[Tiso_gene_16360]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ASPARAGINE--TRNA-LIGASE-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_9304]]
+*** [[Tiso_gene_9908]]
+*** [[Tiso_gene_13908]]
+*** [[Tiso_gene_6065]]
+*** [[Tiso_gene_9303]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[ASPARTATE--TRNA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_13081]]
+*** [[Tiso_gene_17185]]
+*** [[Tiso_gene_7126]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[CYSTEINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10881]]
+*** [[Tiso_gene_17657]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLURS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5379]]
+*** [[Tiso_gene_5046]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLUTAMINE--TRNA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_5915]]
+*** [[Tiso_gene_11124]]
+*** [[Tiso_gene_7596]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLYCINE--TRNA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3788]]
+*** [[Tiso_gene_14742]]
+*** [[Tiso_gene_14743]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[HISTIDINE--TRNA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12634]]
+*** [[Tiso_gene_8798]]
+*** [[Tiso_gene_13414]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ISOLEUCINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12496]]
+*** [[Tiso_gene_11779]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[LEUCINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11524]]
+*** [[Tiso_gene_15439]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[LYSINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_6705]]
+*** [[Tiso_gene_16635]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[METHIONINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_284]]
+*** [[Tiso_gene_406]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHENYLALANINE--TRNA-LIGASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_16467]]
+*** [[Tiso_gene_16650]]
+*** [[Tiso_gene_1625]]
+*** [[Tiso_gene_4232]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PROLINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11974]]
+*** [[Tiso_gene_14791]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-16165]]
+** 2 associated gene(s):
+*** [[Tiso_gene_284]]
+*** [[Tiso_gene_406]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[SERINE--TRNA-LIGASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_1682]]
+*** [[Tiso_gene_10015]]
+*** [[Tiso_gene_587]]
+*** [[Tiso_gene_1684]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[THREONINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13142]]
+*** [[Tiso_gene_4406]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[TRYPTOPHAN--TRNA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14318]]
+*** [[Tiso_gene_12988]]
+*** [[Tiso_gene_14319]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[TYROSINE--TRNA-LIGASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_10378]]
+*** [[Tiso_gene_4174]]
+*** [[Tiso_gene_12171]]
+*** [[Tiso_gene_4175]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[VALINE--TRNA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1372]]
+*** [[Tiso_gene_8041]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=tRNA charging}}
+{{#set: reaction found=21}}
+{{#set: total reaction=21}}
+{{#set: completion rate=100.0}}

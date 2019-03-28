@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7779 PWY-7779] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** methyl tert-butyl ether degradation
+* Synonym(s):
+** MTBE degradation
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''10''' reactions in the full pathway
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11662]]
+** 7 associated gene(s):
+*** [[Tiso_gene_16703]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_5857]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17602 RXN-17602]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17603 RXN-17603]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17605 RXN-17605]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17606 RXN-17606]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17610 RXN-17610]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17612 RXN-17612]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17613 RXN-17613]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17615 RXN-17615]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=methyl tert-butyl ether degradation}}
+{{#set: common name=MTBE degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=10}}
+{{#set: completion rate=20.0}}

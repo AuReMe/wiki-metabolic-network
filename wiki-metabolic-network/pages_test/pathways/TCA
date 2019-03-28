@@ -1,0 +1,98 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=TCA TCA] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** TCA cycle I (prokaryotic)
+* Synonym(s):
+** tricarboxylic acid cycle
+** citric acid cycle
+** Krebs cycle
+** Szent-Gyorgyi-Krebs cycle
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''10''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[ACONITATEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[CITSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18030]]
+*** [[Tiso_gene_9601]]
+*** [[Tiso_gene_9603]]
+*** [[Tiso_gene_9602]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ISOCITDEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18262]]
+*** [[Tiso_gene_10809]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[SUCCCOASYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15846]]
+*** [[Tiso_gene_11866]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2OXOGLUTARATEDEH-RXN 2OXOGLUTARATEDEH-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALATE-DEHYDROGENASE-ACCEPTOR-RXN MALATE-DEHYDROGENASE-ACCEPTOR-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14971 RXN-14971]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=TCA TCA]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=TCA TCA]
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=TCA cycle I (prokaryotic)}}
+{{#set: common name=tricarboxylic acid cycle|citric acid cycle|Krebs cycle|Szent-Gyorgyi-Krebs cycle}}
+{{#set: reaction found=7}}
+{{#set: total reaction=10}}
+{{#set: completion rate=70.0}}

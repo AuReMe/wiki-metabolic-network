@@ -1,0 +1,72 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACYL-COA-OXIDASE-RXN ACYL-COA-OXIDASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** acyl-coenzyme_a_oxidase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.3.3.6 EC-1.3.3.6]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ACYL-COA]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''=>''' 1 [[HYDROGEN-PEROXIDE]][c] '''+''' 1 [[TRANS-D2-ENOYL-COA]][c]
+* With common name(s):
+** 1 an acyl-CoA[c] '''+''' 1 oxygen[c] '''=>''' 1 hydrogen peroxide[c] '''+''' 1 a trans-2-enoyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18566]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7007]], methyl ketone biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7007 PWY-7007]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* PIR:
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T52121 T52121]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T52120 T52120]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T04418 T04418]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S64224 S64224]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S40722 S40722]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXRTA2 OXRTA2]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXRTA1 OXRTA1]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXCKX5 OXCKX5]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXCKX4 OXCKX4]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXCKX OXCKX]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXCKPM OXCKPM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXCKP2 OXCKP2]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=OXCKAX OXCKAX]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=JC4563 JC4563]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=I38095 I38095]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=B54942 B54942]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A54942 A54942]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00388 R00388]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q15067 Q15067]
+** [http://www.uniprot.org/uniprot/Q00468 Q00468]
+** [http://www.uniprot.org/uniprot/P06598 P06598]
+** [http://www.uniprot.org/uniprot/P11356 P11356]
+** [http://www.uniprot.org/uniprot/P07872 P07872]
+** [http://www.uniprot.org/uniprot/P34355 P34355]
+** [http://www.uniprot.org/uniprot/P13711 P13711]
+** [http://www.uniprot.org/uniprot/O23977 O23977]
+** [http://www.uniprot.org/uniprot/O65201 O65201]
+** [http://www.uniprot.org/uniprot/O65202 O65202]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=acyl-coenzyme_a_oxidase}}
+{{#set: ec number=EC-1.3.3.6}}
+{{#set: gene associated=Tiso_gene_18566}}
+{{#set: in pathway=PWY-7007}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

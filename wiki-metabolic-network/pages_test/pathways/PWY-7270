@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7270 PWY-7270] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-methionine salvage cycle II (plants)
+* Synonym(s):
+** 5'-methylthioadenosine cycle
+** superpathway of L-methionine recycling (plants)
+** MTA cycle
+** Yang cycle
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''7''' reactions in the full pathway
+* [[4.4.1.14-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8455]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PWY-4361]]
+** 0 associated gene:
+* [[PWY-6754]]
+** 0 associated gene:
+* [[SAM-PWY]]
+** 0 associated gene:
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-methionine salvage cycle II (plants)}}
+{{#set: common name=5'-methylthioadenosine cycle|superpathway of L-methionine recycling (plants)|MTA cycle|Yang cycle}}
+{{#set: reaction found=4}}
+{{#set: total reaction=7}}
+{{#set: completion rate=57.0}}

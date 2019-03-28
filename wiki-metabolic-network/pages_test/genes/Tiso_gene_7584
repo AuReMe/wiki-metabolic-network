@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7584 ==
+* right end position:
+** 5610
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1159
+* centisome position:
+** 10.5449915    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5610}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1159}}
+{{#set: centisome position=10.5449915    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

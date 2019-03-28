@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7740 ==
+* right end position:
+** 8387
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6346
+* centisome position:
+** 58.418484    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LIGNOSTILBENE-ALPHA-BETA-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-11989]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11999]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13374]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-698]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7973]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7974]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6681]]
+* [[PWY-695]]
+* [[PWY-6857]]
+== External links  ==
+{{#set: right end position=8387}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6346}}
+{{#set: centisome position=58.418484    }}
+{{#set: reaction associated=LIGNOSTILBENE-ALPHA-BETA-DIOXYGENASE-RXN|RXN-11989|RXN-11999|RXN-13374|RXN-698|RXN-7973|RXN-7974}}
+{{#set: pathway associated=PWY-6681|PWY-695|PWY-6857}}

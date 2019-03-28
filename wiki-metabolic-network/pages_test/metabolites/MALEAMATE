@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALEAMATE MALEAMATE] ==
+* smiles:
+** C(=CC(=O)[O-])C(N)=O
+* common name:
+** maleamate
+* inchi key:
+** InChIKey=FSQQTNAZHBEJLS-UPHRSURJSA-M
+* molecular weight:
+** 114.08    
+* Synonym(s):
+** maleic acid monoamide
+** maleamic acid
+** (Z)-4-amino-4-oxo-but-2-enoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-646]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 557-24-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460391 5460391]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573932.html 4573932]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16146 16146]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01596 C01596]
+{{#set: smiles=C(=CC(=O)[O-])C(N)=O}}
+{{#set: common name=maleamate}}
+{{#set: inchi key=InChIKey=FSQQTNAZHBEJLS-UPHRSURJSA-M}}
+{{#set: molecular weight=114.08    }}
+{{#set: common name=maleic acid monoamide|maleamic acid|(Z)-4-amino-4-oxo-but-2-enoate}}
+{{#set: consumed by=RXN-646}}

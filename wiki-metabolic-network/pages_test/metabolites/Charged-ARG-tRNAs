@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-ARG-tRNAs Charged-ARG-tRNAs] ==
+* common name:
+** an L-arginyl-[tRNAarg]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ARGININE--TRNA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-arginyl-[tRNAarg]}}
+{{#set: produced by=ARGININE--TRNA-LIGASE-RXN}}

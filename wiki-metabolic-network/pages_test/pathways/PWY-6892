@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6892 PWY-6892] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** thiazole biosynthesis I (facultative anaerobic bacteria)
+* Synonym(s):
+** (R,Z)-2-(2-carboxy-4-methylthiazol-5(2H)-ylidene)ethyl phosphate biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[DXS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17311]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN-14382]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14710]]
+*** [[Tiso_gene_11478]]
+*** [[Tiso_gene_4284]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-308]]
+** 3 associated gene(s):
+*** [[Tiso_gene_4284]]
+*** [[Tiso_gene_11478]]
+*** [[Tiso_gene_14710]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11319 RXN-11319]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9788 RXN-9788]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9789 RXN-9789]
+* [http://metacyc.org/META/NEW-IMAGE?object=THIAZOLSYN2-RXN THIAZOLSYN2-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6892 PWY-6892]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=thiazole biosynthesis I (facultative anaerobic bacteria)}}
+{{#set: common name=(R,Z)-2-(2-carboxy-4-methylthiazol-5(2H)-ylidene)ethyl phosphate biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

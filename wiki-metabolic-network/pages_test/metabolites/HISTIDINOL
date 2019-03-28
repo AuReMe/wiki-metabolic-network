@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HISTIDINOL HISTIDINOL] ==
+* smiles:
+** C1(NC=NC=1CC(CO)[N+])
+* common name:
+** histidinol
+* inchi key:
+** InChIKey=ZQISRDCJNBUVMM-YFKPBYRVSA-O
+* molecular weight:
+** 142.18    
+* Synonym(s):
+** histidol
+** L-histidinol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8001]]
+== Reaction(s) known to produce the compound ==
+* [[HISTIDPHOS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[HISTOLDEHYD-RXN]]
+== External links  ==
+* CAS : 501-28-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6950298 6950298]
+* KNAPSACK : C00007479
+* HMDB : HMDB03431
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00860 C00860]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57699 57699]
+* BIGG : histd
+{{#set: smiles=C1(NC=NC=1CC(CO)[N+])}}
+{{#set: common name=histidinol}}
+{{#set: inchi key=InChIKey=ZQISRDCJNBUVMM-YFKPBYRVSA-O}}
+{{#set: molecular weight=142.18    }}
+{{#set: common name=histidol|L-histidinol}}
+{{#set: consumed by=RXN-8001}}
+{{#set: produced by=HISTIDPHOS-RXN}}
+{{#set: reversible reaction associated=HISTOLDEHYD-RXN}}

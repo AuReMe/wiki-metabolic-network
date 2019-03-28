@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4468 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PANTETHEINE-KINASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PANTOTHENATE-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PANTO-PWY]]
+* [[PWY-3961]]
+* [[COA-PWY-1]]
+== External links  ==
+{{#set: reaction associated=PANTETHEINE-KINASE-RXN|PANTOTHENATE-KIN-RXN}}
+{{#set: pathway associated=PANTO-PWY|PWY-3961|COA-PWY-1}}

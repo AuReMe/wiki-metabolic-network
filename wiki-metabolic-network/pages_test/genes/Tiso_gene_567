@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_567 ==
+* right end position:
+** 14178
+* transcription direction:
+** POSITIVE
+* left end position:
+** 12224
+* centisome position:
+** 38.84581    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14178}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=12224}}
+{{#set: centisome position=38.84581    }}
+{{#set: reaction associated=ATPASE-RXN}}

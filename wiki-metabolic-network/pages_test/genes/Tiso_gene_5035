@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5035 ==
+* right end position:
+** 13522
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10277
+* centisome position:
+** 73.506905    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.99.1.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=13522}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10277}}
+{{#set: centisome position=73.506905    }}
+{{#set: reaction associated=5.99.1.2-RXN}}

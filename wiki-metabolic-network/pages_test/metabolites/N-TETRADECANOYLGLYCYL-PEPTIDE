@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-TETRADECANOYLGLYCYL-PEPTIDE N-TETRADECANOYLGLYCYL-PEPTIDE] ==
+* smiles:
+** CCCCCCCCCCCCCC(=O)C(N)C(=O)NC([R])C(=O)O
+* common name:
+** N-tetradecanoylglycyl-peptide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.97-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03881 C03881]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17739 17739]
+{{#set: smiles=CCCCCCCCCCCCCC(=O)C(N)C(=O)NC([R])C(=O)O}}
+{{#set: common name=N-tetradecanoylglycyl-peptide}}
+{{#set: reversible reaction associated=2.3.1.97-RXN}}

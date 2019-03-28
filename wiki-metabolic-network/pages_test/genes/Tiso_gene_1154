@@ -1,0 +1,62 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1154 ==
+* right end position:
+** 8866
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3416
+* centisome position:
+** 11.792730    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMATE-SYNTHASE-FERREDOXIN-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GLUTAMATE-SYNTHASE-NADH-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[GLUTAMATESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GLUTAMIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GLUTDEHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12878]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLUTAMINEFUM-PWY]]
+* [[GLUTAMINDEG-PWY]]
+* [[PWY-5913]]
+* [[PWY490-3]]
+* [[GLUTSYN-PWY]]
+* [[PWY-4341]]
+* [[PWY-5675]]
+* [[PWY-6549]]
+* [[PWY-6964]]
+* [[GLUGLNSYN-PWY]]
+* [[GLUTSYNIII-PWY]]
+* [[CITRULBIO-PWY]]
+* [[PWY-6963]]
+== External links  ==
+{{#set: right end position=8866}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3416}}
+{{#set: centisome position=11.792730    }}
+{{#set: reaction associated=GLUTAMATE-SYNTHASE-FERREDOXIN-RXN|GLUTAMATE-SYNTHASE-NADH-RXN|GLUTAMATESYN-RXN|GLUTAMIN-RXN|GLUTDEHYD-RXN|RXN-12878}}
+{{#set: pathway associated=GLUTAMINEFUM-PWY|GLUTAMINDEG-PWY|PWY-5913|PWY490-3|GLUTSYN-PWY|PWY-4341|PWY-5675|PWY-6549|PWY-6964|GLUGLNSYN-PWY|GLUTSYNIII-PWY|CITRULBIO-PWY|PWY-6963}}

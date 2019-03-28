@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SHIKIMATE SHIKIMATE] ==
+* smiles:
+** C1(=C(CC(C(O)C(O)1)O)C(=O)[O-])
+* common name:
+** shikimate
+* inchi key:
+** InChIKey=JXOHGGNKMLTUBP-HSUXUTPPSA-M
+* molecular weight:
+** 173.145    
+* Synonym(s):
+** shikimic acid
+** (3R,4S,5R)--3,4,5-trihydroxycyclohex-1-ene-1-carboxylate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7968]]
+== Reaction(s) known to produce the compound ==
+* [[SHIKIMATE-5-DEHYDROGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[SHIKIMATE-KINASE-RXN]]
+== External links  ==
+* CAS : 138-59-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7057976 7057976]
+* HMDB : HMDB03070
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00493 C00493]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5414360.html 5414360]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=36208 36208]
+* BIGG : skm
+{{#set: smiles=C1(=C(CC(C(O)C(O)1)O)C(=O)[O-])}}
+{{#set: common name=shikimate}}
+{{#set: inchi key=InChIKey=JXOHGGNKMLTUBP-HSUXUTPPSA-M}}
+{{#set: molecular weight=173.145    }}
+{{#set: common name=shikimic acid|(3R,4S,5R)--3,4,5-trihydroxycyclohex-1-ene-1-carboxylate}}
+{{#set: consumed by=RXN-7968}}
+{{#set: produced by=SHIKIMATE-5-DEHYDROGENASE-RXN}}
+{{#set: reversible reaction associated=SHIKIMATE-KINASE-RXN}}

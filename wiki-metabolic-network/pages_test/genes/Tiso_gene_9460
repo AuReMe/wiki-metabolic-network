@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9460 ==
+* right end position:
+** 9279
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6601
+* centisome position:
+** 70.7351    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.6.3.50-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=9279}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6601}}
+{{#set: centisome position=70.7351    }}
+{{#set: reaction associated=3.6.3.50-RXN|ATPASE-RXN|ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

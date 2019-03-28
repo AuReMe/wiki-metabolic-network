@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10914 ==
+* right end position:
+** 5243
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4634
+* centisome position:
+** 56.49153    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5243}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4634}}
+{{#set: centisome position=56.49153    }}
+{{#set: reaction associated=RNA-DIRECTED-DNA-POLYMERASE-RXN}}

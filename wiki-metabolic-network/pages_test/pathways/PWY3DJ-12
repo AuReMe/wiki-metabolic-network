@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY3DJ-12 PWY3DJ-12] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** ceramide de novo biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[3-DEHYDROSPHINGANINE-REDUCTASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18518]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[RXN-16332]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN3DJ-118]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[SERINE-C-PALMITOYLTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10992]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=ceramide de novo biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

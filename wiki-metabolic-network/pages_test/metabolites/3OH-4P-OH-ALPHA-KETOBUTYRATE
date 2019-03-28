@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3OH-4P-OH-ALPHA-KETOBUTYRATE 3OH-4P-OH-ALPHA-KETOBUTYRATE] ==
+* smiles:
+** C(C(C(C([O-])=O)=O)O)OP([O-])(=O)[O-]
+* common name:
+** (3R)-3-hydroxy-2-oxo-4 phosphonooxybutanoate
+* inchi key:
+** InChIKey=MZJFVXDTNBHTKZ-UWTATZPHSA-K
+* molecular weight:
+** 211.045    
+* Synonym(s):
+** 3-hydroxy-4-phospho-hydroxy-&alpha;-ketobutyrate
+** 2-oxo-3-hydroxy-4-phosphobutanoate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PSERTRANSAMPYR-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06054 C06054]
+* HMDB : HMDB06801
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58538 58538]
+* BIGG : ohpb
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266680 45266680]
+{{#set: smiles=C(C(C(C([O-])=O)=O)O)OP([O-])(=O)[O-]}}
+{{#set: common name=(3R)-3-hydroxy-2-oxo-4 phosphonooxybutanoate}}
+{{#set: inchi key=InChIKey=MZJFVXDTNBHTKZ-UWTATZPHSA-K}}
+{{#set: molecular weight=211.045    }}
+{{#set: common name=3-hydroxy-4-phospho-hydroxy-&alpha;-ketobutyrate|2-oxo-3-hydroxy-4-phosphobutanoate}}
+{{#set: reversible reaction associated=PSERTRANSAMPYR-RXN}}

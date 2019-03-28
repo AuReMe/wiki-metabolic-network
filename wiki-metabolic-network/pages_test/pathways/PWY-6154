@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6154 PWY-6154] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-135623 TAX-135623]
+* common name:
+** autoinducer AI-2 biosynthesis II (Vibrio)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14191]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-7605]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RIBOSYLHOMOCYSTEINASE-RXN RIBOSYLHOMOCYSTEINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10016 RXN-10016]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10018 RXN-10018]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10019 RXN-10019]
+== External links  ==
+{{#set: taxonomic range=TAX-135623}}
+{{#set: common name=autoinducer AI-2 biosynthesis II (Vibrio)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

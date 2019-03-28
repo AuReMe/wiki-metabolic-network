@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-BETA-HYDROXYANDROST-5-EN-17-ONE 3-BETA-HYDROXYANDROST-5-EN-17-ONE] ==
+* smiles:
+** CC24(CCC(O)CC(=CC[CH]1([CH]3(CCC(=O)C(CC[CH]12)(C)3)))4)
+* common name:
+** 3-&beta;-hydroxyandrost-5-en-17-one
+* inchi key:
+** InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N
+* molecular weight:
+** 288.429    
+* Synonym(s):
+** dehydroepiandrosterone
+** dehydroisoandrosterone
+** DHA
+** DHEA
+** androst-5-en-17-one, 3-hydroxy-, (3&beta;)-
+** androstenolone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-342]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST02020021
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5881 5881]
+* CAS : 53-43-0
+* DRUGBANK : DB01708
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=9896 9896]
+* HMDB : HMDB00077
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01227 C01227]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5670.html 5670]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28689 28689]
+* METABOLIGHTS : MTBLC28689
+{{#set: smiles=CC24(CCC(O)CC(=CC[CH]1([CH]3(CCC(=O)C(CC[CH]12)(C)3)))4)}}
+{{#set: common name=3-&beta;-hydroxyandrost-5-en-17-one}}
+{{#set: inchi key=InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N}}
+{{#set: molecular weight=288.429    }}
+{{#set: common name=dehydroepiandrosterone|dehydroisoandrosterone|DHA|DHEA|androst-5-en-17-one, 3-hydroxy-, (3&beta;)-|androstenolone}}
+{{#set: consumed by=RXN66-342}}

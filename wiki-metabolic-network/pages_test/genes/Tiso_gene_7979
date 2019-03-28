@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7979 ==
+* right end position:
+** 3675
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 232
+* centisome position:
+** 2.1786082    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3675}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=232}}
+{{#set: centisome position=2.1786082    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN}}

@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=H2Otx H2Otx] ==
+* direction:
+** REVERSIBLE
+* common name:
+** H2O transport, peroxisomal
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][c] '''<=>''' 1.0 [[WATER]][x]
+* With common name(s):
+** 1.0 H2O[c] '''<=>''' 1.0 H2O[x]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11818]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=H2O transport, peroxisomal}}
+{{#set: gene associated=Tiso_gene_11818}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

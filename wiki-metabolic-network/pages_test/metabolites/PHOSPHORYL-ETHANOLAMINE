@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHORYL-ETHANOLAMINE PHOSPHORYL-ETHANOLAMINE] ==
+* smiles:
+** C(C[N+])OP([O-])([O-])=O
+* common name:
+** O-phosphoethanolamine
+* inchi key:
+** InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
+* molecular weight:
+** 140.055    
+* Synonym(s):
+** phosphoryl-ethanolamine
+** O-phosphorylethanolamine
+** phosphoethanolamine
+** ethanolamine phosphate
+** 2-aminoethyl phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[2.7.7.14-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN]]
+* [[SGPL11]]
+* [[RXN3DJ-11230]]
+* [[RXN-13729]]
+* [[ETHANOLAMINE-KINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ETHANOLAMINE-PHOSPHATE-PHOSPHO-LYASE-RXN]]
+== External links  ==
+* CAS : 1071-23-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7059434 7059434]
+* HMDB : HMDB00224
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00346 C00346]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5415641.html 5415641]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58190 58190]
+* METABOLIGHTS : MTBLC58190
+{{#set: smiles=C(C[N+])OP([O-])([O-])=O}}
+{{#set: common name=O-phosphoethanolamine}}
+{{#set: inchi key=InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M}}
+{{#set: molecular weight=140.055    }}
+{{#set: common name=phosphoryl-ethanolamine|O-phosphorylethanolamine|phosphoethanolamine|ethanolamine phosphate|2-aminoethyl phosphate}}
+{{#set: consumed by=2.7.7.14-RXN}}
+{{#set: produced by=SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN|SGPL11|RXN3DJ-11230|RXN-13729|ETHANOLAMINE-KINASE-RXN}}
+{{#set: reversible reaction associated=ETHANOLAMINE-PHOSPHATE-PHOSPHO-LYASE-RXN}}

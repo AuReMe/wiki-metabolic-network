@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13868 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-5286]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5526]]
+* [[PWY-7758]]
+* [[PWY-7759]]
+* [[PWY-5064]]
+* [[PWY-5086]]
+* [[PWY-7760]]
+== External links  ==
+{{#set: reaction associated=RXN-5286}}
+{{#set: pathway associated=PWY-5526|PWY-7758|PWY-7759|PWY-5064|PWY-5086|PWY-7760}}

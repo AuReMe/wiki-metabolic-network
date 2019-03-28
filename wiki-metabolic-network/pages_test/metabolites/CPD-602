@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-602 CPD-602] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)NC2(=C(N)C(=O)NC(=O)N2))
+* common name:
+** 5-amino-6-(5-phospho-D-ribosylamino)uracil
+* inchi key:
+** InChIKey=LZEXYCAGPMYXLX-UMMCILCDSA-L
+* molecular weight:
+** 352.197    
+* Synonym(s):
+** 5-amino-6-(ribosylamino)-2,4-(1H,3H)-pyrimidinedione 5'-phosphate
+** 5-amino-6-(5'-phosphoribosylamino)uracil
+
+== Reaction(s) known to consume the compound ==
+* [[RIBOFLAVINSYNREDUC-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RIBOFLAVINSYNDEAM-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245199 25245199]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58453 58453]
+* BIGG : 5apru
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01268 C01268]
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)NC2(=C(N)C(=O)NC(=O)N2))}}
+{{#set: common name=5-amino-6-(5-phospho-D-ribosylamino)uracil}}
+{{#set: inchi key=InChIKey=LZEXYCAGPMYXLX-UMMCILCDSA-L}}
+{{#set: molecular weight=352.197    }}
+{{#set: common name=5-amino-6-(ribosylamino)-2,4-(1H,3H)-pyrimidinedione 5'-phosphate|5-amino-6-(5'-phosphoribosylamino)uracil}}
+{{#set: consumed by=RIBOFLAVINSYNREDUC-RXN}}
+{{#set: produced by=RIBOFLAVINSYNDEAM-RXN}}

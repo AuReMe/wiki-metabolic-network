@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-hydroxy-cis-D9-hexaecenoyl-ACPs 3-hydroxy-cis-D9-hexaecenoyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxy cis &Delta;9-hexadecenoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10660]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10659]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxy cis &Delta;9-hexadecenoyl-[acp]}}
+{{#set: consumed by=RXN-10660}}
+{{#set: produced by=RXN-10659}}

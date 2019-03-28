@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Cis-Delta7-tetradecenoyl-ACPs Cis-Delta7-tetradecenoyl-ACPs] ==
+* common name:
+** a cis-&Delta;7-tetradecenoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10658]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10657]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis-&Delta;7-tetradecenoyl-[acp]}}
+{{#set: consumed by=RXN-10658}}
+{{#set: produced by=RXN-10657}}

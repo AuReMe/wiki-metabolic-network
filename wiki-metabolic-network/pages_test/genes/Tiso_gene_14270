@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14270 ==
+* right end position:
+** 5183
+* transcription direction:
+** POSITIVE
+* left end position:
+** 50
+* centisome position:
+** 0.8697165    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[XYLULOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[DARABITOLUTIL-PWY]]
+* [[LARABITOLUTIL-PWY]]
+* [[XYLCAT-PWY]]
+== External links  ==
+{{#set: right end position=5183}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=50}}
+{{#set: centisome position=0.8697165    }}
+{{#set: reaction associated=XYLULOKIN-RXN}}
+{{#set: pathway associated=DARABITOLUTIL-PWY|LARABITOLUTIL-PWY|XYLCAT-PWY}}

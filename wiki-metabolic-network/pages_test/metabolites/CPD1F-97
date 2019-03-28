@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-97 CPD1F-97] ==
+* smiles:
+** C=C1(C2(CC3(C1)(C([CH]4(C(C)(CCCC(CO)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))
+* common name:
+** gibberellin A15 (open lactone form)
+* inchi key:
+** InChIKey=TZGXVFYTKTWKCU-CXXOJBQZSA-L
+* molecular weight:
+** 346.422    
+* Synonym(s):
+** gibberellin A15
+** GA15
+** GA15 (open lactone form)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-163]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-162]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104170017
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245948 25245948]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29590 29590]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11860 C11860]
+{{#set: smiles=C=C1(C2(CC3(C1)(C([CH]4(C(C)(CCCC(CO)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))}}
+{{#set: common name=gibberellin A15 (open lactone form)}}
+{{#set: inchi key=InChIKey=TZGXVFYTKTWKCU-CXXOJBQZSA-L}}
+{{#set: molecular weight=346.422    }}
+{{#set: common name=gibberellin A15|GA15|GA15 (open lactone form)}}
+{{#set: consumed by=RXN1F-163}}
+{{#set: produced by=RXN1F-162}}

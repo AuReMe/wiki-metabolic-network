@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6736 ==
+* right end position:
+** 11812
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9056
+* centisome position:
+** 76.15203    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LIPIDADISACCHARIDESYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[NAGLIPASYN-PWY]]
+== External links  ==
+{{#set: right end position=11812}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9056}}
+{{#set: centisome position=76.15203    }}
+{{#set: reaction associated=LIPIDADISACCHARIDESYNTH-RXN}}
+{{#set: pathway associated=NAGLIPASYN-PWY}}

@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Methyl-Jasmonates Methyl-Jasmonates] ==
+* common name:
+** a methyl jasmonate
+* Synonym(s):
+** a jasmonic acid methyl ester
+** a jasmonate methyl ester
+** an MeJA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10767]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a methyl jasmonate}}
+{{#set: common name=a jasmonic acid methyl ester|a jasmonate methyl ester|an MeJA}}
+{{#set: consumed by=RXN-10767}}

@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6134 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ORNITHINE-GLU-AMINOTRANSFORASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLYSYN-ALA-PWY]]
+== External links  ==
+{{#set: reaction associated=ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN|ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN|ORNITHINE-GLU-AMINOTRANSFORASE-RXN}}
+{{#set: pathway associated=GLYSYN-ALA-PWY}}

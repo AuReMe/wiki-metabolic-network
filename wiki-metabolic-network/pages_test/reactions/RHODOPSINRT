@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RHODOPSINRT RHODOPSINRT] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** rhodopsin retinyltransferase (spontaneous)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2.0 [[PROTON]][s] '''+''' 1.0 [[CPD-881]][s] '''=>''' 1.0 [[Rhodopsins]][s] '''+''' 1.0 [[WATER]][s]
+* With common name(s):
+** 2.0 H+[s] '''+''' 1.0 11-cis-retinal[s] '''=>''' 1.0 a rhodopsin[s] '''+''' 1.0 H2O[s]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16143]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=rhodopsin retinyltransferase (spontaneous)}}
+{{#set: gene associated=Tiso_gene_16143}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

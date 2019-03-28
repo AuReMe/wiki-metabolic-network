@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=URATEt URATEt] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Urate permease
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[URATE]][e] '''+''' 1.0 [[PROTON]][e] '''<=>''' 1.0 [[PROTON]][c] '''+''' 1.0 [[URATE]][c]
+* With common name(s):
+** 1.0 urate[e] '''+''' 1.0 H+[e] '''<=>''' 1.0 H+[c] '''+''' 1.0 urate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18433]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Urate permease}}
+{{#set: gene associated=Tiso_gene_18433}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

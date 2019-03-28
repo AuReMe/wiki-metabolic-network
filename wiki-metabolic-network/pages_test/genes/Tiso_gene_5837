@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5837 ==
+* right end position:
+** 1417
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4
+* centisome position:
+** 3.107037500e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATAM]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATAMm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATDAM]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DEOXYADENYLATE-KINASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7219]]
+* [[PWY-7224]]
+== External links  ==
+{{#set: right end position=1417}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4}}
+{{#set: centisome position=3.107037500e-2}}
+{{#set: reaction associated=ADENYL-KIN-RXN|ATAM|ATAMm|ATDAM|DEOXYADENYLATE-KINASE-RXN}}
+{{#set: pathway associated=PWY-7219|PWY-7224}}

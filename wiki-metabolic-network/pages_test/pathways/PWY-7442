@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7442 PWY-7442] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7215 TAX-7215]
+* common name:
+** drosopterin and aurodrosopterin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[GTP-CYCLOHYDRO-I-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12736]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-15261]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12280]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.5.4.1-RXN 1.5.4.1-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=4.2.3.12-RXN 4.2.3.12-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15260 RXN-15260]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15262 RXN-15262]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15263 RXN-15263]
+== External links  ==
+{{#set: taxonomic range=TAX-7215}}
+{{#set: common name=drosopterin and aurodrosopterin biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

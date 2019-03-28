@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-16819 CPD-16819] ==
+* smiles:
+** CC1(C=CC(=CC=1)OS(=O)(=O)[O-])
+* common name:
+** 4-methylphenyl sulfate
+* inchi key:
+** InChIKey=WGNAKZGUSRVWRH-UHFFFAOYSA-M
+* molecular weight:
+** 187.19    
+* Synonym(s):
+** p-cresol sulfate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15588]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4615422 4615422]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3806481.html 3806481]
+* HMDB : HMDB11635
+{{#set: smiles=CC1(C=CC(=CC=1)OS(=O)(=O)[O-])}}
+{{#set: common name=4-methylphenyl sulfate}}
+{{#set: inchi key=InChIKey=WGNAKZGUSRVWRH-UHFFFAOYSA-M}}
+{{#set: molecular weight=187.19    }}
+{{#set: common name=p-cresol sulfate}}
+{{#set: reversible reaction associated=RXN-15588}}

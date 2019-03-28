@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CDPDIACYLGLYCEROL CDPDIACYLGLYCEROL] ==
+* common name:
+** a CDP-diacylglycerol
+* Synonym(s):
+** CDP-diglyceride
+** CDP-1,2-diglyceride
+** CDP-1,2-diacylglycerol
+
+== Reaction(s) known to consume the compound ==
+* [[PHOSPHAGLYPSYN-RXN]]
+* [[2.7.8.24-RXN]]
+* [[2.7.8.11-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[CDPDIGLYSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a CDP-diacylglycerol}}
+{{#set: common name=CDP-diglyceride|CDP-1,2-diglyceride|CDP-1,2-diacylglycerol}}
+{{#set: consumed by=PHOSPHAGLYPSYN-RXN|2.7.8.24-RXN|2.7.8.11-RXN}}
+{{#set: produced by=CDPDIGLYSYN-RXN}}

@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3898 ==
+* right end position:
+** 7408
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6014
+* centisome position:
+** 37.8954    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.26.5-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-6480]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY0-1479]]
+== External links  ==
+{{#set: right end position=7408}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6014}}
+{{#set: centisome position=37.8954    }}
+{{#set: reaction associated=3.1.26.5-RXN|RXN0-6480}}
+{{#set: pathway associated=PWY0-1479}}

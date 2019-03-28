@@ -1,0 +1,57 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6124 PWY-6124] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** inosine-5'-phosphate biosynthesis II
+* Synonym(s):
+** IMP biosynthesis II
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[AICARSYN-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[AICARTRANSFORM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18420]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[AIRCARBOXY-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16011]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[IMPCYCLOHYDROLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18420]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[SAICARSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20436]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=inosine-5'-phosphate biosynthesis II}}
+{{#set: common name=IMP biosynthesis II}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

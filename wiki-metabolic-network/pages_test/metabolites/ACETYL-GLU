@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACETYL-GLU ACETYL-GLU] ==
+* smiles:
+** CC(=O)NC(C([O-])=O)CCC(=O)[O-]
+* common name:
+** N-acetyl-L-glutamate
+* inchi key:
+** InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L
+* molecular weight:
+** 187.152    
+* Synonym(s):
+** N-acetyl-L-glutamic acid
+** acetyl-L-glu
+** acetyl-L-glutamate
+** NAG
+
+== Reaction(s) known to consume the compound ==
+* [[AGK]]
+== Reaction(s) known to produce the compound ==
+* [[GLUTAMATE-N-ACETYLTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[N-ACETYLTRANSFER-RXN]]
+* [[ACETYLGLUTKIN-RXN]]
+== External links  ==
+* CAS : 1188-37-0
+* BIGG : acglu
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1549099 1549099]
+* HMDB : HMDB01138
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00624 C00624]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1266066.html 1266066]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=44337 44337]
+* METABOLIGHTS : MTBLC44337
+{{#set: smiles=CC(=O)NC(C([O-])=O)CCC(=O)[O-]}}
+{{#set: common name=N-acetyl-L-glutamate}}
+{{#set: inchi key=InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L}}
+{{#set: molecular weight=187.152    }}
+{{#set: common name=N-acetyl-L-glutamic acid|acetyl-L-glu|acetyl-L-glutamate|NAG}}
+{{#set: consumed by=AGK}}
+{{#set: produced by=GLUTAMATE-N-ACETYLTRANSFERASE-RXN}}
+{{#set: reversible reaction associated=N-ACETYLTRANSFER-RXN|ACETYLGLUTKIN-RXN}}

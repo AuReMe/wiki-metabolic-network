@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Cyclic-Phosphate-Terminated-RNAs Cyclic-Phosphate-Terminated-RNAs] ==
+* common name:
+** an [RNA]-3'-(2',3'-cyclophospho)-ribunucleoside
+* Synonym(s):
+** a 2',3'-cyclic-phosphate-terminated RNA
+** an RNA terminal-2',3'-cyclic-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RNA-3-PHOSPHATE-CYCLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an [RNA]-3'-(2',3'-cyclophospho)-ribunucleoside}}
+{{#set: common name=a 2',3'-cyclic-phosphate-terminated RNA|an RNA terminal-2',3'-cyclic-phosphate}}
+{{#set: produced by=RNA-3-PHOSPHATE-CYCLASE-RXN}}

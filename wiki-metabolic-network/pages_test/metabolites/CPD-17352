@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17352 CPD-17352] ==
+* smiles:
+** CCC=CCC=CCC=CCCCCCCCCCC(=O)[a glycerolipid]
+* common name:
+** a [glycerolipid]-(11Z,14Z,17Z)-icosatrienoate
+* Synonym(s):
+** (11Z,14Z,17Z)-icosatrienoyl-lipid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16101]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16100]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: smiles=CCC=CCC=CCC=CCCCCCCCCCC(=O)[a glycerolipid]}}
+{{#set: common name=a [glycerolipid]-(11Z,14Z,17Z)-icosatrienoate}}
+{{#set: common name=(11Z,14Z,17Z)-icosatrienoyl-lipid}}
+{{#set: consumed by=RXN-16101}}
+{{#set: produced by=RXN-16100}}

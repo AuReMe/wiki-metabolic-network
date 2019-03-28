@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10315 ==
+* right end position:
+** 7874
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5326
+* centisome position:
+** 49.30112    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7874}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5326}}
+{{#set: centisome position=49.30112    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN}}

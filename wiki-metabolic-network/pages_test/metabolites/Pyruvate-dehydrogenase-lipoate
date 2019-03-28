@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Pyruvate-dehydrogenase-lipoate Pyruvate-dehydrogenase-lipoate] ==
+* common name:
+** a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12508]]
+* [[RXN0-1134]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-1132]]
+* [[RXN-14957]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine}}
+{{#set: consumed by=RXN-12508|RXN0-1134}}
+{{#set: produced by=RXN0-1132|RXN-14957}}

@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7064 CPD-7064] ==
+* smiles:
+** CCC1(C(C)=C(NC=1CC4(=C(C)C5(C(=O)[C-](C(OC)=O)C(=C2(C(CCC(=O)[O-])C(C)C(=N2)CC3(C(C)=C(C=C)C(=O)N3)))C(N4)=5)))C=O)
+* common name:
+** primary fluorescent chlorophyll catabolite
+* inchi key:
+** InChIKey=VHQSFNUIHPNTMW-LRYVNUGJSA-M
+* molecular weight:
+** 626.708    
+* Synonym(s):
+** pFCC
+** (82R,12S,13S)-12-(2-carboxyethyl)-3-ethyl-1-formyl-82-(methoxycarbonyl)-2,7,13,17-tetramethyl-18-vinyl-12,13-dihydro-8,10-ethanobilene-b-81,19(16H)-dione
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7741]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91819909 91819909]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58719 58719]
+{{#set: smiles=CCC1(C(C)=C(NC=1CC4(=C(C)C5(C(=O)[C-](C(OC)=O)C(=C2(C(CCC(=O)[O-])C(C)C(=N2)CC3(C(C)=C(C=C)C(=O)N3)))C(N4)=5)))C=O)}}
+{{#set: common name=primary fluorescent chlorophyll catabolite}}
+{{#set: inchi key=InChIKey=VHQSFNUIHPNTMW-LRYVNUGJSA-M}}
+{{#set: molecular weight=626.708    }}
+{{#set: common name=pFCC|(82R,12S,13S)-12-(2-carboxyethyl)-3-ethyl-1-formyl-82-(methoxycarbonyl)-2,7,13,17-tetramethyl-18-vinyl-12,13-dihydro-8,10-ethanobilene-b-81,19(16H)-dione}}
+{{#set: produced by=RXN-7741}}

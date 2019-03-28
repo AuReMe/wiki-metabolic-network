@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=G5-pppR-mRNAs G5-pppR-mRNAs] ==
+* common name:
+** a 5'-(5'-triphosphoguanosine)-purine-[mRNA]
+* Synonym(s):
+** a G(5')ppPur-mRNA
+** G(5')-ppp-R-[mRNA]
+** G5'ppp5'R-[mRNA]
+** a 5'-guanylated [mRNA]
+
+== Reaction(s) known to consume the compound ==
+* [[MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[MRNA-GUANYLYLTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 5'-(5'-triphosphoguanosine)-purine-[mRNA]}}
+{{#set: common name=a G(5')ppPur-mRNA|G(5')-ppp-R-[mRNA]|G5'ppp5'R-[mRNA]|a 5'-guanylated [mRNA]}}
+{{#set: consumed by=MRNA-GUANINE-N7--METHYLTRANSFERASE-RXN}}
+{{#set: produced by=MRNA-GUANYLYLTRANSFERASE-RXN}}

@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=XYLCAT-PWY XYLCAT-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** xylose degradation I
+* Synonym(s):
+** xylose catabolism
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[XYLULOKIN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_15823]]
+*** [[Tiso_gene_15822]]
+*** [[Tiso_gene_14270]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=XYLISOM-RXN XYLISOM-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=XYLCAT-PWY XYLCAT-PWY]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=xylose degradation I}}
+{{#set: common name=xylose catabolism}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

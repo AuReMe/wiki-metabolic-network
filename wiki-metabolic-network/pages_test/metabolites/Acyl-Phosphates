@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Acyl-Phosphates Acyl-Phosphates] ==
+* common name:
+** an acyl phosphate
+* Synonym(s):
+** acyl phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[ACYLPHOSPHATASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an acyl phosphate}}
+{{#set: common name=acyl phosphate}}
+{{#set: consumed by=ACYLPHOSPHATASE-RXN}}

@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8026 RXN-8026] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+** CrtZ
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[CPD-7409]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[CPD1F-130]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[NAD]][c]
+* With common name(s):
+** 1 oxygen[c] '''+''' 1 NADH[c] '''+''' 1 &beta;-cryptoxanthin[c] '''+''' 1 H+[c] '''=>''' 1 zeaxanthin[c] '''+''' 1 H2O[c] '''+''' 1 NAD+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10837]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-5288]], astaxanthin biosynthesis (bacteria, fungi, algae): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5288 PWY-5288]
+** '''2''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-5944]], zeaxanthin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5944 PWY-5944]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-7638]], echinenone and zeaxanthin biosynthesis (Synechocystis): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7638 PWY-7638]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30330 30330]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07559 R07559]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=CrtZ}}
+{{#set: gene associated=Tiso_gene_10837}}
+{{#set: in pathway=PWY-5288|PWY-5944|PWY-7638}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

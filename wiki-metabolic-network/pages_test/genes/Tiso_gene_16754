@@ -1,0 +1,41 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16754 ==
+* right end position:
+** 3853
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2657
+* centisome position:
+** 64.14775    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3PGAREARR-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-1042]]
+* [[P341-PWY]]
+* [[PWY-2221]]
+* [[GLUCONEO-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[PWY-7218]]
+* [[P124-PWY]]
+* [[PWY-6886]]
+* [[PWY-5723]]
+* [[PWY-6142]]
+* [[PWY-5484]]
+* [[PWY-7124]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=3853}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2657}}
+{{#set: centisome position=64.14775    }}
+{{#set: reaction associated=3PGAREARR-RXN}}
+{{#set: pathway associated=PWY-1042|P341-PWY|PWY-2221|GLUCONEO-PWY|GLYCOLYSIS|PWY-6901|PWY-7218|P124-PWY|PWY-6886|PWY-5723|PWY-6142|PWY-5484|PWY-7124|PWY-7003}}

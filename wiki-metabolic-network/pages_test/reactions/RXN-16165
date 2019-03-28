@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16165 RXN-16165] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** methionyl-trna_synthetase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.10 EC-6.1.1.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[MET]][c] '''+''' 1 [[Initiation-tRNAmet]][c] '''=>''' 1 [[AMP]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[L-methionyl-tRNAfmet]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 L-methionine[c] '''+''' 1 initiator tRNAmet[c] '''=>''' 1 AMP[c] '''+''' 1 diphosphate[c] '''+''' 1 an L-methionyl-[initiator tRNAmet][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_284]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_406]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=methionyl-trna_synthetase}}
+{{#set: ec number=EC-6.1.1.10}}
+{{#set: gene associated=Tiso_gene_284|Tiso_gene_406}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4788 ==
+* right end position:
+** 2666
+* transcription direction:
+** POSITIVE
+* left end position:
+** 71
+* centisome position:
+** 0.49657294    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.113-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2666}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=71}}
+{{#set: centisome position=0.49657294    }}
+{{#set: reaction associated=3.2.1.113-RXN}}

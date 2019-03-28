@@ -1,0 +1,89 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6475 ==
+* right end position:
+** 2698
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 550
+* centisome position:
+** 4.5111547    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYLCOADEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11734]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14131]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14193]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14229]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14262]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14264]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14278]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16540]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16557]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17775]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17779]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17783]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17784]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17788]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17792]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17796]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7094]]
+* [[PWY-7654]]
+* [[FAO-PWY]]
+* [[PWY-7656]]
+== External links  ==
+{{#set: right end position=2698}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=550}}
+{{#set: centisome position=4.5111547    }}
+{{#set: reaction associated=ACYLCOADEHYDROG-RXN|LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN|LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN|RXN-11734|RXN-13451|RXN-13615|RXN-14131|RXN-14193|RXN-14229|RXN-14262|RXN-14264|RXN-14278|RXN-16540|RXN-16557|RXN-17775|RXN-17779|RXN-17783|RXN-17784|RXN-17788|RXN-17792|RXN-17796}}
+{{#set: pathway associated=PWY-7094|PWY-7654|FAO-PWY|PWY-7656}}

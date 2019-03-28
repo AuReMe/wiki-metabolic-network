@@ -1,0 +1,44 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12200 ==
+* right end position:
+** 4113
+* transcription direction:
+** POSITIVE
+* left end position:
+** 327
+* centisome position:
+** 4.526578    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.39-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[MALIC-NADP-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[OXALODECARB-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-3641]]
+* [[GLUCONEO-PWY]]
+* [[PWY-7384]]
+* [[P184-PWY]]
+* [[METHYLGALLATE-DEGRADATION-PWY]]
+* [[PWY-7686]]
+* [[PWY-7117]]
+* [[PWY-7115]]
+* [[PWY-7118]]
+* [[PWY-241]]
+* [[PWY-6339]]
+== External links  ==
+{{#set: right end position=4113}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=327}}
+{{#set: centisome position=4.526578    }}
+{{#set: reaction associated=1.1.1.39-RXN|MALIC-NADP-RXN|OXALODECARB-RXN}}
+{{#set: pathway associated=PWY-3641|GLUCONEO-PWY|PWY-7384|P184-PWY|METHYLGALLATE-DEGRADATION-PWY|PWY-7686|PWY-7117|PWY-7115|PWY-7118|PWY-241|PWY-6339}}

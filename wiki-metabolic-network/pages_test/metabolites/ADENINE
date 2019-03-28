@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ADENINE ADENINE] ==
+* smiles:
+** C1(N)(N=CN=C2(NC=NC=12))
+* common name:
+** adenine
+* inchi key:
+** InChIKey=GFFGJBXGBJISGV-UHFFFAOYSA-N
+* molecular weight:
+** 135.128    
+* Synonym(s):
+** 6-aminopurine
+** A
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15139]]
+== Reaction(s) known to produce the compound ==
+* [[M5TAP]]
+* [[RXN0-1342]]
+* [[ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN]]
+* [[ADENOSINE-NUCLEOSIDASE-RXN]]
+* [[METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 73-24-5
+* BIGG : ade
+* DRUGBANK : DB00173
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=190 190]
+* HMDB : HMDB00034
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00147 C00147]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.185.html 185]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16708 16708]
+* METABOLIGHTS : MTBLC16708
+{{#set: smiles=C1(N)(N=CN=C2(NC=NC=12))}}
+{{#set: common name=adenine}}
+{{#set: inchi key=InChIKey=GFFGJBXGBJISGV-UHFFFAOYSA-N}}
+{{#set: molecular weight=135.128    }}
+{{#set: common name=6-aminopurine|A}}
+{{#set: consumed by=RXN-15139}}
+{{#set: produced by=M5TAP|RXN0-1342|ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN|ADENOSINE-NUCLEOSIDASE-RXN|METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN}}

@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9569 CPD-9569] ==
+* common name:
+** L-sorbopyranose
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14811]]
+== External links  ==
+{{#set: common name=L-sorbopyranose}}
+{{#set: reversible reaction associated=RXN-14811}}

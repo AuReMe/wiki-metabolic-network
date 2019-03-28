@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2508 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.14.19.3-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6000]]
+== External links  ==
+{{#set: reaction associated=1.14.19.3-RXN}}
+{{#set: pathway associated=PWY-6000}}

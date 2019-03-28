@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3236 ==
+* right end position:
+** 16906
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4858
+* centisome position:
+** 28.306726    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UDPGLUCEPIM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-3821]]
+* [[PWY-6397]]
+* [[PWY-6317]]
+* [[PWY-6527]]
+* [[PWY-7328]]
+* [[COLANSYN-PWY]]
+* [[PWY66-422]]
+* [[PWY-7344]]
+== External links  ==
+{{#set: right end position=16906}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4858}}
+{{#set: centisome position=28.306726    }}
+{{#set: reaction associated=UDPGLUCEPIM-RXN}}
+{{#set: pathway associated=PWY-3821|PWY-6397|PWY-6317|PWY-6527|PWY-7328|COLANSYN-PWY|PWY66-422|PWY-7344}}

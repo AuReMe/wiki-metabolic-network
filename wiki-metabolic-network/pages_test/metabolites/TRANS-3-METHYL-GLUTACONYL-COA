@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TRANS-3-METHYL-GLUTACONYL-COA TRANS-3-METHYL-GLUTACONYL-COA] ==
+* smiles:
+** CC(=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])CC(=O)[O-]
+* common name:
+** 3-methylglutaconyl-CoA
+* inchi key:
+** InChIKey=GXKSHRDAHFLWPN-RKYLSHMCSA-I
+* molecular weight:
+** 888.606    
+* Synonym(s):
+** trans-3-methylglutaconyl-CoA
+** (E)-3-methylglutaconyl-1-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[METHYLCROTONYL-COA-CARBOXYLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[METHYLGLUTACONYL-COA-HYDRATASE-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657229 90657229]
+* HMDB : HMDB01057
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15488 15488]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03231 C03231]
+{{#set: smiles=CC(=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])CC(=O)[O-]}}
+{{#set: common name=3-methylglutaconyl-CoA}}
+{{#set: inchi key=InChIKey=GXKSHRDAHFLWPN-RKYLSHMCSA-I}}
+{{#set: molecular weight=888.606    }}
+{{#set: common name=trans-3-methylglutaconyl-CoA|(E)-3-methylglutaconyl-1-CoA}}
+{{#set: produced by=METHYLCROTONYL-COA-CARBOXYLASE-RXN}}
+{{#set: reversible reaction associated=METHYLGLUTACONYL-COA-HYDRATASE-RXN}}

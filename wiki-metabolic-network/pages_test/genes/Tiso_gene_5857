@@ -1,0 +1,237 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5857 ==
+* right end position:
+** 2702
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 56
+* centisome position:
+** 0.43583158    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HACD5]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HACD5m]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HBCHL]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HBCHLm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HBCO]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HMNOS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[METHYLACYLYLCOA-HYDROXY-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[OHACYL-COA-DEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PEROXID-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10698]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10702]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10703]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11245]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11662]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-11667]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-12490]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-12507]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-12570]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-12705]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12750]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14240]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14266]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14271]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14275]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15288]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16133]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17777]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17781]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17786]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17790]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17793]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17794]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17797]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17798]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-2425]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-6383]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-8635]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-905]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-2044]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[TIGLYLCOA-HYDROXY-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6920]]
+* [[P162-PWY]]
+* [[PWY-5177]]
+* [[PWY-6583]]
+* [[VALDEG-PWY]]
+* [[PWY-6883]]
+* [[PWY-7656]]
+* [[PWY-5136]]
+* [[PWY-7778]]
+* [[PWY-7779]]
+* [[PWY-7574]]
+* [[PWY-7094]]
+* [[PWY-7654]]
+* [[P3-PWY]]
+* [[PWY66-391]]
+* [[PWY-5789]]
+* [[PWY-5461]]
+* [[FAO-PWY]]
+* [[CENTFERM-PWY]]
+* [[PWY-6945]]
+* [[PWY0-321]]
+* [[PWY-5743]]
+* [[ILEUDEG-PWY]]
+* [[PWY-5744]]
+* [[PWY-7007]]
+* [[PWY-6435]]
+* [[PWY-7214]]
+* [[PWY-7216]]
+* [[PWY-1361]]
+* [[PWY-5109]]
+* [[PWY-7445]]
+* [[PWY-6946]]
+* [[PWY-81]]
+* [[PWY-6944]]
+* [[PWY-735]]
+* [[PWY-7401]]
+* [[PWY-6863]]
+* [[PWY-3941]]
+== External links  ==
+{{#set: right end position=2702}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=56}}
+{{#set: centisome position=0.43583158    }}
+{{#set: reaction associated=3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN|HACD5|HACD5m|HBCHL|HBCHLm|HBCO|HMNOS|METHYLACYLYLCOA-HYDROXY-RXN|OHACYL-COA-DEHYDROG-RXN|PEROXID-RXN|RXN-10698|RXN-10702|RXN-10703|RXN-11245|RXN-11662|RXN-11667|RXN-12490|RXN-12507|RXN-12570|RXN-12705|RXN-12750|RXN-14240|RXN-14266|RXN-14271|RXN-14275|RXN-15288|RXN-16133|RXN-17777|RXN-17781|RXN-17786|RXN-17790|RXN-17793|RXN-17794|RXN-17797|RXN-17798|RXN-2425|RXN-6383|RXN-8635|RXN-905|RXN0-2044|TIGLYLCOA-HYDROXY-RXN}}
+{{#set: pathway associated=PWY-6920|P162-PWY|PWY-5177|PWY-6583|VALDEG-PWY|PWY-6883|PWY-7656|PWY-5136|PWY-7778|PWY-7779|PWY-7574|PWY-7094|PWY-7654|P3-PWY|PWY66-391|PWY-5789|PWY-5461|FAO-PWY|CENTFERM-PWY|PWY-6945|PWY0-321|PWY-5743|ILEUDEG-PWY|PWY-5744|PWY-7007|PWY-6435|PWY-7214|PWY-7216|PWY-1361|PWY-5109|PWY-7445|PWY-6946|PWY-81|PWY-6944|PWY-735|PWY-7401|PWY-6863|PWY-3941}}

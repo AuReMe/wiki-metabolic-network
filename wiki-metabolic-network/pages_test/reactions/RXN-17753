@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17753 RXN-17753] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CARBAMOYL-P]][c] '''=>''' 1 [[CPD-69]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 carbamoyl phosphate[c] '''=>''' 1 cyanate[c] '''+''' 1 phosphate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.127-RXN 2.1.1.127-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ribulose-_bisphosphate_carboxylase_oxygenase_large_subunit_n-_chloropl
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.127 EC-2.1.1.127]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Rubisco-lysine]][c] '''+''' 3 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 3 [[PROTON]][c] '''+''' 1 [[Rubisco-trimethylated-lysine]][c] '''+''' 3 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 a [ribulose-1,5-bisphosphate-carboxylase]-lysine[c] '''+''' 3 S-adenosyl-L-methionine[c] '''=>''' 3 H+[c] '''+''' 1 a [ribulose-1,5-bisphosphate-carboxylase]-N6,N6,N6-trimethyl-L-lysine[c] '''+''' 3 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6151]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P94026 P94026]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ribulose-_bisphosphate_carboxylase_oxygenase_large_subunit_n-_chloropl}}
+{{#set: ec number=EC-2.1.1.127}}
+{{#set: gene associated=Tiso_gene_6151}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

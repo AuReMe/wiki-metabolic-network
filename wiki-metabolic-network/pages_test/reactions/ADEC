@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ADEC ADEC] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** adenylate cyclase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ATP]][c] '''=>''' 1.0 [[PPI]][c] '''+''' 1.0 [[CAMP]][c]
+* With common name(s):
+** 1.0 ATP[c] '''=>''' 1.0 diphosphate[c] '''+''' 1.0 cyclic-AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8950]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_34]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16143]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_10495]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=adenylate cyclase}}
+{{#set: gene associated=Tiso_gene_8950|Tiso_gene_34|Tiso_gene_16143|Tiso_gene_10495}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16635 ==
+* right end position:
+** 3564
+* transcription direction:
+** POSITIVE
+* left end position:
+** 31
+* centisome position:
+** 0.7330338    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LYSINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=3564}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=31}}
+{{#set: centisome position=0.7330338    }}
+{{#set: reaction associated=LYSINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

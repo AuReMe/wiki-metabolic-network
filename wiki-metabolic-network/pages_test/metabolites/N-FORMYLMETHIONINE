@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-FORMYLMETHIONINE N-FORMYLMETHIONINE] ==
+* smiles:
+** CSCCC(N[CH]=O)C(=O)[O-]
+* common name:
+** N-formyl-L-methionine
+* inchi key:
+** InChIKey=PYUSHNKNPOHWEZ-YFKPBYRVSA-M
+* molecular weight:
+** 176.21    
+* Synonym(s):
+** fMet
+** N-formyl-methionine
+** formylmethionine
+
+== Reaction(s) known to consume the compound ==
+* [[FORMYLMETHIONINE-DEFORMYLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 4289-98-9
+* DRUGBANK : DB04464
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5288223 5288223]
+* HMDB : HMDB01015
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03145 C03145]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57809 57809]
+{{#set: smiles=CSCCC(N[CH]=O)C(=O)[O-]}}
+{{#set: common name=N-formyl-L-methionine}}
+{{#set: inchi key=InChIKey=PYUSHNKNPOHWEZ-YFKPBYRVSA-M}}
+{{#set: molecular weight=176.21    }}
+{{#set: common name=fMet|N-formyl-methionine|formylmethionine}}
+{{#set: consumed by=FORMYLMETHIONINE-DEFORMYLASE-RXN}}

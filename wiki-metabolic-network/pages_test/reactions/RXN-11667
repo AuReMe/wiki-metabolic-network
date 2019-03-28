@@ -1,0 +1,56 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11667 RXN-11667] ==
+* direction:
+** REVERSIBLE
+* common name:
+** (S)-3-hydroxybutanoyl-CoA dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.150 EC-4.2.1.150]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[S-3-HYDROXYBUTANOYL-COA]][c] '''<=>''' 1 [[WATER]][c] '''+''' 1 [[CROTONYL-COA]][c]
+* With common name(s):
+** 1 (S)-3-hydroxybutanoyl-CoA[c] '''<=>''' 1 H2O[c] '''+''' 1 crotonyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5857]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[P162-PWY]], L-glutamate degradation V (via hydroxyglutarate): [http://metacyc.org/META/NEW-IMAGE?object=P162-PWY P162-PWY]
+** '''4''' reactions found over '''11''' reactions in the full pathway
+* [[CENTFERM-PWY]], pyruvate fermentation to butanoate: [http://metacyc.org/META/NEW-IMAGE?object=CENTFERM-PWY CENTFERM-PWY]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-5177]], glutaryl-CoA degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5177 PWY-5177]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6583]], pyruvate fermentation to butanol I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6583 PWY-6583]
+** '''4''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-6883]], pyruvate fermentation to butanol II (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6883 PWY-6883]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+* [[P3-PWY]], gallate degradation III (anaerobic): [http://metacyc.org/META/NEW-IMAGE?object=P3-PWY P3-PWY]
+** '''1''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-7401]], crotonate fermentation (to acetate and cyclohexane carboxylate): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7401 PWY-7401]
+** '''5''' reactions found over '''17''' reactions in the full pathway
+* [[PWY-6863]], pyruvate fermentation to hexanol (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6863 PWY-6863]
+** '''5''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-5789]], 3-hydroxypropanoate/4-hydroxybutanate cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5789 PWY-5789]
+** '''8''' reactions found over '''16''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=26558 26558]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03026 R03026]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=(S)-3-hydroxybutanoyl-CoA dehydrogenase}}
+{{#set: ec number=EC-4.2.1.150}}
+{{#set: gene associated=Tiso_gene_5857}}
+{{#set: in pathway=P162-PWY|CENTFERM-PWY|PWY-5177|PWY-6583|PWY-6883|P3-PWY|PWY-7401|PWY-6863|PWY-5789}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

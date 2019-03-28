@@ -1,0 +1,102 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6527 PWY-6527] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** stachyose degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''7''' reactions in the full pathway
+* [[GALACTOKIN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_11795]]
+*** [[Tiso_gene_12191]]
+*** [[Tiso_gene_5041]]
+*** [[Tiso_gene_10797]]
+*** [[Tiso_gene_5042]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[GALACTURIDYLYLTRANS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2435]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLUC1PURIDYLTRANS-RXN]]
+** 14 associated gene(s):
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_17531]]
+*** [[Tiso_gene_5879]]
+*** [[Tiso_gene_17566]]
+*** [[Tiso_gene_16930]]
+*** [[Tiso_gene_14796]]
+*** [[Tiso_gene_9110]]
+*** [[Tiso_gene_13477]]
+*** [[Tiso_gene_7440]]
+*** [[Tiso_gene_11401]]
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_6458]]
+*** [[Tiso_gene_7102]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11501]]
+** 4 associated gene(s):
+*** [[Tiso_gene_16101]]
+*** [[Tiso_gene_4615]]
+*** [[Tiso_gene_8673]]
+*** [[Tiso_gene_3392]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11502]]
+** 4 associated gene(s):
+*** [[Tiso_gene_16101]]
+*** [[Tiso_gene_4615]]
+*** [[Tiso_gene_3392]]
+*** [[Tiso_gene_8673]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+* [[UDPGLUCEPIM-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9823]]
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3236]]
+*** [[Tiso_gene_10797]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[UTPHEXPURIDYLYLTRANS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_9110]]
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_14796]]
+*** [[Tiso_gene_17566]]
+*** [[Tiso_gene_6458]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=stachyose degradation}}
+{{#set: reaction found=7}}
+{{#set: total reaction=7}}
+{{#set: completion rate=100.0}}

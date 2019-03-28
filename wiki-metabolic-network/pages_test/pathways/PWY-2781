@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-2781 PWY-2781] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** cis-zeatin biosynthesis
+* Synonym(s):
+** cis-cytokinins biosynthesis
+** tRNA-dependent cytokinin biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[RXN0-6274]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3274]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4541 RXN-4541]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4542 RXN-4542]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4544 RXN-4544]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4545 RXN-4545]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-2781 PWY-2781]
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=cis-zeatin biosynthesis}}
+{{#set: common name=cis-cytokinins biosynthesis|tRNA-dependent cytokinin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

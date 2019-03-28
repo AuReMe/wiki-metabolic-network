@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Diacylglycerolhomoserines Diacylglycerolhomoserines] ==
+* common name:
+** a diacylglycerolhomoserine
+* Synonym(s):
+** DGHS
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12348]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12347]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a diacylglycerolhomoserine}}
+{{#set: common name=DGHS}}
+{{#set: consumed by=RXN-12348}}
+{{#set: produced by=RXN-12347}}

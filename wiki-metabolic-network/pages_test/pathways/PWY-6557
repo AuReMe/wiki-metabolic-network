@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6557 PWY-6557] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** glycosaminoglycan-protein linkage region biosynthesis
+* Synonym(s):
+** heparan sulfate biosynthesis (early stages)
+** chondroitin sulfate biosynthesis (early stages)
+** GAG-protein linkage region biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[2.4.1.135-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4139]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.4.1.133-RXN 2.4.1.133-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.4.1.134-RXN 2.4.1.134-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.4.2.26-RXN 2.4.2.26-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=glycosaminoglycan-protein linkage region biosynthesis}}
+{{#set: common name=heparan sulfate biosynthesis (early stages)|chondroitin sulfate biosynthesis (early stages)|GAG-protein linkage region biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

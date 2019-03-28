@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5726 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[GLYSYN-ALA-PWY]]
+== External links  ==
+{{#set: reaction associated=ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN}}
+{{#set: pathway associated=GLYSYN-ALA-PWY}}

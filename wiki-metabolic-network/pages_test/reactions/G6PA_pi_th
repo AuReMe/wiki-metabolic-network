@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=G6PA_pi_th G6PA_pi_th] ==
+* direction:
+** REVERSIBLE
+* common name:
+** alpha-glucose 6-phosphate:pi antiporter, chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Pi]][h] '''+''' 1.0 [[ALPHA-GLC-6-P]][c] '''<=>''' 1.0 [[Pi]][c] '''+''' 1.0 [[ALPHA-GLC-6-P]][h]
+* With common name(s):
+** 1.0 phosphate[h] '''+''' 1.0 &alpha;-D-glucose 6-phosphate[c] '''<=>''' 1.0 phosphate[c] '''+''' 1.0 &alpha;-D-glucose 6-phosphate[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5890]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_17661]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_6426]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=alpha-glucose 6-phosphate:pi antiporter, chloroplast}}
+{{#set: gene associated=Tiso_gene_5890|Tiso_gene_17661|Tiso_gene_6426}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

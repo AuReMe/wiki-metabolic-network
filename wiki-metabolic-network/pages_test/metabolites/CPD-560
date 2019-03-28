@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-560 CPD-560] ==
+* smiles:
+** CSCC1(OC(C(C1O)O)O)
+* common name:
+** S-methyl-5-thio-D-ribose
+* inchi key:
+** InChIKey=OLVVOVIFTBSBBH-JDJSBBGDSA-N
+* molecular weight:
+** 180.218    
+* Synonym(s):
+** 5-methylthio-D-ribose
+** MTR
+** 5-methylthioribose
+** S-methyl-5-thio-D-ribofuranose
+
+== Reaction(s) known to consume the compound ==
+* [[M5TRK]]
+== Reaction(s) known to produce the compound ==
+* [[METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : 5mtr
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10313378 10313378]
+* HMDB : HMDB01087
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03089 C03089]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8488843.html 8488843]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=78440 78440]
+* METABOLIGHTS : MTBLC16895
+{{#set: smiles=CSCC1(OC(C(C1O)O)O)}}
+{{#set: common name=S-methyl-5-thio-D-ribose}}
+{{#set: inchi key=InChIKey=OLVVOVIFTBSBBH-JDJSBBGDSA-N}}
+{{#set: molecular weight=180.218    }}
+{{#set: common name=5-methylthio-D-ribose|MTR|5-methylthioribose|S-methyl-5-thio-D-ribofuranose}}
+{{#set: consumed by=M5TRK}}
+{{#set: produced by=METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN}}

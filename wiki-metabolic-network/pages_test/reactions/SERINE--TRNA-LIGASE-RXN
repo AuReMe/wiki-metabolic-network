@@ -1,0 +1,93 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SERINE--TRNA-LIGASE-RXN SERINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** structural_maintenance_of_chromosomes_protein_6
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.11 EC-6.1.1.11]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[SER-tRNAs]][c] '''+''' 1 [[SER]][c] '''=>''' 1 [[Charged-SER-tRNAs]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 a tRNAser[c] '''+''' 1 L-serine[c] '''=>''' 1 an L-seryl-[tRNAser][c] '''+''' 1 diphosphate[c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1682]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10015]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_587]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1684]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=12292 12292]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03662 R03662]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9ZCG5 Q9ZCG5]
+** [http://www.uniprot.org/uniprot/O51244 O51244]
+** [http://www.uniprot.org/uniprot/O66647 O66647]
+** [http://www.uniprot.org/uniprot/Q9PIB3 Q9PIB3]
+** [http://www.uniprot.org/uniprot/Q58477 Q58477]
+** [http://www.uniprot.org/uniprot/O27194 O27194]
+** [http://www.uniprot.org/uniprot/O84734 O84734]
+** [http://www.uniprot.org/uniprot/Q9X199 Q9X199]
+** [http://www.uniprot.org/uniprot/P47251 P47251]
+** [http://www.uniprot.org/uniprot/Q9JT77 Q9JT77]
+** [http://www.uniprot.org/uniprot/O83653 O83653]
+** [http://www.uniprot.org/uniprot/Q9Z736 Q9Z736]
+** [http://www.uniprot.org/uniprot/P49591 P49591]
+** [http://www.uniprot.org/uniprot/P56458 P56458]
+** [http://www.uniprot.org/uniprot/Q9ZJD9 Q9ZJD9]
+** [http://www.uniprot.org/uniprot/Q9CEX2 Q9CEX2]
+** [http://www.uniprot.org/uniprot/P43833 P43833]
+** [http://www.uniprot.org/uniprot/P26636 P26636]
+** [http://www.uniprot.org/uniprot/P39919 P39919]
+** [http://www.uniprot.org/uniprot/P37464 P37464]
+** [http://www.uniprot.org/uniprot/Q39230 Q39230]
+** [http://www.uniprot.org/uniprot/P75107 P75107]
+** [http://www.uniprot.org/uniprot/P73201 P73201]
+** [http://www.uniprot.org/uniprot/O82108 O82108]
+** [http://www.uniprot.org/uniprot/O82110 O82110]
+** [http://www.uniprot.org/uniprot/O81983 O81983]
+** [http://www.uniprot.org/uniprot/O45887 O45887]
+** [http://www.uniprot.org/uniprot/O14018 O14018]
+** [http://www.uniprot.org/uniprot/P54221 P54221]
+** [http://www.uniprot.org/uniprot/P07284 P07284]
+** [http://www.uniprot.org/uniprot/P0A8L1 P0A8L1]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=structural_maintenance_of_chromosomes_protein_6}}
+{{#set: ec number=EC-6.1.1.11}}
+{{#set: gene associated=Tiso_gene_1682|Tiso_gene_10015|Tiso_gene_587|Tiso_gene_1684}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

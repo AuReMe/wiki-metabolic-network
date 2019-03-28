@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16201 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACETYLORNDEACET-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[AODAA]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[GLUTORN-PWY]]
+== External links  ==
+{{#set: reaction associated=ACETYLORNDEACET-RXN|AODAA}}
+{{#set: pathway associated=GLUTORN-PWY}}

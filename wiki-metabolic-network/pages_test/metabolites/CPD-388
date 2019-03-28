@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-388 CPD-388] ==
+* smiles:
+** CCCCCCCCCCCCCC[CH]=O
+* inchi key:
+** InChIKey=XGQJZNCFDLXSIJ-UHFFFAOYSA-N
+* common name:
+** pentadecanal
+* molecular weight:
+** 226.401    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-476-CPD-388/NAD/WATER//CPD-8462/NADH/PROTON.40.]]
+== Reaction(s) known to produce the compound ==
+* [[FATTY-ACID-PEROXIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 2765-11-9
+* LIPID_MAPS : LMFA06000083
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=17697 17697]
+* HMDB : HMDB31078
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01948 C01948]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.16729.html 16729]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17302 17302]
+{{#set: smiles=CCCCCCCCCCCCCC[CH]=O}}
+{{#set: inchi key=InChIKey=XGQJZNCFDLXSIJ-UHFFFAOYSA-N}}
+{{#set: common name=pentadecanal}}
+{{#set: molecular weight=226.401    }}
+{{#set: consumed by=RXN66-476-CPD-388/NAD/WATER//CPD-8462/NADH/PROTON.40.}}
+{{#set: produced by=FATTY-ACID-PEROXIDASE-RXN}}

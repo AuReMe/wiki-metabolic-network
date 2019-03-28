@@ -1,0 +1,22 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9762 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-14903]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-7008]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PROUT-PWY]]
+* [[PWY-6922]]
+* [[PWY-5737]]
+* [[PWY0-1544]]
+* [[CITRULBIO-PWY]]
+== External links  ==
+{{#set: reaction associated=RXN-14903|RXN0-7008}}
+{{#set: pathway associated=PROUT-PWY|PWY-6922|PWY-5737|PWY0-1544|CITRULBIO-PWY}}

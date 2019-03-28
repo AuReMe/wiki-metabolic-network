@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7274 PWY-7274] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2062 TAX-2062]
+* common name:
+** D-cycloserine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[SERINE-O-ACETTRAN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_7066]]
+*** [[Tiso_gene_10634]]
+*** [[Tiso_gene_4492]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12537 RXN-12537]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14457 RXN-14457]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14458 RXN-14458]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14459 RXN-14459]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14460 RXN-14460]
+== External links  ==
+{{#set: taxonomic range=TAX-2062}}
+{{#set: common name=D-cycloserine biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6708 PWY-6708] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** ubiquinol-8 biosynthesis (prokaryotic)
+* Synonym(s):
+** ubiquinone-8 biosynthesis (prokaryotic)
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''8''' reactions in the full pathway
+* [[2-OCTAPRENYL-6-OHPHENOL-METHY-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6943]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19352]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[4OHBENZOATE-OCTAPRENYLTRANSFER-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4719]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[DHHB-METHYLTRANSFER-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6943]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN 2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2-OCTAPRENYLPHENOL-HYDROX-RXN 2-OCTAPRENYLPHENOL-HYDROX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN 3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6708 PWY-6708]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=ubiquinol-8 biosynthesis (prokaryotic)}}
+{{#set: common name=ubiquinone-8 biosynthesis (prokaryotic)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=8}}
+{{#set: completion rate=50.0}}

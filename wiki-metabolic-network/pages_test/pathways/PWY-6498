@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6498 PWY-6498] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** eumelanin biosynthesis
+* Synonym(s):
+** melanochrome biosynthesis
+** melanogenesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-11403]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DOPACHROME-DELTA-ISOMERASE-RXN DOPACHROME-DELTA-ISOMERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11404 RXN-11404]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11406 RXN-11406]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11408 RXN-11408]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11444 RXN-11444]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=eumelanin biosynthesis}}
+{{#set: common name=melanochrome biosynthesis|melanogenesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6153 PWY-6153] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** autoinducer AI-2 biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14191]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-7605]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RIBOSYLHOMOCYSTEINASE-RXN RIBOSYLHOMOCYSTEINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10015 RXN-10015]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10017 RXN-10017]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6153 PWY-6153]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=autoinducer AI-2 biosynthesis I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

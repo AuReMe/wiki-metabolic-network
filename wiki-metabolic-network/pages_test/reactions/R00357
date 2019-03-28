@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R00357 R00357] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R526
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[OXYGEN-MOLECULE]][c] '''+''' 1.0 [[WATER]][c] '''+''' 1.0 [[L-ASPARTATE]][c] '''=>''' 1.0 [[AMMONIA]][c] '''+''' 1.0 [[OXALACETIC_ACID]][c] '''+''' 1.0 [[HYDROGEN-PEROXIDE]][c]
+* With common name(s):
+** 1.0 oxygen[c] '''+''' 1.0 H2O[c] '''+''' 1.0 L-aspartate[c] '''=>''' 1.0 ammonia[c] '''+''' 1.0 oxaloacetate[c] '''+''' 1.0 hydrogen peroxide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19435]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_16968]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_7285]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R526}}
+{{#set: gene associated=Tiso_gene_19435|Tiso_gene_16968|Tiso_gene_7285}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

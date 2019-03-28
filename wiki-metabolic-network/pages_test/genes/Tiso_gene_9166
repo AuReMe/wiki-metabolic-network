@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9166 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMP5N]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[CMP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DAMPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DCMP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DMPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[I5NT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14143]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-7609]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[UMPP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[X5NT]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6608]]
+* [[PWY-6607]]
+* [[PWY-6606]]
+== External links  ==
+{{#set: reaction associated=AMP5N|CMP|DAMPH|DCMP|DMPH|I5NT|RXN-14143|RXN-7609|TPH|UMPP|X5NT}}
+{{#set: pathway associated=PWY-6608|PWY-6607|PWY-6606}}

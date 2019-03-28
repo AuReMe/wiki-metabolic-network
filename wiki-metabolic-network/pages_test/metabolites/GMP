@@ -1,0 +1,57 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GMP GMP] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))
+* common name:
+** GMP
+* inchi key:
+** InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+* molecular weight:
+** 361.207    
+* Synonym(s):
+** guanylate
+** guanylic acid
+** guanosine phosphate
+** guanosine 5'-phosphate
+** guanosine monophosphate
+** guanosine-5'-monophosphate
+
+== Reaction(s) known to consume the compound ==
+* [[GMP-REDUCT-RXN]]
+* [[GUANYL-KIN-RXN]]
+* [[AGPTf]]
+* [[AGPT]]
+* [[RXN-7609]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14140]]
+* [[GMP-SYN-GLUT-RXN]]
+* [[GDPA]]
+* [[NTDP]]
+* [[GMP-SYN-NH3-RXN]]
+* [[RXN-14201]]
+* [[GUANOSINE-DIPHOSPHATASE-RXN]]
+* [[35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[COBALAMINSYN-RXN]]
+* [[GUANPRIBOSYLTRAN-RXN]]
+== External links  ==
+* CAS : 85-32-5
+* BIGG : gmp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1807035 1807035]
+* HMDB : HMDB01397
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00144 C00144]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1413162.html 1413162]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58115 58115]
+* METABOLIGHTS : MTBLC58115
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))}}
+{{#set: common name=GMP}}
+{{#set: inchi key=InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L}}
+{{#set: molecular weight=361.207    }}
+{{#set: common name=guanylate|guanylic acid|guanosine phosphate|guanosine 5'-phosphate|guanosine monophosphate|guanosine-5'-monophosphate}}
+{{#set: consumed by=GMP-REDUCT-RXN|GUANYL-KIN-RXN|AGPTf|AGPT|RXN-7609}}
+{{#set: produced by=RXN-14140|GMP-SYN-GLUT-RXN|GDPA|NTDP|GMP-SYN-NH3-RXN|RXN-14201|GUANOSINE-DIPHOSPHATASE-RXN|35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN}}
+{{#set: reversible reaction associated=COBALAMINSYN-RXN|GUANPRIBOSYLTRAN-RXN}}

@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11670 CPD-11670] ==
+* smiles:
+** C(O)(=O)C1(CSC(N1)CC2(=CNC3(C2=CC(O)=CC=3)))
+* common name:
+** 5-hydroxyindole thiazolidine carboxylate
+* inchi key:
+** InChIKey=DFSPELNJAJEWOM-UHFFFAOYSA-N
+* molecular weight:
+** 278.325    
+* Synonym(s):
+** 5-hydroxyindole thiazolidine carboxylic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-10779]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=195334 195334]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.169392.html 169392]
+{{#set: smiles=C(O)(=O)C1(CSC(N1)CC2(=CNC3(C2=CC(O)=CC=3)))}}
+{{#set: common name=5-hydroxyindole thiazolidine carboxylate}}
+{{#set: inchi key=InChIKey=DFSPELNJAJEWOM-UHFFFAOYSA-N}}
+{{#set: molecular weight=278.325    }}
+{{#set: common name=5-hydroxyindole thiazolidine carboxylic acid}}
+{{#set: reversible reaction associated=RXN-10779}}

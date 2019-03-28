@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10567 ==
+* right end position:
+** 3279
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 387
+* centisome position:
+** 4.5825934    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3279}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=387}}
+{{#set: centisome position=4.5825934    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

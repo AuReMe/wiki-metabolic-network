@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Octanoyl-ACPs Octanoyl-ACPs] ==
+* common name:
+** an octanoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-947]]
+* [[RXN-13037]]
+* [[RXN-9651]]
+* [[RXN-9527]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14973]]
+* [[RXN-9659]]
+* [[RXN-9526]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an octanoyl-[acp]}}
+{{#set: consumed by=RXN0-947|RXN-13037|RXN-9651|RXN-9527}}
+{{#set: produced by=RXN-14973|RXN-9659|RXN-9526}}

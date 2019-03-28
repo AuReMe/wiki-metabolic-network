@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P21-PWY P21-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2093 TAX-2093]
+* common name:
+** pentose phosphate pathway (partial)
+* Synonym(s):
+** pentose phosphate pathway, Mycoplasma pneumonia
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[1TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[2TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[RIBULP3EPIM-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_19140]]
+*** [[Tiso_gene_4754]]
+*** [[Tiso_gene_10879]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2093}}
+{{#set: common name=pentose phosphate pathway (partial)}}
+{{#set: common name=pentose phosphate pathway, Mycoplasma pneumonia}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-722 PWY-722] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** nicotinate degradation I
+* Synonym(s):
+** maleamate pathway
+** nicotinate degradation
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-646]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14341]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.13.11.9-RXN 1.13.11.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALEATE-ISOMERASE-RXN MALEATE-ISOMERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=NICOTINATE-DEHYDROGENASE-RXN NICOTINATE-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11318 RXN-11318]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7573 RXN-7573]
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=nicotinate degradation I}}
+{{#set: common name=maleamate pathway|nicotinate degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18135 ==
+* right end position:
+** 2325
+* transcription direction:
+** POSITIVE
+* left end position:
+** 84
+* centisome position:
+** 2.6038437    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.25.1-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2325}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=84}}
+{{#set: centisome position=2.6038437    }}
+{{#set: reaction associated=3.4.25.1-RXN}}

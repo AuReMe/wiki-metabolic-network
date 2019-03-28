@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7507 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYOXI-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5386]]
+== External links  ==
+{{#set: reaction associated=GLYOXI-RXN}}
+{{#set: pathway associated=PWY-5386}}

@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-1801 PWY-1801] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** formaldehyde oxidation II (glutathione-dependent)
+* Synonym(s):
+** formaldehyde oxidation II (GSH-dependent)
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-2962]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18459]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[S-FORMYLGLUTATHIONE-HYDROLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10446]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2961 RXN-2961]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-1801 PWY-1801]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=formaldehyde oxidation II (glutathione-dependent)}}
+{{#set: common name=formaldehyde oxidation II (GSH-dependent)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14704 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.7.13-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[DTDPGLUCOSEPP-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[GAMPG]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[MANNPGUANYLTRANGDP-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[PHOSMANMUT-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-5659]]
+* [[PWY-7814]]
+* [[PWY-3221]]
+* [[PWY-7301]]
+* [[PWY-7456]]
+* [[PWY-7657]]
+* [[PWY-7413]]
+* [[PWY-6976]]
+* [[PWY-6974]]
+* [[PWY-6973]]
+* [[PWY-7414]]
+* [[PWY-6953]]
+* [[PWY-7104]]
+* [[PWY-7688]]
+* [[PWY-7586]]
+* [[PWY-7315]]
+* [[PWY-7316]]
+* [[PWY-7312]]
+* [[PWY-882]]
+* [[PWY-7318]]
+* [[PWY-6942]]
+* [[PWY-7440]]
+* [[DTDPRHAMSYN-PWY]]
+* [[PWY-6808]]
+== External links  ==
+{{#set: reaction associated=2.7.7.13-RXN|DTDPGLUCOSEPP-RXN|GAMPG|MANNPGUANYLTRANGDP-RXN|PHOSMANMUT-RXN}}
+{{#set: pathway associated=PWY-5659|PWY-7814|PWY-3221|PWY-7301|PWY-7456|PWY-7657|PWY-7413|PWY-6976|PWY-6974|PWY-6973|PWY-7414|PWY-6953|PWY-7104|PWY-7688|PWY-7586|PWY-7315|PWY-7316|PWY-7312|PWY-882|PWY-7318|PWY-6942|PWY-7440|DTDPRHAMSYN-PWY|PWY-6808}}

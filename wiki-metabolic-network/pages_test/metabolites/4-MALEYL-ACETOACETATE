@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=4-MALEYL-ACETOACETATE 4-MALEYL-ACETOACETATE] ==
+* smiles:
+** C([O-])(=O)C=CC(=O)CC(=O)CC([O-])=O
+* common name:
+** 4-maleyl-acetoacetate
+* inchi key:
+** InChIKey=GACSIVHAIFQKTC-UPHRSURJSA-L
+* molecular weight:
+** 198.132    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[HGDO]]
+* [[HOMOGENTISATE-12-DIOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460066 5460066]
+* HMDB : HMDB02052
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01036 C01036]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573741.html 4573741]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17105 17105]
+* METABOLIGHTS : MTBLC17105
+{{#set: smiles=C([O-])(=O)C=CC(=O)CC(=O)CC([O-])=O}}
+{{#set: common name=4-maleyl-acetoacetate}}
+{{#set: inchi key=InChIKey=GACSIVHAIFQKTC-UPHRSURJSA-L}}
+{{#set: molecular weight=198.132    }}
+{{#set: produced by=HGDO|HOMOGENTISATE-12-DIOXYGENASE-RXN}}

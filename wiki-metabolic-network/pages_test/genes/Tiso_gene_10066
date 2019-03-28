@@ -1,0 +1,62 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10066 ==
+* right end position:
+** 1714
+* transcription direction:
+** POSITIVE
+* left end position:
+** 496
+* centisome position:
+** 2.5214784    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.11.1.15-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[3-OXOADIPATE-ENOL-LACTONASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[3.1.1.64-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[CARBOXYLESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RETINYL-PALMITATE-ESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10083]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10711]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10767]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12252]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12575]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5468]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXNQT-4366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY]]
+* [[CATECHOL-ORTHO-CLEAVAGE-PWY]]
+* [[PWY-6185]]
+* [[PWY-6857]]
+* [[PWY-6303]]
+== External links  ==
+{{#set: right end position=1714}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=496}}
+{{#set: centisome position=2.5214784    }}
+{{#set: reaction associated=1.11.1.15-RXN|3-OXOADIPATE-ENOL-LACTONASE-RXN|3.1.1.64-RXN|CARBOXYLESTERASE-RXN|RETINYL-PALMITATE-ESTERASE-RXN|RXN-10083|RXN-10711|RXN-10767|RXN-12252|RXN-12575|RXN0-5468|RXNQT-4366}}
+{{#set: pathway associated=PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY|CATECHOL-ORTHO-CLEAVAGE-PWY|PWY-6185|PWY-6857|PWY-6303}}

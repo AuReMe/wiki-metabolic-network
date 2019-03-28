@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPDQT-39 CPDQT-39] ==
+* smiles:
+** CSCCCCCCC(C(O)C(=O)[O-])C(=O)[O-]
+* common name:
+** 3-(6'-methylthio)hexylmalate
+* inchi key:
+** InChIKey=LQQZHLHCFSCJCU-UHFFFAOYSA-L
+* molecular weight:
+** 262.32    
+* Synonym(s):
+** 3-(6'-methylthio)hexylmalic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXNQT-4174]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18202]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237339 44237339]
+{{#set: smiles=CSCCCCCCC(C(O)C(=O)[O-])C(=O)[O-]}}
+{{#set: common name=3-(6'-methylthio)hexylmalate}}
+{{#set: inchi key=InChIKey=LQQZHLHCFSCJCU-UHFFFAOYSA-L}}
+{{#set: molecular weight=262.32    }}
+{{#set: common name=3-(6'-methylthio)hexylmalic acid}}
+{{#set: consumed by=RXNQT-4174}}
+{{#set: reversible reaction associated=RXN-18202}}

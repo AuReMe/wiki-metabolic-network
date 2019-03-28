@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ADENOSINE ADENOSINE] ==
+* smiles:
+** C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(N)=NC=NC=23)))
+* common name:
+** adenosine
+* inchi key:
+** InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
+* molecular weight:
+** 267.244    
+* Synonym(s):
+** adenine-D-ribose
+
+== Reaction(s) known to consume the compound ==
+* [[ADENOSINE-KINASE-RXN]]
+* [[ADENOSINE-NUCLEOSIDASE-RXN]]
+* [[ADENODEAMIN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[AMP5N]]
+* [[AMP-DEPHOSPHORYLATION-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ADENOSYLHOMOCYSTEINASE-RXN]]
+* [[ADNtm]]
+== External links  ==
+* CAS : 58-61-7
+* BIGG : adn
+* DRUGBANK : DB00640
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=60961 60961]
+* HMDB : HMDB00050
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00212 C00212]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.18660726.html 18660726]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16335 16335]
+* METABOLIGHTS : MTBLC16335
+{{#set: smiles=C(O)C1(OC(C(O)C(O)1)N3(C=NC2(C(N)=NC=NC=23)))}}
+{{#set: common name=adenosine}}
+{{#set: inchi key=InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N}}
+{{#set: molecular weight=267.244    }}
+{{#set: common name=adenine-D-ribose}}
+{{#set: consumed by=ADENOSINE-KINASE-RXN|ADENOSINE-NUCLEOSIDASE-RXN|ADENODEAMIN-RXN}}
+{{#set: produced by=AMP5N|AMP-DEPHOSPHORYLATION-RXN}}
+{{#set: reversible reaction associated=ADENOSYLHOMOCYSTEINASE-RXN|ADNtm}}

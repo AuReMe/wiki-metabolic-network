@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3805 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.3.1.23-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[M5TRPI]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7174]]
+* [[PWY-4361]]
+== External links  ==
+{{#set: reaction associated=5.3.1.23-RXN|M5TRPI}}
+{{#set: pathway associated=PWY-7174|PWY-4361}}

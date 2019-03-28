@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7315 ==
+* right end position:
+** 8200
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5084
+* centisome position:
+** 44.99115    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8200}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5084}}
+{{#set: centisome position=44.99115    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

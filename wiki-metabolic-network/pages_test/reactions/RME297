@@ -1,0 +1,25 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RME297 RME297] ==
+* direction:
+** REVERSIBLE
+* common name:
+** RME297
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NADH-P-OR-NOP]][c] '''<=>''' 1.0 [[NADH]][c]
+* With common name(s):
+** 1.0 NAD(P)H[c] '''<=>''' 1.0 NADH[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=RME297}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

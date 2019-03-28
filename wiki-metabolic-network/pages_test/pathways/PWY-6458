@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6458 PWY-6458] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** benzoyl-CoA biosynthesis
+* Synonym(s):
+** benzoyl-coenzyme A biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-2006]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16181]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2002 RXN-2002]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2003 RXN-2003]
+== External links  ==
+* PLANTCYC : PWY-6458
+{{#set: taxonomic range=TAX-3193}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=benzoyl-CoA biosynthesis}}
+{{#set: common name=benzoyl-coenzyme A biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

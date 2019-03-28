@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8543 ==
+* right end position:
+** 5593
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3703
+* centisome position:
+** 36.53315    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5593}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3703}}
+{{#set: centisome position=36.53315    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

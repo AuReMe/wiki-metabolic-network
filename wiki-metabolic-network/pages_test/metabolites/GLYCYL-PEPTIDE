@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLYCYL-PEPTIDE GLYCYL-PEPTIDE] ==
+* smiles:
+** C(C(NC(C(O)=O)[R])=O)N
+* common name:
+** glycyl-peptide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.97-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02038 C02038]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16462 16462]
+{{#set: smiles=C(C(NC(C(O)=O)[R])=O)N}}
+{{#set: common name=glycyl-peptide}}
+{{#set: reversible reaction associated=2.3.1.97-RXN}}

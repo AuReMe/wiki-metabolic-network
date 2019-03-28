@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPDQT-520 CPDQT-520] ==
+* smiles:
+** CCCCCCCCC=CCCCCCCCC(=O)OCC(COP(OCC(O)COP([O-])(=O)[O-])([O-])=O)OC(=O)CCCCCCCCCCCCCCC
+* common name:
+** phosphatidylglycerophosphate (1-octadecenoyl(9Z), 2-palmitoyl)
+* inchi key:
+** InChIKey=WQMDYQSTTXRXLQ-HGWHEPCSSA-K
+* molecular weight:
+** 825.972    
+* Synonym(s):
+** phosphatidylglycerophosphate (1-18:1(9Z), 2-16:1)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13313]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658639 90658639]
+{{#set: smiles=CCCCCCCCC=CCCCCCCCC(=O)OCC(COP(OCC(O)COP([O-])(=O)[O-])([O-])=O)OC(=O)CCCCCCCCCCCCCCC}}
+{{#set: common name=phosphatidylglycerophosphate (1-octadecenoyl(9Z), 2-palmitoyl)}}
+{{#set: inchi key=InChIKey=WQMDYQSTTXRXLQ-HGWHEPCSSA-K}}
+{{#set: molecular weight=825.972    }}
+{{#set: common name=phosphatidylglycerophosphate (1-18:1(9Z), 2-16:1)}}
+{{#set: consumed by=RXN-13313}}

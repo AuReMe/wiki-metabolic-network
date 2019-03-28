@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-293 CPD-293] ==
+* smiles:
+** CC(=O)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** 5-&alpha;-pregnane-3,20-dione
+* inchi key:
+** InChIKey=XMRPGKVKISIQBV-BJMCWZGWSA-N
+* molecular weight:
+** 316.483    
+* Synonym(s):
+** 3,20-allopregnanedione
+** 3,20-dioxo-5-&alpha;-pregnane
+** 5-&alpha;-dihydroprogesterone
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PROGESTERONE-5-ALPHA-REDUCTASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 566-65-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=92810 92810]
+* HMDB : HMDB03759
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03681 C03681]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.83782.html 83782]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28952 28952]
+* METABOLIGHTS : MTBLC28952
+{{#set: smiles=CC(=O)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=5-&alpha;-pregnane-3,20-dione}}
+{{#set: inchi key=InChIKey=XMRPGKVKISIQBV-BJMCWZGWSA-N}}
+{{#set: molecular weight=316.483    }}
+{{#set: common name=3,20-allopregnanedione|3,20-dioxo-5-&alpha;-pregnane|5-&alpha;-dihydroprogesterone}}
+{{#set: produced by=PROGESTERONE-5-ALPHA-REDUCTASE-RXN}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14086 ==
+* right end position:
+** 3123
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2082
+* centisome position:
+** 35.54114    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3123}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2082}}
+{{#set: centisome position=35.54114    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

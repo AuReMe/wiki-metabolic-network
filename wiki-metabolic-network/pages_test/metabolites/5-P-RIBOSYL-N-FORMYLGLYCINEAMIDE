@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE 5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE] ==
+* smiles:
+** C(NC=O)C(=O)NC1(C(O)C(O)C(COP([O-])(=O)[O-])O1)
+* common name:
+** N2-formyl-N1-(5-phospho-&beta;-D-ribosyl)glycinamide
+* inchi key:
+** InChIKey=VDXLUNDMVKSKHO-XVFCMESISA-L
+* molecular weight:
+** 312.172    
+* Synonym(s):
+** 5'-phosphoribosyl-N-formylglycineamide
+** 5'-P-ribosyl-N-formylglycineamide
+** 5'-phosphoribosyl-N-formylglycinamide
+** FGAR
+** 5-phosphoribosyl-N-formalglycineamide
+** 5'-phosphoribosyl-formylglycinamide
+
+== Reaction(s) known to consume the compound ==
+* [[FGFTm]]
+* [[FGAMSYN-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[GART-RXN]]
+* [[FPGFTm]]
+== External links  ==
+* BIGG : fgam
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658924 90658924]
+* HMDB : HMDB01308
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04376 C04376]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58426 58426]
+* METABOLIGHTS : MTBLC58426
+{{#set: smiles=C(NC=O)C(=O)NC1(C(O)C(O)C(COP([O-])(=O)[O-])O1)}}
+{{#set: common name=N2-formyl-N1-(5-phospho-&beta;-D-ribosyl)glycinamide}}
+{{#set: inchi key=InChIKey=VDXLUNDMVKSKHO-XVFCMESISA-L}}
+{{#set: molecular weight=312.172    }}
+{{#set: common name=5'-phosphoribosyl-N-formylglycineamide|5'-P-ribosyl-N-formylglycineamide|5'-phosphoribosyl-N-formylglycinamide|FGAR|5-phosphoribosyl-N-formalglycineamide|5'-phosphoribosyl-formylglycinamide}}
+{{#set: consumed by=FGFTm|FGAMSYN-RXN}}
+{{#set: reversible reaction associated=GART-RXN|FPGFTm}}

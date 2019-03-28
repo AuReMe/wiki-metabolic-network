@@ -1,0 +1,71 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7204 PWY-7204] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** pyridoxal 5'-phosphate salvage II (plants)
+* Synonym(s):
+** vitamin B6 salvage (plants)
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''9''' reactions in the full pathway
+* [[3.1.3.74-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18054]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+* [[PMPOXI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1471]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PNKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PNPOXI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1471]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PYRAMKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PYRIDOXINE-4-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18748]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[PYRIDOXKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14181]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18054]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14046 RXN-14046]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=pyridoxal 5'-phosphate salvage II (plants)}}
+{{#set: common name=vitamin B6 salvage (plants)}}
+{{#set: reaction found=8}}
+{{#set: total reaction=9}}
+{{#set: completion rate=89.0}}

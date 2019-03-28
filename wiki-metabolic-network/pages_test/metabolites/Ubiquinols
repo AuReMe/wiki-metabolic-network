@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ubiquinols Ubiquinols] ==
+* common name:
+** an ubiquinol
+* Synonym(s):
+** a reduced ubiquinone
+** a dihydroubiquinone
+** a QH2
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6883]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5330]]
+* [[RXN0-5260]]
+* [[SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN]]
+* [[RXN0-6491]]
+* [[RXN-15829]]
+* [[RXN0-5244]]
+* [[RXN0-7008]]
+== Reaction(s) of unknown directionality ==
+* [[1.10.2.2-RXN]]
+* [[NADH-DEHYDROG-A-RXN]]
+* [[1.5.5.1-RXN]]
+== External links  ==
+{{#set: common name=an ubiquinol}}
+{{#set: common name=a reduced ubiquinone|a dihydroubiquinone|a QH2}}
+{{#set: consumed by=RXN-6883}}
+{{#set: produced by=RXN0-5330|RXN0-5260|SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN|RXN0-6491|RXN-15829|RXN0-5244|RXN0-7008}}
+{{#set: reversible reaction associated=1.10.2.2-RXN|NADH-DEHYDROG-A-RXN|1.5.5.1-RXN}}

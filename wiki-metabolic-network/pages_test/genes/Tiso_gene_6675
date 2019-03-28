@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6675 ==
+* right end position:
+** 8416
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6956
+* centisome position:
+** 58.2482    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.39-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[MALIC-NADP-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-3641]]
+* [[GLUCONEO-PWY]]
+* [[PWY-7384]]
+* [[PWY-7686]]
+* [[PWY-7117]]
+* [[PWY-7115]]
+* [[PWY-7118]]
+* [[PWY-241]]
+== External links  ==
+{{#set: right end position=8416}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6956}}
+{{#set: centisome position=58.2482    }}
+{{#set: reaction associated=1.1.1.39-RXN|MALIC-NADP-RXN}}
+{{#set: pathway associated=PWY-3641|GLUCONEO-PWY|PWY-7384|PWY-7686|PWY-7117|PWY-7115|PWY-7118|PWY-241}}

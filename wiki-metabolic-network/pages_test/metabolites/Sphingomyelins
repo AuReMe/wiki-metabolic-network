@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Sphingomyelins Sphingomyelins] ==
+* common name:
+** a sphingomyelin
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[SPHINGOMYELIN-PHOSPHODIESTERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a sphingomyelin}}
+{{#set: consumed by=SPHINGOMYELIN-PHOSPHODIESTERASE-RXN}}

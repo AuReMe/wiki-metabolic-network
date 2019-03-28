@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEOXYCYTIDINE DEOXYCYTIDINE] ==
+* smiles:
+** C1(=CN(C(=O)N=C(N)1)C2(CC(O)C(CO)O2))
+* common name:
+** 2'-deoxycytidine
+* inchi key:
+** InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
+* molecular weight:
+** 227.219    
+* Synonym(s):
+** d-cytidine
+** deoxycytidine
+
+== Reaction(s) known to consume the compound ==
+* [[DCYTPT]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 951-77-9
+* BIGG : dcyt
+* DRUGBANK : DB02594
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=13711 13711]
+* HMDB : HMDB00014
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00881 C00881]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13117.html 13117]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15698 15698]
+* METABOLIGHTS : MTBLC15698
+{{#set: smiles=C1(=CN(C(=O)N=C(N)1)C2(CC(O)C(CO)O2))}}
+{{#set: common name=2'-deoxycytidine}}
+{{#set: inchi key=InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N}}
+{{#set: molecular weight=227.219    }}
+{{#set: common name=d-cytidine|deoxycytidine}}
+{{#set: consumed by=DCYTPT}}

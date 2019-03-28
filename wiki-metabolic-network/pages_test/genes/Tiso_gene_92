@@ -1,0 +1,40 @@
+[[Category:Gene]]
+== Gene Tiso_gene_92 ==
+* right end position:
+** 22089
+* transcription direction:
+** POSITIVE
+* left end position:
+** 20519
+* centisome position:
+** 45.38698    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDROFOLATESYNTH-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[FOLYLPOLYGLUTAMATESYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[FORMYLTHFGLUSYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-6341]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-2921]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-2161]]
+* [[PWY-6614]]
+== External links  ==
+{{#set: right end position=22089}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=20519}}
+{{#set: centisome position=45.38698    }}
+{{#set: reaction associated=DIHYDROFOLATESYNTH-RXN|FOLYLPOLYGLUTAMATESYNTH-RXN|FORMYLTHFGLUSYNTH-RXN|RXN-6341|RXN0-2921}}
+{{#set: pathway associated=PWY-2161|PWY-6614}}

@@ -1,0 +1,44 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6807 PWY-6807] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** xyloglucan degradation II (exoglucanase)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-12398]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12839]]
+*** [[Tiso_gene_1398]]
+*** [[Tiso_gene_17558]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12399]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12839]]
+*** [[Tiso_gene_17558]]
+*** [[Tiso_gene_1398]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12400]]
+** 3 associated gene(s):
+*** [[Tiso_gene_1398]]
+*** [[Tiso_gene_12839]]
+*** [[Tiso_gene_17558]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.120-RXN 3.2.1.120-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12397 RXN-12397]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12402 RXN-12402]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=xyloglucan degradation II (exoglucanase)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

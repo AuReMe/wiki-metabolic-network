@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14426 CPD-14426] ==
+* smiles:
+** CCC=CCC=CCC=CCC=CCC=CCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** docosapentaenoyl-CoA
+* inchi key:
+** InChIKey=NDRVWKXEWNMEEO-HVGANWHPSA-J
+* molecular weight:
+** 1075.997    
+* Synonym(s):
+** (7Z,10Z,13Z,16Z,19Z)-docosa-7,10,13,16,19-pentaenoyl-CoA
+** (7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13446]]
+* [[RXN-16082]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13445]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71581114 71581114]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=73870 73870]
+{{#set: smiles=CCC=CCC=CCC=CCC=CCC=CCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=docosapentaenoyl-CoA}}
+{{#set: inchi key=InChIKey=NDRVWKXEWNMEEO-HVGANWHPSA-J}}
+{{#set: molecular weight=1075.997    }}
+{{#set: common name=(7Z,10Z,13Z,16Z,19Z)-docosa-7,10,13,16,19-pentaenoyl-CoA|(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA}}
+{{#set: consumed by=RXN-13446|RXN-16082}}
+{{#set: produced by=RXN-13445}}

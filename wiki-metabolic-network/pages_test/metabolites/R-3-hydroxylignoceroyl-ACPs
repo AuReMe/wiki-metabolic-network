@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=R-3-hydroxylignoceroyl-ACPs R-3-hydroxylignoceroyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxylignoceroyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-517]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-508]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxylignoceroyl-[acp]}}
+{{#set: consumed by=RXN1G-517}}
+{{#set: produced by=RXN1G-508}}

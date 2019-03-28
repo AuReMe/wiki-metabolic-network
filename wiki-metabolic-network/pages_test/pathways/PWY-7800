@@ -1,0 +1,136 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7800 PWY-7800] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** Ac/N-end rule pathway
+* Synonym(s):
+** N-Terminal acetylation-targeted N-End Rule pathway
+
+== Reaction(s) found ==
+ '''21''' reactions found over '''21''' reactions in the full pathway
+* [[RXN-17850]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17851]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17852]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17853]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17854]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17855]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17856]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17857]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17858]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17859]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17860]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17861]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17862]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17863]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17864]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17873]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4247]]
+*** [[Tiso_gene_5715]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17874]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4247]]
+*** [[Tiso_gene_5715]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17875]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4247]]
+*** [[Tiso_gene_5715]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17876]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5715]]
+*** [[Tiso_gene_4247]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-17877]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5715]]
+*** [[Tiso_gene_4247]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-17878]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4247]]
+*** [[Tiso_gene_5715]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=Ac/N-end rule pathway}}
+{{#set: common name=N-Terminal acetylation-targeted N-End Rule pathway}}
+{{#set: reaction found=21}}
+{{#set: total reaction=21}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,20 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2247 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-1461]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY0-1415]]
+* [[HEME-BIOSYNTHESIS-II]]
+* [[CHLOROPHYLL-SYN]]
+* [[PWY-7159]]
+== External links  ==
+{{#set: reaction associated=RXN0-1461}}
+{{#set: pathway associated=PWY0-1415|HEME-BIOSYNTHESIS-II|CHLOROPHYLL-SYN|PWY-7159}}

@@ -1,0 +1,22 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9894 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMINOPARATHION-PHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ARYLDIALKYL-PHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ARYLDIALKYLPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8743]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8746]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5490]]
+* [[PARATHION-DEGRADATION-PWY]]
+* [[PWY-5489]]
+== External links  ==
+{{#set: reaction associated=AMINOPARATHION-PHOSPHATASE-RXN|ARYLDIALKYL-PHOSPHATASE-RXN|ARYLDIALKYLPHOSPHATASE-RXN|RXN-8743|RXN-8746}}
+{{#set: pathway associated=PWY-5490|PARATHION-DEGRADATION-PWY|PWY-5489}}

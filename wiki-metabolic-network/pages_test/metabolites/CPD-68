@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-68 CPD-68] ==
+* smiles:
+** C([O-])(=O)C1(CC1)[N+]
+* common name:
+** 1-aminocyclopropane-1-carboxylate
+* inchi key:
+** InChIKey=PAJPWUMXBYXFCZ-UHFFFAOYSA-N
+* molecular weight:
+** 101.105    
+* Synonym(s):
+** 1-aminocyclopropane-1-carboxylic acid
+** ACC
+** 1-aminocyclopropanecarboxylic acid
+** 1-aminocyclopropanecarboxylate
+
+== Reaction(s) known to consume the compound ==
+* [[4.1.99.4-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[4.4.1.14-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 22059-21-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971063 6971063]
+* HMDB : HMDB36458
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01234 C01234]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58360 58360]
+* METABOLIGHTS : MTBLC58360
+{{#set: smiles=C([O-])(=O)C1(CC1)[N+]}}
+{{#set: common name=1-aminocyclopropane-1-carboxylate}}
+{{#set: inchi key=InChIKey=PAJPWUMXBYXFCZ-UHFFFAOYSA-N}}
+{{#set: molecular weight=101.105    }}
+{{#set: common name=1-aminocyclopropane-1-carboxylic acid|ACC|1-aminocyclopropanecarboxylic acid|1-aminocyclopropanecarboxylate}}
+{{#set: consumed by=4.1.99.4-RXN}}
+{{#set: produced by=4.4.1.14-RXN}}

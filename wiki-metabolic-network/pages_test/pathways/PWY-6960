@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6960 PWY-6960] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-ascorbate degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-12440]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16028]]
+*** [[Tiso_gene_5435]]
+*** [[Tiso_gene_15962]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12869]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12872]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12873 RXN-12873]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12874 RXN-12874]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12875 RXN-12875]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-ascorbate degradation III}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

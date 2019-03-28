@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17640 CPD-17640] ==
+* smiles:
+** C(O)CCCCCCCCCCCCCCCCC([O-])=O
+* common name:
+** 18-hydroxystearate
+* inchi key:
+** InChIKey=VLHZUYUOEGBBJB-UHFFFAOYSA-M
+* molecular weight:
+** 299.473    
+* Synonym(s):
+** 18-hydroxyoctadecanoate
+** 18-hydroxyoctadecanoic acid
+** 18-hydroxystearic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16401]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21891501 21891501]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=86046 86046]
+{{#set: smiles=C(O)CCCCCCCCCCCCCCCCC([O-])=O}}
+{{#set: common name=18-hydroxystearate}}
+{{#set: inchi key=InChIKey=VLHZUYUOEGBBJB-UHFFFAOYSA-M}}
+{{#set: molecular weight=299.473    }}
+{{#set: common name=18-hydroxyoctadecanoate|18-hydroxyoctadecanoic acid|18-hydroxystearic acid}}
+{{#set: consumed by=RXN-16401}}

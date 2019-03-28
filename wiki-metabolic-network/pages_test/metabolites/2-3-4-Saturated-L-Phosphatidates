@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-3-4-Saturated-L-Phosphatidates 2-3-4-Saturated-L-Phosphatidates] ==
+* common name:
+** a 1,2-diacyl-sn-glycerol 3-phosphate
+* Synonym(s):
+** an L-phosphatidate
+** a 3-sn-phosphatidate
+** a diacyl-glycerol-3P
+** a 2,3,4-saturated L-phosphatidate
+** a phosphatidic acid
+** a 1,2-diacylglycerol 3-phosphate
+** a phosphatidate
+** a diacylglycerol 3-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5515]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5514]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 1,2-diacyl-sn-glycerol 3-phosphate}}
+{{#set: common name=an L-phosphatidate|a 3-sn-phosphatidate|a diacyl-glycerol-3P|a 2,3,4-saturated L-phosphatidate|a phosphatidic acid|a 1,2-diacylglycerol 3-phosphate|a phosphatidate|a diacylglycerol 3-phosphate}}
+{{#set: consumed by=RXN0-5515}}
+{{#set: produced by=RXN0-5514}}

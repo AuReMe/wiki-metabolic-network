@@ -1,0 +1,14 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12434 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYCEROL-KIN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-4261]]
+== External links  ==
+{{#set: reaction associated=GLYCEROL-KIN-RXN}}
+{{#set: pathway associated=PWY-4261}}

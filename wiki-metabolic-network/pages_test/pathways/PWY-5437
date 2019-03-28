@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5437 PWY-5437] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-threonine degradation I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-15121]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-15122]]
+** 3 associated gene(s):
+*** [[Tiso_gene_8525]]
+*** [[Tiso_gene_17207]]
+*** [[Tiso_gene_12535]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-15123]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=KETOBUTFORMLY-RXN KETOBUTFORMLY-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PROPKIN-RXN PROPKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PTAALT-RXN PTAALT-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-5437 PWY-5437]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-threonine degradation I}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

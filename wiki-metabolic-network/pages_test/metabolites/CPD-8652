@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8652 CPD-8652] ==
+* smiles:
+** C([O-])(=O)C1(NC2(=C(C1)C=C(O)C(O)=C2))
+* common name:
+** leucodopachrome
+* inchi key:
+** InChIKey=JDWYRSDDJVCWPB-LURJTMIESA-M
+* molecular weight:
+** 194.166    
+* Synonym(s):
+** cyclo-dopa
+** 2-carboxy-2,3-dihydro-5,6-dihydroxyindole
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11369]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-8483]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202233 25202233]
+* HMDB : HMDB04067
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05604 C05604]
+{{#set: smiles=C([O-])(=O)C1(NC2(=C(C1)C=C(O)C(O)=C2))}}
+{{#set: common name=leucodopachrome}}
+{{#set: inchi key=InChIKey=JDWYRSDDJVCWPB-LURJTMIESA-M}}
+{{#set: molecular weight=194.166    }}
+{{#set: common name=cyclo-dopa|2-carboxy-2,3-dihydro-5,6-dihydroxyindole}}
+{{#set: consumed by=RXN-11369}}
+{{#set: produced by=RXN-8483}}

@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=STRICTOSIDINE STRICTOSIDINE] ==
+* smiles:
+** C=C[CH]4([CH](C[CH]3(C2(NC1(=CC=CC=C1C=2CC[N+]3))))C(C(=O)OC)=COC4OC5(OC(C(C(C5O)O)O)CO))
+* common name:
+** strictosidine
+* inchi key:
+** InChIKey=XBAMJZTXGWPTRM-AWTFMMIESA-O
+* molecular weight:
+** 531.581    
+* Synonym(s):
+** 3-&alpha;(S)-strictosidine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[STRICTOSIDINE-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 20824-29-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44123291 44123291]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17559 17559]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03470 C03470]
+{{#set: smiles=C=C[CH]4([CH](C[CH]3(C2(NC1(=CC=CC=C1C=2CC[N+]3))))C(C(=O)OC)=COC4OC5(OC(C(C(C5O)O)O)CO))}}
+{{#set: common name=strictosidine}}
+{{#set: inchi key=InChIKey=XBAMJZTXGWPTRM-AWTFMMIESA-O}}
+{{#set: molecular weight=531.581    }}
+{{#set: common name=3-&alpha;(S)-strictosidine}}
+{{#set: produced by=STRICTOSIDINE-SYNTHASE-RXN}}

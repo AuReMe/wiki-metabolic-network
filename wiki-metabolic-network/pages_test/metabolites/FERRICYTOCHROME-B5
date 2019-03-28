@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FERRICYTOCHROME-B5 FERRICYTOCHROME-B5] ==
+* common name:
+** a ferricytochrome b5
+* Synonym(s):
+** an oxidized cytochrome b5
+
+== Reaction(s) known to consume the compound ==
+* [[CYTOCHROME-B5-REDUCTASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-8350]]
+* [[1.14.21.6-RXN]]
+* [[1.14.19.3-RXN]]
+* [[RXN-8346]]
+* [[RXN-11680]]
+* [[RXN-16099]]
+* [[RXN-4209]]
+* [[RXN-16101]]
+* [[RXN3O-218]]
+* [[RXN-16332]]
+* [[RXN-16132]]
+* [[1.14.19.1-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[CY_focytb5_c]]
+== External links  ==
+{{#set: common name=a ferricytochrome b5}}
+{{#set: common name=an oxidized cytochrome b5}}
+{{#set: consumed by=CYTOCHROME-B5-REDUCTASE-RXN}}
+{{#set: produced by=RXN-8350|1.14.21.6-RXN|1.14.19.3-RXN|RXN-8346|RXN-11680|RXN-16099|RXN-4209|RXN-16101|RXN3O-218|RXN-16332|RXN-16132|1.14.19.1-RXN}}
+{{#set: reversible reaction associated=CY_focytb5_c}}

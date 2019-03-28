@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7126 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPARTATE--TRNA-LIGASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: reaction associated=ASPARTATE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

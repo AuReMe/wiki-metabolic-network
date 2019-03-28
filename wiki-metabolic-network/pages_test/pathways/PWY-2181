@@ -1,0 +1,44 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-2181 PWY-2181] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** free phenylpropanoid acid biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-1104]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18971]]
+*** [[Tiso_gene_18257]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1121]]
+** 5 associated gene(s):
+*** [[Tiso_gene_17028]]
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_3577]]
+*** [[Tiso_gene_11183]]
+*** [[Tiso_gene_1547]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-3422]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18257]]
+*** [[Tiso_gene_18971]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1103 RXN-1103]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-2181 PWY-2181]
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=free phenylpropanoid acid biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

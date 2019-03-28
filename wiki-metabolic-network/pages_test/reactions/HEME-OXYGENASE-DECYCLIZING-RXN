@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HEME-OXYGENASE-DECYCLIZING-RXN HEME-OXYGENASE-DECYCLIZING-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.14.18 EC-1.14.14.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTOHEME]][c] '''+''' 2 [[PROTON]][c] '''+''' 3 [[Red-NADPH-Hemoprotein-Reductases]][c] '''+''' 3 [[OXYGEN-MOLECULE]][c] '''=>''' 3 [[Ox-NADPH-Hemoprotein-Reductases]][c] '''+''' 1 [[FE+2]][c] '''+''' 1 [[CARBON-MONOXIDE]][c] '''+''' 1 [[BILIVERDINE]][c] '''+''' 3 [[WATER]][c]
+* With common name(s):
+** 1 ferroheme b[c] '''+''' 2 H+[c] '''+''' 3 a reduced [NADPH-hemoprotein reductase][c] '''+''' 3 oxygen[c] '''=>''' 3 an oxidized [NADPH-hemoprotein reductase][c] '''+''' 1 Fe2+[c] '''+''' 1 carbon monoxide[c] '''+''' 1 biliverdin-IX-&alpha;[c] '''+''' 3 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19364]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5874]], heme degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5874 PWY-5874]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00311 R00311]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P23711 P23711]
+** [http://www.uniprot.org/uniprot/P14901 P14901]
+** [http://www.uniprot.org/uniprot/P30519 P30519]
+** [http://www.uniprot.org/uniprot/P06762 P06762]
+** [http://www.uniprot.org/uniprot/P09601 P09601]
+** [http://www.uniprot.org/uniprot/Q7M338 Q7M338]
+** [http://www.uniprot.org/uniprot/P14791 P14791]
+** [http://www.uniprot.org/uniprot/P32394 P32394]
+** [http://www.uniprot.org/uniprot/P72849 P72849]
+** [http://www.uniprot.org/uniprot/P74133 P74133]
+** [http://www.uniprot.org/uniprot/Q9RKR1 Q9RKR1]
+** [http://www.uniprot.org/uniprot/O48782 O48782]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.14.14.18}}
+{{#set: gene associated=Tiso_gene_19364}}
+{{#set: in pathway=PWY-5874}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-557 CPD-557] ==
+* common name:
+** a protein-N&omega;-(ADP-D-ribosyl)-L-arginine
+* Synonym(s):
+** N2-(ADP-D-ribosyl)-L-arginine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.4.2.31-RXN]]
+== External links  ==
+{{#set: common name=a protein-N&omega;-(ADP-D-ribosyl)-L-arginine}}
+{{#set: common name=N2-(ADP-D-ribosyl)-L-arginine}}
+{{#set: reversible reaction associated=2.4.2.31-RXN}}

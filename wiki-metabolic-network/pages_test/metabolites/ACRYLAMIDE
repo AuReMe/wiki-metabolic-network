@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACRYLAMIDE ACRYLAMIDE] ==
+* smiles:
+** C=CC(=O)N
+* common name:
+** acrylamide
+* inchi key:
+** InChIKey=HRPVXLWXLXDGHG-UHFFFAOYSA-N
+* molecular weight:
+** 71.079    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[R311-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[R310-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6579 6579]
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=7785 7785]
+* HMDB : HMDB04296
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01659 C01659]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.6331.html 6331]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28619 28619]
+{{#set: smiles=C=CC(=O)N}}
+{{#set: common name=acrylamide}}
+{{#set: inchi key=InChIKey=HRPVXLWXLXDGHG-UHFFFAOYSA-N}}
+{{#set: molecular weight=71.079    }}
+{{#set: consumed by=R311-RXN}}
+{{#set: produced by=R310-RXN}}

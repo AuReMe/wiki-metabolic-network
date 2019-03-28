@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11523 CPD-11523] ==
+* smiles:
+** CCC=CCC4(C(=O)CCC(CCCC(O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)4)
+* common name:
+** OPC6-3-hydroxyacyl-CoA
+* inchi key:
+** InChIKey=OMDQVIUYDJAWHX-ZMWLRFEFSA-J
+* molecular weight:
+** 1027.866    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10702]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10704]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237226 44237226]
+{{#set: smiles=CCC=CCC4(C(=O)CCC(CCCC(O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)4)}}
+{{#set: common name=OPC6-3-hydroxyacyl-CoA}}
+{{#set: inchi key=InChIKey=OMDQVIUYDJAWHX-ZMWLRFEFSA-J}}
+{{#set: molecular weight=1027.866    }}
+{{#set: consumed by=RXN-10702}}
+{{#set: produced by=RXN-10704}}

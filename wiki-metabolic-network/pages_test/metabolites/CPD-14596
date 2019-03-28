@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14596 CPD-14596] ==
+* smiles:
+** CCC(OC2(OC(COC1(OC(CO)C(O)C(O)C(O)1))C(O)C(O)C(O)2))(C#N)C
+* common name:
+** neolinustatin
+* inchi key:
+** InChIKey=WOSYVGNDRYBQCQ-BARGLTKPSA-N
+* molecular weight:
+** 423.416    
+* Synonym(s):
+** butanenitrile
+** [(2R)-2-(6-O-&beta;-D-glucopyranosyl-&beta;-D-glucopyranosyloxy)-2-methylbutyronitrile)]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13603]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08336 C08336]
+* HMDB : HMDB38482
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=7506 7506]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=119533 119533]
+{{#set: smiles=CCC(OC2(OC(COC1(OC(CO)C(O)C(O)C(O)1))C(O)C(O)C(O)2))(C#N)C}}
+{{#set: common name=neolinustatin}}
+{{#set: inchi key=InChIKey=WOSYVGNDRYBQCQ-BARGLTKPSA-N}}
+{{#set: molecular weight=423.416    }}
+{{#set: common name=butanenitrile|[(2R)-2-(6-O-&beta;-D-glucopyranosyl-&beta;-D-glucopyranosyloxy)-2-methylbutyronitrile)]}}
+{{#set: consumed by=RXN-13603}}

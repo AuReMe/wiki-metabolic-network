@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ACETOACETATE-DEG-PWY ACETOACETATE-DEG-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** acetoacetate degradation (to acetyl CoA)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETOACETYL-COA-TRANSFER-RXN ACETOACETYL-COA-TRANSFER-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=ACETOACETATE-DEG-PWY ACETOACETATE-DEG-PWY]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=acetoacetate degradation (to acetyl CoA)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

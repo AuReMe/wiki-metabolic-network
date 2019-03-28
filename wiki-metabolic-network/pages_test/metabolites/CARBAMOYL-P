@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CARBAMOYL-P CARBAMOYL-P] ==
+* smiles:
+** C(=O)(N)OP(=O)([O-])[O-]
+* common name:
+** carbamoyl phosphate
+* inchi key:
+** InChIKey=FFQKYPRQEYGKAF-UHFFFAOYSA-L
+* molecular weight:
+** 139.004    
+* Synonym(s):
+** carbamoyl-P
+** carbamyl-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17753]]
+== Reaction(s) known to produce the compound ==
+* [[CARBPSYN-RXN]]
+* [[RXN-14196]]
+* [[RXN-13202]]
+* [[6.3.4.16-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13482]]
+* [[ASPCARBTRANS-RXN]]
+* [[ORNCARBAMTRANSFER-RXN]]
+* [[CARBAMATE-KINASE-RXN]]
+== External links  ==
+* CAS : 590-55-6
+* BIGG : cbp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3423467 3423467]
+* HMDB : HMDB01096
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00169 C00169]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2666990.html 2666990]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58228 58228]
+* METABOLIGHTS : MTBLC58228
+{{#set: smiles=C(=O)(N)OP(=O)([O-])[O-]}}
+{{#set: common name=carbamoyl phosphate}}
+{{#set: inchi key=InChIKey=FFQKYPRQEYGKAF-UHFFFAOYSA-L}}
+{{#set: molecular weight=139.004    }}
+{{#set: common name=carbamoyl-P|carbamyl-phosphate}}
+{{#set: consumed by=RXN-17753}}
+{{#set: produced by=CARBPSYN-RXN|RXN-14196|RXN-13202|6.3.4.16-RXN}}
+{{#set: reversible reaction associated=RXN-13482|ASPCARBTRANS-RXN|ORNCARBAMTRANSFER-RXN|CARBAMATE-KINASE-RXN}}

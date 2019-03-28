@@ -1,0 +1,81 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-361 PWY-361] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** phenylpropanoid biosynthesis
+* Synonym(s):
+** monolignol biosynthesis
+** lignin biosynthesis
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''15''' reactions in the full pathway
+* [[4-COUMARATE--COA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12275]]
+*** [[Tiso_gene_14183]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10561]]
+*** [[Tiso_gene_14561]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1101]]
+** 3 associated gene(s):
+*** [[Tiso_gene_15272]]
+*** [[Tiso_gene_9504]]
+*** [[Tiso_gene_11016]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1102]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15088]]
+*** [[Tiso_gene_16681]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1106]]
+** 3 associated gene(s):
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_15272]]
+*** [[Tiso_gene_9504]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1125]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15088]]
+*** [[Tiso_gene_16681]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1143]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18257]]
+*** [[Tiso_gene_18971]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.14.13.36-RXN 1.14.13.36-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.133-RXN 2.3.1.133-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1142 RXN-1142]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2581 RXN-2581]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2601 RXN-2601]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2602 RXN-2602]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2621 RXN-2621]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2622 RXN-2622]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-361 PWY-361]
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=phenylpropanoid biosynthesis}}
+{{#set: common name=monolignol biosynthesis|lignin biosynthesis}}
+{{#set: reaction found=7}}
+{{#set: total reaction=15}}
+{{#set: completion rate=47.0}}

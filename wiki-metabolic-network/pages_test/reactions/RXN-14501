@@ -1,0 +1,24 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14501 RXN-14501] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-15373]][c] '''=>''' 1 [[CPD-12601]][c]
+* With common name(s):
+** 1 aldehydo-D-mannose[c] '''=>''' 1 &beta;-D-mannopyranose[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

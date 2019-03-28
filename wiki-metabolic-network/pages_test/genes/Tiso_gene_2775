@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2775 ==
+* right end position:
+** 17424
+* transcription direction:
+** POSITIVE
+* left end position:
+** 16196
+* centisome position:
+** 87.64070    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GSHTRAN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+* Reaction: [[GST-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-13673]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-15680]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7112]]
+* [[PWY-6842]]
+* [[PWY-4061]]
+* [[PWY-7533]]
+== External links  ==
+{{#set: right end position=17424}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=16196}}
+{{#set: centisome position=87.64070    }}
+{{#set: reaction associated=GSHTRAN-RXN|GST-RXN|RXN-13673|RXN-15680}}
+{{#set: pathway associated=PWY-7112|PWY-6842|PWY-4061|PWY-7533}}

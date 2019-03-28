@@ -1,0 +1,78 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.2.1.13-RXN 1.2.1.13-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glyceraldehyde-3-phosphate_dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.13 EC-1.2.1.13]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[DPG]][c] '''+''' 1 [[NADPH]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[GAP]][c] '''+''' 1 [[NADP]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 1,3-bisphospho-D-glycerate[c] '''+''' 1 NADPH[c] '''=>''' 1 phosphate[c] '''+''' 1 D-glyceraldehyde 3-phosphate[c] '''+''' 1 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6766]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6765]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_20000]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10646]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[CALVIN-PWY]], Calvin-Benson-Bassham cycle: [http://metacyc.org/META/NEW-IMAGE?object=CALVIN-PWY CALVIN-PWY]
+** '''13''' reactions found over '''13''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10296 10296]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01063 R01063]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P09672 P09672]
+** [http://www.uniprot.org/uniprot/P09094 P09094]
+** [http://www.uniprot.org/uniprot/P12858 P12858]
+** [http://www.uniprot.org/uniprot/P12859 P12859]
+** [http://www.uniprot.org/uniprot/P12860 P12860]
+** [http://www.uniprot.org/uniprot/P09315 P09315]
+** [http://www.uniprot.org/uniprot/P25856 P25856]
+** [http://www.uniprot.org/uniprot/Q7M1R8 Q7M1R8]
+** [http://www.uniprot.org/uniprot/Q7M1R7 Q7M1R7]
+** [http://www.uniprot.org/uniprot/Q37174 Q37174]
+** [http://www.uniprot.org/uniprot/P30724 P30724]
+** [http://www.uniprot.org/uniprot/P80505 P80505]
+** [http://www.uniprot.org/uniprot/Q55245 Q55245]
+** [http://www.uniprot.org/uniprot/O22534 O22534]
+** [http://www.uniprot.org/uniprot/P50362 P50362]
+** [http://www.uniprot.org/uniprot/P19866 P19866]
+** [http://www.uniprot.org/uniprot/Q41019 Q41019]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glyceraldehyde-3-phosphate_dehydrogenase}}
+{{#set: ec number=EC-1.2.1.13}}
+{{#set: gene associated=Tiso_gene_6766|Tiso_gene_6765|Tiso_gene_20000|Tiso_gene_10646}}
+{{#set: in pathway=CALVIN-PWY}}
+{{#set: reconstruction category=manual|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|manual-primary_network|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

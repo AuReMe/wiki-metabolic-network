@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10965 ==
+* right end position:
+** 2956
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1193
+* centisome position:
+** 11.449137    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-12093]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6703]]
+== External links  ==
+{{#set: right end position=2956}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1193}}
+{{#set: centisome position=11.449137    }}
+{{#set: reaction associated=RXN-12093}}
+{{#set: pathway associated=PWY-6703}}

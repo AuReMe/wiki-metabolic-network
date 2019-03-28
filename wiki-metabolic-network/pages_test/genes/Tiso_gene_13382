@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13382 ==
+* right end position:
+** 4679
+* transcription direction:
+** POSITIVE
+* left end position:
+** 145
+* centisome position:
+** 2.2895942    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PORPHOBILSYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5189]]
+* [[PWY-5188]]
+== External links  ==
+{{#set: right end position=4679}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=145}}
+{{#set: centisome position=2.2895942    }}
+{{#set: reaction associated=PORPHOBILSYNTH-RXN}}
+{{#set: pathway associated=PWY-5189|PWY-5188}}

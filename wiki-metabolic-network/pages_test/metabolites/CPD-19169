@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19169 CPD-19169] ==
+* smiles:
+** CCCCCCCCC=CCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3-oxo-(9Z)-octadecenoyl-CoA
+* inchi key:
+** InChIKey=AVEYYKDEKGJVBU-BPMMELMSSA-J
+* molecular weight:
+** 1041.936    
+* Synonym(s):
+** 3-oxo-18:1-&Delta;9-CoA
+** 3-oxo-9-cis-octadecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17778]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17777]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: smiles=CCCCCCCCC=CCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3-oxo-(9Z)-octadecenoyl-CoA}}
+{{#set: inchi key=InChIKey=AVEYYKDEKGJVBU-BPMMELMSSA-J}}
+{{#set: molecular weight=1041.936    }}
+{{#set: common name=3-oxo-18:1-&Delta;9-CoA|3-oxo-9-cis-octadecenoyl-CoA}}
+{{#set: consumed by=RXN-17778}}
+{{#set: produced by=RXN-17777}}

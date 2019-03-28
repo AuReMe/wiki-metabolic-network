@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5030 PWY-5030] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** L-histidine degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[METHENYLTHFCYCLOHYDRO-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.3.1.4-RXN 4.3.1.4-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUTAMATE-FORMIMINOTRANSFERASE-RXN GLUTAMATE-FORMIMINOTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=HISTIDINE-AMMONIA-LYASE-RXN HISTIDINE-AMMONIA-LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=IMIDAZOLONEPROPIONASE-RXN IMIDAZOLONEPROPIONASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=UROCANATE-HYDRATASE-RXN UROCANATE-HYDRATASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=L-histidine degradation III}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

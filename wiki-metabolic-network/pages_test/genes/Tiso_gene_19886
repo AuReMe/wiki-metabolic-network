@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19886 ==
+* right end position:
+** 1698
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 317
+* centisome position:
+** 16.281458    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYOXII-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-7919]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5386]]
+== External links  ==
+{{#set: right end position=1698}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=317}}
+{{#set: centisome position=16.281458    }}
+{{#set: reaction associated=GLYOXII-RXN|RXN-7919}}
+{{#set: pathway associated=PWY-5386}}

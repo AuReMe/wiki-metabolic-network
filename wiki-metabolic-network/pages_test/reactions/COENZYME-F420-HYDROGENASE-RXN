@@ -1,0 +1,59 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=COENZYME-F420-HYDROGENASE-RXN COENZYME-F420-HYDROGENASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** coenzyme_f420_hydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.12.98.1 EC-1.12.98.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HYDROGEN-MOLECULE]][c] '''+''' 1 [[Oxidized-Factor-F420]][c] '''<=>''' 1 [[Reduced-Factor-F420]][c]
+* With common name(s):
+** 1 H2[c] '''+''' 1 an oxidized coenzyme F420[c] '''<=>''' 1 a reduced coenzyme F420[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1396]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23760 23760]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03025 R03025]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P19496 P19496]
+** [http://www.uniprot.org/uniprot/Q60338 Q60338]
+** [http://www.uniprot.org/uniprot/Q50783 Q50783]
+** [http://www.uniprot.org/uniprot/P19498 P19498]
+** [http://www.uniprot.org/uniprot/P19499 P19499]
+** [http://www.uniprot.org/uniprot/Q58744 Q58744]
+** [http://www.uniprot.org/uniprot/Q58136 Q58136]
+** [http://www.uniprot.org/uniprot/Q58280 Q58280]
+** [http://www.uniprot.org/uniprot/Q60341 Q60341]
+** [http://www.uniprot.org/uniprot/Q00390 Q00390]
+** [http://www.uniprot.org/uniprot/Q00392 Q00392]
+** [http://www.uniprot.org/uniprot/Q00393 Q00393]
+** [http://www.uniprot.org/uniprot/Q00391 Q00391]
+** [http://www.uniprot.org/uniprot/Q00404 Q00404]
+** [http://www.uniprot.org/uniprot/Q00396 Q00396]
+** [http://www.uniprot.org/uniprot/Q00395 Q00395]
+** [http://www.uniprot.org/uniprot/P80489 P80489]
+** [http://www.uniprot.org/uniprot/P80490 P80490]
+** [http://www.uniprot.org/uniprot/P80491 P80491]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=coenzyme_f420_hydrogenase}}
+{{#set: ec number=EC-1.12.98.1}}
+{{#set: gene associated=Tiso_gene_1396}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

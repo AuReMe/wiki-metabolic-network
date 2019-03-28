@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19309 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MALONYL-COA-ACP-TRANSACYL-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6799]]
+* [[PWY-7388]]
+* [[PWY-4381]]
+== External links  ==
+{{#set: reaction associated=MALONYL-COA-ACP-TRANSACYL-RXN}}
+{{#set: pathway associated=PWY-6799|PWY-7388|PWY-4381}}

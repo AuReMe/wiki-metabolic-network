@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ILE ILE] ==
+* smiles:
+** CCC(C)C([N+])C(=O)[O-]
+* common name:
+** L-isoleucine
+* inchi key:
+** InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
+* molecular weight:
+** 131.174    
+* Synonym(s):
+** I
+** ile
+** iso-leucine
+** L-ile
+
+== Reaction(s) known to consume the compound ==
+* [[ISOLEUCINE--TRNA-LIGASE-RXN]]
+* [[RME144]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[BRANCHED-CHAINAMINOTRANSFERILEU-RXN]]
+== External links  ==
+* CAS : 73-32-5
+* BIGG : ile__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7043901 7043901]
+* HMDB : HMDB00172
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00407 C00407]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58045 58045]
+* METABOLIGHTS : MTBLC58045
+{{#set: smiles=CCC(C)C([N+])C(=O)[O-]}}
+{{#set: common name=L-isoleucine}}
+{{#set: inchi key=InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N}}
+{{#set: molecular weight=131.174    }}
+{{#set: common name=I|ile|iso-leucine|L-ile}}
+{{#set: consumed by=ISOLEUCINE--TRNA-LIGASE-RXN|RME144}}
+{{#set: reversible reaction associated=BRANCHED-CHAINAMINOTRANSFERILEU-RXN}}

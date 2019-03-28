@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-DEHYDROPANTOATE 2-DEHYDROPANTOATE] ==
+* smiles:
+** CC(C(=O)C([O-])=O)(CO)C
+* common name:
+** 2-dehydropantoate
+* inchi key:
+** InChIKey=PKVVTUWHANFMQC-UHFFFAOYSA-M
+* molecular weight:
+** 145.135    
+* Synonym(s):
+** ketopantoate
+** 2-ketopantoate
+
+== Reaction(s) known to consume the compound ==
+* [[2-DEHYDROPANTOATE-REDUCT-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[MTMOHT]]
+* [[RXN-15635]]
+* [[R01226]]
+== Reaction(s) of unknown directionality ==
+* [[3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN]]
+* [[KETOPANTOALDOLASE-RXN]]
+== External links  ==
+* DRUGBANK : DB03795
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=16755619 16755619]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00966 C00966]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.14649571.html 14649571]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=11561 11561]
+* BIGG : 2dhp
+{{#set: smiles=CC(C(=O)C([O-])=O)(CO)C}}
+{{#set: common name=2-dehydropantoate}}
+{{#set: inchi key=InChIKey=PKVVTUWHANFMQC-UHFFFAOYSA-M}}
+{{#set: molecular weight=145.135    }}
+{{#set: common name=ketopantoate|2-ketopantoate}}
+{{#set: consumed by=2-DEHYDROPANTOATE-REDUCT-RXN}}
+{{#set: produced by=MTMOHT|RXN-15635|R01226}}
+{{#set: reversible reaction associated=3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN|KETOPANTOALDOLASE-RXN}}

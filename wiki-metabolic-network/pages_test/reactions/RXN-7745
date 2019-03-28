@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7745 RXN-7745] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1 EC-1.1.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-7066]][c] '''+''' 1 [[NAD]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[2-OXOBUTANOATE]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 (2R,3S)-3-methylmalate[c] '''+''' 1 NAD+[c] '''=>''' 1 CO2[c] '''+''' 1 2-oxobutanoate[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2920]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-5101]], L-isoleucine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5101 PWY-5101]
+** '''5''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=32718 32718]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00994 R00994]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.1.1}}
+{{#set: gene associated=Tiso_gene_2920}}
+{{#set: in pathway=PWY-5101}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

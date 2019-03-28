@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11334 ==
+* right end position:
+** 7636
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 48
+* centisome position:
+** 0.6102212    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7636}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=48}}
+{{#set: centisome position=0.6102212    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN|POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN}}

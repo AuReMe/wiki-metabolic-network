@@ -1,0 +1,47 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AGMATIN-RXN AGMATIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.3.11 EC-3.5.3.11]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[AGMATHINE]][c] '''=>''' 1 [[PUTRESCINE]][c] '''+''' 1 [[UREA]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 agmatine[c] '''=>''' 1 putrescine[c] '''+''' 1 urea[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4415]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6305]], putrescine biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6305 PWY-6305]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY0-823]], L-arginine degradation III (arginine decarboxylase/agmatinase pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY0-823 PWY0-823]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-40]], putrescine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-40 PWY-40]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13929 13929]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01157 R01157]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P60654 P60654]
+** [http://www.uniprot.org/uniprot/P60653 P60653]
+** [http://www.uniprot.org/uniprot/P60651 P60651]
+** [http://www.uniprot.org/uniprot/Q57757 Q57757]
+** [http://www.uniprot.org/uniprot/P73270 P73270]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.5.3.11}}
+{{#set: gene associated=Tiso_gene_4415}}
+{{#set: in pathway=PWY-6305|PWY0-823|PWY-40}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18053 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CYTOCHROME-C-OXIDASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GPH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15830]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-181]]
+* [[PWY-7279]]
+* [[PWY-3781]]
+* [[PWY-4521]]
+== External links  ==
+{{#set: reaction associated=CYTOCHROME-C-OXIDASE-RXN|GPH-RXN|RXN-15830}}
+{{#set: pathway associated=PWY-6692|PWY-181|PWY-7279|PWY-3781|PWY-4521}}

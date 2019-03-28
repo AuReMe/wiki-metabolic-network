@@ -1,0 +1,44 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5752 ==
+* right end position:
+** 2933
+* transcription direction:
+** POSITIVE
+* left end position:
+** 81
+* centisome position:
+** 0.6241812    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.5.1.19-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[3-DEHYDROQUINATE-DEHYDRATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[3-DEHYDROQUINATE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7967]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7968]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[SHIKIMATE-5-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6164]]
+* [[PWY-6707]]
+* [[PWY-6416]]
+* [[QUINATEDEG-PWY]]
+* [[PWY-6163]]
+== External links  ==
+{{#set: right end position=2933}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=81}}
+{{#set: centisome position=0.6241812    }}
+{{#set: reaction associated=2.5.1.19-RXN|3-DEHYDROQUINATE-DEHYDRATASE-RXN|3-DEHYDROQUINATE-SYNTHASE-RXN|RXN-7967|RXN-7968|SHIKIMATE-5-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=PWY-6164|PWY-6707|PWY-6416|QUINATEDEG-PWY|PWY-6163}}

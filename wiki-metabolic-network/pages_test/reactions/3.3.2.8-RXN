@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.3.2.8-RXN 3.3.2.8-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** limonene-12-epoxide_hydrolase_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/3.3.2.8 EC-3.3.2.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[4R-Limonene-1-2-epoxides]][c] '''=>''' 1 [[CPD-8222]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a (4R)-1,2-epoxymenth-8-ene[c] '''=>''' 1 (1S,2S,4R)-limonene-1,2-diol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15422]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-5923]], limonene degradation I (D-limonene): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5923 PWY-5923]
+** '''1''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10700 10700]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=limonene-12-epoxide_hydrolase_protein}}
+{{#set: ec number=EC-3.3.2.8}}
+{{#set: gene associated=Tiso_gene_15422}}
+{{#set: in pathway=PWY-5923}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

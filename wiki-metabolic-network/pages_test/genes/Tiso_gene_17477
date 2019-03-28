@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17477 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPARAGHYD-RXN]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[ASPARAGINE-DEG1-PWY]]
+* [[ASPASN-PWY]]
+* [[ASPARAGINE-DEG1-PWY-1]]
+== External links  ==
+{{#set: reaction associated=ASPARAGHYD-RXN}}
+{{#set: pathway associated=ASPARAGINE-DEG1-PWY|ASPASN-PWY|ASPARAGINE-DEG1-PWY-1}}

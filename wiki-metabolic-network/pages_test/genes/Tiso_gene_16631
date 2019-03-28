@@ -1,0 +1,79 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16631 ==
+* right end position:
+** 2444
+* transcription direction:
+** POSITIVE
+* left end position:
+** 355
+* centisome position:
+** 8.384506    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYLCOADEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-11734]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14131]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14229]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14262]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14278]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16540]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16557]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17775]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17779]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17783]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17784]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17788]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17792]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17796]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7094]]
+* [[PWY-7654]]
+* [[FAO-PWY]]
+* [[PWY-7656]]
+== External links  ==
+{{#set: right end position=2444}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=355}}
+{{#set: centisome position=8.384506    }}
+{{#set: reaction associated=ACYLCOADEHYDROG-RXN|LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN|RXN-11734|RXN-13451|RXN-13615|RXN-14131|RXN-14229|RXN-14262|RXN-14278|RXN-16540|RXN-16557|RXN-17775|RXN-17779|RXN-17783|RXN-17784|RXN-17788|RXN-17792|RXN-17796}}
+{{#set: pathway associated=PWY-7094|PWY-7654|FAO-PWY|PWY-7656}}

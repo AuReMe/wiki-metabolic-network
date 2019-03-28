@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_999 ==
+* right end position:
+** 13200
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10042
+* centisome position:
+** 37.467354    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.21.92-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=13200}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10042}}
+{{#set: centisome position=37.467354    }}
+{{#set: reaction associated=3.4.21.92-RXN}}

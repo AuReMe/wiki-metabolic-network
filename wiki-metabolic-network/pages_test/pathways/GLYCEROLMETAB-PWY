@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLYCEROLMETAB-PWY GLYCEROLMETAB-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** glycerol degradation V
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[2.7.1.121-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14441]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCDEH-RXN GLYCDEH-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=GLYCEROLMETAB-PWY GLYCEROLMETAB-PWY]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=glycerol degradation V}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

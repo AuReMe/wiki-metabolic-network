@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-KETO-4-DEOXY-D-GLUCARATE 5-KETO-4-DEOXY-D-GLUCARATE] ==
+* smiles:
+** C(C(CC(C(C([O-])=O)O)O)=O)([O-])=O
+* common name:
+** 5-dehydro-4-deoxy-D-glucarate
+* inchi key:
+** InChIKey=QUURPCHWPQNNGL-ZAFYKAAXSA-L
+* molecular weight:
+** 190.109    
+* Synonym(s):
+** 3-deoxy-2-keto-L-threo-hexarate
+** 5-keto-4-deoxy-D-glucarate
+** KDG
+** 3-deoxy-L-threo-hex-2-ulosarate
+** GLR
+** KGR
+** 5-KDG
+** 3-deoxy-(L)-threo-2-hexulosarate
+** (2R,3S)-2,3-dihydroxy-5-oxohexanedioate
+** 2-keto-L-threo-4,5-dihydroxyadipate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[KDGALDOL-RXN]]
+== External links  ==
+* DRUGBANK : DB03237
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5288442 5288442]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00679 C00679]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4450631.html 4450631]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=42819 42819]
+* BIGG : 5dh4dglc
+{{#set: smiles=C(C(CC(C(C([O-])=O)O)O)=O)([O-])=O}}
+{{#set: common name=5-dehydro-4-deoxy-D-glucarate}}
+{{#set: inchi key=InChIKey=QUURPCHWPQNNGL-ZAFYKAAXSA-L}}
+{{#set: molecular weight=190.109    }}
+{{#set: common name=3-deoxy-2-keto-L-threo-hexarate|5-keto-4-deoxy-D-glucarate|KDG|3-deoxy-L-threo-hex-2-ulosarate|GLR|KGR|5-KDG|3-deoxy-(L)-threo-2-hexulosarate|(2R,3S)-2,3-dihydroxy-5-oxohexanedioate|2-keto-L-threo-4,5-dihydroxyadipate}}
+{{#set: reversible reaction associated=KDGALDOL-RXN}}

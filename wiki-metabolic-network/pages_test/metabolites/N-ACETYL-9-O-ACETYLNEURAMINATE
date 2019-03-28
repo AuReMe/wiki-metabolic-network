@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYL-9-O-ACETYLNEURAMINATE N-ACETYL-9-O-ACETYLNEURAMINATE] ==
+* smiles:
+** CC(NC1(C(CC(O)(C(=O)[O-])OC1C(C(COC(=O)C)O)O)O))=O
+* common name:
+** N-acetyl-9-O-acetylneuraminate
+* inchi key:
+** InChIKey=NYWZBRWKDRMPAS-GYQVTDHRSA-M
+* molecular weight:
+** 350.302    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13182]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244648 25244648]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28999 28999]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04017 C04017]
+{{#set: smiles=CC(NC1(C(CC(O)(C(=O)[O-])OC1C(C(COC(=O)C)O)O)O))=O}}
+{{#set: common name=N-acetyl-9-O-acetylneuraminate}}
+{{#set: inchi key=InChIKey=NYWZBRWKDRMPAS-GYQVTDHRSA-M}}
+{{#set: molecular weight=350.302    }}
+{{#set: consumed by=RXN-13182}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3618 CPD-3618] ==
+* smiles:
+** CCCC(=O)C(=O)[O-]
+* common name:
+** 2-oxovalerate
+* inchi key:
+** InChIKey=KDVFRMMRZOCFLS-UHFFFAOYSA-M
+* molecular weight:
+** 115.108    
+* Synonym(s):
+** 2-ketopentanoate
+** 2-oxopentanoate
+** &alpha;-ketovaleric acid
+** 2-ketovalerate
+** &alpha;-ketovalerate
+** a-ketovaleric acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14986]]
+* [[RXN-18211]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 1821-02-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460364 5460364]
+* HMDB : HMDB01865
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06255 C06255]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573917.html 4573917]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28644 28644]
+{{#set: smiles=CCCC(=O)C(=O)[O-]}}
+{{#set: common name=2-oxovalerate}}
+{{#set: inchi key=InChIKey=KDVFRMMRZOCFLS-UHFFFAOYSA-M}}
+{{#set: molecular weight=115.108    }}
+{{#set: common name=2-ketopentanoate|2-oxopentanoate|&alpha;-ketovaleric acid|2-ketovalerate|&alpha;-ketovalerate|a-ketovaleric acid}}
+{{#set: produced by=RXN-14986|RXN-18211}}

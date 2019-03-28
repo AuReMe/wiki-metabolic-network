@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GALACTUROCAT-PWY GALACTUROCAT-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** D-galacturonate degradation I
+* Synonym(s):
+** D-galacturonate catabolism
+** D-galacturonate degradation
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[GALACTUROISOM-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_19097]]
+*** [[Tiso_gene_8329]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[KDPGALDOL-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12620]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ALTRO-OXIDOREDUCT-RXN ALTRO-OXIDOREDUCT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ALTRODEHYDRAT-RXN ALTRODEHYDRAT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=DEOXYGLUCONOKIN-RXN DEOXYGLUCONOKIN-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=GALACTUROCAT-PWY GALACTUROCAT-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=D-galacturonate degradation I}}
+{{#set: common name=D-galacturonate catabolism|D-galacturonate degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

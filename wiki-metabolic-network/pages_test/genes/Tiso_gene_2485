@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2485 ==
+* right end position:
+** 5826
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3231
+* centisome position:
+** 16.80362    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ARGSUCCINLYA-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-22]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5154]]
+* [[PWY-5]]
+* [[ARGSYN-PWY]]
+* [[PWY-4984]]
+* [[ARGSYNBSUB-PWY]]
+* [[PWY-4983]]
+* [[PWY-7400]]
+== External links  ==
+{{#set: right end position=5826}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3231}}
+{{#set: centisome position=16.80362    }}
+{{#set: reaction associated=ARGSUCCINLYA-RXN|RXN-22}}
+{{#set: pathway associated=PWY-5154|PWY-5|ARGSYN-PWY|PWY-4984|ARGSYNBSUB-PWY|PWY-4983|PWY-7400}}

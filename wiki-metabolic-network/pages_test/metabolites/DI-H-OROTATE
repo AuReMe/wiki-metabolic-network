@@ -1,0 +1,52 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DI-H-OROTATE DI-H-OROTATE] ==
+* smiles:
+** C1(C(=O)NC(=O)NC(C(=O)[O-])1)
+* common name:
+** (S)-dihydroorotate
+* inchi key:
+** InChIKey=UFIVEPVSAGBUSI-REOHCLBHSA-M
+* molecular weight:
+** 157.105    
+* Synonym(s):
+** dihydro-L-orotate
+** (S)-4,5-dihydroorotate
+** (S)-4,5-dihydroorotic acid
+** (S)-hydroorotic acid
+** (S)-di-H-orotate
+** L-dihydroorotate
+** 4,5-dihydro-L-orotate
+** L-4,5-dihydroorotate
+** (S)-4-pyrimidinecarboxylic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-6491]]
+* [[RXN0-6554]]
+* [[DIHYDROOROTATE-DEHYDROGENASE-RXN]]
+* [[RXN-9929]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-6490]]
+== Reaction(s) of unknown directionality ==
+* [[DIHYDROOROT-RXN]]
+== External links  ==
+* CAS : 5988-19-2
+* CAS : 155-54-4
+* BIGG : dhor__S
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460289 5460289]
+* HMDB : HMDB00528
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00337 C00337]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573876.html 4573876]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=30864 30864]
+* METABOLIGHTS : MTBLC30864
+{{#set: smiles=C1(C(=O)NC(=O)NC(C(=O)[O-])1)}}
+{{#set: common name=(S)-dihydroorotate}}
+{{#set: inchi key=InChIKey=UFIVEPVSAGBUSI-REOHCLBHSA-M}}
+{{#set: molecular weight=157.105    }}
+{{#set: common name=dihydro-L-orotate|(S)-4,5-dihydroorotate|(S)-4,5-dihydroorotic acid|(S)-hydroorotic acid|(S)-di-H-orotate|L-dihydroorotate|4,5-dihydro-L-orotate|L-4,5-dihydroorotate|(S)-4-pyrimidinecarboxylic acid}}
+{{#set: consumed by=RXN0-6491|RXN0-6554|DIHYDROOROTATE-DEHYDROGENASE-RXN|RXN-9929}}
+{{#set: produced by=RXN0-6490}}
+{{#set: reversible reaction associated=DIHYDROOROT-RXN}}

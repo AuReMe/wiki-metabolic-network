@@ -1,0 +1,69 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7254 PWY-7254] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** TCA cycle VII (acetate-producers)
+* Synonym(s):
+** tricarboxylic acid cycle
+** citric acid cycle
+** Krebs cycle
+** Szent-Gyorgyi-Krebs cycle
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''9''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[ACONITATEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[CITSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18030]]
+*** [[Tiso_gene_9601]]
+*** [[Tiso_gene_9603]]
+*** [[Tiso_gene_9602]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ISOCITDEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18262]]
+*** [[Tiso_gene_10809]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2OXOGLUTARATEDEH-RXN 2OXOGLUTARATEDEH-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALATE-DEHYDROGENASE-ACCEPTOR-RXN MALATE-DEHYDROGENASE-ACCEPTOR-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14971 RXN-14971]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8807 RXN-8807]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=TCA cycle VII (acetate-producers)}}
+{{#set: common name=tricarboxylic acid cycle|citric acid cycle|Krebs cycle|Szent-Gyorgyi-Krebs cycle}}
+{{#set: reaction found=5}}
+{{#set: total reaction=9}}
+{{#set: completion rate=56.0}}

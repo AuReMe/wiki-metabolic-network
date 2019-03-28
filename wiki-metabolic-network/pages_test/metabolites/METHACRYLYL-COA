@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=METHACRYLYL-COA METHACRYLYL-COA] ==
+* smiles:
+** C=C(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C
+* common name:
+** methylacrylyl-CoA
+* inchi key:
+** InChIKey=NPALUEYCDZWBOV-NDZSKPAWSA-J
+* molecular weight:
+** 831.577    
+* Synonym(s):
+** methacrylyl-CoA
+** 2-methylprop-2-enoyl-CoA
+** methacrylyl-coenzyme A
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[MEPROPCOA-FAD-RXN]]
+* [[MCDH]]
+== Reaction(s) of unknown directionality ==
+* [[METHYLACYLYLCOA-HYDROXY-RXN]]
+== External links  ==
+* CAS : 6008-91-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=53262325 53262325]
+* HMDB : HMDB01011
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62500 62500]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03460 C03460]
+{{#set: smiles=C=C(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C}}
+{{#set: common name=methylacrylyl-CoA}}
+{{#set: inchi key=InChIKey=NPALUEYCDZWBOV-NDZSKPAWSA-J}}
+{{#set: molecular weight=831.577    }}
+{{#set: common name=methacrylyl-CoA|2-methylprop-2-enoyl-CoA|methacrylyl-coenzyme A}}
+{{#set: produced by=MEPROPCOA-FAD-RXN|MCDH}}
+{{#set: reversible reaction associated=METHYLACYLYLCOA-HYDROXY-RXN}}

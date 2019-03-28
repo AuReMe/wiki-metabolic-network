@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=THIAMINE THIAMINE] ==
+* smiles:
+** CC1([N+](=CSC(CCO)=1)CC2(C=NC(C)=NC(N)=2))
+* common name:
+** thiamine
+* inchi key:
+** InChIKey=JZRWCGZRTZMZEH-UHFFFAOYSA-N
+* molecular weight:
+** 265.352    
+* Synonym(s):
+** thiamin
+** vitamin B1
+
+== Reaction(s) known to consume the compound ==
+* [[THIAMIN-PYROPHOSPHOKINASE-RXN]]
+* [[TransportSeed_THIAMINE]]
+* [[TMDPT]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_THIAMINE]]
+* [[RXNQT-4191]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_THIAMINE]]
+== External links  ==
+* CAS : 67-03-8
+* CAS : 59-43-8
+* BIGG : thm
+* DRUGBANK : DB00152
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1130 1130]
+* HMDB : HMDB00235
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00378 C00378]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1098.html 1098]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18385 18385]
+* METABOLIGHTS : MTBLC18385
+{{#set: smiles=CC1([N+](=CSC(CCO)=1)CC2(C=NC(C)=NC(N)=2))}}
+{{#set: common name=thiamine}}
+{{#set: inchi key=InChIKey=JZRWCGZRTZMZEH-UHFFFAOYSA-N}}
+{{#set: molecular weight=265.352    }}
+{{#set: common name=thiamin|vitamin B1}}
+{{#set: consumed by=THIAMIN-PYROPHOSPHOKINASE-RXN|TransportSeed_THIAMINE|TMDPT}}
+{{#set: produced by=TransportSeed_THIAMINE|RXNQT-4191}}
+{{#set: reversible reaction associated=ExchangeSeed_THIAMINE}}

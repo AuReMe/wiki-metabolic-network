@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18595 ==
+* right end position:
+** 2911
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1298
+* centisome position:
+** 44.46728    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.6.13-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11569]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-16483]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7644]]
+== External links  ==
+{{#set: right end position=2911}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1298}}
+{{#set: centisome position=44.46728    }}
+{{#set: reaction associated=3.1.6.13-RXN|RXN-11569|RXN-16483}}
+{{#set: pathway associated=PWY-7644}}

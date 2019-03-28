@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11519 CPD-11519] ==
+* smiles:
+** CCC=CCC4(C(=O)CCC(CCCCCC(O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)4)
+* common name:
+** OPC8-3-hydroxyacyl-CoA
+* inchi key:
+** InChIKey=PDDHCVXPABQISO-PEUIIYGWSA-J
+* molecular weight:
+** 1055.92    
+* Synonym(s):
+** 3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octa-3-hydroxy-2-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10698]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10697]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237307 44237307]
+{{#set: smiles=CCC=CCC4(C(=O)CCC(CCCCCC(O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)4)}}
+{{#set: common name=OPC8-3-hydroxyacyl-CoA}}
+{{#set: inchi key=InChIKey=PDDHCVXPABQISO-PEUIIYGWSA-J}}
+{{#set: molecular weight=1055.92    }}
+{{#set: common name=3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octa-3-hydroxy-2-enoyl-CoA}}
+{{#set: consumed by=RXN-10698}}
+{{#set: produced by=RXN-10697}}

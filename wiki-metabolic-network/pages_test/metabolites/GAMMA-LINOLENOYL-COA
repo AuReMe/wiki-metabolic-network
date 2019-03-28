@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GAMMA-LINOLENOYL-COA GAMMA-LINOLENOYL-COA] ==
+* smiles:
+** CCCCCC=CCC=CCC=CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** &gamma;-linolenoyl-CoA
+* inchi key:
+** InChIKey=XZQYPTBYQYZGRU-FHDVEODPSA-J
+* molecular weight:
+** 1023.921    
+* Synonym(s):
+** (6Z,9Z,12Z)-octadeca-6,9,12-trienoyl-CoA
+** (6Z,9Z,12Z)-octadecatrienoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[1.14.19.3-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03035 C03035]
+* HMDB : HMDB06368
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57363 57363]
+* METABOLIGHTS : MTBLC57363
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266591 45266591]
+{{#set: smiles=CCCCCC=CCC=CCC=CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=&gamma;-linolenoyl-CoA}}
+{{#set: inchi key=InChIKey=XZQYPTBYQYZGRU-FHDVEODPSA-J}}
+{{#set: molecular weight=1023.921    }}
+{{#set: common name=(6Z,9Z,12Z)-octadeca-6,9,12-trienoyl-CoA|(6Z,9Z,12Z)-octadecatrienoyl-CoA}}
+{{#set: produced by=1.14.19.3-RXN}}

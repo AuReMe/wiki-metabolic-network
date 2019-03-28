@@ -1,0 +1,134 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACSERLY-RXN ACSERLY-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** cysteine_synthase
+** cog0031:_cysteine_synthase
+** cysteine
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.47 EC-2.5.1.47]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ACETYLSERINE]][c] '''+''' 1 [[HS]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[CYS]][c] '''+''' 1 [[ACET]][c]
+* With common name(s):
+** 1 O-acetyl-L-serine[c] '''+''' 1 hydrogen sulfide[c] '''<=>''' 1 H+[c] '''+''' 1 L-cysteine[c] '''+''' 1 acetate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_819]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7852]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_17043]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6110]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2283]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12184]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[CYSTSYN-PWY]], L-cysteine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=CYSTSYN-PWY CYSTSYN-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14829 14829]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00897 R00897]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P31300 P31300]
+** [http://www.uniprot.org/uniprot/Q43153 Q43153]
+** [http://www.uniprot.org/uniprot/O67507 O67507]
+** [http://www.uniprot.org/uniprot/P47998 P47998]
+** [http://www.uniprot.org/uniprot/Q9V1Q3 Q9V1Q3]
+** [http://www.uniprot.org/uniprot/Q9RW80 Q9RW80]
+** [http://www.uniprot.org/uniprot/P56067 P56067]
+** [http://www.uniprot.org/uniprot/P63873 P63873]
+** [http://www.uniprot.org/uniprot/Q9CI26 Q9CI26]
+** [http://www.uniprot.org/uniprot/Q9ZMW6 Q9ZMW6]
+** [http://www.uniprot.org/uniprot/P45040 P45040]
+** [http://www.uniprot.org/uniprot/Q9WZD3 Q9WZD3]
+** [http://www.uniprot.org/uniprot/Q9CHF0 Q9CHF0]
+** [http://www.uniprot.org/uniprot/P0A534 P0A534]
+** [http://www.uniprot.org/uniprot/P71128 P71128]
+** [http://www.uniprot.org/uniprot/O05393 O05393]
+** [http://www.uniprot.org/uniprot/O34476 O34476]
+** [http://www.uniprot.org/uniprot/Q9JQL6 Q9JQL6]
+** [http://www.uniprot.org/uniprot/P38076 P38076]
+** [http://www.uniprot.org/uniprot/Q7M1J2 Q7M1J2]
+** [http://www.uniprot.org/uniprot/P29848 P29848]
+** [http://www.uniprot.org/uniprot/P32260 P32260]
+** [http://www.uniprot.org/uniprot/Q00834 Q00834]
+** [http://www.uniprot.org/uniprot/Q43317 Q43317]
+** [http://www.uniprot.org/uniprot/P47999 P47999]
+** [http://www.uniprot.org/uniprot/Q43726 Q43726]
+** [http://www.uniprot.org/uniprot/P80608 P80608]
+** [http://www.uniprot.org/uniprot/Q59447 Q59447]
+** [http://www.uniprot.org/uniprot/P53206 P53206]
+** [http://www.uniprot.org/uniprot/P37887 P37887]
+** [http://www.uniprot.org/uniprot/Q59529 Q59529]
+** [http://www.uniprot.org/uniprot/P0A1E3 P0A1E3]
+** [http://www.uniprot.org/uniprot/P0ABK5 P0ABK5]
+** [http://www.uniprot.org/uniprot/P16703 P16703]
+** [http://www.uniprot.org/uniprot/O81154 O81154]
+** [http://www.uniprot.org/uniprot/O81155 O81155]
+** [http://www.uniprot.org/uniprot/O81523 O81523]
+** [http://www.uniprot.org/uniprot/Q93244 Q93244]
+** [http://www.uniprot.org/uniprot/O45679 O45679]
+** [http://www.uniprot.org/uniprot/Q9S2H1 Q9S2H1]
+** [http://www.uniprot.org/uniprot/P87131 P87131]
+** [http://www.uniprot.org/uniprot/Q9XDU7 Q9XDU7]
+** [http://www.uniprot.org/uniprot/Q9UWP0 Q9UWP0]
+** [http://www.uniprot.org/uniprot/O32978 O32978]
+** [http://www.uniprot.org/uniprot/Q9RAS8 Q9RAS8]
+** [http://www.uniprot.org/uniprot/Q9S757 Q9S757]
+** [http://www.uniprot.org/uniprot/Q9S6Z7 Q9S6Z7]
+** [http://www.uniprot.org/uniprot/Q43725 Q43725]
+** [http://www.uniprot.org/uniprot/Q9SMY4 Q9SMY4]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=cysteine_synthase}}
+{{#set: common name=cog0031:_cysteine_synthase}}
+{{#set: common name=cysteine}}
+{{#set: ec number=EC-2.5.1.47}}
+{{#set: gene associated=Tiso_gene_819|Tiso_gene_7852|Tiso_gene_17043|Tiso_gene_6110|Tiso_gene_2283|Tiso_gene_12184}}
+{{#set: in pathway=CYSTSYN-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

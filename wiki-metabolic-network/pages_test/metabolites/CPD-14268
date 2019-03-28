@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14268 CPD-14268] ==
+* smiles:
+** CCCCCCCCC=CCCCCCCCCCCCCCC(=O)[O-]
+* common name:
+** (15Z)-tetracosenoate
+* inchi key:
+** InChIKey=GWHCXVQVJPWHRF-KTKRTIGZSA-M
+* molecular weight:
+** 365.618    
+* Synonym(s):
+** (15Z)-tetracosen-15-oate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13290]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5461001 5461001]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=32392 32392]
+* METABOLIGHTS : MTBLC32392
+{{#set: smiles=CCCCCCCCC=CCCCCCCCCCCCCCC(=O)[O-]}}
+{{#set: common name=(15Z)-tetracosenoate}}
+{{#set: inchi key=InChIKey=GWHCXVQVJPWHRF-KTKRTIGZSA-M}}
+{{#set: molecular weight=365.618    }}
+{{#set: common name=(15Z)-tetracosen-15-oate}}
+{{#set: consumed by=RXN-13290}}

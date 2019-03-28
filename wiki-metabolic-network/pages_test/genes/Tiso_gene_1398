@@ -1,0 +1,48 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1398 ==
+* right end position:
+** 21490
+* transcription direction:
+** POSITIVE
+* left end position:
+** 16012
+* centisome position:
+** 67.04631    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.2.1.23-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[BETAGALACTOSID-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[KETOLACTOSE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12398]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12399]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12400]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6807]]
+* [[BGALACT-PWY]]
+* [[LACTOSEUTIL-PWY]]
+== External links  ==
+{{#set: right end position=21490}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=16012}}
+{{#set: centisome position=67.04631    }}
+{{#set: reaction associated=3.2.1.23-RXN|BETAGALACTOSID-RXN|KETOLACTOSE-RXN|RXN-12398|RXN-12399|RXN-12400}}
+{{#set: pathway associated=PWY-6807|BGALACT-PWY|LACTOSEUTIL-PWY}}

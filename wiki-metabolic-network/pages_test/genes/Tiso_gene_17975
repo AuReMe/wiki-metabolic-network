@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17975 ==
+* right end position:
+** 3329
+* transcription direction:
+** POSITIVE
+* left end position:
+** 105
+* centisome position:
+** 3.1446543    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-7741]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5098]]
+* [[PWY-6927]]
+== External links  ==
+{{#set: right end position=3329}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=105}}
+{{#set: centisome position=3.1446543    }}
+{{#set: reaction associated=RXN-7741}}
+{{#set: pathway associated=PWY-5098|PWY-6927}}

@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6100 PWY-6100] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** L-carnitine biosynthesis
+* Synonym(s):
+** (R)-carnitine biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-9896]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13940]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.14.11.1-RXN 1.14.11.1-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.1.47-RXN 1.2.1.47-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=TRIMETHYLLYSINE-DIOXYGENASE-RXN TRIMETHYLLYSINE-DIOXYGENASE-RXN]
+== External links  ==
+* REACTOME : REACT_2125
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00310 map00310]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=L-carnitine biosynthesis}}
+{{#set: common name=(R)-carnitine biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-HYDROXYINDOLE_ACETALDEHYDE 5-HYDROXYINDOLE_ACETALDEHYDE] ==
+* smiles:
+** C1(NC2(C(C(CC=O)=1)=CC(=CC=2)O))
+* common name:
+** 5-hydroxyindole acetaldehyde
+* inchi key:
+** InChIKey=OBFAPCIUSYHFIE-UHFFFAOYSA-N
+* molecular weight:
+** 175.187    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10780]]
+* [[RXN-10781]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-10779]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=74688 74688]
+* HMDB : HMDB04073
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05634 C05634]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.67261.html 67261]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=50157 50157]
+* METABOLIGHTS : MTBLC50157
+{{#set: smiles=C1(NC2(C(C(CC=O)=1)=CC(=CC=2)O))}}
+{{#set: common name=5-hydroxyindole acetaldehyde}}
+{{#set: inchi key=InChIKey=OBFAPCIUSYHFIE-UHFFFAOYSA-N}}
+{{#set: molecular weight=175.187    }}
+{{#set: consumed by=RXN-10780|RXN-10781}}
+{{#set: reversible reaction associated=RXN-10779}}

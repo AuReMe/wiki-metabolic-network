@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19047 ==
+* right end position:
+** 2559
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1
+* centisome position:
+** 3.803727600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2559}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1}}
+{{#set: centisome position=3.803727600e-2}}
+{{#set: reaction associated=2.4.2.31-RXN}}

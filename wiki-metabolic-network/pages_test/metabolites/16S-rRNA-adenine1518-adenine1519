@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=16S-rRNA-adenine1518-adenine1519 16S-rRNA-adenine1518-adenine1519] ==
+* common name:
+** adenine1518/adenine1519 in 16S rRNA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11633]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=adenine1518/adenine1519 in 16S rRNA}}
+{{#set: consumed by=RXN-11633}}

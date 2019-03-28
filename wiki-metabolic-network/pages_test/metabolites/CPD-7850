@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7850 CPD-7850] ==
+* smiles:
+** CC(=CC=CC=C(C=CC=C(C=CC1(C(CCC(C=1C)=O)(C)C))C)C)C=CC=C(C)C=CC2(=C(CCCC2(C)C)C)
+* common name:
+** echinenone
+* inchi key:
+** InChIKey=QXNWZXMBUKUYMD-QQGJMDNJSA-N
+* molecular weight:
+** 550.866    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[R07562]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR01070060
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5281236 5281236]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444648.html 4444648]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=4746 4746]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08592 C08592]
+{{#set: smiles=CC(=CC=CC=C(C=CC=C(C=CC1(C(CCC(C=1C)=O)(C)C))C)C)C=CC=C(C)C=CC2(=C(CCCC2(C)C)C)}}
+{{#set: common name=echinenone}}
+{{#set: inchi key=InChIKey=QXNWZXMBUKUYMD-QQGJMDNJSA-N}}
+{{#set: molecular weight=550.866    }}
+{{#set: consumed by=R07562}}

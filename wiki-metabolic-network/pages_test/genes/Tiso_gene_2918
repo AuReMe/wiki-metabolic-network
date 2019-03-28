@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2918 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ARDP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DNNH]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=ARDP|DNNH}}

@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9372 ==
+* right end position:
+** 2632
+* transcription direction:
+** POSITIVE
+* left end position:
+** 148
+* centisome position:
+** 1.5749707    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.4.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ALKAPHOSPHA-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-5822]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8748]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5491]]
+* [[PWY-5083]]
+* [[NADPHOS-DEPHOS-PWY]]
+* [[NAD-BIOSYNTHESIS-II]]
+== External links  ==
+{{#set: right end position=2632}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=148}}
+{{#set: centisome position=1.5749707    }}
+{{#set: reaction associated=3.1.4.1-RXN|ALKAPHOSPHA-RXN|RXN-5822|RXN-8748}}
+{{#set: pathway associated=PWY-5491|PWY-5083|NADPHOS-DEPHOS-PWY|NAD-BIOSYNTHESIS-II}}

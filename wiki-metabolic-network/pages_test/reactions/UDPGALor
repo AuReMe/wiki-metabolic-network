@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=UDPGALor UDPGALor] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** UDP-D-galactose:NAD+ 6-oxidoreductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2.0 [[NAD]][c] '''+''' 1.0 [[CPD-14553]][c] '''+''' 1.0 [[WATER]][c] '''=>''' 1.0 [[UDP-D-GALACTURONATE]][c] '''+''' 2.0 [[NADH]][c] '''+''' 3.0 [[PROTON]][c]
+* With common name(s):
+** 2.0 NAD+[c] '''+''' 1.0 UDP-&alpha;-D-galactose[c] '''+''' 1.0 H2O[c] '''=>''' 1.0 UDP-&alpha;-D-galacturonate[c] '''+''' 2.0 NADH[c] '''+''' 3.0 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4219]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=UDP-D-galactose:NAD+ 6-oxidoreductase}}
+{{#set: gene associated=Tiso_gene_4219}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

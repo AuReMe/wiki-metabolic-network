@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13698 ==
+* right end position:
+** 5717
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1601
+* centisome position:
+** 26.083416    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LEUCYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17846]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17847]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17848]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7801]]
+== External links  ==
+{{#set: right end position=5717}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1601}}
+{{#set: centisome position=26.083416    }}
+{{#set: reaction associated=LEUCYLTRANSFERASE-RXN|RXN-17846|RXN-17847|RXN-17848}}
+{{#set: pathway associated=PWY-7801}}

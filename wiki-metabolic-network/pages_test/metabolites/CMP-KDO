@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CMP-KDO CMP-KDO] ==
+* smiles:
+** C(O)C(O)[CH]3(OC(OP(OCC2(C(C(C(N1(C(N=C(C=C1)N)=O))O2)O)O))([O-])=O)(C([O-])=O)CC(C3O)O)
+* common name:
+** CMP-3-deoxy-&beta;-D-manno-octulosonate
+* inchi key:
+** InChIKey=YWWJKULNWGRYAS-XKKDATLGSA-L
+* molecular weight:
+** 541.361    
+* Synonym(s):
+** CMP-2-dehydro-3-deoxy-D-octonate
+** CMP-Kdo
+** CMP-&beta;-Kdo
+** CMP-ketodeoxyoctonate
+
+== Reaction(s) known to consume the compound ==
+* [[KDOTRANS-RXN]]
+* [[KDOTRANS2-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91825729 91825729]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=85987 85987]
+* BIGG : ckdo
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04121 C04121]
+{{#set: smiles=C(O)C(O)[CH]3(OC(OP(OCC2(C(C(C(N1(C(N=C(C=C1)N)=O))O2)O)O))([O-])=O)(C([O-])=O)CC(C3O)O)}}
+{{#set: common name=CMP-3-deoxy-&beta;-D-manno-octulosonate}}
+{{#set: inchi key=InChIKey=YWWJKULNWGRYAS-XKKDATLGSA-L}}
+{{#set: molecular weight=541.361    }}
+{{#set: common name=CMP-2-dehydro-3-deoxy-D-octonate|CMP-Kdo|CMP-&beta;-Kdo|CMP-ketodeoxyoctonate}}
+{{#set: consumed by=KDOTRANS-RXN|KDOTRANS2-RXN}}

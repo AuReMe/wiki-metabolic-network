@@ -1,0 +1,81 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7385 PWY-7385] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 1,3-propanediol biosynthesis (engineered)
+* Synonym(s):
+** 1,3-PDO biosynthesis
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''9''' reactions in the full pathway
+* [[1.1.1.8-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_6069]]
+*** [[Tiso_gene_3718]]
+*** [[Tiso_gene_2810]]
+*** [[Tiso_gene_2811]]
+*** [[Tiso_gene_13013]]
+*** [[Tiso_gene_15777]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[6PFRUCTPHOS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5733]]
+*** [[Tiso_gene_596]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[GLUCOKIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3107]]
+*** [[Tiso_gene_1303]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCEROL-DEHYDRATASE-RXN GLYCEROL-DEHYDRATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14965 RXN-14965]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6487 RXN0-6487]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-7077 RXN0-7077]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=1,3-propanediol biosynthesis (engineered)}}
+{{#set: common name=1,3-PDO biosynthesis}}
+{{#set: reaction found=5}}
+{{#set: total reaction=9}}
+{{#set: completion rate=56.0}}

@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1110 ==
+* right end position:
+** 16506
+* transcription direction:
+** POSITIVE
+* left end position:
+** 15440
+* centisome position:
+** 59.43719    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLYLSULFKIN-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[INORGPYROPHOSPHAT-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-7805]]
+* [[PWY-7807]]
+* [[PWY-5340]]
+== External links  ==
+{{#set: right end position=16506}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=15440}}
+{{#set: centisome position=59.43719    }}
+{{#set: reaction associated=ADENYLYLSULFKIN-RXN|INORGPYROPHOSPHAT-RXN}}
+{{#set: pathway associated=PWY-7805|PWY-7807|PWY-5340}}

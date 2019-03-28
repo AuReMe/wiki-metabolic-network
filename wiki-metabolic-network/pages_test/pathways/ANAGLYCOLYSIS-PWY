@@ -1,0 +1,151 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ANAGLYCOLYSIS-PWY ANAGLYCOLYSIS-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** glycolysis III (from glucose)
+* Synonym(s):
+** anaerobic glycolysis
+** Embden-Meyerhof-Parnas pathway
+** EMP pathway
+** glycolysis III (glucokinase)
+
+== Reaction(s) found ==
+ '''10''' reactions found over '''10''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[6PFRUCTPHOS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5733]]
+*** [[Tiso_gene_596]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[GAPOXNPHOSPHN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_235]]
+*** [[Tiso_gene_10646]]
+*** [[Tiso_gene_3344]]
+*** [[Tiso_gene_6766]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUCOKIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3107]]
+*** [[Tiso_gene_1303]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSGLYPHOS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_3526]]
+*** [[Tiso_gene_18264]]
+*** [[Tiso_gene_3527]]
+*** [[Tiso_gene_18263]]
+*** [[Tiso_gene_12104]]
+*** [[Tiso_gene_14642]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN-15513]]
+** 8 associated gene(s):
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_9923]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=glycolysis III (from glucose)}}
+{{#set: common name=anaerobic glycolysis|Embden-Meyerhof-Parnas pathway|EMP pathway|glycolysis III (glucokinase)}}
+{{#set: reaction found=10}}
+{{#set: total reaction=10}}
+{{#set: completion rate=100.0}}

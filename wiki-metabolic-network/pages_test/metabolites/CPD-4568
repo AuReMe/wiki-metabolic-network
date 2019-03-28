@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4568 CPD-4568] ==
+* smiles:
+** CC(C)=CCCC([CH]1(C2(C)(C(CO)(CC1)C4(=C(CC2)C3([CH](C(C)(C)C(O)CC3)CC4)(C)))))C
+* common name:
+** 14-hydroxylanosterol
+* inchi key:
+** InChIKey=DWVYYKFZEDMMPU-PUXRVUTHSA-N
+* molecular weight:
+** 442.724    
+* Synonym(s):
+** 4,4-dimethyl-14&alpha;-hydroxymethyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-304]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-303]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=22298935 22298935]
+{{#set: smiles=CC(C)=CCCC([CH]1(C2(C)(C(CO)(CC1)C4(=C(CC2)C3([CH](C(C)(C)C(O)CC3)CC4)(C)))))C}}
+{{#set: common name=14-hydroxylanosterol}}
+{{#set: inchi key=InChIKey=DWVYYKFZEDMMPU-PUXRVUTHSA-N}}
+{{#set: molecular weight=442.724    }}
+{{#set: common name=4,4-dimethyl-14&alpha;-hydroxymethyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol}}
+{{#set: consumed by=RXN66-304}}
+{{#set: produced by=RXN66-303}}

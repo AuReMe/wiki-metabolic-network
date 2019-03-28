@@ -1,0 +1,108 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18839 ==
+* right end position:
+** 1765
+* transcription direction:
+** POSITIVE
+* left end position:
+** 40
+* centisome position:
+** 1.447178    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[OHACYL-COA-DEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10698]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10702]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10703]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-11245]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-11662]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12490]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12570]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12705]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12750]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16133]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17777]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17781]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17786]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17790]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17793]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17794]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17797]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17798]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-905]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-2044]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[P162-PWY]]
+* [[PWY-5177]]
+* [[PWY-6583]]
+* [[PWY-6883]]
+* [[PWY-5136]]
+* [[PWY-7778]]
+* [[PWY-7779]]
+* [[PWY-7094]]
+* [[PWY66-391]]
+* [[PWY-5789]]
+* [[PWY-81]]
+* [[CENTFERM-PWY]]
+* [[PWY-6945]]
+* [[PWY0-321]]
+* [[PWY-7007]]
+* [[PWY-6435]]
+* [[PWY-7216]]
+* [[PWY-1361]]
+* [[PWY-6946]]
+* [[FAO-PWY]]
+* [[PWY-6944]]
+* [[PWY-735]]
+* [[PWY-7401]]
+* [[PWY-6863]]
+== External links  ==
+{{#set: right end position=1765}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=40}}
+{{#set: centisome position=1.447178    }}
+{{#set: reaction associated=OHACYL-COA-DEHYDROG-RXN|RXN-10698|RXN-10702|RXN-10703|RXN-11245|RXN-11662|RXN-12490|RXN-12570|RXN-12705|RXN-12750|RXN-16133|RXN-17777|RXN-17781|RXN-17786|RXN-17790|RXN-17793|RXN-17794|RXN-17797|RXN-17798|RXN-905|RXN0-2044}}
+{{#set: pathway associated=P162-PWY|PWY-5177|PWY-6583|PWY-6883|PWY-5136|PWY-7778|PWY-7779|PWY-7094|PWY66-391|PWY-5789|PWY-81|CENTFERM-PWY|PWY-6945|PWY0-321|PWY-7007|PWY-6435|PWY-7216|PWY-1361|PWY-6946|FAO-PWY|PWY-6944|PWY-735|PWY-7401|PWY-6863}}

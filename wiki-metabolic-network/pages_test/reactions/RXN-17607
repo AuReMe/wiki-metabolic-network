@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17607 RXN-17607] ==
+* direction:
+** REVERSIBLE
+* common name:
+** nitrilase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.5.1 EC-3.5.5.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[2-HYDROXY-2-METHYLPROPANENITRILE]][c] '''+''' 2 [[WATER]][c] '''<=>''' 1 [[AMMONIUM]][c] '''+''' 1 [[CPD-19014]][c]
+* With common name(s):
+** 1 2-hydroxy-2-methylpropanenitrile[c] '''+''' 2 H2O[c] '''<=>''' 1 ammonium[c] '''+''' 1 2-hydroxy-2-methylpropanoate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10996]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=nitrilase}}
+{{#set: ec number=EC-3.5.5.1}}
+{{#set: gene associated=Tiso_gene_10996}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

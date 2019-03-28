@@ -1,0 +1,45 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9627 ==
+* right end position:
+** 1407
+* transcription direction:
+** POSITIVE
+* left end position:
+** 61
+* centisome position:
+** 0.66586614    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.10.2.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14107]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15816]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15829]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-3781]]
+* [[PWY-6692]]
+* [[PWY-7279]]
+* [[PWY-7082]]
+== External links  ==
+{{#set: right end position=1407}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=61}}
+{{#set: centisome position=0.66586614    }}
+{{#set: reaction associated=1.10.2.2-RXN|RXN-14107|RXN-15816|RXN-15829}}
+{{#set: pathway associated=PWY-3781|PWY-6692|PWY-7279|PWY-7082}}

@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-D19-37-MOH-38-Me-C57-1-ACPs cis-D19-37-MOH-38-Me-C57-1-ACPs] ==
+* common name:
+** a cis-delta19-37-methoxy-38-methyl-C57:1-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-2544]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis-delta19-37-methoxy-38-methyl-C57:1-[acp]}}
+{{#set: consumed by=RXN1G-2544}}

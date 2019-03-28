@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8563 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY66-367]]
+* [[PWY-6174]]
+* [[PWY-922]]
+* [[PWY-7391]]
+* [[PWY-7571]]
+* [[PWY-7524]]
+== External links  ==
+{{#set: reaction associated=HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY66-367|PWY-6174|PWY-922|PWY-7391|PWY-7571|PWY-7524}}

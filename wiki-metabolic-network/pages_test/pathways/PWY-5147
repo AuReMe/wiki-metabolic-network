@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5147 PWY-5147] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+* common name:
+** oleate biosynthesis I (plants)
+* Synonym(s):
+** stearoyl-ACP desaturation pathway
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[3.1.2.14-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+* [[RXN-7903]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6179]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-9644]]
+** 9 associated gene(s):
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_9394]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-5147 PWY-5147]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-33682}}
+{{#set: common name=oleate biosynthesis I (plants)}}
+{{#set: common name=stearoyl-ACP desaturation pathway}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

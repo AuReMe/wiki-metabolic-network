@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-ACETO-LACTATE 2-ACETO-LACTATE] ==
+* smiles:
+** CC(=O)C(C)(O)C(=O)[O-]
+* common name:
+** (S)-2-acetolactate
+* inchi key:
+** InChIKey=NMDWGEGFJUBKLB-YFKPBYRVSA-M
+* molecular weight:
+** 131.108    
+* Synonym(s):
+** (S)-2-hydroxy-2-methyl-3-oxobutanoate
+** &alpha;-acetolactate
+** (2S)-2-hydroxy-2-methyl-3-oxobutanoate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6081]]
+== Reaction(s) known to produce the compound ==
+* [[ACETOLACTSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ACETOLACTREDUCTOISOM-RXN]]
+* [[RXN-14037]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=13999770 13999770]
+* HMDB : HMDB06855
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06010 C06010]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951073.html 19951073]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58476 58476]
+* BIGG : alac__S
+{{#set: smiles=CC(=O)C(C)(O)C(=O)[O-]}}
+{{#set: common name=(S)-2-acetolactate}}
+{{#set: inchi key=InChIKey=NMDWGEGFJUBKLB-YFKPBYRVSA-M}}
+{{#set: molecular weight=131.108    }}
+{{#set: common name=(S)-2-hydroxy-2-methyl-3-oxobutanoate|&alpha;-acetolactate|(2S)-2-hydroxy-2-methyl-3-oxobutanoate}}
+{{#set: consumed by=RXN-6081}}
+{{#set: produced by=ACETOLACTSYN-RXN}}
+{{#set: reversible reaction associated=ACETOLACTREDUCTOISOM-RXN|RXN-14037}}

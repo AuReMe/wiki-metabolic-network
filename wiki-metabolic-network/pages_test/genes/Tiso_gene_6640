@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6640 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5-NUCLEOTID-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[AMP-DEPHOSPHORYLATION-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14025]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14026]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14227]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-5841]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7607]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7609]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[XMPXAN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+* [[PWY-6607]]
+* [[PWY-7185]]
+* [[PWY-7821]]
+* [[SALVADEHYPOX-PWY]]
+* [[PWY-6596]]
+* [[NAD-BIOSYNTHESIS-II]]
+* [[PWY-6606]]
+* [[PWY-6608]]
+* [[PWY-5695]]
+== External links  ==
+{{#set: reaction associated=5-NUCLEOTID-RXN|AMP-DEPHOSPHORYLATION-RXN|RXN-14025|RXN-14026|RXN-14227|RXN-5841|RXN-7607|RXN-7609|XMPXAN-RXN}}
+{{#set: pathway associated=PWY-5381|PWY-6607|PWY-7185|PWY-7821|SALVADEHYPOX-PWY|PWY-6596|NAD-BIOSYNTHESIS-II|PWY-6606|PWY-6608|PWY-5695}}

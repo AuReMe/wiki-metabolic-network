@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=b-Hydroxy-cis-D5-dodecenoyl-ACPs b-Hydroxy-cis-D5-dodecenoyl-ACPs] ==
+* common name:
+** a (3R,5Z)-3-hydroxy-dodec-5-enoyl-[acp]
+* Synonym(s):
+** a &beta;-hydroxy cis &Delta;5-dodecenoyl-[acp]
+** a (3R)-hydroxy cis &Delta;5-dodecenoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-2144]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-2142]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R,5Z)-3-hydroxy-dodec-5-enoyl-[acp]}}
+{{#set: common name=a &beta;-hydroxy cis &Delta;5-dodecenoyl-[acp]|a (3R)-hydroxy cis &Delta;5-dodecenoyl-[acp]}}
+{{#set: consumed by=RXN0-2144}}
+{{#set: produced by=RXN0-2142}}

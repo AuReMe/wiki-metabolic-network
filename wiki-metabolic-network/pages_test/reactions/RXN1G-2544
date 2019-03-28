@@ -1,0 +1,36 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN1G-2544 RXN1G-2544] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** cis-cyclopropane-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.79 EC-2.1.1.79]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[cis-D19-37-MOH-38-Me-C57-1-ACPs]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[cis-19-CP-37-Mex-38-Me-C59-ACPs]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 a cis-delta19-37-methoxy-38-methyl-C57:1-[acp][c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 a cis-methoxy-C59-meroacyl-[acp][c] '''+''' 1 S-adenosyl-L-homocysteine[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7622]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWYG-321]], mycolate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWYG-321 PWYG-321]
+** '''86''' reactions found over '''182''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=cis-cyclopropane-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] synthase}}
+{{#set: ec number=EC-2.1.1.79}}
+{{#set: gene associated=Tiso_gene_7622}}
+{{#set: in pathway=PWYG-321}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

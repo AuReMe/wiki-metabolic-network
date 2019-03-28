@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AMPSYN-RXN AMPSYN-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/4.3.2.2 EC-4.3.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ADENYLOSUCC]][c] '''<=>''' 1 [[FUM]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 adenylo-succinate[c] '''<=>''' 1 fumarate[c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7219]], adenosine ribonucleotides de novo biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7219 PWY-7219]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16853 16853]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01083 R01083]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P21265 P21265]
+** [http://www.uniprot.org/uniprot/Q58339 Q58339]
+** [http://www.uniprot.org/uniprot/Q9CF40 Q9CF40]
+** [http://www.uniprot.org/uniprot/Q9PJ88 Q9PJ88]
+** [http://www.uniprot.org/uniprot/Q9JSP3 Q9JSP3]
+** [http://www.uniprot.org/uniprot/P0AB89 P0AB89]
+** [http://www.uniprot.org/uniprot/O65180 O65180]
+** [http://www.uniprot.org/uniprot/P12047 P12047]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-4.3.2.2}}
+{{#set: in pathway=PWY-7219}}
+{{#set: reconstruction category=manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|manual-primary_network|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

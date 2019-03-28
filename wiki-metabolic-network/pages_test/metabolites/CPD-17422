@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17422 CPD-17422] ==
+* smiles:
+** CC(C)C(C)C(O)C(O)C(C)[CH]3(CC[CH]4([CH]2(CC(O)[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** 3-dehydro-6-hydroxyteasterone
+* inchi key:
+** InChIKey=VIPVRXUSPSUXNI-XDMMOTQBSA-N
+* molecular weight:
+** 448.685    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-11535]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=102515138 102515138]
+{{#set: smiles=CC(C)C(C)C(O)C(O)C(C)[CH]3(CC[CH]4([CH]2(CC(O)[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=3-dehydro-6-hydroxyteasterone}}
+{{#set: inchi key=InChIKey=VIPVRXUSPSUXNI-XDMMOTQBSA-N}}
+{{#set: molecular weight=448.685    }}
+{{#set: produced by=RXN-11535}}

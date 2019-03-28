@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13684 RXN-13684] ==
+* direction:
+** REVERSIBLE
+* common name:
+** acy1-like_metalloprotease
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.1.14 EC-3.5.1.14]
+** [http://enzyme.expasy.org/EC/3.5.1.114 EC-3.5.1.114]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Mercapturates]][c] '''+''' 1 [[WATER]][c] '''<=>''' 1 [[S-Substituted-L-Cysteines]][c] '''+''' 1 [[ACET]][c]
+* With common name(s):
+** 1 a mercapturate[c] '''+''' 1 H2O[c] '''<=>''' 1 an L-cysteine-S-conjugate[c] '''+''' 1 acetate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16879]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=acy1-like_metalloprotease}}
+{{#set: ec number=EC-3.5.1.14}}
+{{#set: ec number=EC-3.5.1.114}}
+{{#set: gene associated=Tiso_gene_16879}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

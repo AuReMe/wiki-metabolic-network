@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17319 CPD-17319] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])[O-])OC(CCCCCCCC=CCCCCCCCC)=O
+* common name:
+** 1-stearoyl-2-oleoyl-sn-glycerol 3-phosphate
+* inchi key:
+** InChIKey=HHMKVXGZZUOMHM-XZRWTQCASA-L
+* molecular weight:
+** 700.975    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-16077]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71627190 71627190]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=74560 74560]
+{{#set: smiles=CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])[O-])OC(CCCCCCCC=CCCCCCCCC)=O}}
+{{#set: common name=1-stearoyl-2-oleoyl-sn-glycerol 3-phosphate}}
+{{#set: inchi key=InChIKey=HHMKVXGZZUOMHM-XZRWTQCASA-L}}
+{{#set: molecular weight=700.975    }}
+{{#set: produced by=RXN-16077}}

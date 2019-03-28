@@ -1,0 +1,41 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2804 ==
+* right end position:
+** 5200
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2856
+* centisome position:
+** 15.530179    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GDR]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDR_nadp]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDR_nadp_h]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDR_nadp_m]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDRh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDRm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUTATHIONE-REDUCT-NADPH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[GLUT-REDOX-PWY]]
+* [[PWY-4081]]
+== External links  ==
+{{#set: right end position=5200}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2856}}
+{{#set: centisome position=15.530179    }}
+{{#set: reaction associated=GDR|GDR_nadp|GDR_nadp_h|GDR_nadp_m|GDRh|GDRm|GLUTATHIONE-REDUCT-NADPH-RXN}}
+{{#set: pathway associated=GLUT-REDOX-PWY|PWY-4081}}

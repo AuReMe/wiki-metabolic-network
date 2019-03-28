@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9320 ==
+* right end position:
+** 3151
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 223
+* centisome position:
+** 2.3670523    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-4261]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3151}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=223}}
+{{#set: centisome position=2.3670523    }}
+{{#set: reaction associated=RXN0-4261}}

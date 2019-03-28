@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1789 CPD-1789] ==
+* smiles:
+** C(O)C1(C(O)=C(O)C(=O)O1)
+* common name:
+** dehydro-D-arabinono-1,4-lactone
+* inchi key:
+** InChIKey=ZZZCUOFIHGPKAK-UWTATZPHSA-N
+* molecular weight:
+** 146.099    
+* Synonym(s):
+** (5R)-3,4-dihydroxy-5-(hydroxymethyl)furan-2(5H)-one
+** D-erythro-ascorbic acid
+** D-erythro-ascorbate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[1.1.3.37-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54675775 54675775]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17803 17803]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06316 C06316]
+{{#set: smiles=C(O)C1(C(O)=C(O)C(=O)O1)}}
+{{#set: common name=dehydro-D-arabinono-1,4-lactone}}
+{{#set: inchi key=InChIKey=ZZZCUOFIHGPKAK-UWTATZPHSA-N}}
+{{#set: molecular weight=146.099    }}
+{{#set: common name=(5R)-3,4-dihydroxy-5-(hydroxymethyl)furan-2(5H)-one|D-erythro-ascorbic acid|D-erythro-ascorbate}}
+{{#set: produced by=1.1.3.37-RXN}}

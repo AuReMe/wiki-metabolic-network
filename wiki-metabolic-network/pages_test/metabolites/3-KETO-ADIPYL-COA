@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-KETO-ADIPYL-COA 3-KETO-ADIPYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CC(CCC([O-])=O)=O)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3-oxoadipyl-CoA
+* inchi key:
+** InChIKey=VKKKAAPGXHWXOO-BIEWRJSYSA-I
+* molecular weight:
+** 904.605    
+* Synonym(s):
+** 3-ketoadipyl-CoA
+** 3-keto-adipyl-coa
+** &beta;-ketoadipyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-2044]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266578 45266578]
+* HMDB : HMDB60378
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57348 57348]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02232 C02232]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CC(CCC([O-])=O)=O)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3-oxoadipyl-CoA}}
+{{#set: inchi key=InChIKey=VKKKAAPGXHWXOO-BIEWRJSYSA-I}}
+{{#set: molecular weight=904.605    }}
+{{#set: common name=3-ketoadipyl-CoA|3-keto-adipyl-coa|&beta;-ketoadipyl-CoA}}
+{{#set: reversible reaction associated=RXN0-2044}}

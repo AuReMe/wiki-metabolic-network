@@ -1,0 +1,94 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5789 PWY-5789] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-28889 TAX-28889]
+* common name:
+** 3-hydroxypropanoate/4-hydroxybutanate cycle
+* Synonym(s):
+** 3-HP/4-HB cycle
+** 3-hydroxypropionate/4-hydroxybutyrate cycle
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''16''' reactions in the full pathway
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[ACETYL-COA-CARBOXYLTRANSFER-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2812]]
+*** [[Tiso_gene_3800]]
+*** [[Tiso_gene_5029]]
+*** [[Tiso_gene_7965]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[METHYLMALONYL-COA-MUT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9771]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[PROPIONYL-COA-CARBOXY-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5029]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11002]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-11662]]
+** 7 associated gene(s):
+*** [[Tiso_gene_16703]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_5857]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11667]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5857]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-6383]]
+** 3 associated gene(s):
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_16703]]
+*** [[Tiso_gene_14257]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=METHYLMALONYL-COA-EPIM-RXN METHYLMALONYL-COA-EPIM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8890 RXN-8890]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8891 RXN-8891]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8963 RXN-8963]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8974 RXN-8974]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9086 RXN-9086]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9087 RXN-9087]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9092 RXN-9092]
+== External links  ==
+{{#set: taxonomic range=TAX-28889}}
+{{#set: common name=3-hydroxypropanoate/4-hydroxybutanate cycle}}
+{{#set: common name=3-HP/4-HB cycle|3-hydroxypropionate/4-hydroxybutyrate cycle}}
+{{#set: reaction found=8}}
+{{#set: total reaction=16}}
+{{#set: completion rate=50.0}}

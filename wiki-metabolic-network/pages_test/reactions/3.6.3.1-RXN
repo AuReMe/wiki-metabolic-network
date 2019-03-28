@@ -1,0 +1,60 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.6.3.1-RXN 3.6.3.1-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** haloacid_dehalogenaselike_hydrolase_family_protein
+** atpase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.3.1 EC-3.6.3.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[Phospholipids]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Phospholipids]][e] '''+''' 1 [[ADP]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 a phospholipid[c] '''+''' 1 H2O[c] '''=>''' 1 a phospholipid[e] '''+''' 1 ADP[c] '''+''' 1 phosphate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13202]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7790]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13203]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13177]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7789]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11648]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14989 14989]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=haloacid_dehalogenaselike_hydrolase_family_protein}}
+{{#set: common name=atpase}}
+{{#set: ec number=EC-3.6.3.1}}
+{{#set: gene associated=Tiso_gene_13202|Tiso_gene_7790|Tiso_gene_13203|Tiso_gene_13177|Tiso_gene_7789|Tiso_gene_11648}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

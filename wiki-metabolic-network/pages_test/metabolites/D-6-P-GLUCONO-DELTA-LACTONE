@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-6-P-GLUCONO-DELTA-LACTONE D-6-P-GLUCONO-DELTA-LACTONE] ==
+* smiles:
+** C(OP([O-])(=O)[O-])C1(C(O)C(O)C(O)C(=O)O1)
+* common name:
+** 6-phospho D-glucono-1,5-lactone
+* inchi key:
+** InChIKey=IJOJIVNDFQSGAB-SQOUGZDYSA-L
+* molecular weight:
+** 256.105    
+* Synonym(s):
+** 6-phosphogluconolactone
+** D-6-phosphoglucono-&delta;-lactone
+** D-6-P-glucono-&delta;-lactone
+** D-glucono-1,5-lactone 6-phosphate
+** D-glucono-&delta;-lactone 6-phosphate
+** D-6-phospho-glucono-&delta;-lactone
+
+== Reaction(s) known to consume the compound ==
+* [[6PGLUCONOLACT-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[G6PBDHh]]
+* [[G6PADHh]]
+* [[GLU6PDEHYDROG-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 2641-81-8
+* BIGG : 6pgl
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46926335 46926335]
+* HMDB : HMDB01127
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01236 C01236]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57955 57955]
+* METABOLIGHTS : MTBLC57955
+{{#set: smiles=C(OP([O-])(=O)[O-])C1(C(O)C(O)C(O)C(=O)O1)}}
+{{#set: common name=6-phospho D-glucono-1,5-lactone}}
+{{#set: inchi key=InChIKey=IJOJIVNDFQSGAB-SQOUGZDYSA-L}}
+{{#set: molecular weight=256.105    }}
+{{#set: common name=6-phosphogluconolactone|D-6-phosphoglucono-&delta;-lactone|D-6-P-glucono-&delta;-lactone|D-glucono-1,5-lactone 6-phosphate|D-glucono-&delta;-lactone 6-phosphate|D-6-phospho-glucono-&delta;-lactone}}
+{{#set: consumed by=6PGLUCONOLACT-RXN}}
+{{#set: produced by=G6PBDHh|G6PADHh|GLU6PDEHYDROG-RXN}}

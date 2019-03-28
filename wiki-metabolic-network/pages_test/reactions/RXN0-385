@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-385 RXN0-385] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** inosine_triphosphate
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1.9 EC-3.6.1.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[DGTP]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[DGMP]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 dGTP[c] '''=>''' 1 diphosphate[c] '''+''' 1 dGMP[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18792]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18793]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28362 28362]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01855 R01855]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=inosine_triphosphate}}
+{{#set: ec number=EC-3.6.1.9}}
+{{#set: gene associated=Tiso_gene_18792|Tiso_gene_18793}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

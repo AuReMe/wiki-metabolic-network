@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BETAINE-ALDEHYDE-HYDRATE BETAINE-ALDEHYDE-HYDRATE] ==
+* smiles:
+** C[N+](C)(CC(O)O)C
+* common name:
+** betaine aldehyde hydrate
+* inchi key:
+** InChIKey=HEHORKLRCFPRON-UHFFFAOYSA-N
+* molecular weight:
+** 120.171    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-6268]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6395359 6395359]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4909131.html 4909131]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15870 15870]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C07345 C07345]
+{{#set: smiles=C[N+](C)(CC(O)O)C}}
+{{#set: common name=betaine aldehyde hydrate}}
+{{#set: inchi key=InChIKey=HEHORKLRCFPRON-UHFFFAOYSA-N}}
+{{#set: molecular weight=120.171    }}
+{{#set: reversible reaction associated=RXN-6268}}

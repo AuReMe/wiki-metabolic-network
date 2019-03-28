@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LAUROYLCOA-CPD LAUROYLCOA-CPD] ==
+* smiles:
+** CCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** lauroyl-CoA
+* inchi key:
+** InChIKey=YMCXGHLSVALICC-GMHMEAMDSA-J
+* molecular weight:
+** 945.808    
+* Synonym(s):
+** dodecanoyl-CoA (n-C12:0CoA)
+** lauroyl coenzyme A
+** dodecanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9627]]
+* [[ACOA120or]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16393]]
+* [[RXN-14268]]
+== Reaction(s) of unknown directionality ==
+* [[ACACT6]]
+* [[RXN-14262]]
+== External links  ==
+* CAS : 6244-92-4
+* BIGG : ddcacoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25113193 25113193]
+* HMDB : HMDB03571
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01832 C01832]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57375 57375]
+* METABOLIGHTS : MTBLC57375
+{{#set: smiles=CCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=lauroyl-CoA}}
+{{#set: inchi key=InChIKey=YMCXGHLSVALICC-GMHMEAMDSA-J}}
+{{#set: molecular weight=945.808    }}
+{{#set: common name=dodecanoyl-CoA (n-C12:0CoA)|lauroyl coenzyme A|dodecanoyl-CoA}}
+{{#set: consumed by=RXN-9627|ACOA120or}}
+{{#set: produced by=RXN-16393|RXN-14268}}
+{{#set: reversible reaction associated=ACACT6|RXN-14262}}

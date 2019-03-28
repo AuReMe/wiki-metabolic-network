@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7682 CPD-7682] ==
+* smiles:
+** C(C1(CCCC=N1))([O-])=O
+* common name:
+** (S)-2,3,4,5-tetrahydropiperidine-2-carboxylate
+* inchi key:
+** InChIKey=CSDPVAKVEWETFG-YFKPBYRVSA-M
+* molecular weight:
+** 126.135    
+* Synonym(s):
+** &Delta;1-piperideine-6-carboxylate
+** &Delta;6-piperideine-2-carboxylate
+** 1,6-didehydropiperidine-2-carboxylate
+** 2,3,4,5-tetrahydropyridine-2-carboxylate
+** 1-piperideine 6-carboxylate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8162]]
+* [[RXN-10855]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-8173]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00450 C00450]
+* HMDB : HMDB59657
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58769 58769]
+* METABOLIGHTS : MTBLC58769
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266761 45266761]
+{{#set: smiles=C(C1(CCCC=N1))([O-])=O}}
+{{#set: common name=(S)-2,3,4,5-tetrahydropiperidine-2-carboxylate}}
+{{#set: inchi key=InChIKey=CSDPVAKVEWETFG-YFKPBYRVSA-M}}
+{{#set: molecular weight=126.135    }}
+{{#set: common name=&Delta;1-piperideine-6-carboxylate|&Delta;6-piperideine-2-carboxylate|1,6-didehydropiperidine-2-carboxylate|2,3,4,5-tetrahydropyridine-2-carboxylate|1-piperideine 6-carboxylate}}
+{{#set: consumed by=RXN-8162|RXN-10855}}
+{{#set: reversible reaction associated=RXN-8173}}

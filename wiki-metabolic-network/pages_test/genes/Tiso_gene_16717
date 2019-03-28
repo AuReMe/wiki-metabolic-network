@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16717 ==
+* right end position:
+** 3234
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2706
+* centisome position:
+** 64.95439    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[SPERMIDINESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[BSUBPOLYAMSYN-PWY]]
+== External links  ==
+{{#set: right end position=3234}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2706}}
+{{#set: centisome position=64.95439    }}
+{{#set: reaction associated=SPERMIDINESYN-RXN}}
+{{#set: pathway associated=BSUBPOLYAMSYN-PWY}}

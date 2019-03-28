@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14877 ==
+* right end position:
+** 3083
+* transcription direction:
+** POSITIVE
+* left end position:
+** 783
+* centisome position:
+** 8.270836    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[G6PADHh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[G6PBDHh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLU6PDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7268]]
+* [[P122-PWY]]
+* [[RUMP-PWY]]
+* [[OXIDATIVEPENT-PWY]]
+* [[GLYCOLYSIS-E-D]]
+== External links  ==
+{{#set: right end position=3083}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=783}}
+{{#set: centisome position=8.270836    }}
+{{#set: reaction associated=G6PADHh|G6PBDHh|GLU6PDEHYDROG-RXN}}
+{{#set: pathway associated=PWY-7268|P122-PWY|RUMP-PWY|OXIDATIVEPENT-PWY|GLYCOLYSIS-E-D}}

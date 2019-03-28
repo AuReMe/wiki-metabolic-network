@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=4-HYDROXY-BUTYRATE 4-HYDROXY-BUTYRATE] ==
+* smiles:
+** C(CCC([O-])=O)O
+* common name:
+** 4-hydroxybutanoate
+* inchi key:
+** InChIKey=SJZRECIVHVDYJC-UHFFFAOYSA-M
+* molecular weight:
+** 103.097    
+* Synonym(s):
+** 4-OH-but
+** 4-hydroxybutanoic acid
+** 4-hydroxybutyric acid
+** &gamma;-hydroxybutyrate
+** &gamma;-hydroxybutyric acid
+** g-hydroxybutyric acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN]]
+* [[RXN-11002]]
+* [[RXN-6903]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 591-81-1
+* DRUGBANK : DB01440
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3037032 3037032]
+* HMDB : HMDB15507
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00989 C00989]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2300886.html 2300886]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16724 16724]
+{{#set: smiles=C(CCC([O-])=O)O}}
+{{#set: common name=4-hydroxybutanoate}}
+{{#set: inchi key=InChIKey=SJZRECIVHVDYJC-UHFFFAOYSA-M}}
+{{#set: molecular weight=103.097    }}
+{{#set: common name=4-OH-but|4-hydroxybutanoic acid|4-hydroxybutyric acid|&gamma;-hydroxybutyrate|&gamma;-hydroxybutyric acid|g-hydroxybutyric acid}}
+{{#set: produced by=4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN|RXN-11002|RXN-6903}}

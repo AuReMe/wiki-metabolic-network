@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1156 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.5.1.7-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[1.5.1.8-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[1.5.1.9-RXN]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[LYSINE-AMINOAD-PWY]]
+* [[LYSINE-DEG1-PWY]]
+== External links  ==
+{{#set: reaction associated=1.5.1.7-RXN|1.5.1.8-RXN|1.5.1.9-RXN}}
+{{#set: pathway associated=LYSINE-AMINOAD-PWY|LYSINE-DEG1-PWY}}

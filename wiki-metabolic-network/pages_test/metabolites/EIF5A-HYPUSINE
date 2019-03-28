@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=EIF5A-HYPUSINE EIF5A-HYPUSINE] ==
+* common name:
+** an [eIF5A]-hypusine
+* Synonym(s):
+** an [eIF5A]-N6-[(R)-4-amino-2-hydroxybutyl]-L-lysine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DEOXYHYPUSINE-MONOOXYGENASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an [eIF5A]-hypusine}}
+{{#set: common name=an [eIF5A]-N6-[(R)-4-amino-2-hydroxybutyl]-L-lysine}}
+{{#set: produced by=DEOXYHYPUSINE-MONOOXYGENASE-RXN}}

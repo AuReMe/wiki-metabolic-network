@@ -1,0 +1,50 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=UDPNAGSYN-PWY UDPNAGSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** UDP-N-acetyl-D-glucosamine biosynthesis I
+* Synonym(s):
+** UDP-N-acetyl-D-glucosamine biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''5''' reactions in the full pathway
+* [[L-GLN-FRUCT-6-P-AMINOTRANS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9051]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[NAG1P-URIDYLTRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_6457]]
+*** [[Tiso_gene_19372]]
+*** [[Tiso_gene_6459]]
+*** [[Tiso_gene_6458]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.157-RXN 2.3.1.157-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=5.4.2.10-RXN 5.4.2.10-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=UDPNAGSYN-PWY UDPNAGSYN-PWY]
+{{#set: taxonomic range=TAX-33154}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=UDP-N-acetyl-D-glucosamine biosynthesis I}}
+{{#set: common name=UDP-N-acetyl-D-glucosamine biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=5}}
+{{#set: completion rate=60.0}}

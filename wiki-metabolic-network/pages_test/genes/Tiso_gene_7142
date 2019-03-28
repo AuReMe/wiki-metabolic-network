@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7142 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R95]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[R96]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-11356]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11357]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12242]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8022]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6287]]
+* [[PWY-6475]]
+== External links  ==
+{{#set: reaction associated=R95|R96|RXN-11356|RXN-11357|RXN-12242|RXN-8022}}
+{{#set: pathway associated=PWY-6287|PWY-6475}}

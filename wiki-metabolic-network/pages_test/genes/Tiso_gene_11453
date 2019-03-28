@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11453 ==
+* right end position:
+** 4168
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5
+* centisome position:
+** 6.41930940e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-ISOPROPYLMALATESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[IPMS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-7743]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-5101]]
+* [[LEUSYN-PWY]]
+* [[PWY-6871]]
+== External links  ==
+{{#set: right end position=4168}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5}}
+{{#set: centisome position=6.41930940e-2}}
+{{#set: reaction associated=2-ISOPROPYLMALATESYN-RXN|IPMS|RXN-7743}}
+{{#set: pathway associated=PWY-5101|LEUSYN-PWY|PWY-6871}}

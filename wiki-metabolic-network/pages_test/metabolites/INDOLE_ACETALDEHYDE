@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=INDOLE_ACETALDEHYDE INDOLE_ACETALDEHYDE] ==
+* smiles:
+** C(CC1(C2(=C(NC=1)C=CC=C2)))=O
+* common name:
+** indole acetaldehyde
+* inchi key:
+** InChIKey=WHOOUMGHGSPMGR-UHFFFAOYSA-N
+* molecular weight:
+** 159.187    
+* Synonym(s):
+** indole-3-acetaldehyde
+** 2-(indol-3-yl)acetaldehyde
+** (indol-3-yl)acetaldehyde
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-5581]]
+* [[RXN-10715]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 2591-98-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=800 800]
+* HMDB : HMDB01190
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00637 C00637]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.778.html 778]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18086 18086]
+* METABOLIGHTS : MTBLC18086
+{{#set: smiles=C(CC1(C2(=C(NC=1)C=CC=C2)))=O}}
+{{#set: common name=indole acetaldehyde}}
+{{#set: inchi key=InChIKey=WHOOUMGHGSPMGR-UHFFFAOYSA-N}}
+{{#set: molecular weight=159.187    }}
+{{#set: common name=indole-3-acetaldehyde|2-(indol-3-yl)acetaldehyde|(indol-3-yl)acetaldehyde}}
+{{#set: consumed by=RXN-5581|RXN-10715}}

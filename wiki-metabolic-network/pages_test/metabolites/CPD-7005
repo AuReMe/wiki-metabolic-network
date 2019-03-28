@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7005 CPD-7005] ==
+* smiles:
+** C=CC2(=C(C)C5(=CC1(C(C)C(CCC(=O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C(N=1)=C7([C-](C(OC)=O)C(=O)C6(C(C)=C4(N([Mg]N(C2=CC3(C(C)=C(CC)C(N=3)=C4))5)C=67))))))
+* common name:
+** geranylgeranyl chlorophyll a
+* inchi key:
+** InChIKey=QBLSEPRESQJTCI-ZNLWZYPOSA-M
+* molecular weight:
+** 886.447    
+* Synonym(s):
+** geranylgeranyl-chl a
+** GG-chl a
+** GG-chlorophyll a
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7664]]
+* [[RXN-17428]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7663]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657538 90657538]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=64668 64668]
+{{#set: smiles=C=CC2(=C(C)C5(=CC1(C(C)C(CCC(=O)OCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C(N=1)=C7([C-](C(OC)=O)C(=O)C6(C(C)=C4(N([Mg]N(C2=CC3(C(C)=C(CC)C(N=3)=C4))5)C=67))))))}}
+{{#set: common name=geranylgeranyl chlorophyll a}}
+{{#set: inchi key=InChIKey=QBLSEPRESQJTCI-ZNLWZYPOSA-M}}
+{{#set: molecular weight=886.447    }}
+{{#set: common name=geranylgeranyl-chl a|GG-chl a|GG-chlorophyll a}}
+{{#set: consumed by=RXN-7664|RXN-17428}}
+{{#set: produced by=RXN-7663}}

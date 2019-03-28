@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19719 ==
+* right end position:
+** 1625
+* transcription direction:
+** POSITIVE
+* left end position:
+** 797
+* centisome position:
+** 38.262123    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADCPT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DEPHOSPHOCOAKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[COA-PWY-1]]
+* [[COA-PWY]]
+== External links  ==
+{{#set: right end position=1625}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=797}}
+{{#set: centisome position=38.262123    }}
+{{#set: reaction associated=ADCPT|DEPHOSPHOCOAKIN-RXN}}
+{{#set: pathway associated=COA-PWY-1|COA-PWY}}

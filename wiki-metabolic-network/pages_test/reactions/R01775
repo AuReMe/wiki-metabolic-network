@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R01775 R01775] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R69
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[L-ASPARTATE-SEMIALDEHYDE]][c] '''+''' 1.0 [[NADPH]][c] '''+''' 1.0 [[PROTON]][c] '''=>''' 1.0 [[HOMO-SER]][c] '''+''' 1.0 [[NADP]][c]
+* With common name(s):
+** 1.0 L-aspartate-semialdehyde[c] '''+''' 1.0 NADPH[c] '''+''' 1.0 H+[c] '''=>''' 1.0 L-homoserine[c] '''+''' 1.0 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1148]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R69}}
+{{#set: gene associated=Tiso_gene_1148}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

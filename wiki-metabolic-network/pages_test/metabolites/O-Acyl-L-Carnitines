@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=O-Acyl-L-Carnitines O-Acyl-L-Carnitines] ==
+* common name:
+** an O-acyl-L-carnitine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[ACYLCARNITINE-HYDROLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an O-acyl-L-carnitine}}
+{{#set: consumed by=ACYLCARNITINE-HYDROLASE-RXN}}

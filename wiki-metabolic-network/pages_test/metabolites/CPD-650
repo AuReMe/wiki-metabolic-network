@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-650 CPD-650] ==
+* smiles:
+** CC(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)O
+* common name:
+** (3R)-3-hydroxybutanoyl-CoA
+* inchi key:
+** InChIKey=QHHKKMYHDBRONY-WZZMXTMRSA-J
+* molecular weight:
+** 849.593    
+* Synonym(s):
+** 3-OH-butyryl-CoA
+** OH-butyryl-CoA
+** &beta;-hydroxybutyryl-S-CoA
+** D-3-hydroxybutyryl-CoA
+** hydroxy-butyryl-CoA
+** &beta;-hydroxybutyryl-CoA
+** 3-hydroxybutyryl-CoA
+** (3R)-3-Hydroxybutanoyl-CoA
+** 3-hydroxybutanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-5901]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266552 45266552]
+* UM-BBD-CPD : c0030
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57315 57315]
+* HMDB : HMDB01166
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03561 C03561]
+{{#set: smiles=CC(CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O)O}}
+{{#set: common name=(3R)-3-hydroxybutanoyl-CoA}}
+{{#set: inchi key=InChIKey=QHHKKMYHDBRONY-WZZMXTMRSA-J}}
+{{#set: molecular weight=849.593    }}
+{{#set: common name=3-OH-butyryl-CoA|OH-butyryl-CoA|&beta;-hydroxybutyryl-S-CoA|D-3-hydroxybutyryl-CoA|hydroxy-butyryl-CoA|&beta;-hydroxybutyryl-CoA|3-hydroxybutyryl-CoA|(3R)-3-Hydroxybutanoyl-CoA|3-hydroxybutanoyl-CoA}}
+{{#set: produced by=RXN-5901}}

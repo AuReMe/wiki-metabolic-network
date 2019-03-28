@@ -1,0 +1,57 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.97-RXN 2.3.1.97-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** glycylpeptide_n-tetradecanoyltransferase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.97 EC-2.3.1.97]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GLYCYL-PEPTIDE]][c] '''+''' 1 [[TETRADECANOYL-COA]][c] '''<=>''' 1 [[CO-A]][c] '''+''' 1 [[N-TETRADECANOYLGLYCYL-PEPTIDE]][c]
+* With common name(s):
+** 1 glycyl-peptide[c] '''+''' 1 myristoyl-CoA[c] '''<=>''' 1 coenzyme A[c] '''+''' 1 N-tetradecanoylglycyl-peptide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17259]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8573]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11266]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03992 R03992]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P30418 P30418]
+** [http://www.uniprot.org/uniprot/P14743 P14743]
+** [http://www.uniprot.org/uniprot/P34809 P34809]
+** [http://www.uniprot.org/uniprot/P34763 P34763]
+** [http://www.uniprot.org/uniprot/P30419 P30419]
+** [http://www.uniprot.org/uniprot/P31717 P31717]
+** [http://www.uniprot.org/uniprot/O43010 O43010]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=glycylpeptide_n-tetradecanoyltransferase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-2.3.1.97}}
+{{#set: gene associated=Tiso_gene_17259|Tiso_gene_8573|Tiso_gene_11266}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

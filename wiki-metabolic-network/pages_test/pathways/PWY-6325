@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6325 PWY-6325] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3803 TAX-3803]
+* common name:
+** echinatin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-3221]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13414]]
+*** [[Tiso_gene_9838]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.14.13.87-RXN 1.14.13.87-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=LICODIONE-2-O-METHYLTRANSFERASE-RXN LICODIONE-2-O-METHYLTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10848 RXN-10848]
+== External links  ==
+{{#set: taxonomic range=TAX-3803}}
+{{#set: common name=echinatin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

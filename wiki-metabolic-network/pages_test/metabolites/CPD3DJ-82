@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD3DJ-82 CPD3DJ-82] ==
+* common name:
+** a dihydroceramide
+* Synonym(s):
+** a plant ceramide (I)
+** an N-acylsphinganine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16332]]
+== Reaction(s) known to produce the compound ==
+* [[RXN3DJ-118]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13733]]
+== External links  ==
+{{#set: common name=a dihydroceramide}}
+{{#set: common name=a plant ceramide (I)|an N-acylsphinganine}}
+{{#set: consumed by=RXN-16332}}
+{{#set: produced by=RXN3DJ-118}}
+{{#set: reversible reaction associated=RXN-13733}}

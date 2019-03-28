@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-476 CPD-476] ==
+* smiles:
+** C(C(CC(C1(C(=CC=CC=1)N))=O)=O)([O-])=O
+* common name:
+** 4-(2-aminophenyl)-2,4-dioxobutanoate
+* inchi key:
+** InChIKey=CAOVWYZQMPNAFJ-UHFFFAOYSA-M
+* molecular weight:
+** 206.177    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.6.1.7-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615302 23615302]
+* HMDB : HMDB00978
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01252 C01252]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951260.html 19951260]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58147 58147]
+* METABOLIGHTS : MTBLC58147
+{{#set: smiles=C(C(CC(C1(C(=CC=CC=1)N))=O)=O)([O-])=O}}
+{{#set: common name=4-(2-aminophenyl)-2,4-dioxobutanoate}}
+{{#set: inchi key=InChIKey=CAOVWYZQMPNAFJ-UHFFFAOYSA-M}}
+{{#set: molecular weight=206.177    }}
+{{#set: reversible reaction associated=2.6.1.7-RXN}}

@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AAL_fum AAL_fum] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ADENYLOSUCC]][c] '''=>''' 1.0 [[AMP]][c] '''+''' 1.0 [[FUM]][c]
+* With common name(s):
+** 1.0 adenylo-succinate[c] '''=>''' 1.0 AMP[c] '''+''' 1.0 fumarate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6720]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)}}
+{{#set: gene associated=Tiso_gene_6720}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-6082 CPD-6082] ==
+* smiles:
+** C(CC[N+])=O
+* common name:
+** 3-aminopropanal
+* inchi key:
+** InChIKey=PCXDJQZLDDHMGX-UHFFFAOYSA-O
+* molecular weight:
+** 74.102    
+* Synonym(s):
+** 3-amino-propanal
+** 3-APA
+** 3-aminopropionaldehyde
+** APAL
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6382]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-6381]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12332]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21286229 21286229]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.14733277.html 14733277]
+* HMDB : HMDB01106
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58374 58374]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02229 C02229]
+{{#set: smiles=C(CC[N+])=O}}
+{{#set: common name=3-aminopropanal}}
+{{#set: inchi key=InChIKey=PCXDJQZLDDHMGX-UHFFFAOYSA-O}}
+{{#set: molecular weight=74.102    }}
+{{#set: common name=3-amino-propanal|3-APA|3-aminopropionaldehyde|APAL}}
+{{#set: consumed by=RXN-6382}}
+{{#set: produced by=RXN-6381}}
+{{#set: reversible reaction associated=RXN-12332}}

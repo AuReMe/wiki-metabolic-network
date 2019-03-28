@@ -1,0 +1,20 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6431 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEROXID-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14240]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15288]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8635]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7445]]
+* [[PWY-7214]]
+* [[PWY-5461]]
+== External links  ==
+{{#set: reaction associated=PEROXID-RXN|RXN-14240|RXN-15288|RXN-8635}}
+{{#set: pathway associated=PWY-7445|PWY-7214|PWY-5461}}

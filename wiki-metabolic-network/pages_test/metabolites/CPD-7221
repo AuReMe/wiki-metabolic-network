@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7221 CPD-7221] ==
+* smiles:
+** CCCCCCCCC=CCC(SCCNC(CCNC(C(C(COP(OP(OCC3(C(OP(=O)([O-])[O-])C(O)C(N2(C1(N=CN=C(N)C=1N=C2)))O3))(=O)[O-])(=O)[O-])(C)C)O)=O)=O)=O
+* common name:
+** 3-cis-dodecenoyl-CoA
+* inchi key:
+** InChIKey=XEMIVMKTVGRFTD-QXMHVHEDSA-J
+* molecular weight:
+** 943.792    
+* Synonym(s):
+** 12:1(n-9)
+** 12:1 cis-3
+** cis-3-dodecenoyl-CoA
+** (3Z)-dodecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14394]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659197 90659197]
+* HMDB : HMDB04257
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27989 27989]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02944 C02944]
+{{#set: smiles=CCCCCCCCC=CCC(SCCNC(CCNC(C(C(COP(OP(OCC3(C(OP(=O)([O-])[O-])C(O)C(N2(C1(N=CN=C(N)C=1N=C2)))O3))(=O)[O-])(=O)[O-])(C)C)O)=O)=O)=O}}
+{{#set: common name=3-cis-dodecenoyl-CoA}}
+{{#set: inchi key=InChIKey=XEMIVMKTVGRFTD-QXMHVHEDSA-J}}
+{{#set: molecular weight=943.792    }}
+{{#set: common name=12:1(n-9)|12:1 cis-3|cis-3-dodecenoyl-CoA|(3Z)-dodecenoyl-CoA}}
+{{#set: produced by=RXN-14394}}

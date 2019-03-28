@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20539 ==
+* right end position:
+** 1130
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 38
+* centisome position:
+** 3.2478635    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1130}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=38}}
+{{#set: centisome position=3.2478635    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

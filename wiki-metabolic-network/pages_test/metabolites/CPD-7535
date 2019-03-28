@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7535 CPD-7535] ==
+* smiles:
+** CC(=CCCC(C)=CCCC(C)=CC=CC(=CC=CC=C(C=CC=C(CCC=C(CCC=C(C)C)C)C)C)C)C
+* inchi key:
+** InChIKey=BIWLELKAFXRPDE-LMARSQGMSA-N
+* common name:
+** 9,15,9'-tri-cis-&zeta;-carotene
+* molecular weight:
+** 540.914    
+* Synonym(s):
+** 9,15,9'-cis-&zeta;-carotene
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11354]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12244]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C19764 C19764]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=48717 48717]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=24755586 24755586]
+{{#set: smiles=CC(=CCCC(C)=CCCC(C)=CC=CC(=CC=CC=C(C=CC=C(CCC=C(CCC=C(C)C)C)C)C)C)C}}
+{{#set: inchi key=InChIKey=BIWLELKAFXRPDE-LMARSQGMSA-N}}
+{{#set: common name=9,15,9'-tri-cis-&zeta;-carotene}}
+{{#set: molecular weight=540.914    }}
+{{#set: common name=9,15,9'-cis-&zeta;-carotene}}
+{{#set: consumed by=RXN-11354}}
+{{#set: produced by=RXN-12244}}

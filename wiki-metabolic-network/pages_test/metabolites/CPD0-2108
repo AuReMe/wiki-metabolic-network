@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2108 CPD0-2108] ==
+* smiles:
+** CCCCCC=CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** trans-oct-2-enoyl-CoA
+* inchi key:
+** InChIKey=CPSDNAXXKWVYIY-NTLMCJQISA-J
+* molecular weight:
+** 887.685    
+* Synonym(s):
+** (2E)-octenoyl-CoA
+** trans-2-octenoyl-coenzyme A
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14276]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12669]]
+* [[ACOA80or]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14229]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05276 C05276]
+* HMDB : HMDB03949
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62242 62242]
+* BIGG : oc2coa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46173358 46173358]
+{{#set: smiles=CCCCCC=CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=trans-oct-2-enoyl-CoA}}
+{{#set: inchi key=InChIKey=CPSDNAXXKWVYIY-NTLMCJQISA-J}}
+{{#set: molecular weight=887.685    }}
+{{#set: common name=(2E)-octenoyl-CoA|trans-2-octenoyl-coenzyme A}}
+{{#set: consumed by=RXN-14276}}
+{{#set: produced by=RXN-12669|ACOA80or}}
+{{#set: reversible reaction associated=RXN-14229}}

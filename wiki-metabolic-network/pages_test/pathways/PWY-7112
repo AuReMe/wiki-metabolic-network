@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7112 PWY-7112] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** 4-hydroxy-2-nonenal detoxification
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-13673]]
+** 11 associated gene(s):
+*** [[Tiso_gene_5129]]
+*** [[Tiso_gene_19041]]
+*** [[Tiso_gene_8389]]
+*** [[Tiso_gene_2775]]
+*** [[Tiso_gene_3233]]
+*** [[Tiso_gene_1104]]
+*** [[Tiso_gene_8508]]
+*** [[Tiso_gene_6036]]
+*** [[Tiso_gene_19791]]
+*** [[Tiso_gene_8509]]
+*** [[Tiso_gene_20110]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-13677]]
+** 2 associated gene(s):
+*** [[Tiso_gene_860]]
+*** [[Tiso_gene_16906]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13675 RXN-13675]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13678 RXN-13678]
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=4-hydroxy-2-nonenal detoxification}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

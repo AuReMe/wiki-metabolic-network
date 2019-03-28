@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6446 PWY-6446] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** benzoate biosynthesis III (CoA-dependent, non-&beta;-oxidative)
+* Synonym(s):
+** benzoic acid biosynthesis
+** benzoate biosynthesis III (CoA-dependent, &beta;-oxidative-independent)
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[PWY-6457]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11278 RXN-11278]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2002 RXN-2002]
+== External links  ==
+* PLANTCYC : PWY-6446
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=benzoate biosynthesis III (CoA-dependent, non-&beta;-oxidative)}}
+{{#set: common name=benzoic acid biosynthesis|benzoate biosynthesis III (CoA-dependent, &beta;-oxidative-independent)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

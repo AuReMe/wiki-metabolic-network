@@ -1,0 +1,84 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17718 ==
+* right end position:
+** 3165
+* transcription direction:
+** POSITIVE
+* left end position:
+** 372
+* centisome position:
+** 10.6285715    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-SULFINOALANINE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ASPAMINOTRANS-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[CYSTEINE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PHEAMINOTRANS-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-10814]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11737]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13697]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[TYROSINE-AMINOTRANSFERASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[TYRSYN]]
+* [[PWY-7383]]
+* [[ASPARTATESYN-PWY]]
+* [[PWY-7117]]
+* [[PWY-7115]]
+* [[PWY-5329]]
+* [[PWY-5754]]
+* [[PWY-5048]]
+* [[PWY-5913]]
+* [[CYSTEINE-DEG-PWY]]
+* [[PWY-6643]]
+* [[PWY-6642]]
+* [[PWY-7432]]
+* [[PWY-7518]]
+* [[PWY-7514]]
+* [[MALATE-ASPARTATE-SHUTTLE-PWY]]
+* [[TYRFUMCAT-PWY]]
+* [[PWY-3581]]
+* [[ASPARTATE-DEG1-PWY]]
+* [[PWY0-1534]]
+* [[PWY-5886]]
+* [[GLUTDEG-PWY]]
+* [[PWY-6318]]
+* [[PWY-5079]]
+* [[ANAPHENOXI-PWY]]
+* [[PWY3O-4108]]
+* [[PHESYN]]
+* [[PWY-6638]]
+* [[ASPARAGINE-DEG1-PWY-1]]
+* [[PWY-5151]]
+== External links  ==
+{{#set: right end position=3165}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=372}}
+{{#set: centisome position=10.6285715    }}
+{{#set: reaction associated=3-SULFINOALANINE-AMINOTRANSFERASE-RXN|ASPAMINOTRANS-RXN|CYSTEINE-AMINOTRANSFERASE-RXN|PHEAMINOTRANS-RXN|RXN-10814|RXN-11737|RXN-13697|TYROSINE-AMINOTRANSFERASE-RXN}}
+{{#set: pathway associated=TYRSYN|PWY-7383|ASPARTATESYN-PWY|PWY-7117|PWY-7115|PWY-5329|PWY-5754|PWY-5048|PWY-5913|CYSTEINE-DEG-PWY|PWY-6643|PWY-6642|PWY-7432|PWY-7518|PWY-7514|MALATE-ASPARTATE-SHUTTLE-PWY|TYRFUMCAT-PWY|PWY-3581|ASPARTATE-DEG1-PWY|PWY0-1534|PWY-5886|GLUTDEG-PWY|PWY-6318|PWY-5079|ANAPHENOXI-PWY|PWY3O-4108|PHESYN|PWY-6638|ASPARAGINE-DEG1-PWY-1|PWY-5151}}

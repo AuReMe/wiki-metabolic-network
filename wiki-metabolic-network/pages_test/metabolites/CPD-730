@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-730 CPD-730] ==
+* smiles:
+** CCC=CCC1(C(=O)CCC(CCCCCCCC([O-])=O)1)
+* common name:
+** 3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoate
+* inchi key:
+** InChIKey=BZXZFDKIRZBJEP-CLTKARDFSA-M
+* molecular weight:
+** 293.425    
+* Synonym(s):
+** 3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoic acid
+** oxopentenyl-cyclopentane-octanoic acid
+** 8-[(1R,2R)-3-oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate
+** OPC8
+** OPC-8:0
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10695]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMFA02010006
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244083 25244083]
+* HMDB : HMDB36217
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=49265 49265]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04780 C04780]
+{{#set: smiles=CCC=CCC1(C(=O)CCC(CCCCCCCC([O-])=O)1)}}
+{{#set: common name=3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoate}}
+{{#set: inchi key=InChIKey=BZXZFDKIRZBJEP-CLTKARDFSA-M}}
+{{#set: molecular weight=293.425    }}
+{{#set: common name=3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoic acid|oxopentenyl-cyclopentane-octanoic acid|8-[(1R,2R)-3-oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate|OPC8|OPC-8:0}}
+{{#set: consumed by=RXN-10695}}

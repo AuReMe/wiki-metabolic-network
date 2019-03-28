@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Enoylpimeloyl-ACP-methyl-esters Enoylpimeloyl-ACP-methyl-esters] ==
+* common name:
+** an enoylpimeloyl-[acp] methyl ester
+* Synonym(s):
+** an enoylpimelyl-[acyl-carrier protein] methyl ester
+** an enoylpimelyl-[acp] methyl ester
+** an enoylpimeloyl-[acyl-carrier protein] methyl ester
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11482]]
+* [[EPMEACPR]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11481]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an enoylpimeloyl-[acp] methyl ester}}
+{{#set: common name=an enoylpimelyl-[acyl-carrier protein] methyl ester|an enoylpimelyl-[acp] methyl ester|an enoylpimeloyl-[acyl-carrier protein] methyl ester}}
+{{#set: consumed by=RXN-11482|EPMEACPR}}
+{{#set: produced by=RXN-11481}}

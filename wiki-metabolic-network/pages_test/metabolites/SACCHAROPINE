@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SACCHAROPINE SACCHAROPINE] ==
+* smiles:
+** C(CC[N+]C(CCC([O-])=O)C([O-])=O)CC([N+])C([O-])=O
+* common name:
+** L-saccharopine
+* inchi key:
+** InChIKey=ZDGJAHTZVHVLOT-YUMQZZPRSA-M
+* molecular weight:
+** 275.281    
+* Synonym(s):
+** saccharopine
+** N6-(L-1,3-dicarboxypropyl)-L-lysine
+** &epsilon;-N-(L-glutar-2-yl)-L-lysine
+
+== Reaction(s) known to consume the compound ==
+* [[1.5.1.7-RXN]]
+* [[1.5.1.9-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[1.5.1.8-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00449 C00449]
+* HMDB : HMDB00279
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57951 57951]
+* METABOLIGHTS : MTBLC57951
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49791954 49791954]
+{{#set: smiles=C(CC[N+]C(CCC([O-])=O)C([O-])=O)CC([N+])C([O-])=O}}
+{{#set: common name=L-saccharopine}}
+{{#set: inchi key=InChIKey=ZDGJAHTZVHVLOT-YUMQZZPRSA-M}}
+{{#set: molecular weight=275.281    }}
+{{#set: common name=saccharopine|N6-(L-1,3-dicarboxypropyl)-L-lysine|&epsilon;-N-(L-glutar-2-yl)-L-lysine}}
+{{#set: consumed by=1.5.1.7-RXN|1.5.1.9-RXN}}
+{{#set: produced by=1.5.1.8-RXN}}

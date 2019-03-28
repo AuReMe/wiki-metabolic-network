@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Sugar-alcohols Sugar-alcohols] ==
+* common name:
+** a sugar alcohol
+* Synonym(s):
+** a glycitol
+** an alditol
+** a polyalcohol
+** a polyhydric alcohol
+** a polyol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9926]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ALDEHYDE-REDUCTASE-RXN]]
+== External links  ==
+{{#set: common name=a sugar alcohol}}
+{{#set: common name=a glycitol|an alditol|a polyalcohol|a polyhydric alcohol|a polyol}}
+{{#set: consumed by=RXN-9926}}
+{{#set: reversible reaction associated=ALDEHYDE-REDUCTASE-RXN}}

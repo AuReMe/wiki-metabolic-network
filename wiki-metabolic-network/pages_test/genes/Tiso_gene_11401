@@ -1,0 +1,20 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11401 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLCUR1PUT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUC1PURIDYLTRANS-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[UMPU]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7343]]
+* [[PWY-3801]]
+* [[PWY-7817]]
+* [[PWY-6527]]
+* [[PWY-7238]]
+== External links  ==
+{{#set: reaction associated=GLCUR1PUT|GLUC1PURIDYLTRANS-RXN|UMPU}}
+{{#set: pathway associated=PWY-7343|PWY-3801|PWY-7817|PWY-6527|PWY-7238}}

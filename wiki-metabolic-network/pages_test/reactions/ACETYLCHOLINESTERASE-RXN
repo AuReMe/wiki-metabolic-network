@@ -1,0 +1,68 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACETYLCHOLINESTERASE-RXN ACETYLCHOLINESTERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** para-nitrobenzyl_esterase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.7 EC-3.1.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ACETYLCHOLINE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[CHOLINE]][c] '''+''' 1 [[ACET]][c]
+* With common name(s):
+** 1 acetylcholine[c] '''+''' 1 H2O[c] '''=>''' 1 H+[c] '''+''' 1 choline[c] '''+''' 1 acetate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4650]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17561 17561]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01026 R01026]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7LZJ6 Q7LZJ6]
+** [http://www.uniprot.org/uniprot/P07140 P07140]
+** [http://www.uniprot.org/uniprot/P07692 P07692]
+** [http://www.uniprot.org/uniprot/Q7LZG1 Q7LZG1]
+** [http://www.uniprot.org/uniprot/P22303 P22303]
+** [http://www.uniprot.org/uniprot/Q7LZ27 Q7LZ27]
+** [http://www.uniprot.org/uniprot/P38433 P38433]
+** [http://www.uniprot.org/uniprot/P04058 P04058]
+** [http://www.uniprot.org/uniprot/Q95WV7 Q95WV7]
+** [http://www.uniprot.org/uniprot/Q95P20 Q95P20]
+** [http://www.uniprot.org/uniprot/Q8MXC9 Q8MXC9]
+** [http://www.uniprot.org/uniprot/Q8MXC8 Q8MXC8]
+** [http://www.uniprot.org/uniprot/Q8MXC7 Q8MXC7]
+** [http://www.uniprot.org/uniprot/Q8MXC6 Q8MXC6]
+** [http://www.uniprot.org/uniprot/Q8MXC5 Q8MXC5]
+** [http://www.uniprot.org/uniprot/Q8MXC4 Q8MXC4]
+** [http://www.uniprot.org/uniprot/P21836 P21836]
+** [http://www.uniprot.org/uniprot/P37136 P37136]
+** [http://www.uniprot.org/uniprot/Q03637 Q03637]
+** [http://www.uniprot.org/uniprot/Q9PWR0 Q9PWR0]
+** [http://www.uniprot.org/uniprot/P36196 P36196]
+** [http://www.uniprot.org/uniprot/Q7M382 Q7M382]
+** [http://www.uniprot.org/uniprot/Q9TX11 Q9TX11]
+** [http://www.uniprot.org/uniprot/Q7M2N6 Q7M2N6]
+** [http://www.uniprot.org/uniprot/Q9TR27 Q9TR27]
+** [http://www.uniprot.org/uniprot/O61372 O61372]
+** [http://www.uniprot.org/uniprot/O61371 O61371]
+** [http://www.uniprot.org/uniprot/O61459 O61459]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=para-nitrobenzyl_esterase}}
+{{#set: ec number=EC-3.1.1.7}}
+{{#set: gene associated=Tiso_gene_4650}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

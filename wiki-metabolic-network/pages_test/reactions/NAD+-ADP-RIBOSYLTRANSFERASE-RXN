@@ -1,0 +1,142 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NAD+-ADP-RIBOSYLTRANSFERASE-RXN NAD+-ADP-RIBOSYLTRANSFERASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** formin-d-like
+** ORF
+** nod3_protein
+** tccd-inducible-parp-like_domain-containing_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.2.30 EC-2.4.2.30]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[ADP-D-Ribosyl-Acceptors]][c] '''<=>''' 1 [[ADP-D-Ribosyl-Acceptors]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[NIACINAMIDE]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 an ADP-D-ribosyl acceptor[c] '''<=>''' 1 an ADP-D-ribosyl acceptor[c] '''+''' 1 H+[c] '''+''' 1 nicotinamide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10080]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_342]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11399]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3487]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9412]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16863]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10079]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9411]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_848]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_450]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5199]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12360]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14353]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10122]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_671]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2309]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4453]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12351]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17992]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3971]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4831]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12350]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9065]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16302]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13134]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4452]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04176 R04176]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P09874 P09874]
+** [http://www.uniprot.org/uniprot/P35875 P35875]
+** [http://www.uniprot.org/uniprot/P26446 P26446]
+** [http://www.uniprot.org/uniprot/P18493 P18493]
+** [http://www.uniprot.org/uniprot/Q08824 Q08824]
+** [http://www.uniprot.org/uniprot/P11103 P11103]
+** [http://www.uniprot.org/uniprot/P14299 P14299]
+** [http://www.uniprot.org/uniprot/P27008 P27008]
+** [http://www.uniprot.org/uniprot/P31669 P31669]
+** [http://www.uniprot.org/uniprot/Q11208 Q11208]
+** [http://www.uniprot.org/uniprot/Q11207 Q11207]
+** [http://www.uniprot.org/uniprot/O50017 O50017]
+** [http://www.uniprot.org/uniprot/O24570 O24570]
+** [http://www.uniprot.org/uniprot/Q9ZP54 Q9ZP54]
+** [http://www.uniprot.org/uniprot/P04977 P04977]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=formin-d-like}}
+{{#set: common name=ORF}}
+{{#set: common name=nod3_protein}}
+{{#set: common name=tccd-inducible-parp-like_domain-containing_protein}}
+{{#set: ec number=EC-2.4.2.30}}
+{{#set: gene associated=Tiso_gene_10080|Tiso_gene_342|Tiso_gene_11399|Tiso_gene_3487|Tiso_gene_451|Tiso_gene_9412|Tiso_gene_16863|Tiso_gene_10079|Tiso_gene_9411|Tiso_gene_848|Tiso_gene_450|Tiso_gene_5199|Tiso_gene_12360|Tiso_gene_14353|Tiso_gene_10122|Tiso_gene_671|Tiso_gene_2309|Tiso_gene_4453|Tiso_gene_12351|Tiso_gene_17992|Tiso_gene_3971|Tiso_gene_4831|Tiso_gene_12350|Tiso_gene_9065|Tiso_gene_18366|Tiso_gene_16302|Tiso_gene_13134|Tiso_gene_4452}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

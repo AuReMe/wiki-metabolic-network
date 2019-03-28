@@ -1,0 +1,60 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.21.89-RXN 3.4.21.89-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.21.89 EC-3.4.21.89]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[Peptides-with-Leader-Sequence]][c] '''=>''' 1 [[Leader-Sequences]][c] '''+''' 1 [[Peptides-holder]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a peptide with a leader sequence[c] '''=>''' 1 a leader sequence[c] '''+''' 1 a peptide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14208]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9RUF9 Q9RUF9]
+** [http://www.uniprot.org/uniprot/Q9ZE32 Q9ZE32]
+** [http://www.uniprot.org/uniprot/Q9CDG2 Q9CDG2]
+** [http://www.uniprot.org/uniprot/Q9KPB1 Q9KPB1]
+** [http://www.uniprot.org/uniprot/Q9PBA0 Q9PBA0]
+** [http://www.uniprot.org/uniprot/Q57708 Q57708]
+** [http://www.uniprot.org/uniprot/O67088 O67088]
+** [http://www.uniprot.org/uniprot/Q9JV66 Q9JV66]
+** [http://www.uniprot.org/uniprot/Q9PP67 Q9PP67]
+** [http://www.uniprot.org/uniprot/Q9I5G7 Q9I5G7]
+** [http://www.uniprot.org/uniprot/Q8FF16 Q8FF16]
+** [http://www.uniprot.org/uniprot/Q8XA33 Q8XA33]
+** [http://www.uniprot.org/uniprot/P41026 P41026]
+** [http://www.uniprot.org/uniprot/P41027 P41027]
+** [http://www.uniprot.org/uniprot/P37943 P37943]
+** [http://www.uniprot.org/uniprot/Q57350 Q57350]
+** [http://www.uniprot.org/uniprot/Q7M0V9 Q7M0V9]
+** [http://www.uniprot.org/uniprot/P0A1W2 P0A1W2]
+** [http://www.uniprot.org/uniprot/P26844 P26844]
+** [http://www.uniprot.org/uniprot/P28628 P28628]
+** [http://www.uniprot.org/uniprot/P41025 P41025]
+** [http://www.uniprot.org/uniprot/Q51876 Q51876]
+** [http://www.uniprot.org/uniprot/Q52697 Q52697]
+** [http://www.uniprot.org/uniprot/Q45225 Q45225]
+** [http://www.uniprot.org/uniprot/P72660 P72660]
+** [http://www.uniprot.org/uniprot/P73157 P73157]
+** [http://www.uniprot.org/uniprot/O69884 O69884]
+** [http://www.uniprot.org/uniprot/P00803 P00803]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.4.21.89}}
+{{#set: gene associated=Tiso_gene_14208}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

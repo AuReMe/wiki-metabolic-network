@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12236 ==
+* right end position:
+** 5045
+* transcription direction:
+** POSITIVE
+* left end position:
+** 146
+* centisome position:
+** 2.0255272    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5045}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=146}}
+{{#set: centisome position=2.0255272    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN}}

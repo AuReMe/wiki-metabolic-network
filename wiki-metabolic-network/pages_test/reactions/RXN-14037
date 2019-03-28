@@ -1,0 +1,32 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14037 RXN-14037] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[THIAMINE-PYROPHOSPHATE]][c] '''+''' 1 [[2-ACETO-LACTATE]][c] '''<=>''' 1 [[PYRUVATE]][c] '''+''' 1 [[2-ALPHA-HYDROXYETHYL-THPP]][c]
+* With common name(s):
+** 1 thiamine diphosphate[c] '''+''' 1 (S)-2-acetolactate[c] '''<=>''' 1 pyruvate[c] '''+''' 1 2-(&alpha;-hydroxyethyl)thiamine diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11362]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=24808 24808]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04672 R04672]
+{{#set: direction=REVERSIBLE}}
+{{#set: gene associated=Tiso_gene_11362}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

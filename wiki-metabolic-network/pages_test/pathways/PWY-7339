@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7339 PWY-7339] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** 10-trans-heptadecenoyl-CoA degradation (MFE-dependent, yeast)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-14793]]
+** 5 associated gene(s):
+*** [[Tiso_gene_10116]]
+*** [[Tiso_gene_3856]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_3855]]
+*** [[Tiso_gene_17451]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14780 RXN-14780]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14781 RXN-14781]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14791 RXN-14791]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14792 RXN-14792]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14794 RXN-14794]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=10-trans-heptadecenoyl-CoA degradation (MFE-dependent, yeast)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

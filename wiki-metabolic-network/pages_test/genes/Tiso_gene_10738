@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10738 ==
+* right end position:
+** 6551
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4397
+* centisome position:
+** 52.74712    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALKAPHOSPHA-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-5822]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8748]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5491]]
+* [[PWY-5083]]
+* [[NADPHOS-DEPHOS-PWY]]
+* [[NAD-BIOSYNTHESIS-II]]
+== External links  ==
+{{#set: right end position=6551}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4397}}
+{{#set: centisome position=52.74712    }}
+{{#set: reaction associated=ALKAPHOSPHA-RXN|RXN-5822|RXN-8748}}
+{{#set: pathway associated=PWY-5491|PWY-5083|NADPHOS-DEPHOS-PWY|NAD-BIOSYNTHESIS-II}}

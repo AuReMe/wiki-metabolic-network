@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16425 RXN-16425] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** atp-dependent_metalloprotease
+** phosphoacetylglucosamine_mutase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[N-ACETYL-D-GLUCOSAMINE-6-P]][c] '''+''' 1 [[Phosphoacetylglucosamine-Mutase-P]][c] '''=>''' 1 [[N-ACETYL-D-GLUCOSAMINE-16-BIS-P]][c] '''+''' 1 [[Phosphoacetylglucosamine-Mutase]][c]
+* With common name(s):
+** 1 N-acetyl-D-glucosamine 6-phosphate[c] '''+''' 1 a phosphorylated phosphoacetylglucosamine mutase[c] '''=>''' 1 N-acetyl-D-glucosamine 1,6-bisphosphate[c] '''+''' 1 a phosphoacetylglucosamine mutase[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13231]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_13230]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=atp-dependent_metalloprotease}}
+{{#set: common name=phosphoacetylglucosamine_mutase}}
+{{#set: gene associated=Tiso_gene_13231|Tiso_gene_13230}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

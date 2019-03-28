@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CELLULOSE CELLULOSE] ==
+* common name:
+** cellulose
+* Synonym(s):
+** (1,4-&beta;-D-glucosyl)(N)
+
+== Reaction(s) known to consume the compound ==
+* [[CELLULOSE-SYNTHASE-UDP-FORMING-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[CELLULOSE-SYNTHASE-UDP-FORMING-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=cellulose}}
+{{#set: common name=(1,4-&beta;-D-glucosyl)(N)}}
+{{#set: consumed by=CELLULOSE-SYNTHASE-UDP-FORMING-RXN}}
+{{#set: produced by=CELLULOSE-SYNTHASE-UDP-FORMING-RXN}}

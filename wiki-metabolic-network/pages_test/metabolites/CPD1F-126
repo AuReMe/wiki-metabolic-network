@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-126 CPD1F-126] ==
+* smiles:
+** CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(C=CC1(C(C)(C)CCCC=1C))C)C)C)C)C)C
+* common name:
+** &gamma;-carotene
+* inchi key:
+** InChIKey=HRQKOYFGHJYEFS-BXOLYSJBSA-N
+* molecular weight:
+** 536.882    
+* Synonym(s):
+** &beta;,&psi;-carotene
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-151]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-150]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR01070260
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280791 5280791]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444349.html 4444349]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27740 27740]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05435 C05435]
+{{#set: smiles=CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(C=CC1(C(C)(C)CCCC=1C))C)C)C)C)C)C}}
+{{#set: common name=&gamma;-carotene}}
+{{#set: inchi key=InChIKey=HRQKOYFGHJYEFS-BXOLYSJBSA-N}}
+{{#set: molecular weight=536.882    }}
+{{#set: common name=&beta;,&psi;-carotene}}
+{{#set: consumed by=RXN1F-151}}
+{{#set: produced by=RXN1F-150}}

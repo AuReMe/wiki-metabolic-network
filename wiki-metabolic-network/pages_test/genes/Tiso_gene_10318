@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10318 ==
+* right end position:
+** 5368
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3669
+* centisome position:
+** 32.12503    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NQOR-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12303]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7731]]
+== External links  ==
+{{#set: right end position=5368}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3669}}
+{{#set: centisome position=32.12503    }}
+{{#set: reaction associated=NQOR-RXN|RXN-12303}}
+{{#set: pathway associated=PWY-7731}}

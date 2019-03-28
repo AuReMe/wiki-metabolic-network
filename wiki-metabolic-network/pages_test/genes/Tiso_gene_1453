@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1453 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[THMPPPT]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TMDPT]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: reaction associated=ADENYL-KIN-RXN|THMPPPT|TMDPT}}
+{{#set: pathway associated=PWY-7219}}

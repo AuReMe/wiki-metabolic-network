@@ -1,0 +1,77 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACETALD-DEHYDROG-RXN ACETALD-DEHYDROG-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.10 EC-1.2.1.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CO-A]][c] '''+''' 1 [[NAD]][c] '''+''' 1 [[ACETALD]][c] '''<=>''' 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ACETYL-COA]][c]
+* With common name(s):
+** 1 coenzyme A[c] '''+''' 1 NAD+[c] '''+''' 1 acetaldehyde[c] '''<=>''' 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 acetyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7649]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2052]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-5436]], L-threonine degradation IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5436 PWY-5436]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[ETOH-ACETYLCOA-ANA-PWY]], ethanol degradation I: [http://metacyc.org/META/NEW-IMAGE?object=ETOH-ACETYLCOA-ANA-PWY ETOH-ACETYLCOA-ANA-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-7180]], 2'-deoxy-&alpha;-D-ribose 1-phosphate degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7180 PWY-7180]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-5162]], 2-oxopentenoate degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5162 PWY-5162]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-7085]], triethylamine degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7085 PWY-7085]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6587]], pyruvate fermentation to ethanol III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6587 PWY-6587]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+* [[PHOSPHONOTASE-PWY]], 2-aminoethylphosphonate degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHONOTASE-PWY PHOSPHONOTASE-PWY]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[P161-PWY]], acetylene degradation: [http://metacyc.org/META/NEW-IMAGE?object=P161-PWY P161-PWY]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[P122-PWY]], heterolactic fermentation: [http://metacyc.org/META/NEW-IMAGE?object=P122-PWY P122-PWY]
+** '''14''' reactions found over '''18''' reactions in the full pathway
+* [[PWY4LZ-257]], superpathway of fermentation (Chlamydomonas reinhardtii): [http://metacyc.org/META/NEW-IMAGE?object=PWY4LZ-257 PWY4LZ-257]
+** '''5''' reactions found over '''13''' reactions in the full pathway
+* [[PWY-5480]], pyruvate fermentation to ethanol I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5480 PWY-5480]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+* [[FERMENTATION-PWY]], mixed acid fermentation: [http://metacyc.org/META/NEW-IMAGE?object=FERMENTATION-PWY FERMENTATION-PWY]
+** '''9''' reactions found over '''16''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23288 23288]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00228 R00228]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q52434 Q52434]
+** [http://www.uniprot.org/uniprot/P0A9Q7 P0A9Q7]
+** [http://www.uniprot.org/uniprot/P77580 P77580]
+** [http://www.uniprot.org/uniprot/P71866 P71866]
+** [http://www.uniprot.org/uniprot/Q52060 Q52060]
+** [http://www.uniprot.org/uniprot/Q52016 Q52016]
+** [http://www.uniprot.org/uniprot/O85978 O85978]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.2.1.10}}
+{{#set: gene associated=Tiso_gene_7649|Tiso_gene_2052}}
+{{#set: in pathway=PWY-5436|ETOH-ACETYLCOA-ANA-PWY|PWY-7180|PWY-5162|PWY-7085|PWY-6587|PHOSPHONOTASE-PWY|P161-PWY|P122-PWY|PWY4LZ-257|PWY-5480|FERMENTATION-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-Ac-N-terminal-L-valine N-Ac-N-terminal-L-valine] ==
+* common name:
+** an N-terminal N&alpha;-acetyl-L-valyl-[protein]
+* Synonym(s):
+** a [protein] N-terminal N&alpha;-acetyl-L-valine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17859]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-terminal N&alpha;-acetyl-L-valyl-[protein]}}
+{{#set: common name=a [protein] N-terminal N&alpha;-acetyl-L-valine}}
+{{#set: produced by=RXN-17859}}

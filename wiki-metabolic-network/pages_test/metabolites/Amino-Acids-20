@@ -1,0 +1,23 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Amino-Acids-20 Amino-Acids-20] ==
+* common name:
+** a proteinogenic amino acid
+* Synonym(s):
+** a protein-building amino acid
+** a standard &alpha; amino acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6601]]
+* [[RXN66-336]]
+== Reaction(s) known to produce the compound ==
+* [[3.4.11.9-RXN]]
+* [[3.4.16.5-RXN]]
+* [[3.4.11.14-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN]]
+== External links  ==
+{{#set: common name=a proteinogenic amino acid}}
+{{#set: common name=a protein-building amino acid|a standard &alpha; amino acid}}
+{{#set: consumed by=RXN-6601|RXN66-336}}
+{{#set: produced by=3.4.11.9-RXN|3.4.16.5-RXN|3.4.11.14-RXN}}
+{{#set: reversible reaction associated=ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN}}

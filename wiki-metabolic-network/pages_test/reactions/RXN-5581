@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-5581 RXN-5581] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** aldehyde_dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.5 EC-1.2.1.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[INDOLE_ACETALDEHYDE]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[NAD-P-OR-NOP]][c] '''=>''' 2 [[PROTON]][c] '''+''' 1 [[INDOLE_ACETATE_AUXIN]][c] '''+''' 1 [[NADH-P-OR-NOP]][c]
+* With common name(s):
+** 1 indole acetaldehyde[c] '''+''' 1 H2O[c] '''+''' 1 NAD(P)+[c] '''=>''' 2 H+[c] '''+''' 1 indole-3-acetate[c] '''+''' 1 NAD(P)H[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7322]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-3162]], L-tryptophan degradation V (side chain pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-3162 PWY-3162]
+** '''2''' reactions found over '''13''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30867 30867]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=aldehyde_dehydrogenase}}
+{{#set: ec number=EC-1.2.1.5}}
+{{#set: gene associated=Tiso_gene_7322}}
+{{#set: in pathway=PWY-3162}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

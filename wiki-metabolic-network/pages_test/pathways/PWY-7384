@@ -1,0 +1,85 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7384 PWY-7384] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-6231 TAX-6231]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-6157 TAX-6157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-6340 TAX-6340]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-6447 TAX-6447]
+* common name:
+** anaerobic energy metabolism (invertebrates, mitochondrial)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''12''' reactions in the full pathway
+* [[1.1.1.39-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12896]]
+*** [[Tiso_gene_6675]]
+*** [[Tiso_gene_12200]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[METHYLMALONYL-COA-MUT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9771]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[PROPIONYL-COA-CARBOXY-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5029]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[PWY-5537]]
+** 0 associated gene:
+* [[PYRUVDEH-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_2515]]
+*** [[Tiso_gene_6983]]
+*** [[Tiso_gene_17539]]
+*** [[Tiso_gene_2693]]
+*** [[Tiso_gene_9330]]
+*** [[Tiso_gene_7519]]
+*** [[Tiso_gene_19780]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[SUCCCOASYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15846]]
+*** [[Tiso_gene_11866]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=METHYLMALONYL-COA-EPIM-RXN METHYLMALONYL-COA-EPIM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14963 RXN-14963]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8807 RXN-8807]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-268 RXN0-268]
+== External links  ==
+{{#set: taxonomic range=TAX-6231}}
+{{#set: taxonomic range=TAX-6157}}
+{{#set: taxonomic range=TAX-6340}}
+{{#set: taxonomic range=TAX-6447}}
+{{#set: common name=anaerobic energy metabolism (invertebrates, mitochondrial)}}
+{{#set: reaction found=7}}
+{{#set: total reaction=12}}
+{{#set: completion rate=58.0}}

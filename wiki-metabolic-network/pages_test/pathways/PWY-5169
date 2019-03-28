@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5169 PWY-5169] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** cyanurate degradation
+* Synonym(s):
+** cyanuric acid degradation
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[R468-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_9325]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ALLOPHANATE-HYDROLASE-RXN ALLOPHANATE-HYDROLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8930 RXN-8930]
+== External links  ==
+* UM-BBD-PWY : cya
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=cyanurate degradation}}
+{{#set: common name=cyanuric acid degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

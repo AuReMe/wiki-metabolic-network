@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=THIOREDOXIN-RXN THIOREDOXIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Red-Thioredoxin]][c] '''+''' 1 [[Acceptor]][c] '''=>''' 1 [[Ox-Thioredoxin]][c] '''+''' 1 [[Donor-H2]][c]
+* With common name(s):
+** 1 a reduced thioredoxin[c] '''+''' 1 an oxidized electron acceptor[c] '''=>''' 1 an oxidized thioredoxin[c] '''+''' 1 a reduced electron acceptor[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[THIOREDOX-PWY]], thioredoxin pathway: [http://metacyc.org/META/NEW-IMAGE?object=THIOREDOX-PWY THIOREDOX-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=THIOREDOX-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

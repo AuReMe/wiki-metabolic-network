@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TRANS-RXN-218 TRANS-RXN-218] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[PROTON]][c] '''=>''' 2 [[PROTON]][e]
+* With common name(s):
+** 2 H+[c] '''=>''' 2 H+[e]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

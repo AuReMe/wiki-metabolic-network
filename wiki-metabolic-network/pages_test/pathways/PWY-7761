@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7761 PWY-7761] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** NAD salvage pathway II
+* Synonym(s):
+** PNC IV cycle
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[NICONUCADENYLYLTRAN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6231]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=NAD-SYNTH-GLN-RXN NAD-SYNTH-GLN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=NADPYROPHOSPHAT-RXN NADPYROPHOSPHAT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=NMNAMIDOHYDRO-RXN NMNAMIDOHYDRO-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-7761 PWY-7761]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=NAD salvage pathway II}}
+{{#set: common name=PNC IV cycle}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

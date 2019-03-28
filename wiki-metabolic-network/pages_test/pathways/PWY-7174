@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7174 PWY-7174] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[5.3.1.23-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3805]]
+*** [[Tiso_gene_18341]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=O-ACETYLHOMOSERINE-THIOL-LYASE-RXN O-ACETYLHOMOSERINE-THIOL-LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14006 RXN-14006]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14007 RXN-14007]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation II}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-40 PWY-40] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** putrescine biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[AGMATIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4415]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ARGDECARBOX-RXN ARGDECARBOX-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-40 PWY-40]
+{{#set: taxonomic range=TAX-7742}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=putrescine biosynthesis I}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

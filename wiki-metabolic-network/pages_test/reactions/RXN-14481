@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14481 RXN-14481] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[S-ADENOSYLMETHIONINE]][c] '''+''' 1 [[CPD-15360]][c] '''=>''' 1 [[CPD-11592]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 S-adenosyl-L-methionine[c] '''+''' 1 2-thio-N6-dimethylallyladenosine37 in tRNA[c] '''=>''' 1 2-methylthio-N6-dimethylallyladenosine37 in tRNA[c] '''+''' 1 H+[c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12431]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_12431}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

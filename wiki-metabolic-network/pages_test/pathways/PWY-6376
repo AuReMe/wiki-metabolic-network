@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6376 PWY-6376] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1883 TAX-1883]
+* common name:
+** desferrioxamine B biosynthesis
+* Synonym(s):
+** Desferal biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[LYSDECARBOX-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10395]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10995 RXN-10995]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10996 RXN-10996]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10999 RXN-10999]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11001 RXN-11001]
+== External links  ==
+{{#set: taxonomic range=TAX-1883}}
+{{#set: common name=desferrioxamine B biosynthesis}}
+{{#set: common name=Desferal biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

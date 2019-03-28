@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5152 PWY-5152] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** leucodelphinidin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-7784]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9504]]
+*** [[Tiso_gene_15272]]
+*** [[Tiso_gene_9503]]
+*** [[Tiso_gene_11016]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-7922]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13718 RXN-13718]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-525 RXN-525]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7921 RXN-7921]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-5152 PWY-5152]
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=leucodelphinidin biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.143-RXN 2.1.1.143-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** sterol_methyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.143 EC-2.1.1.143]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-4101]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[CPD-4124]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 24-methylenelophenol[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 24-ethylidenelophenol[c] '''+''' 1 H+[c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11850]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_11849]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-2541]], plant sterol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2541 PWY-2541]
+** '''10''' reactions found over '''36''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21044 21044]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05776 R05776]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=sterol_methyltransferase}}
+{{#set: ec number=EC-2.1.1.143}}
+{{#set: gene associated=Tiso_gene_11850|Tiso_gene_11849}}
+{{#set: in pathway=PWY-2541}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

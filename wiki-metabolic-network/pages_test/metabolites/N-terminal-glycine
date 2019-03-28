@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-terminal-glycine N-terminal-glycine] ==
+* common name:
+** an N-terminal glycyl-[protein]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17862]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17875]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-terminal glycyl-[protein]}}
+{{#set: consumed by=RXN-17862}}
+{{#set: produced by=RXN-17875}}

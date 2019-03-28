@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UREA UREA] ==
+* smiles:
+** C(=O)(N)N
+* common name:
+** urea
+* inchi key:
+** InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
+* molecular weight:
+** 60.055    
+* Synonym(s):
+** bromisovalum
+** carmol
+** basodexan
+** carbamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[AGMATIN-RXN]]
+* [[GUANIDINOBUTYRASE-RXN]]
+* [[CREATINASE-RXN]]
+* [[ALLANTOICASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ARGINASE-RXN]]
+* [[TRANS-RXN0-460]]
+* [[UREASE-RXN]]
+== External links  ==
+* CAS : 57-13-6
+* DRUGBANK : DB03904
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1176 1176]
+* HMDB : HMDB00294
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00086 C00086]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1143.html 1143]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16199 16199]
+* METABOLIGHTS : MTBLC16199
+{{#set: smiles=C(=O)(N)N}}
+{{#set: common name=urea}}
+{{#set: inchi key=InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N}}
+{{#set: molecular weight=60.055    }}
+{{#set: common name=bromisovalum|carmol|basodexan|carbamide}}
+{{#set: produced by=AGMATIN-RXN|GUANIDINOBUTYRASE-RXN|CREATINASE-RXN|ALLANTOICASE-RXN}}
+{{#set: reversible reaction associated=ARGINASE-RXN|TRANS-RXN0-460|UREASE-RXN}}

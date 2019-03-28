@@ -1,0 +1,64 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4302 PWY-4302] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33682 TAX-33682]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** aerobic respiration III (alternative oxidase pathway)
+* Synonym(s):
+** alternative oxidase pathway
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[NADH-DEHYDROG-A-RXN]]
+** 18 associated gene(s):
+*** [[Tiso_gene_13075]]
+*** [[Tiso_gene_4836]]
+*** [[Tiso_gene_5171]]
+*** [[Tiso_gene_359]]
+*** [[Tiso_gene_15276]]
+*** [[Tiso_gene_10326]]
+*** [[Tiso_gene_18831]]
+*** [[Tiso_gene_4894]]
+*** [[Tiso_gene_9874]]
+*** [[Tiso_gene_18172]]
+*** [[Tiso_gene_18339]]
+*** [[Tiso_gene_19691]]
+*** [[Tiso_gene_2949]]
+*** [[Tiso_gene_17199]]
+*** [[Tiso_gene_18707]]
+*** [[Tiso_gene_3113]]
+*** [[Tiso_gene_355]]
+*** [[Tiso_gene_358]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-6883]]
+** 4 associated gene(s):
+*** [[Tiso_gene_7486]]
+*** [[Tiso_gene_17130]]
+*** [[Tiso_gene_7953]]
+*** [[Tiso_gene_8278]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-4302 PWY-4302]
+{{#set: taxonomic range=TAX-33682}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=aerobic respiration III (alternative oxidase pathway)}}
+{{#set: common name=alternative oxidase pathway}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

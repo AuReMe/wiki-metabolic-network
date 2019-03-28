@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.152-RXN 3.2.1.152-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** endo-_-beta-mannosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.152 EC-3.2.1.152]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CPD-7263]][c] '''=>''' 1 [[CPD-13935]][c] '''+''' 1 [[CPD-7265]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a &alpha;-D-mannosyl-(1->6)-&beta;-D-mannosyl-(1->4)-N-acetyl-&beta;-D-glucosaminyl-(1->4)-N-acetyl-&beta;-D-glucosaminyl-[glycoprotein][c] '''=>''' 1 &alpha;1,6-D mannobiose[c] '''+''' 1 an N-acetyl-&beta;-D-glucosaminyl-(1->4)-N-acetyl-&beta;-D-glucosaminyl-[glycoprotein][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17158]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_5241]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15472]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=endo-_-beta-mannosidase}}
+{{#set: ec number=EC-3.2.1.152}}
+{{#set: gene associated=Tiso_gene_17158|Tiso_gene_5241|Tiso_gene_15472}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

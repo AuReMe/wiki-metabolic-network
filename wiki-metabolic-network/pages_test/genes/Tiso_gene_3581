@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3581 ==
+* right end position:
+** 13315
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3134
+* centisome position:
+** 16.560106    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[TCX8]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=13315}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3134}}
+{{#set: centisome position=16.560106    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN|TCX8}}

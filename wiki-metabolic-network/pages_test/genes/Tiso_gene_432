@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_432 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FORMATETHFLIG-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[METHYLENETHFDEHYDROG-NADP-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[MTHFCx]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[MTHFor_nadp]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[R01220]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[R01655]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-1722]]
+* [[PWY-3841]]
+* [[PWY-2161]]
+* [[1CMET2-PWY]]
+* [[CODH-PWY]]
+* [[PWY-5497]]
+* [[PWY-2201]]
+== External links  ==
+{{#set: reaction associated=FORMATETHFLIG-RXN|METHYLENETHFDEHYDROG-NADP-RXN|MTHFCx|MTHFor_nadp|R01220|R01655}}
+{{#set: pathway associated=PWY-1722|PWY-3841|PWY-2161|1CMET2-PWY|CODH-PWY|PWY-5497|PWY-2201}}

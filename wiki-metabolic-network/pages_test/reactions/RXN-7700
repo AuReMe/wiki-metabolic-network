@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7700 RXN-7700] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** polyketide_synthase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.1 EC-1.1.1.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADH]][c] '''+''' 1 [[PHENYLACETALDEHYDE]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[NAD]][c] '''+''' 1 [[CPD-7035]][c]
+* With common name(s):
+** 1 NADH[c] '''+''' 1 phenylacetaldehyde[c] '''+''' 1 H+[c] '''=>''' 1 NAD+[c] '''+''' 1 2-phenylethanol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7649]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6562]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5425]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5424]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6563]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5079]], L-phenylalanine degradation III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5079 PWY-5079]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-5751]], phenylethanol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5751 PWY-5751]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02611 R02611]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=polyketide_synthase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.1.1.1}}
+{{#set: gene associated=Tiso_gene_7649|Tiso_gene_6562|Tiso_gene_5425|Tiso_gene_5424|Tiso_gene_6563}}
+{{#set: in pathway=PWY-5079|PWY-5751}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-oxo-stearoyl-ACPs 3-oxo-stearoyl-ACPs] ==
+* common name:
+** a 3-oxo-stearoyl-[acp]
+* Synonym(s):
+** a 3-keto-stearoyl-[acp]
+** a 3-oxo-octadecanoyl-[acp]
+** a 3-oxo-octadecanoyl-[acyl-carrier protein]
+** a 3-oxo-stearoyl-[acyl-carrier protein]
+** a 3-keto-stearoyl-[acyl-carrier protein]
+** a 3-keto-octadecanoyl-[acyl-carrier protein]
+** a 3-keto-octadecanoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9633]]
+== Reaction(s) known to produce the compound ==
+* [[RXN3O-1803]]
+* [[RXN-9632]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-stearoyl-[acp]}}
+{{#set: common name=a 3-keto-stearoyl-[acp]|a 3-oxo-octadecanoyl-[acp]|a 3-oxo-octadecanoyl-[acyl-carrier protein]|a 3-oxo-stearoyl-[acyl-carrier protein]|a 3-keto-stearoyl-[acyl-carrier protein]|a 3-keto-octadecanoyl-[acyl-carrier protein]|a 3-keto-octadecanoyl-[acp]}}
+{{#set: consumed by=RXN-9633}}
+{{#set: produced by=RXN3O-1803|RXN-9632}}

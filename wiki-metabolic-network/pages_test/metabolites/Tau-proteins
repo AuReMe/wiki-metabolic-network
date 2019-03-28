@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Tau-proteins Tau-proteins] ==
+* common name:
+** a tau protein
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[TAU-PROTEIN-KINASE-RXN]]
+== External links  ==
+{{#set: common name=a tau protein}}
+{{#set: reversible reaction associated=TAU-PROTEIN-KINASE-RXN}}

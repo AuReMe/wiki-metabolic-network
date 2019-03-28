@@ -1,0 +1,50 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PHOSLIPSYN2-PWY PHOSLIPSYN2-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** superpathway of phospholipid biosynthesis II (plants)
+* Synonym(s):
+** phosphoglyceride biosynthesis
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''23''' reactions in the full pathway
+* [[2.7.8.11-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6541]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PWY-5667]]
+** 0 associated gene:
+* [[PWY-5669]]
+** 0 associated gene:
+* [[PWY0-1319]]
+** 0 associated gene:
+* [[PWY3O-450]]
+** 0 associated gene:
+* [[PWY4FS-6]]
+** 0 associated gene:
+* [[PWY4FS-7]]
+** 0 associated gene:
+* [[PWY4FS-8]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHASERSYN-RXN PHOSPHASERSYN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-2 PWY4FS-2]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-2 PWY4FS-2]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-3 PWY4FS-3]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-3 PWY4FS-3]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-4 PWY4FS-4]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-4 PWY4FS-4]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1382 RXN-1382]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PHOSLIPSYN2-PWY PHOSLIPSYN2-PWY]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=superpathway of phospholipid biosynthesis II (plants)}}
+{{#set: common name=phosphoglyceride biosynthesis}}
+{{#set: reaction found=8}}
+{{#set: total reaction=23}}
+{{#set: completion rate=35.0}}

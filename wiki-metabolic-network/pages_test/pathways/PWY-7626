@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7626 PWY-7626] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** bacilysin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''10''' reactions in the full pathway
+* [[CHORISMATEMUT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5940]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16263 RXN-16263]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16264 RXN-16264]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16265 RXN-16265]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16285 RXN-16285]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16296 RXN-16296]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16297 RXN-16297]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16298 RXN-16298]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16299 RXN-16299]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16300 RXN-16300]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=bacilysin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=10}}
+{{#set: completion rate=10.0}}

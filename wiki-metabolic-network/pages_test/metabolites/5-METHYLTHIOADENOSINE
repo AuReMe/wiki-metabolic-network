@@ -1,0 +1,50 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-METHYLTHIOADENOSINE 5-METHYLTHIOADENOSINE] ==
+* smiles:
+** CSCC1(OC(C(O)C(O)1)N3(C=NC2(=C(N)N=CN=C23)))
+* common name:
+** S-methyl-5'-thioadenosine
+* inchi key:
+** InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
+* molecular weight:
+** 297.331    
+* Synonym(s):
+** methylthioadenosine
+** 5'-methylthioadenosine
+** S-methyl-5'-thioadenosine
+** MTA
+** S-methyl-adenosine
+
+== Reaction(s) known to consume the compound ==
+* [[M5TAP]]
+* [[METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[APAPT]]
+* [[RXN0-5217]]
+* [[SPERMINE-SYNTHASE-RXN]]
+* [[4.4.1.14-RXN]]
+* [[RXN-12347]]
+== Reaction(s) of unknown directionality ==
+* [[SPERMIDINESYN-RXN]]
+== External links  ==
+* CAS : 2457-80-9
+* BIGG : 5mta
+* DRUGBANK : DB02282
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439176 439176]
+* HMDB : HMDB01173
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00170 C00170]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388321.html 388321]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17509 17509]
+* METABOLIGHTS : MTBLC17509
+{{#set: smiles=CSCC1(OC(C(O)C(O)1)N3(C=NC2(=C(N)N=CN=C23)))}}
+{{#set: common name=S-methyl-5'-thioadenosine}}
+{{#set: inchi key=InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N}}
+{{#set: molecular weight=297.331    }}
+{{#set: common name=methylthioadenosine|5'-methylthioadenosine|S-methyl-5'-thioadenosine|MTA|S-methyl-adenosine}}
+{{#set: consumed by=M5TAP|METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN}}
+{{#set: produced by=APAPT|RXN0-5217|SPERMINE-SYNTHASE-RXN|4.4.1.14-RXN|RXN-12347}}
+{{#set: reversible reaction associated=SPERMIDINESYN-RXN}}

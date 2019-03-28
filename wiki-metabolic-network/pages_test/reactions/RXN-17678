@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17678 RXN-17678] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dihydroflavonol-4-reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.219 EC-1.1.1.219]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[2R-3R-Dihydroflavonols]][c] '''+''' 1 [[NADPH]][c] '''=>''' 1 [[CPD-11512]][c] '''+''' 1 [[NADP]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 a (2R,3R)-dihydroflavonol[c] '''+''' 1 NADPH[c] '''=>''' 1 a (2R,3S,4S)-leucoanthocyanidin[c] '''+''' 1 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9503]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_9504]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dihydroflavonol-4-reductase}}
+{{#set: ec number=EC-1.1.1.219}}
+{{#set: gene associated=Tiso_gene_9503|Tiso_gene_9504}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

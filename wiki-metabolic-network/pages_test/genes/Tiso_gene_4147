@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4147 ==
+* right end position:
+** 11450
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3599
+* centisome position:
+** 23.423365    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.21.4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-17832]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7797]]
+== External links  ==
+{{#set: right end position=11450}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3599}}
+{{#set: centisome position=23.423365    }}
+{{#set: reaction associated=3.4.21.4-RXN|RXN-17832}}
+{{#set: pathway associated=PWY-7797}}

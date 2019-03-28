@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20095 ==
+* right end position:
+** 1739
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8
+* centisome position:
+** 0.45454544    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HGDO]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HOMOGENTISATE-12-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TYRFUMCAT-PWY]]
+== External links  ==
+{{#set: right end position=1739}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8}}
+{{#set: centisome position=0.45454544    }}
+{{#set: reaction associated=HGDO|HOMOGENTISATE-12-DIOXYGENASE-RXN}}
+{{#set: pathway associated=TYRFUMCAT-PWY}}

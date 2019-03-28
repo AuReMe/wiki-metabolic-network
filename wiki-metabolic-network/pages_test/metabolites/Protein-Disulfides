@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Protein-Disulfides Protein-Disulfides] ==
+* common name:
+** a protein disulfide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[HDS]]
+* [[1.6.4.4-RXN]]
+* [[1.11.1.15-RXN]]
+== External links  ==
+{{#set: common name=a protein disulfide}}
+{{#set: reversible reaction associated=HDS|1.6.4.4-RXN|1.11.1.15-RXN}}

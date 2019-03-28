@@ -1,0 +1,47 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** nucleotidyltransferase_domain_containing_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7.19 EC-2.7.7.19]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[mRNAs]][c] '''<=>''' 1 [[mRNAs]][c] '''+''' 1 [[PPI]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 an mRNA[c] '''<=>''' 1 an mRNA[c] '''+''' 1 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11334]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P44439 P44439]
+** [http://www.uniprot.org/uniprot/Q9I5A6 Q9I5A6]
+** [http://www.uniprot.org/uniprot/Q9I657 Q9I657]
+** [http://www.uniprot.org/uniprot/Q9JV08 Q9JV08]
+** [http://www.uniprot.org/uniprot/Q9KVV5 Q9KVV5]
+** [http://www.uniprot.org/uniprot/P0ABF1 P0ABF1]
+** [http://www.uniprot.org/uniprot/Q9CFC2 Q9CFC2]
+** [http://www.uniprot.org/uniprot/P07617 P07617]
+** [http://www.uniprot.org/uniprot/P32129 P32129]
+** [http://www.uniprot.org/uniprot/Q98199 Q98199]
+** [http://www.uniprot.org/uniprot/Q98244 Q98244]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=nucleotidyltransferase_domain_containing_protein}}
+{{#set: ec number=EC-2.7.7.19}}
+{{#set: gene associated=Tiso_gene_11334}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

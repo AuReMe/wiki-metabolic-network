@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16793 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AGPTf]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATAMf]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=AGPTf|ATAMf}}

@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ALDH_im4ac ALDH_im4ac] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** aldehyde dehydrogenase (NAD+), Imidazole-4-acetate forming
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][c] '''+''' 1.0 [[NAD]][c] '''+''' 1.0 [[IMIDAZOLE_ACETALDEHYDE]][c] '''=>''' 1.0 [[4-IMIDAZOLEACETATE]][c] '''+''' 2.0 [[PROTON]][c] '''+''' 1.0 [[NADH]][c]
+* With common name(s):
+** 1.0 H2O[c] '''+''' 1.0 NAD+[c] '''+''' 1.0 imidazole acetaldehyde[c] '''=>''' 1.0 4-imidazoleacetate[c] '''+''' 2.0 H+[c] '''+''' 1.0 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3513]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=aldehyde dehydrogenase (NAD+), Imidazole-4-acetate forming}}
+{{#set: gene associated=Tiso_gene_3513}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

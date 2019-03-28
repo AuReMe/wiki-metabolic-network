@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.16.4-RXN 3.4.16.4-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** beta-lactamase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.16.4 EC-3.4.16.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAcMur-Peptide-NAcGlc-Undecaprenols]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[NAcMur-4Peptide-NAcGlc-Undecaprenols]][c] '''+''' 1 [[D-ALANINE]][c]
+* With common name(s):
+** 1 a lipid II[c] '''+''' 1 H2O[c] '''=>''' 1 a N-acetylglucosamine--N-acetylmuramyl-(tetrapeptide) pyrophosphoryl-undecaprenol[c] '''+''' 1 D-alanine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18870]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P24228 P24228]
+** [http://www.uniprot.org/uniprot/P38422 P38422]
+** [http://www.uniprot.org/uniprot/Q9JUX6 Q9JUX6]
+** [http://www.uniprot.org/uniprot/P08506 P08506]
+** [http://www.uniprot.org/uniprot/Q9Z7N2 Q9Z7N2]
+** [http://www.uniprot.org/uniprot/P44466 P44466]
+** [http://www.uniprot.org/uniprot/Q53613 Q53613]
+** [http://www.uniprot.org/uniprot/Q05523 Q05523]
+** [http://www.uniprot.org/uniprot/P39042 P39042]
+** [http://www.uniprot.org/uniprot/Q59439 Q59439]
+** [http://www.uniprot.org/uniprot/P35150 P35150]
+** [http://www.uniprot.org/uniprot/P15555 P15555]
+** [http://www.uniprot.org/uniprot/P08750 P08750]
+** [http://www.uniprot.org/uniprot/P0AEB2 P0AEB2]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=beta-lactamase}}
+{{#set: ec number=EC-3.4.16.4}}
+{{#set: gene associated=Tiso_gene_18870}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

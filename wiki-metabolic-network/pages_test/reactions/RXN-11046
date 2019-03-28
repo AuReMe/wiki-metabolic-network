@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11046 RXN-11046] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.163 EC-2.1.1.163]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Demethylmenaquinols]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[Menaquinols]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 a demethylmenaquinol[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 a menaquinol[c] '''+''' 1 H+[c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5920]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13355]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9109]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19352]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=26466 26466]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R09736 R09736]
+** [http://www.genome.jp/dbget-bin/www_bget?R04993 R04993]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.1.1.163}}
+{{#set: gene associated=Tiso_gene_5920|Tiso_gene_13355|Tiso_gene_9109|Tiso_gene_19352}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

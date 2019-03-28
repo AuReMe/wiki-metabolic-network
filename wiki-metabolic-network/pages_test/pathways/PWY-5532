@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5532 PWY-5532] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** nucleoside and nucleotide degradation (archaea)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''10''' reactions in the full pathway
+* [[CYTIKIN-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12199]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[URPHOS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20384]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ADENPHOSPHOR-RXN ADENPHOSPHOR-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14699 RXN-14699]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14700 RXN-14700]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17337 RXN-17337]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8800 RXN-8800]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8801 RXN-8801]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5199 RXN0-5199]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=nucleoside and nucleotide degradation (archaea)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=10}}
+{{#set: completion rate=30.0}}

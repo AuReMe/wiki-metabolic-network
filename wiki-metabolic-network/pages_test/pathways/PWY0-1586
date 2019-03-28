@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1586 PWY0-1586] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** peptidoglycan maturation (meso-diaminopimelate containing)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''12''' reactions in the full pathway
+* [[RXN-16649]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18870]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16659]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18870]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16650 RXN-16650]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16660 RXN-16660]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16664 RXN-16664]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16665 RXN-16665]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16685 RXN-16685]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16687 RXN-16687]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16688 RXN-16688]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16689 RXN-16689]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16690 RXN-16690]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16691 RXN-16691]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1586 PWY0-1586]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=peptidoglycan maturation (meso-diaminopimelate containing)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=12}}
+{{#set: completion rate=17.0}}

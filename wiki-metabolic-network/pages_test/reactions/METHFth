@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=METHFth METHFth] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 5,10-Methenyltetrahydrofolate uptake carrier, chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[5-10-METHENYL-THF]][c] '''+''' 1.0 [[PROTON]][c] '''<=>''' 1.0 [[PROTON]][h] '''+''' 1.0 [[5-10-METHENYL-THF]][h]
+* With common name(s):
+** 1.0 5,10-methenyltetrahydrofolate mono-L-glutamate[c] '''+''' 1.0 H+[c] '''<=>''' 1.0 H+[h] '''+''' 1.0 5,10-methenyltetrahydrofolate mono-L-glutamate[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19115]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=5,10-Methenyltetrahydrofolate uptake carrier, chloroplast}}
+{{#set: gene associated=Tiso_gene_19115}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Reduced-Factor-F420 Reduced-Factor-F420] ==
+* common name:
+** a reduced coenzyme F420
+* Synonym(s):
+** a reduced cofactor F420
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[COENZYME-F420-HYDROGENASE-RXN]]
+== External links  ==
+{{#set: common name=a reduced coenzyme F420}}
+{{#set: common name=a reduced cofactor F420}}
+{{#set: reversible reaction associated=COENZYME-F420-HYDROGENASE-RXN}}

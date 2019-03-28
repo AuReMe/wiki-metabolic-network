@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-terminal-N-Ac-glycine N-terminal-N-Ac-glycine] ==
+* common name:
+** an N-terminal N&alpha;-acetyl-glycyl-[protein]
+* Synonym(s):
+** a [protein] N-terminal N&alpha;-acetyl-glycine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17862]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-terminal N&alpha;-acetyl-glycyl-[protein]}}
+{{#set: common name=a [protein] N-terminal N&alpha;-acetyl-glycine}}
+{{#set: produced by=RXN-17862}}

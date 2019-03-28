@@ -1,0 +1,44 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7328 PWY-7328] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''10''' reactions in the full pathway
+* [[GALPMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3775]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[PWY-4861]]
+** 0 associated gene:
+* [[PWY-7343]]
+** 0 associated gene:
+* [[PWY-7344]]
+** 0 associated gene:
+* [[UDPGLUCEPIM-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_9823]]
+*** [[Tiso_gene_15395]]
+*** [[Tiso_gene_3236]]
+*** [[Tiso_gene_10797]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-7346 PWY-7346]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-7346 PWY-7346]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis}}
+{{#set: reaction found=5}}
+{{#set: total reaction=10}}
+{{#set: completion rate=50.0}}

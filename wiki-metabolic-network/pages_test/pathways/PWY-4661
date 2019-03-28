@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4661 PWY-4661] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** 1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza)
+* Synonym(s):
+** lipid-independent phytic acid biosynthesis
+** lipid-independent InsP6 biosynthesis
+** lipid-independent phytate biosynthesis
+** hexakisphosphate biosynthesis (lipid-independent)
+** phytate biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[2.7.1.134-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15232]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7167]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-7163]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15282]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MYO-INOSITOL-1-KINASE-RXN MYO-INOSITOL-1-KINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7202 RXN-7202]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7203 RXN-7203]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7204 RXN-7204]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza)}}
+{{#set: common name=lipid-independent phytic acid biosynthesis|lipid-independent InsP6 biosynthesis|lipid-independent phytate biosynthesis|hexakisphosphate biosynthesis (lipid-independent)|phytate biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

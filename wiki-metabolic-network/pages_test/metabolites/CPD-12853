@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12853 CPD-12853] ==
+* smiles:
+** CC(C)=CCCC(C)[CH]3(CC=C4(C2(CC[CH]1(C(C)C(O)CCC(C)1C=2CCC(C)34))))
+* common name:
+** 4&alpha;-methyl-5&alpha;-cholesta-8,14,24-trien-3&beta;-ol
+* inchi key:
+** InChIKey=QJVMEAZHJKXWJD-HESBYNJASA-N
+* molecular weight:
+** 396.655    
+* Synonym(s):
+** cholesta-8,14,24-trien-3-ol, 4-methyl-, (3&beta;,4&alpha;,5&alpha;)-
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-11881]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=102514956 102514956]
+{{#set: smiles=CC(C)=CCCC(C)[CH]3(CC=C4(C2(CC[CH]1(C(C)C(O)CCC(C)1C=2CCC(C)34))))}}
+{{#set: common name=4&alpha;-methyl-5&alpha;-cholesta-8,14,24-trien-3&beta;-ol}}
+{{#set: inchi key=InChIKey=QJVMEAZHJKXWJD-HESBYNJASA-N}}
+{{#set: molecular weight=396.655    }}
+{{#set: common name=cholesta-8,14,24-trien-3-ol, 4-methyl-, (3&beta;,4&alpha;,5&alpha;)-}}
+{{#set: produced by=RXN-11881}}

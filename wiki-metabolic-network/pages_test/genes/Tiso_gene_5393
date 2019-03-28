@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5393 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FADSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY66-366]]
+* [[PWY-6167]]
+* [[PWY-6168]]
+* [[RIBOSYN2-PWY]]
+== External links  ==
+{{#set: reaction associated=FADSYN-RXN}}
+{{#set: pathway associated=PWY66-366|PWY-6167|PWY-6168|RIBOSYN2-PWY}}

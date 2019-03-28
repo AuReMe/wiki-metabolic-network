@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-5961]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-5962]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[UNSPECIFIC-MONOOXYGENASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5947]]
+== External links  ==
+{{#set: reaction associated=RXN-5961|RXN-5962|UNSPECIFIC-MONOOXYGENASE-RXN}}
+{{#set: pathway associated=PWY-5947}}

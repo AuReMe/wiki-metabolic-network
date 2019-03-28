@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-DEHYDRO-ASCORBATE L-DEHYDRO-ASCORBATE] ==
+* smiles:
+** C(O)C(O)C1(C(=O)C(=O)C(=O)O1)
+* common name:
+** L-dehydro-ascorbate
+* inchi key:
+** InChIKey=SBJKKFFYIZUCET-SZSCBOSDSA-N
+* molecular weight:
+** 174.11    
+* Synonym(s):
+** dehydroascorbate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12862]]
+* [[RXN-12869]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-3523]]
+* [[RXN-12440]]
+* [[RXN-7984]]
+* [[RXN-7985]]
+* [[PEPTIDYLGLYCINE-MONOOXYGENASE-RXN]]
+* [[RXN-12876]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13185]]
+* [[RXN-13183]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05422 C05422]
+* HMDB : HMDB01264
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58070 58070]
+* METABOLIGHTS : MTBLC58070
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15558810 15558810]
+{{#set: smiles=C(O)C(O)C1(C(=O)C(=O)C(=O)O1)}}
+{{#set: common name=L-dehydro-ascorbate}}
+{{#set: inchi key=InChIKey=SBJKKFFYIZUCET-SZSCBOSDSA-N}}
+{{#set: molecular weight=174.11    }}
+{{#set: common name=dehydroascorbate}}
+{{#set: consumed by=RXN-12862|RXN-12869}}
+{{#set: produced by=RXN-3523|RXN-12440|RXN-7984|RXN-7985|PEPTIDYLGLYCINE-MONOOXYGENASE-RXN|RXN-12876}}
+{{#set: reversible reaction associated=RXN-13185|RXN-13183}}

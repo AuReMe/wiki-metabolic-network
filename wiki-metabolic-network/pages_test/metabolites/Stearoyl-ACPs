@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Stearoyl-ACPs Stearoyl-ACPs] ==
+* common name:
+** a stearoyl-[acp]
+* Synonym(s):
+** octadecanyl-[acp]
+** a stearoyl-[acyl-carrier-protein]
+** an octadecanoyl-[acp]
+** 18:0-ACP
+
+== Reaction(s) known to consume the compound ==
+* [[RXN3O-5304]]
+* [[RXN-16076]]
+* [[RXN-7903]]
+* [[RXN1G-368]]
+== Reaction(s) known to produce the compound ==
+* [[RXN3O-5293]]
+* [[RXN-9635]]
+== Reaction(s) of unknown directionality ==
+* [[R371]]
+* [[R369]]
+== External links  ==
+{{#set: common name=a stearoyl-[acp]}}
+{{#set: common name=octadecanyl-[acp]|a stearoyl-[acyl-carrier-protein]|an octadecanoyl-[acp]|18:0-ACP}}
+{{#set: consumed by=RXN3O-5304|RXN-16076|RXN-7903|RXN1G-368}}
+{{#set: produced by=RXN3O-5293|RXN-9635}}
+{{#set: reversible reaction associated=R371|R369}}

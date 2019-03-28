@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HOMOSERINE-O-ACETYLTRANSFERASE-RXN HOMOSERINE-O-ACETYLTRANSFERASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** related_to_met2-homoserine_o-acetyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.31 EC-2.3.1.31]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HOMO-SER]][c] '''+''' 1 [[ACETYL-COA]][c] '''<=>''' 1 [[CO-A]][c] '''+''' 1 [[CPD-667]][c]
+* With common name(s):
+** 1 L-homoserine[c] '''+''' 1 acetyl-CoA[c] '''<=>''' 1 coenzyme A[c] '''+''' 1 O-acetyl-L-homoserine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5558]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5344]], L-homocysteine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5344 PWY-5344]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13701 13701]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01776 R01776]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P08465 P08465]
+** [http://www.uniprot.org/uniprot/O60062 O60062]
+** [http://www.uniprot.org/uniprot/P94891 P94891]
+** [http://www.uniprot.org/uniprot/P12917 P12917]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=related_to_met2-homoserine_o-acetyltransferase}}
+{{#set: ec number=EC-2.3.1.31}}
+{{#set: gene associated=Tiso_gene_5558}}
+{{#set: in pathway=PWY-5344}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

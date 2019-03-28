@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Purine-Bases Purine-Bases] ==
+* common name:
+** a purine base
+* Synonym(s):
+** purine base
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PURINE-NUCLEOSIDASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a purine base}}
+{{#set: common name=purine base}}
+{{#set: produced by=PURINE-NUCLEOSIDASE-RXN}}

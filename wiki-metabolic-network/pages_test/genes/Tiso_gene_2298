@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2298 ==
+* right end position:
+** 7264
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6059
+* centisome position:
+** 30.471737    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALANINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=7264}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6059}}
+{{#set: centisome position=30.471737    }}
+{{#set: reaction associated=ALANINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs 3R-5Z-3-hydroxy-tetradec-5-enoyl-ACPs] ==
+* common name:
+** a (3R,5Z)-3-hydroxy-tetradec-5-enoyl-[acp]
+* Synonym(s):
+** a (3R)-hydroxy-cis-&Delta;5-tetradecenoyl-[acp]
+** a (3R)-hydroxy-cis-tetradec-5-enoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16619]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16616]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R,5Z)-3-hydroxy-tetradec-5-enoyl-[acp]}}
+{{#set: common name=a (3R)-hydroxy-cis-&Delta;5-tetradecenoyl-[acp]|a (3R)-hydroxy-cis-tetradec-5-enoyl-[acp]}}
+{{#set: consumed by=RXN-16619}}
+{{#set: produced by=RXN-16616}}

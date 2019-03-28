@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13846 ==
+* right end position:
+** 13053
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10575
+* centisome position:
+** 78.85906    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15684]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[THIOL-OXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7533]]
+== External links  ==
+{{#set: right end position=13053}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10575}}
+{{#set: centisome position=78.85906    }}
+{{#set: reaction associated=RXN-15684|THIOL-OXIDASE-RXN}}
+{{#set: pathway associated=PWY-7533}}

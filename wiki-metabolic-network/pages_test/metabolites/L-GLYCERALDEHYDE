@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-GLYCERALDEHYDE L-GLYCERALDEHYDE] ==
+* smiles:
+** [CH](=O)C(CO)O
+* common name:
+** L-glyceraldehyde
+* inchi key:
+** InChIKey=MNQZXJOMYWMBOU-GSVOUGTGSA-N
+* molecular weight:
+** 90.079    
+* Synonym(s):
+** (S)-2,3-dihydroxypropanal
+** L-(-)-glyceraldehyde
+** L-2,3-Dihydroxypropanal
+** L-2,3-Dihydroxypropionaldehyde
+** L-Aldotriose
+** L-Glycerose
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11382]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439723 439723]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388787.html 388787]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27975 27975]
+* METABOLIGHTS : MTBLC27975
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02426 C02426]
+{{#set: smiles=[CH](=O)C(CO)O}}
+{{#set: common name=L-glyceraldehyde}}
+{{#set: inchi key=InChIKey=MNQZXJOMYWMBOU-GSVOUGTGSA-N}}
+{{#set: molecular weight=90.079    }}
+{{#set: common name=(S)-2,3-dihydroxypropanal|L-(-)-glyceraldehyde|L-2,3-Dihydroxypropanal|L-2,3-Dihydroxypropionaldehyde|L-Aldotriose|L-Glycerose}}
+{{#set: consumed by=RXN-11382}}

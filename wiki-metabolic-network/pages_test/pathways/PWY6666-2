@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY6666-2 PWY6666-2] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** dopamine degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[RXN6666-4]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8756]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN6666-9]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN6666-5 RXN6666-5]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN6666-6 RXN6666-6]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN6666-7 RXN6666-7]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=dopamine degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

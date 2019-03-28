@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R4-RXN R4-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alkyl_hydroperoxide_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.8.1 EC-1.8.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Alkyl-Hydro-Peroxides]][c] '''=>''' 1 [[Alcohols]][c] '''+''' 1 [[NAD]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 an organic hydroperoxide[c] '''=>''' 1 an alcohol[c] '''+''' 1 NAD+[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1667]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_3537]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_19492]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_8987]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alkyl_hydroperoxide_reductase}}
+{{#set: ec number=EC-1.8.1}}
+{{#set: gene associated=Tiso_gene_1667|Tiso_gene_3537|Tiso_gene_19492|Tiso_gene_8987}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

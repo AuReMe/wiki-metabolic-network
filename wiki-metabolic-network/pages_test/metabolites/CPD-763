@@ -1,0 +1,57 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-763 CPD-763] ==
+* smiles:
+** [As](O)([O-])O
+* common name:
+** arsenite
+* inchi key:
+** InChIKey=AQLMHYSWFMLWBS-UHFFFAOYSA-N
+* molecular weight:
+** 124.936    
+* Synonym(s):
+** As(OH)3
+** arsenic trioxide
+** arsenic oxide
+** arsenic (III) oxide
+** arsenous trioxide
+** arsenic sesquioxide
+** arsenous oxide
+** white arsenic
+** diarsenic trioxide
+** crude arsenic
+** arsenious oxide
+** arsenic (III) trioxide
+** arsenous anhydride
+** arsenolite
+** arsenous acid anhydride
+** arsenous oxide anhydride
+** arsodent
+** claudelite
+** clauditite
+** arsenicum album
+** diarsonic trioxide
+** diarsenic oxide
+
+== Reaction(s) known to consume the compound ==
+* [[2.1.1.137-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-982]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6857431 6857431]
+* HMDB : HMDB11620
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06697 C06697]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5256769.html 5256769]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29242 29242]
+* BIGG : aso3
+{{#set: smiles=[As](O)([O-])O}}
+{{#set: common name=arsenite}}
+{{#set: inchi key=InChIKey=AQLMHYSWFMLWBS-UHFFFAOYSA-N}}
+{{#set: molecular weight=124.936    }}
+{{#set: common name=As(OH)3|arsenic trioxide|arsenic oxide|arsenic (III) oxide|arsenous trioxide|arsenic sesquioxide|arsenous oxide|white arsenic|diarsenic trioxide|crude arsenic|arsenious oxide|arsenic (III) trioxide|arsenous anhydride|arsenolite|arsenous acid anhydride|arsenous oxide anhydride|arsodent|claudelite|clauditite|arsenicum album|diarsonic trioxide|diarsenic oxide}}
+{{#set: consumed by=2.1.1.137-RXN}}
+{{#set: produced by=RXN-982}}

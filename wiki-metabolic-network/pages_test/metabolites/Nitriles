@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Nitriles Nitriles] ==
+* common name:
+** a nitrile
+* Synonym(s):
+** nitrile
+** R-CN
+** a nitrile
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[3.5.5.1-RXN]]
+== External links  ==
+{{#set: common name=a nitrile}}
+{{#set: common name=nitrile|R-CN|a nitrile}}
+{{#set: reversible reaction associated=3.5.5.1-RXN}}

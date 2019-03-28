@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACCOAtm ACCOAtm] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Acetyl-CoA:CoA antiporter, mitochondrial
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ACETYL-COA]][c] '''+''' 1.0 [[CO-A]][m] '''<=>''' 1.0 [[CO-A]][c] '''+''' 1.0 [[ACETYL-COA]][m]
+* With common name(s):
+** 1.0 acetyl-CoA[c] '''+''' 1.0 coenzyme A[m] '''<=>''' 1.0 coenzyme A[c] '''+''' 1.0 acetyl-CoA[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9173]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Acetyl-CoA:CoA antiporter, mitochondrial}}
+{{#set: gene associated=Tiso_gene_9173}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

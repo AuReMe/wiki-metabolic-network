@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HICH HICH] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 3-hydroxyisobutyryl-CoA hydrolase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[WATER]][c] '''+''' 1.0 [[3-HYDROXY-PROPIONYL-COA]][c] '''=>''' 1.0 [[PROTON]][c] '''+''' 1.0 [[3-HYDROXY-PROPIONATE]][c] '''+''' 1.0 [[CO-A]][c]
+* With common name(s):
+** 1.0 H2O[c] '''+''' 1.0 3-hydroxypropanoyl-CoA[c] '''=>''' 1.0 H+[c] '''+''' 1.0 3-hydroxypropanoate[c] '''+''' 1.0 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2224]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=3-hydroxyisobutyryl-CoA hydrolase}}
+{{#set: gene associated=Tiso_gene_2224}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

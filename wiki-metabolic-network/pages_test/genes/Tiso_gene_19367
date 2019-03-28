@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19367 ==
+* right end position:
+** 194
+* transcription direction:
+** POSITIVE
+* left end position:
+** 128
+* centisome position:
+** 5.375892    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-ACETYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=194}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=128}}
+{{#set: centisome position=5.375892    }}
+{{#set: reaction associated=HISTONE-ACETYLTRANSFERASE-RXN}}

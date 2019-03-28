@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19042 CPD-19042] ==
+* smiles:
+** CC(O)(C)C(=O)N
+* common name:
+** 2-hydroxyisobutyramide
+* inchi key:
+** InChIKey=DRYMMXUBDRJPDS-UHFFFAOYSA-N
+* molecular weight:
+** 103.121    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17609]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-17608]]
+== External links  ==
+{{#set: smiles=CC(O)(C)C(=O)N}}
+{{#set: common name=2-hydroxyisobutyramide}}
+{{#set: inchi key=InChIKey=DRYMMXUBDRJPDS-UHFFFAOYSA-N}}
+{{#set: molecular weight=103.121    }}
+{{#set: produced by=RXN-17609}}
+{{#set: reversible reaction associated=RXN-17608}}

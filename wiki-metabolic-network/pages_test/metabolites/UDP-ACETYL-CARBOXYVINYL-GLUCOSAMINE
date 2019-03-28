@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UDP-ACETYL-CARBOXYVINYL-GLUCOSAMINE UDP-ACETYL-CARBOXYVINYL-GLUCOSAMINE] ==
+* smiles:
+** C=C(OC3(C(O)C(CO)OC(OP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2)))C(NC(C)=O)3))C(=O)[O-]
+* common name:
+** UDP-N-acetyl-&alpha;-D-glucosamine-enolpyruvate
+* inchi key:
+** InChIKey=BEGZZYPUNCJHKP-DBYWSUQTSA-K
+* molecular weight:
+** 674.382    
+* Synonym(s):
+** UDP-N-acetyl-3-O-(1-carboxyvinyl)-&alpha;-D-glucosamine
+** UDP-N-acetyl-&alpha;-D-glucosamine-3-O-pyruvate ether
+** UDP-N-acetyl-3-(1-carboxyvinyl)-&alpha;-D-glucosamine
+** UDP-GlcNAc-pyruvate enol ether
+** UDP-GlcNAc-enolpyruvate
+
+== Reaction(s) known to consume the compound ==
+* [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244881 25244881]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=68483 68483]
+* BIGG : uaccg
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04631 C04631]
+{{#set: smiles=C=C(OC3(C(O)C(CO)OC(OP(=O)([O-])OP(=O)([O-])OCC1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2)))C(NC(C)=O)3))C(=O)[O-]}}
+{{#set: common name=UDP-N-acetyl-&alpha;-D-glucosamine-enolpyruvate}}
+{{#set: inchi key=InChIKey=BEGZZYPUNCJHKP-DBYWSUQTSA-K}}
+{{#set: molecular weight=674.382    }}
+{{#set: common name=UDP-N-acetyl-3-O-(1-carboxyvinyl)-&alpha;-D-glucosamine|UDP-N-acetyl-&alpha;-D-glucosamine-3-O-pyruvate ether|UDP-N-acetyl-3-(1-carboxyvinyl)-&alpha;-D-glucosamine|UDP-GlcNAc-pyruvate enol ether|UDP-GlcNAc-enolpyruvate}}
+{{#set: consumed by=UDPNACETYLMURAMATEDEHYDROG-RXN}}

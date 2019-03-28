@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10546 CPD-10546] ==
+* smiles:
+** C1(NC2(C(C=1CC(=O)OC)=CC=CC=2))
+* common name:
+** methyl (indol-3-yl)acetate
+* inchi key:
+** InChIKey=KTHADMDGDNYQRX-UHFFFAOYSA-N
+* molecular weight:
+** 189.213    
+* Synonym(s):
+** IAA methyl ester
+** methyl IAA
+** MeIAA
+** indole-3-acetic acid methyl ester
+** methyl 2-(1H-indol-3-yl)acetate
+** methyl indole-3-acetate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10711]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=74706 74706]
+* KNAPSACK : C00000101
+* HMDB : HMDB29738
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C20635 C20635]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.67279.html 67279]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72782 72782]
+* METABOLIGHTS : MTBLC72782
+{{#set: smiles=C1(NC2(C(C=1CC(=O)OC)=CC=CC=2))}}
+{{#set: common name=methyl (indol-3-yl)acetate}}
+{{#set: inchi key=InChIKey=KTHADMDGDNYQRX-UHFFFAOYSA-N}}
+{{#set: molecular weight=189.213    }}
+{{#set: common name=IAA methyl ester|methyl IAA|MeIAA|indole-3-acetic acid methyl ester|methyl 2-(1H-indol-3-yl)acetate|methyl indole-3-acetate}}
+{{#set: consumed by=RXN-10711}}

@@ -1,0 +1,68 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3107 ==
+* right end position:
+** 4192
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1879
+* centisome position:
+** 10.770994    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FRUCTOKINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUCOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[HEXOKINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[MANNKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-3801]]
+* [[PWY-7385]]
+* [[PWY0-1182]]
+* [[SUCROSEUTIL2-PWY]]
+* [[PWY-4101]]
+* [[PWY-2722]]
+* [[PWY-2723]]
+* [[PWY-5384]]
+* [[P124-PWY]]
+* [[TREDEGLOW-PWY]]
+* [[PWY-621]]
+* [[PWY-6992]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[PWY-6140]]
+* [[PWY-5661]]
+* [[PWY-7238]]
+* [[GLYCOCAT-PWY]]
+* [[SUCUTIL-PWY]]
+* [[GLUCOSE1PMETAB-PWY]]
+* [[PWY-6531]]
+* [[PWY-5514]]
+* [[P122-PWY]]
+* [[PWY-3861]]
+== External links  ==
+{{#set: right end position=4192}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1879}}
+{{#set: centisome position=10.770994    }}
+{{#set: reaction associated=FRUCTOKINASE-RXN|GLUCOKIN-RXN|HEXOKINASE-RXN|MANNKIN-RXN}}
+{{#set: pathway associated=PWY-3801|PWY-7385|PWY0-1182|SUCROSEUTIL2-PWY|PWY-4101|PWY-2722|PWY-2723|PWY-5384|P124-PWY|TREDEGLOW-PWY|PWY-621|PWY-6992|ANAGLYCOLYSIS-PWY|PWY-6140|PWY-5661|PWY-7238|GLYCOCAT-PWY|SUCUTIL-PWY|GLUCOSE1PMETAB-PWY|PWY-6531|PWY-5514|P122-PWY|PWY-3861}}

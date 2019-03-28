@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13087 ==
+* right end position:
+** 6476
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1543
+* centisome position:
+** 23.59688    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[BETA-GLUCURONID-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-15289]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-15291]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7445]]
+* [[PWY-7247]]
+== External links  ==
+{{#set: right end position=6476}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1543}}
+{{#set: centisome position=23.59688    }}
+{{#set: reaction associated=BETA-GLUCURONID-RXN|RXN-15289|RXN-15291}}
+{{#set: pathway associated=PWY-7445|PWY-7247}}

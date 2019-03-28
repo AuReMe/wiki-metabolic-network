@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.11.18-RXN 2.7.11.18-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** myosin_light_chain_kinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.11.18 EC-2.7.11.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CPD-8564]][c] '''<=>''' 1 [[ADP]][c] '''+''' 1 [[CPD-8563]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 H+[c] '''+''' 1 myosin light-chain[c] '''<=>''' 1 ADP[c] '''+''' 1 myosin light-chain phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4338]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4337]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_6216]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03150 R03150]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=myosin_light_chain_kinase}}
+{{#set: ec number=EC-2.7.11.18}}
+{{#set: gene associated=Tiso_gene_4338|Tiso_gene_4337|Tiso_gene_6216}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

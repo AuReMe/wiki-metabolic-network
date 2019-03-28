@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10378 ==
+* right end position:
+** 5319
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3723
+* centisome position:
+** 43.270573    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TYROSINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=5319}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3723}}
+{{#set: centisome position=43.270573    }}
+{{#set: reaction associated=TYROSINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

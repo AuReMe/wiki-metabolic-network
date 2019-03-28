@@ -1,0 +1,92 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7218 PWY-7218] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** photosynthetic 3-hydroxybutanoate biosynthesis (engineered)
+* Synonym(s):
+** photosynthetic 3-hydroxybutyrate biosynthesis (engineered)
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''10''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[3PGAREARR-RXN]]
+** 16 associated gene(s):
+*** [[Tiso_gene_15048]]
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16754]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_5468]]
+*** [[Tiso_gene_20311]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_15391]]
+*** [[Tiso_gene_14212]]
+*** [[Tiso_gene_10516]]
+*** [[Tiso_gene_9923]]
+*** [[Tiso_gene_2667]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[CALVIN-PWY]]
+** 0 associated gene:
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PWY-101]]
+** 0 associated gene:
+* [[PWY-7216]]
+** 0 associated gene:
+* [[PYRUVDEH-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_2515]]
+*** [[Tiso_gene_6983]]
+*** [[Tiso_gene_17539]]
+*** [[Tiso_gene_2693]]
+*** [[Tiso_gene_9330]]
+*** [[Tiso_gene_7519]]
+*** [[Tiso_gene_19780]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=photosynthetic 3-hydroxybutanoate biosynthesis (engineered)}}
+{{#set: common name=photosynthetic 3-hydroxybutyrate biosynthesis (engineered)}}
+{{#set: reaction found=7}}
+{{#set: total reaction=10}}
+{{#set: completion rate=70.0}}

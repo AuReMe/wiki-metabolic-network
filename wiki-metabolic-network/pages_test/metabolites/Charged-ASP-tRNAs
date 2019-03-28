@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-ASP-tRNAs Charged-ASP-tRNAs] ==
+* common name:
+** an L-aspartyl-[tRNAasp]
+* Synonym(s):
+** L-ASPARTYL-TRNA(ASP)
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ASPARTATE--TRNA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-aspartyl-[tRNAasp]}}
+{{#set: common name=L-ASPARTYL-TRNA(ASP)}}
+{{#set: produced by=ASPARTATE--TRNA-LIGASE-RXN}}

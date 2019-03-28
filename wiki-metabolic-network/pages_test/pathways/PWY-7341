@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7341 PWY-7341] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4070 TAX-4070]
+* common name:
+** superpathway of hyoscyamine and scopolamine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-5317]]
+** 0 associated gene:
+* [[TROPINE-DEHYDROGENASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15179]]
+*** [[Tiso_gene_15180]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=6-BETA-HYDROXYHYOSCYAMINE-EPOXIDASE-RXN 6-BETA-HYDROXYHYOSCYAMINE-EPOXIDASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=HYOSCYAMINE-6-DIOXYGENASE-RXN HYOSCYAMINE-6-DIOXYGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5315 PWY-5315]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5315 PWY-5315]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8251 RXN-8251]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8252 RXN-8252]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8253 RXN-8253]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8254 RXN-8254]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8255 RXN-8255]
+== External links  ==
+{{#set: taxonomic range=TAX-4070}}
+{{#set: common name=superpathway of hyoscyamine and scopolamine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=12}}
+{{#set: completion rate=17.0}}

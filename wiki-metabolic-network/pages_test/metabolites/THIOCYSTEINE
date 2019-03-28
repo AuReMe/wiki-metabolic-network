@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=THIOCYSTEINE THIOCYSTEINE] ==
+* smiles:
+** C(SS)C(C([O-])=O)[N+]
+* common name:
+** thiocysteine
+* inchi key:
+** InChIKey=XBKONSCREBSMCS-REOHCLBHSA-N
+* molecular weight:
+** 153.214    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15128]]
+* [[CYSTHIOCYS-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 5652-32-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266695 45266695]
+* HMDB : HMDB03585
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01962 C01962]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58591 58591]
+* METABOLIGHTS : MTBLC28839
+{{#set: smiles=C(SS)C(C([O-])=O)[N+]}}
+{{#set: common name=thiocysteine}}
+{{#set: inchi key=InChIKey=XBKONSCREBSMCS-REOHCLBHSA-N}}
+{{#set: molecular weight=153.214    }}
+{{#set: produced by=RXN-15128|CYSTHIOCYS-RXN}}

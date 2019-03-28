@@ -1,0 +1,55 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-DEG1-PWY LYSINE-DEG1-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** L-lysine degradation XI (mammalian)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[1.2.1.31-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_16719]]
+*** [[Tiso_gene_5425]]
+*** [[Tiso_gene_6562]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[1.5.1.8-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1156]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[1.5.1.9-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_7039]]
+*** [[Tiso_gene_1156]]
+*** [[Tiso_gene_10095]]
+*** [[Tiso_gene_7038]]
+*** [[Tiso_gene_9366]]
+*** [[Tiso_gene_4160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[2-AMINOADIPATE-AMINOTRANSFERASE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[2-KETO-ADIPATE-DEHYDROG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_9330]]
+*** [[Tiso_gene_10209]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=L-lysine degradation XI (mammalian)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

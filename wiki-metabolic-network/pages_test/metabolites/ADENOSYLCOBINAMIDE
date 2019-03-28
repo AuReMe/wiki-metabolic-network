@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ADENOSYLCOBINAMIDE ADENOSYLCOBINAMIDE] ==
+* smiles:
+** C[CH](CNC(CCC4(C8(N3([Co--]17([N+]5(C(=C(C)C2(=[N+]1C(C(C2CCC(N)=O)(CC(=O)N)C)(C)[CH]3C(CC(=O)N)4))C(C(CCC(=O)N)C=5C=C6(C(C)(C)C(CCC(=O)N)C(=[N+]67)C=8C))(CC(=O)N)C))CC9(OC(C(O)C(O)9)N%11(C=NC%10(=C(N)N=CN=C%10%11))))))C)=O)O
+* common name:
+** adenosylcobinamide
+* inchi key:
+** InChIKey=KQXSPGAEBZWHMC-VUCSARQQSA-M
+* molecular weight:
+** 1240.332    
+* Synonym(s):
+** AdoCbi
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[BTUR2-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06508 C06508]
+* HMDB : HMDB06903
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=2480 2480]
+* BIGG : adocbi
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91819767 91819767]
+{{#set: smiles=C[CH](CNC(CCC4(C8(N3([Co--]17([N+]5(C(=C(C)C2(=[N+]1C(C(C2CCC(N)=O)(CC(=O)N)C)(C)[CH]3C(CC(=O)N)4))C(C(CCC(=O)N)C=5C=C6(C(C)(C)C(CCC(=O)N)C(=[N+]67)C=8C))(CC(=O)N)C))CC9(OC(C(O)C(O)9)N%11(C=NC%10(=C(N)N=CN=C%10%11))))))C)=O)O}}
+{{#set: common name=adenosylcobinamide}}
+{{#set: inchi key=InChIKey=KQXSPGAEBZWHMC-VUCSARQQSA-M}}
+{{#set: molecular weight=1240.332    }}
+{{#set: common name=AdoCbi}}
+{{#set: produced by=BTUR2-RXN}}

@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7046 PWY-7046] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 4-coumarate degradation (anaerobic)
+* Synonym(s):
+** p-coumarate degradation (anaerobic)
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[4-COUMARATE--COA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12275]]
+*** [[Tiso_gene_14183]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11244]]
+** 3 associated gene(s):
+*** [[Tiso_gene_6885]]
+*** [[Tiso_gene_16145]]
+*** [[Tiso_gene_14262]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4-HYDROXYBENZOATE--COA-LIGASE-RXN 4-HYDROXYBENZOATE--COA-LIGASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=OHBENZCOARED-RXN OHBENZCOARED-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13392 RXN-13392]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13394 RXN-13394]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=4-coumarate degradation (anaerobic)}}
+{{#set: common name=p-coumarate degradation (anaerobic)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

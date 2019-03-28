@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-336 RXN66-336] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** leukotriene-C4 gamma-glutamyl transferase
+** gamma-glutamyl_transferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.2.2 EC-2.3.2.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[LEUKOTRIENE-C4]][c] '''+''' 1 [[Amino-Acids-20]][c] '''=>''' 1 [[CPD66-21]][c] '''+''' 1 [[5-L-GLUTAMYL-L-AMINO-ACID]][c]
+* With common name(s):
+** 1 leukotriene-C4[c] '''+''' 1 a proteinogenic amino acid[c] '''=>''' 1 leukotriene-D4[c] '''+''' 1 an (&gamma;-L-glutamyl)-L-amino acid[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12321]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY66-375]], leukotriene biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-375 PWY66-375]
+** '''2''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=leukotriene-C4 gamma-glutamyl transferase}}
+{{#set: common name=gamma-glutamyl_transferase}}
+{{#set: ec number=EC-2.3.2.2}}
+{{#set: gene associated=Tiso_gene_12321}}
+{{#set: in pathway=PWY66-375}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

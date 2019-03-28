@@ -1,0 +1,45 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6074 PWY-6074] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** zymosterol biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''12''' reactions in the full pathway
+* [[RXN3O-130]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-306]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10982]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-313]]
+** 1 associated gene(s):
+*** [[Tiso_gene_897]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-318]]
+** 1 associated gene(s):
+*** [[Tiso_gene_897]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-310 RXN66-310]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-311 RXN66-311]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-312 RXN66-312]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-314 RXN66-314]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-315 RXN66-315]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-316 RXN66-316]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-317 RXN66-317]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-319 RXN66-319]
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=zymosterol biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=12}}
+{{#set: completion rate=33.0}}

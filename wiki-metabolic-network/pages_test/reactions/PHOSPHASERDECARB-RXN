@@ -1,0 +1,58 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHASERDECARB-RXN PHOSPHASERDECARB-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** transmembrane_protein_85
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.1.65 EC-4.1.1.65]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[L-1-PHOSPHATIDYL-SERINE]][c] '''=>''' 1 [[L-1-PHOSPHATIDYL-ETHANOLAMINE]][c] '''+''' 1 [[CARBON-DIOXIDE]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 a 3-O-sn-phosphatidyl-L-serine[c] '''=>''' 1 an L-1-phosphatidylethanolamine[c] '''+''' 1 CO2[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16021]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5669]], phosphatidylethanolamine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5669 PWY-5669]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20828 20828]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02055 R02055]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P0A8K1 P0A8K1]
+** [http://www.uniprot.org/uniprot/P39006 P39006]
+** [http://www.uniprot.org/uniprot/P39822 P39822]
+** [http://www.uniprot.org/uniprot/Q9ZJN0 Q9ZJN0]
+** [http://www.uniprot.org/uniprot/O23513 O23513]
+** [http://www.uniprot.org/uniprot/Q9PLM7 Q9PLM7]
+** [http://www.uniprot.org/uniprot/O25911 O25911]
+** [http://www.uniprot.org/uniprot/O84705 O84705]
+** [http://www.uniprot.org/uniprot/Q9Z767 Q9Z767]
+** [http://www.uniprot.org/uniprot/Q9PP76 Q9PP76]
+** [http://www.uniprot.org/uniprot/P43789 P43789]
+** [http://www.uniprot.org/uniprot/Q46192 Q46192]
+** [http://www.uniprot.org/uniprot/P53037 P53037]
+** [http://www.uniprot.org/uniprot/P27465 P27465]
+** [http://www.uniprot.org/uniprot/Q9SZH1 Q9SZH1]
+** [http://www.uniprot.org/uniprot/O14333 O14333]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=transmembrane_protein_85}}
+{{#set: ec number=EC-4.1.1.65}}
+{{#set: gene associated=Tiso_gene_16021}}
+{{#set: in pathway=PWY-5669}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

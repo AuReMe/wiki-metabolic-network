@@ -1,0 +1,19 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15088 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[L-IDITOL-2-DEHYDROGENASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-1102]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-1125]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7644]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-361]]
+* [[PWY-4101]]
+== External links  ==
+{{#set: reaction associated=L-IDITOL-2-DEHYDROGENASE-RXN|RXN-1102|RXN-1125|RXN-7644}}
+{{#set: pathway associated=PWY-361|PWY-4101}}

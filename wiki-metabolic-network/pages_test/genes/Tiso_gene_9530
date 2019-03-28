@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9530 ==
+* right end position:
+** 3570
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 598
+* centisome position:
+** 6.456489    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.46-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-16027]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-401]]
+== External links  ==
+{{#set: right end position=3570}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=598}}
+{{#set: centisome position=6.456489    }}
+{{#set: reaction associated=2.4.1.46-RXN|RXN-16027}}
+{{#set: pathway associated=PWY-401}}

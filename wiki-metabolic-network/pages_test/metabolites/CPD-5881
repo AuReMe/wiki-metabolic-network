@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-5881 CPD-5881] ==
+* smiles:
+** CC(O)C(O)[CH]1(CNC2(=NC(N)=NC(=O)C(O)(N1)2))
+* common name:
+** 4&alpha;-hydroxy-tetrahydrobiopterin
+* inchi key:
+** InChIKey=KJKIEFUPAPPGBC-ATDKUNPGSA-N
+* molecular weight:
+** 257.249    
+* Synonym(s):
+** 4&alpha;-hydroxy-5,6,7,8-tetrahydrobiopterin
+** 4&alpha;-hydroxy-tetrahydropterin
+** 6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4&alpha;-hydroxypterin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7908]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657593 90657593]
+* HMDB : HMDB02281
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15374 15374]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15522 C15522]
+{{#set: smiles=CC(O)C(O)[CH]1(CNC2(=NC(N)=NC(=O)C(O)(N1)2))}}
+{{#set: common name=4&alpha;-hydroxy-tetrahydrobiopterin}}
+{{#set: inchi key=InChIKey=KJKIEFUPAPPGBC-ATDKUNPGSA-N}}
+{{#set: molecular weight=257.249    }}
+{{#set: common name=4&alpha;-hydroxy-5,6,7,8-tetrahydrobiopterin|4&alpha;-hydroxy-tetrahydropterin|6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7,8-tetrahydro-4&alpha;-hydroxypterin}}
+{{#set: consumed by=RXN-7908}}

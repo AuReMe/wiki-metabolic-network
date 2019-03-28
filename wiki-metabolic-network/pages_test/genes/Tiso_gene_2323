@@ -1,0 +1,53 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2323 ==
+* right end position:
+** 17625
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 15290
+* centisome position:
+** 54.488438    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MALATE-DEH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-561]]
+* [[PWY-5913]]
+* [[PWY-1622]]
+* [[PWY66-399]]
+* [[P42-PWY]]
+* [[PWY-7383]]
+* [[PWY-5392]]
+* [[TCA]]
+* [[P105-PWY]]
+* [[P23-PWY]]
+* [[PWY-5690]]
+* [[GLYOXYLATE-BYPASS]]
+* [[FERMENTATION-PWY]]
+* [[PWY-6728]]
+* [[PWY-7115]]
+* [[GLUCONEO-PWY]]
+* [[P108-PWY]]
+* [[MALATE-ASPARTATE-SHUTTLE-PWY]]
+* [[PWY66-398]]
+* [[PWY-6969]]
+== External links  ==
+{{#set: right end position=17625}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=15290}}
+{{#set: centisome position=54.488438    }}
+{{#set: reaction associated=MALATE-DEH-RXN}}
+{{#set: pathway associated=PWY-561|PWY-5913|PWY-1622|PWY66-399|P42-PWY|PWY-7383|PWY-5392|TCA|P105-PWY|P23-PWY|PWY-5690|GLYOXYLATE-BYPASS|FERMENTATION-PWY|PWY-6728|PWY-7115|GLUCONEO-PWY|P108-PWY|MALATE-ASPARTATE-SHUTTLE-PWY|PWY66-398|PWY-6969}}

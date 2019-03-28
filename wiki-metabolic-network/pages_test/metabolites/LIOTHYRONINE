@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LIOTHYRONINE LIOTHYRONINE] ==
+* smiles:
+** C1(C=C(O)C(I)=CC=1OC2(=C(I)C=C(C=C(I)2)CC([N+])C(=O)[O-]))
+* common name:
+** 3,5,3'-triiodo-L-thyronine
+* inchi key:
+** InChIKey=AUYYCJSJGJYCDS-LBPRGKRZSA-N
+* molecular weight:
+** 650.978    
+* Synonym(s):
+** triiodothyronine
+** triothyrone
+** 4-(3-iodo-4-hydroxy-phenoxy)-3,5-diiodophenylalanine
+** L-3,5,3'-triiodothyronine
+** L-triiodothyronine
+** T3
+** 3,5,3'-triiodothyronine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10607]]
+* [[RXN-10615]]
+* [[RXN-10609]]
+== Reaction(s) known to produce the compound ==
+* [[THYROXINE-DEIODINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 6893-02-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7048703 7048703]
+* HMDB : HMDB00265
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02465 C02465]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=533015 533015]
+* METABOLIGHTS : MTBLC533015
+{{#set: smiles=C1(C=C(O)C(I)=CC=1OC2(=C(I)C=C(C=C(I)2)CC([N+])C(=O)[O-]))}}
+{{#set: common name=3,5,3'-triiodo-L-thyronine}}
+{{#set: inchi key=InChIKey=AUYYCJSJGJYCDS-LBPRGKRZSA-N}}
+{{#set: molecular weight=650.978    }}
+{{#set: common name=triiodothyronine|triothyrone|4-(3-iodo-4-hydroxy-phenoxy)-3,5-diiodophenylalanine|L-3,5,3'-triiodothyronine|L-triiodothyronine|T3|3,5,3'-triiodothyronine}}
+{{#set: consumed by=RXN-10607|RXN-10615|RXN-10609}}
+{{#set: produced by=THYROXINE-DEIODINASE-RXN}}

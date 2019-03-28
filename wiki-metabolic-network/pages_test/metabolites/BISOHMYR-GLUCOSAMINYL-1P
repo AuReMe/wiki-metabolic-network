@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BISOHMYR-GLUCOSAMINYL-1P BISOHMYR-GLUCOSAMINYL-1P] ==
+* smiles:
+** CCCCCCCCCCCC(CC(NC1(C(C(C(OC1OP([O-])(=O)[O-])CO)O)OC(CC(CCCCCCCCCCC)O)=O))=O)O
+* common name:
+** 2,3-bis[(3R)-3-hydroxymyristoyl]-&alpha;-D-glucosaminyl 1-phosphate
+* inchi key:
+** InChIKey=HEHQDWUWJVPREQ-XQJZMFRCSA-L
+* molecular weight:
+** 709.853    
+* Synonym(s):
+** 2,3-bis(3-hydroxytetradecanoyl)-&alpha;-D-glucosaminyl 1-phosphate
+** 2,3-bis(&beta;-hydroxymyristoyl)-&alpha;-D-glucosaminyl 1-phosphate
+** lipid X
+** 2,3-bis(3-hydroxymyristoyl)-&alpha;-D-glucosaminyl 1-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[LIPIDADISACCHARIDESYNTH-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244842 25244842]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57957 57957]
+* BIGG : lipidX
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04824 C04824]
+{{#set: smiles=CCCCCCCCCCCC(CC(NC1(C(C(C(OC1OP([O-])(=O)[O-])CO)O)OC(CC(CCCCCCCCCCC)O)=O))=O)O}}
+{{#set: common name=2,3-bis[(3R)-3-hydroxymyristoyl]-&alpha;-D-glucosaminyl 1-phosphate}}
+{{#set: inchi key=InChIKey=HEHQDWUWJVPREQ-XQJZMFRCSA-L}}
+{{#set: molecular weight=709.853    }}
+{{#set: common name=2,3-bis(3-hydroxytetradecanoyl)-&alpha;-D-glucosaminyl 1-phosphate|2,3-bis(&beta;-hydroxymyristoyl)-&alpha;-D-glucosaminyl 1-phosphate|lipid X|2,3-bis(3-hydroxymyristoyl)-&alpha;-D-glucosaminyl 1-phosphate}}
+{{#set: consumed by=LIPIDADISACCHARIDESYNTH-RXN}}

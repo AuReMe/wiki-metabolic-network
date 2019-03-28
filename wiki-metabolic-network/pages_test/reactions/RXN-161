@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-161 RXN-161] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1 EC-1.1.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[BUTANOL]][c] '''+''' 1 [[NAD]][c] '''<=>''' 1 [[BUTANAL]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 butan-1-ol[c] '''+''' 1 NAD+[c] '''<=>''' 1 butan-1-al[c] '''+''' 1 H+[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6583]], pyruvate fermentation to butanol I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6583 PWY-6583]
+** '''4''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-7396]], butanol and isobutanol biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7396 PWY-7396]
+** '''4''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-6883]], pyruvate fermentation to butanol II (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6883 PWY-6883]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=33199 33199]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03544 R03544]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-1.1.1}}
+{{#set: in pathway=PWY-6583|PWY-7396|PWY-6883}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

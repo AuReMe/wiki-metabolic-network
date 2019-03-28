@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10448 ==
+* right end position:
+** 5182
+* transcription direction:
+** POSITIVE
+* left end position:
+** 222
+* centisome position:
+** 2.601664    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.119-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+== External links  ==
+{{#set: right end position=5182}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=222}}
+{{#set: centisome position=2.601664    }}
+{{#set: reaction associated=2.4.1.119-RXN}}
+{{#set: pathway associated=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}

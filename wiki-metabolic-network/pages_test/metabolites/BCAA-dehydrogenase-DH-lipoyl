@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BCAA-dehydrogenase-DH-lipoyl BCAA-dehydrogenase-DH-lipoyl] ==
+* common name:
+** an [apo BCAA dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine
+* Synonym(s):
+** an [enzyme] N6-(dihydrolipoyl)lysine
+
+== Reaction(s) known to consume the compound ==
+* [[ISOVALERYLCOA-DHLIPOAMIDE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-7719]]
+* [[2.3.1.168-RXN]]
+== External links  ==
+{{#set: common name=an [apo BCAA dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine}}
+{{#set: common name=an [enzyme] N6-(dihydrolipoyl)lysine}}
+{{#set: consumed by=ISOVALERYLCOA-DHLIPOAMIDE-RXN}}
+{{#set: reversible reaction associated=RXN-7719|2.3.1.168-RXN}}

@@ -1,0 +1,50 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9739 ==
+* right end position:
+** 5342
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3701
+* centisome position:
+** 33.33934    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATCM]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATCMf]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATDCM]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATDCMf]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-11832]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12002]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-7913]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UMPKf]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7205]]
+* [[PWY-7197]]
+* [[PWY-7176]]
+== External links  ==
+{{#set: right end position=5342}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3701}}
+{{#set: centisome position=33.33934    }}
+{{#set: reaction associated=ATCM|ATCMf|ATDCM|ATDCMf|RXN-11832|RXN-12002|RXN-7913|UMPKf}}
+{{#set: pathway associated=PWY-7205|PWY-7197|PWY-7176}}

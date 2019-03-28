@@ -1,0 +1,34 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5666 ==
+* right end position:
+** 4339
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 887
+* centisome position:
+** 6.780827    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13185]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7984]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-7985]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5945]]
+== External links  ==
+{{#set: right end position=4339}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=887}}
+{{#set: centisome position=6.780827    }}
+{{#set: reaction associated=RXN-13185|RXN-7984|RXN-7985}}
+{{#set: pathway associated=PWY-5945}}

@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1563 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DHAD]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DHAD_3mob]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DHAD_3mob_h]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DIHYDROXYISOVALDEHYDRAT-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[DIHYDROXYMETVALDEHYDRAT-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DMHL]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[ILEUSYN-PWY]]
+* [[VALSYN-PWY]]
+* [[PWY-7111]]
+* [[PWY-5103]]
+* [[PWY-5101]]
+* [[PWY-5104]]
+== External links  ==
+{{#set: reaction associated=DHAD|DHAD_3mob|DHAD_3mob_h|DIHYDROXYISOVALDEHYDRAT-RXN|DIHYDROXYMETVALDEHYDRAT-RXN|DMHL}}
+{{#set: pathway associated=ILEUSYN-PWY|VALSYN-PWY|PWY-7111|PWY-5103|PWY-5101|PWY-5104}}

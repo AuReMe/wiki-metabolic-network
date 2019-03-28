@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLALDEHYDE GLYCOLALDEHYDE] ==
+* smiles:
+** C(O)[CH]=O
+* common name:
+** glycolaldehyde
+* inchi key:
+** InChIKey=WGCNASOHLSPBMP-UHFFFAOYSA-N
+* molecular weight:
+** 60.052    
+* Synonym(s):
+** glycoaldehyde
+** 2-OH-acetaldehyde
+** hydroxyacetaldehyde
+** 2-hydroxyethanal
+
+== Reaction(s) known to consume the compound ==
+* [[GLYCOLALD-DEHYDROG-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-10857]]
+* [[H2NEOPTERINALDOL-RXN]]
+== External links  ==
+* CAS : 141-46-8
+* BIGG : gcald
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=756 756]
+* HMDB : HMDB03344
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00266 C00266]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.736.html 736]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17071 17071]
+* METABOLIGHTS : MTBLC17071
+{{#set: smiles=C(O)[CH]=O}}
+{{#set: common name=glycolaldehyde}}
+{{#set: inchi key=InChIKey=WGCNASOHLSPBMP-UHFFFAOYSA-N}}
+{{#set: molecular weight=60.052    }}
+{{#set: common name=glycoaldehyde|2-OH-acetaldehyde|hydroxyacetaldehyde|2-hydroxyethanal}}
+{{#set: consumed by=GLYCOLALD-DEHYDROG-RXN}}
+{{#set: reversible reaction associated=RXN-10857|H2NEOPTERINALDOL-RXN}}

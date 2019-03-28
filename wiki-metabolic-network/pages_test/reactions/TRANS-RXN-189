@@ -1,0 +1,32 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=TRANS-RXN-189 TRANS-RXN-189] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NA+]][c] '''=>''' 1 [[NA+]][e]
+* With common name(s):
+** 1 Na+[c] '''=>''' 1 Na+[e]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8611]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_13332]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_8611|Tiso_gene_13332}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

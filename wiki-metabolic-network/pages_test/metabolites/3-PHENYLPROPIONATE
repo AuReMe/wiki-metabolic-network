@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-PHENYLPROPIONATE 3-PHENYLPROPIONATE] ==
+* smiles:
+** C(CCC1(=CC=CC=C1))([O-])=O
+* common name:
+** 3-phenylpropanoate
+* inchi key:
+** InChIKey=XMIIGOLPHOKFCH-UHFFFAOYSA-M
+* molecular weight:
+** 149.169    
+* Synonym(s):
+** hydrocinnamate
+** 3-phenylpropionic acid
+** hydrocinnamic acid
+** HCA
+** phenylpropanoate
+** 3-phenylpropionate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-18229]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4740700 4740700]
+* HMDB : HMDB00764
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05629 C05629]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3927902.html 3927902]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=51057 51057]
+* BIGG : pppn
+{{#set: smiles=C(CCC1(=CC=CC=C1))([O-])=O}}
+{{#set: common name=3-phenylpropanoate}}
+{{#set: inchi key=InChIKey=XMIIGOLPHOKFCH-UHFFFAOYSA-M}}
+{{#set: molecular weight=149.169    }}
+{{#set: common name=hydrocinnamate|3-phenylpropionic acid|hydrocinnamic acid|HCA|phenylpropanoate|3-phenylpropionate}}
+{{#set: produced by=RXN-18229}}

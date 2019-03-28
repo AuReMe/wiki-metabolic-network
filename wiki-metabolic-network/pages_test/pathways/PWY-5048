@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5048 PWY-5048] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58023 TAX-58023]
+* common name:
+** rosmarinic acid biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[TYROSINE-AMINOTRANSFERASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_10680]]
+*** [[Tiso_gene_6815]]
+*** [[Tiso_gene_17718]]
+** 3 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.222-RXN 1.1.1.222-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7626 RXN-7626]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7628 RXN-7628]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7629 RXN-7629]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7630 RXN-7630]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7631 RXN-7631]
+== External links  ==
+{{#set: taxonomic range=TAX-58023}}
+{{#set: common name=rosmarinic acid biosynthesis I}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

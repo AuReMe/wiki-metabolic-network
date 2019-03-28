@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11297 ==
+* right end position:
+** 7171
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4785
+* centisome position:
+** 60.607983    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTCYCLOHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[HISTPRATPHYD-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PRACH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PRADP]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[HISTSYN-PWY]]
+== External links  ==
+{{#set: right end position=7171}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4785}}
+{{#set: centisome position=60.607983    }}
+{{#set: reaction associated=HISTCYCLOHYD-RXN|HISTPRATPHYD-RXN|PRACH|PRADP}}
+{{#set: pathway associated=HISTSYN-PWY}}

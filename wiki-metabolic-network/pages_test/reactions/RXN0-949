@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-949 RXN0-949] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lipoyl_synthase_mitochondrial
+** lipoyl_mitochondrial
+* ec number:
+** [http://enzyme.expasy.org/EC/2.8.1.8 EC-2.8.1.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Octanoylated-domains]][c] '''+''' 2 [[Sulfurated-Sulfur-Acceptors]][c] '''+''' 2 [[S-ADENOSYLMETHIONINE]][c] '''+''' 2 [[Reduced-2Fe-2S-Ferredoxins]][c] '''=>''' 2 [[Oxidized-2Fe-2S-Ferredoxins]][c] '''+''' 2 [[Unsulfurated-Sulfur-Acceptors]][c] '''+''' 2 [[CH33ADO]][c] '''+''' 1 [[Lipoyl-Protein-N6-lipoyllysine]][c] '''+''' 2 [[MET]][c]
+* With common name(s):
+** 1 a [lipoyl-carrier protein] N6-octanoyl-L-lysine[c] '''+''' 2 a sulfurated [sulfur carrier][c] '''+''' 2 S-adenosyl-L-methionine[c] '''+''' 2 a reduced [2Fe-2S] ferredoxin[c] '''=>''' 2 an oxidized [2Fe-2S] ferredoxin[c] '''+''' 2 an unsulfurated [sulfur carrier][c] '''+''' 2 5'-deoxyadenosine[c] '''+''' 1 a [lipoyl-carrier protein]-N6-lipoyl-L-lysine[c] '''+''' 2 L-methionine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8049]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_437]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6987]], lipoate biosynthesis and incorporation III (Bacillus): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6987 PWY-6987]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+* [[PWY0-1275]], lipoate biosynthesis and incorporation II: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1275 PWY0-1275]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY0-501]], lipoate biosynthesis and incorporation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-501 PWY0-501]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07767 R07767]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lipoyl_synthase_mitochondrial}}
+{{#set: common name=lipoyl_mitochondrial}}
+{{#set: ec number=EC-2.8.1.8}}
+{{#set: gene associated=Tiso_gene_8049|Tiso_gene_437}}
+{{#set: in pathway=PWY-6987|PWY0-1275|PWY0-501}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

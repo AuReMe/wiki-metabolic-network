@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Initiation-tRNAmet Initiation-tRNAmet] ==
+* common name:
+** initiator tRNAmet
+* Synonym(s):
+** tRNAfmet
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16165]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=initiator tRNAmet}}
+{{#set: common name=tRNAfmet}}
+{{#set: consumed by=RXN-16165}}

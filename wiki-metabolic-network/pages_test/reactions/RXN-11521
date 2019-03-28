@@ -1,0 +1,32 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11521 RXN-11521] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[7-METHYLXANTHINE]][c] '''=>''' 1 [[CPD-12481]][c] '''+''' 1 [[HYDROGEN-PEROXIDE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 oxygen[c] '''+''' 1 7-methylxanthine[c] '''=>''' 1 7-methylurate[c] '''+''' 1 hydrogen peroxide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11775]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-6632]], caffeine degradation IV (bacteria, via demethylation and oxidation): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6632 PWY-6632]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07979 R07979]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_11775}}
+{{#set: in pathway=PWY-6632}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

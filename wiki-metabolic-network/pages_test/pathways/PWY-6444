@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6444 PWY-6444] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** benzoate biosynthesis II (CoA-independent, non-&beta;-oxidative)
+* Synonym(s):
+** benzoate biosynthesis (non-oxidative)
+** benzoic acid biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PHENYLALANINE-AMMONIA-LYASE-RXN PHENYLALANINE-AMMONIA-LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11269 RXN-11269]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11270 RXN-11270]
+== External links  ==
+* PLANTCYC : PWY-6444
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=benzoate biosynthesis II (CoA-independent, non-&beta;-oxidative)}}
+{{#set: common name=benzoate biosynthesis (non-oxidative)|benzoic acid biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

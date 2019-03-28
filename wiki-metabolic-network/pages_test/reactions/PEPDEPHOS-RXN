@@ -1,0 +1,150 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PEPDEPHOS-RXN PEPDEPHOS-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** pyruvate_kinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.40 EC-2.7.1.40]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PYRUVATE]][c] '''+''' 1 [[ATP]][c] '''<=>''' 1 [[PHOSPHO-ENOL-PYRUVATE]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 pyruvate[c] '''+''' 1 ATP[c] '''<=>''' 1 phosphoenolpyruvate[c] '''+''' 1 ADP[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18206]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14504]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_974]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_14505]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-1042]], glycolysis IV (plant cytosol): [http://metacyc.org/META/NEW-IMAGE?object=PWY-1042 PWY-1042]
+** '''9''' reactions found over '''10''' reactions in the full pathway
+* [[P341-PWY]], glycolysis V (Pyrococcus): [http://metacyc.org/META/NEW-IMAGE?object=P341-PWY P341-PWY]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-2221]], Entner-Doudoroff pathway III (semi-phosphorylative): [http://metacyc.org/META/NEW-IMAGE?object=PWY-2221 PWY-2221]
+** '''5''' reactions found over '''9''' reactions in the full pathway
+* [[GLYCOLYSIS]], glycolysis I (from glucose 6-phosphate): [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLYSIS GLYCOLYSIS]
+** '''12''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-6901]], superpathway of glucose and xylose degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6901 PWY-6901]
+** '''8''' reactions found over '''12''' reactions in the full pathway
+* [[ANAGLYCOLYSIS-PWY]], glycolysis III (from glucose): [http://metacyc.org/META/NEW-IMAGE?object=ANAGLYCOLYSIS-PWY ANAGLYCOLYSIS-PWY]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+* [[P124-PWY]], Bifidobacterium shunt: [http://metacyc.org/META/NEW-IMAGE?object=P124-PWY P124-PWY]
+** '''11''' reactions found over '''15''' reactions in the full pathway
+* [[NPGLUCAT-PWY]], Entner-Doudoroff pathway II (non-phosphorylative): [http://metacyc.org/META/NEW-IMAGE?object=NPGLUCAT-PWY NPGLUCAT-PWY]
+** '''4''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7383]], anaerobic energy metabolism (invertebrates, cytosol): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7383 PWY-7383]
+** '''5''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6886]], 1-butanol autotrophic biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6886 PWY-6886]
+** '''8''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-5723]], Rubisco shunt: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5723 PWY-5723]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+* [[FERMENTATION-PWY]], mixed acid fermentation: [http://metacyc.org/META/NEW-IMAGE?object=FERMENTATION-PWY FERMENTATION-PWY]
+** '''9''' reactions found over '''16''' reactions in the full pathway
+* [[PWY-7218]], photosynthetic 3-hydroxybutanoate biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7218 PWY-7218]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-6142]], gluconeogenesis II (Methanobacterium thermoautotrophicum): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6142 PWY-6142]
+** '''8''' reactions found over '''14''' reactions in the full pathway
+* [[P122-PWY]], heterolactic fermentation: [http://metacyc.org/META/NEW-IMAGE?object=P122-PWY P122-PWY]
+** '''14''' reactions found over '''18''' reactions in the full pathway
+* [[PWY-5484]], glycolysis II (from fructose 6-phosphate): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5484 PWY-5484]
+** '''11''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-7003]], glycerol degradation to butanol: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7003 PWY-7003]
+** '''8''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18157 18157]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00200 R00200]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M034 Q7M034]
+** [http://www.uniprot.org/uniprot/P11979 P11979]
+** [http://www.uniprot.org/uniprot/P11980 P11980]
+** [http://www.uniprot.org/uniprot/Q07637 Q07637]
+** [http://www.uniprot.org/uniprot/P34038 P34038]
+** [http://www.uniprot.org/uniprot/P43924 P43924]
+** [http://www.uniprot.org/uniprot/Q57572 Q57572]
+** [http://www.uniprot.org/uniprot/P0AD61 P0AD61]
+** [http://www.uniprot.org/uniprot/P19680 P19680]
+** [http://www.uniprot.org/uniprot/Q9PIB0 Q9PIB0]
+** [http://www.uniprot.org/uniprot/P80885 P80885]
+** [http://www.uniprot.org/uniprot/Q9UYU6 Q9UYU6]
+** [http://www.uniprot.org/uniprot/Q9JWX8 Q9JWX8]
+** [http://www.uniprot.org/uniprot/P47458 P47458]
+** [http://www.uniprot.org/uniprot/Q46078 Q46078]
+** [http://www.uniprot.org/uniprot/P30614 P30614]
+** [http://www.uniprot.org/uniprot/P22200 P22200]
+** [http://www.uniprot.org/uniprot/Q27788 Q27788]
+** [http://www.uniprot.org/uniprot/P51182 P51182]
+** [http://www.uniprot.org/uniprot/P51181 P51181]
+** [http://www.uniprot.org/uniprot/P31865 P31865]
+** [http://www.uniprot.org/uniprot/P00549 P00549]
+** [http://www.uniprot.org/uniprot/P00548 P00548]
+** [http://www.uniprot.org/uniprot/P30613 P30613]
+** [http://www.uniprot.org/uniprot/O75758 O75758]
+** [http://www.uniprot.org/uniprot/P12928 P12928]
+** [http://www.uniprot.org/uniprot/O30853 O30853]
+** [http://www.uniprot.org/uniprot/P30615 P30615]
+** [http://www.uniprot.org/uniprot/P30616 P30616]
+** [http://www.uniprot.org/uniprot/Q02499 Q02499]
+** [http://www.uniprot.org/uniprot/P22360 P22360]
+** [http://www.uniprot.org/uniprot/P21599 P21599]
+** [http://www.uniprot.org/uniprot/P14618 P14618]
+** [http://www.uniprot.org/uniprot/Q42954 Q42954]
+** [http://www.uniprot.org/uniprot/Q40545 Q40545]
+** [http://www.uniprot.org/uniprot/P52480 P52480]
+** [http://www.uniprot.org/uniprot/P52489 P52489]
+** [http://www.uniprot.org/uniprot/P78031 P78031]
+** [http://www.uniprot.org/uniprot/Q55863 Q55863]
+** [http://www.uniprot.org/uniprot/P73534 P73534]
+** [http://www.uniprot.org/uniprot/O65595 O65595]
+** [http://www.uniprot.org/uniprot/Q42806 Q42806]
+** [http://www.uniprot.org/uniprot/Q43117 Q43117]
+** [http://www.uniprot.org/uniprot/Q10208 Q10208]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=pyruvate_kinase}}
+{{#set: ec number=EC-2.7.1.40}}
+{{#set: gene associated=Tiso_gene_18206|Tiso_gene_14504|Tiso_gene_974|Tiso_gene_14505}}
+{{#set: in pathway=PWY-1042|P341-PWY|PWY-2221|GLYCOLYSIS|PWY-6901|ANAGLYCOLYSIS-PWY|P124-PWY|NPGLUCAT-PWY|PWY-7383|PWY-6886|PWY-5723|FERMENTATION-PWY|PWY-7218|PWY-6142|P122-PWY|PWY-5484|PWY-7003}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

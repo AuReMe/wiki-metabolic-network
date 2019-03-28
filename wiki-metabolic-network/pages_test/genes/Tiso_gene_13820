@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13820 ==
+* right end position:
+** 5203
+* transcription direction:
+** POSITIVE
+* left end position:
+** 150
+* centisome position:
+** 2.4834437    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMINESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[GLNSYN-PWY]]
+* [[PWY-5675]]
+* [[PWY-381]]
+* [[PWY-6549]]
+* [[PWY-6964]]
+* [[PWY490-3]]
+* [[PWY-6963]]
+== External links  ==
+{{#set: right end position=5203}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=150}}
+{{#set: centisome position=2.4834437    }}
+{{#set: reaction associated=GLUTAMINESYN-RXN}}
+{{#set: pathway associated=GLNSYN-PWY|PWY-5675|PWY-381|PWY-6549|PWY-6964|PWY490-3|PWY-6963}}

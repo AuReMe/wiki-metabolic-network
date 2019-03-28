@@ -1,0 +1,49 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CROTONYL-COA CROTONYL-COA] ==
+* smiles:
+** CC=CC(SCCNC(CCNC(C(C(COP(=O)([O-])OP(OCC1(OC(C(C1OP([O-])([O-])=O)O)N3(C=NC2(C(=NC=NC=23)N))))([O-])=O)(C)C)O)=O)=O)=O
+* common name:
+** crotonyl-CoA
+* inchi key:
+** InChIKey=KFWWCMJSYSSPSK-BOGFJHSMSA-J
+* molecular weight:
+** 831.577    
+* Synonym(s):
+** crotonyl-S-CoA
+** crotonyl-coenzyme A
+** crotonoyl-CoA
+** 2-butenoyl-CoA
+** trans-but-2-enoyl-CoA
+** but-2-enoyl-CoA
+** trans-butyr-2-enoyl-CoA
+** (E)-but-2-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ACOA40or]]
+== Reaction(s) of unknown directionality ==
+* [[VINYLACETYL-COA-DELTA-ISOMERASE-RXN]]
+* [[RXN-11667]]
+* [[HBCHL]]
+* [[HBCHLm]]
+* [[RXN-14193]]
+* [[BCor]]
+== External links  ==
+* UM-BBD-CPD : c0032
+* CAS : 102680-35-3
+* BIGG : b2coa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245057 25245057]
+* HMDB : HMDB02009
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00877 C00877]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57332 57332]
+* METABOLIGHTS : MTBLC57332
+{{#set: smiles=CC=CC(SCCNC(CCNC(C(C(COP(=O)([O-])OP(OCC1(OC(C(C1OP([O-])([O-])=O)O)N3(C=NC2(C(=NC=NC=23)N))))([O-])=O)(C)C)O)=O)=O)=O}}
+{{#set: common name=crotonyl-CoA}}
+{{#set: inchi key=InChIKey=KFWWCMJSYSSPSK-BOGFJHSMSA-J}}
+{{#set: molecular weight=831.577    }}
+{{#set: common name=crotonyl-S-CoA|crotonyl-coenzyme A|crotonoyl-CoA|2-butenoyl-CoA|trans-but-2-enoyl-CoA|but-2-enoyl-CoA|trans-butyr-2-enoyl-CoA|(E)-but-2-enoyl-CoA}}
+{{#set: produced by=ACOA40or}}
+{{#set: reversible reaction associated=VINYLACETYL-COA-DELTA-ISOMERASE-RXN|RXN-11667|HBCHL|HBCHLm|RXN-14193|BCor}}

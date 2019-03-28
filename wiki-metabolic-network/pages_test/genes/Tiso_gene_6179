@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6179 ==
+* right end position:
+** 12381
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10135
+* centisome position:
+** 81.177414    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-7903]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8389]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5147]]
+* [[PWY-5366]]
+== External links  ==
+{{#set: right end position=12381}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10135}}
+{{#set: centisome position=81.177414    }}
+{{#set: reaction associated=RXN-7903|RXN-8389}}
+{{#set: pathway associated=PWY-5147|PWY-5366}}

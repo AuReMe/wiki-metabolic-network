@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Thiols Thiols] ==
+* common name:
+** a thiol
+* Synonym(s):
+** a mercaptan
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16226]]
+== Reaction(s) known to produce the compound ==
+* [[UBIQUITIN-THIOLESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a thiol}}
+{{#set: common name=a mercaptan}}
+{{#set: consumed by=RXN-16226}}
+{{#set: produced by=UBIQUITIN-THIOLESTERASE-RXN}}

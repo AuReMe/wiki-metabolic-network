@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13912 CPD-13912] ==
+* smiles:
+** C(C(C(O)C(C([O-])=O)(C([O-])=O)O)O)O
+* common name:
+** 2-carboxy-L-threo-pentonate
+* inchi key:
+** InChIKey=CQIRJDZGDXTXKF-UHFFFAOYSA-L
+* molecular weight:
+** 208.124    
+* Synonym(s):
+** 2-carboxy-L-xylonate
+** 2-hydroxy-2-(1,2,3-trihydroxypropyl)propanedioate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12871]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657336 90657336]
+{{#set: smiles=C(C(C(O)C(C([O-])=O)(C([O-])=O)O)O)O}}
+{{#set: common name=2-carboxy-L-threo-pentonate}}
+{{#set: inchi key=InChIKey=CQIRJDZGDXTXKF-UHFFFAOYSA-L}}
+{{#set: molecular weight=208.124    }}
+{{#set: common name=2-carboxy-L-xylonate|2-hydroxy-2-(1,2,3-trihydroxypropyl)propanedioate}}
+{{#set: produced by=RXN-12871}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5561 ==
+* right end position:
+** 9220
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4966
+* centisome position:
+** 37.59273    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-GUANINE-N7--METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9220}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4966}}
+{{#set: centisome position=37.59273    }}
+{{#set: reaction associated=TRNA-GUANINE-N7--METHYLTRANSFERASE-RXN}}

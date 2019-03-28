@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD3DJ-11366 CPD3DJ-11366] ==
+* smiles:
+** CCCCCCCCCCCCCC=CC(O)C([N+])COP(=O)([O-])[O-]
+* common name:
+** sphingosine 1-phosphate
+* inchi key:
+** InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M
+* molecular weight:
+** 378.468    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN3DJ-11230]]
+== Reaction(s) known to produce the compound ==
+* [[RXN3DJ-11417]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06124 C06124]
+* HMDB : HMDB00277
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60119 60119]
+* METABOLIGHTS : MTBLC60119
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878582 46878582]
+{{#set: smiles=CCCCCCCCCCCCCC=CC(O)C([N+])COP(=O)([O-])[O-]}}
+{{#set: common name=sphingosine 1-phosphate}}
+{{#set: inchi key=InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M}}
+{{#set: molecular weight=378.468    }}
+{{#set: consumed by=RXN3DJ-11230}}
+{{#set: produced by=RXN3DJ-11417}}

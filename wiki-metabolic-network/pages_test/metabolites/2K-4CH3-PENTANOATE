@@ -1,0 +1,49 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2K-4CH3-PENTANOATE 2K-4CH3-PENTANOATE] ==
+* smiles:
+** CC(C)CC(C([O-])=O)=O
+* common name:
+** 4-methyl-2-oxopentanoate
+* inchi key:
+** InChIKey=BKAJNAXTPSGJCU-UHFFFAOYSA-M
+* molecular weight:
+** 129.135    
+* Synonym(s):
+** 2-keto-4-methyl-pentanoate
+** 2-oxoisocaproate
+** 2-oxo-4-methylpentanoate
+** &alpha;-ketoisocaproate
+** &alpha;-oxoisocaproate
+** 2-ketoisocaproate
+** ketoleucine
+** 4-methyl-2-oxopentanoic acid
+
+== Reaction(s) known to consume the compound ==
+* [[KETOISOCAPROATE-RXN]]
+* [[2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7800]]
+* [[RXN-13158]]
+== Reaction(s) of unknown directionality ==
+* [[BRANCHED-CHAINAMINOTRANSFERLEU-RXN]]
+== External links  ==
+* CAS : 816-66-0
+* BIGG : 4mop
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3527278 3527278]
+* HMDB : HMDB00695
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00233 C00233]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2766269.html 2766269]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17865 17865]
+* METABOLIGHTS : MTBLC17865
+{{#set: smiles=CC(C)CC(C([O-])=O)=O}}
+{{#set: common name=4-methyl-2-oxopentanoate}}
+{{#set: inchi key=InChIKey=BKAJNAXTPSGJCU-UHFFFAOYSA-M}}
+{{#set: molecular weight=129.135    }}
+{{#set: common name=2-keto-4-methyl-pentanoate|2-oxoisocaproate|2-oxo-4-methylpentanoate|&alpha;-ketoisocaproate|&alpha;-oxoisocaproate|2-ketoisocaproate|ketoleucine|4-methyl-2-oxopentanoic acid}}
+{{#set: consumed by=KETOISOCAPROATE-RXN|2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN}}
+{{#set: produced by=RXN-7800|RXN-13158}}
+{{#set: reversible reaction associated=BRANCHED-CHAINAMINOTRANSFERLEU-RXN}}

@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10298 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[IGPSYN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PRAISOM-RXN]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[TRPSYN-PWY]]
+== External links  ==
+{{#set: reaction associated=IGPSYN-RXN|PRAISOM-RXN}}
+{{#set: pathway associated=TRPSYN-PWY}}

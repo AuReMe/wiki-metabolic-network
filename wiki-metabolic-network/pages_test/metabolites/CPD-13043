@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13043 CPD-13043] ==
+* smiles:
+** C12(=C(C(C([O-])=O)=CN1)C(=O)NC(N)=N2)
+* common name:
+** 7-carboxy-7-deazaguanine
+* inchi key:
+** InChIKey=XIUIRSLBMMTDSK-UHFFFAOYSA-M
+* molecular weight:
+** 193.141    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12093]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49852357 49852357]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61036 61036]
+{{#set: smiles=C12(=C(C(C([O-])=O)=CN1)C(=O)NC(N)=N2)}}
+{{#set: common name=7-carboxy-7-deazaguanine}}
+{{#set: inchi key=InChIKey=XIUIRSLBMMTDSK-UHFFFAOYSA-M}}
+{{#set: molecular weight=193.141    }}
+{{#set: consumed by=RXN-12093}}

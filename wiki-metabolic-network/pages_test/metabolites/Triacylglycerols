@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Triacylglycerols Triacylglycerols] ==
+* common name:
+** a triacyl-sn-glycerol
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN]]
+* [[RXN-1641]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12383]]
+== External links  ==
+{{#set: common name=a triacyl-sn-glycerol}}
+{{#set: produced by=DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN|RXN-1641}}
+{{#set: reversible reaction associated=RXN-12383}}

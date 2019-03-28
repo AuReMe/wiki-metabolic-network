@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9646 CPD-9646] ==
+* smiles:
+** CC(=CCCC(=CCCC(=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])[O-])C)C)C
+* common name:
+** di-trans,octa-cis-undecaprenyl phosphate
+* inchi key:
+** InChIKey=UFPHFKCTOZIAFY-NTDVEAECSA-L
+* molecular weight:
+** 845.279    
+* Synonym(s):
+** ditrans,polycis-undecaprenyl phosphate
+** ditrans,octacis-undecaprenyl phosphate
+** C55-P
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11347]]
+* [[PHOSNACMURPENTATRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-8975]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C17556 C17556]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60392 60392]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245635 25245635]
+{{#set: smiles=CC(=CCCC(=CCCC(=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])[O-])C)C)C}}
+{{#set: common name=di-trans,octa-cis-undecaprenyl phosphate}}
+{{#set: inchi key=InChIKey=UFPHFKCTOZIAFY-NTDVEAECSA-L}}
+{{#set: molecular weight=845.279    }}
+{{#set: common name=ditrans,polycis-undecaprenyl phosphate|ditrans,octacis-undecaprenyl phosphate|C55-P}}
+{{#set: consumed by=RXN-11347|PHOSNACMURPENTATRANS-RXN}}
+{{#set: reversible reaction associated=RXN-8975}}

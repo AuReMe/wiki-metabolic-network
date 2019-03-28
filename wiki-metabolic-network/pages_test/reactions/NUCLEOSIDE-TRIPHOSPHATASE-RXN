@@ -1,0 +1,416 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=NUCLEOSIDE-TRIPHOSPHATASE-RXN NUCLEOSIDE-TRIPHOSPHATASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** uridine_kinase
+** ORF
+** helicase_mov-10-_-like
+** e3_ubiquitin-protein_ligase_rnf213-like
+** hsp104
+** atp-dependent_metalloprotease
+** member_of_the_hsp104_clp_superfamily
+** replication_factor_c_subunit_5
+** replication_factor_c_subunit_2
+** at1g33290
+** adenylate_guanylate
+** replication_factor_c_subunit_3
+** adenylate_kinase_domain-containing_protein_1
+** replication_control_protein_1_like
+** aaa_family_cdc48_subfamily
+** uncharacterized_transmembrane_protein_ddb_g0290641
+** dna-binding_protein_smubp-2
+** atp-dependent_zinc_metalloprotease
+** isoform_m_of_dna_helicase_mcm9
+** atpase_family_aaa_domain-containing_protein_2b-_partial
+** replication_factor_c_subunit_1
+** 26s_proteaseregulatorysubunit6bhomolog
+** cytosolic_fe-s_cluster_assembly_factor_nubp1_homolog
+** atpase_family_associated_with_various_cellular_activities
+** gtpase_der
+** nfx1-type_zinc_finger-containing_protein_1
+** trna-splicing_endonuclease_positive_effector
+** origin_recognition_complex_subunit_4
+** fidgetin-like_protein1
+** atpase_aaa
+** atp-dependent_proteaseatpasesubunit
+** atpase_afg2_protein
+** katanin_p60_atpase-containing_subunit_a-like_2
+** sh2_domain_containing_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1.15 EC-3.6.1.15]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[Nucleoside-Triphosphates]][c] '''=>''' 1 [[Nucleoside-Diphosphates]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Pi]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a nucleoside triphosphate[c] '''=>''' 1 a nucleoside diphosphate[c] '''+''' 1 H+[c] '''+''' 1 phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2449]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4726]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_20327]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5529]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2068]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1610]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_199]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1611]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8584]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17751]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8461]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_38]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2924]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12148]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_546]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4194]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_5525]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4155]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9423]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4092]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2447]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11012]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_674]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8950]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_623]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12899]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8949]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7745]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8763]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_538]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7387]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9234]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2176]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4026]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_873]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13325]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1984]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8859]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9659]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10221]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17449]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14239]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7734]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2929]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14646]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4437]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13264]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3287]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14816]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3653]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_537]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_572]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4192]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_13738]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8860]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5166]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9243]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2450]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19350]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1541]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9926]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6180]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4436]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9114]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9004]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_829]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11098]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1444]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_20353]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2897]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_2451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4330]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_250]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2889]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13653]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17616]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13681]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2448]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1291]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7123]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19098]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15465]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12149]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6181]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8164]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2452]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8601]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15043]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1960]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4596]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_20236]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14226]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14474]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13268]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2631]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14227]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10282]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6614]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23680 23680]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02319 R02319]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q27895 Q27895]
+** [http://www.uniprot.org/uniprot/P33066 P33066]
+** [http://www.uniprot.org/uniprot/Q9V3I1 Q9V3I1]
+** [http://www.uniprot.org/uniprot/P05807 P05807]
+** [http://www.uniprot.org/uniprot/P29814 P29814]
+** [http://www.uniprot.org/uniprot/P24486 P24486]
+** [http://www.uniprot.org/uniprot/O72907 O72907]
+** [http://www.uniprot.org/uniprot/Q9YW39 Q9YW39]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=uridine_kinase}}
+{{#set: common name=ORF}}
+{{#set: common name=helicase_mov-10-_-like}}
+{{#set: common name=e3_ubiquitin-protein_ligase_rnf213-like}}
+{{#set: common name=hsp104}}
+{{#set: common name=atp-dependent_metalloprotease}}
+{{#set: common name=member_of_the_hsp104_clp_superfamily}}
+{{#set: common name=replication_factor_c_subunit_5}}
+{{#set: common name=replication_factor_c_subunit_2}}
+{{#set: common name=at1g33290}}
+{{#set: common name=adenylate_guanylate}}
+{{#set: common name=replication_factor_c_subunit_3}}
+{{#set: common name=adenylate_kinase_domain-containing_protein_1}}
+{{#set: common name=replication_control_protein_1_like}}
+{{#set: common name=aaa_family_cdc48_subfamily}}
+{{#set: common name=uncharacterized_transmembrane_protein_ddb_g0290641}}
+{{#set: common name=dna-binding_protein_smubp-2}}
+{{#set: common name=atp-dependent_zinc_metalloprotease}}
+{{#set: common name=isoform_m_of_dna_helicase_mcm9}}
+{{#set: common name=atpase_family_aaa_domain-containing_protein_2b-_partial}}
+{{#set: common name=replication_factor_c_subunit_1}}
+{{#set: common name=26s_proteaseregulatorysubunit6bhomolog}}
+{{#set: common name=cytosolic_fe-s_cluster_assembly_factor_nubp1_homolog}}
+{{#set: common name=atpase_family_associated_with_various_cellular_activities}}
+{{#set: common name=gtpase_der}}
+{{#set: common name=nfx1-type_zinc_finger-containing_protein_1}}
+{{#set: common name=trna-splicing_endonuclease_positive_effector}}
+{{#set: common name=origin_recognition_complex_subunit_4}}
+{{#set: common name=fidgetin-like_protein1}}
+{{#set: common name=atpase_aaa}}
+{{#set: common name=atp-dependent_proteaseatpasesubunit}}
+{{#set: common name=atpase_afg2_protein}}
+{{#set: common name=katanin_p60_atpase-containing_subunit_a-like_2}}
+{{#set: common name=sh2_domain_containing_protein}}
+{{#set: ec number=EC-3.6.1.15}}
+{{#set: gene associated=Tiso_gene_2449|Tiso_gene_4726|Tiso_gene_20327|Tiso_gene_5529|Tiso_gene_2068|Tiso_gene_1959|Tiso_gene_9959|Tiso_gene_1610|Tiso_gene_199|Tiso_gene_1611|Tiso_gene_8584|Tiso_gene_17751|Tiso_gene_8461|Tiso_gene_38|Tiso_gene_2924|Tiso_gene_12148|Tiso_gene_546|Tiso_gene_4194|Tiso_gene_5525|Tiso_gene_4155|Tiso_gene_9423|Tiso_gene_4092|Tiso_gene_2447|Tiso_gene_11012|Tiso_gene_674|Tiso_gene_8950|Tiso_gene_623|Tiso_gene_12899|Tiso_gene_8949|Tiso_gene_7745|Tiso_gene_8763|Tiso_gene_538|Tiso_gene_7387|Tiso_gene_9234|Tiso_gene_2176|Tiso_gene_4026|Tiso_gene_873|Tiso_gene_13325|Tiso_gene_1984|Tiso_gene_8859|Tiso_gene_9659|Tiso_gene_10221|Tiso_gene_17449|Tiso_gene_14239|Tiso_gene_7734|Tiso_gene_2929|Tiso_gene_14646|Tiso_gene_4437|Tiso_gene_13264|Tiso_gene_3287|Tiso_gene_14816|Tiso_gene_3653|Tiso_gene_537|Tiso_gene_572|Tiso_gene_4192|Tiso_gene_13738|Tiso_gene_8860|Tiso_gene_5166|Tiso_gene_9243|Tiso_gene_2450|Tiso_gene_19350|Tiso_gene_1541|Tiso_gene_9926|Tiso_gene_6180|Tiso_gene_4436|Tiso_gene_9114|Tiso_gene_9004|Tiso_gene_829|Tiso_gene_11098|Tiso_gene_1444|Tiso_gene_20353|Tiso_gene_2897|Tiso_gene_2451|Tiso_gene_4330|Tiso_gene_250|Tiso_gene_16478|Tiso_gene_2889|Tiso_gene_13653|Tiso_gene_17616|Tiso_gene_13681|Tiso_gene_2448|Tiso_gene_1291|Tiso_gene_7123|Tiso_gene_19098|Tiso_gene_15465|Tiso_gene_12149|Tiso_gene_195|Tiso_gene_6181|Tiso_gene_8164|Tiso_gene_2452|Tiso_gene_8601|Tiso_gene_15043|Tiso_gene_1960|Tiso_gene_4596|Tiso_gene_20236|Tiso_gene_14226|Tiso_gene_14474|Tiso_gene_13268|Tiso_gene_2631|Tiso_gene_14227|Tiso_gene_10282|Tiso_gene_6614}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

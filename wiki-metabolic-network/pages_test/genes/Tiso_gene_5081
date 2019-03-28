@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5081 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: reaction associated=ADENYL-KIN-RXN}}
+{{#set: pathway associated=PWY-7219}}

@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHORYL-CHOLINE PHOSPHORYL-CHOLINE] ==
+* smiles:
+** C[N+](CCOP([O-])([O-])=O)(C)C
+* common name:
+** phosphocholine
+* inchi key:
+** InChIKey=YHHSONZFOIEMCP-UHFFFAOYSA-M
+* molecular weight:
+** 182.136    
+* Synonym(s):
+** choline-phosphate
+** phosphoryl-choline
+** O-phosphocholine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[SPHINGOMYELIN-PHOSPHODIESTERASE-RXN]]
+* [[RXN-15212]]
+* [[CHOLINE-KINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 107-73-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3330960 3330960]
+* HMDB : HMDB01565
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00588 C00588]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2578067.html 2578067]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=295975 295975]
+* METABOLIGHTS : MTBLC295975
+{{#set: smiles=C[N+](CCOP([O-])([O-])=O)(C)C}}
+{{#set: common name=phosphocholine}}
+{{#set: inchi key=InChIKey=YHHSONZFOIEMCP-UHFFFAOYSA-M}}
+{{#set: molecular weight=182.136    }}
+{{#set: common name=choline-phosphate|phosphoryl-choline|O-phosphocholine}}
+{{#set: produced by=SPHINGOMYELIN-PHOSPHODIESTERASE-RXN|RXN-15212|CHOLINE-KINASE-RXN}}

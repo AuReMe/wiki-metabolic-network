@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HYDROGEN-MOLECULE HYDROGEN-MOLECULE] ==
+* smiles:
+** [HH]
+* common name:
+** H2
+* inchi key:
+** InChIKey=UFHFLCQGNIYNRP-UHFFFAOYSA-N
+* molecular weight:
+** 2.016    
+* Synonym(s):
+** hydrogen
+** hydrogen molecule
+** dihydrogen
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[HYDROG-RXN]]
+* [[COENZYME-F420-HYDROGENASE-RXN]]
+== External links  ==
+* CAS : 1333-74-0
+* BIGG : h2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=783 783]
+* HMDB : HMDB01362
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00282 C00282]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.762.html 762]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18276 18276]
+* METABOLIGHTS : MTBLC18276
+{{#set: smiles=[HH]}}
+{{#set: common name=H2}}
+{{#set: inchi key=InChIKey=UFHFLCQGNIYNRP-UHFFFAOYSA-N}}
+{{#set: molecular weight=2.016    }}
+{{#set: common name=hydrogen|hydrogen molecule|dihydrogen}}
+{{#set: reversible reaction associated=HYDROG-RXN|COENZYME-F420-HYDROGENASE-RXN}}

@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15633 CPD-15633] ==
+* smiles:
+** [CH](=O)C(O)C(O)C(O)C(O)C(=O)[O-]
+* common name:
+** aldehydo-D-galacturonate
+* inchi key:
+** InChIKey=IAJILQKETJEXLJ-RSJOWCBRSA-M
+* molecular weight:
+** 193.133    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[GALACTUROISOM-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1593918 1593918]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=12952 12952]
+{{#set: smiles=[CH](=O)C(O)C(O)C(O)C(O)C(=O)[O-]}}
+{{#set: common name=aldehydo-D-galacturonate}}
+{{#set: inchi key=InChIKey=IAJILQKETJEXLJ-RSJOWCBRSA-M}}
+{{#set: molecular weight=193.133    }}
+{{#set: reversible reaction associated=GALACTUROISOM-RXN}}

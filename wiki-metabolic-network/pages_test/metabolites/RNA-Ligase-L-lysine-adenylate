@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=RNA-Ligase-L-lysine-adenylate RNA-Ligase-L-lysine-adenylate] ==
+* common name:
+** a [DNA ligase]-N6-(5'-adenylyl)-L-lysine
+* Synonym(s):
+** a 5'-adenosyl [RNA ligase]-N&epsilon;-phosphono-L-lysine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17926]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17925]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [DNA ligase]-N6-(5'-adenylyl)-L-lysine}}
+{{#set: common name=a 5'-adenosyl [RNA ligase]-N&epsilon;-phosphono-L-lysine}}
+{{#set: consumed by=RXN-17926}}
+{{#set: produced by=RXN-17925}}

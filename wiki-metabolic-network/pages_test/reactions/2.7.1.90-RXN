@@ -1,0 +1,59 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.1.90-RXN 2.7.1.90-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.90 EC-2.7.1.90]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PPI]][c] '''+''' 1 [[FRUCTOSE-6P]][c] '''<=>''' 1 [[FRUCTOSE-16-DIPHOSPHATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Pi]][c]
+* With common name(s):
+** 1 diphosphate[c] '''+''' 1 &beta;-D-fructofuranose 6-phosphate[c] '''<=>''' 1 fructose 1,6-bisphosphate[c] '''+''' 1 H+[c] '''+''' 1 phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_596]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-1042]], glycolysis IV (plant cytosol): [http://metacyc.org/META/NEW-IMAGE?object=PWY-1042 PWY-1042]
+** '''9''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13613 13613]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00764 R00764]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P21342 P21342]
+** [http://www.uniprot.org/uniprot/P29495 P29495]
+** [http://www.uniprot.org/uniprot/O83146 O83146]
+** [http://www.uniprot.org/uniprot/O84210 O84210]
+** [http://www.uniprot.org/uniprot/P21343 P21343]
+** [http://www.uniprot.org/uniprot/O51669 O51669]
+** [http://www.uniprot.org/uniprot/Q27651 Q27651]
+** [http://www.uniprot.org/uniprot/Q27659 Q27659]
+** [http://www.uniprot.org/uniprot/O81437 O81437]
+** [http://www.uniprot.org/uniprot/Q9STQ7 Q9STQ7]
+** [http://www.uniprot.org/uniprot/Q41140 Q41140]
+** [http://www.uniprot.org/uniprot/Q41141 Q41141]
+** [http://www.uniprot.org/uniprot/Q9M076 Q9M076]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-2.7.1.90}}
+{{#set: gene associated=Tiso_gene_596}}
+{{#set: in pathway=PWY-1042}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

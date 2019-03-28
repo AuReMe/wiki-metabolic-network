@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Dodec-2-enoyl-ACPs Dodec-2-enoyl-ACPs] ==
+* common name:
+** a (2E)-dodec-2-enoyl-[acp]
+* Synonym(s):
+** a trans dodec-2-enoyl-[acyl-carrier protein]
+** a trans dodec-2-enoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9534]]
+* [[RXN-9661]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9533]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (2E)-dodec-2-enoyl-[acp]}}
+{{#set: common name=a trans dodec-2-enoyl-[acyl-carrier protein]|a trans dodec-2-enoyl-[acp]}}
+{{#set: consumed by=RXN-9534|RXN-9661}}
+{{#set: produced by=RXN-9533}}

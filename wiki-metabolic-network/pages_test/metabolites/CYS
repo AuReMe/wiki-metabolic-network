@@ -1,0 +1,63 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CYS CYS] ==
+* smiles:
+** C(S)C(C(=O)[O-])[N+]
+* common name:
+** L-cysteine
+* inchi key:
+** InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
+* molecular weight:
+** 121.154    
+* Synonym(s):
+** C
+** carbocysteine
+** cysteine
+** Cys
+** L-cys
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12588]]
+* [[LCYSDESULF-RXN]]
+* [[P-PANTOCYSLIG-RXN]]
+* [[RME144]]
+* [[RXN66-555]]
+* [[CYSTEINE--TRNA-LIGASE-RXN]]
+* [[GLUTCYSLIG-RXN]]
+* [[RXN-15129]]
+* [[RXN-14385]]
+* [[RXN0-308]]
+* [[RXN-15881]]
+* [[CYSTEINE-DIOXYGENASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15130]]
+* [[1.8.3.5-RXN]]
+* [[RXN-14048]]
+* [[RXN-16637]]
+* [[RXN-6622]]
+== Reaction(s) of unknown directionality ==
+* [[O-SUCCHOMOSERLYASE-RXN]]
+* [[RXN-10779]]
+* [[CYSTEINE-AMINOTRANSFERASE-RXN]]
+* [[ACSERLY-RXN]]
+* [[RXN-9787]]
+== External links  ==
+* CAS : 4371-52-2
+* CAS : 52-90-4
+* BIGG : cys__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6419722 6419722]
+* KNAPSACK : C00001351
+* HMDB : HMDB00574
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00097 C00097]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35235 35235]
+* METABOLIGHTS : MTBLC35235
+{{#set: smiles=C(S)C(C(=O)[O-])[N+]}}
+{{#set: common name=L-cysteine}}
+{{#set: inchi key=InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N}}
+{{#set: molecular weight=121.154    }}
+{{#set: common name=C|carbocysteine|cysteine|Cys|L-cys}}
+{{#set: consumed by=RXN-12588|LCYSDESULF-RXN|P-PANTOCYSLIG-RXN|RME144|RXN66-555|CYSTEINE--TRNA-LIGASE-RXN|GLUTCYSLIG-RXN|RXN-15129|RXN-14385|RXN0-308|RXN-15881|CYSTEINE-DIOXYGENASE-RXN}}
+{{#set: produced by=RXN-15130|1.8.3.5-RXN|RXN-14048|RXN-16637|RXN-6622}}
+{{#set: reversible reaction associated=O-SUCCHOMOSERLYASE-RXN|RXN-10779|CYSTEINE-AMINOTRANSFERASE-RXN|ACSERLY-RXN|RXN-9787}}

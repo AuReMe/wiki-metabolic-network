@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=P-PANTOCYSDECARB-RXN P-PANTOCYSDECARB-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.1.36 EC-4.1.1.36]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[PANTETHEINE-P]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 R-4'-phosphopantothenoyl-L-cysteine[c] '''=>''' 1 CO2[c] '''+''' 1 4'-phosphopantetheine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15171]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[COA-PWY-1]], coenzyme A biosynthesis II (mammalian): [http://metacyc.org/META/NEW-IMAGE?object=COA-PWY-1 COA-PWY-1]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+* [[COA-PWY]], coenzyme A biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=COA-PWY COA-PWY]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16793 16793]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03269 R03269]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.1.1.36}}
+{{#set: gene associated=Tiso_gene_15171}}
+{{#set: in pathway=COA-PWY-1|COA-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

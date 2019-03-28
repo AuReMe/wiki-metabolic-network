@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17342 ==
+* right end position:
+** 3732
+* transcription direction:
+** POSITIVE
+* left end position:
+** 64
+* centisome position:
+** 1.6976128    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLATECYC-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3732}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=64}}
+{{#set: centisome position=1.6976128    }}
+{{#set: reaction associated=ADENYLATECYC-RXN}}

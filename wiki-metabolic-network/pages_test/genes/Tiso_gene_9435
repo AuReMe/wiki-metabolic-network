@@ -1,0 +1,41 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9435 ==
+* right end position:
+** 8586
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5578
+* centisome position:
+** 59.63224    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[F16BDEPHOS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[SEDOHEPTULOSE-BISPHOSPHATASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GLUCONEO-PWY]]
+* [[SUCSYN-PWY]]
+* [[GLYCOLYSIS]]
+* [[CALVIN-PWY]]
+* [[PWY-5484]]
+* [[P185-PWY]]
+* [[PWY66-399]]
+== External links  ==
+{{#set: right end position=8586}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5578}}
+{{#set: centisome position=59.63224    }}
+{{#set: reaction associated=F16BDEPHOS-RXN|SEDOHEPTULOSE-BISPHOSPHATASE-RXN}}
+{{#set: pathway associated=GLUCONEO-PWY|SUCSYN-PWY|GLYCOLYSIS|CALVIN-PWY|PWY-5484|P185-PWY|PWY66-399}}

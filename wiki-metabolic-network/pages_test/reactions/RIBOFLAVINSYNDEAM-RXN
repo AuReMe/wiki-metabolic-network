@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RIBOFLAVINSYNDEAM-RXN RIBOFLAVINSYNDEAM-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** riboflavin_biosynthesis_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.26 EC-3.5.4.26]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR]][c] '''=>''' 1 [[AMMONIUM]][c] '''+''' 1 [[CPD-602]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 H+[c] '''+''' 1 2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one[c] '''=>''' 1 ammonium[c] '''+''' 1 5-amino-6-(5-phospho-D-ribosylamino)uracil[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1389]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[RIBOSYN2-PWY]], flavin biosynthesis I (bacteria and plants): [http://metacyc.org/META/NEW-IMAGE?object=RIBOSYN2-PWY RIBOSYN2-PWY]
+** '''7''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21868 21868]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03459 R03459]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=riboflavin_biosynthesis_protein}}
+{{#set: ec number=EC-3.5.4.26}}
+{{#set: gene associated=Tiso_gene_1389}}
+{{#set: in pathway=RIBOSYN2-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

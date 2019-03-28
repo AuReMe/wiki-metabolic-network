@@ -1,0 +1,112 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=HISTSYN-PWY HISTSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-histidine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''10''' reactions found over '''10''' reactions in the full pathway
+* [[ATPPHOSPHORIBOSYLTRANS-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[GLUTAMIDOTRANS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1565]]
+*** [[Tiso_gene_11199]]
+** 4 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[HISTALDEHYD-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11386]]
+*** [[Tiso_gene_7381]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[HISTAMINOTRANS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_10680]]
+*** [[Tiso_gene_10679]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[HISTCYCLOHYD-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5047]]
+*** [[Tiso_gene_11297]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[HISTIDPHOS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14713]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[HISTOLDEHYD-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11386]]
+*** [[Tiso_gene_7381]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[HISTPRATPHYD-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11297]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[IMIDPHOSDEHYD-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[PRIBFAICARPISOM-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1565]]
+*** [[Tiso_gene_11199]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=HISTSYN-PWY HISTSYN-PWY]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=HISTSYN-PWY HISTSYN-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-histidine biosynthesis}}
+{{#set: reaction found=10}}
+{{#set: total reaction=10}}
+{{#set: completion rate=100.0}}

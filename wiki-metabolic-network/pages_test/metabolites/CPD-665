@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-665 CPD-665] ==
+* smiles:
+** CC[CH]=O
+* common name:
+** 1-propanal
+* inchi key:
+** InChIKey=NBBJYMSMWIIQGU-UHFFFAOYSA-N
+* molecular weight:
+** 58.08    
+* Synonym(s):
+** propionaldehyde
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13198]]
+== External links  ==
+* CAS : 123-38-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=527 527]
+* HMDB : HMDB03366
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00479 C00479]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.512.html 512]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17153 17153]
+* BIGG : ppal
+{{#set: smiles=CC[CH]=O}}
+{{#set: common name=1-propanal}}
+{{#set: inchi key=InChIKey=NBBJYMSMWIIQGU-UHFFFAOYSA-N}}
+{{#set: molecular weight=58.08    }}
+{{#set: common name=propionaldehyde}}
+{{#set: reversible reaction associated=RXN-13198}}

@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AIAL AIAL] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[P-RIBOSYL-4-SUCCCARB-AMINOIMIDAZOLE]][c] '''<=>''' 1.0 [[AICAR]][c] '''+''' 1.0 [[FUM]][c]
+* With common name(s):
+** 1.0 5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole[c] '''<=>''' 1.0 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide[c] '''+''' 1.0 fumarate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6720]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase}}
+{{#set: gene associated=Tiso_gene_6720}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

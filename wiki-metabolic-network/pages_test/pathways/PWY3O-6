@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY3O-6 PWY3O-6] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** dehydro-D-arabinono-1,4-lactone biosynthesis
+* Synonym(s):
+** previously called D-erythroascorbate (erythroascorbate, erythroascorbic acid) biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[1.1.3.37-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_210]]
+*** [[Tiso_gene_14187]]
+*** [[Tiso_gene_6787]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.117-RXN 1.1.1.117-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=D-ARABINOSE-1-DEHYDROGENASE-RXN D-ARABINOSE-1-DEHYDROGENASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=dehydro-D-arabinono-1,4-lactone biosynthesis}}
+{{#set: common name=previously called D-erythroascorbate (erythroascorbate, erythroascorbic acid) biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

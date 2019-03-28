@@ -1,0 +1,80 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5392 PWY-5392] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-200783 TAX-200783]
+* common name:
+** reductive TCA cycle II
+* Synonym(s):
+** reductive tricarboxylic acid cycle
+** reductive tricarboxylic acid pathway
+** reductive citric acid cycle
+** reverse citric acid cycle
+** carbon fixation
+** CO2 fixation
+** reductive carboxylic acid cycle
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''12''' reactions in the full pathway
+* [[ACONITATEDEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[ACONITATEHYDR-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13007]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[FUMHYDR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3691]]
+*** [[Tiso_gene_6720]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[SUCCCOASYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_15846]]
+*** [[Tiso_gene_11866]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2-OXOGLUTARATE-SYNTHASE-RXN 2-OXOGLUTARATE-SYNTHASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=CITRATE--COA-LIGASE-RXN CITRATE--COA-LIGASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUFLAVREDUCT-RXN PYRUFLAVREDUCT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R23-RXN R23-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R601-RXN R601-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7929 RXN-7929]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8457 RXN-8457]
+== External links  ==
+{{#set: taxonomic range=TAX-200783}}
+{{#set: common name=reductive TCA cycle II}}
+{{#set: common name=reductive tricarboxylic acid cycle|reductive tricarboxylic acid pathway|reductive citric acid cycle|reverse citric acid cycle|carbon fixation|CO2 fixation|reductive carboxylic acid cycle}}
+{{#set: reaction found=5}}
+{{#set: total reaction=12}}
+{{#set: completion rate=42.0}}

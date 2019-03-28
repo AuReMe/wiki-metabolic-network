@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6547 ==
+* right end position:
+** 2813
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2533
+* centisome position:
+** 20.992872    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DEOXYRIBODIPYRIMIDINE-PHOTOLYASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2813}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2533}}
+{{#set: centisome position=20.992872    }}
+{{#set: reaction associated=DEOXYRIBODIPYRIMIDINE-PHOTOLYASE-RXN}}

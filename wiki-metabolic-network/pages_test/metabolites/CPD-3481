@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3481 CPD-3481] ==
+* smiles:
+** CC([N+]C(C)(C)C)C(=O)C1(C=CC=C(Cl)C=1)
+* common name:
+** bupropion
+* inchi key:
+** InChIKey=SNPPWIUOZRMYNY-UHFFFAOYSA-O
+* molecular weight:
+** 240.752    
+* Synonym(s):
+** (-)-2-(tert-butylamino)-3'-chloropropiophenone
+** 1-propanone, 1-(3-chlorophenyl)-2-((1,1-dimethylethyl)amino)-,(+-)-
+** (+-)-1-(3-chlorophenyl)-2-((1,1-dimethylethyl)amino)-1-propanone
+** amfebutamonum
+** &alpha;-(tert-butylamino)-m-chloropropiophenone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-181]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB01156
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=24849133 24849133]
+* HMDB : HMDB01510
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=3219 3219]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06860 C06860]
+{{#set: smiles=CC([N+]C(C)(C)C)C(=O)C1(C=CC=C(Cl)C=1)}}
+{{#set: common name=bupropion}}
+{{#set: inchi key=InChIKey=SNPPWIUOZRMYNY-UHFFFAOYSA-O}}
+{{#set: molecular weight=240.752    }}
+{{#set: common name=(-)-2-(tert-butylamino)-3'-chloropropiophenone|1-propanone, 1-(3-chlorophenyl)-2-((1,1-dimethylethyl)amino)-,(+-)-|(+-)-1-(3-chlorophenyl)-2-((1,1-dimethylethyl)amino)-1-propanone|amfebutamonum|&alpha;-(tert-butylamino)-m-chloropropiophenone}}
+{{#set: consumed by=RXN66-181}}

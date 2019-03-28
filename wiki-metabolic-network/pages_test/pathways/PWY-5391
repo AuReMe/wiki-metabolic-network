@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5391 PWY-5391] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** syringetin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-8450]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13718 RXN-13718]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-525 RXN-525]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8451 RXN-8451]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8452 RXN-8452]
+== External links  ==
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=syringetin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

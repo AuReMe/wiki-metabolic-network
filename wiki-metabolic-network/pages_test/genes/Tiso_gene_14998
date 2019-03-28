@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14998 ==
+* right end position:
+** 5195
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4276
+* centisome position:
+** 80.7097    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.5.1.27-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[3.5.1.88-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[FORMYLMETHIONINE-DEFORMYLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5195}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4276}}
+{{#set: centisome position=80.7097    }}
+{{#set: reaction associated=3.5.1.27-RXN|3.5.1.88-RXN|FORMYLMETHIONINE-DEFORMYLASE-RXN}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_44 ==
+* right end position:
+** 19959
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11667
+* centisome position:
+** 23.775753    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=19959}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11667}}
+{{#set: centisome position=23.775753    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

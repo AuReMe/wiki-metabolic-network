@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=23-DIPHOSPHOGLYCERATE 23-DIPHOSPHOGLYCERATE] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C(=O)[O-]
+* common name:
+** 2,3-diphospho-D-glycerate
+* inchi key:
+** InChIKey=XOHUEYCVLUUEJJ-UWTATZPHSA-I
+* molecular weight:
+** 260.998    
+* Synonym(s):
+** 2,3-bisphosphoglycerate
+** D-Greenwald ester
+** 2,3-P2-D-glycerate
+** 2,3-bisphospho-D-glycerate
+** 2,3-diphosphoglycerate
+** DPG
+** 2,3-bisPGA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15512]]
+* [[RXN-15509]]
+* [[RXN-15510]]
+* [[RXN-15511]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01159 C01159]
+* HMDB : HMDB01294
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58248 58248]
+* METABOLIGHTS : MTBLC58248
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200383 25200383]
+{{#set: smiles=C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C(=O)[O-]}}
+{{#set: common name=2,3-diphospho-D-glycerate}}
+{{#set: inchi key=InChIKey=XOHUEYCVLUUEJJ-UWTATZPHSA-I}}
+{{#set: molecular weight=260.998    }}
+{{#set: common name=2,3-bisphosphoglycerate|D-Greenwald ester|2,3-P2-D-glycerate|2,3-bisphospho-D-glycerate|2,3-diphosphoglycerate|DPG|2,3-bisPGA}}
+{{#set: reversible reaction associated=RXN-15512|RXN-15509|RXN-15510|RXN-15511}}

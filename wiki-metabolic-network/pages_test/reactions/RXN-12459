@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12459 RXN-12459] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** trna_(guanine-n1)-methyltransferase_family_protein
+** trna_(guanine-n1-)-methyltransferase_domain_containing_protein
+** mitochondrial_ribonuclease_p_protein_1_homolog
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.221 EC-2.1.1.221]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Guanine9-in-tRNA]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1 [[tRNA-Containing-N1-Methylguanine-9]][c]
+* With common name(s):
+** 1 a guanine9 in tRNA[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 H+[c] '''+''' 1 S-adenosyl-L-homocysteine[c] '''+''' 1 an N1-methylguanine9 in tRNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5025]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_910]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_909]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_299]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=trna_(guanine-n1)-methyltransferase_family_protein}}
+{{#set: common name=trna_(guanine-n1-)-methyltransferase_domain_containing_protein}}
+{{#set: common name=mitochondrial_ribonuclease_p_protein_1_homolog}}
+{{#set: ec number=EC-2.1.1.221}}
+{{#set: gene associated=Tiso_gene_5025|Tiso_gene_910|Tiso_gene_909|Tiso_gene_299}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

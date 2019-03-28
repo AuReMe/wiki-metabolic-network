@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1544 PWY0-1544] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** proline to cytochrome bo oxidase electron transfer
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[RXN0-7008]]
+** 3 associated gene(s):
+*** [[Tiso_gene_18825]]
+*** [[Tiso_gene_18826]]
+*** [[Tiso_gene_9762]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5268 RXN0-5268]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1544 PWY0-1544]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=proline to cytochrome bo oxidase electron transfer}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

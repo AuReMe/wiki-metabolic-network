@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1466 PWY0-1466] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** trehalose degradation VI (periplasmic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[ALDOSE-1-EPIMERASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_19779]]
+*** [[Tiso_gene_17734]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+* [[TREHALA-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7688]]
+*** [[Tiso_gene_13748]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1466 PWY0-1466]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=trehalose degradation VI (periplasmic)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

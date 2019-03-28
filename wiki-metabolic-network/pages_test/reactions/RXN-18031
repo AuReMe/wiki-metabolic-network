@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-18031 RXN-18031] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[H2CO3]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[HCO3]][c]
+* With common name(s):
+** 1 carbonic acid[c] '''<=>''' 1 H+[c] '''+''' 1 hydrogencarbonate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

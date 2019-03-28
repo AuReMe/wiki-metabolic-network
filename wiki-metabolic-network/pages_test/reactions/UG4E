@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=UG4E UG4E] ==
+* direction:
+** REVERSIBLE
+* common name:
+** UDP-glucose 4-epimerase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-12575]][c] '''<=>''' 1.0 [[CPD-14553]][c]
+* With common name(s):
+** 1.0 UDP-&alpha;-D-glucose[c] '''<=>''' 1.0 UDP-&alpha;-D-galactose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9823]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=UDP-glucose 4-epimerase}}
+{{#set: gene associated=Tiso_gene_9823}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

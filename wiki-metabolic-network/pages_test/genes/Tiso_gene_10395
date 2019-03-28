@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10395 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTDECARBOX-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[LYSDECARBOX-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-4321]]
+* [[GLUDEG-I-PWY]]
+* [[PWY0-461]]
+* [[PWY0-1305]]
+* [[PWY-5468]]
+* [[PWY-6381]]
+* [[PWY0-1303]]
+* [[PWY-6328]]
+* [[PWY-6375]]
+* [[PWY-6376]]
+== External links  ==
+{{#set: reaction associated=GLUTDECARBOX-RXN|LYSDECARBOX-RXN}}
+{{#set: pathway associated=PWY-4321|GLUDEG-I-PWY|PWY0-461|PWY0-1305|PWY-5468|PWY-6381|PWY0-1303|PWY-6328|PWY-6375|PWY-6376}}

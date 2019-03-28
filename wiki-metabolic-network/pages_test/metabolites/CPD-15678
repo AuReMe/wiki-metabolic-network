@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15678 CPD-15678] ==
+* smiles:
+** CCCCCCC=CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 4-trans-3-oxo-undecenoyl-CoA
+* inchi key:
+** InChIKey=XBFQFVLNMJDDNG-DUPKWVSKSA-J
+* molecular weight:
+** 943.749    
+* Synonym(s):
+** 4E-3-oxo-undecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14793]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658908 90658908]
+{{#set: smiles=CCCCCCC=CC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=4-trans-3-oxo-undecenoyl-CoA}}
+{{#set: inchi key=InChIKey=XBFQFVLNMJDDNG-DUPKWVSKSA-J}}
+{{#set: molecular weight=943.749    }}
+{{#set: common name=4E-3-oxo-undecenoyl-CoA}}
+{{#set: consumed by=RXN-14793}}

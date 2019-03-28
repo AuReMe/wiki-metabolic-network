@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Ribuloses Ribuloses] ==
+* common name:
+** ribulose
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RIBULOKIN-RXN]]
+== External links  ==
+{{#set: common name=ribulose}}
+{{#set: reversible reaction associated=RIBULOKIN-RXN}}

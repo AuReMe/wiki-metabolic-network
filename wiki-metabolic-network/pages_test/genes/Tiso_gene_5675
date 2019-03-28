@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5675 ==
+* right end position:
+** 11005
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8899
+* centisome position:
+** 68.04558    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FAA]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[FUMARYLACETOACETASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[TYRFUMCAT-PWY]]
+== External links  ==
+{{#set: right end position=11005}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8899}}
+{{#set: centisome position=68.04558    }}
+{{#set: reaction associated=FAA|FUMARYLACETOACETASE-RXN}}
+{{#set: pathway associated=TYRFUMCAT-PWY}}

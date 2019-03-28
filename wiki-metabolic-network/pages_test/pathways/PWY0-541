@@ -1,0 +1,24 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-541 PWY0-541] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** cyclopropane fatty acid (CFA) biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''1''' reactions in the full pathway
+* [[2.1.1.79-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7622]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-541 PWY0-541]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=cyclopropane fatty acid (CFA) biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=1}}
+{{#set: completion rate=100.0}}

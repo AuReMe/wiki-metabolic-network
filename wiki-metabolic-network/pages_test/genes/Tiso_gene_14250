@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14250 ==
+* right end position:
+** 1595
+* transcription direction:
+** POSITIVE
+* left end position:
+** 21
+* centisome position:
+** 0.19329897    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-LIGASE-ATP-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-17917]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17918]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17919]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1595}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=21}}
+{{#set: centisome position=0.19329897    }}
+{{#set: reaction associated=DNA-LIGASE-ATP-RXN|RXN-17917|RXN-17918|RXN-17919}}

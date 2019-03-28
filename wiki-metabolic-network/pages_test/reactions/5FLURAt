@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=5FLURAt 5FLURAt] ==
+* direction:
+** REVERSIBLE
+* common name:
+** nucleobase transport, fluorouracil (extracellular)
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD0-1327]][e] '''<=>''' 1.0 [[CPD0-1327]][c]
+* With common name(s):
+** 1.0 5-fluorouracil[e] '''<=>''' 1.0 5-fluorouracil[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6578]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_18433]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_18556]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=nucleobase transport, fluorouracil (extracellular)}}
+{{#set: gene associated=Tiso_gene_6578|Tiso_gene_18433|Tiso_gene_18556}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

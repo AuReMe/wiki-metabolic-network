@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-695 CPD-695] ==
+* smiles:
+** C=C1(C2(O)(CC3(C1)(C([CH]4(C(C)(CCCC(C)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))
+* common name:
+** gibberellin A53
+* inchi key:
+** InChIKey=CZEMYYICWZPENF-VOLTXKGXSA-L
+* molecular weight:
+** 346.422    
+* Synonym(s):
+** GA53
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-167]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25203620 25203620]
+* HMDB : HMDB36895
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27433 27433]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06094 C06094]
+{{#set: smiles=C=C1(C2(O)(CC3(C1)(C([CH]4(C(C)(CCCC(C)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))}}
+{{#set: common name=gibberellin A53}}
+{{#set: inchi key=InChIKey=CZEMYYICWZPENF-VOLTXKGXSA-L}}
+{{#set: molecular weight=346.422    }}
+{{#set: common name=GA53}}
+{{#set: consumed by=RXN1F-167}}

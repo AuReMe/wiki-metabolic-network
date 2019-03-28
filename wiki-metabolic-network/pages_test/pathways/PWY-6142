@@ -1,0 +1,141 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6142 PWY-6142] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** gluconeogenesis II (Methanobacterium thermoautotrophicum)
+* Synonym(s):
+** carbohydrate biosynthesis (Methanobacterium thermoautotrophicum)
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''14''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[3PGAREARR-RXN]]
+** 16 associated gene(s):
+*** [[Tiso_gene_15048]]
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16754]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_5468]]
+*** [[Tiso_gene_20311]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_15391]]
+*** [[Tiso_gene_14212]]
+*** [[Tiso_gene_10516]]
+*** [[Tiso_gene_9923]]
+*** [[Tiso_gene_2667]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PYRUVATE-CARBOXYLASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_15144]]
+*** [[Tiso_gene_15145]]
+*** [[Tiso_gene_2812]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-5224]]
+** 10 associated gene(s):
+*** [[Tiso_gene_18927]]
+*** [[Tiso_gene_6150]]
+*** [[Tiso_gene_1600]]
+*** [[Tiso_gene_3056]]
+*** [[Tiso_gene_9852]]
+*** [[Tiso_gene_17511]]
+*** [[Tiso_gene_19413]]
+*** [[Tiso_gene_20230]]
+*** [[Tiso_gene_19414]]
+*** [[Tiso_gene_7660]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.7.6-RXN 1.2.7.6-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PEPCARBOX-RXN PEPCARBOX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-7784 PWY-7784]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-7784 PWY-7784]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUFLAVREDUCT-RXN PYRUFLAVREDUCT-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R302-RXN R302-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=gluconeogenesis II (Methanobacterium thermoautotrophicum)}}
+{{#set: common name=carbohydrate biosynthesis (Methanobacterium thermoautotrophicum)}}
+{{#set: reaction found=8}}
+{{#set: total reaction=14}}
+{{#set: completion rate=57.0}}

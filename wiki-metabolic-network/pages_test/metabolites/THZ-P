@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=THZ-P THZ-P] ==
+* smiles:
+** CC1(N=CSC(CCOP([O-])(=O)[O-])=1)
+* common name:
+** 4-methyl-5-(2-phosphooxyethyl)thiazole
+* inchi key:
+** InChIKey=OCYMERZCMYJQQO-UHFFFAOYSA-L
+* molecular weight:
+** 221.167    
+* Synonym(s):
+** 4-4-methyl-5-(2-phosphonooxyethyl)-thiazole
+** 4-methyl-5-(2-phosphoethyl)-thiazole
+** THZ-P
+** 4-methyl-5-(&beta;-hydroxyethyl)thiazole phosphate
+** HET-P
+
+== Reaction(s) known to consume the compound ==
+* [[THI-P-SYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[THIAZOLSYN3-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245616 25245616]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58296 58296]
+* BIGG : 4mpetz
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04327 C04327]
+{{#set: smiles=CC1(N=CSC(CCOP([O-])(=O)[O-])=1)}}
+{{#set: common name=4-methyl-5-(2-phosphooxyethyl)thiazole}}
+{{#set: inchi key=InChIKey=OCYMERZCMYJQQO-UHFFFAOYSA-L}}
+{{#set: molecular weight=221.167    }}
+{{#set: common name=4-4-methyl-5-(2-phosphonooxyethyl)-thiazole|4-methyl-5-(2-phosphoethyl)-thiazole|THZ-P|4-methyl-5-(&beta;-hydroxyethyl)thiazole phosphate|HET-P}}
+{{#set: consumed by=THI-P-SYN-RXN}}
+{{#set: produced by=THIAZOLSYN3-RXN}}

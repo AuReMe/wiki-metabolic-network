@@ -1,0 +1,64 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1011 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYCOPHOSPHORYL-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GLYMALTOPHOSPHORYL-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GUANYL-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12171]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12392]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14284]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14285]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14286]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14353]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-1826]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-9025]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-1401]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5182]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5184]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[THYM-PHOSPH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7238]]
+* [[GLYCOCAT-PWY]]
+* [[PWY-7221]]
+* [[PWY-7181]]
+* [[PWY-6731]]
+* [[PWY-7805]]
+* [[PWY0-661]]
+* [[PWY-7807]]
+* [[PWY-6737]]
+* [[PWY-5941]]
+== External links  ==
+{{#set: reaction associated=GLYCOPHOSPHORYL-RXN|GLYMALTOPHOSPHORYL-RXN|GUANYL-KIN-RXN|RXN-12171|RXN-12392|RXN-14284|RXN-14285|RXN-14286|RXN-14353|RXN-1826|RXN-9025|RXN0-1401|RXN0-5182|RXN0-5184|THYM-PHOSPH-RXN}}
+{{#set: pathway associated=PWY-7238|GLYCOCAT-PWY|PWY-7221|PWY-7181|PWY-6731|PWY-7805|PWY0-661|PWY-7807|PWY-6737|PWY-5941}}

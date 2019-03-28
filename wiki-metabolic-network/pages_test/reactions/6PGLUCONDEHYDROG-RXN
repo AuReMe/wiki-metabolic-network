@@ -1,0 +1,91 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=6PGLUCONDEHYDROG-RXN 6PGLUCONDEHYDROG-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.351 EC-1.1.1.351]
+* Synonym(s):
+** 6PGD
+** 6-phosphogluconic carboxylase
+** 6-phosphogluconic dehydrogenase
+** Phosphogluconic acid dehydrogenase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-2961]][c] '''+''' 1 [[NAD-P-OR-NOP]][c] '''=>''' 1 [[RIBULOSE-5P]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[NADH-P-OR-NOP]][c]
+* With common name(s):
+** 1 D-gluconate 6-phosphate[c] '''+''' 1 NAD(P)+[c] '''=>''' 1 D-ribulose 5-phosphate[c] '''+''' 1 CO2[c] '''+''' 1 NAD(P)H[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_91]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_20238]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_7157]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[P122-PWY]], heterolactic fermentation: [http://metacyc.org/META/NEW-IMAGE?object=P122-PWY P122-PWY]
+** '''14''' reactions found over '''18''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10116 10116]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P14332 P14332]
+** [http://www.uniprot.org/uniprot/P31072 P31072]
+** [http://www.uniprot.org/uniprot/Q9CDN4 Q9CDN4]
+** [http://www.uniprot.org/uniprot/P47506 P47506]
+** [http://www.uniprot.org/uniprot/Q9JWS3 Q9JWS3]
+** [http://www.uniprot.org/uniprot/P43774 P43774]
+** [http://www.uniprot.org/uniprot/P12013 P12013]
+** [http://www.uniprot.org/uniprot/P41576 P41576]
+** [http://www.uniprot.org/uniprot/P00350 P00350]
+** [http://www.uniprot.org/uniprot/P00349 P00349]
+** [http://www.uniprot.org/uniprot/P52209 P52209]
+** [http://www.uniprot.org/uniprot/P41581 P41581]
+** [http://www.uniprot.org/uniprot/P41582 P41582]
+** [http://www.uniprot.org/uniprot/Q59275 Q59275]
+** [http://www.uniprot.org/uniprot/P41583 P41583]
+** [http://www.uniprot.org/uniprot/Q60254 Q60254]
+** [http://www.uniprot.org/uniprot/P37754 P37754]
+** [http://www.uniprot.org/uniprot/Q59410 Q59410]
+** [http://www.uniprot.org/uniprot/P52207 P52207]
+** [http://www.uniprot.org/uniprot/P70718 P70718]
+** [http://www.uniprot.org/uniprot/Q7M451 Q7M451]
+** [http://www.uniprot.org/uniprot/P41572 P41572]
+** [http://www.uniprot.org/uniprot/P14062 P14062]
+** [http://www.uniprot.org/uniprot/P21577 P21577]
+** [http://www.uniprot.org/uniprot/P38720 P38720]
+** [http://www.uniprot.org/uniprot/Q40311 Q40311]
+** [http://www.uniprot.org/uniprot/P53319 P53319]
+** [http://www.uniprot.org/uniprot/O81237 O81237]
+** [http://www.uniprot.org/uniprot/O81238 O81238]
+** [http://www.uniprot.org/uniprot/O81239 O81239]
+** [http://www.uniprot.org/uniprot/O22111 O22111]
+** [http://www.uniprot.org/uniprot/Q17761 Q17761]
+** [http://www.uniprot.org/uniprot/O32911 O32911]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]}}
+{{#set: ec number=EC-1.1.1.351}}
+{{#set: common name=6PGD|6-phosphogluconic carboxylase|6-phosphogluconic dehydrogenase|Phosphogluconic acid dehydrogenase}}
+{{#set: gene associated=Tiso_gene_91|Tiso_gene_20238|Tiso_gene_7157}}
+{{#set: in pathway=P122-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-creinhardtii|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15684 CPD-15684] ==
+* smiles:
+** CCCCCCC=CC=CCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 5-cis, 7-trans-tetradecadienoyl-CoA
+* inchi key:
+** InChIKey=AMANZGDVBADZLH-QTJPLKLFSA-J
+* molecular weight:
+** 969.83    
+* Synonym(s):
+** 5Z, 7E-tetradecadienoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14796]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659270 90659270]
+{{#set: smiles=CCCCCCC=CC=CCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=5-cis, 7-trans-tetradecadienoyl-CoA}}
+{{#set: inchi key=InChIKey=AMANZGDVBADZLH-QTJPLKLFSA-J}}
+{{#set: molecular weight=969.83    }}
+{{#set: common name=5Z, 7E-tetradecadienoyl-CoA}}
+{{#set: consumed by=RXN-14796}}

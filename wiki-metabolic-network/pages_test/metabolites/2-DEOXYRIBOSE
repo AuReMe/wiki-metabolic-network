@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-DEOXYRIBOSE 2-DEOXYRIBOSE] ==
+* smiles:
+** C(O)C(O)C(O)CC=O
+* common name:
+** 2'-deoxyribose
+* inchi key:
+** InChIKey=ASJSAQIRZKANQN-UHFFFAOYSA-N
+* molecular weight:
+** 134.132    
+* Synonym(s):
+** deoxyribose
+** 2-deoxyribose
+** 2-deoxy-D-ribose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14223]]
+== External links  ==
+* CAS : 533-67-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10786 10786]
+* HMDB : HMDB03224
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01801 C01801]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10330.html 10330]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=131350 131350]
+* METABOLIGHTS : MTBLC28816
+{{#set: smiles=C(O)C(O)C(O)CC=O}}
+{{#set: common name=2'-deoxyribose}}
+{{#set: inchi key=InChIKey=ASJSAQIRZKANQN-UHFFFAOYSA-N}}
+{{#set: molecular weight=134.132    }}
+{{#set: common name=deoxyribose|2-deoxyribose|2-deoxy-D-ribose}}
+{{#set: reversible reaction associated=RXN-14223}}

@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10209 ==
+* right end position:
+** 3872
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 966
+* centisome position:
+** 11.093247    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-KETO-ADIPATE-DEHYDROG-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[2OXOGLUTDECARB-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[AKGDHe2r]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5652]]
+* [[PWY-5084]]
+* [[PWY66-425]]
+* [[LYSINE-DEG1-PWY]]
+* [[PWY66-398]]
+== External links  ==
+{{#set: right end position=3872}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=966}}
+{{#set: centisome position=11.093247    }}
+{{#set: reaction associated=2-KETO-ADIPATE-DEHYDROG-RXN|2OXOGLUTDECARB-RXN|AKGDHe2r}}
+{{#set: pathway associated=PWY-5652|PWY-5084|PWY66-425|LYSINE-DEG1-PWY|PWY66-398}}

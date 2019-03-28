@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-1501 PWY-1501] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** mandelate degradation I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[BENZALDEHYDE-DEHYDROGENASE-NADP+-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=BENZOYLFORMATE-DECARBOXYLASE-RXN BENZOYLFORMATE-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MANDELATE-DEHYDROGENASE-RXN MANDELATE-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MANDELATE-RACEMASE-RXN MANDELATE-RACEMASE-RXN]
+== External links  ==
+* UM-BBD-PWY : MCA
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=mandelate degradation I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

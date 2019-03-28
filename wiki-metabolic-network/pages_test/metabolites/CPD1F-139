@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-139 CPD1F-139] ==
+* smiles:
+** C=C1(C3(O)(CC4(C1)(C([CH]5(C2(C(=O)OC(CCC(O)2)([CH](CC3)4)5)(C)))C([O-])=O)))
+* common name:
+** gibberellin A1
+* inchi key:
+** InChIKey=JLJLRLWOEMWYQK-SNTJWBGVSA-M
+* molecular weight:
+** 347.387    
+* Synonym(s):
+** GA1
+** gibberellin 1
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-115]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202506 25202506]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27717 27717]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00859 C00859]
+{{#set: smiles=C=C1(C3(O)(CC4(C1)(C([CH]5(C2(C(=O)OC(CCC(O)2)([CH](CC3)4)5)(C)))C([O-])=O)))}}
+{{#set: common name=gibberellin A1}}
+{{#set: inchi key=InChIKey=JLJLRLWOEMWYQK-SNTJWBGVSA-M}}
+{{#set: molecular weight=347.387    }}
+{{#set: common name=GA1|gibberellin 1}}
+{{#set: consumed by=RXN-115}}

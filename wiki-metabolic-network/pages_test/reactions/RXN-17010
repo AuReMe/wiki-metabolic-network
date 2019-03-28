@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17010 RXN-17010] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 1-acylglycerol-3-phosphate_o-acyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.51 EC-2.3.1.51]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[1-PALMITOYLGLYCEROL-3-PHOSPHATE]][c] '''+''' 1 [[CPD-18346]][c] '''=>''' 1 [[CO-A]][c] '''+''' 1 [[CPD-18352]][c]
+* With common name(s):
+** 1 1-palmitoylglycerol 3-phosphate[c] '''+''' 1 cis-vaccenoyl-CoA[c] '''=>''' 1 coenzyme A[c] '''+''' 1 1-palmitoyl-2-cis-vaccenoyl phosphatidate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=1-acylglycerol-3-phosphate_o-acyltransferase}}
+{{#set: ec number=EC-2.3.1.51}}
+{{#set: gene associated=Tiso_gene_13959}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14873 CPD-14873] ==
+* smiles:
+** C(=O)([O-])C1(C=C(N)C(O)=CC=1)
+* common name:
+** 3-amino-4-hydroxybenzoate
+* inchi key:
+** InChIKey=MRBKRZAPGUCWOS-UHFFFAOYSA-M
+* molecular weight:
+** 152.129    
+* Synonym(s):
+** 3-amino-4-hydroxybenzoic acid
+** 3,4-AHBA
+** 5-amino saliciylic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-13870]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54694272 54694272]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.58593.html 58593]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60005 60005]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C12115 C12115]
+{{#set: smiles=C(=O)([O-])C1(C=C(N)C(O)=CC=1)}}
+{{#set: common name=3-amino-4-hydroxybenzoate}}
+{{#set: inchi key=InChIKey=MRBKRZAPGUCWOS-UHFFFAOYSA-M}}
+{{#set: molecular weight=152.129    }}
+{{#set: common name=3-amino-4-hydroxybenzoic acid|3,4-AHBA|5-amino saliciylic acid}}
+{{#set: reversible reaction associated=RXN-13870}}

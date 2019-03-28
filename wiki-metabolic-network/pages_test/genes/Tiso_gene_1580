@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1580 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[BFFS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RFH]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=BFFS|RFH}}

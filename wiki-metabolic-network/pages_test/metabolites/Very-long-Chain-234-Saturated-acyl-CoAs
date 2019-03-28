@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Very-long-Chain-234-Saturated-acyl-CoAs Very-long-Chain-234-Saturated-acyl-CoAs] ==
+* common name:
+** a very-long-chain 2,3,4-saturated fatty acyl CoA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7697]]
+* [[RXN-13451]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7711]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a very-long-chain 2,3,4-saturated fatty acyl CoA}}
+{{#set: consumed by=RXN-7697|RXN-13451}}
+{{#set: produced by=RXN-7711}}

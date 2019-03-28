@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALLO-THR ALLO-THR] ==
+* common name:
+** DL-allothreonine
+* Synonym(s):
+** allothreonine
+** allo-thr
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5234]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=DL-allothreonine}}
+{{#set: common name=allothreonine|allo-thr}}
+{{#set: consumed by=RXN0-5234}}

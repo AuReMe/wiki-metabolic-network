@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-OXOPROLINE 5-OXOPROLINE] ==
+* smiles:
+** C(=O)(C1(NC(CC1)=O))[O-]
+* common name:
+** 5-oxo-L-proline
+* inchi key:
+** InChIKey=ODHCTXKNWHHXJC-VKHMYHEASA-M
+* molecular weight:
+** 128.107    
+* Synonym(s):
+** pyrrolidone-COO
+** pyrrolidone-carboxylate
+** L-5-pyrrolidone-2-carboxylic acid
+** L-pyroglutamic acid
+** 5-oxo-L-proline
+** pyroglutamic acid
+** pyroglutamate
+** 5-pyrrolidone-2-carboxylic acid
+** L-pyroglutamate
+** Pidolic acid
+
+== Reaction(s) known to consume the compound ==
+* [[5-OXOPROLINASE-ATP-HYDROLYSING-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[GAMMA-GLUTAMYLCYCLOTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 98-79-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5289118 5289118]
+* HMDB : HMDB00267
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01879 C01879]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4451146.html 4451146]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58402 58402]
+{{#set: smiles=C(=O)(C1(NC(CC1)=O))[O-]}}
+{{#set: common name=5-oxo-L-proline}}
+{{#set: inchi key=InChIKey=ODHCTXKNWHHXJC-VKHMYHEASA-M}}
+{{#set: molecular weight=128.107    }}
+{{#set: common name=pyrrolidone-COO|pyrrolidone-carboxylate|L-5-pyrrolidone-2-carboxylic acid|L-pyroglutamic acid|5-oxo-L-proline|pyroglutamic acid|pyroglutamate|5-pyrrolidone-2-carboxylic acid|L-pyroglutamate|Pidolic acid}}
+{{#set: consumed by=5-OXOPROLINASE-ATP-HYDROLYSING-RXN}}
+{{#set: produced by=GAMMA-GLUTAMYLCYCLOTRANSFERASE-RXN}}

@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Glycerophosphodiesters Glycerophosphodiesters] ==
+* common name:
+** a glycerophosphodiester
+* Synonym(s):
+** glycerophosphodiester
+** glycerol-3-P-OR
+
+== Reaction(s) known to consume the compound ==
+* [[GLYCPDIESTER-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a glycerophosphodiester}}
+{{#set: common name=glycerophosphodiester|glycerol-3-P-OR}}
+{{#set: consumed by=GLYCPDIESTER-RXN}}

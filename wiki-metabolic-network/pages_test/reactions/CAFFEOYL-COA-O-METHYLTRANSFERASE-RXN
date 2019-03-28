@@ -1,0 +1,70 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.104 EC-2.1.1.104]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CAFFEOYL-COA]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[FERULOYL-COA]][c]
+* With common name(s):
+** 1 trans-caffeoyl-CoA[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 S-adenosyl-L-homocysteine[c] '''+''' 1 H+[c] '''+''' 1 feruloyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10561]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14561]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+* [[PWY-6792]], scopoletin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6792 PWY-6792]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-1121]], suberin monomers biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-1121 PWY-1121]
+** '''9''' reactions found over '''19''' reactions in the full pathway
+* [[PWY-5710]], capsaicin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5710 PWY-5710]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-7498]], phenylpropanoids methylation (ice plant): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7498 PWY-7498]
+** '''2''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-6039]], chlorogenic acid biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6039 PWY-6039]
+** '''1''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7398]], coumarins biosynthesis (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7398 PWY-7398]
+** '''3''' reactions found over '''13''' reactions in the full pathway
+* [[PWY-361]], phenylpropanoid biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-361 PWY-361]
+** '''7''' reactions found over '''15''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=16925 16925]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01942 R01942]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P28034 P28034]
+** [http://www.uniprot.org/uniprot/O65307 O65307]
+** [http://www.uniprot.org/uniprot/Q42945 Q42945]
+** [http://www.uniprot.org/uniprot/O24144 O24144]
+** [http://www.uniprot.org/uniprot/O24149 O24149]
+** [http://www.uniprot.org/uniprot/O24150 O24150]
+** [http://www.uniprot.org/uniprot/O24151 O24151]
+** [http://www.uniprot.org/uniprot/O04899 O04899]
+** [http://www.uniprot.org/uniprot/O49499 O49499]
+** [http://www.uniprot.org/uniprot/Q9SVI7 Q9SVI7]
+** [http://www.uniprot.org/uniprot/Q40313 Q40313]
+** [http://www.uniprot.org/uniprot/Q43095 Q43095]
+** [http://www.uniprot.org/uniprot/O04854 O04854]
+** [http://www.uniprot.org/uniprot/O65162 O65162]
+** [http://www.uniprot.org/uniprot/O65362 O65362]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.1.1.104}}
+{{#set: gene associated=Tiso_gene_10561|Tiso_gene_14561}}
+{{#set: in pathway=PWY-6792|PWY-1121|PWY-5710|PWY-7498|PWY-6039|PWY-7398|PWY-361}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

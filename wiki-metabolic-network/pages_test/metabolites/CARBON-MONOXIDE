@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CARBON-MONOXIDE CARBON-MONOXIDE] ==
+* smiles:
+** [C-]#[O+]
+* common name:
+** carbon monoxide
+* inchi key:
+** InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
+* molecular weight:
+** 29.018    
+* Synonym(s):
+** CO
+** carbon monooxide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[HEME-OXYGENASE-DECYCLIZING-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 630-08-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=281 281]
+* HMDB : HMDB01361
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00237 C00237]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.275.html 275]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17245 17245]
+* METABOLIGHTS : MTBLC17245
+{{#set: smiles=[C-]#[O+]}}
+{{#set: common name=carbon monoxide}}
+{{#set: inchi key=InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N}}
+{{#set: molecular weight=29.018    }}
+{{#set: common name=CO|carbon monooxide}}
+{{#set: produced by=HEME-OXYGENASE-DECYCLIZING-RXN}}

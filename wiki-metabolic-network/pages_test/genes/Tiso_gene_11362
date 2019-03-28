@@ -1,0 +1,40 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11362 ==
+* right end position:
+** 7749
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4329
+* centisome position:
+** 55.146496    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACETOLACTSYN-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ACETOOHBUTSYN-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12583]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-14037]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[ILEUSYN-PWY]]
+* [[PWY-5938]]
+* [[PWY-5939]]
+* [[VALSYN-PWY]]
+* [[PWY-7111]]
+* [[PWY-5103]]
+* [[PWY-5101]]
+* [[PWY-6389]]
+* [[PWY-5104]]
+== External links  ==
+{{#set: right end position=7749}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4329}}
+{{#set: centisome position=55.146496    }}
+{{#set: reaction associated=ACETOLACTSYN-RXN|ACETOOHBUTSYN-RXN|RXN-12583|RXN-14037}}
+{{#set: pathway associated=ILEUSYN-PWY|PWY-5938|PWY-5939|VALSYN-PWY|PWY-7111|PWY-5103|PWY-5101|PWY-6389|PWY-5104}}

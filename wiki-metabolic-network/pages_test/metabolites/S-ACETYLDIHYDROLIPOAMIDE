@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-ACETYLDIHYDROLIPOAMIDE S-ACETYLDIHYDROLIPOAMIDE] ==
+* smiles:
+** CC(SC(CCS)CCCCC(N)=O)=O
+* common name:
+** S-acetyldihydrolipoamide
+* inchi key:
+** InChIKey=ARGXEXVCHMNAQU-UHFFFAOYSA-N
+* molecular weight:
+** 249.386    
+* Synonym(s):
+** 6-S-Acetyldihydrolipoamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DIHYDLIPACETRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1076 1076]
+* HMDB : HMDB01526
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01136 C01136]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1046.html 1046]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16807 16807]
+* METABOLIGHTS : MTBLC16807
+{{#set: smiles=CC(SC(CCS)CCCCC(N)=O)=O}}
+{{#set: common name=S-acetyldihydrolipoamide}}
+{{#set: inchi key=InChIKey=ARGXEXVCHMNAQU-UHFFFAOYSA-N}}
+{{#set: molecular weight=249.386    }}
+{{#set: common name=6-S-Acetyldihydrolipoamide}}
+{{#set: produced by=DIHYDLIPACETRANS-RXN}}

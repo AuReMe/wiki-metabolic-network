@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6613 PWY-6613] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
+* Synonym(s):
+** folic acid salvage
+** folate salvage
+** THF salvage
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[GART-RXN]]
+** 0 associated gene:
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[METHENYLTHFCYCLOHYDRO-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate}}
+{{#set: common name=folic acid salvage|folate salvage|THF salvage}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

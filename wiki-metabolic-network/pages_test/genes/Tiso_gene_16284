@@ -1,0 +1,60 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16284 ==
+* right end position:
+** 4251
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1908
+* centisome position:
+** 42.675014    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FARNESYLTRANSTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[FPPSYN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GGPS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GPPS]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GPPSYN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7736]]
+* [[PWY-7492]]
+* [[PWY-6659]]
+* [[PWY-6383]]
+* [[PWY-6691]]
+* [[PWY-6859]]
+* [[PWY-7709]]
+* [[PWY-7102]]
+* [[PWY-7182]]
+* [[PWY-5120]]
+* [[PWY-5123]]
+* [[PWY-5122]]
+* [[PWY-7141]]
+* [[PWY-7517]]
+* [[PWY-7721]]
+* [[PWY-7720]]
+* [[PWY-7410]]
+* [[PWY-7659]]
+== External links  ==
+{{#set: right end position=4251}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1908}}
+{{#set: centisome position=42.675014    }}
+{{#set: reaction associated=FARNESYLTRANSTRANSFERASE-RXN|FPPSYN-RXN|GGPS|GPPS|GPPSYN-RXN}}
+{{#set: pathway associated=PWY-7736|PWY-7492|PWY-6659|PWY-6383|PWY-6691|PWY-6859|PWY-7709|PWY-7102|PWY-7182|PWY-5120|PWY-5123|PWY-5122|PWY-7141|PWY-7517|PWY-7721|PWY-7720|PWY-7410|PWY-7659}}

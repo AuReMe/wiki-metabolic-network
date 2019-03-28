@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=131-OXO-MAGNESIUM-PROTOPORPHYRIN-IX-13-M 131-OXO-MAGNESIUM-PROTOPORPHYRIN-IX-13-M] ==
+* smiles:
+** C=CC2(C(C)=C4(C=C8(C(C)=C(CCC(=O)[O-])C7(=N([Mg]35(N1(=C(C(C=C)=C(C)C1=CC=2N34)C=C6(C(C)=C(C(=O)CC(=O)OC)C(N56)=C7))))8))))
+* common name:
+** 131-oxo-magnesium-protoporphyrin IX 13-monomethyl ester
+* molecular weight:
+** 611.959    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-5284]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-5283]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658440 90658440]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60490 60490]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11830 C11830]
+{{#set: smiles=C=CC2(C(C)=C4(C=C8(C(C)=C(CCC(=O)[O-])C7(=N([Mg]35(N1(=C(C(C=C)=C(C)C1=CC=2N34)C=C6(C(C)=C(C(=O)CC(=O)OC)C(N56)=C7))))8))))}}
+{{#set: common name=131-oxo-magnesium-protoporphyrin IX 13-monomethyl ester}}
+{{#set: molecular weight=611.959    }}
+{{#set: consumed by=RXN-5284}}
+{{#set: produced by=RXN-5283}}

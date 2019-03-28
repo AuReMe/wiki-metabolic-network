@@ -1,0 +1,74 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACP-S-ACETYLTRANSFER-RXN ACP-S-ACETYLTRANSFER-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** polyketide_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.86 EC-2.3.1.86]
+** [http://enzyme.expasy.org/EC/2.3.1.85 EC-2.3.1.85]
+** [http://enzyme.expasy.org/EC/2.3.1.38 EC-2.3.1.38]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ACP]][c] '''+''' 1 [[ACETYL-COA]][c] '''<=>''' 1 [[CO-A]][c] '''+''' 1 [[ACETYL-ACP]][c]
+* With common name(s):
+** 1 a holo-[acyl-carrier protein][c] '''+''' 1 acetyl-CoA[c] '''<=>''' 1 coenzyme A[c] '''+''' 1 an acetyl-[acp][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15991]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_135]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_136]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13394]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_500]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10876]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5966]], fatty acid biosynthesis initiation II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5966 PWY-5966]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[FASYN-INITIAL-PWY]], superpathway of fatty acid biosynthesis initiation (E. coli): [http://metacyc.org/META/NEW-IMAGE?object=FASYN-INITIAL-PWY FASYN-INITIAL-PWY]
+** '''5''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01624 R01624]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P49327 P49327]
+** [http://www.uniprot.org/uniprot/P08757 P08757]
+** [http://www.uniprot.org/uniprot/P07149 P07149]
+** [http://www.uniprot.org/uniprot/P12276 P12276]
+** [http://www.uniprot.org/uniprot/P12785 P12785]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=polyketide_synthase}}
+{{#set: ec number=EC-2.3.1.86}}
+{{#set: ec number=EC-2.3.1.85}}
+{{#set: ec number=EC-2.3.1.38}}
+{{#set: gene associated=Tiso_gene_15991|Tiso_gene_135|Tiso_gene_136|Tiso_gene_13394|Tiso_gene_500|Tiso_gene_10876}}
+{{#set: in pathway=PWY-5966|FASYN-INITIAL-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=manual-primary_network|orthology-athaliana|annotation-in-silico_annotation|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

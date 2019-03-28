@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=CYSTEINE-DEG-PWY CYSTEINE-DEG-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** L-cysteine degradation I
+* Synonym(s):
+** cysteine degradation I
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[3-SULFINOALANINE-AMINOTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17718]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[CYSTEINE-DIOXYGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1457]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3-SULFINYL-PYRUVATE-SPON-RXN 3-SULFINYL-PYRUVATE-SPON-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=L-cysteine degradation I}}
+{{#set: common name=cysteine degradation I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

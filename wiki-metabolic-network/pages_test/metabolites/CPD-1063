@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1063 CPD-1063] ==
+* smiles:
+** CSCC(O)C(O)C(=O)COP([O-])(=O)[O-]
+* common name:
+** 5-methylthioribulose 1-phosphate
+* inchi key:
+** InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L
+* molecular weight:
+** 258.182    
+* Synonym(s):
+** 5-methylthio-5-deoxy-D-ribulose 1-phosphate
+** 1-phosphomethylthioribulose
+** methylthioribulose 1-phosphate
+** MTRu-1-P
+** 1PMT-ribulose
+** 1-phospho-5-S-methylthioribulose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[M5TRPI]]
+* [[5.3.1.23-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : 5mdru1p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615271 23615271]
+* HMDB : HMDB01299
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04582 C04582]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951215.html 19951215]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58548 58548]
+* METABOLIGHTS : MTBLC58548
+{{#set: smiles=CSCC(O)C(O)C(=O)COP([O-])(=O)[O-]}}
+{{#set: common name=5-methylthioribulose 1-phosphate}}
+{{#set: inchi key=InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L}}
+{{#set: molecular weight=258.182    }}
+{{#set: common name=5-methylthio-5-deoxy-D-ribulose 1-phosphate|1-phosphomethylthioribulose|methylthioribulose 1-phosphate|MTRu-1-P|1PMT-ribulose|1-phospho-5-S-methylthioribulose}}
+{{#set: produced by=M5TRPI|5.3.1.23-RXN}}

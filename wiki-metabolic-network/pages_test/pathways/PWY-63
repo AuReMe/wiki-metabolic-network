@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-63 PWY-63] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-82115 TAX-82115]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** UDP-L-arabinose biosynthesis I (from UDP-xylose)
+* Synonym(s):
+** UDP-L-arabinose biosynthesis (de novo synthesis)
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''1''' reactions in the full pathway
+* [[UDP-ARABINOSE-4-EPIMERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15395]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-63 PWY-63]
+{{#set: taxonomic range=TAX-82115}}
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=UDP-L-arabinose biosynthesis I (from UDP-xylose)}}
+{{#set: common name=UDP-L-arabinose biosynthesis (de novo synthesis)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=1}}
+{{#set: completion rate=100.0}}

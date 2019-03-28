@@ -1,0 +1,78 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=LYSOPHOSPHOLIPASE-RXN LYSOPHOSPHOLIPASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lysophospholipase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.5 EC-3.1.1.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[2-Lysophosphatidylcholines]][c] '''=>''' 1 [[L-1-GLYCERO-PHOSPHORYLCHOLINE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[Carboxylates]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a 1-acyl-sn-glycero-3-phosphocholine[c] '''=>''' 1 sn-glycero-3-phosphocholine[c] '''+''' 1 H+[c] '''+''' 1 a carboxylate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_334]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_20565]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12479]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12375]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8353]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_19778]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2505]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15692]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15177 15177]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02746 R02746]
+** [http://www.genome.jp/dbget-bin/www_bget?R07291 R07291]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O07427 O07427]
+** [http://www.uniprot.org/uniprot/Q7M3V3 Q7M3V3]
+** [http://www.uniprot.org/uniprot/P07000 P07000]
+** [http://www.uniprot.org/uniprot/P0ADA1 P0ADA1]
+** [http://www.uniprot.org/uniprot/P39457 P39457]
+** [http://www.uniprot.org/uniprot/Q03674 Q03674]
+** [http://www.uniprot.org/uniprot/P53541 P53541]
+** [http://www.uniprot.org/uniprot/P78854 P78854]
+** [http://www.uniprot.org/uniprot/O42970 O42970]
+** [http://www.uniprot.org/uniprot/Q9P327 Q9P327]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lysophospholipase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.1.1.5}}
+{{#set: gene associated=Tiso_gene_334|Tiso_gene_12478|Tiso_gene_20565|Tiso_gene_12479|Tiso_gene_12375|Tiso_gene_8353|Tiso_gene_19778|Tiso_gene_2505|Tiso_gene_15692}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

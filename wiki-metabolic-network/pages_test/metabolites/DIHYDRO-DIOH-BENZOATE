@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDRO-DIOH-BENZOATE DIHYDRO-DIOH-BENZOATE] ==
+* smiles:
+** C([O-])(=O)C1(=CC=CC(C1O)O)
+* common name:
+** (2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate
+* inchi key:
+** InChIKey=INCSWYKICIYAHB-WDSKDSINSA-M
+* molecular weight:
+** 155.13    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[DHBDEHYD-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266758 45266758]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.19951064.html 19951064]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58764 58764]
+* BIGG : 23ddhb
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04171 C04171]
+{{#set: smiles=C([O-])(=O)C1(=CC=CC(C1O)O)}}
+{{#set: common name=(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate}}
+{{#set: inchi key=InChIKey=INCSWYKICIYAHB-WDSKDSINSA-M}}
+{{#set: molecular weight=155.13    }}
+{{#set: consumed by=DHBDEHYD-RXN}}

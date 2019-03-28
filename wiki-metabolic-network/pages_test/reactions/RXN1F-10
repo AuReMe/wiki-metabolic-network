@@ -1,0 +1,105 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN1F-10 RXN1F-10] ==
+* direction:
+** REVERSIBLE
+* common name:
+** ORF
+** protochlorophyllide_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.3.1.33 EC-1.3.1.33]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CHLOROPHYLLIDE-A]][c] '''+''' 1 [[NADP]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[MONO-VINYL-PROTOCHLOROPHYLLIDE-A]][c]
+* With common name(s):
+** 1 chlorophyllide a[c] '''+''' 1 NADP+[c] '''<=>''' 1 H+[c] '''+''' 1 NADPH[c] '''+''' 1 protochlorophyllide a[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19518]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_10077]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17141]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11132 11132]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03845 R03845]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q3J1A0 Q3J1A0]
+** [http://www.uniprot.org/uniprot/Q02432 Q02432]
+** [http://www.uniprot.org/uniprot/Q9RFD4 Q9RFD4]
+** [http://www.uniprot.org/uniprot/Q9Z5D9 Q9Z5D9]
+** [http://www.uniprot.org/uniprot/Q9RFD6 Q9RFD6]
+** [http://www.uniprot.org/uniprot/O66148 O66148]
+** [http://www.uniprot.org/uniprot/Q9ZGE9 Q9ZGE9]
+** [http://www.uniprot.org/uniprot/Q9ZGF0 Q9ZGF0]
+** [http://www.uniprot.org/uniprot/P21218 P21218]
+** [http://www.uniprot.org/uniprot/P41646 P41646]
+** [http://www.uniprot.org/uniprot/P56303 P56303]
+** [http://www.uniprot.org/uniprot/P56302 P56302]
+** [http://www.uniprot.org/uniprot/P48100 P48100]
+** [http://www.uniprot.org/uniprot/P48110 P48110]
+** [http://www.uniprot.org/uniprot/P48099 P48099]
+** [http://www.uniprot.org/uniprot/O48741 O48741]
+** [http://www.uniprot.org/uniprot/P73480 P73480]
+** [http://www.uniprot.org/uniprot/Q55607 Q55607]
+** [http://www.uniprot.org/uniprot/P51278 P51278]
+** [http://www.uniprot.org/uniprot/P51188 P51188]
+** [http://www.uniprot.org/uniprot/P51187 P51187]
+** [http://www.uniprot.org/uniprot/Q39617 Q39617]
+** [http://www.uniprot.org/uniprot/P56291 P56291]
+** [http://www.uniprot.org/uniprot/Q7M189 Q7M189]
+** [http://www.uniprot.org/uniprot/P36208 P36208]
+** [http://www.uniprot.org/uniprot/P36437 P36437]
+** [http://www.uniprot.org/uniprot/Q41578 Q41578]
+** [http://www.uniprot.org/uniprot/Q04607 Q04607]
+** [http://www.uniprot.org/uniprot/Q02431 Q02431]
+** [http://www.uniprot.org/uniprot/O22597 O22597]
+** [http://www.uniprot.org/uniprot/Q00864 Q00864]
+** [http://www.uniprot.org/uniprot/P29683 P29683]
+** [http://www.uniprot.org/uniprot/P26177 P26177]
+** [http://www.uniprot.org/uniprot/P26180 P26180]
+** [http://www.uniprot.org/uniprot/P17652 P17652]
+** [http://www.uniprot.org/uniprot/P15904 P15904]
+** [http://www.uniprot.org/uniprot/P13653 P13653]
+** [http://www.uniprot.org/uniprot/P26156 P26156]
+** [http://www.uniprot.org/uniprot/P28372 P28372]
+** [http://www.uniprot.org/uniprot/Q41249 Q41249]
+** [http://www.uniprot.org/uniprot/P26179 P26179]
+** [http://www.uniprot.org/uniprot/P26163 P26163]
+** [http://www.uniprot.org/uniprot/P26178 P26178]
+** [http://www.uniprot.org/uniprot/P26164 P26164]
+** [http://www.uniprot.org/uniprot/P26237 P26237]
+** [http://www.uniprot.org/uniprot/P26238 P26238]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=ORF}}
+{{#set: common name=protochlorophyllide_reductase}}
+{{#set: ec number=EC-1.3.1.33}}
+{{#set: gene associated=Tiso_gene_19518|Tiso_gene_10077|Tiso_gene_17141}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

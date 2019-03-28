@@ -1,0 +1,23 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Aldehydes Aldehydes] ==
+* common name:
+** an aldehyde
+* Synonym(s):
+** aldehyde
+** RCHO
+
+== Reaction(s) known to consume the compound ==
+* [[ALDEHYDE-DEHYDROGENASE-NADP+-RXN]]
+* [[ALDHDEHYDROG-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[AMINEOXID-RXN]]
+* [[RXN-9597]]
+== Reaction(s) of unknown directionality ==
+* [[ALCOHOL-DEHYDROG-GENERIC-RXN]]
+* [[ALDEHYDE-DEHYDROGENASE-NADORNOP+-RXN]]
+== External links  ==
+{{#set: common name=an aldehyde}}
+{{#set: common name=aldehyde|RCHO}}
+{{#set: consumed by=ALDEHYDE-DEHYDROGENASE-NADP+-RXN|ALDHDEHYDROG-RXN}}
+{{#set: produced by=AMINEOXID-RXN|RXN-9597}}
+{{#set: reversible reaction associated=ALCOHOL-DEHYDROG-GENERIC-RXN|ALDEHYDE-DEHYDROGENASE-NADORNOP+-RXN}}

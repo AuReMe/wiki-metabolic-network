@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7717 ==
+* right end position:
+** 1722
+* transcription direction:
+** POSITIVE
+* left end position:
+** 147
+* centisome position:
+** 1.3517241    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1722}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=147}}
+{{#set: centisome position=1.3517241    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

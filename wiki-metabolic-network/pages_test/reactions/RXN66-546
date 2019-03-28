@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-546 RXN66-546] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** pyrroline-5-carboxylate_reductase
+** ORF
+** ankyrin_repeat-containing_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/1.5.1.2 EC-1.5.1.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADH-P-OR-NOP]][c] '''+''' 1 [[PYRROLINE-HYDROXY-CARBOXYLATE]][c] '''+''' 2 [[PROTON]][c] '''=>''' 1 [[NAD-P-OR-NOP]][c] '''+''' 1 [[4-HYDROXY-L-PROLINE]][c]
+* With common name(s):
+** 1 NAD(P)H[c] '''+''' 1 (3R,5S)-1-pyrroline-3-hydroxy-5-carboxylate[c] '''+''' 2 H+[c] '''=>''' 1 NAD(P)+[c] '''+''' 1 trans-4-hydroxy-L-proline[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_20218]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_8625]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17059]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19254]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=pyrroline-5-carboxylate_reductase}}
+{{#set: common name=ORF}}
+{{#set: common name=ankyrin_repeat-containing_protein}}
+{{#set: ec number=EC-1.5.1.2}}
+{{#set: gene associated=Tiso_gene_20218|Tiso_gene_8625|Tiso_gene_17059|Tiso_gene_19254}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

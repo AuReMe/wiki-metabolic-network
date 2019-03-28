@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14179 ==
+* right end position:
+** 3979
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 366
+* centisome position:
+** 6.3103447    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3979}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=366}}
+{{#set: centisome position=6.3103447    }}
+{{#set: reaction associated=2.4.2.31-RXN}}

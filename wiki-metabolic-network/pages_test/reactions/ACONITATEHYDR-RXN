@@ -1,0 +1,68 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACONITATEHYDR-RXN ACONITATEHYDR-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** cis-aconitate hydratase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CIS-ACONITATE]][c] '''+''' 1 [[WATER]][c] '''<=>''' 1 [[THREO-DS-ISO-CITRATE]][c]
+* With common name(s):
+** 1 cis-aconitate[c] '''+''' 1 H2O[c] '''<=>''' 1 D-threo-isocitrate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13007]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5913]], partial TCA cycle (obligate autotrophs): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5913 PWY-5913]
+** '''9''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-6969]], TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6969 PWY-6969]
+** '''9''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-6549]], L-glutamine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6549 PWY-6549]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-5392]], reductive TCA cycle II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5392 PWY-5392]
+** '''5''' reactions found over '''12''' reactions in the full pathway
+* [[TCA]], TCA cycle I (prokaryotic): [http://metacyc.org/META/NEW-IMAGE?object=TCA TCA]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+* [[P23-PWY]], reductive TCA cycle I: [http://metacyc.org/META/NEW-IMAGE?object=P23-PWY P23-PWY]
+** '''7''' reactions found over '''12''' reactions in the full pathway
+* [[P105-PWY]], TCA cycle IV (2-oxoglutarate decarboxylase): [http://metacyc.org/META/NEW-IMAGE?object=P105-PWY P105-PWY]
+** '''9''' reactions found over '''11''' reactions in the full pathway
+* [[GLYOXYLATE-BYPASS]], glyoxylate cycle: [http://metacyc.org/META/NEW-IMAGE?object=GLYOXYLATE-BYPASS GLYOXYLATE-BYPASS]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+* [[FERMENTATION-PWY]], mixed acid fermentation: [http://metacyc.org/META/NEW-IMAGE?object=FERMENTATION-PWY FERMENTATION-PWY]
+** '''9''' reactions found over '''16''' reactions in the full pathway
+* [[PWY-6728]], methylaspartate cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6728 PWY-6728]
+** '''11''' reactions found over '''18''' reactions in the full pathway
+* [[REDCITCYC]], TCA cycle VIII (helicobacter): [http://metacyc.org/META/NEW-IMAGE?object=REDCITCYC REDCITCYC]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7254]], TCA cycle VII (acetate-producers): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7254 PWY-7254]
+** '''5''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7124]], ethylene biosynthesis V (engineered): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7124 PWY-7124]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+* [[PWY66-398]], TCA cycle III (animals): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-398 PWY66-398]
+** '''10''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-5690]], TCA cycle II (plants and fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5690 PWY-5690]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22144 22144]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01900 R01900]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=cis-aconitate hydratase}}
+{{#set: gene associated=Tiso_gene_13007}}
+{{#set: in pathway=PWY-5913|PWY-6969|PWY-6549|PWY-5392|TCA|P23-PWY|P105-PWY|GLYOXYLATE-BYPASS|FERMENTATION-PWY|PWY-6728|REDCITCYC|PWY-7254|PWY-7124|PWY66-398|PWY-5690}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

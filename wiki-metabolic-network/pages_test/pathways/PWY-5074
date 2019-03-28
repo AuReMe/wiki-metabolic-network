@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5074 PWY-5074] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** mevalonate degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3769]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=HYDROXYMETHYLGLUTARYL-COA-REDUCTASE-RXN HYDROXYMETHYLGLUTARYL-COA-REDUCTASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=mevalonate degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

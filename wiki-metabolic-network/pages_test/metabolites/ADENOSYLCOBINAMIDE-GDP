@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ADENOSYLCOBINAMIDE-GDP ADENOSYLCOBINAMIDE-GDP] ==
+* smiles:
+** CC(OP([O-])(=O)OP(=O)([O-])OCC1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23))))CNC(=O)CCC%11(C)(C(CC(=O)N)C%13(C%14(C)(C(C)(CC(N)=O)C(CCC(N)=O)C7(=[N+]([Co--]8%12(CC6(C(O)C(C(N5(C=NC4(C(N)=NC=NC=45)))O6)O))([N+]%10(C(=CC9(C(CCC(N)=O)C(C)(CC(N)=O)C(=C(C)7)[N+]8=9))C(C)(C)C(CCC(N)=O)C=%10C(C)=C%11N%12%13)))%14))))
+* common name:
+** adenosylcobinamide-GDP
+* inchi key:
+** InChIKey=IQTYKHRKNGVJEO-RRMAJTJESA-K
+* molecular weight:
+** 1663.504    
+* Synonym(s):
+** Adenosine-GDP-cobinamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[COBALAMINSYN-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06510 C06510]
+* HMDB : HMDB12185
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60487 60487]
+* BIGG : agdpcbi
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=70678596 70678596]
+{{#set: smiles=CC(OP([O-])(=O)OP(=O)([O-])OCC1(OC(C(O)C(O)1)N3(C=NC2(C(=O)NC(N)=NC=23))))CNC(=O)CCC%11(C)(C(CC(=O)N)C%13(C%14(C)(C(C)(CC(N)=O)C(CCC(N)=O)C7(=[N+]([Co--]8%12(CC6(C(O)C(C(N5(C=NC4(C(N)=NC=NC=45)))O6)O))([N+]%10(C(=CC9(C(CCC(N)=O)C(C)(CC(N)=O)C(=C(C)7)[N+]8=9))C(C)(C)C(CCC(N)=O)C=%10C(C)=C%11N%12%13)))%14))))}}
+{{#set: common name=adenosylcobinamide-GDP}}
+{{#set: inchi key=InChIKey=IQTYKHRKNGVJEO-RRMAJTJESA-K}}
+{{#set: molecular weight=1663.504    }}
+{{#set: common name=Adenosine-GDP-cobinamide}}
+{{#set: reversible reaction associated=COBALAMINSYN-RXN}}

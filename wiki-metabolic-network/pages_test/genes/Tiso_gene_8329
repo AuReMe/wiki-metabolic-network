@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8329 ==
+* right end position:
+** 4666
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3317
+* centisome position:
+** 32.082405    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GALACTUROISOM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GLUCUROISOM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7248]]
+* [[PWY-7247]]
+* [[GALACTUROCAT-PWY]]
+== External links  ==
+{{#set: right end position=4666}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3317}}
+{{#set: centisome position=32.082405    }}
+{{#set: reaction associated=GALACTUROISOM-RXN|GLUCUROISOM-RXN}}
+{{#set: pathway associated=PWY-7248|PWY-7247|GALACTUROCAT-PWY}}

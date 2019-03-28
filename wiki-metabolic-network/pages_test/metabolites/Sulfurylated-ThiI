@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Sulfurylated-ThiI Sulfurylated-ThiI] ==
+* common name:
+** an S-sulfanyl-[ThiI sulfur-carrier protein]
+* Synonym(s):
+** a sulfurylated sulfur-carrier protein ThiI
+** a ThiI persulfide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14382]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-9787]]
+== External links  ==
+{{#set: common name=an S-sulfanyl-[ThiI sulfur-carrier protein]}}
+{{#set: common name=a sulfurylated sulfur-carrier protein ThiI|a ThiI persulfide}}
+{{#set: produced by=RXN-14382}}
+{{#set: reversible reaction associated=RXN-9787}}

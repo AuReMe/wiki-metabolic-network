@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7631 ==
+* right end position:
+** 5450
+* transcription direction:
+** POSITIVE
+* left end position:
+** 47
+* centisome position:
+** 0.42883214    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5450}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=47}}
+{{#set: centisome position=0.42883214    }}
+{{#set: reaction associated=PEPTIDE-ASPARTATE-BETA-DIOXYGENASE-RXN}}

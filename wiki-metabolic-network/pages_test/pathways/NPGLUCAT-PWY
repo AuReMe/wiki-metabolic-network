@@ -1,0 +1,68 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=NPGLUCAT-PWY NPGLUCAT-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183924 TAX-183924]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183967 TAX-183967]
+* common name:
+** Entner-Doudoroff pathway II (non-phosphorylative)
+* Synonym(s):
+** non-phosphorylated glucose catabolism
+** glucose degradation
+** non-phosphorylated glucose degradation
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''9''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUCONOLACT-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_1947]]
+*** [[Tiso_gene_15098]]
+*** [[Tiso_gene_1948]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[GLYCERALDEHYDE-DEHYDRO-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7322]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DHDOGALDOL-RXN DHDOGALDOL-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GKI-RXN GKI-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCONATE-DEHYDRATASE-RXN GLUCONATE-DEHYDRATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCOSE-1-DEHYDROGENASE-NADP+-RXN GLUCOSE-1-DEHYDROGENASE-NADP+-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUFLAVREDUCT-RXN PYRUFLAVREDUCT-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-183924}}
+{{#set: taxonomic range=TAX-183967}}
+{{#set: common name=Entner-Doudoroff pathway II (non-phosphorylative)}}
+{{#set: common name=non-phosphorylated glucose catabolism|glucose degradation|non-phosphorylated glucose degradation}}
+{{#set: reaction found=4}}
+{{#set: total reaction=9}}
+{{#set: completion rate=44.0}}

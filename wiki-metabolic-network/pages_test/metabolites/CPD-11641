@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11641 CPD-11641] ==
+* smiles:
+** CC3(C2(C=CC(OC1(OC(CO)C(O)C(O)C(O)1))=CC=2OC(=O)C=3))
+* common name:
+** 4-methylumbelliferyl glucoside
+* inchi key:
+** InChIKey=YUDPTGPSBJVHCN-YMILTQATSA-N
+* molecular weight:
+** 338.313    
+* Synonym(s):
+** 4-MU-glucoside
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10769]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB02639
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2733779 2733779]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2015550.html 2015550]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=91117 91117]
+{{#set: smiles=CC3(C2(C=CC(OC1(OC(CO)C(O)C(O)C(O)1))=CC=2OC(=O)C=3))}}
+{{#set: common name=4-methylumbelliferyl glucoside}}
+{{#set: inchi key=InChIKey=YUDPTGPSBJVHCN-YMILTQATSA-N}}
+{{#set: molecular weight=338.313    }}
+{{#set: common name=4-MU-glucoside}}
+{{#set: consumed by=RXN-10769}}

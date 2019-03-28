@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BCCP-dimers BCCP-dimers] ==
+* common name:
+** a biotinylated [BCCP dimer]
+* Synonym(s):
+** a biotinylated [biotin-carboxy-carrier-protein dimer]
+
+== Reaction(s) known to consume the compound ==
+* [[BIOTIN-CARBOXYL-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-7101]]
+* [[RXN0-5055]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a biotinylated [BCCP dimer]}}
+{{#set: common name=a biotinylated [biotin-carboxy-carrier-protein dimer]}}
+{{#set: consumed by=BIOTIN-CARBOXYL-RXN}}
+{{#set: produced by=RXN-7101|RXN0-5055}}

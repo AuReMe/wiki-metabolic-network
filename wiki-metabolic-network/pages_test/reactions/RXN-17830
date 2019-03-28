@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17830 RXN-17830] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha-galactosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.22 EC-3.2.1.22]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CPD0-2500]][c] '''=>''' 1 [[P-NITROPHENOL]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[D-galactopyranose]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 p-nitrophenyl-&alpha;-D-galactopyranoside[c] '''=>''' 1 4-nitrophenol[c] '''+''' 1 H+[c] '''+''' 1 D-galactopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_3392]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha-galactosidase}}
+{{#set: ec number=EC-3.2.1.22}}
+{{#set: gene associated=Tiso_gene_4615|Tiso_gene_3392}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

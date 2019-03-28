@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Uridine32-in-tRNA Uridine32-in-tRNA] ==
+* common name:
+** a uridine32 in tRNA
+* Synonym(s):
+** a tRNA uridine32
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11842]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a uridine32 in tRNA}}
+{{#set: common name=a tRNA uridine32}}
+{{#set: consumed by=RXN-11842}}

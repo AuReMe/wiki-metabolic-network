@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-GLUCURONOLACTONE D-GLUCURONOLACTONE] ==
+* smiles:
+** C1(=O)(C(O)C(O)[CH](C(O)C=O)O1)
+* common name:
+** D-glucurono-6,3-lactone
+* inchi key:
+** InChIKey=UYUXSRADSPPKRZ-SKNVOMKLSA-N
+* molecular weight:
+** 176.126    
+* Synonym(s):
+** D-glucurono-3,6-lactone
+** D-glucuronolactone
+** glucuronolactone
+** D-glucofuranuronate &gamma;-lactone
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14225]]
+== External links  ==
+* CAS : 32449-92-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=92283 92283]
+* HMDB : HMDB06355
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06430 C06430]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.190202.html 190202]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18268 18268]
+* METABOLIGHTS : MTBLC18268
+{{#set: smiles=C1(=O)(C(O)C(O)[CH](C(O)C=O)O1)}}
+{{#set: common name=D-glucurono-6,3-lactone}}
+{{#set: inchi key=InChIKey=UYUXSRADSPPKRZ-SKNVOMKLSA-N}}
+{{#set: molecular weight=176.126    }}
+{{#set: common name=D-glucurono-3,6-lactone|D-glucuronolactone|glucuronolactone|D-glucofuranuronate &gamma;-lactone}}
+{{#set: reversible reaction associated=RXN-14225}}

@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8608 CPD-8608] ==
+* smiles:
+** CC(C)CCCC([CH]4(C1(C)(C(C=O)(C2(=C(CC1)C3(C)([CH](CC2)C(C)(C)C(O)CC3)))CC4)))C
+* common name:
+** 4,4-dimethyl-14&alpha;-formyl-5&alpha;-cholesta-8-en-3&beta;-ol
+* inchi key:
+** InChIKey=MKMLAQLNFVFNRK-PUXRVUTHSA-N
+* molecular weight:
+** 442.724    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-13]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-12]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15698824 15698824]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87060 87060]
+* HMDB : HMDB12159
+{{#set: smiles=CC(C)CCCC([CH]4(C1(C)(C(C=O)(C2(=C(CC1)C3(C)([CH](CC2)C(C)(C)C(O)CC3)))CC4)))C}}
+{{#set: common name=4,4-dimethyl-14&alpha;-formyl-5&alpha;-cholesta-8-en-3&beta;-ol}}
+{{#set: inchi key=InChIKey=MKMLAQLNFVFNRK-PUXRVUTHSA-N}}
+{{#set: molecular weight=442.724    }}
+{{#set: consumed by=RXN66-13}}
+{{#set: produced by=RXN66-12}}

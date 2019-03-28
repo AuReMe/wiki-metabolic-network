@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=General-Phos-Protein-Substrates General-Phos-Protein-Substrates] ==
+* common name:
+** a phosphoprotein
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.7.11.22-RXN]]
+== External links  ==
+{{#set: common name=a phosphoprotein}}
+{{#set: reversible reaction associated=2.7.11.22-RXN}}

@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PRICI PRICI] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase, cytosol
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PHOSPHORIBOSYL-FORMIMINO-AICAR-P]][c] '''=>''' 1.0 [[PHOSPHORIBULOSYL-FORMIMINO-AICAR-P]][c]
+* With common name(s):
+** 1.0 1-(5-phospho-&beta;-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide[c] '''=>''' 1.0 phosphoribulosylformimino-AICAR-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11199]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_1565]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase, cytosol}}
+{{#set: gene associated=Tiso_gene_11199|Tiso_gene_1565}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

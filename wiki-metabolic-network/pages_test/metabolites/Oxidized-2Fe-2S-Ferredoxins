@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Oxidized-2Fe-2S-Ferredoxins Oxidized-2Fe-2S-Ferredoxins] ==
+* common name:
+** an oxidized [2Fe-2S] ferredoxin
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14950]]
+* [[RXN-14957]]
+* [[RXN-14959]]
+* [[RXN-17472]]
+* [[RXN0-949]]
+* [[2.8.1.6-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an oxidized [2Fe-2S] ferredoxin}}
+{{#set: produced by=RXN-14950|RXN-14957|RXN-14959|RXN-17472|RXN0-949|2.8.1.6-RXN}}

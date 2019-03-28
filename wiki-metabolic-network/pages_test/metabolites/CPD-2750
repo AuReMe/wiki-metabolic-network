@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-2750 CPD-2750] ==
+* smiles:
+** C1(=O)(C(O)C[CH](N(C)1)C2(C=NC=CC=2))
+* common name:
+** trans-3'-hydroxycotinine
+* inchi key:
+** InChIKey=XOKCJXZZNAUIQN-DTWKUNHWSA-N
+* molecular weight:
+** 192.217    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-162]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-161]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=107963 107963]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.97080.html 97080]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71182 71182]
+* METABOLIGHTS : MTBLC71182
+* HMDB : HMDB01390
+{{#set: smiles=C1(=O)(C(O)C[CH](N(C)1)C2(C=NC=CC=2))}}
+{{#set: common name=trans-3'-hydroxycotinine}}
+{{#set: inchi key=InChIKey=XOKCJXZZNAUIQN-DTWKUNHWSA-N}}
+{{#set: molecular weight=192.217    }}
+{{#set: consumed by=RXN66-162}}
+{{#set: produced by=RXN66-161}}

@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8626 RXN-8626] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.177 EC-2.7.1.177]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[THR]][c] '''=>''' 1 [[ADP]][c] '''+''' 1 [[L-THREONINE-O-3-PHOSPHATE]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 L-threonine[c] '''=>''' 1 ADP[c] '''+''' 1 L-threonine 3-O-phosphate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8616]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_16943]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-5443]], aminopropanol phosphate biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5443 PWY-5443]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=33707 33707]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R06531 R06531]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.7.1.177}}
+{{#set: gene associated=Tiso_gene_8616|Tiso_gene_16943}}
+{{#set: in pathway=PWY-5443}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

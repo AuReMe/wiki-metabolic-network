@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.6.14-RXN 3.1.6.14-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** n-acetylglucosamine-6-sulfatase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.6.14 EC-3.1.6.14]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Heparan-NAc-Glc-6S]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Heparan-NAc-Glc]][c] '''+''' 1 [[SULFATE]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 [heparan sulfate]-&alpha;-N-acetyl-D-glucosamine 6-O-sulfate[c] '''+''' 1 H2O[c] '''=>''' 1 a [heparan]-N-acetyl-&alpha;-D-glucosamine[c] '''+''' 1 sulfate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18170]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P15586 P15586]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=n-acetylglucosamine-6-sulfatase}}
+{{#set: ec number=EC-3.1.6.14}}
+{{#set: gene associated=Tiso_gene_18170}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

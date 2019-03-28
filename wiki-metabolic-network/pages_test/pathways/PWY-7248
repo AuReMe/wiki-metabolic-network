@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7248 PWY-7248] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** pectin degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[GALACTUROISOM-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_19097]]
+*** [[Tiso_gene_8329]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GALACTURAN-14-ALPHA-GALACTURONIDASE-RXN GALACTURAN-14-ALPHA-GALACTURONIDASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PECTINESTERASE-RXN PECTINESTERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14362 RXN-14362]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14753 RXN-14753]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=pectin degradation III}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

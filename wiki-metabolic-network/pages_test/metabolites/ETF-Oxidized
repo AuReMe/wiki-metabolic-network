@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ETF-Oxidized ETF-Oxidized] ==
+* common name:
+** an oxidized electron-transfer flavoprotein
+* Synonym(s):
+** an oxidized ETF
+** an oxidized electron-transferring flavoprotein
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16557]]
+* [[RXN0-2301]]
+* [[RXN66-576]]
+* [[SARCOSINE-DEHYDROGENASE-RXN]]
+* [[RXN-17784]]
+* [[DIMETHYLGLYCINE-DEHYDROGENASE-RXN]]
+* [[ACYLCOADEHYDROG-RXN]]
+* [[RXN-17788]]
+* [[RXN-17796]]
+* [[RXN-17779]]
+* [[RXN-13615]]
+* [[RXN-13451]]
+* [[RXN66-577]]
+* [[RXN-17783]]
+* [[RXN-16540]]
+* [[RXN-17792]]
+* [[RXN-14131]]
+* [[RXN-17775]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-11734]]
+* [[RXN-14262]]
+* [[1.5.5.1-RXN]]
+* [[RXN-14278]]
+* [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+* [[RXN-14229]]
+== External links  ==
+{{#set: common name=an oxidized electron-transfer flavoprotein}}
+{{#set: common name=an oxidized ETF|an oxidized electron-transferring flavoprotein}}
+{{#set: consumed by=RXN-16557|RXN0-2301|RXN66-576|SARCOSINE-DEHYDROGENASE-RXN|RXN-17784|DIMETHYLGLYCINE-DEHYDROGENASE-RXN|ACYLCOADEHYDROG-RXN|RXN-17788|RXN-17796|RXN-17779|RXN-13615|RXN-13451|RXN66-577|RXN-17783|RXN-16540|RXN-17792|RXN-14131|RXN-17775}}
+{{#set: reversible reaction associated=RXN-11734|RXN-14262|1.5.5.1-RXN|RXN-14278|LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN|RXN-14229}}

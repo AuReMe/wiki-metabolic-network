@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5874 PWY-5874] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** heme degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[BILIVERDIN-REDUCTASE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[HEME-OXYGENASE-DECYCLIZING-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19364]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=heme degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,70 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CMP CMP] ==
+* smiles:
+** C(C2(C(C(C(N1(C(N=C(C=C1)N)=O))O2)O)O))OP([O-])([O-])=O
+* common name:
+** CMP
+* inchi key:
+** InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
+* molecular weight:
+** 321.183    
+* Synonym(s):
+** 5'-cytidylic acid
+** cytidine 5'-monophosphate
+** cytidylate
+** cytidylic acid
+** cytidine-P
+** cytidine-monophosphate
+** cytidine-phosphate
+** cytidine 5'-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14065]]
+* [[RXN-14026]]
+* [[ATCM]]
+* [[ATCMf]]
+* [[RXN-11832]]
+== Reaction(s) known to produce the compound ==
+* [[DGTCY]]
+* [[DUTCP]]
+* [[DATCY]]
+* [[ITCY]]
+* [[RXN-12198]]
+* [[GTCY]]
+* [[UTCY]]
+* [[DTTGY]]
+* [[DCTCP]]
+* [[RXN0-302]]
+* [[KDOTRANS2-RXN]]
+* [[P-PANTOCYSLIG-RXN]]
+* [[RXN0-383]]
+* [[ATCY]]
+* [[2.7.8.11-RXN]]
+* [[CYTIKIN-RXN]]
+* [[PHOSPHAGLYPSYN-RXN]]
+* [[RXN-12200]]
+* [[2.7.8.24-RXN]]
+* [[ETHANOLAMINEPHOSPHOTRANSFERASE-RXN]]
+* [[RXN-17731]]
+* [[KDOTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 63-37-6
+* BIGG : cmp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7058165 7058165]
+* HMDB : HMDB00095
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00055 C00055]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5414497.html 5414497]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60377 60377]
+* METABOLIGHTS : MTBLC60377
+{{#set: smiles=C(C2(C(C(C(N1(C(N=C(C=C1)N)=O))O2)O)O))OP([O-])([O-])=O}}
+{{#set: common name=CMP}}
+{{#set: inchi key=InChIKey=IERHLVCPSMICTF-XVFCMESISA-L}}
+{{#set: molecular weight=321.183    }}
+{{#set: common name=5'-cytidylic acid|cytidine 5'-monophosphate|cytidylate|cytidylic acid|cytidine-P|cytidine-monophosphate|cytidine-phosphate|cytidine 5'-phosphate}}
+{{#set: consumed by=RXN-14065|RXN-14026|ATCM|ATCMf|RXN-11832}}
+{{#set: produced by=DGTCY|DUTCP|DATCY|ITCY|RXN-12198|GTCY|UTCY|DTTGY|DCTCP|RXN0-302|KDOTRANS2-RXN|P-PANTOCYSLIG-RXN|RXN0-383|ATCY|2.7.8.11-RXN|CYTIKIN-RXN|PHOSPHAGLYPSYN-RXN|RXN-12200|2.7.8.24-RXN|ETHANOLAMINEPHOSPHOTRANSFERASE-RXN|RXN-17731|KDOTRANS-RXN}}

@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5669 ==
+* right end position:
+** 8099
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7803
+* centisome position:
+** 59.651405    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.9.3-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NADH-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY0-901]]
+* [[PWY-6281]]
+== External links  ==
+{{#set: right end position=8099}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7803}}
+{{#set: centisome position=59.651405    }}
+{{#set: reaction associated=2.7.9.3-RXN|NADH-DEHYDROGENASE-RXN}}
+{{#set: pathway associated=PWY0-901|PWY-6281}}

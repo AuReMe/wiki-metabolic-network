@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14224 RXN-14224] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.3 EC-1.2.1.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-15163]][c] '''+''' 1 [[NAD]][c] '''+''' 1 [[WATER]][c] '''<=>''' 2 [[PROTON]][c] '''+''' 1 [[CPD-661]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 prop-2-ynal[c] '''+''' 1 NAD+[c] '''+''' 1 H2O[c] '''<=>''' 2 H+[c] '''+''' 1 propynoate[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3513]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_7322]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30882 30882]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02940 R02940]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-1.2.1.3}}
+{{#set: gene associated=Tiso_gene_3513|Tiso_gene_7322}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

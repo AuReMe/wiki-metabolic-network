@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=holo-Transcarboxylases holo-Transcarboxylases] ==
+* common name:
+** a holo-[methylmalonyl-CoA:pyruvate carboxytransferase]
+* Synonym(s):
+** holo-[methylmalonyl-CoA:pyruvate carboxytransferase]
+** biotin-[methylmalonyl-CoA:pyruvate carboxytransferase]
+** holo-[methylmalonyl-CoA-carboxyltransferase]
+** biotin-[methylmalonyl-CoA-carboxyltransferase]
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[6.3.4.9-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a holo-[methylmalonyl-CoA:pyruvate carboxytransferase]}}
+{{#set: common name=holo-[methylmalonyl-CoA:pyruvate carboxytransferase]|biotin-[methylmalonyl-CoA:pyruvate carboxytransferase]|holo-[methylmalonyl-CoA-carboxyltransferase]|biotin-[methylmalonyl-CoA-carboxyltransferase]}}
+{{#set: produced by=6.3.4.9-RXN}}

@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.5.5.1-RXN 3.5.5.1-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** nitrilase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.5.1 EC-3.5.5.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Nitriles]][c] '''+''' 2 [[WATER]][c] '''<=>''' 1 [[Carboxylates]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 a nitrile[c] '''+''' 2 H2O[c] '''<=>''' 1 a carboxylate[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10996]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21724 21724]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00540 R00540]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P10045 P10045]
+** [http://www.uniprot.org/uniprot/P20960 P20960]
+** [http://www.uniprot.org/uniprot/Q59329 Q59329]
+** [http://www.uniprot.org/uniprot/P32961 P32961]
+** [http://www.uniprot.org/uniprot/P32962 P32962]
+** [http://www.uniprot.org/uniprot/Q55949 Q55949]
+** [http://www.uniprot.org/uniprot/Q42965 Q42965]
+** [http://www.uniprot.org/uniprot/Q42966 Q42966]
+** [http://www.uniprot.org/uniprot/Q23384 Q23384]
+** [http://www.uniprot.org/uniprot/P46010 P46010]
+** [http://www.uniprot.org/uniprot/O04907 O04907]
+** [http://www.uniprot.org/uniprot/P46011 P46011]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=nitrilase}}
+{{#set: ec number=EC-3.5.5.1}}
+{{#set: gene associated=Tiso_gene_10996}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

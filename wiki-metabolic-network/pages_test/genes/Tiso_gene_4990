@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4990 ==
+* right end position:
+** 2693
+* transcription direction:
+** POSITIVE
+* left end position:
+** 742
+* centisome position:
+** 5.2796354    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CATAL-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[CYTOCHROME-C-PEROXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5506]]
+* [[DETOX1-PWY]]
+* [[DETOX1-PWY-1]]
+== External links  ==
+{{#set: right end position=2693}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=742}}
+{{#set: centisome position=5.2796354    }}
+{{#set: reaction associated=CATAL-RXN|CYTOCHROME-C-PEROXIDASE-RXN}}
+{{#set: pathway associated=PWY-5506|DETOX1-PWY|DETOX1-PWY-1}}

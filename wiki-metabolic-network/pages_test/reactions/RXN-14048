@@ -1,0 +1,34 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14048 RXN-14048] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-CYSTATHIONINE]][c] '''=>''' 1 [[CPD-15056]][c] '''+''' 1 [[CYS]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 L-cystathionine[c] '''=>''' 1 (2Z)-2-aminobut-2-enoate[c] '''+''' 1 L-cysteine[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3732]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[HOMOCYSDEGR-PWY]], L-cysteine biosynthesis III (from L-homocysteine): [http://metacyc.org/META/NEW-IMAGE?object=HOMOCYSDEGR-PWY HOMOCYSDEGR-PWY]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-801]], L-homocysteine and L-cysteine interconversion: [http://metacyc.org/META/NEW-IMAGE?object=PWY-801 PWY-801]
+** '''3''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=24913 24913]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_3732}}
+{{#set: in pathway=HOMOCYSDEGR-PWY|PWY-801}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

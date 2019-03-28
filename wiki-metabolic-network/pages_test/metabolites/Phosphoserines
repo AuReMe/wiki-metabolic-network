@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Phosphoserines Phosphoserines] ==
+* common name:
+** L(or D)-O-phosphoserine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[PSERPHOSPHA-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=L(or D)-O-phosphoserine}}
+{{#set: consumed by=PSERPHOSPHA-RXN}}

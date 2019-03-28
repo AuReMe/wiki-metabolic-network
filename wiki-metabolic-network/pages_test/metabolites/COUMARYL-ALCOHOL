@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=COUMARYL-ALCOHOL COUMARYL-ALCOHOL] ==
+* smiles:
+** C(=CC1(=CC=C(O)C=C1))CO
+* common name:
+** 4-coumaryl alcohol
+* inchi key:
+** InChIKey=PTNLHDGQWUGONS-OWOJBTEDSA-N
+* molecular weight:
+** 150.177    
+* Synonym(s):
+** p-coumaryl alcohol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-1102]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280535 5280535]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444166.html 4444166]
+* HMDB : HMDB03654
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28386 28386]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02646 C02646]
+{{#set: smiles=C(=CC1(=CC=C(O)C=C1))CO}}
+{{#set: common name=4-coumaryl alcohol}}
+{{#set: inchi key=InChIKey=PTNLHDGQWUGONS-OWOJBTEDSA-N}}
+{{#set: molecular weight=150.177    }}
+{{#set: common name=p-coumaryl alcohol}}
+{{#set: produced by=RXN-1102}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18111 ==
+* right end position:
+** 5385
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3271
+* centisome position:
+** 60.641457    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[URITRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5385}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3271}}
+{{#set: centisome position=60.641457    }}
+{{#set: reaction associated=URITRANS-RXN}}

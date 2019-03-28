@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_879 ==
+* right end position:
+** 9477
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7505
+* centisome position:
+** 26.956648    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.11.5-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9477}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7505}}
+{{#set: centisome position=26.956648    }}
+{{#set: reaction associated=3.4.11.5-RXN}}

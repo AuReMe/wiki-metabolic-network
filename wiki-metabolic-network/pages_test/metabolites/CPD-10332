@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10332 CPD-10332] ==
+* smiles:
+** C=C1(C2(O)(CC3(C1)(C([CH]4(C(C)(CCCC(CO)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))
+* common name:
+** gibberellin44 (open lactone form)
+* inchi key:
+** InChIKey=AXEUUXHMKSPQAI-YTJHIPEWSA-L
+* molecular weight:
+** 362.422    
+* Synonym(s):
+** gibberellin A44 open lactone
+** gibberellin A44 diacid
+** GA44 open lactone
+** GA44 (open lactone form)
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-168]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-167]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104170008
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25243940 25243940]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27531 27531]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06095 C06095]
+{{#set: smiles=C=C1(C2(O)(CC3(C1)(C([CH]4(C(C)(CCCC(CO)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))}}
+{{#set: common name=gibberellin44 (open lactone form)}}
+{{#set: inchi key=InChIKey=AXEUUXHMKSPQAI-YTJHIPEWSA-L}}
+{{#set: molecular weight=362.422    }}
+{{#set: common name=gibberellin A44 open lactone|gibberellin A44 diacid|GA44 open lactone|GA44 (open lactone form)}}
+{{#set: consumed by=RXN1F-168}}
+{{#set: produced by=RXN1F-167}}

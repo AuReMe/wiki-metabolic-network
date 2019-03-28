@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALPHA-D-GALACTOSE ALPHA-D-GALACTOSE] ==
+* smiles:
+** C(O)C1(OC(O)C(O)C(O)C(O)1)
+* common name:
+** &alpha;-D-galactose
+* inchi key:
+** InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
+* molecular weight:
+** 180.157    
+* Synonym(s):
+** 6-(hydroxymethyl)tetrahydropyran-2,3,4,5-tetraol
+** &alpha;-D-galactopyranose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-11501]]
+* [[RXN-11502]]
+* [[RXN-12088]]
+* [[RXN-17754]]
+== Reaction(s) of unknown directionality ==
+* [[ALDOSE1EPIM-RXN]]
+* [[GALACTOKIN-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=439357 439357]
+* HMDB : HMDB00143
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00984 C00984]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.388480.html 388480]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28061 28061]
+* METABOLIGHTS : MTBLC28061
+{{#set: smiles=C(O)C1(OC(O)C(O)C(O)C(O)1)}}
+{{#set: common name=&alpha;-D-galactose}}
+{{#set: inchi key=InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N}}
+{{#set: molecular weight=180.157    }}
+{{#set: common name=6-(hydroxymethyl)tetrahydropyran-2,3,4,5-tetraol|&alpha;-D-galactopyranose}}
+{{#set: produced by=RXN-11501|RXN-11502|RXN-12088|RXN-17754}}
+{{#set: reversible reaction associated=ALDOSE1EPIM-RXN|GALACTOKIN-RXN}}

@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16153 ==
+* right end position:
+** 4458
+* transcription direction:
+** POSITIVE
+* left end position:
+** 536
+* centisome position:
+** 11.782810    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLYOHMETRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5234]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-2161]]
+* [[PWY-1622]]
+* [[PWY-3841]]
+* [[1CMET2-PWY]]
+* [[PWY-3661]]
+* [[GLYSYN-PWY]]
+* [[PWY-5497]]
+* [[PWY-2201]]
+* [[PWY-181]]
+* [[PWY-3661-1]]
+== External links  ==
+{{#set: right end position=4458}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=536}}
+{{#set: centisome position=11.782810    }}
+{{#set: reaction associated=GLYOHMETRANS-RXN|RXN0-5234}}
+{{#set: pathway associated=PWY-2161|PWY-1622|PWY-3841|1CMET2-PWY|PWY-3661|GLYSYN-PWY|PWY-5497|PWY-2201|PWY-181|PWY-3661-1}}

@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-4821 RXN-4821] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.99 EC-3.5.99]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE]][c] '''+''' 1 [[PROTON]][c] '''<=>''' 1 [[L-ALPHA-AMINO-EPSILON-KETO-PIMELATE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 (S)-2,3,4,5-tetrahydrodipicolinate[c] '''+''' 1 H+[c] '''<=>''' 1 L-&alpha;-amino-&epsilon;-keto-pimelate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-2942]], L-lysine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2942 PWY-2942]
+** '''6''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=24797 24797]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04336 R04336]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-3.5.99}}
+{{#set: in pathway=PWY-2942}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

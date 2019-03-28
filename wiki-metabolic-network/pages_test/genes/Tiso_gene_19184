@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19184 ==
+* right end position:
+** 2270
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7
+* centisome position:
+** 0.27711797    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-12086]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12579]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[TRIACYLGLYCEROL-LIPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[LIPAS-PWY]]
+* [[PWY-6857]]
+== External links  ==
+{{#set: right end position=2270}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7}}
+{{#set: centisome position=0.27711797    }}
+{{#set: reaction associated=RXN-12086|RXN-12579|TRIACYLGLYCEROL-LIPASE-RXN}}
+{{#set: pathway associated=LIPAS-PWY|PWY-6857}}

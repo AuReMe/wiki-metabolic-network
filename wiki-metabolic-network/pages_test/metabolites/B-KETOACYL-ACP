@@ -1,0 +1,25 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=B-KETOACYL-ACP B-KETOACYL-ACP] ==
+* common name:
+** a 3-oxoacyl-[acp]
+* Synonym(s):
+** a beta-keto-acyl-acp
+** a 3-oxoacyl-[acyl-carrier protein]
+** acetoacyl-ACP
+** CH3(CH2)xCOCH2CO-S-ACP
+** a beta-keto-acyl-[acyl-carrier-protein]
+** a &beta;-ketoacyl-[acp]
+** a 3-ketoacyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[3-OXOACYL-ACP-REDUCT-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3-OXOACYL-ACP-SYNTH-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.41-RXN]]
+== External links  ==
+{{#set: common name=a 3-oxoacyl-[acp]}}
+{{#set: common name=a beta-keto-acyl-acp|a 3-oxoacyl-[acyl-carrier protein]|acetoacyl-ACP|CH3(CH2)xCOCH2CO-S-ACP|a beta-keto-acyl-[acyl-carrier-protein]|a &beta;-ketoacyl-[acp]|a 3-ketoacyl-[acp]}}
+{{#set: consumed by=3-OXOACYL-ACP-REDUCT-RXN}}
+{{#set: produced by=3-OXOACYL-ACP-SYNTH-RXN}}
+{{#set: reversible reaction associated=2.3.1.41-RXN}}

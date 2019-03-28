@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9105 ==
+* right end position:
+** 1868
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 702
+* centisome position:
+** 7.3048906    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1868}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=702}}
+{{#set: centisome position=7.3048906    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

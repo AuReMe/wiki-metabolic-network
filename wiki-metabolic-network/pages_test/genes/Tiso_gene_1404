@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1404 ==
+* right end position:
+** 10758
+* transcription direction:
+** POSITIVE
+* left end position:
+** 8802
+* centisome position:
+** 36.91959    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=10758}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=8802}}
+{{#set: centisome position=36.91959    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

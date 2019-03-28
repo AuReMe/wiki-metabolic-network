@@ -1,0 +1,77 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11832 RXN-11832] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ump-cmp_kinase
+** cytidylate_kinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.4.14 EC-2.7.4.14]
+** [http://enzyme.expasy.org/EC/2.7.4.25 EC-2.7.4.25]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CMP]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[ADP]][c] '''+''' 1 [[CDP]][c]
+* With common name(s):
+** 1 CMP[c] '''+''' 1 ATP[c] '''=>''' 1 ADP[c] '''+''' 1 CDP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19734]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14116]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9739]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2386]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7205]], CMP phosphorylation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7205 PWY-7205]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11600 11600]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00512 R00512]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O59845 O59845]
+** [http://www.uniprot.org/uniprot/Q29561 Q29561]
+** [http://www.uniprot.org/uniprot/P43892 P43892]
+** [http://www.uniprot.org/uniprot/Q58071 Q58071]
+** [http://www.uniprot.org/uniprot/Q9CEY1 Q9CEY1]
+** [http://www.uniprot.org/uniprot/P57064 P57064]
+** [http://www.uniprot.org/uniprot/P0A6I0 P0A6I0]
+** [http://www.uniprot.org/uniprot/P47572 P47572]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ump-cmp_kinase}}
+{{#set: common name=cytidylate_kinase}}
+{{#set: ec number=EC-2.7.4.14}}
+{{#set: ec number=EC-2.7.4.25}}
+{{#set: gene associated=Tiso_gene_19734|Tiso_gene_14116|Tiso_gene_9739|Tiso_gene_2386}}
+{{#set: in pathway=PWY-7205}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|manual-primary_network|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

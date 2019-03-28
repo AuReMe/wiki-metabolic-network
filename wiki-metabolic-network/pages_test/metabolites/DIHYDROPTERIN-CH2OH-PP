@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROPTERIN-CH2OH-PP DIHYDROPTERIN-CH2OH-PP] ==
+* smiles:
+** C2(C(COP(=O)([O-])OP(=O)([O-])[O-])=NC1(C(=O)NC(N)=NC=1N2))
+* common name:
+** (7,8-dihydropterin-6-yl)methyl diphosphate
+* inchi key:
+** InChIKey=FCQGJGLSOWZZON-UHFFFAOYSA-K
+* molecular weight:
+** 352.116    
+* Synonym(s):
+** 6-hydroxymethyl-dihydropterin pyrophosphate
+** 6-hydroxymethyl-dihydropterin diphosphate
+** 6-hydroxymethyl-7,8-dihydropterin diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[H2PTEROATESYNTH-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[H2PTERIDINEPYROPHOSPHOKIN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244074 25244074]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=73083 73083]
+* BIGG : 6hmhptpp
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04807 C04807]
+{{#set: smiles=C2(C(COP(=O)([O-])OP(=O)([O-])[O-])=NC1(C(=O)NC(N)=NC=1N2))}}
+{{#set: common name=(7,8-dihydropterin-6-yl)methyl diphosphate}}
+{{#set: inchi key=InChIKey=FCQGJGLSOWZZON-UHFFFAOYSA-K}}
+{{#set: molecular weight=352.116    }}
+{{#set: common name=6-hydroxymethyl-dihydropterin pyrophosphate|6-hydroxymethyl-dihydropterin diphosphate|6-hydroxymethyl-7,8-dihydropterin diphosphate}}
+{{#set: consumed by=H2PTEROATESYNTH-RXN}}
+{{#set: produced by=H2PTERIDINEPYROPHOSPHOKIN-RXN}}

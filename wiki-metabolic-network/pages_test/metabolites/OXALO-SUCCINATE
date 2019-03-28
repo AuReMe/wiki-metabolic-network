@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=OXALO-SUCCINATE OXALO-SUCCINATE] ==
+* smiles:
+** C(C([O-])=O)C(C(C(=O)[O-])=O)C([O-])=O
+* common name:
+** oxalosuccinate
+* inchi key:
+** InChIKey=UFSCUAXLTRFIDC-UHFFFAOYSA-K
+* molecular weight:
+** 187.085    
+* Synonym(s):
+** oxalo-succ
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-8642]]
+* [[RXN-9951]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05379 C05379]
+* HMDB : HMDB03974
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58931 58931]
+* METABOLIGHTS : MTBLC58931
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244267 25244267]
+{{#set: smiles=C(C([O-])=O)C(C(C(=O)[O-])=O)C([O-])=O}}
+{{#set: common name=oxalosuccinate}}
+{{#set: inchi key=InChIKey=UFSCUAXLTRFIDC-UHFFFAOYSA-K}}
+{{#set: molecular weight=187.085    }}
+{{#set: common name=oxalo-succ}}
+{{#set: reversible reaction associated=RXN-8642|RXN-9951}}

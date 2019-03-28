@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17127 RXN-17127] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lipoate-protein_ligase_a
+** lipoate-protein_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.3.1.20 EC-6.3.1.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[LIPOIC-ACID]][c] '''+''' 1 [[Lipoyl-Protein-L-Lysine]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[AMP]][c] '''+''' 1 [[Lipoyl-Protein-N6-lipoyllysine]][c]
+* With common name(s):
+** 1 (R)-lipoate[c] '''+''' 1 a [lipoyl-carrier protein]-L-lysine[c] '''+''' 1 ATP[c] '''=>''' 1 H+[c] '''+''' 1 diphosphate[c] '''+''' 1 AMP[c] '''+''' 1 a [lipoyl-carrier protein]-N6-lipoyl-L-lysine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17216]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4493]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17215]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_8713]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4494]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lipoate-protein_ligase_a}}
+{{#set: common name=lipoate-protein_ligase}}
+{{#set: ec number=EC-6.3.1.20}}
+{{#set: gene associated=Tiso_gene_17216|Tiso_gene_4493|Tiso_gene_17215|Tiso_gene_8713|Tiso_gene_4494}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

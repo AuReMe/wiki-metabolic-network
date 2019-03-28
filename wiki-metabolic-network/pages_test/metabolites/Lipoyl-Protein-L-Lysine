@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Lipoyl-Protein-L-Lysine Lipoyl-Protein-L-Lysine] ==
+* common name:
+** a [lipoyl-carrier protein]-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-947]]
+* [[RXN-17127]]
+* [[RXN0-5098]]
+* [[RXN-8655]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [lipoyl-carrier protein]-L-lysine}}
+{{#set: consumed by=RXN0-947|RXN-17127|RXN0-5098|RXN-8655}}

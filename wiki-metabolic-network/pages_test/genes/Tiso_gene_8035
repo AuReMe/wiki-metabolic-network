@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8035 ==
+* right end position:
+** 9857
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6898
+* centisome position:
+** 37.47691    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GTP-CYCLOHYDRO-II-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RIBOFLAVINSYNREDUC-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6168]]
+* [[RIBOSYN2-PWY]]
+== External links  ==
+{{#set: right end position=9857}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6898}}
+{{#set: centisome position=37.47691    }}
+{{#set: reaction associated=GTP-CYCLOHYDRO-II-RXN|RIBOFLAVINSYNREDUC-RXN}}
+{{#set: pathway associated=PWY-7539|PWY-6168|RIBOSYN2-PWY}}

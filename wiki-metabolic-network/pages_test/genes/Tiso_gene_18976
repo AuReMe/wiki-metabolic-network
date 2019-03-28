@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18976 ==
+* right end position:
+** 2441
+* transcription direction:
+** POSITIVE
+* left end position:
+** 13
+* centisome position:
+** 0.4847129    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10815]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-1581]]
+* [[PWY-7432]]
+* [[TYRFUMCAT-PWY]]
+* [[PWY-1422]]
+* [[PWY-6318]]
+== External links  ==
+{{#set: right end position=2441}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=13}}
+{{#set: centisome position=0.4847129    }}
+{{#set: reaction associated=4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN|RXN-10815}}
+{{#set: pathway associated=PWY-1581|PWY-7432|TYRFUMCAT-PWY|PWY-1422|PWY-6318}}

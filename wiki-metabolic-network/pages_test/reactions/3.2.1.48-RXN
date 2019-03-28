@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.48-RXN 3.2.1.48-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** sphingomyelinase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.26 EC-3.2.1.26]
+** [http://enzyme.expasy.org/EC/3.2.1.48 EC-3.2.1.48]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[SUCROSE]][c] '''=>''' 1 [[BETA-D-FRUCTOSE]][c] '''+''' 1 [[Glucopyranose]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 sucrose[c] '''=>''' 1 &beta;-D-fructofuranose[c] '''+''' 1 D-glucopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12644]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-621]], sucrose degradation III (sucrose invertase): [http://metacyc.org/META/NEW-IMAGE?object=PWY-621 PWY-621]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+* [[PWY66-373]], sucrose degradation V (sucrose &alpha;-glucosidase): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-373 PWY66-373]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=33795 33795]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00802 R00802]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=sphingomyelinase}}
+{{#set: ec number=EC-3.2.1.26}}
+{{#set: ec number=EC-3.2.1.48}}
+{{#set: gene associated=Tiso_gene_12644}}
+{{#set: in pathway=PWY-621|PWY66-373}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

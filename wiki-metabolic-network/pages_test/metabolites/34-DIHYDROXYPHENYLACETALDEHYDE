@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=34-DIHYDROXYPHENYLACETALDEHYDE 34-DIHYDROXYPHENYLACETALDEHYDE] ==
+* smiles:
+** C1(=CC(=C(O)C=C1C[CH]=O)O)
+* common name:
+** 3,4-dihydroxyphenylacetaldehyde
+* inchi key:
+** InChIKey=IADQVXRMSNIUEL-UHFFFAOYSA-N
+* molecular weight:
+** 152.149    
+* Synonym(s):
+** protocatechuatealdehyde
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN6666-4]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : 34dhpac
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=119219 119219]
+* HMDB : HMDB03791
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04043 C04043]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.106504.html 106504]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27978 27978]
+* METABOLIGHTS : MTBLC27978
+{{#set: smiles=C1(=CC(=C(O)C=C1C[CH]=O)O)}}
+{{#set: common name=3,4-dihydroxyphenylacetaldehyde}}
+{{#set: inchi key=InChIKey=IADQVXRMSNIUEL-UHFFFAOYSA-N}}
+{{#set: molecular weight=152.149    }}
+{{#set: common name=protocatechuatealdehyde}}
+{{#set: produced by=RXN6666-4}}

@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BETAINE_ALDEHYDE BETAINE_ALDEHYDE] ==
+* smiles:
+** C[N+](C)(C[CH]=O)C
+* common name:
+** betaine aldehyde
+* inchi key:
+** InChIKey=SXKNCCSPZDCRFD-UHFFFAOYSA-N
+* molecular weight:
+** 102.156    
+* Synonym(s):
+** glycine betaine aldehyde
+** N,N,N-trimethyl-2-oxoethylammonium
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17758]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-7230]]
+== Reaction(s) of unknown directionality ==
+* [[BADH-RXN]]
+* [[CHD-RXN]]
+* [[RXN-6268]]
+== External links  ==
+* CAS : 7418-61-3
+* BIGG : betald
+* DRUGBANK : DB04401
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=249 249]
+* HMDB : HMDB01252
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00576 C00576]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.244.html 244]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15710 15710]
+* METABOLIGHTS : MTBLC15710
+{{#set: smiles=C[N+](C)(C[CH]=O)C}}
+{{#set: common name=betaine aldehyde}}
+{{#set: inchi key=InChIKey=SXKNCCSPZDCRFD-UHFFFAOYSA-N}}
+{{#set: molecular weight=102.156    }}
+{{#set: common name=glycine betaine aldehyde|N,N,N-trimethyl-2-oxoethylammonium}}
+{{#set: consumed by=RXN-17758}}
+{{#set: produced by=RXN0-7230}}
+{{#set: reversible reaction associated=BADH-RXN|CHD-RXN|RXN-6268}}

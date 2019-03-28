@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ADENYLOSUCC ADENYLOSUCC] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=NC=NC=23)NC(CC(=O)[O-])C(=O)[O-])))
+* common name:
+** adenylo-succinate
+* inchi key:
+** InChIKey=OFBHPPMPBOJXRT-DPXQIYNJSA-J
+* molecular weight:
+** 459.265    
+* Synonym(s):
+** N6-(1,2-dicarboxyethyl)-AMP
+** adenylo-succ
+
+== Reaction(s) known to consume the compound ==
+* [[AAL_fum]]
+== Reaction(s) known to produce the compound ==
+* [[ADENYLOSUCCINATE-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[AMPSYN-RXN]]
+== External links  ==
+* CAS : 19240-42-7
+* BIGG : dcamp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878398 46878398]
+* HMDB : HMDB00536
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03794 C03794]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57567 57567]
+* METABOLIGHTS : MTBLC57567
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N3(C=NC2(C(=NC=NC=23)NC(CC(=O)[O-])C(=O)[O-])))}}
+{{#set: common name=adenylo-succinate}}
+{{#set: inchi key=InChIKey=OFBHPPMPBOJXRT-DPXQIYNJSA-J}}
+{{#set: molecular weight=459.265    }}
+{{#set: common name=N6-(1,2-dicarboxyethyl)-AMP|adenylo-succ}}
+{{#set: consumed by=AAL_fum}}
+{{#set: produced by=ADENYLOSUCCINATE-SYNTHASE-RXN}}
+{{#set: reversible reaction associated=AMPSYN-RXN}}

@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15372 ==
+* right end position:
+** 4184
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 132
+* centisome position:
+** 2.605606    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15117]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-5464]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7817]]
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+== External links  ==
+{{#set: right end position=4184}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=132}}
+{{#set: centisome position=2.605606    }}
+{{#set: reaction associated=RXN-15117|RXN-5464}}
+{{#set: pathway associated=PWY-7817|MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}

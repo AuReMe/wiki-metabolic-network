@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN3O-9780 RXN3O-9780] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1 EC-2.3.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CO-A]][c] '''+''' 1 [[Palmitoyl-ACPs]][c] '''=>''' 1 [[PALMITYL-COA]][c] '''+''' 1 [[ACP]][c]
+* With common name(s):
+** 1 coenzyme A[c] '''+''' 1 a palmitoyl-[acp][c] '''=>''' 1 palmitoyl-CoA[c] '''+''' 1 a holo-[acyl-carrier protein][c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7746]], mycobacterial sulfolipid biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7746 PWY-7746]
+** '''2''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-5994]], palmitate biosynthesis I (animals and fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5994 PWY-5994]
+** '''31''' reactions found over '''31''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[gap-filling]]
+** Source: [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+*** Tool: [[meneco]]
+**** Comment: [[added for gapfilling]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.3.1}}
+{{#set: in pathway=PWY-7746|PWY-5994}}
+{{#set: reconstruction category=gap-filling}}
+{{#set: reconstruction source=gap-filling-gapfilling_solution_with_meneco_draft_medium}}
+{{#set: reconstruction tool=meneco}}
+{{#set: reconstruction comment=added for gapfilling}}

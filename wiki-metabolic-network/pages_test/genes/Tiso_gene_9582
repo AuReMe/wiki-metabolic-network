@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9582 ==
+* right end position:
+** 3949
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1923
+* centisome position:
+** 20.859095    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.11.24-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: right end position=3949}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1923}}
+{{#set: centisome position=20.859095    }}
+{{#set: reaction associated=2.7.11.24-RXN|PROTEIN-KINASE-RXN|RXN-8443}}
+{{#set: pathway associated=PWY-5381}}

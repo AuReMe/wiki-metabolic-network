@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6943 PWY-6943] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** testosterone and androsterone degradation to androstendione
+* Synonym(s):
+** testosterone and androsterone degradation to androst-4-en-3,17-dione
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-12124]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14327]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.209-RXN 1.1.1.209-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.51-RXN 1.1.1.51-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=testosterone and androsterone degradation to androstendione}}
+{{#set: common name=testosterone and androsterone degradation to androst-4-en-3,17-dione}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

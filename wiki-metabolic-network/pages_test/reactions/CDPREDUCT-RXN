@@ -1,0 +1,76 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CDPREDUCT-RXN CDPREDUCT-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ribonucleoside-diphosphate_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.17.4.1 EC-1.17.4.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CDP]][c] '''+''' 1 [[Red-Thioredoxin]][c] '''=>''' 1 [[Ox-Thioredoxin]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[DCDP]][c]
+* With common name(s):
+** 1 CDP[c] '''+''' 1 a reduced thioredoxin[c] '''=>''' 1 an oxidized thioredoxin[c] '''+''' 1 H2O[c] '''+''' 1 dCDP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10617]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9916]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9915]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10138]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7184]], pyrimidine deoxyribonucleotides de novo biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7184 PWY-7184]
+** '''9''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7198]], pyrimidine deoxyribonucleotides de novo biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7198 PWY-7198]
+** '''6''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-6545]], pyrimidine deoxyribonucleotides de novo biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6545 PWY-6545]
+** '''8''' reactions found over '''9''' reactions in the full pathway
+* [[PWY0-166]], superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli): [http://metacyc.org/META/NEW-IMAGE?object=PWY0-166 PWY0-166]
+** '''12''' reactions found over '''17''' reactions in the full pathway
+* [[PWY-7210]], pyrimidine deoxyribonucleotides biosynthesis from CTP: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7210 PWY-7210]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28038 28038]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02024 R02024]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ribonucleoside-diphosphate_reductase}}
+{{#set: ec number=EC-1.17.4.1}}
+{{#set: gene associated=Tiso_gene_10617|Tiso_gene_9916|Tiso_gene_9915|Tiso_gene_10138}}
+{{#set: in pathway=PWY-7184|PWY-7198|PWY-6545|PWY0-166|PWY-7210}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

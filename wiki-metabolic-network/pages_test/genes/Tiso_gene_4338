@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4338 ==
+* right end position:
+** 14128
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10936
+* centisome position:
+** 72.84354    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.11.18-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14128}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10936}}
+{{#set: centisome position=72.84354    }}
+{{#set: reaction associated=2.7.11.18-RXN}}

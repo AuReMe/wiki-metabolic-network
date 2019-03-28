@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-10-METHENYL-THF-GLU-N 5-10-METHENYL-THF-GLU-N] ==
+* common name:
+** a 5,10-methenyltetrahydrofolate
+* Synonym(s):
+** a 5,10-methenyl-THF
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6321]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-576]]
+* [[RXN66-577]]
+== Reaction(s) of unknown directionality ==
+* [[METHENYLTHFCYCLOHYDRO-RXN]]
+* [[METHYLENETHFDEHYDROG-NADP-RXN]]
+== External links  ==
+{{#set: common name=a 5,10-methenyltetrahydrofolate}}
+{{#set: common name=a 5,10-methenyl-THF}}
+{{#set: consumed by=RXN-6321}}
+{{#set: produced by=RXN66-576|RXN66-577}}
+{{#set: reversible reaction associated=METHENYLTHFCYCLOHYDRO-RXN|METHYLENETHFDEHYDROG-NADP-RXN}}

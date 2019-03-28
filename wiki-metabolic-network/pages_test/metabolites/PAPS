@@ -1,0 +1,63 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PAPS PAPS] ==
+* smiles:
+** C(OP(=O)([O-])OS(=O)(=O)[O-])C1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23)))
+* common name:
+** 3'-phosphoadenylyl-sulfate
+* inchi key:
+** InChIKey=GACDQMDRPRGCTN-KQYNXXCUSA-J
+* molecular weight:
+** 503.23    
+* Synonym(s):
+** phosphoadenosine-5'-phosphosulfate
+** PAPS
+** phosphoadenosine phosphosulfate
+** 3'-phosphoadenosine-5'-phosphosulfate
+** 3'-phosphoadenylyl sulfate
+** 3'-phospho-5'-adenylyl sulfate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-18303]]
+* [[RXN-18301]]
+* [[RXN-10614]]
+* [[RXN-10615]]
+* [[RXN6666-9]]
+* [[GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN]]
+* [[RXN-11059]]
+* [[RXN-10777]]
+* [[RXN-10782]]
+* [[RXN-11058]]
+== Reaction(s) known to produce the compound ==
+* [[AASP]]
+== Reaction(s) of unknown directionality ==
+* [[PAPSPAPtm]]
+* [[PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN]]
+* [[ADENYLYLSULFKIN-RXN]]
+* [[ARYL-SULFOTRANSFERASE-RXN]]
+* [[1.8.4.8-RXN]]
+* [[RXN-15589]]
+* [[RXN-15588]]
+* [[RXN-17203]]
+* [[RXN-15587]]
+* [[R163-RXN]]
+* [[PAPSPAPthr]]
+== External links  ==
+* CAS : 482-67-7
+* BIGG : paps
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46926099 46926099]
+* KNAPSACK : C00007446
+* HMDB : HMDB01134
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00053 C00053]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58339 58339]
+* METABOLIGHTS : MTBLC58339
+{{#set: smiles=C(OP(=O)([O-])OS(=O)(=O)[O-])C1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23)))}}
+{{#set: common name=3'-phosphoadenylyl-sulfate}}
+{{#set: inchi key=InChIKey=GACDQMDRPRGCTN-KQYNXXCUSA-J}}
+{{#set: molecular weight=503.23    }}
+{{#set: common name=phosphoadenosine-5'-phosphosulfate|PAPS|phosphoadenosine phosphosulfate|3'-phosphoadenosine-5'-phosphosulfate|3'-phosphoadenylyl sulfate|3'-phospho-5'-adenylyl sulfate}}
+{{#set: consumed by=RXN-18303|RXN-18301|RXN-10614|RXN-10615|RXN6666-9|GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN|RXN-11059|RXN-10777|RXN-10782|RXN-11058}}
+{{#set: produced by=AASP}}
+{{#set: reversible reaction associated=PAPSPAPtm|PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN|ADENYLYLSULFKIN-RXN|ARYL-SULFOTRANSFERASE-RXN|1.8.4.8-RXN|RXN-15589|RXN-15588|RXN-17203|RXN-15587|R163-RXN|PAPSPAPthr}}

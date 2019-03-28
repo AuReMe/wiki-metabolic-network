@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Protein-Histidines Protein-Histidines] ==
+* common name:
+** a [protein]-L-histidine
+* Synonym(s):
+** a peptidyl L-histidine
+
+== Reaction(s) known to consume the compound ==
+* [[2.7.13.3-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15512]]
+* [[RXN-15509]]
+* [[RXN-15510]]
+* [[RXN-15511]]
+== External links  ==
+{{#set: common name=a [protein]-L-histidine}}
+{{#set: common name=a peptidyl L-histidine}}
+{{#set: consumed by=2.7.13.3-RXN}}
+{{#set: reversible reaction associated=RXN-15512|RXN-15509|RXN-15510|RXN-15511}}

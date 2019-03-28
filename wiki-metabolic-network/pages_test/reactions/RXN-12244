@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12244 RXN-12244] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 15-cis-phytoene desaturase
+* Synonym(s):
+** phytoene desaturase (ambiguous)
+** PDS
+** plant-type phytoene desaturase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PLASTOQUINONE]][c] '''+''' 1 [[CPD-13171]][c] '''=>''' 1 [[Plastoquinols]][c] '''+''' 1 [[CPD-7535]][c]
+* With common name(s):
+** 1 a plastoquinone[c] '''+''' 1 15,9'-di-cis-phytofluene[c] '''=>''' 1 a plastoquinol[c] '''+''' 1 9,15,9'-tri-cis-&zeta;-carotene[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6475]], trans-lycopene biosynthesis II (plants): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6475 PWY-6475]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-reactions_pwy-6475_tiso_add]]
+*** Comment: [[reaction added to complete pwy-6475]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30198 30198]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=15-cis-phytoene desaturase}}
+{{#set: common name=phytoene desaturase (ambiguous)|PDS|plant-type phytoene desaturase}}
+{{#set: in pathway=PWY-6475}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-reactions_pwy-6475_tiso_add}}
+{{#set: reconstruction comment=reaction added to complete pwy-6475}}

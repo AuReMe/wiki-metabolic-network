@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19512 CPD-19512] ==
+* smiles:
+** C(=[N-])=S
+* common name:
+** isothiocyanate
+* inchi key:
+** InChIKey=ZBKFYXZXZJPWNQ-UHFFFAOYSA-N
+* molecular weight:
+** 58.078    
+* Synonym(s):
+** isothiocyanic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18232]]
+== External links  ==
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10445869.html 10445869]
+{{#set: smiles=C(=[N-])=S}}
+{{#set: common name=isothiocyanate}}
+{{#set: inchi key=InChIKey=ZBKFYXZXZJPWNQ-UHFFFAOYSA-N}}
+{{#set: molecular weight=58.078    }}
+{{#set: common name=isothiocyanic acid}}
+{{#set: reversible reaction associated=RXN-18232}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-KETO-ADIPATE 3-KETO-ADIPATE] ==
+* smiles:
+** C(=O)([O-])CC(=O)CCC(=O)[O-]
+* common name:
+** 3-oxoadipate
+* inchi key:
+** InChIKey=RTGHRDFWYQHVFW-UHFFFAOYSA-L
+* molecular weight:
+** 158.11    
+* Synonym(s):
+** &beta;-ketoadipate
+** 3-ketoadipate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3-OXOADIPATE-ENOL-LACTONASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* UM-BBD-CPD : c0100
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459800 5459800]
+* HMDB : HMDB00398
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00846 C00846]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573571.html 4573571]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15775 15775]
+{{#set: smiles=C(=O)([O-])CC(=O)CCC(=O)[O-]}}
+{{#set: common name=3-oxoadipate}}
+{{#set: inchi key=InChIKey=RTGHRDFWYQHVFW-UHFFFAOYSA-L}}
+{{#set: molecular weight=158.11    }}
+{{#set: common name=&beta;-ketoadipate|3-ketoadipate}}
+{{#set: produced by=3-OXOADIPATE-ENOL-LACTONASE-RXN}}

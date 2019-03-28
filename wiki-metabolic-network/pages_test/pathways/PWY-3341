@@ -1,0 +1,64 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3341 PWY-3341] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-proline biosynthesis III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[GLUTKIN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12021]]
+*** [[Tiso_gene_16634]]
+*** [[Tiso_gene_17057]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUTSEMIALDEHYDROG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_16634]]
+*** [[Tiso_gene_16258]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ORNITHINE-GLU-AMINOTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11231]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[PYRROLINECARBREDUCT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8625]]
+*** [[Tiso_gene_20218]]
+*** [[Tiso_gene_19254]]
+*** [[Tiso_gene_17059]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[SPONTPRO-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-3341 PWY-3341]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-proline biosynthesis III}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

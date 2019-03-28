@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-941 CPD-941] ==
+* smiles:
+** CCC(C(SCCC(CCCCC(N)=O)S)=O)C
+* common name:
+** S-(2-methylbutanoyl)-dihydrolipoamide
+* inchi key:
+** InChIKey=UFNCWFSSEGPJNL-UHFFFAOYSA-N
+* molecular weight:
+** 291.466    
+* Synonym(s):
+** S-(2-methylbutyryl)dihydrolipoamide
+
+== Reaction(s) known to consume the compound ==
+* [[DHRT_2mbcoa]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=440565 440565]
+* HMDB : HMDB06869
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05118 C05118]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.389465.html 389465]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28692 28692]
+* METABOLIGHTS : MTBLC28692
+{{#set: smiles=CCC(C(SCCC(CCCCC(N)=O)S)=O)C}}
+{{#set: common name=S-(2-methylbutanoyl)-dihydrolipoamide}}
+{{#set: inchi key=InChIKey=UFNCWFSSEGPJNL-UHFFFAOYSA-N}}
+{{#set: molecular weight=291.466    }}
+{{#set: common name=S-(2-methylbutyryl)dihydrolipoamide}}
+{{#set: consumed by=DHRT_2mbcoa}}

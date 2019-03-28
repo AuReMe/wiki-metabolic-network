@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-2030 CPD0-2030] ==
+* smiles:
+** C(O)C(O)COP([O-])(OCC([N+])C(=O)[O-])=O
+* common name:
+** glycerophosphoserine
+* inchi key:
+** InChIKey=ZWZWYGMENQVNFU-UHNVWZDZSA-M
+* molecular weight:
+** 258.144    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14136]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=57339260 57339260]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61931 61931]
+* BIGG : g3ps
+{{#set: smiles=C(O)C(O)COP([O-])(OCC([N+])C(=O)[O-])=O}}
+{{#set: common name=glycerophosphoserine}}
+{{#set: inchi key=InChIKey=ZWZWYGMENQVNFU-UHNVWZDZSA-M}}
+{{#set: molecular weight=258.144    }}
+{{#set: consumed by=RXN-14136}}

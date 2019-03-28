@@ -1,0 +1,51 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5973 PWY-5973] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3398 TAX-3398]
+* common name:
+** cis-vaccenate biosynthesis
+* Synonym(s):
+** cis vaccenic acid acid biosynthesis
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[2.3.1.179-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_19302]]
+*** [[Tiso_gene_14485]]
+*** [[Tiso_gene_19303]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-9556]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13083]]
+*** [[Tiso_gene_9885]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-9557]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6884]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-9558]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10778]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9555 RXN-9555]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-5973 PWY-5973]
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-3398}}
+{{#set: common name=cis-vaccenate biosynthesis}}
+{{#set: common name=cis vaccenic acid acid biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

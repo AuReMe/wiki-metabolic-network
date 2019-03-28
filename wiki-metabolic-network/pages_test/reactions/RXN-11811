@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11811 RXN-11811] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[AMMONIA]][c] '''<=>''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 ammonia[c] '''<=>''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

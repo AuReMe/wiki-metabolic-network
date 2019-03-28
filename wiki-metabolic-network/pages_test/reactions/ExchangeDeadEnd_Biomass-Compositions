@@ -1,0 +1,23 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ExchangeDeadEnd_Biomass-Compositions ExchangeDeadEnd_Biomass-Compositions] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Biomass-Compositions]][c] '''=>''' 1.0 [[Biomass-Compositions]][C-BOUNDARY]
+* With common name(s):
+**
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-export_biomass_rxn]]
+*** Comment: [[reaction added to avoid biomass-compositions accumulation]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-export_biomass_rxn}}
+{{#set: reconstruction comment=reaction added to avoid biomass-compositions accumulation}}

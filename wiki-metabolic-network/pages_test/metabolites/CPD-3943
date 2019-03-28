@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3943 CPD-3943] ==
+* smiles:
+** CC(C)C(C)CC(O)C(C)[CH]3(CC[CH]4([CH]2(CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** (22&alpha;)-hydroxy-campesterol
+* inchi key:
+** InChIKey=LSZJAIFORSLKOY-PACUACIMSA-N
+* molecular weight:
+** 416.686    
+* Synonym(s):
+** (22S)-22-hydroxy-campesterol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-4225]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST01031115
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15341628 15341628]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.9308624.html 9308624]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72331 72331]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15795 C15795]
+{{#set: smiles=CC(C)C(C)CC(O)C(C)[CH]3(CC[CH]4([CH]2(CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=(22&alpha;)-hydroxy-campesterol}}
+{{#set: inchi key=InChIKey=LSZJAIFORSLKOY-PACUACIMSA-N}}
+{{#set: molecular weight=416.686    }}
+{{#set: common name=(22S)-22-hydroxy-campesterol}}
+{{#set: produced by=RXN-4225}}

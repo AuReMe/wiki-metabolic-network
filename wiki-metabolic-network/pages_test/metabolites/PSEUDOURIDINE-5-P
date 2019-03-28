@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PSEUDOURIDINE-5-P PSEUDOURIDINE-5-P] ==
+* smiles:
+** C1(NC(=O)NC(=O)C=1C2(OC(COP(=O)([O-])[O-])C(O)C(O)2))
+* common name:
+** pseudouridine 5'-phosphate
+* inchi key:
+** InChIKey=MOBMOJGXNHLLIR-GBNDHIKLSA-L
+* molecular weight:
+** 322.168    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-5398]]
+== External links  ==
+* CAS : 1157-60-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245232 25245232]
+* HMDB : HMDB01271
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58380 58380]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01168 C01168]
+{{#set: smiles=C1(NC(=O)NC(=O)C=1C2(OC(COP(=O)([O-])[O-])C(O)C(O)2))}}
+{{#set: common name=pseudouridine 5'-phosphate}}
+{{#set: inchi key=InChIKey=MOBMOJGXNHLLIR-GBNDHIKLSA-L}}
+{{#set: molecular weight=322.168    }}
+{{#set: reversible reaction associated=RXN0-5398}}

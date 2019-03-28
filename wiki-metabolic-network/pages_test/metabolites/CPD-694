@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-694 CPD-694] ==
+* smiles:
+** CC6(=C7(C(C([CH]8(C2([N+]1([Co---]4([N+]3(C(=C(C)C=1C(CCC([O-])=O)C(CC(=O)N)(C)2)C(C(CCC(=O)[O-])C=3C=C5(C(C)(C)C(CCC(=O)[O-])C(=[N+]45)6))(CC(=O)N)C))N78))C))CC(=O)[O-])(C)CCC(=O)[O-]))
+* common name:
+** cob(I)yrinate a,c-diamide
+* inchi key:
+** InChIKey=NKLHEMWEQJCPPF-OKJGWHJPSA-H
+* molecular weight:
+** 931.9    
+* Synonym(s):
+** cob(I)yrinic acid a,c-diamide
+** Cob(I)yrinate diamide
+
+== Reaction(s) known to consume the compound ==
+* [[R344-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266689 45266689]
+* HMDB : HMDB06904
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58575 58575]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06505 C06505]
+{{#set: smiles=CC6(=C7(C(C([CH]8(C2([N+]1([Co---]4([N+]3(C(=C(C)C=1C(CCC([O-])=O)C(CC(=O)N)(C)2)C(C(CCC(=O)[O-])C=3C=C5(C(C)(C)C(CCC(=O)[O-])C(=[N+]45)6))(CC(=O)N)C))N78))C))CC(=O)[O-])(C)CCC(=O)[O-]))}}
+{{#set: common name=cob(I)yrinate a,c-diamide}}
+{{#set: inchi key=InChIKey=NKLHEMWEQJCPPF-OKJGWHJPSA-H}}
+{{#set: molecular weight=931.9    }}
+{{#set: common name=cob(I)yrinic acid a,c-diamide|Cob(I)yrinate diamide}}
+{{#set: consumed by=R344-RXN}}

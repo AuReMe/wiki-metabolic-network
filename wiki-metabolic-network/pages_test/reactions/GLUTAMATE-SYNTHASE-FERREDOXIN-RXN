@@ -1,0 +1,76 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLUTAMATE-SYNTHASE-FERREDOXIN-RXN GLUTAMATE-SYNTHASE-FERREDOXIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ferredoxin-dependent_glutamate_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.4.7.1 EC-1.4.7.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[2-KETOGLUTARATE]][c] '''+''' 2 [[Reduced-ferredoxins]][c] '''+''' 2 [[PROTON]][c] '''+''' 1 [[GLN]][c] '''=>''' 2 [[Oxidized-ferredoxins]][c] '''+''' 2 [[GLT]][c]
+* With common name(s):
+** 1 2-oxoglutarate[c] '''+''' 2 a reduced ferredoxin [iron-sulfur] cluster[c] '''+''' 2 H+[c] '''+''' 1 L-glutamine[c] '''=>''' 2 an oxidized ferredoxin [iron-sulfur] cluster[c] '''+''' 2 L-glutamate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1773]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_2581]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1154]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6964]], ammonia assimilation cycle II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6964 PWY-6964]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-4341]], L-glutamate biosynthesis V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-4341 PWY-4341]
+** '''1''' reactions found over '''1''' reactions in the full pathway
+* [[PWY-6549]], L-glutamine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6549 PWY-6549]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00021 R00021]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P23225 P23225]
+** [http://www.uniprot.org/uniprot/O67512 O67512]
+** [http://www.uniprot.org/uniprot/P96218 P96218]
+** [http://www.uniprot.org/uniprot/Q06434 Q06434]
+** [http://www.uniprot.org/uniprot/Q43081 Q43081]
+** [http://www.uniprot.org/uniprot/P55037 P55037]
+** [http://www.uniprot.org/uniprot/Q43155 Q43155]
+** [http://www.uniprot.org/uniprot/Q7M242 Q7M242]
+** [http://www.uniprot.org/uniprot/P51375 P51375]
+** [http://www.uniprot.org/uniprot/P55038 P55038]
+** [http://www.uniprot.org/uniprot/Q9SLM4 Q9SLM4]
+** [http://www.uniprot.org/uniprot/Q08258 Q08258]
+** [http://www.uniprot.org/uniprot/O49154 O49154]
+** [http://www.uniprot.org/uniprot/O19906 O19906]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ferredoxin-dependent_glutamate_synthase}}
+{{#set: ec number=EC-1.4.7.1}}
+{{#set: gene associated=Tiso_gene_1773|Tiso_gene_2581|Tiso_gene_1154}}
+{{#set: in pathway=PWY-6964|PWY-4341|PWY-6549}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-athaliana|annotation-in-silico_annotation|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

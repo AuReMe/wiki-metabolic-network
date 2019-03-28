@@ -1,0 +1,50 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14553 CPD-14553] ==
+* smiles:
+** C(O)C1(C(O)C(O)C(O)C(O1)OP(OP(=O)([O-])OCC2(OC(C(O)C(O)2)N3(C=CC(=O)NC(=O)3)))([O-])=O)
+* common name:
+** UDP-&alpha;-D-galactose
+* inchi key:
+** InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
+* molecular weight:
+** 564.289    
+* Synonym(s):
+** UDP-&alpha;-D-galactopyranose
+** UDP-galactose
+
+== Reaction(s) known to consume the compound ==
+* [[2.4.1.46-RXN]]
+* [[RXN-1225]]
+* [[RXN-18302]]
+* [[2.4.1.151-RXN]]
+* [[UDPGALor]]
+* [[2.4.1.123-RXN]]
+* [[LACTOSE-SYNTHASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[UTPHEXPURIDYLYLTRANS-RXN]]
+* [[GALPMUT-RXN]]
+* [[GALACTURIDYLYLTRANS-RXN]]
+* [[UDPGLUCEPIM-RXN]]
+* [[RXN-16027]]
+* [[UG4E]]
+== External links  ==
+* CAS : 2956-16-3
+* BIGG : udpgal
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9549262 9549262]
+* HMDB : HMDB00302
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00052 C00052]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.17069.html 17069]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=66914 66914]
+* METABOLIGHTS : MTBLC66914
+{{#set: smiles=C(O)C1(C(O)C(O)C(O)C(O1)OP(OP(=O)([O-])OCC2(OC(C(O)C(O)2)N3(C=CC(=O)NC(=O)3)))([O-])=O)}}
+{{#set: common name=UDP-&alpha;-D-galactose}}
+{{#set: inchi key=InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L}}
+{{#set: molecular weight=564.289    }}
+{{#set: common name=UDP-&alpha;-D-galactopyranose|UDP-galactose}}
+{{#set: consumed by=2.4.1.46-RXN|RXN-1225|RXN-18302|2.4.1.151-RXN|UDPGALor|2.4.1.123-RXN|LACTOSE-SYNTHASE-RXN}}
+{{#set: reversible reaction associated=UTPHEXPURIDYLYLTRANS-RXN|GALPMUT-RXN|GALACTURIDYLYLTRANS-RXN|UDPGLUCEPIM-RXN|RXN-16027|UG4E}}

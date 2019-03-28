@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=KDGALDOL-RXN KDGALDOL-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 2-dehydro-3-deoxyglucarate_aldolase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.1.2.20 EC-4.1.2.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[5-KETO-4-DEOXY-D-GLUCARATE]][c] '''<=>''' 1 [[TARTRONATE-S-ALD]][c] '''+''' 1 [[PYRUVATE]][c]
+* With common name(s):
+** 1 5-dehydro-4-deoxy-D-glucarate[c] '''<=>''' 1 tartronate semialdehyde[c] '''+''' 1 pyruvate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16237]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[GLUCARDEG-PWY]], D-glucarate degradation I: [http://metacyc.org/META/NEW-IMAGE?object=GLUCARDEG-PWY GLUCARDEG-PWY]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+* [[GALACTARDEG-PWY]], D-galactarate degradation I: [http://metacyc.org/META/NEW-IMAGE?object=GALACTARDEG-PWY GALACTARDEG-PWY]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27726 27726]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02754 R02754]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=2-dehydro-3-deoxyglucarate_aldolase}}
+{{#set: ec number=EC-4.1.2.20}}
+{{#set: gene associated=Tiso_gene_16237}}
+{{#set: in pathway=GLUCARDEG-PWY|GALACTARDEG-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP] ==
+* smiles:
+** CC1(N=C(N)C(=CN=1)COP(OP([O-])([O-])=O)([O-])=O)
+* common name:
+** 4-amino-2-methyl-5-(diphosphomethyl)pyrimidine
+* inchi key:
+** InChIKey=AGQJQCFEPUVXNK-UHFFFAOYSA-K
+* molecular weight:
+** 296.093    
+* Synonym(s):
+** 2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate
+** HMP-PP
+** 4-amino-5-hydroxymethyl-2-methylpyrimidine-PP
+
+== Reaction(s) known to consume the compound ==
+* [[THI-P-SYN-RXN]]
+* [[RXN-12610]]
+* [[RXN-12611]]
+== Reaction(s) known to produce the compound ==
+* [[PYRIMSYN3-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 745-65-3
+* CAS : 841-01-0
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245586 25245586]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57841 57841]
+* BIGG : 2mahmp
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04752 C04752]
+{{#set: smiles=CC1(N=C(N)C(=CN=1)COP(OP([O-])([O-])=O)([O-])=O)}}
+{{#set: common name=4-amino-2-methyl-5-(diphosphomethyl)pyrimidine}}
+{{#set: inchi key=InChIKey=AGQJQCFEPUVXNK-UHFFFAOYSA-K}}
+{{#set: molecular weight=296.093    }}
+{{#set: common name=2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate|HMP-PP|4-amino-5-hydroxymethyl-2-methylpyrimidine-PP}}
+{{#set: consumed by=THI-P-SYN-RXN|RXN-12610|RXN-12611}}
+{{#set: produced by=PYRIMSYN3-RXN}}

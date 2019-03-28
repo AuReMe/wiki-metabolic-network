@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ACPh ACPh] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Acylphosphatase, chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[DPG]][h] '''+''' 1.0 [[WATER]][h] '''=>''' 1.0 [[PROTON]][h] '''+''' 1.0 [[G3P]][h] '''+''' 1.0 [[Pi]][h]
+* With common name(s):
+** 1.0 1,3-bisphospho-D-glycerate[h] '''+''' 1.0 H2O[h] '''=>''' 1.0 H+[h] '''+''' 1.0 3-phospho-D-glycerate[h] '''+''' 1.0 phosphate[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13909]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Acylphosphatase, chloroplast}}
+{{#set: gene associated=Tiso_gene_13909}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

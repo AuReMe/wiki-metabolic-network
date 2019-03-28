@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12481 CPD-12481] ==
+* smiles:
+** CN1(C(=O)NC2(=C1C(=O)NC(=O)N2))
+* common name:
+** 7-methylurate
+* inchi key:
+** InChIKey=YHNNPKUFPWLTOP-UHFFFAOYSA-N
+* molecular weight:
+** 182.138    
+* Synonym(s):
+** 7-methyluric acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-11521]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=69160 69160]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.62375.html 62375]
+* HMDB : HMDB11107
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=80470 80470]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16355 C16355]
+{{#set: smiles=CN1(C(=O)NC2(=C1C(=O)NC(=O)N2))}}
+{{#set: common name=7-methylurate}}
+{{#set: inchi key=InChIKey=YHNNPKUFPWLTOP-UHFFFAOYSA-N}}
+{{#set: molecular weight=182.138    }}
+{{#set: common name=7-methyluric acid}}
+{{#set: produced by=RXN-11521}}

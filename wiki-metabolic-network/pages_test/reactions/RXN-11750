@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11750 RXN-11750] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.134 EC-4.2.1.134]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Very-Long-Chain-3-Hydroxyacyl-CoAs]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[Very-Long-Chain-Trans-23-Dehydroacyl-CoA]][c]
+* With common name(s):
+** 1 a very-long-chain (3R)-3-hydroxyacyl-CoA[c] '''=>''' 1 H2O[c] '''+''' 1 a very-long-chain trans-2,3-dehydroacyl-CoA[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5080]], very long chain fatty acid biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5080 PWY-5080]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.2.1.134}}
+{{#set: in pathway=PWY-5080}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

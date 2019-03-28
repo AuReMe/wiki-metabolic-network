@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Persulfurated-L-cysteine-desulfurases Persulfurated-L-cysteine-desulfurases] ==
+* common name:
+** an S-sulfanyl-[L-cysteine desulfurase]
+* Synonym(s):
+** a persulfurated L-cysteine desulfurase
+** an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14381]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15881]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an S-sulfanyl-[L-cysteine desulfurase]}}
+{{#set: common name=a persulfurated L-cysteine desulfurase|an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine}}
+{{#set: consumed by=RXN-14381}}
+{{#set: produced by=RXN-15881}}

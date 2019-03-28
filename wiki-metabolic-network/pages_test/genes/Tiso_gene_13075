@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13075 ==
+* right end position:
+** 6035
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1571
+* centisome position:
+** 23.984734    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NADH-DEHYDROG-A-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-3781]]
+* [[PWY-5083]]
+* [[PWY0-1334]]
+* [[PWY0-1335]]
+* [[PWY-4302]]
+== External links  ==
+{{#set: right end position=6035}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1571}}
+{{#set: centisome position=23.984734    }}
+{{#set: reaction associated=NADH-DEHYDROG-A-RXN}}
+{{#set: pathway associated=PWY-6692|PWY-3781|PWY-5083|PWY0-1334|PWY0-1335|PWY-4302}}

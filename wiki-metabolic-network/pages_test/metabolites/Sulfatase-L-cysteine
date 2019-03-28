@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Sulfatase-L-cysteine Sulfatase-L-cysteine] ==
+* common name:
+** a [sulfatase]-L-cysteine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16226]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [sulfatase]-L-cysteine}}
+{{#set: consumed by=RXN-16226}}

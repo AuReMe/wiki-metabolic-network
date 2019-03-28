@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-Glucosyl-12-diacyl-glycerols D-Glucosyl-12-diacyl-glycerols] ==
+* common name:
+** a 1,2-diacyl-3-O-(&beta;-D-glucopyranosyl)-sn-glycerol
+* Synonym(s):
+** a 3-D-glucosyl-1,2-diacylglycerol
+** a monoglucosyl-diacylglycerol
+** a monogalactosyldiacylglycerol
+** a 3-(&beta;-D-glucosyl)-1,2-diacyl-sn-glycerol
+** a 3-&beta;-D-glucosyl-1,2-diacylglycerol
+** a monoglucosyldiglyceride
+** MGlcDG
+** a mono-&beta;-D-glucosyldiacylglycerol
+** a 1,2-diacyl-3-&beta;-D-glucosyl-sn-glycerol
+** a &beta;-monoglucosyldiacylglycerol
+** a 1,2-diacyl-3-O-(&beta;-D-glucosyl)-sn-glycerol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15117]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-16648]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 1,2-diacyl-3-O-(&beta;-D-glucopyranosyl)-sn-glycerol}}
+{{#set: common name=a 3-D-glucosyl-1,2-diacylglycerol|a monoglucosyl-diacylglycerol|a monogalactosyldiacylglycerol|a 3-(&beta;-D-glucosyl)-1,2-diacyl-sn-glycerol|a 3-&beta;-D-glucosyl-1,2-diacylglycerol|a monoglucosyldiglyceride|MGlcDG|a mono-&beta;-D-glucosyldiacylglycerol|a 1,2-diacyl-3-&beta;-D-glucosyl-sn-glycerol|a &beta;-monoglucosyldiacylglycerol|a 1,2-diacyl-3-O-(&beta;-D-glucosyl)-sn-glycerol}}
+{{#set: consumed by=RXN-15117}}
+{{#set: produced by=RXN-16648}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1916 ==
+* right end position:
+** 15179
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 14487
+* centisome position:
+** 57.584072    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=15179}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=14487}}
+{{#set: centisome position=57.584072    }}
+{{#set: reaction associated=ATPASE-RXN}}

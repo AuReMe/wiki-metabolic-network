@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7214 CPD-7214] ==
+* smiles:
+** C3(C(C2(OC1(C=C(C=C(C=1C(C2)=O)O)[O-])))=CC(=C(C=3O)O)O)
+* common name:
+** (2S)-dihydrotricetin
+* inchi key:
+** InChIKey=USQXPEWRYWRRJD-LBPRGKRZSA-M
+* molecular weight:
+** 303.248    
+* Synonym(s):
+** 3',4',5'-pentahydroxyflavanone
+** 5,7,3',4',5'-pentahydroxyflavanone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7922]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658763 90658763]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=48026 48026]
+* METABOLIGHTS : MTBLC48026
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05911 C05911]
+{{#set: smiles=C3(C(C2(OC1(C=C(C=C(C=1C(C2)=O)O)[O-])))=CC(=C(C=3O)O)O)}}
+{{#set: common name=(2S)-dihydrotricetin}}
+{{#set: inchi key=InChIKey=USQXPEWRYWRRJD-LBPRGKRZSA-M}}
+{{#set: molecular weight=303.248    }}
+{{#set: common name=3',4',5'-pentahydroxyflavanone|5,7,3',4',5'-pentahydroxyflavanone}}
+{{#set: consumed by=RXN-7922}}

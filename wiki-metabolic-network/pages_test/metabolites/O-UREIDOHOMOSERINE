@@ -1,0 +1,25 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=O-UREIDOHOMOSERINE O-UREIDOHOMOSERINE] ==
+* smiles:
+** C(CC(C(=O)[O-])[N+])ONC(N)=O
+* common name:
+** O-ureidohomoserine
+* inchi key:
+** InChIKey=SFYVZOSIAIZWQU-VKHMYHEASA-N
+* molecular weight:
+** 177.16    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91820483 91820483]
+* HMDB : HMDB12271
+{{#set: smiles=C(CC(C(=O)[O-])[N+])ONC(N)=O}}
+{{#set: common name=O-ureidohomoserine}}
+{{#set: inchi key=InChIKey=SFYVZOSIAIZWQU-VKHMYHEASA-N}}
+{{#set: molecular weight=177.16    }}
+{{#set: consumed by=RXN-10}}

@@ -1,0 +1,50 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SUC-COA SUC-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** succinyl-CoA
+* inchi key:
+** InChIKey=VNOYUJKHFWYWIR-ITIYDSSPSA-I
+* molecular weight:
+** 862.568    
+* Synonym(s):
+** suc-coa
+** succ-coenzyme-A
+** succ-S-coenzyme-A
+** succinyl-S-coenzyme-A
+** succ-S-CoA
+** succinylcoenzyme-A
+** succ-CoA
+** suc-co-A
+** succinyl-S-CoA
+** succinyl-coenzyme A
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[3-OXOACID-COA-TRANSFERASE-RXN]]
+* [[RXN0-1147]]
+* [[SUCL_gdp_m]]
+* [[RXNI-2]]
+* [[SUCCINATE--COA-LIGASE-GDP-FORMING-RXN]]
+* [[SUCCCOASYN-RXN]]
+* [[METHYLMALONYL-COA-MUT-RXN]]
+* [[AKGDHe2r]]
+== External links  ==
+* CAS : 604-98-8
+* BIGG : succoa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266545 45266545]
+* HMDB : HMDB01022
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00091 C00091]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57292 57292]
+* METABOLIGHTS : MTBLC57292
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)[O-])COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=succinyl-CoA}}
+{{#set: inchi key=InChIKey=VNOYUJKHFWYWIR-ITIYDSSPSA-I}}
+{{#set: molecular weight=862.568    }}
+{{#set: common name=suc-coa|succ-coenzyme-A|succ-S-coenzyme-A|succinyl-S-coenzyme-A|succ-S-CoA|succinylcoenzyme-A|succ-CoA|suc-co-A|succinyl-S-CoA|succinyl-coenzyme A}}
+{{#set: reversible reaction associated=3-OXOACID-COA-TRANSFERASE-RXN|RXN0-1147|SUCL_gdp_m|RXNI-2|SUCCINATE--COA-LIGASE-GDP-FORMING-RXN|SUCCCOASYN-RXN|METHYLMALONYL-COA-MUT-RXN|AKGDHe2r}}

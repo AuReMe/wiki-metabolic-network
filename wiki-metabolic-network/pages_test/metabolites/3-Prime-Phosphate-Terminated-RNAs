@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Prime-Phosphate-Terminated-RNAs 3-Prime-Phosphate-Terminated-RNAs] ==
+* common name:
+** an [RNA]-3'-(3'-phospho-ribonucleoside)
+* Synonym(s):
+** a RNA with 3' phosphate
+** a 3'-phosphate-terminated RNA
+** an RNA 3'-terminal-phosphate
+** a 3'-phospho-[RNA]
+
+== Reaction(s) known to consume the compound ==
+* [[RNA-3-PHOSPHATE-CYCLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an [RNA]-3'-(3'-phospho-ribonucleoside)}}
+{{#set: common name=a RNA with 3' phosphate|a 3'-phosphate-terminated RNA|an RNA 3'-terminal-phosphate|a 3'-phospho-[RNA]}}
+{{#set: consumed by=RNA-3-PHOSPHATE-CYCLASE-RXN}}

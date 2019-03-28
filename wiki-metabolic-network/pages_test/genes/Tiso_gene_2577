@@ -1,0 +1,19 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2577 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[H2NEOPTERINALDOL-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10857]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-6148]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: reaction associated=H2NEOPTERINALDOL-RXN|RXN-10857}}
+{{#set: pathway associated=PWY-7539|PWY-6148|PWY-6797|PWY-6147}}

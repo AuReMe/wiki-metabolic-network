@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19303 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.3.1.179-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-8391]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5367]]
+* [[PWY-5973]]
+== External links  ==
+{{#set: reaction associated=2.3.1.179-RXN|RXN-8391}}
+{{#set: pathway associated=PWY-5367|PWY-5973}}

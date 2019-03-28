@@ -1,0 +1,98 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.21.92-RXN 3.4.21.92-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ATP-dependent Clp protease proteolytic subunit
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.21.92 EC-3.4.21.92]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[General-Protein-Substrates]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Peptides-holder]][c]
+* With common name(s):
+** 1 a protein[c] '''+''' 1 H2O[c] '''=>''' 1 a peptide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11705]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_999]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10324]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10005]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P12208 P12208]
+** [http://www.uniprot.org/uniprot/Q9JU33 Q9JU33]
+** [http://www.uniprot.org/uniprot/Q9PE41 Q9PE41]
+** [http://www.uniprot.org/uniprot/P0A6G7 P0A6G7]
+** [http://www.uniprot.org/uniprot/P56156 P56156]
+** [http://www.uniprot.org/uniprot/P80244 P80244]
+** [http://www.uniprot.org/uniprot/O51556 O51556]
+** [http://www.uniprot.org/uniprot/O67357 O67357]
+** [http://www.uniprot.org/uniprot/O83520 O83520]
+** [http://www.uniprot.org/uniprot/Q9HYR9 Q9HYR9]
+** [http://www.uniprot.org/uniprot/P63783 P63783]
+** [http://www.uniprot.org/uniprot/O84712 O84712]
+** [http://www.uniprot.org/uniprot/P43867 P43867]
+** [http://www.uniprot.org/uniprot/O51698 O51698]
+** [http://www.uniprot.org/uniprot/P0A526 P0A526]
+** [http://www.uniprot.org/uniprot/Q9PLM0 Q9PLM0]
+** [http://www.uniprot.org/uniprot/Q9K709 Q9K709]
+** [http://www.uniprot.org/uniprot/Q9WZF9 Q9WZF9]
+** [http://www.uniprot.org/uniprot/Q9RSZ7 Q9RSZ7]
+** [http://www.uniprot.org/uniprot/Q9I2U1 Q9I2U1]
+** [http://www.uniprot.org/uniprot/Q9K888 Q9K888]
+** [http://www.uniprot.org/uniprot/P38002 P38002]
+** [http://www.uniprot.org/uniprot/Q9Z759 Q9Z759]
+** [http://www.uniprot.org/uniprot/Q9Z832 Q9Z832]
+** [http://www.uniprot.org/uniprot/P54413 P54413]
+** [http://www.uniprot.org/uniprot/Q9KQS6 Q9KQS6]
+** [http://www.uniprot.org/uniprot/Q9ZD29 Q9ZD29]
+** [http://www.uniprot.org/uniprot/Q9ZL50 Q9ZL50]
+** [http://www.uniprot.org/uniprot/P12209 P12209]
+** [http://www.uniprot.org/uniprot/Q7M2F6 Q7M2F6]
+** [http://www.uniprot.org/uniprot/P24064 P24064]
+** [http://www.uniprot.org/uniprot/P36387 P36387]
+** [http://www.uniprot.org/uniprot/P26567 P26567]
+** [http://www.uniprot.org/uniprot/P48883 P48883]
+** [http://www.uniprot.org/uniprot/Q16740 Q16740]
+** [http://www.uniprot.org/uniprot/P54416 P54416]
+** [http://www.uniprot.org/uniprot/Q59993 Q59993]
+** [http://www.uniprot.org/uniprot/P74467 P74467]
+** [http://www.uniprot.org/uniprot/P30063 P30063]
+** [http://www.uniprot.org/uniprot/Q36863 Q36863]
+** [http://www.uniprot.org/uniprot/Q42886 Q42886]
+** [http://www.uniprot.org/uniprot/P56317 P56317]
+** [http://www.uniprot.org/uniprot/P41609 P41609]
+** [http://www.uniprot.org/uniprot/Q9X7R9 Q9X7R9]
+** [http://www.uniprot.org/uniprot/O48931 O48931]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ATP-dependent Clp protease proteolytic subunit}}
+{{#set: ec number=EC-3.4.21.92}}
+{{#set: gene associated=Tiso_gene_11705|Tiso_gene_999|Tiso_gene_10324|Tiso_gene_10005}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

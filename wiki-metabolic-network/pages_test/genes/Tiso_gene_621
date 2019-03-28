@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_621 ==
+* right end position:
+** 24672
+* transcription direction:
+** POSITIVE
+* left end position:
+** 14269
+* centisome position:
+** 46.14663    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=24672}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=14269}}
+{{#set: centisome position=46.14663    }}
+{{#set: reaction associated=ATPASE-RXN}}

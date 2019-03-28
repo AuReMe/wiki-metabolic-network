@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEOXYGUANOSINE DEOXYGUANOSINE] ==
+* smiles:
+** C(O)C1(OC(CC(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))
+* common name:
+** 2'-deoxyguanosine
+* inchi key:
+** InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N
+* molecular weight:
+** 267.244    
+* Synonym(s):
+** deoxyguanosine
+
+== Reaction(s) known to consume the compound ==
+* [[DGSNPT]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[DMPH]]
+== External links  ==
+* CAS : 961-07-9
+* BIGG : dgsn
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=187790 187790]
+* HMDB : HMDB00085
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00330 C00330]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.618.html 618]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17172 17172]
+* METABOLIGHTS : MTBLC17172
+{{#set: smiles=C(O)C1(OC(CC(O)1)N3(C=NC2(C(=O)NC(N)=NC=23)))}}
+{{#set: common name=2'-deoxyguanosine}}
+{{#set: inchi key=InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N}}
+{{#set: molecular weight=267.244    }}
+{{#set: common name=deoxyguanosine}}
+{{#set: consumed by=DGSNPT}}
+{{#set: reversible reaction associated=DMPH}}

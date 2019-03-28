@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19031 ==
+* right end position:
+** 479
+* transcription direction:
+** POSITIVE
+* left end position:
+** 33
+* centisome position:
+** 1.248109    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.18.1.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17897]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7230]]
+* [[PWY-101]]
+== External links  ==
+{{#set: right end position=479}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=33}}
+{{#set: centisome position=1.248109    }}
+{{#set: reaction associated=1.18.1.2-RXN|RXN-17897}}
+{{#set: pathway associated=PWY-7230|PWY-101}}

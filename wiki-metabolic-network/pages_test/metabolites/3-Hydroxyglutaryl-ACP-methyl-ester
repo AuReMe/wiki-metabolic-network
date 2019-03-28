@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Hydroxyglutaryl-ACP-methyl-ester 3-Hydroxyglutaryl-ACP-methyl-ester] ==
+* common name:
+** a (3R)-3-hydroxyglutaryl-[acp] methyl ester
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11477]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11476]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxyglutaryl-[acp] methyl ester}}
+{{#set: consumed by=RXN-11477}}
+{{#set: produced by=RXN-11476}}

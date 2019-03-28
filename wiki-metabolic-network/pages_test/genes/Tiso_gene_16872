@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16872 ==
+* right end position:
+** 3524
+* transcription direction:
+** POSITIVE
+* left end position:
+** 185
+* centisome position:
+** 4.540992    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.232-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-5462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+== External links  ==
+{{#set: right end position=3524}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=185}}
+{{#set: centisome position=4.540992    }}
+{{#set: reaction associated=2.4.1.232-RXN|RXN-5462}}
+{{#set: pathway associated=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}

@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8436 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

@@ -1,0 +1,51 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PYRIDOXSYN-PWY PYRIDOXSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** pyridoxal 5'-phosphate biosynthesis I
+* Synonym(s):
+** vitamin B6 biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''8''' reactions in the full pathway
+* [[DXS-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17311]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PNPOXI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1471]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PSERTRANSAMPYR-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17123]]
+*** [[Tiso_gene_15686]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.262-RXN 1.1.1.262-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ERYTH4PDEHYDROG-RXN ERYTH4PDEHYDROG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ERYTHRON4PDEHYDROG-RXN ERYTHRON4PDEHYDROG-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PDXJ-RXN PDXJ-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8447 RXN-8447]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PYRIDOXSYN-PWY PYRIDOXSYN-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=pyridoxal 5'-phosphate biosynthesis I}}
+{{#set: common name=vitamin B6 biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=8}}
+{{#set: completion rate=38.0}}

@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14920 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-1884]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN1A0-6303]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY1A0-6325]]
+* [[PWY-882]]
+== External links  ==
+{{#set: reaction associated=RXN-1884|RXN1A0-6303}}
+{{#set: pathway associated=PWY1A0-6325|PWY-882}}

@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11351 RXN-11351] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** beta-lactamase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.16.4 EC-3.4.16.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 3 [[WATER]][c] '''+''' 2 [[CPD-12310]][c] '''=>''' 1 [[CPD-12311]][c] '''+''' 1 [[UNDECAPRENYL-DIPHOSPHATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 4 [[D-ALANINE]][c]
+* With common name(s):
+** 3 H2O[c] '''+''' 2 a peptidoglycan dimer (E. faeciums)[c] '''=>''' 1 a peptidoglycan with D,D cross-link (E. faecium)[c] '''+''' 1 di-trans,octa-cis-undecaprenyl diphosphate[c] '''+''' 1 H+[c] '''+''' 4 D-alanine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18870]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6471]], peptidoglycan biosynthesis IV (Enterococcus faecium): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6471 PWY-6471]
+** '''3''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=beta-lactamase}}
+{{#set: ec number=EC-3.4.16.4}}
+{{#set: gene associated=Tiso_gene_18870}}
+{{#set: in pathway=PWY-6471}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

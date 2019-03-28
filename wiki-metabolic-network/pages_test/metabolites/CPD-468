@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-468 CPD-468] ==
+* smiles:
+** C([O-])(=O)CCCC(C(=O)[O-])[N+]
+* common name:
+** L-2-aminoadipate
+* inchi key:
+** InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
+* molecular weight:
+** 160.149    
+* Synonym(s):
+** L-aminoadipic acid
+** L-aminoadipate
+** L-2-amino-hexanedioic acid
+** L-&alpha;-aminoadipate
+** L-&alpha;-aminoadipic acid
+** L-2-aminoadipic acid
+** L-2-aminohexanedioate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8162]]
+* [[RXN-10855]]
+* [[1.2.1.31-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ALLYSINE-DEHYDROG-RXN]]
+* [[2-AMINOADIPATE-AMINOTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 1118-90-7
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6992111 6992111]
+* HMDB : HMDB00510
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00956 C00956]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5360261.html 5360261]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58672 58672]
+* METABOLIGHTS : MTBLC58672
+{{#set: smiles=C([O-])(=O)CCCC(C(=O)[O-])[N+]}}
+{{#set: common name=L-2-aminoadipate}}
+{{#set: inchi key=InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M}}
+{{#set: molecular weight=160.149    }}
+{{#set: common name=L-aminoadipic acid|L-aminoadipate|L-2-amino-hexanedioic acid|L-&alpha;-aminoadipate|L-&alpha;-aminoadipic acid|L-2-aminoadipic acid|L-2-aminohexanedioate}}
+{{#set: produced by=RXN-8162|RXN-10855|1.2.1.31-RXN}}
+{{#set: reversible reaction associated=ALLYSINE-DEHYDROG-RXN|2-AMINOADIPATE-AMINOTRANSFERASE-RXN}}

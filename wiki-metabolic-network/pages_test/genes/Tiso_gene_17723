@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17723 ==
+* right end position:
+** 3462
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1904
+* centisome position:
+** 54.462242    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11638]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3462}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1904}}
+{{#set: centisome position=54.462242    }}
+{{#set: reaction associated=RXN-11638}}

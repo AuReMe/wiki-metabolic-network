@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10806 CPD-10806] ==
+* smiles:
+** CCCCCC(O)[CH]=CC=O
+* common name:
+** 4-hydroxy-2-nonenal
+* inchi key:
+** InChIKey=JVJFIQYAHPMBBX-FNORWQNLSA-N
+* molecular weight:
+** 156.224    
+* Synonym(s):
+** 4HNE
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13673]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5283344 5283344]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4446465.html 4446465]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=32585 32585]
+* METABOLIGHTS : MTBLC32585
+* HMDB : HMDB04362
+{{#set: smiles=CCCCCC(O)[CH]=CC=O}}
+{{#set: common name=4-hydroxy-2-nonenal}}
+{{#set: inchi key=InChIKey=JVJFIQYAHPMBBX-FNORWQNLSA-N}}
+{{#set: molecular weight=156.224    }}
+{{#set: common name=4HNE}}
+{{#set: consumed by=RXN-13673}}

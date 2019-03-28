@@ -1,0 +1,40 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7376 PWY-7376] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''13''' reactions in the full pathway
+* [[RXN-8675]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8614]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[UROPORIIIMETHYLTRANSA-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8614]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.3.1.54-RXN 1.3.1.54-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.130-RXN 2.1.1.130-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.131-RXN 2.1.1.131-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2.1.1.133-RXN 2.1.1.133-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=5.4.1.2-RXN 5.4.1.2-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R321-RXN R321-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R322-RXN R322-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R341-RXN R341-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R342-RXN R342-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13824 RXN-13824]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13826 RXN-13826]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=13}}
+{{#set: completion rate=15.0}}

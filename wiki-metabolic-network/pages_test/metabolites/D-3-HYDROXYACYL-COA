@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-3-HYDROXYACYL-COA D-3-HYDROXYACYL-COA] ==
+* common name:
+** a (3R)-3-hydroxyacyl-CoA
+* Synonym(s):
+** a D-3-hydroxyacyl-CoA
+** an (R)-hydroxyacyl-CoA
+** a cis-3-hydroxyacyl-CoA
+** a 3-OH-acyl-CoA
+** a 3-hydroxyacyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7838]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13279]]
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxyacyl-CoA}}
+{{#set: common name=a D-3-hydroxyacyl-CoA|an (R)-hydroxyacyl-CoA|a cis-3-hydroxyacyl-CoA|a 3-OH-acyl-CoA|a 3-hydroxyacyl-CoA}}
+{{#set: produced by=RXN-7838}}
+{{#set: reversible reaction associated=RXN-13279}}

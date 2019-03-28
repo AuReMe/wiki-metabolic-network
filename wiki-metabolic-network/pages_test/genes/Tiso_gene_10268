@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10268 ==
+* right end position:
+** 2030
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 290
+* centisome position:
+** 3.341014    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2030}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=290}}
+{{#set: centisome position=3.341014    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7649 CPD-7649] ==
+* smiles:
+** C1(=C(CC[N+])C=C(OS(=O)(=O)[O-])C(O)=C1)
+* common name:
+** dopamine 3-O-sulfate
+* inchi key:
+** InChIKey=NZKRYJGNYPYXJZ-UHFFFAOYSA-N
+* molecular weight:
+** 233.239    
+* Synonym(s):
+** 5-(2-aminoethyl)-2-hydroxyphenyl hydrogen sulfate
+** 4-(2-aminoethyl)-1,2-benzenediol 2-(hydrogen sulfate)
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN6666-9]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C13690 C13690]
+* HMDB : HMDB06275
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=133524 133524]
+* METABOLIGHTS : MTBLC37946
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201578 25201578]
+{{#set: smiles=C1(=C(CC[N+])C=C(OS(=O)(=O)[O-])C(O)=C1)}}
+{{#set: common name=dopamine 3-O-sulfate}}
+{{#set: inchi key=InChIKey=NZKRYJGNYPYXJZ-UHFFFAOYSA-N}}
+{{#set: molecular weight=233.239    }}
+{{#set: common name=5-(2-aminoethyl)-2-hydroxyphenyl hydrogen sulfate|4-(2-aminoethyl)-1,2-benzenediol 2-(hydrogen sulfate)}}
+{{#set: produced by=RXN6666-9}}

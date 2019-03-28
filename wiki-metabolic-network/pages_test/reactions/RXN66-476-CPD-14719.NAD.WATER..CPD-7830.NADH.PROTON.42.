@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-476-CPD-14719/NAD/WATER//CPD-7830/NADH/PROTON.42. RXN66-476-CPD-14719/NAD/WATER//CPD-7830/NADH/PROTON.42.] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-14719]][c] '''+''' 1.0 [[WATER]][c] '''+''' 1.0 [[NAD]][c] '''=>''' 2.0 [[PROTON]][c] '''+''' 1.0 [[NADH]][c] '''+''' 1.0 [[CPD-7830]][c]
+* With common name(s):
+** 1.0 heptadecanal[c] '''+''' 1.0 H2O[c] '''+''' 1.0 NAD+[c] '''=>''' 2.0 H+[c] '''+''' 1.0 NADH[c] '''+''' 1.0 heptadecanoate[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[gap-filling]]
+** Source: [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+*** Tool: [[meneco]]
+**** Comment: [[added for gapfilling]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=gap-filling}}
+{{#set: reconstruction source=gap-filling-gapfilling_solution_with_meneco_draft_medium}}
+{{#set: reconstruction tool=meneco}}
+{{#set: reconstruction comment=added for gapfilling}}

@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-2961 CPD-2961] ==
+* smiles:
+** C(C(C(C(C(C([O-])=O)O)O)O)O)OP([O-])([O-])=O
+* common name:
+** D-gluconate 6-phosphate
+* inchi key:
+** InChIKey=BIRSGZKFKXLSJQ-SQOUGZDYSA-K
+* molecular weight:
+** 273.113    
+* Synonym(s):
+** 6-p gluconate
+** 6-phospho gluconate
+** 6-phosphogluconic acid
+** 6-phospho D-gluconate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9952]]
+* [[6PGLUCONDEHYDROG-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[6PGLUCONOLACT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : 6pgc
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=36688186 36688186]
+* HMDB : HMDB01316
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00345 C00345]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58759 58759]
+* METABOLIGHTS : MTBLC58759
+{{#set: smiles=C(C(C(C(C(C([O-])=O)O)O)O)O)OP([O-])([O-])=O}}
+{{#set: common name=D-gluconate 6-phosphate}}
+{{#set: inchi key=InChIKey=BIRSGZKFKXLSJQ-SQOUGZDYSA-K}}
+{{#set: molecular weight=273.113    }}
+{{#set: common name=6-p gluconate|6-phospho gluconate|6-phosphogluconic acid|6-phospho D-gluconate}}
+{{#set: consumed by=RXN-9952|6PGLUCONDEHYDROG-RXN}}
+{{#set: produced by=6PGLUCONOLACT-RXN}}

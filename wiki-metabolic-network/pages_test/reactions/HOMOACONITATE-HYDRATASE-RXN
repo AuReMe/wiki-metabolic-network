@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HOMOACONITATE-HYDRATASE-RXN HOMOACONITATE-HYDRATASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.36 EC-4.2.1.36]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HOMO-I-CIT]][c] '''<=>''' 1 [[HOMO-CIS-ACONITATE]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 (1R,2S)-homoisocitrate[c] '''<=>''' 1 cis-homoaconitate[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12778]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-3081]], L-lysine biosynthesis V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-3081 PWY-3081]
+** '''2''' reactions found over '''10''' reactions in the full pathway
+* [[P241-PWY]], coenzyme B biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=P241-PWY P241-PWY]
+** '''1''' reactions found over '''16''' reactions in the full pathway
+* [[LYSINE-AMINOAD-PWY]], L-lysine biosynthesis IV: [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-AMINOAD-PWY LYSINE-AMINOAD-PWY]
+** '''3''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15485 15485]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04371 R04371]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q58409 Q58409]
+** [http://www.uniprot.org/uniprot/P49367 P49367]
+** [http://www.uniprot.org/uniprot/Q9UT74 Q9UT74]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-4.2.1.36}}
+{{#set: gene associated=Tiso_gene_12778}}
+{{#set: in pathway=PWY-3081|P241-PWY|LYSINE-AMINOAD-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8464 ==
+* right end position:
+** 6072
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4504
+* centisome position:
+** 32.78736    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-ACETYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6072}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4504}}
+{{#set: centisome position=32.78736    }}
+{{#set: reaction associated=HISTONE-ACETYLTRANSFERASE-RXN}}

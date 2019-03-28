@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1G-774 CPD1G-774] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(=O)OCC2(C(O)C(O)C(O)C(OC1(C(O)C(O)C(O)C(COP(=O)([O-])[O-])O1))O2))C(O)CCCCCCCCCCCCCCCCC3(CC3C(C)CCCCCCCCCCCCCCCCC(=O)C(C)CCCCCCCCCCCCCCCCC)
+* common name:
+** 6-O-trans-keto-mycolyl-trehalose 6-phosphate
+* inchi key:
+** InChIKey=WFTJPLICCFEYDD-UQWWGAJESA-L
+* molecular weight:
+** 1668.519    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-1439]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658437 90658437]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(=O)OCC2(C(O)C(O)C(O)C(OC1(C(O)C(O)C(O)C(COP(=O)([O-])[O-])O1))O2))C(O)CCCCCCCCCCCCCCCCC3(CC3C(C)CCCCCCCCCCCCCCCCC(=O)C(C)CCCCCCCCCCCCCCCCC)}}
+{{#set: common name=6-O-trans-keto-mycolyl-trehalose 6-phosphate}}
+{{#set: inchi key=InChIKey=WFTJPLICCFEYDD-UQWWGAJESA-L}}
+{{#set: molecular weight=1668.519    }}
+{{#set: consumed by=RXN1G-1439}}

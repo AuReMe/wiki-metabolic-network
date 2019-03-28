@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12219 ==
+* right end position:
+** 7174
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2669
+* centisome position:
+** 37.002636    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6.3.5.6-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[6.3.5.7-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY490-4]]
+* [[PWY-5921]]
+== External links  ==
+{{#set: right end position=7174}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2669}}
+{{#set: centisome position=37.002636    }}
+{{#set: reaction associated=6.3.5.6-RXN|6.3.5.7-RXN}}
+{{#set: pathway associated=PWY490-4|PWY-5921}}

@@ -1,0 +1,40 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4653 ==
+* right end position:
+** 9203
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6810
+* centisome position:
+** 46.62787    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11989]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11999]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13374]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-698]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7973]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7974]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6681]]
+* [[PWY-695]]
+* [[PWY-6857]]
+== External links  ==
+{{#set: right end position=9203}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6810}}
+{{#set: centisome position=46.62787    }}
+{{#set: reaction associated=RXN-11989|RXN-11999|RXN-13374|RXN-698|RXN-7973|RXN-7974}}
+{{#set: pathway associated=PWY-6681|PWY-695|PWY-6857}}

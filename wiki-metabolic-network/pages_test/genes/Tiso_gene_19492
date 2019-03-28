@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19492 ==
+* right end position:
+** 1628
+* transcription direction:
+** POSITIVE
+* left end position:
+** 166
+* centisome position:
+** 7.296703    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1628}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=166}}
+{{#set: centisome position=7.296703    }}
+{{#set: reaction associated=R4-RXN}}

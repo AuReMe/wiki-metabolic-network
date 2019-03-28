@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15436 CPD-15436] ==
+* smiles:
+** CCCCCCCCC=CCCCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** (5Z)-tetradecenoyl-CoA
+* inchi key:
+** InChIKey=MRVDZOHJMLTLHJ-STFCKWFXSA-J
+* molecular weight:
+** 971.845    
+* Synonym(s):
+** cis-tetradec-5-enoyl-CoA
+** 14:1 cis-5
+** 14:1(n-9)
+** (5Z)-tetradec-5-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14576]]
+* [[RXN-17783]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17782]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659071 90659071]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=84650 84650]
+{{#set: smiles=CCCCCCCCC=CCCCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=(5Z)-tetradecenoyl-CoA}}
+{{#set: inchi key=InChIKey=MRVDZOHJMLTLHJ-STFCKWFXSA-J}}
+{{#set: molecular weight=971.845    }}
+{{#set: common name=cis-tetradec-5-enoyl-CoA|14:1 cis-5|14:1(n-9)|(5Z)-tetradec-5-enoyl-CoA}}
+{{#set: consumed by=RXN-14576|RXN-17783}}
+{{#set: produced by=RXN-17782}}

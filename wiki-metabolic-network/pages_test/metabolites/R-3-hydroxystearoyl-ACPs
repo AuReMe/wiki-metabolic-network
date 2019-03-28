@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=R-3-hydroxystearoyl-ACPs R-3-hydroxystearoyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxystearoyl-[acp]
+* Synonym(s):
+** a (R)-3-hydroxyoctadecnoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9634]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9633]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxystearoyl-[acp]}}
+{{#set: common name=a (R)-3-hydroxyoctadecnoyl-[acp]}}
+{{#set: consumed by=RXN-9634}}
+{{#set: produced by=RXN-9633}}

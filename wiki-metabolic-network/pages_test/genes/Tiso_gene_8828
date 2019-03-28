@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8828 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMETt2h]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[AMETt2m]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=AMETt2h|AMETt2m}}

@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5307 PWY-5307] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3398 TAX-3398]
+* common name:
+** gentiodelphin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-8228]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3452]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8231 RXN-8231]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8232 RXN-8232]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8233 RXN-8233]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8234 RXN-8234]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8235 RXN-8235]
+== External links  ==
+{{#set: taxonomic range=TAX-3398}}
+{{#set: common name=gentiodelphin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

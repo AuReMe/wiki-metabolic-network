@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CYSTINE CYSTINE] ==
+* smiles:
+** C(C(C(=O)[O-])[N+])SSCC(C([O-])=O)[N+]
+* common name:
+** L-cystine
+* inchi key:
+** InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N
+* molecular weight:
+** 240.292    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15128]]
+* [[CYSTHIOCYS-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 24645-67-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6992103 6992103]
+* HMDB : HMDB00192
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01420 C01420]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35491 35491]
+* METABOLIGHTS : MTBLC35491
+{{#set: smiles=C(C(C(=O)[O-])[N+])SSCC(C([O-])=O)[N+]}}
+{{#set: common name=L-cystine}}
+{{#set: inchi key=InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N}}
+{{#set: molecular weight=240.292    }}
+{{#set: consumed by=RXN-15128|CYSTHIOCYS-RXN}}

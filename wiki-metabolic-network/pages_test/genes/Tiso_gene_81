@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_81 ==
+* right end position:
+** 42727
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 38006
+* centisome position:
+** 80.48367    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RIBOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14223]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[RIBOKIN-PWY]]
+== External links  ==
+{{#set: right end position=42727}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=38006}}
+{{#set: centisome position=80.48367    }}
+{{#set: reaction associated=RIBOKIN-RXN|RXN-14223}}
+{{#set: pathway associated=RIBOKIN-PWY}}

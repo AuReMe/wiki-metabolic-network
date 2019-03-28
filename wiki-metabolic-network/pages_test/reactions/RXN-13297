@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13297 RXN-13297] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.199 EC-2.3.1.199]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[MALONYL-COA]][c] '''+''' 1 [[CPD-10279]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[CPD-14273]][c] '''+''' 1 [[CO-A]][c] '''+''' 1 [[CARBON-DIOXIDE]][c]
+* With common name(s):
+** 1 malonyl-CoA[c] '''+''' 1 docosanoyl-CoA[c] '''+''' 1 H+[c] '''=>''' 1 3-oxo-lignoceroyl-CoA[c] '''+''' 1 coenzyme A[c] '''+''' 1 CO2[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7036]], very long chain fatty acid biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7036 PWY-7036]
+** '''16''' reactions found over '''16''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.3.1.199}}
+{{#set: in pathway=PWY-7036}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

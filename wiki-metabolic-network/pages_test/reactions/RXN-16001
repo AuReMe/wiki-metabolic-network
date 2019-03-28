@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-16001 RXN-16001] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** NADP-dependent L-serine/L-allo-threonine dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.381 EC-1.1.1.381]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADP]][c] '''+''' 1 [[L-ALLO-THREONINE]][c] '''=>''' 1 [[AMINO-ACETONE]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[NADPH]][c]
+* With common name(s):
+** 1 NADP+[c] '''+''' 1 L-allo-threonine[c] '''=>''' 1 aminoacetone[c] '''+''' 1 CO2[c] '''+''' 1 NADPH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16359]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=NADP-dependent L-serine/L-allo-threonine dehydrogenase}}
+{{#set: ec number=EC-1.1.1.381}}
+{{#set: gene associated=Tiso_gene_16359}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

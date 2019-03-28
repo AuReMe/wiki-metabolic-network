@@ -1,0 +1,65 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PLPSAL-PWY PLPSAL-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** pyridoxal 5'-phosphate salvage I
+* Synonym(s):
+** vitamin B6 salvage I
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''5''' reactions in the full pathway
+* [[PMPOXI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1471]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PNKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PNPOXI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1471]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PYRAMKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[PYRIDOXKIN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6106]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PLPSAL-PWY PLPSAL-PWY]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PLPSAL-PWY PLPSAL-PWY]
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=pyridoxal 5'-phosphate salvage I}}
+{{#set: common name=vitamin B6 salvage I}}
+{{#set: reaction found=5}}
+{{#set: total reaction=5}}
+{{#set: completion rate=100.0}}

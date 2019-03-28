@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=4-IMIDAZOLEACETATE 4-IMIDAZOLEACETATE] ==
+* smiles:
+** C1(NC=C(CC(=O)[O-])N=1)
+* common name:
+** 4-imidazoleacetate
+* inchi key:
+** InChIKey=PRJKNHOMHKJCEJ-UHFFFAOYSA-M
+* molecular weight:
+** 125.107    
+* Synonym(s):
+** imidazole-4-acetate
+** imidazoleacetic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ALDH_im4ac]]
+* [[RXN-10089]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4139109 4139109]
+* HMDB : HMDB02024
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02835 C02835]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3351679.html 3351679]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57969 57969]
+* METABOLIGHTS : MTBLC57969
+{{#set: smiles=C1(NC=C(CC(=O)[O-])N=1)}}
+{{#set: common name=4-imidazoleacetate}}
+{{#set: inchi key=InChIKey=PRJKNHOMHKJCEJ-UHFFFAOYSA-M}}
+{{#set: molecular weight=125.107    }}
+{{#set: common name=imidazole-4-acetate|imidazoleacetic acid}}
+{{#set: produced by=ALDH_im4ac|RXN-10089}}

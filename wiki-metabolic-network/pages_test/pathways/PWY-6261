@@ -1,0 +1,84 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6261 PWY-6261] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+* common name:
+** thyroid hormone metabolism II (via conjugation and/or degradation)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''11''' reactions found over '''15''' reactions in the full pathway
+* [[RXN-10606]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14141]]
+*** [[Tiso_gene_14140]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10607]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14141]]
+*** [[Tiso_gene_14140]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10608]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14141]]
+*** [[Tiso_gene_14140]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10609]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14140]]
+*** [[Tiso_gene_14141]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10614]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-10615]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5505]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-10616]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14140]]
+*** [[Tiso_gene_14141]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10617]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14140]]
+*** [[Tiso_gene_14141]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10618]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14141]]
+*** [[Tiso_gene_14140]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10619]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14141]]
+*** [[Tiso_gene_14140]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[THYROXINE-DEIODINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20481]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10610 RXN-10610]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10611 RXN-10611]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10612 RXN-10612]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10613 RXN-10613]
+== External links  ==
+{{#set: taxonomic range=TAX-7742}}
+{{#set: common name=thyroid hormone metabolism II (via conjugation and/or degradation)}}
+{{#set: reaction found=11}}
+{{#set: total reaction=15}}
+{{#set: completion rate=73.0}}

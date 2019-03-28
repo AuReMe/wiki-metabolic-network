@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=QUINOLINATE QUINOLINATE] ==
+* smiles:
+** C1(=CC=C(C(C([O-])=O)=N1)C([O-])=O)
+* common name:
+** quinolinate
+* inchi key:
+** InChIKey=GJAWHXHKYYXBSV-UHFFFAOYSA-L
+* molecular weight:
+** 165.105    
+* Synonym(s):
+** 2,3-pyridinedicarboxylic acid
+** 2,3-pyridinedicarboxylate
+** quinolinic acid
+** pyridine-2,3-dicarboxylic acid
+** pyridine-2,3-dicarboxylate
+
+== Reaction(s) known to consume the compound ==
+* [[QUINOPRIBOTRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-5721]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 89-00-9
+* BIGG : quln
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460301 5460301]
+* HMDB : HMDB00232
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03722 C03722]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573883.html 4573883]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29959 29959]
+* METABOLIGHTS : MTBLC29959
+{{#set: smiles=C1(=CC=C(C(C([O-])=O)=N1)C([O-])=O)}}
+{{#set: common name=quinolinate}}
+{{#set: inchi key=InChIKey=GJAWHXHKYYXBSV-UHFFFAOYSA-L}}
+{{#set: molecular weight=165.105    }}
+{{#set: common name=2,3-pyridinedicarboxylic acid|2,3-pyridinedicarboxylate|quinolinic acid|pyridine-2,3-dicarboxylic acid|pyridine-2,3-dicarboxylate}}
+{{#set: consumed by=QUINOPRIBOTRANS-RXN}}
+{{#set: produced by=RXN-5721}}

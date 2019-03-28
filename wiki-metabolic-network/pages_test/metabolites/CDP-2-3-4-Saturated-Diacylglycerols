@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CDP-2-3-4-Saturated-Diacylglycerols CDP-2-3-4-Saturated-Diacylglycerols] ==
+* common name:
+** a CDP-2,3,4-saturated-diacylglycerol
+* Synonym(s):
+** CDP-diglyceride
+** CDP-1,2-diglyceride
+** CDP-1,2-diacylglycerol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-5515]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a CDP-2,3,4-saturated-diacylglycerol}}
+{{#set: common name=CDP-diglyceride|CDP-1,2-diglyceride|CDP-1,2-diacylglycerol}}
+{{#set: produced by=RXN0-5515}}

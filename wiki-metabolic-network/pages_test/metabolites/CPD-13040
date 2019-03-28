@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13040 CPD-13040] ==
+* smiles:
+** CCCC(OCC(OC(CCC)=O)CO)=O
+* common name:
+** 1,2-dibutyrin
+* inchi key:
+** InChIKey=AWHAUPZHZYUHOM-VIFPVBQESA-N
+* molecular weight:
+** 232.276    
+* Synonym(s):
+** glycerol 1,2-dibutanoate
+** &beta;-dibutyrin
+** butanoic acid, 1-(hydroxymethyl)-1,2-ethanediyl ester
+** dibutyrylglycerol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12086]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 24814-35-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5327007 5327007]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8352519.html 8352519]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=76537 76537]
+{{#set: smiles=CCCC(OCC(OC(CCC)=O)CO)=O}}
+{{#set: common name=1,2-dibutyrin}}
+{{#set: inchi key=InChIKey=AWHAUPZHZYUHOM-VIFPVBQESA-N}}
+{{#set: molecular weight=232.276    }}
+{{#set: common name=glycerol 1,2-dibutanoate|&beta;-dibutyrin|butanoic acid, 1-(hydroxymethyl)-1,2-ethanediyl ester|dibutyrylglycerol}}
+{{#set: produced by=RXN-12086}}

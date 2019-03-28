@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8483 ==
+* right end position:
+** 3675
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1747
+* centisome position:
+** 9.833943    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UBIQUITIN--PROTEIN-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7511]]
+== External links  ==
+{{#set: right end position=3675}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1747}}
+{{#set: centisome position=9.833943    }}
+{{#set: reaction associated=RXN-15556|UBIQUITIN--PROTEIN-LIGASE-RXN}}
+{{#set: pathway associated=PWY-7511}}

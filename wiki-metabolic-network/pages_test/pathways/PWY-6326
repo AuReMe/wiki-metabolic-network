@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6326 PWY-6326] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-16921 TAX-16921]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4321 TAX-4321]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4289 TAX-4289]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-24966 TAX-24966]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4056 TAX-4056]
+* common name:
+** camptothecin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[STRICTOSIDINE-SYNTHASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8474]]
+*** [[Tiso_gene_8473]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.3.3.9-RXN 1.3.3.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10859 RXN-10859]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14030 RXN-14030]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14031 RXN-14031]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14036 RXN-14036]
+== External links  ==
+{{#set: taxonomic range=TAX-16921}}
+{{#set: taxonomic range=TAX-4321}}
+{{#set: taxonomic range=TAX-4289}}
+{{#set: taxonomic range=TAX-24966}}
+{{#set: taxonomic range=TAX-4056}}
+{{#set: common name=camptothecin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

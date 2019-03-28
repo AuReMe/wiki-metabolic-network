@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-oxo-hexanoyl-ACPs 3-oxo-hexanoyl-ACPs] ==
+* common name:
+** a 3-oxo-hexanoyl-[acp]
+* Synonym(s):
+** a 3-oxo-hexanoyl-[acyl-carrier protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9518]]
+* [[RXN-14972]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9648]]
+* [[RXN-9516]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-hexanoyl-[acp]}}
+{{#set: common name=a 3-oxo-hexanoyl-[acyl-carrier protein]}}
+{{#set: consumed by=RXN-9518|RXN-14972}}
+{{#set: produced by=RXN-9648|RXN-9516}}

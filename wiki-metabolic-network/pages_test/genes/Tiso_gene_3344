@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3344 ==
+* right end position:
+** 16880
+* transcription direction:
+** POSITIVE
+* left end position:
+** 12930
+* centisome position:
+** 76.310196    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GAPOXNPHOSPHN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-1042]]
+* [[PWY66-399]]
+* [[GLUCONEO-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[SUCSYN-PWY]]
+* [[P124-PWY]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[P122-PWY]]
+* [[P185-PWY]]
+* [[PWY-5484]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=16880}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=12930}}
+{{#set: centisome position=76.310196    }}
+{{#set: reaction associated=GAPOXNPHOSPHN-RXN}}
+{{#set: pathway associated=PWY-1042|PWY66-399|GLUCONEO-PWY|GLYCOLYSIS|PWY-6901|SUCSYN-PWY|P124-PWY|ANAGLYCOLYSIS-PWY|P122-PWY|P185-PWY|PWY-5484|PWY-7003}}

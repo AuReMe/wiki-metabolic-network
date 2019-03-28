@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.5.1.52-RXN 3.5.1.52-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** peptide-n4-(n-acetyl-beta-glucosaminyl)asparagine_amidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.1.52 EC-3.5.1.52]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CPD-8541]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[Protein-L-Aspartates]][c] '''+''' 1 [[N-ACETYL-BETA-GLUCOSAMINYLAMINE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a [protein]-N4-(N-acetyl-&beta;-D-glucosaminyl)-L-asparagine[c] '''<=>''' 1 H+[c] '''+''' 1 a [protein]-L-aspartate[c] '''+''' 1 N-acetyl-&beta;-glucosaminylamine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18090]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18091]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P81898 P81898]
+** [http://www.uniprot.org/uniprot/P21163 P21163]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=peptide-n4-(n-acetyl-beta-glucosaminyl)asparagine_amidase}}
+{{#set: ec number=EC-3.5.1.52}}
+{{#set: gene associated=Tiso_gene_18090|Tiso_gene_18091}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

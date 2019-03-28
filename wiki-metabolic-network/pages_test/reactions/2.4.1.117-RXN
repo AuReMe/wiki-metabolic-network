@@ -1,0 +1,52 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.4.1.117-RXN 2.4.1.117-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** udp-glucose--undecaprenyl-phosphate_glucosyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.117 EC-2.4.1.117]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DOLICHOLP]][c] '''+''' 1 [[CPD-12575]][c] '''=>''' 1 [[UDP]][c] '''+''' 1 [[CPD-166]][c]
+* With common name(s):
+** 1 a dolichyl phosphate[c] '''+''' 1 UDP-&alpha;-D-glucose[c] '''=>''' 1 UDP[c] '''+''' 1 a dolichyl &beta;-D-glucosyl phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8160]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]], protein N-glycosylation (eukaryotic, high mannose): [http://metacyc.org/META/NEW-IMAGE?object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]
+** '''19''' reactions found over '''19''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15401 15401]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01005 R01005]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P40350 P40350]
+** [http://www.uniprot.org/uniprot/Q9UUT0 Q9UUT0]
+** [http://www.uniprot.org/uniprot/Q9Y673 Q9Y673]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=udp-glucose--undecaprenyl-phosphate_glucosyltransferase}}
+{{#set: ec number=EC-2.4.1.117}}
+{{#set: gene associated=Tiso_gene_8160}}
+{{#set: in pathway=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

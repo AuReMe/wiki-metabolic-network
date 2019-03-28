@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-1103 CPD-1103] ==
+* smiles:
+** C1(C=C(O)C=CC=1C(OC2(OC(CO)C(O)C(O)C(O)2))C#N)
+* common name:
+** taxiphyllin
+* inchi key:
+** InChIKey=NVLTYOJHPBMILU-GMDXDWKASA-N
+* molecular weight:
+** 311.291    
+* Synonym(s):
+** (R)-4-hydroxymandelonitrile &beta;-D-glucoside
+** (2R)-(&beta;-D-glucopyranosyloxy)(4-hydroxyphenyl)acetonitrile
+** (R)-alpha-(&beta;-D-glucopyranosyloxy)-4-hydroxybenzeneacetonitrile
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13600]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 21401-21-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=107721 107721]
+* HMDB : HMDB30704
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01855 C01855]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.96890.html 96890]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16267 16267]
+{{#set: smiles=C1(C=C(O)C=CC=1C(OC2(OC(CO)C(O)C(O)C(O)2))C#N)}}
+{{#set: common name=taxiphyllin}}
+{{#set: inchi key=InChIKey=NVLTYOJHPBMILU-GMDXDWKASA-N}}
+{{#set: molecular weight=311.291    }}
+{{#set: common name=(R)-4-hydroxymandelonitrile &beta;-D-glucoside|(2R)-(&beta;-D-glucopyranosyloxy)(4-hydroxyphenyl)acetonitrile|(R)-alpha-(&beta;-D-glucopyranosyloxy)-4-hydroxybenzeneacetonitrile}}
+{{#set: consumed by=RXN-13600}}

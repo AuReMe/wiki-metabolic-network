@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6992 PWY-6992] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 1,5-anhydrofructose degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''5''' reactions in the full pathway
+* [[MANNKIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3107]]
+*** [[Tiso_gene_1303]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-creinhardtii]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-13064]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1035]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.292-RXN 1.1.1.292-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MANNPISOM-RXN MANNPISOM-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=1,5-anhydrofructose degradation}}
+{{#set: reaction found=3}}
+{{#set: total reaction=5}}
+{{#set: completion rate=60.0}}

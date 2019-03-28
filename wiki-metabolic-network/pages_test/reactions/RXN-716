@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-716 RXN-716] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.14.99 EC-1.14.99]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[CPD-714]][c] '''+''' 1 [[Donor-H2]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[Acceptor]][c] '''+''' 1 [[CPD-716]][c]
+* With common name(s):
+** 1 oxygen[c] '''+''' 1 cathasterone[c] '''+''' 1 a reduced electron acceptor[c] '''=>''' 1 H2O[c] '''+''' 1 an oxidized electron acceptor[c] '''+''' 1 teasterone[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8263]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3577]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-699]], brassinosteroid biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-699 PWY-699]
+** '''11''' reactions found over '''25''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07431 R07431]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.14.99}}
+{{#set: gene associated=Tiso_gene_8263|Tiso_gene_3577}}
+{{#set: in pathway=PWY-699}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

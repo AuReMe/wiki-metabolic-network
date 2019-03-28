@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12871 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-14125]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[THRESYN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[HOMOSER-THRESYN-PWY]]
+== External links  ==
+{{#set: reaction associated=RXN-14125|THRESYN-RXN}}
+{{#set: pathway associated=HOMOSER-THRESYN-PWY}}

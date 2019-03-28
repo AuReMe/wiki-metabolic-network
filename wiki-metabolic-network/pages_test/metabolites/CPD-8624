@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8624 CPD-8624] ==
+* common name:
+** a [protein]-L-proline (&omega; = 180)
+* Synonym(s):
+** a peptidylproline (&omega; = 180)
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+== External links  ==
+{{#set: common name=a [protein]-L-proline (&omega; = 180)}}
+{{#set: common name=a peptidylproline (&omega; = 180)}}
+{{#set: reversible reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

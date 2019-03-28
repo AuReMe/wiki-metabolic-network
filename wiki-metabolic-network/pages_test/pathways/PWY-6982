@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6982 PWY-6982] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** umbelliferone biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[4-COUMARATE--COA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12275]]
+*** [[Tiso_gene_14183]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12963 RXN-12963]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12965 RXN-12965]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=umbelliferone biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

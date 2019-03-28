@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=SALVPURINE2-PWY SALVPURINE2-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** xanthine and xanthosine salvage
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[XANPRIBOSYLTRAN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13506]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[XANTHOSINEPHOSPHORY-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=SALVPURINE2-PWY SALVPURINE2-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=xanthine and xanthosine salvage}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

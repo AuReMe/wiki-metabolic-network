@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16936 ==
+* right end position:
+** 1881
+* transcription direction:
+** POSITIVE
+* left end position:
+** 82
+* centisome position:
+** 2.0352445    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.1.1.77-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1881}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=82}}
+{{#set: centisome position=2.0352445    }}
+{{#set: reaction associated=2.1.1.77-RXN}}

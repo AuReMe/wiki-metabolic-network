@@ -1,0 +1,52 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2693 ==
+* right end position:
+** 9322
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5729
+* centisome position:
+** 30.835892    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDLIPACETRANS-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PYRUVDEH-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12508]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12583]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-1133]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-1134]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PYRUVDEHYD-PWY]]
+* [[PWY-7218]]
+* [[PWY-7384]]
+* [[PWY-6886]]
+* [[PWY-5537]]
+* [[GLYCOLYSIS-TCA-GLYOX-BYPASS]]
+* [[PWY-5482]]
+== External links  ==
+{{#set: right end position=9322}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5729}}
+{{#set: centisome position=30.835892    }}
+{{#set: reaction associated=DIHYDLIPACETRANS-RXN|PYRUVDEH-RXN|RXN-12508|RXN-12583|RXN0-1133|RXN0-1134}}
+{{#set: pathway associated=PYRUVDEHYD-PWY|PWY-7218|PWY-7384|PWY-6886|PWY-5537|GLYCOLYSIS-TCA-GLYOX-BYPASS|PWY-5482}}

@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1365 ==
+* right end position:
+** 8852
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6843
+* centisome position:
+** 28.457954    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=8852}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6843}}
+{{#set: centisome position=28.457954    }}
+{{#set: reaction associated=ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

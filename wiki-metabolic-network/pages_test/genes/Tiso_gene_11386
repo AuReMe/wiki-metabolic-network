@@ -1,0 +1,45 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11386 ==
+* right end position:
+** 12490
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7939
+* centisome position:
+** 36.877556    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTALDEHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[HISTOLDEHYD-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8001]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[HISTSYN-PWY]]
+== External links  ==
+{{#set: right end position=12490}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7939}}
+{{#set: centisome position=36.877556    }}
+{{#set: reaction associated=HISTALDEHYD-RXN|HISTOLDEHYD-RXN|RXN-8001}}
+{{#set: pathway associated=HISTSYN-PWY}}

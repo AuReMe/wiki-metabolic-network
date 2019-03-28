@@ -1,0 +1,74 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.26.4-RXN 3.1.26.4-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ribonuclease
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.26.4 EC-3.1.26.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** n [[WATER]][c] '''+''' 1 [[RNA-DNA-hybrids]][c] '''=>''' n [[Nucleoside-Monophosphates]][c] '''+''' 1 [[DNA-Holder]][c]
+* With common name(s):
+** n H2O[c] '''+''' 1 a RNA-DNA hybrid[c] '''=>''' n a nucleoside 5'-monophosphate[c] '''+''' 1 DNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16584]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9459]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9453]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3410]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10743]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P52975 P52975]
+** [http://www.uniprot.org/uniprot/Q9CDG3 Q9CDG3]
+** [http://www.uniprot.org/uniprot/Q9PM39 Q9PM39]
+** [http://www.uniprot.org/uniprot/Q9JX40 Q9JX40]
+** [http://www.uniprot.org/uniprot/P43807 P43807]
+** [http://www.uniprot.org/uniprot/P43808 P43808]
+** [http://www.uniprot.org/uniprot/Q9PJA1 Q9PJA1]
+** [http://www.uniprot.org/uniprot/Q9CG17 Q9CG17]
+** [http://www.uniprot.org/uniprot/Q9JTD9 Q9JTD9]
+** [http://www.uniprot.org/uniprot/Q57599 Q57599]
+** [http://www.uniprot.org/uniprot/O44114 O44114]
+** [http://www.uniprot.org/uniprot/P0A7Y4 P0A7Y4]
+** [http://www.uniprot.org/uniprot/P10442 P10442]
+** [http://www.uniprot.org/uniprot/P13319 P13319]
+** [http://www.uniprot.org/uniprot/Q7LYY8 Q7LYY8]
+** [http://www.uniprot.org/uniprot/P0A2B9 P0A2B9]
+** [http://www.uniprot.org/uniprot/Q04740 Q04740]
+** [http://www.uniprot.org/uniprot/Q49050 Q49050]
+** [http://www.uniprot.org/uniprot/O69014 O69014]
+** [http://www.uniprot.org/uniprot/Q54222 Q54222]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ribonuclease}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.1.26.4}}
+{{#set: gene associated=Tiso_gene_16584|Tiso_gene_9459|Tiso_gene_9453|Tiso_gene_3410|Tiso_gene_10743}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

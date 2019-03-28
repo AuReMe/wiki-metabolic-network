@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18403 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[BRANCHED-CHAINAMINOTRANSFERILEU-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[BRANCHED-CHAINAMINOTRANSFERLEU-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[BRANCHED-CHAINAMINOTRANSFERVAL-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[ILEUSYN-PWY]]
+* [[ILEUDEG-PWY]]
+* [[LEU-DEG2-PWY]]
+* [[VALDEG-PWY]]
+* [[PWY-5057]]
+* [[VALSYN-PWY]]
+* [[PWY-7767]]
+* [[PWY-5108]]
+* [[PWY-5076]]
+* [[PWY-5103]]
+* [[PWY-5101]]
+* [[PWY-5078]]
+* [[ALANINE-VALINESYN-PWY]]
+* [[LEUSYN-PWY]]
+* [[PWY-5104]]
+== External links  ==
+{{#set: reaction associated=BRANCHED-CHAINAMINOTRANSFERILEU-RXN|BRANCHED-CHAINAMINOTRANSFERLEU-RXN|BRANCHED-CHAINAMINOTRANSFERVAL-RXN}}
+{{#set: pathway associated=ILEUSYN-PWY|ILEUDEG-PWY|LEU-DEG2-PWY|VALDEG-PWY|PWY-5057|VALSYN-PWY|PWY-7767|PWY-5108|PWY-5076|PWY-5103|PWY-5101|PWY-5078|ALANINE-VALINESYN-PWY|LEUSYN-PWY|PWY-5104}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLUTARYL-COA GLUTARYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CCCC(=O)[O-])=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** glutaryl-CoA
+* inchi key:
+** InChIKey=SYKWLIJQEHRDNH-CKRMAKSASA-I
+* molecular weight:
+** 876.595    
+* Synonym(s):
+** glutaryl-coenzyme A
+** 4-carboxybutanoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2-KETO-ADIPATE-DEHYDROG-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-8032]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00527 C00527]
+* HMDB : HMDB01339
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57378 57378]
+* METABOLIGHTS : MTBLC57378
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266604 45266604]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CCCC(=O)[O-])=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=glutaryl-CoA}}
+{{#set: inchi key=InChIKey=SYKWLIJQEHRDNH-CKRMAKSASA-I}}
+{{#set: molecular weight=876.595    }}
+{{#set: common name=glutaryl-coenzyme A|4-carboxybutanoyl-CoA}}
+{{#set: produced by=2-KETO-ADIPATE-DEHYDROG-RXN}}
+{{#set: reversible reaction associated=RXN-8032}}

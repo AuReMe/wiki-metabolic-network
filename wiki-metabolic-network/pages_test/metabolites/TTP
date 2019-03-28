@@ -1,0 +1,50 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TTP TTP] ==
+* smiles:
+** CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O2))
+* common name:
+** dTTP
+* inchi key:
+** InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
+* molecular weight:
+** 478.139    
+* Synonym(s):
+** thymidine triphosphate
+** thymidine 5'-triphosphate
+** TTP
+
+== Reaction(s) known to consume the compound ==
+* [[DTTGY]]
+* [[RXN0-5107]]
+* [[RME255]]
+* [[DTTUP]]
+* [[THYMIDINE-TRIPHOSPHATASE-RXN]]
+* [[RXN-14200]]
+* [[DTNH]]
+== Reaction(s) known to produce the compound ==
+* [[ATDTDm]]
+* [[ATDTD]]
+* [[DTDPKIN-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[DTDPGLUCOSEPP-RXN]]
+== External links  ==
+* CAS : 365-08-2
+* BIGG : dttp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11988283 11988283]
+* HMDB : HMDB01342
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00459 C00459]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10160750.html 10160750]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=37568 37568]
+* METABOLIGHTS : MTBLC37568
+{{#set: smiles=CC1(=CN(C(=O)NC(=O)1)C2(CC(O)C(COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O2))}}
+{{#set: common name=dTTP}}
+{{#set: inchi key=InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J}}
+{{#set: molecular weight=478.139    }}
+{{#set: common name=thymidine triphosphate|thymidine 5'-triphosphate|TTP}}
+{{#set: consumed by=DTTGY|RXN0-5107|RME255|DTTUP|THYMIDINE-TRIPHOSPHATASE-RXN|RXN-14200|DTNH}}
+{{#set: produced by=ATDTDm|ATDTD|DTDPKIN-RXN}}
+{{#set: reversible reaction associated=DTDPGLUCOSEPP-RXN}}

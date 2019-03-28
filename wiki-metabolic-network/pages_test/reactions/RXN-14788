@@ -1,0 +1,61 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14788 RXN-14788] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** thiolase
+** acetyl-_c-acetyltransferase
+** 3-ketoacyl-_thiolase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.16 EC-2.3.1.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CO-A]][c] '''+''' 1 [[CPD-15676]][c] '''=>''' 1 [[ACETYL-COA]][c] '''+''' 1 [[CPD-15677]][c]
+* With common name(s):
+** 1 coenzyme A[c] '''+''' 1 6-trans-3-oxo-tridecenoyl-CoA[c] '''=>''' 1 acetyl-CoA[c] '''+''' 1 4-trans-undecenoyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3855]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15327]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3856]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10116]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17451]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7338]], 10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7338 PWY-7338]
+** '''3''' reactions found over '''12''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=thiolase}}
+{{#set: common name=acetyl-_c-acetyltransferase}}
+{{#set: common name=3-ketoacyl-_thiolase}}
+{{#set: ec number=EC-2.3.1.16}}
+{{#set: gene associated=Tiso_gene_3855|Tiso_gene_15327|Tiso_gene_3856|Tiso_gene_10116|Tiso_gene_17451}}
+{{#set: in pathway=PWY-7338}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

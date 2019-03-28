@@ -1,0 +1,14 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3396 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4.2.2.10-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[5.99.1.3-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=4.2.2.10-RXN|5.99.1.3-RXN|ADENOSINETRIPHOSPHATASE-RXN}}

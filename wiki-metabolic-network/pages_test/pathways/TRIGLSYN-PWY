@@ -1,0 +1,64 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=TRIGLSYN-PWY TRIGLSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** diacylglycerol and triacylglycerol biosynthesis
+* Synonym(s):
+** triglyceride biosynthesis
+** Kennedy pathway
+** TAG biosynthesis
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''7''' reactions in the full pathway
+* [[DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_20057]]
+*** [[Tiso_gene_11824]]
+*** [[Tiso_gene_3902]]
+*** [[Tiso_gene_8007]]
+*** [[Tiso_gene_8889]]
+*** [[Tiso_gene_8006]]
+*** [[Tiso_gene_20058]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSPHATIDATE-PHOSPHATASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5063]]
+*** [[Tiso_gene_7386]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12383]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12959]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-1381]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-1623]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13959]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1641]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=TRIGLSYN-PWY TRIGLSYN-PWY]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=diacylglycerol and triacylglycerol biosynthesis}}
+{{#set: common name=triglyceride biosynthesis|Kennedy pathway|TAG biosynthesis}}
+{{#set: reaction found=7}}
+{{#set: total reaction=7}}
+{{#set: completion rate=100.0}}

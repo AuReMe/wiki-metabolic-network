@@ -1,0 +1,75 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ASPARAGINE--TRNA-LIGASE-RXN ASPARAGINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** mitochondrial_carrier_(bou_s-adenosylmethionine_carrier)
+** ORF
+** mitochondrial_substrate_carrier_family_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.22 EC-6.1.1.22]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[ASN]][c] '''+''' 1 [[ASN-tRNAs]][c] '''=>''' 1 [[Charged-ASN-tRNAs]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 L-asparagine[c] '''+''' 1 tRNAasn[c] '''=>''' 1 an L-asparaginyl-[tRNAasn][c] '''+''' 1 diphosphate[c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9304]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9908]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13908]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6065]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_9303]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11180 11180]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03648 R03648]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P39772 P39772]
+** [http://www.uniprot.org/uniprot/O57980 O57980]
+** [http://www.uniprot.org/uniprot/Q9V251 Q9V251]
+** [http://www.uniprot.org/uniprot/Q9CEK9 Q9CEK9]
+** [http://www.uniprot.org/uniprot/P47359 P47359]
+** [http://www.uniprot.org/uniprot/O51128 O51128]
+** [http://www.uniprot.org/uniprot/O83618 O83618]
+** [http://www.uniprot.org/uniprot/O58008 O58008]
+** [http://www.uniprot.org/uniprot/O96198 O96198]
+** [http://www.uniprot.org/uniprot/P54262 P54262]
+** [http://www.uniprot.org/uniprot/P75521 P75521]
+** [http://www.uniprot.org/uniprot/Q48966 Q48966]
+** [http://www.uniprot.org/uniprot/P0A8M0 P0A8M0]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=mitochondrial_carrier_(bou_s-adenosylmethionine_carrier)}}
+{{#set: common name=ORF}}
+{{#set: common name=mitochondrial_substrate_carrier_family_protein}}
+{{#set: ec number=EC-6.1.1.22}}
+{{#set: gene associated=Tiso_gene_9304|Tiso_gene_9908|Tiso_gene_13908|Tiso_gene_6065|Tiso_gene_9303}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

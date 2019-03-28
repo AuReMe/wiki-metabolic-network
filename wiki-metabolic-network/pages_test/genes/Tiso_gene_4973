@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4973 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.10.2.2-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14107]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15816]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15829]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-3781]]
+* [[PWY-6692]]
+* [[PWY-7279]]
+* [[PWY-7082]]
+== External links  ==
+{{#set: reaction associated=1.10.2.2-RXN|RXN-14107|RXN-15816|RXN-15829}}
+{{#set: pathway associated=PWY-3781|PWY-6692|PWY-7279|PWY-7082}}

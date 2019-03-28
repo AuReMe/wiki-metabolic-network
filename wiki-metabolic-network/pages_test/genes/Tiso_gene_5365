@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5365 ==
+* right end position:
+** 3112
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 90
+* centisome position:
+** 0.6637657    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMATE-N-ACETYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[N-ACETYLTRANSFER-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-6948]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5154]]
+* [[GLUTORN-PWY]]
+* [[ARGSYNBSUB-PWY]]
+== External links  ==
+{{#set: right end position=3112}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=90}}
+{{#set: centisome position=0.6637657    }}
+{{#set: reaction associated=GLUTAMATE-N-ACETYLTRANSFERASE-RXN|N-ACETYLTRANSFER-RXN|RXN0-6948}}
+{{#set: pathway associated=PWY-5154|GLUTORN-PWY|ARGSYNBSUB-PWY}}

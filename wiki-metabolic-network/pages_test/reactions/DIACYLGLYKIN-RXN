@@ -1,0 +1,74 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DIACYLGLYKIN-RXN DIACYLGLYKIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** diacylglycerol_kinase_catalytic_region
+** diacylglycerol_kinase
+** sphingosine_kinase_1
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.107 EC-2.7.1.107]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DIACYLGLYCEROL]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[L-PHOSPHATIDATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 a 1,2-diacyl-sn-glycerol[c] '''+''' 1 ATP[c] '''=>''' 1 a 1,2-diacyl-sn-glycerol 3-phosphate[c] '''+''' 1 H+[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14560]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1163]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1420]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7817]], type I lipoteichoic acid biosynthesis (S. aureus): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7817 PWY-7817]
+** '''7''' reactions found over '''16''' reactions in the full pathway
+* [[PWY-7039]], phosphatidate metabolism, as a signaling molecule: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7039 PWY-7039]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10272 10272]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02240 R02240]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q01583 Q01583]
+** [http://www.uniprot.org/uniprot/P49621 P49621]
+** [http://www.uniprot.org/uniprot/P49619 P49619]
+** [http://www.uniprot.org/uniprot/P51556 P51556]
+** [http://www.uniprot.org/uniprot/Q9JTJ7 Q9JTJ7]
+** [http://www.uniprot.org/uniprot/Q9CGK9 Q9CGK9]
+** [http://www.uniprot.org/uniprot/Q9PIN8 Q9PIN8]
+** [http://www.uniprot.org/uniprot/O08560 O08560]
+** [http://www.uniprot.org/uniprot/P0ABN1 P0ABN1]
+** [http://www.uniprot.org/uniprot/P20192 P20192]
+** [http://www.uniprot.org/uniprot/P23743 P23743]
+** [http://www.uniprot.org/uniprot/Q06119 Q06119]
+** [http://www.uniprot.org/uniprot/Q03603 Q03603]
+** [http://www.uniprot.org/uniprot/Q39017 Q39017]
+** [http://www.uniprot.org/uniprot/Q09103 Q09103]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=diacylglycerol_kinase_catalytic_region}}
+{{#set: common name=diacylglycerol_kinase}}
+{{#set: common name=sphingosine_kinase_1}}
+{{#set: ec number=EC-2.7.1.107}}
+{{#set: gene associated=Tiso_gene_14560|Tiso_gene_1163|Tiso_gene_1420}}
+{{#set: in pathway=PWY-7817|PWY-7039}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

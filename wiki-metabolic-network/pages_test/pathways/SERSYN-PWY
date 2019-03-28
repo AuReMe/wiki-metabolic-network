@@ -1,0 +1,62 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=SERSYN-PWY SERSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-serine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''3''' reactions in the full pathway
+* [[PGLYCDEHYDROG-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_6223]]
+*** [[Tiso_gene_6224]]
+*** [[Tiso_gene_17123]]
+*** [[Tiso_gene_15687]]
+*** [[Tiso_gene_15686]]
+*** [[Tiso_gene_18904]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PSERTRANSAM-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17123]]
+*** [[Tiso_gene_15686]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-5114]]
+** 2 associated gene(s):
+*** [[Tiso_gene_6236]]
+*** [[Tiso_gene_16271]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=SERSYN-PWY SERSYN-PWY]
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=SERSYN-PWY SERSYN-PWY]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-serine biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=3}}
+{{#set: completion rate=100.0}}

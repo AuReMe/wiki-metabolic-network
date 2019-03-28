@@ -1,0 +1,109 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6733 PWY-6733] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** sporopollenin precursors biosynthesis
+* Synonym(s):
+** sporopollenin monomer biosynthesis
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''18''' reactions in the full pathway
+* [[PALMITOYL-COA-HYDROLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_801]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[RXN-12184]]
+** 9 associated gene(s):
+*** [[Tiso_gene_9394]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_348]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-16389]]
+** 9 associated gene(s):
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_9394]]
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_13394]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-16401]]
+** 9 associated gene(s):
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_9394]]
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_136]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-16402]]
+** 9 associated gene(s):
+*** [[Tiso_gene_7855]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_348]]
+*** [[Tiso_gene_9394]]
+*** [[Tiso_gene_4191]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_13394]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-9624]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7477]]
+*** [[Tiso_gene_801]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+* [[RXN-9627]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-9666]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7477]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12186 RXN-12186]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16398 RXN-16398]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16399 RXN-16399]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16400 RXN-16400]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16403 RXN-16403]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16404 RXN-16404]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16405 RXN-16405]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16406 RXN-16406]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16407 RXN-16407]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-16408 RXN-16408]
+== External links  ==
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=sporopollenin precursors biosynthesis}}
+{{#set: common name=sporopollenin monomer biosynthesis}}
+{{#set: reaction found=8}}
+{{#set: total reaction=18}}
+{{#set: completion rate=44.0}}

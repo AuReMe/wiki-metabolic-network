@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7517 PWY-7517] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4890 TAX-4890]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** brassicicene C biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[FARNESYLTRANSTRANSFERASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7305]]
+*** [[Tiso_gene_16284]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10632 RXN-10632]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15591 RXN-15591]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15592 RXN-15592]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15593 RXN-15593]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15594 RXN-15594]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15595 RXN-15595]
+== External links  ==
+{{#set: taxonomic range=TAX-4890}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=brassicicene C biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

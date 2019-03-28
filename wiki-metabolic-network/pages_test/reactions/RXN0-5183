@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5183 RXN0-5183] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** alpha-glucosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.20 EC-3.2.1.20]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[MALTOTRIOSE]][c] '''=>''' 1 [[MALTOSE]][c] '''+''' 1 [[Glucopyranose]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 maltotriose[c] '''=>''' 1 maltose[c] '''+''' 1 D-glucopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_600]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_599]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4953]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_4952]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[GLYCOCAT-PWY]], glycogen degradation I: [http://metacyc.org/META/NEW-IMAGE?object=GLYCOCAT-PWY GLYCOCAT-PWY]
+** '''6''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27970 27970]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R05196 R05196]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=alpha-glucosidase}}
+{{#set: ec number=EC-3.2.1.20}}
+{{#set: gene associated=Tiso_gene_600|Tiso_gene_599|Tiso_gene_4953|Tiso_gene_4952}}
+{{#set: in pathway=GLYCOCAT-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

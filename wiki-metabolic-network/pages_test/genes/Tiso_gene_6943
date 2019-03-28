@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6943 ==
+* right end position:
+** 2452
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 25
+* centisome position:
+** 0.21435308    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-OCTAPRENYL-6-OHPHENOL-METHY-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[DHHB-METHYLTRANSFER-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6708]]
+* [[PWY-5870]]
+== External links  ==
+{{#set: right end position=2452}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=25}}
+{{#set: centisome position=0.21435308    }}
+{{#set: reaction associated=2-OCTAPRENYL-6-OHPHENOL-METHY-RXN|DHHB-METHYLTRANSFER-RXN}}
+{{#set: pathway associated=PWY-6708|PWY-5870}}

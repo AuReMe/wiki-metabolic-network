@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.24.71-RXN 3.4.24.71-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** endothelin-converting_enzyme_1
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.24.71 EC-3.4.24.71]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[big-endothelin]][c] '''=>''' 1 [[Peptides-holder]][c] '''+''' 1 [[endothelin-1]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 big endothelin[c] '''=>''' 1 a peptide[c] '''+''' 1 endothelin 1[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3765]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=endothelin-converting_enzyme_1}}
+{{#set: ec number=EC-3.4.24.71}}
+{{#set: gene associated=Tiso_gene_3765}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

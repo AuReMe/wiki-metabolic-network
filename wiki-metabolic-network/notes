@@ -1,0 +1,46 @@
+LocalSettings:
+enableSemantics():
+$wgGroupPermissions['bureaucrat']['ediinterface'] = true;
+
+install composer:
+cd /tmp
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === '48e3236262b34d30969dca3c37281b3b4bbe3221bda826ac6a9a62d6444cdb0dcd0615698a5cbe587c3f0fe57a54d8f5') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+mv composer.phar /usr/bin/composer
+
+install semantic:
+composer require mediawiki/semantic-media-wiki "3.0.1" --update-no-dev
+php maintenance/update.php
+
+
+
+
+HOW TO:
+git clone docker-version
+pre-config:
+- ports to use:
+- database host, name, user and password:
+config database host in:
+  [/!\] the service 'database' is used as host, if need to change host, then service 'database' is no longuer required
+  wiki [db_host]
+config database name in:
+  docker-compose.yml [MYSQL_DATABASE]
+  wiki_config [db_name]
+config database user in:
+  docker-compose.yml [MYSQL_USER]
+  wiki_config [db_user]
+config database password in:
+  docker-compose.yml [MYSQL_PASSWORD]
+  wiki_config [db_pwd]
+
+
+user
+
+
+make init
+post-config:
+- set host info
+
+

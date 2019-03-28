@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3641 PWY-3641] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** L-carnitine degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[1.1.1.39-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12896]]
+*** [[Tiso_gene_6675]]
+*** [[Tiso_gene_12200]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-6002]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7322]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5921 RXN-5921]
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=L-carnitine degradation III}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

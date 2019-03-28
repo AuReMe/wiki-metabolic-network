@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LysW-L-glutamate LysW-L-glutamate] ==
+* common name:
+** an [L-2-aminoadipate carrier protein]-L-glutamate
+* Synonym(s):
+** a [LysW protein]-L-glutamate
+** an [&alpha;-aminoadipate carrier protein]-L-glutamate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15005]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an [L-2-aminoadipate carrier protein]-L-glutamate}}
+{{#set: common name=a [LysW protein]-L-glutamate|an [&alpha;-aminoadipate carrier protein]-L-glutamate}}
+{{#set: consumed by=RXN-15005}}

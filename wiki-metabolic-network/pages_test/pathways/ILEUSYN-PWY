@@ -1,0 +1,76 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ILEUSYN-PWY ILEUSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-isoleucine biosynthesis I (from threonine)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''7''' reactions found over '''7''' reactions in the full pathway
+* [[ACETOOHBUTREDUCTOISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10173]]
+** 3 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ACETOOHBUTSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11362]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[BRANCHED-CHAINAMINOTRANSFERILEU-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14984]]
+*** [[Tiso_gene_18403]]
+*** [[Tiso_gene_17748]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[DIHYDROXYMETVALDEHYDRAT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1563]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN-15121]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-15122]]
+** 3 associated gene(s):
+*** [[Tiso_gene_8525]]
+*** [[Tiso_gene_17207]]
+*** [[Tiso_gene_12535]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-15123]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=ILEUSYN-PWY ILEUSYN-PWY]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-isoleucine biosynthesis I (from threonine)}}
+{{#set: reaction found=7}}
+{{#set: total reaction=7}}
+{{#set: completion rate=100.0}}

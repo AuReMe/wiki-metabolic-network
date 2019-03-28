@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12592 ==
+* right end position:
+** 3644
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 86
+* centisome position:
+** 1.2560246    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ARGSUCCINSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-10]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-4984]]
+* [[PWY-5]]
+* [[ARGSYN-PWY]]
+* [[PWY-5154]]
+* [[ARGSYNBSUB-PWY]]
+* [[PWY-4983]]
+* [[PWY-7400]]
+== External links  ==
+{{#set: right end position=3644}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=86}}
+{{#set: centisome position=1.2560246    }}
+{{#set: reaction associated=ARGSUCCINSYN-RXN|RXN-10}}
+{{#set: pathway associated=PWY-4984|PWY-5|ARGSYN-PWY|PWY-5154|ARGSYNBSUB-PWY|PWY-4983|PWY-7400}}

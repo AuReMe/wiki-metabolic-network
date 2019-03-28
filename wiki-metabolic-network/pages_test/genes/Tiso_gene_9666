@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9666 ==
+* right end position:
+** 7332
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2238
+* centisome position:
+** 24.491137    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UBIQUITIN--PROTEIN-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7511]]
+== External links  ==
+{{#set: right end position=7332}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2238}}
+{{#set: centisome position=24.491137    }}
+{{#set: reaction associated=RXN-15556|UBIQUITIN--PROTEIN-LIGASE-RXN}}
+{{#set: pathway associated=PWY-7511}}

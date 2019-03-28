@@ -1,0 +1,51 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6859 PWY-6859] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** all-trans-farnesol biosynthesis
+* Synonym(s):
+** trans,trans-farnesol biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[FPPSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16284]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[GPPSYN-RXN]]
+** 9 associated gene(s):
+*** [[Tiso_gene_19542]]
+*** [[Tiso_gene_18201]]
+*** [[Tiso_gene_16284]]
+*** [[Tiso_gene_2848]]
+*** [[Tiso_gene_1035]]
+*** [[Tiso_gene_4719]]
+*** [[Tiso_gene_11582]]
+*** [[Tiso_gene_13582]]
+*** [[Tiso_gene_10317]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[IPPISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8653]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8617 RXN-8617]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=all-trans-farnesol biosynthesis}}
+{{#set: common name=trans,trans-farnesol biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

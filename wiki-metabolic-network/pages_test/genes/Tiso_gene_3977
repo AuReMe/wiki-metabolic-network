@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3977 ==
+* right end position:
+** 24325
+* transcription direction:
+** POSITIVE
+* left end position:
+** 20843
+* centisome position:
+** 80.1623    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=24325}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=20843}}
+{{#set: centisome position=80.1623    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|PROTEIN-KINASE-RXN|RXN-11201}}

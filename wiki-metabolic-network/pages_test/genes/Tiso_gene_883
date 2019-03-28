@@ -1,0 +1,59 @@
+[[Category:Gene]]
+== Gene Tiso_gene_883 ==
+* right end position:
+** 19396
+* transcription direction:
+** POSITIVE
+* left end position:
+** 16636
+* centisome position:
+** 59.7536    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ACYLCOADEHYDROG-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11734]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13451]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13615]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14131]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14229]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14262]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14278]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16540]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16557]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7094]]
+* [[PWY-7654]]
+* [[FAO-PWY]]
+* [[PWY-7656]]
+== External links  ==
+{{#set: right end position=19396}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=16636}}
+{{#set: centisome position=59.7536    }}
+{{#set: reaction associated=ACYLCOADEHYDROG-RXN|LONG-CHAIN-ACYL-COA-DEHYDROGENASE-RXN|LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN|RXN-11734|RXN-13451|RXN-13615|RXN-14131|RXN-14229|RXN-14262|RXN-14278|RXN-16540|RXN-16557}}
+{{#set: pathway associated=PWY-7094|PWY-7654|FAO-PWY|PWY-7656}}

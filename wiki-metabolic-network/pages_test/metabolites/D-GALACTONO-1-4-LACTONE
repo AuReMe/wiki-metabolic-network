@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-GALACTONO-1-4-LACTONE D-GALACTONO-1-4-LACTONE] ==
+* smiles:
+** C(O)C(O)[CH]1(C(O)C(O)C(=O)O1)
+* common name:
+** D-galactono-1,4-lactone
+* inchi key:
+** InChIKey=SXZYCXMUPBBULW-AIHAYLRMSA-N
+* molecular weight:
+** 178.141    
+* Synonym(s):
+** D-galactonate-&gamma;-lactone
+** galactono-&gamma;-lactone
+** D-galactonolactone
+** D-galactono-&gamma;-lactone
+** D-galactonic acid &gamma;-lactone
+** &gamma;-D-galactonolactone
+** D-(-)-galactonic acid &gamma;-lactone
+** D-galactonic acid g-lactone
+
+== Reaction(s) known to consume the compound ==
+* [[GALACTONOLACTONASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 2782-07-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=97165 97165]
+* HMDB : HMDB02541
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03383 C03383]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.92162.html 92162]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15895 15895]
+{{#set: smiles=C(O)C(O)[CH]1(C(O)C(O)C(=O)O1)}}
+{{#set: common name=D-galactono-1,4-lactone}}
+{{#set: inchi key=InChIKey=SXZYCXMUPBBULW-AIHAYLRMSA-N}}
+{{#set: molecular weight=178.141    }}
+{{#set: common name=D-galactonate-&gamma;-lactone|galactono-&gamma;-lactone|D-galactonolactone|D-galactono-&gamma;-lactone|D-galactonic acid &gamma;-lactone|&gamma;-D-galactonolactone|D-(-)-galactonic acid &gamma;-lactone|D-galactonic acid g-lactone}}
+{{#set: consumed by=GALACTONOLACTONASE-RXN}}

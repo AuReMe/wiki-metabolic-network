@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-259 CPD-259] ==
+* smiles:
+** C1(=CC(=CC=C1N)O)
+* common name:
+** 4-aminophenol
+* inchi key:
+** InChIKey=PLIKAWJENQZMHA-UHFFFAOYSA-N
+* molecular weight:
+** 109.127    
+* Synonym(s):
+** 4-hydroxyaniline
+** p-aminophenol
+** 4-aminobenzenol
+** p-hydroxyaniline
+** p-aminobenzenol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[AMINOPARATHION-PHOSPHATASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 123-30-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=403 403]
+* HMDB : HMDB01169
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02372 C02372]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.392.html 392]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17602 17602]
+* METABOLIGHTS : MTBLC17602
+{{#set: smiles=C1(=CC(=CC=C1N)O)}}
+{{#set: common name=4-aminophenol}}
+{{#set: inchi key=InChIKey=PLIKAWJENQZMHA-UHFFFAOYSA-N}}
+{{#set: molecular weight=109.127    }}
+{{#set: common name=4-hydroxyaniline|p-aminophenol|4-aminobenzenol|p-hydroxyaniline|p-aminobenzenol}}
+{{#set: produced by=AMINOPARATHION-PHOSPHATASE-RXN}}

@@ -1,0 +1,84 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ARGININE--TRNA-LIGASE-RXN ARGININE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** arginyl-trna_synthetase
+** arginine-trna_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.19 EC-6.1.1.19]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ARG-tRNAs]][c] '''+''' 1 [[ARG]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[Charged-ARG-tRNAs]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 a tRNAarg[c] '''+''' 1 L-arginine[c] '''+''' 1 ATP[c] '''=>''' 1 an L-arginyl-[tRNAarg][c] '''+''' 1 diphosphate[c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12997]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16360]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20301 20301]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03646 R03646]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P40329 P40329]
+** [http://www.uniprot.org/uniprot/P35868 P35868]
+** [http://www.uniprot.org/uniprot/P43832 P43832]
+** [http://www.uniprot.org/uniprot/O51540 O51540]
+** [http://www.uniprot.org/uniprot/O67068 O67068]
+** [http://www.uniprot.org/uniprot/O59147 O59147]
+** [http://www.uniprot.org/uniprot/O83803 O83803]
+** [http://www.uniprot.org/uniprot/Q9ZE81 Q9ZE81]
+** [http://www.uniprot.org/uniprot/Q9PNC0 Q9PNC0]
+** [http://www.uniprot.org/uniprot/Q9X0H8 Q9X0H8]
+** [http://www.uniprot.org/uniprot/P46906 P46906]
+** [http://www.uniprot.org/uniprot/Q57689 Q57689]
+** [http://www.uniprot.org/uniprot/O27496 O27496]
+** [http://www.uniprot.org/uniprot/Q9JTM7 Q9JTM7]
+** [http://www.uniprot.org/uniprot/Q9CE12 Q9CE12]
+** [http://www.uniprot.org/uniprot/P56128 P56128]
+** [http://www.uniprot.org/uniprot/P47618 P47618]
+** [http://www.uniprot.org/uniprot/Q9ZMB9 Q9ZMB9]
+** [http://www.uniprot.org/uniprot/Q08888 Q08888]
+** [http://www.uniprot.org/uniprot/P54136 P54136]
+** [http://www.uniprot.org/uniprot/P38714 P38714]
+** [http://www.uniprot.org/uniprot/Q05506 Q05506]
+** [http://www.uniprot.org/uniprot/P75222 P75222]
+** [http://www.uniprot.org/uniprot/P11875 P11875]
+** [http://www.uniprot.org/uniprot/O23247 O23247]
+** [http://www.uniprot.org/uniprot/O74781 O74781]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=arginyl-trna_synthetase}}
+{{#set: common name=arginine-trna_ligase}}
+{{#set: ec number=EC-6.1.1.19}}
+{{#set: gene associated=Tiso_gene_12997|Tiso_gene_16360}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

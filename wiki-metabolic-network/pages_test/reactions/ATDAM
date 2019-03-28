@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ATDAM ATDAM] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ATP:dAMP phosphotransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[DAMP]][c] '''+''' 1.0 [[ATP]][c] '''=>''' 1.0 [[ADP]][c] '''+''' 1.0 [[DADP]][c]
+* With common name(s):
+** 1.0 dAMP[c] '''+''' 1.0 ATP[c] '''=>''' 1.0 ADP[c] '''+''' 1.0 dADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_805]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5837]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5839]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ATP:dAMP phosphotransferase}}
+{{#set: gene associated=Tiso_gene_805|Tiso_gene_5837|Tiso_gene_5839}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

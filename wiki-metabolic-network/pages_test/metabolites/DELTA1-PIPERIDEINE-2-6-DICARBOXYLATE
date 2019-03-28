@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE] ==
+* smiles:
+** C1(CC(=NC(C1)C([O-])=O)C([O-])=O)
+* common name:
+** (S)-2,3,4,5-tetrahydrodipicolinate
+* inchi key:
+** InChIKey=CXMBCXQHOXUCEO-BYPYZUCNSA-L
+* molecular weight:
+** 169.137    
+* Synonym(s):
+** 2,3,4,5-tetrahydrodipicolinate
+** (S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+** &Delta;1-piperideine-2,6-dicarboxylate
+** tetrahydrodipicolinate
+** tetrahydropyridine-2,6-dicarboxylate
+** L-2,3,4,5-tetrahydrodipicolinate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14014]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-7737]]
+* [[RXN-4821]]
+== External links  ==
+* CAS : 52-52-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460405 5460405]
+* HMDB : HMDB12289
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03972 C03972]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573939.html 4573939]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16845 16845]
+* BIGG : thdp
+{{#set: smiles=C1(CC(=NC(C1)C([O-])=O)C([O-])=O)}}
+{{#set: common name=(S)-2,3,4,5-tetrahydrodipicolinate}}
+{{#set: inchi key=InChIKey=CXMBCXQHOXUCEO-BYPYZUCNSA-L}}
+{{#set: molecular weight=169.137    }}
+{{#set: common name=2,3,4,5-tetrahydrodipicolinate|(S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate|&Delta;1-piperideine-2,6-dicarboxylate|tetrahydrodipicolinate|tetrahydropyridine-2,6-dicarboxylate|L-2,3,4,5-tetrahydrodipicolinate}}
+{{#set: produced by=RXN-14014}}
+{{#set: reversible reaction associated=RXN-7737|RXN-4821}}

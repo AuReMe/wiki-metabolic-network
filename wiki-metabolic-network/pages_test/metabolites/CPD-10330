@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10330 CPD-10330] ==
+* smiles:
+** C(C1(C(C(C(O1)O)O)O))O
+* common name:
+** &alpha;-D-ribofuranose
+* inchi key:
+** InChIKey=HMFHBZSHGGEWLO-AIHAYLRMSA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+** &alpha; D-ribose
+
+== Reaction(s) known to consume the compound ==
+* [[RIBOKIN-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14904]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=445894 445894]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5575.html 5575]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=45506 45506]
+* HMDB : HMDB00283
+{{#set: smiles=C(C1(C(C(C(O1)O)O)O))O}}
+{{#set: common name=&alpha;-D-ribofuranose}}
+{{#set: inchi key=InChIKey=HMFHBZSHGGEWLO-AIHAYLRMSA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: common name=&alpha; D-ribose}}
+{{#set: consumed by=RIBOKIN-RXN}}
+{{#set: reversible reaction associated=RXN-14904}}

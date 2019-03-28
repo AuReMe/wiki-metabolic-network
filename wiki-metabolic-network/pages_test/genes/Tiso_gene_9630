@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9630 ==
+* right end position:
+** 6630
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4240
+* centisome position:
+** 46.283157    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CHORISMATE-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6163]]
+== External links  ==
+{{#set: right end position=6630}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4240}}
+{{#set: centisome position=46.283157    }}
+{{#set: reaction associated=CHORISMATE-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-6163}}

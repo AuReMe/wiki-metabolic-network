@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN1F-144 RXN1F-144] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.99 EC-2.5.1.99]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[GERANYLGERANYL-PP]][c] '''<=>''' 1 [[PHYTOENE]][c] '''+''' 2 [[PPI]][c]
+* With common name(s):
+** 2 geranylgeranyl diphosphate[c] '''<=>''' 1 all-trans-phytoene[c] '''+''' 2 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15914]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=32454 32454]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07916 R07916]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.5.1.99}}
+{{#set: gene associated=Tiso_gene_15914}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

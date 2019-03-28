@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-1-phosphatidyl-inositols L-1-phosphatidyl-inositols] ==
+* common name:
+** an L-1-phosphatidyl-inositol
+* Synonym(s):
+** a phosphatidylinositol
+** a 1-phosphatidyl-D-myo-inositol
+** a 1-phosphatidylinositol
+** an L-1-phosphatidylinositol
+** a phosphatidyl-inositol
+** a 1-phosphatidyl-1D-myo-inositol
+** a phosphatidyl-1D-myo-inositol
+** a (3-phosphatidyl)-1-D-inositol
+** PtdIns
+
+== Reaction(s) known to consume the compound ==
+* [[1-PHOSPHATIDYLINOSITOL-KINASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[2.7.8.11-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-16261]]
+* [[2.4.1.198-RXN]]
+== External links  ==
+{{#set: common name=an L-1-phosphatidyl-inositol}}
+{{#set: common name=a phosphatidylinositol|a 1-phosphatidyl-D-myo-inositol|a 1-phosphatidylinositol|an L-1-phosphatidylinositol|a phosphatidyl-inositol|a 1-phosphatidyl-1D-myo-inositol|a phosphatidyl-1D-myo-inositol|a (3-phosphatidyl)-1-D-inositol|PtdIns}}
+{{#set: consumed by=1-PHOSPHATIDYLINOSITOL-KINASE-RXN}}
+{{#set: produced by=2.7.8.11-RXN}}
+{{#set: reversible reaction associated=RXN-16261|2.4.1.198-RXN}}

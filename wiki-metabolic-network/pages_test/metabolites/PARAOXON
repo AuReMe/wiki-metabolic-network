@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PARAOXON PARAOXON] ==
+* smiles:
+** CCOP(OC1(C=CC(=CC=1)[N+]([O-])=O))(OCC)=O
+* common name:
+** paraoxon
+* inchi key:
+** InChIKey=WYMSBXTXOHUIGT-UHFFFAOYSA-N
+* molecular weight:
+** 275.197    
+* Synonym(s):
+** O,O-diethyl-O-p-nitrophenylphosphoric acid
+** diethyl-p-nitrophenyl phosphate
+** phosphoric acid diethyl 4-nitrophenyl ester
+** diethyl paraoxon
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8746]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 311-45-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9395 9395]
+* HMDB : HMDB13035
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06606 C06606]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.9026.html 9026]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27827 27827]
+{{#set: smiles=CCOP(OC1(C=CC(=CC=1)[N+]([O-])=O))(OCC)=O}}
+{{#set: common name=paraoxon}}
+{{#set: inchi key=InChIKey=WYMSBXTXOHUIGT-UHFFFAOYSA-N}}
+{{#set: molecular weight=275.197    }}
+{{#set: common name=O,O-diethyl-O-p-nitrophenylphosphoric acid|diethyl-p-nitrophenyl phosphate|phosphoric acid diethyl 4-nitrophenyl ester|diethyl paraoxon}}
+{{#set: consumed by=RXN-8746}}

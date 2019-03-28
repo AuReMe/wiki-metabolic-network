@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HOMO-SER HOMO-SER] ==
+* smiles:
+** C(CO)C([N+])C([O-])=O
+* common name:
+** L-homoserine
+* inchi key:
+** InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
+* molecular weight:
+** 119.12    
+* Synonym(s):
+** homo-ser
+** homoserine
+** 2-amino-4-hydroxybutanoic acid
+** 2-amino-4-hydroxybutanoate
+
+== Reaction(s) known to consume the compound ==
+* [[HOMOSERDEAM-RXN]]
+* [[HOMOSERKIN-RXN]]
+* [[RXN-14049]]
+== Reaction(s) known to produce the compound ==
+* [[HOMOSERDEHYDROG-RXN]]
+* [[R01775]]
+== Reaction(s) of unknown directionality ==
+* [[HOMOSERINE-O-ACETYLTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 672-15-1
+* BIGG : hom__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971022 6971022]
+* HMDB : HMDB00719
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00263 C00263]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57476 57476]
+* METABOLIGHTS : MTBLC57476
+{{#set: smiles=C(CO)C([N+])C([O-])=O}}
+{{#set: common name=L-homoserine}}
+{{#set: inchi key=InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N}}
+{{#set: molecular weight=119.12    }}
+{{#set: common name=homo-ser|homoserine|2-amino-4-hydroxybutanoic acid|2-amino-4-hydroxybutanoate}}
+{{#set: consumed by=HOMOSERDEAM-RXN|HOMOSERKIN-RXN|RXN-14049}}
+{{#set: produced by=HOMOSERDEHYDROG-RXN|R01775}}
+{{#set: reversible reaction associated=HOMOSERINE-O-ACETYLTRANSFERASE-RXN}}

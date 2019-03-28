@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9833 ==
+* right end position:
+** 2960
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2
+* centisome position:
+** 2.212634100e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11839]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11840]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11841]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11842]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2960}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=2.212634100e-2}}
+{{#set: reaction associated=RXN-11839|RXN-11840|RXN-11841|RXN-11842|TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

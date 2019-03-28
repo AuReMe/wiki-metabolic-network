@@ -1,0 +1,65 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.26.3-RXN 3.1.26.3-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** low_quality_protein:_ribonuclease_3-like
+** mini-ribonuclease_3
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.26.3 EC-3.1.26.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[RNASE-III-MRNA-PROCESSING-SUBSTRATE]][c] '''+''' 2 [[WATER]][c] '''=>''' 1 [[RNASE-III-PROCESSING-PRODUCT-MRNA]][c] '''+''' 2 [[mRNA-Fragments]][c]
+* With common name(s):
+** 1 RNase III mRNA processing substrate[c] '''+''' 2 H2O[c] '''=>''' 1 RNase III processing product mRNA[c] '''+''' 2 an mRNA fragment[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10131]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6282]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10752]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10753]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_10649]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_608]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9PM40 Q9PM40]
+** [http://www.uniprot.org/uniprot/P51833 P51833]
+** [http://www.uniprot.org/uniprot/Q9CHD0 Q9CHD0]
+** [http://www.uniprot.org/uniprot/Q9JVD3 Q9JVD3]
+** [http://www.uniprot.org/uniprot/P44441 P44441]
+** [http://www.uniprot.org/uniprot/P0A7Y0 P0A7Y0]
+** [http://www.uniprot.org/uniprot/P09155 P09155]
+** [http://www.uniprot.org/uniprot/Q52698 Q52698]
+** [http://www.uniprot.org/uniprot/Q49034 Q49034]
+** [http://www.uniprot.org/uniprot/O69469 O69469]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=low_quality_protein:_ribonuclease_3-like}}
+{{#set: common name=mini-ribonuclease_3}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.1.26.3}}
+{{#set: gene associated=Tiso_gene_10131|Tiso_gene_6282|Tiso_gene_10752|Tiso_gene_10753|Tiso_gene_10649|Tiso_gene_608}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

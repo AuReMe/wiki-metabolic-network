@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-1-PHOSPHATIDYL-SERINE L-1-PHOSPHATIDYL-SERINE] ==
+* common name:
+** a 3-O-sn-phosphatidyl-L-serine
+* Synonym(s):
+** phosphatidylserine (Ecoli)
+** phosphatidyl-serine
+** 3-O-sn-phosphatidyl-L-serine
+** phosphatidyl-L-serine
+** 1-phosphatidyl-serine
+** an O-sn-phosphatidyl-L-serine
+** a phosphatidyl-serine
+** an L-1-phosphatidylserine
+** a phosphatidyl-L-serine
+** a 1-phosphatidyl-serine
+
+== Reaction(s) known to consume the compound ==
+* [[PHOSPHASERDECARB-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-O-sn-phosphatidyl-L-serine}}
+{{#set: common name=phosphatidylserine (Ecoli)|phosphatidyl-serine|3-O-sn-phosphatidyl-L-serine|phosphatidyl-L-serine|1-phosphatidyl-serine|an O-sn-phosphatidyl-L-serine|a phosphatidyl-serine|an L-1-phosphatidylserine|a phosphatidyl-L-serine|a 1-phosphatidyl-serine}}
+{{#set: consumed by=PHOSPHASERDECARB-RXN}}

@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P164-PWY P164-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1239 TAX-1239]
+* common name:
+** purine nucleobases degradation I (anaerobic)
+* Synonym(s):
+** purine fermentation
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''17''' reactions in the full pathway
+* [[GUANINE-DEAMINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12280]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[METHENYLTHFCYCLOHYDRO-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[RXN-7682]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN0-901]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.1.2-RXN 1.2.1.2-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=4.3.1.4-RXN 4.3.1.4-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETATEKIN-RXN ACETATEKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=FORMYLTHFDEFORMYL-RXN FORMYLTHFDEFORMYL-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCINE-FORMIMINOTRANSFERASE-RXN GLYCINE-FORMIMINOTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R127-RXN R127-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R128-RXN R128-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R13-RXN R13-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R62-RXN R62-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R63-RXN R63-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7566 RXN-7566]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8752 RXN-8752]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8755 RXN-8755]
+== External links  ==
+{{#set: taxonomic range=TAX-1239}}
+{{#set: common name=purine nucleobases degradation I (anaerobic)}}
+{{#set: common name=purine fermentation}}
+{{#set: reaction found=4}}
+{{#set: total reaction=17}}
+{{#set: completion rate=24.0}}

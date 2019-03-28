@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-ENOLPYRUVYL-SHIKIMATE-5P 3-ENOLPYRUVYL-SHIKIMATE-5P] ==
+* smiles:
+** C=C(C(=O)[O-])OC1(CC(C(=O)[O-])=CC(OP(=O)([O-])[O-])C(O)1)
+* common name:
+** 5-enolpyruvoyl-shikimate 3-phosphate
+* inchi key:
+** InChIKey=QUTYKIXIUDQOLK-PRJMDXOYSA-J
+* molecular weight:
+** 320.149    
+* Synonym(s):
+** 3-enolpyruvyl-shikimate 5-phosphate
+** 3-enolpyruvyl-shikimate-5-P
+** 5-O-(1-carboxyvinyl)-3-phosphoshikimate
+** 5-enolpyruvyl-shikimate 3-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[CHORISMATE-SYNTHASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.5.1.19-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=14506801 14506801]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57701 57701]
+* BIGG : 3psme
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01269 C01269]
+{{#set: smiles=C=C(C(=O)[O-])OC1(CC(C(=O)[O-])=CC(OP(=O)([O-])[O-])C(O)1)}}
+{{#set: common name=5-enolpyruvoyl-shikimate 3-phosphate}}
+{{#set: inchi key=InChIKey=QUTYKIXIUDQOLK-PRJMDXOYSA-J}}
+{{#set: molecular weight=320.149    }}
+{{#set: common name=3-enolpyruvyl-shikimate 5-phosphate|3-enolpyruvyl-shikimate-5-P|5-O-(1-carboxyvinyl)-3-phosphoshikimate|5-enolpyruvyl-shikimate 3-phosphate}}
+{{#set: consumed by=CHORISMATE-SYNTHASE-RXN}}
+{{#set: reversible reaction associated=2.5.1.19-RXN}}

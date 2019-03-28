@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-DIHYDROXY-PHENYLALANINE L-DIHYDROXY-PHENYLALANINE] ==
+* smiles:
+** C(C(CC1(C=CC(O)=C(O)C=1))[N+])(=O)[O-]
+* common name:
+** L-dopa
+* inchi key:
+** InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
+* molecular weight:
+** 197.19    
+* Synonym(s):
+** DOPA
+** 3-hydroxytyrosine
+** 3,4-dihydroxy-L-phenylalanine
+** dihydroxyphenylalanine
+** L-dihydroxy-phenylalanine
+** levodopa
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13061]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-5861]]
+* [[RXN-11369]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971033 6971033]
+* CAS : 59-92-7
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=118381 118381]
+* HMDB : HMDB00181
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00355 C00355]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57504 57504]
+* METABOLIGHTS : MTBLC57504
+{{#set: smiles=C(C(CC1(C=CC(O)=C(O)C=1))[N+])(=O)[O-]}}
+{{#set: common name=L-dopa}}
+{{#set: inchi key=InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N}}
+{{#set: molecular weight=197.19    }}
+{{#set: common name=DOPA|3-hydroxytyrosine|3,4-dihydroxy-L-phenylalanine|dihydroxyphenylalanine|L-dihydroxy-phenylalanine|levodopa}}
+{{#set: consumed by=RXN-13061}}
+{{#set: produced by=RXN-5861|RXN-11369}}

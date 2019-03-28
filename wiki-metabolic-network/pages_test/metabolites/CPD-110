@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-110 CPD-110] ==
+* smiles:
+** C(C1(=CC=CC=C1O))([O-])=O
+* common name:
+** salicylate
+* inchi key:
+** InChIKey=YGSDEFSMJLZEOE-UHFFFAOYSA-M
+* molecular weight:
+** 137.115    
+* Synonym(s):
+** salicylic acid
+** o-hydroxybenzoic acid
+** 2-hydroxybenzoic acid
+** SA
+** 2-HBA
+** 2-hydroxybenzoate
+** o-hydroxybenzoate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[1.2.1.65-RXN]]
+* [[RXNQT-4366]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 69-72-7
+* Wikipedia : Salicylate
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54675850 54675850]
+* KNAPSACK : C00000206
+* HMDB : HMDB01895
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00805 C00805]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4964.html 4964]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=30762 30762]
+{{#set: smiles=C(C1(=CC=CC=C1O))([O-])=O}}
+{{#set: common name=salicylate}}
+{{#set: inchi key=InChIKey=YGSDEFSMJLZEOE-UHFFFAOYSA-M}}
+{{#set: molecular weight=137.115    }}
+{{#set: common name=salicylic acid|o-hydroxybenzoic acid|2-hydroxybenzoic acid|SA|2-HBA|2-hydroxybenzoate|o-hydroxybenzoate}}
+{{#set: produced by=1.2.1.65-RXN|RXNQT-4366}}

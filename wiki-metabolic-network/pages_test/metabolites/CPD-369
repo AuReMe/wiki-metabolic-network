@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-369 CPD-369] ==
+* smiles:
+** C(C(C(C(C(O)CO)O)O)O)O
+* common name:
+** L-iditol
+* inchi key:
+** InChIKey=FBPFZTCFMRRESA-UNTFVMJOSA-N
+* molecular weight:
+** 182.173    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[L-IDITOL-2-DEHYDROGENASE-RXN]]
+== External links  ==
+* CAS : 488-45-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460044 5460044]
+* HMDB : HMDB11632
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01507 C01507]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573729.html 4573729]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18202 18202]
+* METABOLIGHTS : MTBLC18202
+{{#set: smiles=C(C(C(C(C(O)CO)O)O)O)O}}
+{{#set: common name=L-iditol}}
+{{#set: inchi key=InChIKey=FBPFZTCFMRRESA-UNTFVMJOSA-N}}
+{{#set: molecular weight=182.173    }}
+{{#set: reversible reaction associated=L-IDITOL-2-DEHYDROGENASE-RXN}}

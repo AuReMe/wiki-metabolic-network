@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-90 CPD1F-90] ==
+* smiles:
+** C3(C=C(O)C=CC(C1(=C([O-])C(=O)C2(C(O)=CC(O)=CC(O1)=2)))=3)
+* common name:
+** kaempferol
+* inchi key:
+** InChIKey=IYRMWMYZSQPJKC-UHFFFAOYSA-M
+* molecular weight:
+** 285.232    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13935]]
+* [[RXN-12510]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-93]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202062 25202062]
+* HMDB : HMDB05801
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58573 58573]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05903 C05903]
+{{#set: smiles=C3(C=C(O)C=CC(C1(=C([O-])C(=O)C2(C(O)=CC(O)=CC(O1)=2)))=3)}}
+{{#set: common name=kaempferol}}
+{{#set: inchi key=InChIKey=IYRMWMYZSQPJKC-UHFFFAOYSA-M}}
+{{#set: molecular weight=285.232    }}
+{{#set: consumed by=RXN-13935|RXN-12510}}
+{{#set: produced by=RXN1F-93}}

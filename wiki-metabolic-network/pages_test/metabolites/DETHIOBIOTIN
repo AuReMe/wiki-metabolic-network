@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DETHIOBIOTIN DETHIOBIOTIN] ==
+* smiles:
+** CC1(NC(=O)NC1CCCCCC(=O)[O-])
+* common name:
+** dethiobiotin
+* inchi key:
+** InChIKey=AUTOLBMXDDTRRT-UHFFFAOYSA-M
+* molecular weight:
+** 213.256    
+* Synonym(s):
+** desthiobiotin
+** DTB
+
+== Reaction(s) known to consume the compound ==
+* [[2.8.1.6-RXN]]
+* [[RXN-17472]]
+== Reaction(s) known to produce the compound ==
+* [[DETHIOBIOTIN-SYN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 533-48-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244917 25244917]
+* HMDB : HMDB03581
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01909 C01909]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57861 57861]
+* BIGG : dtbt
+{{#set: smiles=CC1(NC(=O)NC1CCCCCC(=O)[O-])}}
+{{#set: common name=dethiobiotin}}
+{{#set: inchi key=InChIKey=AUTOLBMXDDTRRT-UHFFFAOYSA-M}}
+{{#set: molecular weight=213.256    }}
+{{#set: common name=desthiobiotin|DTB}}
+{{#set: consumed by=2.8.1.6-RXN|RXN-17472}}
+{{#set: produced by=DETHIOBIOTIN-SYN-RXN}}

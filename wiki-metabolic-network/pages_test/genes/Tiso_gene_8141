@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8141 ==
+* right end position:
+** 10482
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7717
+* centisome position:
+** 73.55128    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GSAAMINOTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5188]]
+== External links  ==
+{{#set: right end position=10482}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7717}}
+{{#set: centisome position=73.55128    }}
+{{#set: reaction associated=GSAAMINOTRANS-RXN}}
+{{#set: pathway associated=PWY-5188}}

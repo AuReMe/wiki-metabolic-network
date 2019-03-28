@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-GALACTOSYL-14-D-GALACTOSYL-14-D- D-GALACTOSYL-14-D-GALACTOSYL-14-D-] ==
+* common name:
+** a globotriosylceramide
+* Synonym(s):
+** a &alpha;-D-galactosyl-(1,4)-D-galactosyl-(1,4)-D-glucosylceramide
+** an &alpha;-D-galactosyl-(1->4)-&beta;-D-galactosyl-(1->4)-&beta;-D-glucosylceramide
+** a trihexosylceramide
+** a D-galactosyl-1,4-D-galactosyl-1,4-D-glucosylceramide
+** a Pk histo-blood group antigen
+
+== Reaction(s) known to consume the compound ==
+* [[3.2.1.47-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a globotriosylceramide}}
+{{#set: common name=a &alpha;-D-galactosyl-(1,4)-D-galactosyl-(1,4)-D-glucosylceramide|an &alpha;-D-galactosyl-(1->4)-&beta;-D-galactosyl-(1->4)-&beta;-D-glucosylceramide|a trihexosylceramide|a D-galactosyl-1,4-D-galactosyl-1,4-D-glucosylceramide|a Pk histo-blood group antigen}}
+{{#set: consumed by=3.2.1.47-RXN}}

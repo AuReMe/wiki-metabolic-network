@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8773 ==
+* right end position:
+** 6235
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4156
+* centisome position:
+** 41.97132    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CYTOCHROME-B5-REDUCTASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6235}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4156}}
+{{#set: centisome position=41.97132    }}
+{{#set: reaction associated=CYTOCHROME-B5-REDUCTASE-RXN|RXN-11195}}

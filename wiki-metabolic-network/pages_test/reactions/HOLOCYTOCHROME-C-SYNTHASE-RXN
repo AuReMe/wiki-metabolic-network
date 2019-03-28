@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HOLOCYTOCHROME-C-SYNTHASE-RXN HOLOCYTOCHROME-C-SYNTHASE-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** holocytochrome_c_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.4.1.17 EC-4.4.1.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Cytochromes-c]][c] '''<=>''' 1 [[Apocytochromes-c]][c] '''+''' 1 [[HEME_C]][c]
+* With common name(s):
+** 1 a c-type cytochrome[c] '''<=>''' 1 an apo-[c-type cytochrome][c] '''+''' 1 heme c[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_20060]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02480 R02480]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P06182 P06182]
+** [http://www.uniprot.org/uniprot/P14187 P14187]
+** [http://www.uniprot.org/uniprot/O25044 O25044]
+** [http://www.uniprot.org/uniprot/O83139 O83139]
+** [http://www.uniprot.org/uniprot/P45706 P45706]
+** [http://www.uniprot.org/uniprot/Q9ZMH0 Q9ZMH0]
+** [http://www.uniprot.org/uniprot/P44202 P44202]
+** [http://www.uniprot.org/uniprot/P53701 P53701]
+** [http://www.uniprot.org/uniprot/Q00873 Q00873]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=holocytochrome_c_synthase}}
+{{#set: ec number=EC-4.4.1.17}}
+{{#set: gene associated=Tiso_gene_20060}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

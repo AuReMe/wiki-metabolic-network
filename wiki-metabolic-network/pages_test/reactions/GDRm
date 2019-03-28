@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GDRm GDRm] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutathione-disulfide reductase, mitochondria
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PROTON]][m] '''+''' 1.0 [[NADH]][m] '''+''' 1.0 [[OXIDIZED-GLUTATHIONE]][m] '''=>''' 1.0 [[NAD]][m] '''+''' 2.0 [[GLUTATHIONE]][m]
+* With common name(s):
+** 1.0 H+[m] '''+''' 1.0 NADH[m] '''+''' 1.0 glutathione disulfide[m] '''=>''' 1.0 NAD+[m] '''+''' 2.0 glutathione[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12533]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2804]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutathione-disulfide reductase, mitochondria}}
+{{#set: gene associated=Tiso_gene_12533|Tiso_gene_2804}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

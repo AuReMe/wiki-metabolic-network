@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R06284 R06284] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R129
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Chlorophyllides]][c] '''+''' 1.0 [[PHYTYL-PYROPHOSPHATE]][c] '''=>''' 1.0 [[PPI]][c] '''+''' 1.0 [[CHLOROPHYLL-A]][c]
+* With common name(s):
+** 1.0 a chlorophyllide[c] '''+''' 1.0 phytyl diphosphate[c] '''=>''' 1.0 diphosphate[c] '''+''' 1.0 chlorophyll a[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19542]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R129}}
+{{#set: gene associated=Tiso_gene_19542}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

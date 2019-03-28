@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-1163 CPD0-1163] ==
+* smiles:
+** CCCCCCCCC=CCC(O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** (S)-3-hydroxy-(5Z)-tetradecenoyl-CoA
+* inchi key:
+** InChIKey=KJJPUIFALMAQPF-SUAKZGBESA-J
+* molecular weight:
+** 987.845    
+* Synonym(s):
+** (S)-3-hydroxy-5-cis-tetradecenoyl-CoA
+** (S)-3-hydroxy-14:1-&Delta;5-CoA
+** (3S)-hydroxy-5-cis-tetradecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14393]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244729 25244729]
+{{#set: smiles=CCCCCCCCC=CCC(O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA}}
+{{#set: inchi key=InChIKey=KJJPUIFALMAQPF-SUAKZGBESA-J}}
+{{#set: molecular weight=987.845    }}
+{{#set: common name=(S)-3-hydroxy-5-cis-tetradecenoyl-CoA|(S)-3-hydroxy-14:1-&Delta;5-CoA|(3S)-hydroxy-5-cis-tetradecenoyl-CoA}}
+{{#set: consumed by=RXN-14393}}

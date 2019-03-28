@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6260 PWY-6260] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+* common name:
+** thyroid hormone metabolism I (via deiodination)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''12''' reactions in the full pathway
+* [[RXN-10604]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20481]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-12037]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20481]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[THYROXINE-DEIODINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_20481]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.97.1.11-RXN 1.97.1.11-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10605 RXN-10605]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12030 RXN-12030]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12031 RXN-12031]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12032 RXN-12032]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12033 RXN-12033]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12034 RXN-12034]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12035 RXN-12035]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12036 RXN-12036]
+== External links  ==
+{{#set: taxonomic range=TAX-7742}}
+{{#set: common name=thyroid hormone metabolism I (via deiodination)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=12}}
+{{#set: completion rate=25.0}}

@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIPHTHAMIDE DIPHTHAMIDE] ==
+* common name:
+** a diphthamide-[translation elongation factor 2]
+* Synonym(s):
+** a {3-[4-(2-amino-2-carboxy-ethyl)-1H-imidazol-2-YL]-1-carbomyl-propyl}-trimethyl-ammonium
+** a 2-[(3R)-3-carbamoyl-3-(trimethylammonio)propyl]-L-histidyl
+** a 2'-[3-carboxamido-3-(trimethylammonio)propyl]-L-histidine
+** a peptide diphthamide
+** a diphthamide in eEF-2
+** a [translation elongation factor 2] diphthamide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DIPHTINE--AMMONIA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a diphthamide-[translation elongation factor 2]}}
+{{#set: common name=a {3-[4-(2-amino-2-carboxy-ethyl)-1H-imidazol-2-YL]-1-carbomyl-propyl}-trimethyl-ammonium|a 2-[(3R)-3-carbamoyl-3-(trimethylammonio)propyl]-L-histidyl|a 2'-[3-carboxamido-3-(trimethylammonio)propyl]-L-histidine|a peptide diphthamide|a diphthamide in eEF-2|a [translation elongation factor 2] diphthamide}}
+{{#set: produced by=DIPHTINE--AMMONIA-LIGASE-RXN}}

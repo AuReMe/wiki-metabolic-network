@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5942 PWY-5942] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** trans-lycopene biosynthesis I (bacteria)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6287]]
+** 0 associated gene:
+* [[RXNARA-8002]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15914]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12412 RXN-12412]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=trans-lycopene biosynthesis I (bacteria)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

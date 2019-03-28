@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MG-PROTOPORPHYRIN MG-PROTOPORPHYRIN] ==
+* smiles:
+** C=CC2(C(C)=C4(C=C8(C(C)=C(CCC(=O)[O-])C7(=N([Mg]35(N1(=C(C(C=C)=C(C)C1=CC=2N34)C=C6(C(C)=C(CCC(=O)[O-])C(N56)=C7))))8))))
+* common name:
+** Mg-protoporphyrin
+* molecular weight:
+** 582.94    
+* Synonym(s):
+** Mg-protoporphyrin IX
+** magnesium protoporphyrin
+** MgP
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-20]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657481 90657481]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=60492 60492]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03516 C03516]
+{{#set: smiles=C=CC2(C(C)=C4(C=C8(C(C)=C(CCC(=O)[O-])C7(=N([Mg]35(N1(=C(C(C=C)=C(C)C1=CC=2N34)C=C6(C(C)=C(CCC(=O)[O-])C(N56)=C7))))8))))}}
+{{#set: common name=Mg-protoporphyrin}}
+{{#set: molecular weight=582.94    }}
+{{#set: common name=Mg-protoporphyrin IX|magnesium protoporphyrin|MgP}}
+{{#set: consumed by=RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN}}
+{{#set: produced by=RXN1F-20}}

@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6993 PWY-6993] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** nicotine degradation II (pyrrolidine pathway)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''11''' reactions in the full pathway
+* [[RXN-646]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14341]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[SUCCSEMIALDDEHYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6952]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.13.11.9-RXN 1.13.11.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALEATE-ISOMERASE-RXN MALEATE-ISOMERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11318 RXN-11318]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13076 RXN-13076]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13077 RXN-13077]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13081 RXN-13081]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13082 RXN-13082]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13088 RXN-13088]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13089 RXN-13089]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=nicotine degradation II (pyrrolidine pathway)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=11}}
+{{#set: completion rate=18.0}}

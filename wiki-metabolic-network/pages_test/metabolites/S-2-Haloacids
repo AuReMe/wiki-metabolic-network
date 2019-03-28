@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-2-Haloacids S-2-Haloacids] ==
+* common name:
+** an (S)-2-haloacid
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[2-HALOACID-DEHALOGENASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[3.8.1.11-RXN]]
+== External links  ==
+{{#set: common name=an (S)-2-haloacid}}
+{{#set: consumed by=2-HALOACID-DEHALOGENASE-RXN}}
+{{#set: reversible reaction associated=3.8.1.11-RXN}}

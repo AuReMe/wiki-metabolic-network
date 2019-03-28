@@ -1,0 +1,34 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLUDEG-II-PWY GLUDEG-II-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1239 TAX-1239]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** L-glutamate degradation VII (to butanoate)
+* Synonym(s):
+** L-glutamate fermentation
+** mesaconate pathway
+** L-glutamate degradation VII (to butyrate)
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[CENTFERM-PWY]]
+** 0 associated gene:
+* [[HYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4288]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5087 PWY-5087]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5087 PWY-5087]
+* [http://metacyc.org/META/NEW-IMAGE?object=PYRUFLAVREDUCT-RXN PYRUFLAVREDUCT-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-1239}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=L-glutamate degradation VII (to butanoate)}}
+{{#set: common name=L-glutamate fermentation|mesaconate pathway|L-glutamate degradation VII (to butyrate)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

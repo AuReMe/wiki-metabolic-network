@@ -1,0 +1,24 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6032 PWY-6032] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4163 TAX-4163]
+* common name:
+** cardenolide biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PROGESTERONE-5-ALPHA-REDUCTASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14327]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.278-RXN 1.1.1.278-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9726 RXN-9726]
+== External links  ==
+{{#set: taxonomic range=TAX-4163}}
+{{#set: common name=cardenolide biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

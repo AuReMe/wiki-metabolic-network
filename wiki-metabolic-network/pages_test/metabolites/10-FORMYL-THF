@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=10-FORMYL-THF 10-FORMYL-THF] ==
+* smiles:
+** C2([CH](CN(C=O)C1(C=CC(C(=O)NC(C(=O)[O-])CCC([O-])=O)=CC=1))NC3(C(=O)NC(N)=NC(N2)=3))
+* common name:
+** 10-formyl-tetrahydrofolate mono-L-glutamate
+* inchi key:
+** InChIKey=AUFGTPPARQZWDO-YPMHNXCESA-L
+* molecular weight:
+** 471.429    
+* Synonym(s):
+** N10-formyl-tetrahydrofolate mono-L-glutamate
+** N10-formyl-THF mono-L-glutamate
+** N10-formyl-H4F mono-L-glutamate
+** 10-formyl-THF mono-L-glutamate
+** 10-formyl-H4PteGlu1
+** N10-formyl-H4PteGlu1
+
+== Reaction(s) known to consume the compound ==
+* [[FTHFO]]
+* [[MTHFCx]]
+* [[R04560]]
+== Reaction(s) known to produce the compound ==
+* [[FTHFL]]
+== Reaction(s) of unknown directionality ==
+* [[FPGFTm]]
+* [[R01655]]
+* [[FPAIF]]
+== External links  ==
+* CAS : 2800-34-2
+* BIGG : 10fthf
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878370 46878370]
+* HMDB : HMDB00972
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00234 C00234]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57454 57454]
+* METABOLIGHTS : MTBLC57454
+{{#set: smiles=C2([CH](CN(C=O)C1(C=CC(C(=O)NC(C(=O)[O-])CCC([O-])=O)=CC=1))NC3(C(=O)NC(N)=NC(N2)=3))}}
+{{#set: common name=10-formyl-tetrahydrofolate mono-L-glutamate}}
+{{#set: inchi key=InChIKey=AUFGTPPARQZWDO-YPMHNXCESA-L}}
+{{#set: molecular weight=471.429    }}
+{{#set: common name=N10-formyl-tetrahydrofolate mono-L-glutamate|N10-formyl-THF mono-L-glutamate|N10-formyl-H4F mono-L-glutamate|10-formyl-THF mono-L-glutamate|10-formyl-H4PteGlu1|N10-formyl-H4PteGlu1}}
+{{#set: consumed by=FTHFO|MTHFCx|R04560}}
+{{#set: produced by=FTHFL}}
+{{#set: reversible reaction associated=FPGFTm|R01655|FPAIF}}

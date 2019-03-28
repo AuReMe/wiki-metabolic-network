@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_614 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADCLY-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-6543]]
+== External links  ==
+{{#set: reaction associated=ADCLY-RXN}}
+{{#set: pathway associated=PWY-6543}}

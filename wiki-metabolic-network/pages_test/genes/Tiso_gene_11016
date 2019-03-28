@@ -1,0 +1,87 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11016 ==
+* right end position:
+** 5075
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2656
+* centisome position:
+** 32.68923    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.145-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DIHYDROKAEMPFEROL-4-REDUCTASE-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[PEROXID-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-1101]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-1106]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-1124]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-12693]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12747]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12789]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14240]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15288]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17352]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-600]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-7784]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-8635]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-9725]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN66-342]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-350]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN66-353]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7299]]
+* [[PWY-7214]]
+* [[PWY-6824]]
+* [[PWY-5152]]
+* [[PWY-5461]]
+* [[PWY66-378]]
+* [[PWY-7445]]
+* [[PWY-6946]]
+* [[PWY-5469]]
+* [[PWY-6944]]
+* [[PWY-5466]]
+* [[PWY-6027]]
+* [[PWY-361]]
+* [[PWY-6948]]
+* [[PWY1F-823]]
+* [[PWY-6035]]
+== External links  ==
+{{#set: right end position=5075}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2656}}
+{{#set: centisome position=32.68923    }}
+{{#set: reaction associated=1.1.1.145-RXN|DIHYDROKAEMPFEROL-4-REDUCTASE-RXN|PEROXID-RXN|RXN-1101|RXN-1106|RXN-1124|RXN-12693|RXN-12747|RXN-12789|RXN-14240|RXN-15288|RXN-17352|RXN-600|RXN-7784|RXN-8635|RXN-9725|RXN66-342|RXN66-350|RXN66-353}}
+{{#set: pathway associated=PWY-7299|PWY-7214|PWY-6824|PWY-5152|PWY-5461|PWY66-378|PWY-7445|PWY-6946|PWY-5469|PWY-6944|PWY-5466|PWY-6027|PWY-361|PWY-6948|PWY1F-823|PWY-6035}}

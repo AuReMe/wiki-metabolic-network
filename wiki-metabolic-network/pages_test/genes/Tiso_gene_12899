@@ -1,0 +1,217 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12899 ==
+* right end position:
+** 6537
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3684
+* centisome position:
+** 55.398495    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADPA]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[APYRASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[ATPPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[CTPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DTNH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GDPA]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GTPA]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GUANOSINE-DIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[NUCLEOSIDE-DIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[NUCLEOSIDE-TRIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10862]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12196]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12197]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12198]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-12199]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12200]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14003]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14024]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14187]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14198]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14199]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14200]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14201]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14205]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14208]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14213]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN-14214]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14215]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14216]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14217]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14218]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14219]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14220]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-3542]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5073]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN0-5462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[THYMIDINE-TRIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UPH]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[UTPH]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7210]]
+* [[PWY-7198]]
+* [[PWY-7177]]
+* [[PWY-7185]]
+* [[PWY-7184]]
+* [[PWY-6545]]
+== External links  ==
+{{#set: right end position=6537}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3684}}
+{{#set: centisome position=55.398495    }}
+{{#set: reaction associated=ADPA|APYRASE-RXN|ATPASE-RXN|ATPPH|CTPH|DTNH|GDPA|GTPA|GUANOSINE-DIPHOSPHATASE-RXN|NUCLEOSIDE-DIPHOSPHATASE-RXN|NUCLEOSIDE-TRIPHOSPHATASE-RXN|RXN-10862|RXN-12195|RXN-12196|RXN-12197|RXN-12198|RXN-12199|RXN-12200|RXN-14003|RXN-14024|RXN-14187|RXN-14195|RXN-14198|RXN-14199|RXN-14200|RXN-14201|RXN-14205|RXN-14208|RXN-14213|RXN-14214|RXN-14215|RXN-14216|RXN-14217|RXN-14218|RXN-14219|RXN-14220|RXN0-3542|RXN0-5073|RXN0-5462|THYMIDINE-TRIPHOSPHATASE-RXN|UPH|UTPH}}
+{{#set: pathway associated=PWY-7210|PWY-7198|PWY-7177|PWY-7185|PWY-7184|PWY-6545}}

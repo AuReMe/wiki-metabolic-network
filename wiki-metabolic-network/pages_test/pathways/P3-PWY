@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P3-PWY P3-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1239 TAX-1239]
+* common name:
+** gallate degradation III (anaerobic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''11''' reactions in the full pathway
+* [[RXN-11667]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5857]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.97.1.2-RXN 1.97.1.2-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETATEKIN-RXN ACETATEKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=BUTYRYL-COA-DEHYDROGENASE-RXN BUTYRYL-COA-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GALLATE-DECARBOXYLASE-RXN GALLATE-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSACETYLTRANS-RXN PHOSACETYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R11-RXN R11-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R5-RXN R5-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R6-RXN R6-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R7-RXN R7-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R8-RXN R8-RXN]
+== External links  ==
+* UM-BBD-PWY : gal
+{{#set: taxonomic range=TAX-1239}}
+{{#set: common name=gallate degradation III (anaerobic)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=11}}
+{{#set: completion rate=9.0}}

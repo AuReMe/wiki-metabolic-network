@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-GULONATE L-GULONATE] ==
+* smiles:
+** C(O)C(O)C(O)C(O)C(O)C(=O)[O-]
+* common name:
+** L-gulonate
+* inchi key:
+** InChIKey=RGHNJXZEOKUKBD-QTBDOELSSA-M
+* molecular weight:
+** 195.149    
+* Synonym(s):
+** gulonate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8783]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6857680 6857680]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5257015.html 5257015]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=13115 13115]
+* METABOLIGHTS : MTBLC13115
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00800 C00800]
+{{#set: smiles=C(O)C(O)C(O)C(O)C(O)C(=O)[O-]}}
+{{#set: common name=L-gulonate}}
+{{#set: inchi key=InChIKey=RGHNJXZEOKUKBD-QTBDOELSSA-M}}
+{{#set: molecular weight=195.149    }}
+{{#set: common name=gulonate}}
+{{#set: produced by=RXN-8783}}

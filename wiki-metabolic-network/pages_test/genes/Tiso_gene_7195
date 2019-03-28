@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7195 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10821]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13112]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-8032]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[CENTBENZCOA-PWY]]
+* [[PWY-7401]]
+* [[P321-PWY]]
+* [[PWY-6318]]
+== External links  ==
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN|RXN-10821|RXN-13112|RXN-8032}}
+{{#set: pathway associated=CENTBENZCOA-PWY|PWY-7401|P321-PWY|PWY-6318}}

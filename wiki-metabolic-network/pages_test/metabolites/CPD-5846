@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-5846 CPD-5846] ==
+* smiles:
+** CC(C)CCCC(C)[CH]4(CC[CH]3(C(C)(CC[CH]2(C(=CC[CH]1(C(C)(C([O-])=O)C(CCC(C)12)O))3))4))
+* common name:
+** 3&beta;-hydroxy-4&beta;-methyl-5&alpha;-cholest-7-ene-4&alpha;-carboxylate
+* inchi key:
+** InChIKey=UQFZKTIHSICSPG-DSHYQQBWSA-M
+* molecular weight:
+** 443.688    
+* Synonym(s):
+** 17-(1,5-dimethylhexyl)-3-hydroxy-4,10,13-trimethyl-2,3,4,5,6,9, 10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a] phenanthrene-4-carboxylic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.1.1.170-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21145105 21145105]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20015982.html 20015982]
+* HMDB : HMDB11662
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58387 58387]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04840 C04840]
+{{#set: smiles=CC(C)CCCC(C)[CH]4(CC[CH]3(C(C)(CC[CH]2(C(=CC[CH]1(C(C)(C([O-])=O)C(CCC(C)12)O))3))4))}}
+{{#set: common name=3&beta;-hydroxy-4&beta;-methyl-5&alpha;-cholest-7-ene-4&alpha;-carboxylate}}
+{{#set: inchi key=InChIKey=UQFZKTIHSICSPG-DSHYQQBWSA-M}}
+{{#set: molecular weight=443.688    }}
+{{#set: common name=17-(1,5-dimethylhexyl)-3-hydroxy-4,10,13-trimethyl-2,3,4,5,6,9, 10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a] phenanthrene-4-carboxylic acid}}
+{{#set: reversible reaction associated=1.1.1.170-RXN}}

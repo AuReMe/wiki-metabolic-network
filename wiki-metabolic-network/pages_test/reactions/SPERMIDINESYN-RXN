@@ -1,0 +1,66 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SPERMIDINESYN-RXN SPERMIDINESYN-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** spermidine_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.16 EC-2.5.1.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[S-ADENOSYLMETHIONINAMINE]][c] '''+''' 1 [[PUTRESCINE]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[SPERMIDINE]][c] '''+''' 1 [[5-METHYLTHIOADENOSINE]][c]
+* With common name(s):
+** 1 S-adenosyl 3-(methylthio)propylamine[c] '''+''' 1 putrescine[c] '''<=>''' 1 H+[c] '''+''' 1 spermidine[c] '''+''' 1 S-methyl-5'-thioadenosine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17803]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16717]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_16718]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_17081]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[BSUBPOLYAMSYN-PWY]], spermidine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=BSUBPOLYAMSYN-PWY BSUBPOLYAMSYN-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=12721 12721]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01920 R01920]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P19623 P19623]
+** [http://www.uniprot.org/uniprot/Q57761 Q57761]
+** [http://www.uniprot.org/uniprot/Q12074 Q12074]
+** [http://www.uniprot.org/uniprot/Q12455 Q12455]
+** [http://www.uniprot.org/uniprot/P09158 P09158]
+** [http://www.uniprot.org/uniprot/O48660 O48660]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=spermidine_synthase}}
+{{#set: ec number=EC-2.5.1.16}}
+{{#set: gene associated=Tiso_gene_17803|Tiso_gene_16717|Tiso_gene_16718|Tiso_gene_17081}}
+{{#set: in pathway=BSUBPOLYAMSYN-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-athaliana|orthology-creinhardtii|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

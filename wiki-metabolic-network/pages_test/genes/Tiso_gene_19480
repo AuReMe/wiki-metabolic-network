@@ -1,0 +1,68 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19480 ==
+* right end position:
+** 2116
+* transcription direction:
+** POSITIVE
+* left end position:
+** 87
+* centisome position:
+** 3.8007863    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[G6PI]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PGIA]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PGIAh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PGIB]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PGIBh]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PGLUCISOM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R00771]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-13720]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-6182]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[RUMP-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-3801]]
+* [[PWY-7385]]
+* [[P124-PWY]]
+* [[PWY-6142]]
+* [[PWY-5659]]
+* [[PWY-6981]]
+* [[P341-PWY]]
+* [[GLUCONEO-PWY]]
+* [[PWY-7347]]
+* [[PWY66-399]]
+* [[SUCSYN-PWY]]
+* [[UDPNAGSYN-PWY]]
+* [[PWY-621]]
+* [[PWY-622]]
+* [[PWY-5054]]
+* [[PWY-6992]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[PWY-5384]]
+* [[PWY-7238]]
+* [[PWY-5514]]
+* [[P122-PWY]]
+== External links  ==
+{{#set: right end position=2116}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=87}}
+{{#set: centisome position=3.8007863    }}
+{{#set: reaction associated=G6PI|GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN|PGIA|PGIAh|PGIB|PGIBh|PGLUCISOM-RXN|R00771|RXN-13720|RXN-6182}}
+{{#set: pathway associated=RUMP-PWY|GLYCOLYSIS|PWY-3801|PWY-7385|P124-PWY|PWY-6142|PWY-5659|PWY-6981|P341-PWY|GLUCONEO-PWY|PWY-7347|PWY66-399|SUCSYN-PWY|UDPNAGSYN-PWY|PWY-621|PWY-622|PWY-5054|PWY-6992|ANAGLYCOLYSIS-PWY|PWY-5384|PWY-7238|PWY-5514|P122-PWY}}

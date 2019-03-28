@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Chlorophyllides Chlorophyllides] ==
+* common name:
+** a chlorophyllide
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[R06284]]
+== Reaction(s) known to produce the compound ==
+* [[R03845]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a chlorophyllide}}
+{{#set: consumed by=R06284}}
+{{#set: produced by=R03845}}

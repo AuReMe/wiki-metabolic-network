@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7255 PWY-7255] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-28221 TAX-28221]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1236 TAX-1236]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-28216 TAX-28216]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-28211 TAX-28211]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-976 TAX-976]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+* common name:
+** ergothioneine biosynthesis I (bacteria)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[GLUTCYSLIG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13793]]
+*** [[Tiso_gene_14211]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14429 RXN-14429]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14430 RXN-14430]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14431 RXN-14431]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15804 RXN-15804]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18088 RXN-18088]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18089 RXN-18089]
+== External links  ==
+{{#set: taxonomic range=TAX-28221}}
+{{#set: taxonomic range=TAX-1236}}
+{{#set: taxonomic range=TAX-28216}}
+{{#set: taxonomic range=TAX-28211}}
+{{#set: taxonomic range=TAX-976}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: taxonomic range=TAX-201174}}
+{{#set: common name=ergothioneine biosynthesis I (bacteria)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

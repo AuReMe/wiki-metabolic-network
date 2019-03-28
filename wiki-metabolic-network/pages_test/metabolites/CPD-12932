@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12932 CPD-12932] ==
+* smiles:
+** CC(C)=CC=CC(C)=CC=CC(C)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C
+* common name:
+** all-trans-3,4-didehydrolycopene
+* inchi key:
+** InChIKey=OCMSUPSDVXKDFY-FQMRBFJQSA-N
+* molecular weight:
+** 534.867    
+* Synonym(s):
+** 3,4-dehydrolycopene
+** 3,4-didehydrolycopene
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11999]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=16061227 16061227]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.17220904.html 17220904]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62474 62474]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15867 C15867]
+{{#set: smiles=CC(C)=CC=CC(C)=CC=CC(C)=CC=CC(C)=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C}}
+{{#set: common name=all-trans-3,4-didehydrolycopene}}
+{{#set: inchi key=InChIKey=OCMSUPSDVXKDFY-FQMRBFJQSA-N}}
+{{#set: molecular weight=534.867    }}
+{{#set: common name=3,4-dehydrolycopene|3,4-didehydrolycopene}}
+{{#set: consumed by=RXN-11999}}

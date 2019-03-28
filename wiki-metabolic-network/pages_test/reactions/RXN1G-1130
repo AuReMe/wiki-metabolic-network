@@ -1,0 +1,36 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN1G-1130 RXN1G-1130] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.3.1.M4 EC-1.3.1.M4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[trans-D2-cis-D19-C38-ACPs]][c] '''=>''' 1 [[cis-delta19-C38-ACPs]][c] '''+''' 1 [[NAD]][c]
+* With common name(s):
+** 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 a trans-delta2-cis-delta19-C38:2-[acp][c] '''=>''' 1 a cis-delta19-C38:1-[acp][c] '''+''' 1 NAD+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10778]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWYG-321]], mycolate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWYG-321 PWYG-321]
+** '''86''' reactions found over '''182''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase}}
+{{#set: ec number=EC-1.3.1.M4}}
+{{#set: gene associated=Tiso_gene_10778}}
+{{#set: in pathway=PWYG-321}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

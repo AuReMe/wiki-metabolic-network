@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=SPMDtmi SPMDtmi] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** spermidine:proton symporter (irreversible), mitochondria
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[SPERMIDINE]][c] '''+''' 1.0 [[PROTON]][c] '''=>''' 1.0 [[SPERMIDINE]][m] '''+''' 1.0 [[PROTON]][m]
+* With common name(s):
+** 1.0 spermidine[c] '''+''' 1.0 H+[c] '''=>''' 1.0 spermidine[m] '''+''' 1.0 H+[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10958]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=spermidine:proton symporter (irreversible), mitochondria}}
+{{#set: gene associated=Tiso_gene_10958}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

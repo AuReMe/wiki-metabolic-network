@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15144 ==
+* right end position:
+** 4970
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 46
+* centisome position:
+** 0.88342613    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PYRUVATE-CARBOXYLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6142]]
+* [[PWY-6146]]
+* [[P42-PWY]]
+* [[PWY-5750]]
+* [[PWY66-399]]
+== External links  ==
+{{#set: right end position=4970}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=46}}
+{{#set: centisome position=0.88342613    }}
+{{#set: reaction associated=PYRUVATE-CARBOXYLASE-RXN}}
+{{#set: pathway associated=PWY-6142|PWY-6146|P42-PWY|PWY-5750|PWY66-399}}

@@ -1,0 +1,54 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GERANYLGERANYL-PP GERANYLGERANYL-PP] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]
+* common name:
+** geranylgeranyl diphosphate
+* inchi key:
+** InChIKey=OINNEUNVOZHBOX-QIRCYJPOSA-K
+* molecular weight:
+** 447.424    
+* Synonym(s):
+** all-trans-geranyl-geranyl-pp
+** geranylgeranyl-PP
+** GGPP
+** geranylgeranyl diphosphate
+** (2E,6E,10E)-geranylgeranyl diphosphate
+** &omega;,E,E,E-geranylgeranyl diphosphate
+** (2E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate
+** all-trans-geranylgeranyl diphosphate
+** 2-trans,6-trans,10-trans-geranylgeranyl diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7663]]
+* [[2.5.1.32-RXN]]
+* [[RXN-11486]]
+* [[RXN-10625]]
+== Reaction(s) known to produce the compound ==
+* [[GGPS]]
+* [[FARNESYLTRANSTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-7673]]
+* [[RXN-7658]]
+* [[RXN1F-144]]
+* [[RXN-3701]]
+== External links  ==
+* DRUGBANK : DB07841
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5497105 5497105]
+* HMDB : HMDB04486
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00353 C00353]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4593687.html 4593687]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58756 58756]
+* METABOLIGHTS : MTBLC58756
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]}}
+{{#set: common name=geranylgeranyl diphosphate}}
+{{#set: inchi key=InChIKey=OINNEUNVOZHBOX-QIRCYJPOSA-K}}
+{{#set: molecular weight=447.424    }}
+{{#set: common name=all-trans-geranyl-geranyl-pp|geranylgeranyl-PP|GGPP|geranylgeranyl diphosphate|(2E,6E,10E)-geranylgeranyl diphosphate|&omega;,E,E,E-geranylgeranyl diphosphate|(2E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate|all-trans-geranylgeranyl diphosphate|2-trans,6-trans,10-trans-geranylgeranyl diphosphate}}
+{{#set: consumed by=RXN-7663|2.5.1.32-RXN|RXN-11486|RXN-10625}}
+{{#set: produced by=GGPS|FARNESYLTRANSTRANSFERASE-RXN}}
+{{#set: reversible reaction associated=RXN-7673|RXN-7658|RXN1F-144|RXN-3701}}

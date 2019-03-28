@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14709 ==
+* right end position:
+** 5413
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3254
+* centisome position:
+** 59.422935    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[OHMETHYLBILANESYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-5189]]
+* [[PWY-5188]]
+== External links  ==
+{{#set: right end position=5413}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3254}}
+{{#set: centisome position=59.422935    }}
+{{#set: reaction associated=OHMETHYLBILANESYN-RXN}}
+{{#set: pathway associated=PWY-5189|PWY-5188}}

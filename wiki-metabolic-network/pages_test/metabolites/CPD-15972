@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15972 CPD-15972] ==
+* common name:
+** lactose
+* Synonym(s):
+** &beta;-D-galactopyranosyl-(1&rarr;4)-D-glucopyranose
+** D-lactose
+** &beta;-D-Galp-(1&rarr;4)-D-Glcp
+
+== Reaction(s) known to consume the compound ==
+* [[BETAGALACTOSID-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[LACTOSE-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=lactose}}
+{{#set: common name=&beta;-D-galactopyranosyl-(1&rarr;4)-D-glucopyranose|D-lactose|&beta;-D-Galp-(1&rarr;4)-D-Glcp}}
+{{#set: consumed by=BETAGALACTOSID-RXN}}
+{{#set: produced by=LACTOSE-SYNTHASE-RXN}}

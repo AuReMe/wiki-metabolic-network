@@ -1,0 +1,62 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6936 PWY-6936] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** seleno-amino acid biosynthesis
+* Synonym(s):
+** Se-amino acid biosynthesis
+** selenocysteine and selenomethionine biosynthesis
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-12726]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12184]]
+*** [[Tiso_gene_6110]]
+*** [[Tiso_gene_7852]]
+*** [[Tiso_gene_819]]
+*** [[Tiso_gene_17043]]
+*** [[Tiso_gene_2283]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-12728]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+* [[RXN-12729]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3732]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-creinhardtii]]
+* [[SERINE-O-ACETTRAN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_7066]]
+*** [[Tiso_gene_10634]]
+*** [[Tiso_gene_4492]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12730 RXN-12730]
+== External links  ==
+* PLANTCYC : PWY-6936
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-6936 PWY-6936]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=seleno-amino acid biosynthesis}}
+{{#set: common name=Se-amino acid biosynthesis|selenocysteine and selenomethionine biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

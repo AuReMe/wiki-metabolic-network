@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Protein-Ser-or-Thr-phosphate Protein-Ser-or-Thr-phosphate] ==
+* common name:
+** a [protein] (L-serine/L-threonine) phosphate
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.1.3.16-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[PROTEIN-KINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [protein] (L-serine/L-threonine) phosphate}}
+{{#set: consumed by=3.1.3.16-RXN}}
+{{#set: produced by=PROTEIN-KINASE-RXN}}

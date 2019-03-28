@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14766 CPD-14766] ==
+* smiles:
+** CCCCCCCCCCCCCCC(O)[CH]=O
+* common name:
+** 2-hydroxyhexadecanal
+* inchi key:
+** InChIKey=BKBDVQVDRVGXKT-UHFFFAOYSA-N
+* molecular weight:
+** 256.428    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-13729]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=18987871 18987871]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=50626 50626]
+{{#set: smiles=CCCCCCCCCCCCCCC(O)[CH]=O}}
+{{#set: common name=2-hydroxyhexadecanal}}
+{{#set: inchi key=InChIKey=BKBDVQVDRVGXKT-UHFFFAOYSA-N}}
+{{#set: molecular weight=256.428    }}
+{{#set: produced by=RXN-13729}}

@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17883 RXN-17883] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[HYDROGEN-PEROXIDE]][c] '''+''' 1 [[N-terminal-L-cysteine-sulfinate]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[N-terminal-L-cysteine-sulfonate]][c]
+* With common name(s):
+** 1 hydrogen peroxide[c] '''+''' 1 an N-terminal 3-sulfino-L-alanyl-[protein][c] '''=>''' 1 H2O[c] '''+''' 1 H+[c] '''+''' 1 an N-terminal 3-sulfo-L-alanyl-[protein][c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7799]], Arg/N-end rule pathway (eukaryotic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7799 PWY-7799]
+** '''8''' reactions found over '''14''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-7799}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

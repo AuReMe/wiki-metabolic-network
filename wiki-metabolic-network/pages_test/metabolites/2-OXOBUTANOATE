@@ -1,0 +1,53 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-OXOBUTANOATE 2-OXOBUTANOATE] ==
+* smiles:
+** CCC(=O)C(=O)[O-]
+* common name:
+** 2-oxobutanoate
+* inchi key:
+** InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M
+* molecular weight:
+** 101.082    
+* Synonym(s):
+** 2-oxobutyrate
+** 2-ketobutyrate
+** 2-oxobutyric acid
+** &alpha;-oxobutyric acid
+** &alpha;-ketobutyrate
+** &alpha;-ketobutyric acid
+** 2-oxo-butyrate
+** 2-keto-butyrate
+** 2-ketobutyric acid
+** a-ketobutyric acid
+
+== Reaction(s) known to consume the compound ==
+* [[ACETOOHBUTSYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[HOMOSERDEAM-RXN]]
+* [[RXN-7745]]
+* [[RXN-15130]]
+* [[METBALT-RXN]]
+* [[4.1.99.4-RXN]]
+* [[RXN-15123]]
+* [[THREDEHYD-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 600-18-0
+* BIGG : 2obut
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3593277 3593277]
+* HMDB : HMDB00005
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00109 C00109]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2829426.html 2829426]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16763 16763]
+* METABOLIGHTS : MTBLC16763
+{{#set: smiles=CCC(=O)C(=O)[O-]}}
+{{#set: common name=2-oxobutanoate}}
+{{#set: inchi key=InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M}}
+{{#set: molecular weight=101.082    }}
+{{#set: common name=2-oxobutyrate|2-ketobutyrate|2-oxobutyric acid|&alpha;-oxobutyric acid|&alpha;-ketobutyrate|&alpha;-ketobutyric acid|2-oxo-butyrate|2-keto-butyrate|2-ketobutyric acid|a-ketobutyric acid}}
+{{#set: consumed by=ACETOOHBUTSYN-RXN}}
+{{#set: produced by=HOMOSERDEAM-RXN|RXN-7745|RXN-15130|METBALT-RXN|4.1.99.4-RXN|RXN-15123|THREDEHYD-RXN}}

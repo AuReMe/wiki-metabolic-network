@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLYCOGENSYNTH-PWY GLYCOGENSYNTH-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** glycogen biosynthesis I (from ADP-D-Glucose)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[PHOSPHOGLUCMUT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_4816]]
+*** [[Tiso_gene_13477]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUC1PADENYLTRANS-RXN GLUC1PADENYLTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCOGEN-BRANCH-RXN GLYCOGEN-BRANCH-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCOGENSYN-RXN GLYCOGENSYN-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=GLYCOGENSYNTH-PWY GLYCOGENSYNTH-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=glycogen biosynthesis I (from ADP-D-Glucose)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

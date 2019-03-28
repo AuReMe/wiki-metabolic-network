@@ -1,0 +1,41 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1604 ==
+* right end position:
+** 10932
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 8142
+* centisome position:
+** 35.35849    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.8.15-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PHOSNACMURPENTATRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11347]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8975]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6470]]
+* [[PWY-6471]]
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+* [[PEPTIDOGLYCANSYN-PWY]]
+* [[PWY-5265]]
+== External links  ==
+{{#set: right end position=10932}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=8142}}
+{{#set: centisome position=35.35849    }}
+{{#set: reaction associated=2.7.8.15-RXN|PHOSNACMURPENTATRANS-RXN|RXN-11347|RXN-8975}}
+{{#set: pathway associated=PWY-6470|PWY-6471|MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS|PEPTIDOGLYCANSYN-PWY|PWY-5265}}

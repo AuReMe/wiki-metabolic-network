@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17798 ==
+* right end position:
+** 2318
+* transcription direction:
+** POSITIVE
+* left end position:
+** 721
+* centisome position:
+** 20.886442    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-10058]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6167]]
+* [[PWY-6168]]
+== External links  ==
+{{#set: right end position=2318}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=721}}
+{{#set: centisome position=20.886442    }}
+{{#set: reaction associated=RXN-10058|TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}
+{{#set: pathway associated=PWY-6167|PWY-6168}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14313 ==
+* right end position:
+** 1940
+* transcription direction:
+** POSITIVE
+* left end position:
+** 52
+* centisome position:
+** 0.9079797    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.3.4.1-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[DISULISOM-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1940}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=52}}
+{{#set: centisome position=0.9079797    }}
+{{#set: reaction associated=5.3.4.1-RXN|DISULISOM-RXN}}

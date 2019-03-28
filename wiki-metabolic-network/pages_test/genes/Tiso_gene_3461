@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3461 ==
+* right end position:
+** 9688
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7158
+* centisome position:
+** 42.967766    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-TYROSINE-PHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9688}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7158}}
+{{#set: centisome position=42.967766    }}
+{{#set: reaction associated=PROTEIN-TYROSINE-PHOSPHATASE-RXN}}

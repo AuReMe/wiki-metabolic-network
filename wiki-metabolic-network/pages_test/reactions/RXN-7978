@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7978 RXN-7978] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** zeaxanthin_epoxidase
+* Synonym(s):
+** Zea-epoxidase
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[PROTON]][c] '''+''' 1 [[CPD1F-130]][c] '''+''' 2 [[Reduced-ferredoxins]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''=>''' 2 [[Oxidized-ferredoxins]][c] '''+''' 1 [[CPD1F-131]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 2 H+[c] '''+''' 1 zeaxanthin[c] '''+''' 2 a reduced ferredoxin [iron-sulfur] cluster[c] '''+''' 1 oxygen[c] '''=>''' 2 an oxidized ferredoxin [iron-sulfur] cluster[c] '''+''' 1 antheraxanthin[c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6386]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_10919]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-5945]], zeaxanthin, antheraxanthin and violaxanthin interconversion: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5945 PWY-5945]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07199 R07199]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=zeaxanthin_epoxidase}}
+{{#set: common name=Zea-epoxidase}}
+{{#set: gene associated=Tiso_gene_6386|Tiso_gene_10919}}
+{{#set: in pathway=PWY-5945}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

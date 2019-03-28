@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19352 ==
+* right end position:
+** 854
+* transcription direction:
+** POSITIVE
+* left end position:
+** 124
+* centisome position:
+** 5.1861143    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R06859]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-11046]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14177]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-9235]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6708]]
+* [[PWY-5872]]
+* [[PWY-5870]]
+* [[PWY-5857]]
+== External links  ==
+{{#set: right end position=854}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=124}}
+{{#set: centisome position=5.1861143    }}
+{{#set: reaction associated=2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN|R06859|RXN-11046|RXN-14177|RXN-9235}}
+{{#set: pathway associated=PWY-6708|PWY-5872|PWY-5870|PWY-5857}}

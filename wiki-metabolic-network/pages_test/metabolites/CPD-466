@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-466 CPD-466] ==
+* smiles:
+** CC(C[N+])C([O-])=O
+* common name:
+** (S)-3-amino-2-methylpropanoate
+* inchi key:
+** InChIKey=QCHPKSFMDHPSNR-VKHMYHEASA-N
+* molecular weight:
+** 103.121    
+* Synonym(s):
+** L-3-amino-isobutanoate
+** (S)-3-amino-isobutyric acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.6.1.22-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03284 C03284]
+* HMDB : HMDB02166
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58655 58655]
+* METABOLIGHTS : MTBLC58655
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971062 6971062]
+{{#set: smiles=CC(C[N+])C([O-])=O}}
+{{#set: common name=(S)-3-amino-2-methylpropanoate}}
+{{#set: inchi key=InChIKey=QCHPKSFMDHPSNR-VKHMYHEASA-N}}
+{{#set: molecular weight=103.121    }}
+{{#set: common name=L-3-amino-isobutanoate|(S)-3-amino-isobutyric acid}}
+{{#set: reversible reaction associated=2.6.1.22-RXN}}

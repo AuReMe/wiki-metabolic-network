@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15668 CPD-15668] ==
+* smiles:
+** CCCCCCC=CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 4-cis-undecenoyl-CoA
+* inchi key:
+** InChIKey=AFMMIIQKXQNEDN-NSDZGHCESA-J
+* molecular weight:
+** 929.765    
+* Synonym(s):
+** 4Z-undecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14775]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14774]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658173 90658173]
+{{#set: smiles=CCCCCCC=CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=4-cis-undecenoyl-CoA}}
+{{#set: inchi key=InChIKey=AFMMIIQKXQNEDN-NSDZGHCESA-J}}
+{{#set: molecular weight=929.765    }}
+{{#set: common name=4Z-undecenoyl-CoA}}
+{{#set: consumed by=RXN-14775}}
+{{#set: produced by=RXN-14774}}

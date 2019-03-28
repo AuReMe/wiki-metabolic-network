@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6785 PWY-6785] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3041 TAX-3041]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1117 TAX-1117]
+* common name:
+** hydrogen production VIII
+* Synonym(s):
+** photosynthetic hydrogen generation
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''1''' reactions in the full pathway
+* [[HYDROG-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4288]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-3041}}
+{{#set: taxonomic range=TAX-1117}}
+{{#set: common name=hydrogen production VIII}}
+{{#set: common name=photosynthetic hydrogen generation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=1}}
+{{#set: completion rate=100.0}}

@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MCDH_2mb2coa MCDH_2mb2coa] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 2-methylacyl-coa dehydrogenase, trans-2-Methylbut-2-enoyl-CoA forming
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[2-METHYL-BUTYRYL-COA]][m] '''+''' 1.0 [[FAD]][m] '''=>''' 1.0 [[FADH2]][m] '''+''' 1.0 [[CPD-1083]][m]
+* With common name(s):
+** 1.0 2-methylbutanoyl-CoA[m] '''+''' 1.0 FAD[m] '''=>''' 1.0 FADH2[m] '''+''' 1.0 (E)-2-methylcrotonoyl-CoA[m]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10643]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_16113]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=2-methylacyl-coa dehydrogenase, trans-2-Methylbut-2-enoyl-CoA forming}}
+{{#set: gene associated=Tiso_gene_10643|Tiso_gene_16113}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

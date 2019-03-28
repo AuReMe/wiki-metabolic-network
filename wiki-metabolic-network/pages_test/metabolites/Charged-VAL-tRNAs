@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Charged-VAL-tRNAs Charged-VAL-tRNAs] ==
+* common name:
+** an L-valyl-[tRNAval]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[VALINE--TRNA-LIGASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-valyl-[tRNAval]}}
+{{#set: produced by=VALINE--TRNA-LIGASE-RXN}}

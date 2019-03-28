@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11323 ==
+* right end position:
+** 2621
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 158
+* centisome position:
+** 2.006604    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.2.1.27-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11213]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-2902]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-1781]]
+* [[P562-PWY]]
+* [[BETA-ALA-DEGRADATION-I-PWY]]
+* [[PWY-7574]]
+* [[VALDEG-PWY]]
+* [[PWY-5642]]
+== External links  ==
+{{#set: right end position=2621}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=158}}
+{{#set: centisome position=2.006604    }}
+{{#set: reaction associated=1.2.1.27-RXN|RXN-11213|RXN-2902}}
+{{#set: pathway associated=PWY-1781|P562-PWY|BETA-ALA-DEGRADATION-I-PWY|PWY-7574|VALDEG-PWY|PWY-5642}}

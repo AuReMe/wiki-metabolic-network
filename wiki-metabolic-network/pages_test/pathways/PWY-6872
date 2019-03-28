@@ -1,0 +1,27 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6872 PWY-6872] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** retinoate biosynthesis I
+* Synonym(s):
+** retinoic acid biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[RXN-12581]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17086]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12548 RXN-12548]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12549 RXN-12549]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12585 RXN-12585]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=retinoate biosynthesis I}}
+{{#set: common name=retinoic acid biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

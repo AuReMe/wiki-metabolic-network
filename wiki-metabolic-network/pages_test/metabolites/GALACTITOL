@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GALACTITOL GALACTITOL] ==
+* smiles:
+** C(C(C(C(C(O)CO)O)O)O)O
+* common name:
+** galactitol
+* inchi key:
+** InChIKey=FBPFZTCFMRRESA-GUCUJZIJSA-N
+* molecular weight:
+** 182.173    
+* Synonym(s):
+** dulcitol
+** dulcite
+** dulcose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-12078]]
+== External links  ==
+* CAS : 608-66-2
+* BIGG : galt
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11850 11850]
+* HMDB : HMDB00107
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01697 C01697]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.11357.html 11357]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16813 16813]
+* METABOLIGHTS : MTBLC16813
+{{#set: smiles=C(C(C(C(C(O)CO)O)O)O)O}}
+{{#set: common name=galactitol}}
+{{#set: inchi key=InChIKey=FBPFZTCFMRRESA-GUCUJZIJSA-N}}
+{{#set: molecular weight=182.173    }}
+{{#set: common name=dulcitol|dulcite|dulcose}}
+{{#set: reversible reaction associated=RXN-12078}}

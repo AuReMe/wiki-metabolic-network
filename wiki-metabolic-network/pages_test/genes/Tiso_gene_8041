@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8041 ==
+* right end position:
+** 3759
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1
+* centisome position:
+** 9.450903500e-3
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[VALINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=3759}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1}}
+{{#set: centisome position=9.450903500e-3}}
+{{#set: reaction associated=VALINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

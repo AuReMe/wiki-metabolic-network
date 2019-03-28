@@ -1,0 +1,46 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY1F-823 PWY1F-823] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-58024 TAX-58024]
+* common name:
+** leucopelargonidin and leucocyanidin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[DIHYDROKAEMPFEROL-4-REDUCTASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_15272]]
+*** [[Tiso_gene_9504]]
+*** [[Tiso_gene_9503]]
+*** [[Tiso_gene_11016]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-600]]
+** 4 associated gene(s):
+*** [[Tiso_gene_15272]]
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_9503]]
+*** [[Tiso_gene_9504]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-7775]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3330]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-525 RXN-525]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY1F-823 PWY1F-823]
+{{#set: taxonomic range=TAX-58024}}
+{{#set: common name=leucopelargonidin and leucocyanidin biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

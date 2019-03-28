@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_210 ==
+* right end position:
+** 17588
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 15045
+* centisome position:
+** 40.067646    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.3.37-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GALACTONOLACTONE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13183]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY3O-6]]
+* [[PWY-6386]]
+* [[PWY-6387]]
+* [[PWY-882]]
+== External links  ==
+{{#set: right end position=17588}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=15045}}
+{{#set: centisome position=40.067646    }}
+{{#set: reaction associated=1.1.3.37-RXN|GALACTONOLACTONE-DEHYDROGENASE-RXN|RXN-13183|UDPNACETYLMURAMATEDEHYDROG-RXN}}
+{{#set: pathway associated=PWY3O-6|PWY-6386|PWY-6387|PWY-882}}

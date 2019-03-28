@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1G-1346 CPD1G-1346] ==
+* smiles:
+** CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(OCC1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)CO)O)O)O)))=O)C(O)CCCCCCCCCCCCCCCC3(CC3C(C)CCCCCCCCCCCCCCCC(OC)C(C)CCCCCCCCCCCCCCCCCC)
+* common name:
+** trehalose-trans-methoxy-mono-mycolate
+* inchi key:
+** InChIKey=AMROMUFVHNPOEQ-BZZONOHYSA-N
+* molecular weight:
+** 1592.571    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-1437]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659103 90659103]
+{{#set: smiles=CCCCCCCCCCCCCCCCCCCCCCCCCCC(C(OCC1(OC(C(C(C1O)O)O)OC2(C(C(C(C(O2)CO)O)O)O)))=O)C(O)CCCCCCCCCCCCCCCC3(CC3C(C)CCCCCCCCCCCCCCCC(OC)C(C)CCCCCCCCCCCCCCCCCC)}}
+{{#set: common name=trehalose-trans-methoxy-mono-mycolate}}
+{{#set: inchi key=InChIKey=AMROMUFVHNPOEQ-BZZONOHYSA-N}}
+{{#set: molecular weight=1592.571    }}
+{{#set: produced by=RXN1G-1437}}

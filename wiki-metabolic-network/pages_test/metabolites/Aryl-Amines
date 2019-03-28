@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Aryl-Amines Aryl-Amines] ==
+* common name:
+** an arylamine
+* Synonym(s):
+** an aniline
+
+== Reaction(s) known to consume the compound ==
+* [[ARYLAMINE-N-ACETYLTRANSFERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an arylamine}}
+{{#set: common name=an aniline}}
+{{#set: consumed by=ARYLAMINE-N-ACETYLTRANSFERASE-RXN}}

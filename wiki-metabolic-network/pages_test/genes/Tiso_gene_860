@@ -1,0 +1,43 @@
+[[Category:Gene]]
+== Gene Tiso_gene_860 ==
+* right end position:
+** 21173
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 17659
+* centisome position:
+** 62.602806    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.11.14-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[3.4.11.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13677]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-6622]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-6642]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7112]]
+* [[PWY-4041]]
+* [[PWY-4061]]
+* [[PWY-7559]]
+* [[PWY-6842]]
+== External links  ==
+{{#set: right end position=21173}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=17659}}
+{{#set: centisome position=62.602806    }}
+{{#set: reaction associated=3.4.11.14-RXN|3.4.11.2-RXN|RXN-13677|RXN-6622|RXN-6642}}
+{{#set: pathway associated=PWY-7112|PWY-4041|PWY-4061|PWY-7559|PWY-6842}}

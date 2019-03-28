@@ -1,0 +1,14 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16681 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-1102]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-1125]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-361]]
+== External links  ==
+{{#set: reaction associated=RXN-1102|RXN-1125}}
+{{#set: pathway associated=PWY-361}}

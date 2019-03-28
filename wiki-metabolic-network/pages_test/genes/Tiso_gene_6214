@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6214 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN}}

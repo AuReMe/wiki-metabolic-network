@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-22 RXN-22] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** argininosuccinate_lyase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.3.2.1 EC-4.3.2.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CANAVANINOSUCCINATE]][c] '''=>''' 1 [[CANAVANINE]][c] '''+''' 1 [[FUM]][c]
+* With common name(s):
+** 1 canavaninosuccinate[c] '''=>''' 1 L-canavanine[c] '''+''' 1 fumarate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2485]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-5]], canavanine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5 PWY-5]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=argininosuccinate_lyase}}
+{{#set: ec number=EC-4.3.2.1}}
+{{#set: gene associated=Tiso_gene_2485}}
+{{#set: in pathway=PWY-5}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

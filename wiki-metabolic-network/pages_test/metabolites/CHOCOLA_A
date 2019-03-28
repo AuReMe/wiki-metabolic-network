@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CHOCOLA_A CHOCOLA_A] ==
+* smiles:
+** CCCCCCCCCCCCCCCC(OCC=C(C=CC=C(C=CC1(C(CCCC=1C)(C)C))C)C)=O
+* common name:
+** all-trans-retinyl palmitate
+* inchi key:
+** InChIKey=VYGQUTWHTHXGQB-FFHKNEKCSA-N
+* molecular weight:
+** 524.869    
+* Synonym(s):
+** chocola A
+** aquasol A
+** vitamin A palmitate
+** retinol-palmitate
+
+== Reaction(s) known to consume the compound ==
+* [[3.1.1.64-RXN]]
+* [[RETINYL-PALMITATE-ESTERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12547]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 79-81-2
+* LIPID_MAPS : LMPR01090013
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280531 5280531]
+* HMDB : HMDB03648
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02588 C02588]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444162.html 4444162]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17616 17616]
+{{#set: smiles=CCCCCCCCCCCCCCCC(OCC=C(C=CC=C(C=CC1(C(CCCC=1C)(C)C))C)C)=O}}
+{{#set: common name=all-trans-retinyl palmitate}}
+{{#set: inchi key=InChIKey=VYGQUTWHTHXGQB-FFHKNEKCSA-N}}
+{{#set: molecular weight=524.869    }}
+{{#set: common name=chocola A|aquasol A|vitamin A palmitate|retinol-palmitate}}
+{{#set: consumed by=3.1.1.64-RXN|RETINYL-PALMITATE-ESTERASE-RXN}}
+{{#set: produced by=RXN-12547}}

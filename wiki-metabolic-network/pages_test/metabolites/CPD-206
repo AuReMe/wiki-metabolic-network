@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-206 CPD-206] ==
+* smiles:
+** CC(C)CCCC(C)CCCC(C)CCCC(C)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** phytanoyl-CoA
+* inchi key:
+** InChIKey=NRJQGHHZMSOUEN-HHVNVSIESA-J
+* molecular weight:
+** 1058.022    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[1.14.11.18-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-482]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658363 90658363]
+* HMDB : HMDB01359
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15538 15538]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02060 C02060]
+{{#set: smiles=CC(C)CCCC(C)CCCC(C)CCCC(C)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=phytanoyl-CoA}}
+{{#set: inchi key=InChIKey=NRJQGHHZMSOUEN-HHVNVSIESA-J}}
+{{#set: molecular weight=1058.022    }}
+{{#set: consumed by=1.14.11.18-RXN}}
+{{#set: produced by=RXN66-482}}

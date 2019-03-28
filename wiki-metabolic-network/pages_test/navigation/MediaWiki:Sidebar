@@ -1,0 +1,31 @@
+* navigation
+** mainpage|mainpage-description
+** workflow|workflow command history
+** randompage-url|randompage
+** Special:ListFiles|Files
+* Metabolic network components
+** Category:Reaction|Reaction
+** Category:Gene|Gene
+** Category:Pathway|Pathway
+** Category:Metabolite|Metabolite
+* Reconstruction categories
+** annotation|annotation
+** gap-filling|gap-filling
+** manual|manual
+** orthology|orthology
+* Reconstruction tools
+** meneco|meneco
+** pantograph|pantograph
+** pathwaytools|pathwaytools
+* Reconstruction sources
+** annotation-experimental_annotation|annotation-experimental_annotation
+** annotation-in-silico_annotation|annotation-in-silico_annotation
+** gap-filling-gapfilling_solution_with_meneco_draft_medium|gap-filling-gapfilling_solution_with_meneco_draft_medium
+** manual-export_biomass_rxn|manual-export_biomass_rxn
+** manual-import_from_medium|manual-import_from_medium
+** manual-primary_network|manual-primary_network
+** manual-reactions_pwy-6475_tiso_add|manual-reactions_pwy-6475_tiso_add
+** orthology-athaliana|orthology-athaliana
+** orthology-creinhardtii|orthology-creinhardtii
+** orthology-esiliculosus|orthology-esiliculosus
+** orthology-synechocystis|orthology-synechocystis

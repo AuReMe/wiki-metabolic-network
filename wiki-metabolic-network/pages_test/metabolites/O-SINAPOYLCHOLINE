@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=O-SINAPOYLCHOLINE O-SINAPOYLCHOLINE] ==
+* smiles:
+** C(COC(=O)C=CC1(C=C(OC)C(O)=C(C=1)OC))[N+](C)(C)C
+* common name:
+** O-sinapoylcholine
+* inchi key:
+** InChIKey=HUJXHFRXWWGYQH-UHFFFAOYSA-O
+* molecular weight:
+** 310.369    
+* Synonym(s):
+** sinapoylcholine
+** sinapine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[2.3.1.91-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 18696-26-9
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280385 5280385]
+* HMDB : HMDB29379
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16353 16353]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00933 C00933]
+{{#set: smiles=C(COC(=O)C=CC1(C=C(OC)C(O)=C(C=1)OC))[N+](C)(C)C}}
+{{#set: common name=O-sinapoylcholine}}
+{{#set: inchi key=InChIKey=HUJXHFRXWWGYQH-UHFFFAOYSA-O}}
+{{#set: molecular weight=310.369    }}
+{{#set: common name=sinapoylcholine|sinapine}}
+{{#set: produced by=2.3.1.91-RXN}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3610 ==
+* right end position:
+** 9137
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 6998
+* centisome position:
+** 42.83004    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.99.1.3-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9137}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=6998}}
+{{#set: centisome position=42.83004    }}
+{{#set: reaction associated=5.99.1.3-RXN}}

@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ENOL-PHENYLPYRUVATE ENOL-PHENYLPYRUVATE] ==
+* smiles:
+** C([O-])(=O)C(O)=CC1(C=CC=CC=1)
+* common name:
+** enol-phenylpyruvate
+* inchi key:
+** InChIKey=DEDGUGJNLNLJSR-VURMDHGXSA-M
+* molecular weight:
+** 163.152    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[PHENYLPYRUVATE-TAUTOMERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54705603 54705603]
+* CAS : 5801-57-0
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=280708 280708]
+* HMDB : HMDB12225
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02763 C02763]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20058468.html 20058468]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=32815 32815]
+{{#set: smiles=C([O-])(=O)C(O)=CC1(C=CC=CC=1)}}
+{{#set: common name=enol-phenylpyruvate}}
+{{#set: inchi key=InChIKey=DEDGUGJNLNLJSR-VURMDHGXSA-M}}
+{{#set: molecular weight=163.152    }}
+{{#set: produced by=PHENYLPYRUVATE-TAUTOMERASE-RXN}}

@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5744 PWY-5744] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-200795 TAX-200795]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183924 TAX-183924]
+* common name:
+** glyoxylate assimilation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''11''' reactions in the full pathway
+* [[ACETYL-COA-CARBOXYLTRANSFER-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2812]]
+*** [[Tiso_gene_3800]]
+*** [[Tiso_gene_5029]]
+*** [[Tiso_gene_7965]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[RXN-6383]]
+** 3 associated gene(s):
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_16703]]
+*** [[Tiso_gene_14257]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=CITRAMALYL-COA-LYASE-RXN CITRAMALYL-COA-LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13230 RXN-13230]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8960 RXN-8960]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8961 RXN-8961]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8963 RXN-8963]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8965 RXN-8965]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8974 RXN-8974]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9086 RXN-9086]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9087 RXN-9087]
+== External links  ==
+{{#set: taxonomic range=TAX-200795}}
+{{#set: taxonomic range=TAX-183924}}
+{{#set: common name=glyoxylate assimilation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=11}}
+{{#set: completion rate=18.0}}

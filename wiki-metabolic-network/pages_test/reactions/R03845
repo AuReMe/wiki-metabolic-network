@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R03845 R03845] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R127
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PROTON]][c] '''+''' 1.0 [[MONO-VINYL-PROTOCHLOROPHYLLIDE-A]][c] '''+''' 1.0 [[NADPH]][c] '''=>''' 1.0 [[Chlorophyllides]][c] '''+''' 1.0 [[NADP]][c]
+* With common name(s):
+** 1.0 H+[c] '''+''' 1.0 protochlorophyllide a[c] '''+''' 1.0 NADPH[c] '''=>''' 1.0 a chlorophyllide[c] '''+''' 1.0 NADP+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10077]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_17141]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R127}}
+{{#set: gene associated=Tiso_gene_10077|Tiso_gene_17141}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

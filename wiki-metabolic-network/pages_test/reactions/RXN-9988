@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9988 RXN-9988] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** n-acetylneuraminic_acid_phosphate_synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.57 EC-2.5.1.57]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[N-ACETYL-D-MANNOSAMINE-6P]][c] '''+''' 1 [[PHOSPHO-ENOL-PYRUVATE]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[N-ACETYL-NEURAMINATE-9P]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 N-acetyl-D-mannosamine 6-phosphate[c] '''+''' 1 phosphoenolpyruvate[c] '''=>''' 1 phosphate[c] '''+''' 1 N-acetyl-&beta;-neuraminate 9-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15880]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-6138]], CMP-N-acetylneuraminate biosynthesis I (eukaryotes): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6138 PWY-6138]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04435 R04435]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=n-acetylneuraminic_acid_phosphate_synthase}}
+{{#set: ec number=EC-2.5.1.57}}
+{{#set: gene associated=Tiso_gene_15880}}
+{{#set: in pathway=PWY-6138}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

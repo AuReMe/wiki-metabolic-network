@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11412 CPD-11412] ==
+* smiles:
+** C(OC1(C(O)C(O)C(O)C(C(=O)[O-])O1))(=O)CC2(C=C(I)C(=C(I)C=2)OC3(=CC(I)=C(O)C=C3))
+* common name:
+** triiodothyroacetate ester glucuronide
+* inchi key:
+** InChIKey=FPEJNMNXCSITJO-KFYUBCHVSA-M
+* molecular weight:
+** 797.054    
+* Synonym(s):
+** triiodothyroacetic acid ester glucuronide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10618]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659348 90659348]
+{{#set: smiles=C(OC1(C(O)C(O)C(O)C(C(=O)[O-])O1))(=O)CC2(C=C(I)C(=C(I)C=2)OC3(=CC(I)=C(O)C=C3))}}
+{{#set: common name=triiodothyroacetate ester glucuronide}}
+{{#set: inchi key=InChIKey=FPEJNMNXCSITJO-KFYUBCHVSA-M}}
+{{#set: molecular weight=797.054    }}
+{{#set: common name=triiodothyroacetic acid ester glucuronide}}
+{{#set: produced by=RXN-10618}}

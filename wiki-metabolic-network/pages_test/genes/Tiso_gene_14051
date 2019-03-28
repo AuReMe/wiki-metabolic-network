@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14051 ==
+* right end position:
+** 5338
+* transcription direction:
+** POSITIVE
+* left end position:
+** 4170
+* centisome position:
+** 70.95457    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5338}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=4170}}
+{{#set: centisome position=70.95457    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|RXN-11201}}

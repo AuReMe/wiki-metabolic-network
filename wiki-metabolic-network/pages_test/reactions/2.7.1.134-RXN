@@ -1,0 +1,47 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.1.134-RXN 2.7.1.134-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ras-related_gtp-binding_protein
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.134 EC-2.7.1.134]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-178]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[CPD-1107]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 D-myo-inositol (3,4,5,6)-tetrakisphosphate[c] '''+''' 1 ATP[c] '''=>''' 1 D-myo-inositol 1,3,4,5,6-pentakisphosphate[c] '''+''' 1 ADP[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15232]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6365]], D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6365 PWY-6365]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-4661]], 1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza): [http://metacyc.org/META/NEW-IMAGE?object=PWY-4661 PWY-4661]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=12452 12452]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03479 R03479]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ras-related_gtp-binding_protein}}
+{{#set: ec number=EC-2.7.1.134}}
+{{#set: gene associated=Tiso_gene_15232}}
+{{#set: in pathway=PWY-6365|PWY-4661}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

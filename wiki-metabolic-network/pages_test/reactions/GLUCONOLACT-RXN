@@ -1,0 +1,59 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLUCONOLACT-RXN GLUCONOLACT-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** gluconolactonase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.17 EC-3.1.1.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[GLC-D-LACTONE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[GLUCONATE]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 D-glucono-1,5-lactone[c] '''=>''' 1 H+[c] '''+''' 1 D-gluconate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1947]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15098]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1948]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-2221]], Entner-Doudoroff pathway III (semi-phosphorylative): [http://metacyc.org/META/NEW-IMAGE?object=PWY-2221 PWY-2221]
+** '''5''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7165]], L-ascorbate biosynthesis VI (engineered pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7165 PWY-7165]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+* [[NPGLUCAT-PWY]], Entner-Doudoroff pathway II (non-phosphorylative): [http://metacyc.org/META/NEW-IMAGE?object=NPGLUCAT-PWY NPGLUCAT-PWY]
+** '''4''' reactions found over '''9''' reactions in the full pathway
+* [[GLUCOSE1PMETAB-PWY]], glucose and glucose-1-phosphate degradation: [http://metacyc.org/META/NEW-IMAGE?object=GLUCOSE1PMETAB-PWY GLUCOSE1PMETAB-PWY]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-5530]], sorbitol biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5530 PWY-5530]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[DHGLUCONATE-PYR-CAT-PWY]], glucose degradation (oxidative): [http://metacyc.org/META/NEW-IMAGE?object=DHGLUCONATE-PYR-CAT-PWY DHGLUCONATE-PYR-CAT-PWY]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10440 10440]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01519 R01519]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q01578 Q01578]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=gluconolactonase}}
+{{#set: ec number=EC-3.1.1.17}}
+{{#set: gene associated=Tiso_gene_1947|Tiso_gene_15098|Tiso_gene_1948}}
+{{#set: in pathway=PWY-2221|PWY-7165|NPGLUCAT-PWY|GLUCOSE1PMETAB-PWY|PWY-5530|DHGLUCONATE-PYR-CAT-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

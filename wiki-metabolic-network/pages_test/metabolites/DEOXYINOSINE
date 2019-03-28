@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEOXYINOSINE DEOXYINOSINE] ==
+* smiles:
+** C(O)C1(OC(CC(O)1)N3(C=NC2(=C(O)N=CN=C23)))
+* common name:
+** 2'-deoxyinosine
+* inchi key:
+** InChIKey=VGONTNSXDCQUGY-RRKCRQDMSA-N
+* molecular weight:
+** 252.229    
+* Synonym(s):
+** deoxyinosine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ADDALT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 890-38-0
+* BIGG : din
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=65058 65058]
+* HMDB : HMDB00071
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05512 C05512]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.619.html 619]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28997 28997]
+* METABOLIGHTS : MTBLC28997
+{{#set: smiles=C(O)C1(OC(CC(O)1)N3(C=NC2(=C(O)N=CN=C23)))}}
+{{#set: common name=2'-deoxyinosine}}
+{{#set: inchi key=InChIKey=VGONTNSXDCQUGY-RRKCRQDMSA-N}}
+{{#set: molecular weight=252.229    }}
+{{#set: common name=deoxyinosine}}
+{{#set: produced by=ADDALT-RXN}}

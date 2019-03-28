@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17927 RXN-17927] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** gtp-binding_protein
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[3Prime-OH-Terminated-RNAs]][c] '''+''' 1 [[A-5-prime-PP-5-prime-RNA]][c] '''=>''' 1 [[AMP]][c] '''+''' 1 [[RNAs]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 an [RNA]-3'-hydroxyl[c] '''+''' 1 a 5'-(5'-diphosphoadenosine)-(ribonucleoside)-[RNA][c] '''=>''' 1 AMP[c] '''+''' 1 a ribonucleic acid[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8396]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8397]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8398]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=gtp-binding_protein}}
+{{#set: gene associated=Tiso_gene_8396|Tiso_gene_8397|Tiso_gene_8398}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

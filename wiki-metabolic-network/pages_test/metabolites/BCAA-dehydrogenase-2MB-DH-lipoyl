@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BCAA-dehydrogenase-2MB-DH-lipoyl BCAA-dehydrogenase-2MB-DH-lipoyl] ==
+* common name:
+** an [apo BCAA dehydrogenase E2 protein] N6-S-[2-methylbutanoyl]dihydrolipoyl-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[METHYLVALERATE-RXN]]
+== External links  ==
+{{#set: common name=an [apo BCAA dehydrogenase E2 protein] N6-S-[2-methylbutanoyl]dihydrolipoyl-L-lysine}}
+{{#set: reversible reaction associated=METHYLVALERATE-RXN}}

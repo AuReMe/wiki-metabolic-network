@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Tetradec-2-enoyl-ACPs Tetradec-2-enoyl-ACPs] ==
+* common name:
+** a trans tetradec-2-enoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9662]]
+* [[RXN-9538]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9537]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans tetradec-2-enoyl-[acp]}}
+{{#set: consumed by=RXN-9662|RXN-9538}}
+{{#set: produced by=RXN-9537}}

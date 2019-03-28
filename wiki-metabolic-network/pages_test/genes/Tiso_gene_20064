@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20064 ==
+* right end position:
+** 1662
+* transcription direction:
+** POSITIVE
+* left end position:
+** 25
+* centisome position:
+** 1.3950893    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-TYROSINE-PHOSPHATASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1662}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=25}}
+{{#set: centisome position=1.3950893    }}
+{{#set: reaction associated=PROTEIN-TYROSINE-PHOSPHATASE-RXN}}

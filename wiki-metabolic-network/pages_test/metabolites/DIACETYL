@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIACETYL DIACETYL] ==
+* smiles:
+** CC(C(C)=O)=O
+* common name:
+** diacetyl
+* inchi key:
+** InChIKey=QSJXEFYPDANLFS-UHFFFAOYSA-N
+* molecular weight:
+** 86.09    
+* Synonym(s):
+** 2,3-butanedione
+** biacetyl
+** dimethylglyoxal
+** 2,3-diketobutane
+** 2,3-dioxobutane
+** butadione
+** dimethyl diketone
+** butanedione
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-6081]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 431-03-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=650 650]
+* HMDB : HMDB03407
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00741 C00741]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.630.html 630]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16583 16583]
+{{#set: smiles=CC(C(C)=O)=O}}
+{{#set: common name=diacetyl}}
+{{#set: inchi key=InChIKey=QSJXEFYPDANLFS-UHFFFAOYSA-N}}
+{{#set: molecular weight=86.09    }}
+{{#set: common name=2,3-butanedione|biacetyl|dimethylglyoxal|2,3-diketobutane|2,3-dioxobutane|butadione|dimethyl diketone|butanedione}}
+{{#set: produced by=RXN-6081}}

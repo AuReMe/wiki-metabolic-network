@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AMINOCYL-TRNA-HYDROLASE-RXN AMINOCYL-TRNA-HYDROLASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** peptidyl-trna_hydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.29 EC-3.1.1.29]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[N-Substituted-Aminoacyl-tRNA]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[tRNAs]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[N-Substituted-Amino-Acids]][c]
+* With common name(s):
+** 1 an N-modified aminoacyl-[tRNA][c] '''+''' 1 H2O[c] '''=>''' 1 an uncharged tRNA[c] '''+''' 1 H+[c] '''+''' 1 an N-modified amino acid[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13800]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14300]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7443]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q9JV42 Q9JV42]
+** [http://www.uniprot.org/uniprot/P44682 P44682]
+** [http://www.uniprot.org/uniprot/Q9PII7 Q9PII7]
+** [http://www.uniprot.org/uniprot/Q9CJI1 Q9CJI1]
+** [http://www.uniprot.org/uniprot/P0A7D1 P0A7D1]
+** [http://www.uniprot.org/uniprot/Q59989 Q59989]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=peptidyl-trna_hydrolase}}
+{{#set: ec number=EC-3.1.1.29}}
+{{#set: gene associated=Tiso_gene_13800|Tiso_gene_14300|Tiso_gene_7443}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

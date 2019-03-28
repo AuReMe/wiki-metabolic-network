@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3537 ==
+* right end position:
+** 16204
+* transcription direction:
+** POSITIVE
+* left end position:
+** 15026
+* centisome position:
+** 91.05563    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R4-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=16204}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=15026}}
+{{#set: centisome position=91.05563    }}
+{{#set: reaction associated=R4-RXN}}

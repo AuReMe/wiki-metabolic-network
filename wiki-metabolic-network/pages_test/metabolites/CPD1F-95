@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-95 CPD1F-95] ==
+* smiles:
+** C=C1(C2(CC3(C1)(C([CH]4(C(C)(CCCC(C)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))
+* common name:
+** gibberellin A12
+* inchi key:
+** InChIKey=UJFQJDAESQJXTG-UFUZVNNQSA-L
+* molecular weight:
+** 330.423    
+* Synonym(s):
+** C20-GAs
+** open lactone gibberrellin skeleton
+** C20 skeleton
+** C20-GA skeleton
+** C20-gibberellin skeleton
+** GA12
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1F-162]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-161]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104170014
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244528 25244528]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58627 58627]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11857 C11857]
+{{#set: smiles=C=C1(C2(CC3(C1)(C([CH]4(C(C)(CCCC(C)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))}}
+{{#set: common name=gibberellin A12}}
+{{#set: inchi key=InChIKey=UJFQJDAESQJXTG-UFUZVNNQSA-L}}
+{{#set: molecular weight=330.423    }}
+{{#set: common name=C20-GAs|open lactone gibberrellin skeleton|C20 skeleton|C20-GA skeleton|C20-gibberellin skeleton|GA12}}
+{{#set: consumed by=RXN1F-162}}
+{{#set: produced by=RXN1F-161}}

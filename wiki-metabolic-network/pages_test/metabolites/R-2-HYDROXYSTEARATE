@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=R-2-HYDROXYSTEARATE R-2-HYDROXYSTEARATE] ==
+* smiles:
+** CCCCCCCCCCCCCCCCC(O)C(=O)[O-]
+* inchi key:
+** InChIKey=KIHBGTRZFAVZRV-QGZVFWFLSA-M
+* common name:
+** (R)-2-hydroxystearate
+* molecular weight:
+** 299.473    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-474-R-2-HYDROXYSTEARATE/ATP/CO-A//CPD-14717/AMP/PPI.48.]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11820-STEARIC_ACID/HYDROGEN-PEROXIDE//R-2-HYDROXYSTEARATE/WATER.58.]]
+== Reaction(s) of unknown directionality ==
+* [[ACECOATRANS-RXN-CPD-14717/ACET//R-2-HYDROXYSTEARATE/ACETYL-COA.47.]]
+== External links  ==
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=907 907]
+* CAS : 629-22-1
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21145040 21145040]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03042 C03042]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.13600149.html 13600149]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57562 57562]
+{{#set: smiles=CCCCCCCCCCCCCCCCC(O)C(=O)[O-]}}
+{{#set: inchi key=InChIKey=KIHBGTRZFAVZRV-QGZVFWFLSA-M}}
+{{#set: common name=(R)-2-hydroxystearate}}
+{{#set: molecular weight=299.473    }}
+{{#set: consumed by=RXN66-474-R-2-HYDROXYSTEARATE/ATP/CO-A//CPD-14717/AMP/PPI.48.}}
+{{#set: produced by=RXN-11820-STEARIC_ACID/HYDROGEN-PEROXIDE//R-2-HYDROXYSTEARATE/WATER.58.}}
+{{#set: reversible reaction associated=ACECOATRANS-RXN-CPD-14717/ACET//R-2-HYDROXYSTEARATE/ACETYL-COA.47.}}

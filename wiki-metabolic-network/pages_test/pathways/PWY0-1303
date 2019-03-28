@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1303 PWY0-1303] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** aminopropylcadaverine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[LYSDECARBOX-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10395]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[RXN0-5217]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17803]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1303 PWY0-1303]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=aminopropylcadaverine biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

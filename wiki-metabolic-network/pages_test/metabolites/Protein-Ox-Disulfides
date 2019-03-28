@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Protein-Ox-Disulfides Protein-Ox-Disulfides] ==
+* common name:
+** a protein with oxidized disulfide bonds
+* Synonym(s):
+** a protein with oxidized disulfide bonds
+** protein with oxidized disulfide bonds
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[DISULFOXRED-RXN]]
+== External links  ==
+{{#set: common name=a protein with oxidized disulfide bonds}}
+{{#set: common name=a protein with oxidized disulfide bonds|protein with oxidized disulfide bonds}}
+{{#set: reversible reaction associated=DISULFOXRED-RXN}}

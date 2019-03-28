@@ -1,0 +1,30 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8037 RXN-8037] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-7418]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[COUMARIN]][c]
+* With common name(s):
+** 1 coumarinate[c] '''+''' 1 H+[c] '''=>''' 1 H2O[c] '''+''' 1 coumarin[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-5176]], coumarin biosynthesis (via 2-coumarate): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5176 PWY-5176]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04999 R04999]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-5176}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

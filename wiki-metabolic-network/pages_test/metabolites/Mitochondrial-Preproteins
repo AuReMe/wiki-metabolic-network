@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Mitochondrial-Preproteins Mitochondrial-Preproteins] ==
+* common name:
+** a mitochondrial preprotein including a mitochondrial targeting sequence
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.4.24.64-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a mitochondrial preprotein including a mitochondrial targeting sequence}}
+{{#set: consumed by=3.4.24.64-RXN}}

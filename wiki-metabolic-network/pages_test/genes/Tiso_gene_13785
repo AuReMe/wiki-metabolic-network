@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13785 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[APN]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN0-5038]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN|APN|RXN0-5038}}

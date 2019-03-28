@@ -1,0 +1,54 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10646 ==
+* right end position:
+** 7641
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5934
+* centisome position:
+** 70.74392    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.2.1.13-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GAPDHSYNEC-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[GAPOXNPHOSPHN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TRIOSEPISOMERIZATION-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-1042]]
+* [[P341-PWY]]
+* [[PWY66-399]]
+* [[PWY66-373]]
+* [[GLUCONEO-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6901]]
+* [[SUCSYN-PWY]]
+* [[P124-PWY]]
+* [[PWY-6142]]
+* [[CALVIN-PWY]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[PWY-5484]]
+* [[P185-PWY]]
+* [[P122-PWY]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=7641}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5934}}
+{{#set: centisome position=70.74392    }}
+{{#set: reaction associated=1.2.1.13-RXN|GAPDHSYNEC-RXN|GAPOXNPHOSPHN-RXN|TRIOSEPISOMERIZATION-RXN}}
+{{#set: pathway associated=PWY-1042|P341-PWY|PWY66-399|PWY66-373|GLUCONEO-PWY|GLYCOLYSIS|PWY-6901|SUCSYN-PWY|P124-PWY|PWY-6142|CALVIN-PWY|ANAGLYCOLYSIS-PWY|PWY-5484|P185-PWY|P122-PWY|PWY-7003}}

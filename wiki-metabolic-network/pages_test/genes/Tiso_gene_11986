@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11986 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTOPORGENOXI-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY0-1415]]
+* [[HEME-BIOSYNTHESIS-II]]
+* [[CHLOROPHYLL-SYN]]
+* [[PWY-7159]]
+== External links  ==
+{{#set: reaction associated=PROTOPORGENOXI-RXN}}
+{{#set: pathway associated=PWY0-1415|HEME-BIOSYNTHESIS-II|CHLOROPHYLL-SYN|PWY-7159}}

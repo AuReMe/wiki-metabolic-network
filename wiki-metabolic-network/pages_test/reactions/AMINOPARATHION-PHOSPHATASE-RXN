@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AMINOPARATHION-PHOSPHATASE-RXN AMINOPARATHION-PHOSPHATASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Aminoparathion hydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.8.1 EC-3.1.8.1]
+* Synonym(s):
+** Paraoxonase
+** aminoparathion phosphatase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[AMINO-PARATHION]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[DIETHYLTHIOPHOSPHATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CPD-259]][c]
+* With common name(s):
+** 1 amino-parathion[c] '''+''' 1 H2O[c] '''=>''' 1 diethylthiophosphate[c] '''+''' 1 H+[c] '''+''' 1 4-aminophenol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9894]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Aminoparathion hydrolase}}
+{{#set: ec number=EC-3.1.8.1}}
+{{#set: common name=Paraoxonase|aminoparathion phosphatase}}
+{{#set: gene associated=Tiso_gene_9894}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

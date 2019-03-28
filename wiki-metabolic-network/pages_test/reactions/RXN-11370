@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-11370 RXN-11370] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** diphthine_synthase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[S-ADENOSYLMETHIONINE]][c] '''+''' 1 [[2-3-CARBOXY-3-AMINOPROPYL-L-HISTIDINE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[2-3-CARBOXY-3-METHYLAMMONIOPROPYL-L-]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 S-adenosyl-L-methionine[c] '''+''' 1 a 2-[(3S)-3-amino-3-carboxypropyl]-L-histidine-[translation elongation factor 2][c] '''=>''' 1 H+[c] '''+''' 1 a 2-[(3S)-3-carboxy-3-(methylammonio)propyl]-L-histidine-[translation elongation factor 2][c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15743]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20145 20145]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04481 R04481]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q58670 Q58670]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=diphthine_synthase}}
+{{#set: gene associated=Tiso_gene_15743}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

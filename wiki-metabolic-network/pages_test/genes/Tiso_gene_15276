@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15276 ==
+* right end position:
+** 4966
+* transcription direction:
+** POSITIVE
+* left end position:
+** 70
+* centisome position:
+** 1.3666537    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NADH-DEHYDROG-A-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-3781]]
+* [[PWY-5083]]
+* [[PWY0-1334]]
+* [[PWY0-1335]]
+* [[PWY-4302]]
+== External links  ==
+{{#set: right end position=4966}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=70}}
+{{#set: centisome position=1.3666537    }}
+{{#set: reaction associated=NADH-DEHYDROG-A-RXN}}
+{{#set: pathway associated=PWY-6692|PWY-3781|PWY-5083|PWY0-1334|PWY0-1335|PWY-4302}}

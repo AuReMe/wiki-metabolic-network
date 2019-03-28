@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12620 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4OH2OXOGLUTARALDOL-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[KDPGALDOL-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[R00471]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-13990]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-2221]]
+* [[PWY-7310]]
+* [[PWY-6507]]
+* [[GALACTUROCAT-PWY]]
+* [[ENTNER-DOUDOROFF-PWY]]
+* [[PWY-7562]]
+* [[HYDROXYPRODEG-PWY]]
+* [[PWY-7242]]
+== External links  ==
+{{#set: reaction associated=4OH2OXOGLUTARALDOL-RXN|KDPGALDOL-RXN|R00471|RXN-13990}}
+{{#set: pathway associated=PWY-2221|PWY-7310|PWY-6507|GALACTUROCAT-PWY|ENTNER-DOUDOROFF-PWY|PWY-7562|HYDROXYPRODEG-PWY|PWY-7242}}

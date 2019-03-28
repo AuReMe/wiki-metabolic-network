@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16719 ==
+* right end position:
+** 3225
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 72
+* centisome position:
+** 1.7282765    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.2.1.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ALLYSINE-DEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[ASPARTATE-RACEMASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10855]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY66-425]]
+* [[LYSINE-DEG1-PWY]]
+== External links  ==
+{{#set: right end position=3225}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=72}}
+{{#set: centisome position=1.7282765    }}
+{{#set: reaction associated=1.2.1.31-RXN|ALLYSINE-DEHYDROG-RXN|ASPARTATE-RACEMASE-RXN|RXN-10855}}
+{{#set: pathway associated=PWY66-425|LYSINE-DEG1-PWY}}

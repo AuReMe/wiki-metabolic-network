@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Primary-Amines Primary-Amines] ==
+* common name:
+** a primary amine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9597]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a primary amine}}
+{{#set: consumed by=RXN-9597}}

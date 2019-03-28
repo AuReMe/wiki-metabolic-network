@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5996 PWY-5996] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** oleate biosynthesis II (animals and fungi)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[1.14.19.1-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_7427]]
+*** [[Tiso_gene_9580]]
+*** [[Tiso_gene_18056]]
+*** [[Tiso_gene_19322]]
+*** [[Tiso_gene_19215]]
+*** [[Tiso_gene_1497]]
+*** [[Tiso_gene_8027]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-9666]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7477]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=oleate biosynthesis II (animals and fungi)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

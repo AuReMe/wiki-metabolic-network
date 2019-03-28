@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FLAVANONES FLAVANONES] ==
+* common name:
+** a flavanone
+* Synonym(s):
+** 2-phenyl-4-chromanone
+** 2,3-dihydro-2-phenyl-4H-1-benzopyran-4-one
+** 2,3-dihydroflavone
+** flavanone
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[CHALCONE-ISOMERASE-RXN]]
+== External links  ==
+{{#set: common name=a flavanone}}
+{{#set: common name=2-phenyl-4-chromanone|2,3-dihydro-2-phenyl-4H-1-benzopyran-4-one|2,3-dihydroflavone|flavanone}}
+{{#set: reversible reaction associated=CHALCONE-ISOMERASE-RXN}}

@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12561 RXN-12561] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.9 EC-2.3.1.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROPIONYL-COA]][c] '''+''' 1 [[ACETYL-COA]][c] '''<=>''' 1 [[CO-A]][c] '''+''' 1 [[CPD-13534]][c]
+* With common name(s):
+** 1 propanoyl-CoA[c] '''+''' 1 acetyl-CoA[c] '''<=>''' 1 coenzyme A[c] '''+''' 1 &beta;-ketovaleryl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15327]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17451]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.3.1.9}}
+{{#set: gene associated=Tiso_gene_15327|Tiso_gene_17451}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

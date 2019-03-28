@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19179 CPD-19179] ==
+* smiles:
+** C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])C3(OC2(N1(C4(N=C(N)NC(=O)C(N[CH]1C(O)(C(O)2)3)=4))))
+* common name:
+** (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate
+* inchi key:
+** InChIKey=HRBCPXBJAWPPIC-GZBYGQQWSA-J
+* molecular weight:
+** 519.151    
+* Synonym(s):
+** 3',8-cH2GTP
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8340]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: smiles=C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])C3(OC2(N1(C4(N=C(N)NC(=O)C(N[CH]1C(O)(C(O)2)3)=4))))}}
+{{#set: common name=(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate}}
+{{#set: inchi key=InChIKey=HRBCPXBJAWPPIC-GZBYGQQWSA-J}}
+{{#set: molecular weight=519.151    }}
+{{#set: common name=3',8-cH2GTP}}
+{{#set: produced by=RXN-8340}}

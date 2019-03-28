@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15686 ==
+* right end position:
+** 1724
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 25
+* centisome position:
+** 0.51282054    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PGLYCDEHYDROG-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PSERTRANSAM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PSERTRANSAMPYR-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[SERSYN-PWY]]
+* [[PYRIDOXSYN-PWY]]
+== External links  ==
+{{#set: right end position=1724}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=25}}
+{{#set: centisome position=0.51282054    }}
+{{#set: reaction associated=PGLYCDEHYDROG-RXN|PSERTRANSAM-RXN|PSERTRANSAMPYR-RXN}}
+{{#set: pathway associated=SERSYN-PWY|PYRIDOXSYN-PWY}}

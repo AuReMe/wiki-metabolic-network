@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12626 RXN-12626] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** chitotriose &beta;-N-acetylglucosaminidase
+** beta-hexosaminidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.52 EC-3.2.1.52]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-13227]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[CHITOBIOSE]][c] '''+''' 1 [[N-acetyl-D-glucosamine]][c]
+* With common name(s):
+** 1 N,N',N''-triacetylchitotriose[c] '''+''' 1 H2O[c] '''=>''' 1 N,N'-diacetylchitobiose[c] '''+''' 1 N-acetyl-D-glucosamine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1129]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14122]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6902]], chitin degradation II (Vibrio): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6902 PWY-6902]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=chitotriose &beta;-N-acetylglucosaminidase}}
+{{#set: common name=beta-hexosaminidase}}
+{{#set: ec number=EC-3.2.1.52}}
+{{#set: gene associated=Tiso_gene_1129|Tiso_gene_14122}}
+{{#set: in pathway=PWY-6902}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

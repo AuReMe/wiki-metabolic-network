@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2229 ==
+* right end position:
+** 18928
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 17079
+* centisome position:
+** 85.1014    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MRNA-GUANYLYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7375]]
+== External links  ==
+{{#set: right end position=18928}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=17079}}
+{{#set: centisome position=85.1014    }}
+{{#set: reaction associated=MRNA-GUANYLYLTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-7375}}

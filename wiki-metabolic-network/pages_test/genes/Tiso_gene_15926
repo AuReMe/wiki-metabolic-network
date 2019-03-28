@@ -1,0 +1,40 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15926 ==
+* right end position:
+** 4170
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3126
+* centisome position:
+** 66.43996    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.10.2.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14107]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15816]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15829]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6692]]
+* [[PWY-3781]]
+* [[PWY-101]]
+* [[PWY-7279]]
+* [[PWY-7082]]
+== External links  ==
+{{#set: right end position=4170}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3126}}
+{{#set: centisome position=66.43996    }}
+{{#set: reaction associated=1.10.2.2-RXN|PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN|RXN-14107|RXN-15816|RXN-15829}}
+{{#set: pathway associated=PWY-6692|PWY-3781|PWY-101|PWY-7279|PWY-7082}}

@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8895 ==
+* right end position:
+** 1311
+* transcription direction:
+** POSITIVE
+* left end position:
+** 296
+* centisome position:
+** 3.0250382    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11201]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1311}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=296}}
+{{#set: centisome position=3.0250382    }}
+{{#set: reaction associated=HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN|RXN-11201}}

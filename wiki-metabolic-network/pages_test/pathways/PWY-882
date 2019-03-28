@@ -1,0 +1,75 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-882 PWY-882] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-ascorbate biosynthesis I (L-galactose pathway)
+* Synonym(s):
+** vitamin C biosynthesis
+** ascorbic acid biosynthesis
+** L-ascorbic acid biosynthesis I
+** Smirnoff-Wheeler pathway
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''8''' reactions in the full pathway
+* [[2.7.7.13-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14704]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[GALACTONOLACTONE-DEHYDROGENASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_210]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSMANMUT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_5802]]
+*** [[Tiso_gene_13477]]
+*** [[Tiso_gene_14704]]
+*** [[Tiso_gene_4816]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-creinhardtii]]
+* [[RXN-1882]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6621]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1884]]
+** 5 associated gene(s):
+*** [[Tiso_gene_14920]]
+*** [[Tiso_gene_14624]]
+*** [[Tiso_gene_18748]]
+*** [[Tiso_gene_703]]
+*** [[Tiso_gene_4219]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXNQT-4142]]
+** 3 associated gene(s):
+*** [[Tiso_gene_11614]]
+*** [[Tiso_gene_10754]]
+*** [[Tiso_gene_15599]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MANNPISOM-RXN MANNPISOM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNQT-4141 RXNQT-4141]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-882 PWY-882]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-ascorbate biosynthesis I (L-galactose pathway)}}
+{{#set: common name=vitamin C biosynthesis|ascorbic acid biosynthesis|L-ascorbic acid biosynthesis I|Smirnoff-Wheeler pathway}}
+{{#set: reaction found=6}}
+{{#set: total reaction=8}}
+{{#set: completion rate=75.0}}

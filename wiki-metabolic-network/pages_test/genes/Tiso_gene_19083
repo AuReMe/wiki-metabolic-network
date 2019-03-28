@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19083 ==
+* right end position:
+** 2537
+* transcription direction:
+** POSITIVE
+* left end position:
+** 656
+* centisome position:
+** 25.279385    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.3.67-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[PROTEIN-TYROSINE-PHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6368]]
+== External links  ==
+{{#set: right end position=2537}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=656}}
+{{#set: centisome position=25.279385    }}
+{{#set: reaction associated=3.1.3.67-RXN|PROTEIN-TYROSINE-PHOSPHATASE-RXN}}
+{{#set: pathway associated=PWY-6368}}

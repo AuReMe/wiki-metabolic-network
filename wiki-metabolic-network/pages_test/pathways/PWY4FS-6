@@ -1,0 +1,40 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-6 PWY4FS-6] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** phosphatidylethanolamine biosynthesis II
+* Synonym(s):
+** Kennedy pathway
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[2.7.7.14-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18070]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[ETHANOLAMINE-KINASE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[ETHANOLAMINEPHOSPHOTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13392]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-5641]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=phosphatidylethanolamine biosynthesis II}}
+{{#set: common name=Kennedy pathway}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

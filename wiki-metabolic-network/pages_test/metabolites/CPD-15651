@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15651 CPD-15651] ==
+* smiles:
+** CCCCCCC=CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 6-trans-tridecenoyl-CoA
+* inchi key:
+** InChIKey=UUIVZEBYPBPKLL-HMXWSVNBSA-J
+* molecular weight:
+** 957.819    
+* Synonym(s):
+** 6E-tridecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14785]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658572 90658572]
+{{#set: smiles=CCCCCCC=CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=6-trans-tridecenoyl-CoA}}
+{{#set: inchi key=InChIKey=UUIVZEBYPBPKLL-HMXWSVNBSA-J}}
+{{#set: molecular weight=957.819    }}
+{{#set: common name=6E-tridecenoyl-CoA}}
+{{#set: consumed by=RXN-14785}}

@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Saturated-Fatty-Acyl-ACPs Saturated-Fatty-Acyl-ACPs] ==
+* common name:
+** a 2,3,4-saturated fatty acyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3-OXOACYL-ACP-SYNTH-RXN]]
+* [[RXN0-5514]]
+== Reaction(s) known to produce the compound ==
+* [[ENOYL-ACP-REDUCT-NADPH-RXN]]
+* [[ENOYL-ACP-REDUCT-NADH-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2,3,4-saturated fatty acyl-[acp]}}
+{{#set: consumed by=3-OXOACYL-ACP-SYNTH-RXN|RXN0-5514}}
+{{#set: produced by=ENOYL-ACP-REDUCT-NADPH-RXN|ENOYL-ACP-REDUCT-NADH-RXN}}

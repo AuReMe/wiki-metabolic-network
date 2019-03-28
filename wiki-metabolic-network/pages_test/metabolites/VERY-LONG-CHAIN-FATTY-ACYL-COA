@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=VERY-LONG-CHAIN-FATTY-ACYL-COA VERY-LONG-CHAIN-FATTY-ACYL-COA] ==
+* common name:
+** a very long chain fatty acyl-CoA
+* Synonym(s):
+** a very long-chain fatty acyl-coenzyme A
+** a very long chain acyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-16415]]
+== External links  ==
+{{#set: common name=a very long chain fatty acyl-CoA}}
+{{#set: common name=a very long-chain fatty acyl-coenzyme A|a very long chain acyl-CoA}}
+{{#set: reversible reaction associated=RXN-16415}}

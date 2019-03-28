@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17240 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1-PHOSPHATIDYLINOSITOL-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6352]]
+* [[PWY-6351]]
+== External links  ==
+{{#set: reaction associated=1-PHOSPHATIDYLINOSITOL-KINASE-RXN}}
+{{#set: pathway associated=PWY-6352|PWY-6351}}

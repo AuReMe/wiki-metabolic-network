@@ -1,0 +1,53 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GDPPYPHOSKIN-RXN GDPPYPHOSKIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ppgpp_synthetase
+** ca2+-activated_spot-like_protein
+** gtp_pyrophosphokinase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.6.5 EC-2.7.6.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GDP]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[GUANOSINE-5DP-3DP]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 GDP[c] '''+''' 1 ATP[c] '''=>''' 1 ppGpp[c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16305]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7349]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_6799]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PPGPPMET-PWY]], ppGpp biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PPGPPMET-PWY PPGPPMET-PWY]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28098 28098]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ppgpp_synthetase}}
+{{#set: common name=ca2+-activated_spot-like_protein}}
+{{#set: common name=gtp_pyrophosphokinase}}
+{{#set: ec number=EC-2.7.6.5}}
+{{#set: gene associated=Tiso_gene_16305|Tiso_gene_7349|Tiso_gene_6799}}
+{{#set: in pathway=PPGPPMET-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

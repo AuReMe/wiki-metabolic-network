@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-558 CPD-558] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CCCCCC([O-])=O)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** pimeloyl-CoA
+* inchi key:
+** InChIKey=LYCRXMTYUZDUGA-UYRKPTJQSA-I
+* molecular weight:
+** 904.649    
+* Synonym(s):
+** 6-carboxyhexanoyl-CoA
+** pimelyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[7KAPSYN-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266589 45266589]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57360 57360]
+* BIGG : pmcoa
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01063 C01063]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CCCCCC([O-])=O)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=pimeloyl-CoA}}
+{{#set: inchi key=InChIKey=LYCRXMTYUZDUGA-UYRKPTJQSA-I}}
+{{#set: molecular weight=904.649    }}
+{{#set: common name=6-carboxyhexanoyl-CoA|pimelyl-CoA}}
+{{#set: consumed by=7KAPSYN-RXN}}

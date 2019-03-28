@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Octadec-2-enoyl-ACPs Octadec-2-enoyl-ACPs] ==
+* common name:
+** a trans-octadec-2-enoyl-[acp]
+* Synonym(s):
+** trans-2,3-stearoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN3O-5293]]
+* [[RXN-9635]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9634]]
+== Reaction(s) of unknown directionality ==
+* [[R369]]
+== External links  ==
+{{#set: common name=a trans-octadec-2-enoyl-[acp]}}
+{{#set: common name=trans-2,3-stearoyl-[acp]}}
+{{#set: consumed by=RXN3O-5293|RXN-9635}}
+{{#set: produced by=RXN-9634}}
+{{#set: reversible reaction associated=R369}}

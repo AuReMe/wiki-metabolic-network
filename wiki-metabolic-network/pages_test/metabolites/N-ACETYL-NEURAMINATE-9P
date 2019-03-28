@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYL-NEURAMINATE-9P N-ACETYL-NEURAMINATE-9P] ==
+* smiles:
+** CC(=O)NC1(C(CC(C([O-])=O)(O)O[CH]1C(O)C(O)COP([O-])([O-])=O)O)
+* common name:
+** N-acetyl-&beta;-neuraminate 9-phosphate
+* inchi key:
+** InChIKey=SQMNIXJSBCSNCI-PFQGKNLYSA-K
+* molecular weight:
+** 386.229    
+* Synonym(s):
+** N-acetyl-&beta;-neuraminate-9-P
+** N-acetyl-&beta;-neuraminic acid 9-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9988]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06241 C06241]
+* HMDB : HMDB04381
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27438 27438]
+* METABOLIGHTS : MTBLC27438
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658964 90658964]
+{{#set: smiles=CC(=O)NC1(C(CC(C([O-])=O)(O)O[CH]1C(O)C(O)COP([O-])([O-])=O)O)}}
+{{#set: common name=N-acetyl-&beta;-neuraminate 9-phosphate}}
+{{#set: inchi key=InChIKey=SQMNIXJSBCSNCI-PFQGKNLYSA-K}}
+{{#set: molecular weight=386.229    }}
+{{#set: common name=N-acetyl-&beta;-neuraminate-9-P|N-acetyl-&beta;-neuraminic acid 9-phosphate}}
+{{#set: produced by=RXN-9988}}

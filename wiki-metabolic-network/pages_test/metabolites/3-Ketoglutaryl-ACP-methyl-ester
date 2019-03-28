@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Ketoglutaryl-ACP-methyl-ester 3-Ketoglutaryl-ACP-methyl-ester] ==
+* common name:
+** a 3-oxo-glutaryl-[acp] methyl ester
+* Synonym(s):
+** a 3-ketoglutaryl-[acp] methyl ester
+** a 3-ketoglutaryl-[acyl-carrier-protein] methyl ester
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11476]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11474]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-glutaryl-[acp] methyl ester}}
+{{#set: common name=a 3-ketoglutaryl-[acp] methyl ester|a 3-ketoglutaryl-[acyl-carrier-protein] methyl ester}}
+{{#set: consumed by=RXN-11476}}
+{{#set: produced by=RXN-11474}}

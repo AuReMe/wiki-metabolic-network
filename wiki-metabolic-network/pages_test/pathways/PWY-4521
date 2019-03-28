@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4521 PWY-4521] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** arsenite oxidation I (respiratory)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[CYTOCHROME-C-OXIDASE-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18580]]
+*** [[Tiso_gene_15682]]
+*** [[Tiso_gene_7948]]
+*** [[Tiso_gene_18053]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12586 RXN-12586]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=arsenite oxidation I (respiratory)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

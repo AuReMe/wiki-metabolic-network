@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=O-phospho-L-seryl-tRNASecs O-phospho-L-seryl-tRNASecs] ==
+* common name:
+** an O-phospho-L-seryl-[tRNASec]
+* Synonym(s):
+** an O-phosphoseryl-[tRNAsec]
+** an O-phosphoseryl-tRNA[Ser]Sec
+** an O-phosphoseryl-[tRNA(Sec)]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10039]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-10038]]
+== External links  ==
+{{#set: common name=an O-phospho-L-seryl-[tRNASec]}}
+{{#set: common name=an O-phosphoseryl-[tRNAsec]|an O-phosphoseryl-tRNA[Ser]Sec|an O-phosphoseryl-[tRNA(Sec)]}}
+{{#set: consumed by=RXN-10039}}
+{{#set: reversible reaction associated=RXN-10038}}

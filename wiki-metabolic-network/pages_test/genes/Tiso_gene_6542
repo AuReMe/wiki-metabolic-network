@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6542 ==
+* right end position:
+** 11103
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5658
+* centisome position:
+** 27.562353    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.4.21.112-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=11103}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5658}}
+{{#set: centisome position=27.562353    }}
+{{#set: reaction associated=3.4.21.112-RXN}}

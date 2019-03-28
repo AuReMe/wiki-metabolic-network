@@ -1,0 +1,92 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PRTRANS-RXN PRTRANS-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** anthranilate
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.2.18 EC-2.4.2.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[N-5-PHOSPHORIBOSYL-ANTHRANILATE]][c] '''+''' 1 [[PPI]][c] '''<=>''' 1 [[ANTHRANILATE]][c] '''+''' 1 [[PRPP]][c]
+* With common name(s):
+** 1 N-(5-phosphoribosyl)-anthranilate[c] '''+''' 1 diphosphate[c] '''<=>''' 1 anthranilate[c] '''+''' 1 5-phospho-&alpha;-D-ribose 1-diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15839]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[TRPSYN-PWY]], L-tryptophan biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=TRPSYN-PWY TRPSYN-PWY]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=11768 11768]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01073 R01073]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P12320 P12320]
+** [http://www.uniprot.org/uniprot/P12321 P12321]
+** [http://www.uniprot.org/uniprot/P42392 P42392]
+** [http://www.uniprot.org/uniprot/P66995 P66995]
+** [http://www.uniprot.org/uniprot/P20574 P20574]
+** [http://www.uniprot.org/uniprot/P20575 P20575]
+** [http://www.uniprot.org/uniprot/Q08654 Q08654]
+** [http://www.uniprot.org/uniprot/P06559 P06559]
+** [http://www.uniprot.org/uniprot/P43858 P43858]
+** [http://www.uniprot.org/uniprot/P56737 P56737]
+** [http://www.uniprot.org/uniprot/P18261 P18261]
+** [http://www.uniprot.org/uniprot/P17170 P17170]
+** [http://www.uniprot.org/uniprot/P00906 P00906]
+** [http://www.uniprot.org/uniprot/P00905 P00905]
+** [http://www.uniprot.org/uniprot/P00904 P00904]
+** [http://www.uniprot.org/uniprot/P03947 P03947]
+** [http://www.uniprot.org/uniprot/P07285 P07285]
+** [http://www.uniprot.org/uniprot/P00500 P00500]
+** [http://www.uniprot.org/uniprot/P26924 P26924]
+** [http://www.uniprot.org/uniprot/P30525 P30525]
+** [http://www.uniprot.org/uniprot/Q02000 Q02000]
+** [http://www.uniprot.org/uniprot/P73617 P73617]
+** [http://www.uniprot.org/uniprot/O80558 O80558]
+** [http://www.uniprot.org/uniprot/O65279 O65279]
+** [http://www.uniprot.org/uniprot/Q9T0C8 Q9T0C8]
+** [http://www.uniprot.org/uniprot/O49435 O49435]
+** [http://www.uniprot.org/uniprot/Q43085 Q43085]
+** [http://www.uniprot.org/uniprot/O68608 O68608]
+** [http://www.uniprot.org/uniprot/Q9S592 Q9S592]
+** [http://www.uniprot.org/uniprot/Q9ZFA8 Q9ZFA8]
+** [http://www.uniprot.org/uniprot/P94326 P94326]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=anthranilate}}
+{{#set: ec number=EC-2.4.2.18}}
+{{#set: gene associated=Tiso_gene_15839}}
+{{#set: in pathway=TRPSYN-PWY}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

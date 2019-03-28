@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18887 ==
+* right end position:
+** 2186
+* transcription direction:
+** POSITIVE
+* left end position:
+** 613
+* centisome position:
+** 22.388605    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.1.68-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6352]]
+* [[PWY-6351]]
+== External links  ==
+{{#set: right end position=2186}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=613}}
+{{#set: centisome position=22.388605    }}
+{{#set: reaction associated=2.7.1.68-RXN}}
+{{#set: pathway associated=PWY-6352|PWY-6351}}

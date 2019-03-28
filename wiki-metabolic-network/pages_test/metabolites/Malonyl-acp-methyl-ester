@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Malonyl-acp-methyl-ester Malonyl-acp-methyl-ester] ==
+* common name:
+** a malonyl-[acp] methyl ester
+* Synonym(s):
+** a malonyl-[acyl-carrier protein] methyl ester
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11474]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a malonyl-[acp] methyl ester}}
+{{#set: common name=a malonyl-[acyl-carrier protein] methyl ester}}
+{{#set: consumed by=RXN-11474}}

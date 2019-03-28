@@ -1,0 +1,53 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4976 ==
+* right end position:
+** 14013
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 8336
+* centisome position:
+** 59.183525    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6.3.4.16-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[CARBPSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GLUTAMIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13202]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-14196]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16909]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16910]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-4984]]
+* [[GLUTAMINDEG-PWY]]
+* [[ARGSYN-PWY]]
+* [[PWY-5154]]
+* [[PWY-7400]]
+* [[ARGSYNBSUB-PWY]]
+* [[PWY-7693]]
+* [[PWY-7790]]
+* [[PWY-7791]]
+* [[PWY-5686]]
+* [[CITRULBIO-PWY]]
+== External links  ==
+{{#set: right end position=14013}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=8336}}
+{{#set: centisome position=59.183525    }}
+{{#set: reaction associated=6.3.4.16-RXN|CARBPSYN-RXN|GLUTAMIN-RXN|RXN-13202|RXN-14196|RXN-16909|RXN-16910}}
+{{#set: pathway associated=PWY-4984|GLUTAMINDEG-PWY|ARGSYN-PWY|PWY-5154|PWY-7400|ARGSYNBSUB-PWY|PWY-7693|PWY-7790|PWY-7791|PWY-5686|CITRULBIO-PWY}}

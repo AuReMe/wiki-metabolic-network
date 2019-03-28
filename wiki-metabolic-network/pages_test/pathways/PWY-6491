@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6491 PWY-6491] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** D-galacturonate degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN-11382]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11151 RXN-11151]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11380 RXN-11380]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11381 RXN-11381]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11383 RXN-11383]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14753 RXN-14753]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=D-galacturonate degradation III}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14706 CPD-14706] ==
+* smiles:
+** CCCCCC(O)C(CC=O)SCC([N+])C(=O)[O-]
+* common name:
+** 4-hydroxy-2-nonenal-[L-Cys] conjugate
+* inchi key:
+** InChIKey=SALPDUSHMTYYOH-UHFFFAOYSA-N
+* molecular weight:
+** 277.378    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-13677]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657989 90657989]
+{{#set: smiles=CCCCCC(O)C(CC=O)SCC([N+])C(=O)[O-]}}
+{{#set: common name=4-hydroxy-2-nonenal-[L-Cys] conjugate}}
+{{#set: inchi key=InChIKey=SALPDUSHMTYYOH-UHFFFAOYSA-N}}
+{{#set: molecular weight=277.378    }}
+{{#set: produced by=RXN-13677}}

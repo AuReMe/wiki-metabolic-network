@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DHAD_3mob_h DHAD_3mob_h] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dihydroxy-acid dehydratase, 3-Methyl-2-oxobutanoate, chloroplast
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-13357]][h] '''=>''' 1.0 [[2-KETO-ISOVALERATE]][h] '''+''' 1.0 [[WATER]][h]
+* With common name(s):
+** 1.0 (2R)-2,3-dihydroxy-3-methylbutanoate[h] '''=>''' 1.0 3-methyl-2-oxobutanoate[h] '''+''' 1.0 H2O[h]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1563]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dihydroxy-acid dehydratase, 3-Methyl-2-oxobutanoate, chloroplast}}
+{{#set: gene associated=Tiso_gene_1563}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

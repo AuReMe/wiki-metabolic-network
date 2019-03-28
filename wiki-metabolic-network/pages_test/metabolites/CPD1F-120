@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-120 CPD1F-120] ==
+* smiles:
+** C=C1(C2(CC3(C1)(C([CH]4(C(C)(CCCC(C=O)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))
+* common name:
+** gibberellin A24
+* inchi key:
+** InChIKey=QQRSSHFHXYSOMF-CXXOJBQZSA-L
+* molecular weight:
+** 344.407    
+* Synonym(s):
+** GA24
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN1F-163]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25246232 25246232]
+* HMDB : HMDB37103
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=32906 32906]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11861 C11861]
+{{#set: smiles=C=C1(C2(CC3(C1)(C([CH]4(C(C)(CCCC(C=O)([CH](CC2)3)4)C([O-])=O))C([O-])=O)))}}
+{{#set: common name=gibberellin A24}}
+{{#set: inchi key=InChIKey=QQRSSHFHXYSOMF-CXXOJBQZSA-L}}
+{{#set: molecular weight=344.407    }}
+{{#set: common name=GA24}}
+{{#set: produced by=RXN1F-163}}

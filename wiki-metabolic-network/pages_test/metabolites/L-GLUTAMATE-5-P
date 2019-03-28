@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-GLUTAMATE-5-P L-GLUTAMATE-5-P] ==
+* smiles:
+** C(CCC(C(=O)[O-])[N+])(OP([O-])(=O)[O-])=O
+* common name:
+** &gamma;-L-glutamyl 5-phosphate
+* inchi key:
+** InChIKey=PJRXVIJAERNUIP-VKHMYHEASA-L
+* molecular weight:
+** 225.094    
+* Synonym(s):
+** L-glutamate 5-phosphate
+** &gamma;-L-glutamyl-5-P
+
+== Reaction(s) known to consume the compound ==
+* [[G5DH]]
+* [[GLUTSEMIALDEHYDROG-RXN]]
+* [[G5DHm]]
+== Reaction(s) known to produce the compound ==
+* [[GLUTKIN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : glu5p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44457531 44457531]
+* HMDB : HMDB01228
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03287 C03287]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58274 58274]
+* METABOLIGHTS : MTBLC58274
+{{#set: smiles=C(CCC(C(=O)[O-])[N+])(OP([O-])(=O)[O-])=O}}
+{{#set: common name=&gamma;-L-glutamyl 5-phosphate}}
+{{#set: inchi key=InChIKey=PJRXVIJAERNUIP-VKHMYHEASA-L}}
+{{#set: molecular weight=225.094    }}
+{{#set: common name=L-glutamate 5-phosphate|&gamma;-L-glutamyl-5-P}}
+{{#set: consumed by=G5DH|GLUTSEMIALDEHYDROG-RXN|G5DHm}}
+{{#set: produced by=GLUTKIN-RXN}}

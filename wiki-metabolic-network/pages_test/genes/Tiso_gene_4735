@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4735 ==
+* right end position:
+** 8508
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6724
+* centisome position:
+** 46.733387    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDROOROTATE-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-6491]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-6554]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5686]]
+== External links  ==
+{{#set: right end position=8508}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6724}}
+{{#set: centisome position=46.733387    }}
+{{#set: reaction associated=DIHYDROOROTATE-DEHYDROGENASE-RXN|RXN0-6491|RXN0-6554}}
+{{#set: pathway associated=PWY-5686}}

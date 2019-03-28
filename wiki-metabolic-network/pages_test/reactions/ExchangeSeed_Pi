@@ -1,0 +1,24 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ExchangeSeed_Pi ExchangeSeed_Pi] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[Pi]][C-BOUNDARY] '''<=>''' 1.0 [[Pi]][e]
+* With common name(s):
+** 1.0 phosphate[C-BOUNDARY] '''<=>''' 1.0 phosphate[e]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-import_from_medium]]
+*** Comment: [[added to manage seeds from boundary to extracellular compartment]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-import_from_medium}}
+{{#set: reconstruction comment=added to manage seeds from boundary to extracellular compartment}}

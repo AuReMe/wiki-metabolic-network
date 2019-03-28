@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALKYL-SN-GLYCERO-PHOSPHOETHANOLAMINE ALKYL-SN-GLYCERO-PHOSPHOETHANOLAMINE] ==
+* smiles:
+** C([N+])COP([O-])(=O)OCC(O)CO[R]
+* common name:
+** 1-alkyl-sn-glycero-3-phosphoethanolamine
+* Synonym(s):
+** 1-alkyl-2-lysosnn-glycero-3-phosphoethanolamine
+** 1-radyl-2-lyso-sn-glycero-3-phosphoethanolamine
+** 1-organyl-2-lyso-sn-glycero-3-phosphoethanolamine
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[LPLPS1AGPE180]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04476 C04476]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18244 18244]
+{{#set: smiles=C([N+])COP([O-])(=O)OCC(O)CO[R]}}
+{{#set: common name=1-alkyl-sn-glycero-3-phosphoethanolamine}}
+{{#set: common name=1-alkyl-2-lysosnn-glycero-3-phosphoethanolamine|1-radyl-2-lyso-sn-glycero-3-phosphoethanolamine|1-organyl-2-lyso-sn-glycero-3-phosphoethanolamine}}
+{{#set: produced by=LPLPS1AGPE180}}

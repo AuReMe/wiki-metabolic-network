@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-4587 CPD-4587] ==
+* smiles:
+** COC1(C4(=C(C2([CH]3(CCO[CH](OC(C=1)=2)3)))OC5(C=CC=C(C(C4=O)=5)O)))
+* common name:
+** dihydrosterigmatocystin
+* inchi key:
+** InChIKey=RHGQIWVTIHZRLI-DCXZOGHSSA-N
+* molecular weight:
+** 326.305    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-9500]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21596453 21596453]
+* HMDB : HMDB30590
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C20445 C20445]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4588884.html 4588884]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=72677 72677]
+* METABOLIGHTS : MTBLC72677
+{{#set: smiles=COC1(C4(=C(C2([CH]3(CCO[CH](OC(C=1)=2)3)))OC5(C=CC=C(C(C4=O)=5)O)))}}
+{{#set: common name=dihydrosterigmatocystin}}
+{{#set: inchi key=InChIKey=RHGQIWVTIHZRLI-DCXZOGHSSA-N}}
+{{#set: molecular weight=326.305    }}
+{{#set: produced by=RXN-9500}}

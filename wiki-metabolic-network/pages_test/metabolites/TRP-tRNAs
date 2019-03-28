@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TRP-tRNAs TRP-tRNAs] ==
+* common name:
+** a tRNAtrp
+* Synonym(s):
+** TRNA(TRP)
+
+== Reaction(s) known to consume the compound ==
+* [[TRYPTOPHAN--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAtrp}}
+{{#set: common name=TRNA(TRP)}}
+{{#set: consumed by=TRYPTOPHAN--TRNA-LIGASE-RXN}}

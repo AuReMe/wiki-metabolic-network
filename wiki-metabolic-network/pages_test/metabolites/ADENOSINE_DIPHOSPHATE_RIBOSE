@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ADENOSINE_DIPHOSPHATE_RIBOSE ADENOSINE_DIPHOSPHATE_RIBOSE] ==
+* smiles:
+** C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(OP([O-])(=O)OCC4(C(O)C(O)C(O4)O))(=O)[O-]
+* common name:
+** ADP-D-ribose
+* inchi key:
+** InChIKey=SRNWOUGRCWSEMX-TYASJMOZSA-L
+* molecular weight:
+** 557.303    
+* Synonym(s):
+** adenosine diphosphate D-ribose
+** adenosine 5'-(5-deoxy-D-ribofuranos-5-yl diphosphate)
+
+== Reaction(s) known to consume the compound ==
+* [[ARDP]]
+* [[RXN0-1441]]
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.143-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 20762-30-5
+* BIGG : adprib
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=49791958 49791958]
+* HMDB : HMDB01178
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00301 C00301]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57967 57967]
+* METABOLIGHTS : MTBLC57967
+{{#set: smiles=C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(OP([O-])(=O)OCC4(C(O)C(O)C(O4)O))(=O)[O-]}}
+{{#set: common name=ADP-D-ribose}}
+{{#set: inchi key=InChIKey=SRNWOUGRCWSEMX-TYASJMOZSA-L}}
+{{#set: molecular weight=557.303    }}
+{{#set: common name=adenosine diphosphate D-ribose|adenosine 5'-(5-deoxy-D-ribofuranos-5-yl diphosphate)}}
+{{#set: consumed by=ARDP|RXN0-1441}}
+{{#set: produced by=3.2.1.143-RXN}}

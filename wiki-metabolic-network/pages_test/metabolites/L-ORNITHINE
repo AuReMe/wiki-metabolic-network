@@ -1,0 +1,53 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-ORNITHINE L-ORNITHINE] ==
+* smiles:
+** C(C[N+])CC([N+])C([O-])=O
+* common name:
+** L-ornithine
+* inchi key:
+** InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
+* molecular weight:
+** 133.17    
+* Synonym(s):
+** Ornithine
+** 2, 5-diaminovaleric acid
+** 2, 5-diaminopentanoic acid
+** 2, 5-diaminopentanoate
+** &alpha;,&delta;-diaminovaleric acid
+
+== Reaction(s) known to consume the compound ==
+* [[ORNITHINE-CYCLODEAMINASE-RXN]]
+* [[orDC]]
+* [[orDCh]]
+* [[ORNDECARBOX-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[GLUTAMATE-N-ACETYLTRANSFERASE-RXN]]
+* [[AODAA]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13482]]
+* [[ORNITHINE-GLU-AMINOTRANSFERASE-RXN]]
+* [[ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN]]
+* [[ACETYLORNDEACET-RXN]]
+* [[ORNCARBAMTRANSFER-RXN]]
+* [[ARGINASE-RXN]]
+* [[ORNITHINE-GLU-AMINOTRANSFORASE-RXN]]
+== External links  ==
+* BIGG : orn
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6992088 6992088]
+* HMDB : HMDB00214
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00077 C00077]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5360242.html 5360242]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=46911 46911]
+* METABOLIGHTS : MTBLC46911
+{{#set: smiles=C(C[N+])CC([N+])C([O-])=O}}
+{{#set: common name=L-ornithine}}
+{{#set: inchi key=InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O}}
+{{#set: molecular weight=133.17    }}
+{{#set: common name=Ornithine|2, 5-diaminovaleric acid|2, 5-diaminopentanoic acid|2, 5-diaminopentanoate|&alpha;,&delta;-diaminovaleric acid}}
+{{#set: consumed by=ORNITHINE-CYCLODEAMINASE-RXN|orDC|orDCh|ORNDECARBOX-RXN}}
+{{#set: produced by=GLUTAMATE-N-ACETYLTRANSFERASE-RXN|AODAA}}
+{{#set: reversible reaction associated=RXN-13482|ORNITHINE-GLU-AMINOTRANSFERASE-RXN|ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN|ACETYLORNDEACET-RXN|ORNCARBAMTRANSFER-RXN|ARGINASE-RXN|ORNITHINE-GLU-AMINOTRANSFORASE-RXN}}

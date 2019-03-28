@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-SELENOCYSTEINE L-SELENOCYSTEINE] ==
+* smiles:
+** C([Se])C([N+])C([O-])=O
+* common name:
+** L-selenocysteine
+* inchi key:
+** InChIKey=ZKZBPNGNEQAJSX-REOHCLBHSA-N
+* molecular weight:
+** 168.054    
+* Synonym(s):
+** U
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12728]]
+* [[SUCHMSSELCYSLh]]
+* [[ACHMSSELCYSL]]
+* [[ACHMSSELCYSLh]]
+* [[SUCHMSSELCYSL]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12726]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05688 C05688]
+* HMDB : HMDB03288
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57843 57843]
+* METABOLIGHTS : MTBLC57843
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245418 25245418]
+{{#set: smiles=C([Se])C([N+])C([O-])=O}}
+{{#set: common name=L-selenocysteine}}
+{{#set: inchi key=InChIKey=ZKZBPNGNEQAJSX-REOHCLBHSA-N}}
+{{#set: molecular weight=168.054    }}
+{{#set: common name=U}}
+{{#set: consumed by=RXN-12728|SUCHMSSELCYSLh|ACHMSSELCYSL|ACHMSSELCYSLh|SUCHMSSELCYSL}}
+{{#set: produced by=RXN-12726}}

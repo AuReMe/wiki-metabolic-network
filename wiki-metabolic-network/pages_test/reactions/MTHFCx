@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MTHFCx MTHFCx] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Methenyltetrahydrofolate cyclohydrolase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[10-FORMYL-THF]][x] '''+''' 1.0 [[PROTON]][x] '''=>''' 1.0 [[WATER]][x] '''+''' 1.0 [[5-10-METHENYL-THF]][x]
+* With common name(s):
+** 1.0 10-formyl-tetrahydrofolate mono-L-glutamate[x] '''+''' 1.0 H+[x] '''=>''' 1.0 H2O[x] '''+''' 1.0 5,10-methenyltetrahydrofolate mono-L-glutamate[x]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_432]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Methenyltetrahydrofolate cyclohydrolase}}
+{{#set: gene associated=Tiso_gene_432}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

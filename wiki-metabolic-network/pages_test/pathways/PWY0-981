@@ -1,0 +1,24 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-981 PWY0-981] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** taurine degradation IV
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''1''' reactions in the full pathway
+* [[RXN0-299]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17672]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-981 PWY0-981]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=taurine degradation IV}}
+{{#set: reaction found=1}}
+{{#set: total reaction=1}}
+{{#set: completion rate=100.0}}

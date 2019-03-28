@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-15041 RXN-15041] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** d-aminoacyl-trna_deacylase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.96 EC-3.1.1.96]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[D-aminoacyl-tRNAs]][c] '''=>''' 1 [[D-Amino-Acids]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[tRNAs]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a D-aminoacyl-[tRNA][c] '''=>''' 1 a D-amino acid[c] '''+''' 1 H+[c] '''+''' 1 an uncharged tRNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11763]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=d-aminoacyl-trna_deacylase}}
+{{#set: ec number=EC-3.1.1.96}}
+{{#set: gene associated=Tiso_gene_11763}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19787 ==
+* right end position:
+** 146
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2
+* centisome position:
+** 9.82318300e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=146}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=9.82318300e-2}}
+{{#set: reaction associated=RNA-DIRECTED-DNA-POLYMERASE-RXN}}

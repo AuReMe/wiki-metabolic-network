@@ -1,0 +1,113 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P341-PWY P341-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** glycolysis V (Pyrococcus)
+* Synonym(s):
+** archaeal Embden-Meyerhof pathway
+** archaeal Embden-Meyerhof-Parnas pathway
+** archaeal EMP pathway
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''9''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[3PGAREARR-RXN]]
+** 16 associated gene(s):
+*** [[Tiso_gene_15048]]
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16754]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_5468]]
+*** [[Tiso_gene_20311]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_15391]]
+*** [[Tiso_gene_14212]]
+*** [[Tiso_gene_10516]]
+*** [[Tiso_gene_9923]]
+*** [[Tiso_gene_2667]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.7.6-RXN 1.2.7.6-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=R302-RXN R302-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17001 RXN-17001]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=glycolysis V (Pyrococcus)}}
+{{#set: common name=archaeal Embden-Meyerhof pathway|archaeal Embden-Meyerhof-Parnas pathway|archaeal EMP pathway}}
+{{#set: reaction found=6}}
+{{#set: total reaction=9}}
+{{#set: completion rate=67.0}}

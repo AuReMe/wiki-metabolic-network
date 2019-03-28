@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7036 CPD-7036] ==
+* smiles:
+** CSCCC=O
+* common name:
+** 3-methylthiopropanal
+* inchi key:
+** InChIKey=CLUWOWRTHNNBBU-UHFFFAOYSA-N
+* molecular weight:
+** 104.167    
+* Synonym(s):
+** methional
+** 3-methylthiopropional
+** 3-methylthio-propionaldehyde
+** 3-methylsulfanyl-propanal
+** 3-methylmercapto-propionaldehyde
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7706]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=18635 18635]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.17597.html 17597]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=49017 49017]
+* HMDB : HMDB31857
+{{#set: smiles=CSCCC=O}}
+{{#set: common name=3-methylthiopropanal}}
+{{#set: inchi key=InChIKey=CLUWOWRTHNNBBU-UHFFFAOYSA-N}}
+{{#set: molecular weight=104.167    }}
+{{#set: common name=methional|3-methylthiopropional|3-methylthio-propionaldehyde|3-methylsulfanyl-propanal|3-methylmercapto-propionaldehyde}}
+{{#set: consumed by=RXN-7706}}

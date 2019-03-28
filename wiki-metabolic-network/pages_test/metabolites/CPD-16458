@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-16458 CPD-16458] ==
+* smiles:
+** C2(=O)(C1(=C(NCC=N1)NC(=O)N2))
+* common name:
+** 7,8-dihydrolumazine
+* inchi key:
+** InChIKey=MYJNEEHZESREMO-UHFFFAOYSA-N
+* molecular weight:
+** 166.139    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-15261]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=590555 590555]
+{{#set: smiles=C2(=O)(C1(=C(NCC=N1)NC(=O)N2))}}
+{{#set: common name=7,8-dihydrolumazine}}
+{{#set: inchi key=InChIKey=MYJNEEHZESREMO-UHFFFAOYSA-N}}
+{{#set: molecular weight=166.139    }}
+{{#set: produced by=RXN-15261}}

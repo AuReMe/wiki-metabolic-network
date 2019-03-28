@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16182 ==
+* right end position:
+** 3882
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 109
+* centisome position:
+** 2.40565    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.34-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-922]]
+* [[PWY-6174]]
+* [[PWY-7391]]
+* [[PWY-7524]]
+== External links  ==
+{{#set: right end position=3882}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=109}}
+{{#set: centisome position=2.40565    }}
+{{#set: reaction associated=1.1.1.34-RXN}}
+{{#set: pathway associated=PWY-922|PWY-6174|PWY-7391|PWY-7524}}

@@ -1,0 +1,44 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.13.4-RXN 3.1.13.4-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** nocturin
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.13.4 EC-3.1.13.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[mRNAs-With-PolyA-Tails]][c] '''+''' n [[WATER]][c] '''=>''' n [[AMP]][c] '''+''' 1 [[mRNAs]][c]
+* With common name(s):
+** 1 a mRNA with poly(A) tail[c] '''+''' n H2O[c] '''=>''' n AMP[c] '''+''' 1 an mRNA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17497]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17498]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17499]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P32521 P32521]
+** [http://www.uniprot.org/uniprot/Q09798 Q09798]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=nocturin}}
+{{#set: ec number=EC-3.1.13.4}}
+{{#set: gene associated=Tiso_gene_17497|Tiso_gene_17498|Tiso_gene_17499}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

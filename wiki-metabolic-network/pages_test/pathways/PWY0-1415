@@ -1,0 +1,71 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1415 PWY0-1415] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superpathway of heme biosynthesis from uroporphyrinogen-III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''6''' reactions in the full pathway
+* [[HEMESYN2-PWY]]
+** 0 associated gene:
+* [[PROTOHEMEFERROCHELAT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3284]]
+*** [[Tiso_gene_15900]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-creinhardtii]]
+* [[PROTOPORGENOXI-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11986]]
+*** [[Tiso_gene_15401]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[RXN0-1461]]
+** 5 associated gene(s):
+*** [[Tiso_gene_3671]]
+*** [[Tiso_gene_2247]]
+*** [[Tiso_gene_13364]]
+*** [[Tiso_gene_13365]]
+*** [[Tiso_gene_2246]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[UROGENDECARBOX-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18743]]
+*** [[Tiso_gene_19684]]
+*** [[Tiso_gene_18744]]
+*** [[Tiso_gene_5173]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-1415 PWY0-1415]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superpathway of heme biosynthesis from uroporphyrinogen-III}}
+{{#set: reaction found=5}}
+{{#set: total reaction=6}}
+{{#set: completion rate=83.0}}

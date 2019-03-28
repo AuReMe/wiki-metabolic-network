@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CYANURIC-ACID CYANURIC-ACID] ==
+* smiles:
+** C1(O)(=NC(O)=NC(O)=N1)
+* common name:
+** cyanurate
+* inchi key:
+** InChIKey=ZFSLODLOARCGLH-UHFFFAOYSA-N
+* molecular weight:
+** 129.075    
+* Synonym(s):
+** cyanuric acid
+** 2,4,6-trihydroxy-s-triazine
+** sym-triazine-2,4,6-triol
+** 1,3,5-triazine-2,4,6-triol
+
+== Reaction(s) known to consume the compound ==
+* [[R468-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7956 7956]
+* CAS : 108-80-5
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=6284 6284]
+* HMDB : HMDB41861
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06554 C06554]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7668.html 7668]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=38028 38028]
+{{#set: smiles=C1(O)(=NC(O)=NC(O)=N1)}}
+{{#set: common name=cyanurate}}
+{{#set: inchi key=InChIKey=ZFSLODLOARCGLH-UHFFFAOYSA-N}}
+{{#set: molecular weight=129.075    }}
+{{#set: common name=cyanuric acid|2,4,6-trihydroxy-s-triazine|sym-triazine-2,4,6-triol|1,3,5-triazine-2,4,6-triol}}
+{{#set: consumed by=R468-RXN}}

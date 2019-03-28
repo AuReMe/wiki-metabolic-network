@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ORNDEG-PWY ORNDEG-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superpathway of ornithine degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[ORNDECARBOX-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10737]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[PUTDEG-PWY]]
+** 0 associated gene:
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1221 PWY0-1221]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1221 PWY0-1221]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=ORNDEG-PWY ORNDEG-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superpathway of ornithine degradation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

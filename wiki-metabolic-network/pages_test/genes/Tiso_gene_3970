@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3970 ==
+* right end position:
+** 8347
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6773
+* centisome position:
+** 43.07428    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8347}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6773}}
+{{#set: centisome position=43.07428    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

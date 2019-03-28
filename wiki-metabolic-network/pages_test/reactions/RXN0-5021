@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5021 RXN0-5021] ==
+* direction:
+** REVERSIBLE
+* common name:
+** dna_primase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7 EC-2.7.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Single-Stranded-DNAs]][c] '''<=>''' 1 [[Short-RNA-Fragments]][c]
+* With common name(s):
+** 1 a single stranded DNA[c] '''<=>''' 1 a short RNA Segment[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4483]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_18238]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_7005]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7205]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=dna_primase}}
+{{#set: ec number=EC-2.7.7}}
+{{#set: gene associated=Tiso_gene_4483|Tiso_gene_18238|Tiso_gene_7005|Tiso_gene_7205}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

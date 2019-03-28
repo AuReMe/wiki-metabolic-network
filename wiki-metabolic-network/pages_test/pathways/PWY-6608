@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6608 PWY-6608] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** guanosine nucleotides degradation III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[GUANINE-DEAMINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12280]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[RXN-7609]]
+** 8 associated gene(s):
+*** [[Tiso_gene_5911]]
+*** [[Tiso_gene_13929]]
+*** [[Tiso_gene_6640]]
+*** [[Tiso_gene_9166]]
+*** [[Tiso_gene_14435]]
+*** [[Tiso_gene_14434]]
+*** [[Tiso_gene_6988]]
+*** [[Tiso_gene_14246]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-901]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11775]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5199 RXN0-5199]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6608 PWY-6608]
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=guanosine nucleotides degradation III}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-3701 RXN-3701] ==
+* direction:
+** REVERSIBLE
+* common name:
+** rab_proteins_geranylgeranyltransferase_component_a_2
+** protein_geranylgeranyltransferase_type_ii
+* ec number:
+** [http://enzyme.expasy.org/EC/2.5.1.60 EC-2.5.1.60]
+** [http://enzyme.expasy.org/EC/2.5.1.59 EC-2.5.1.59]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[GERANYLGERANYL-PP]][c] '''+''' 1 [[PROT-CYS]][c] '''<=>''' 1 [[PPI]][c] '''+''' 1 [[S-GERANYLGERANYL-PROTEIN]][c]
+* With common name(s):
+** 1 geranylgeranyl diphosphate[c] '''+''' 1 a [protein]-L-cysteine[c] '''<=>''' 1 diphosphate[c] '''+''' 1 a [protein]-S-geranylgeranyl-L-cysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18628]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18627]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18785]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=rab_proteins_geranylgeranyltransferase_component_a_2}}
+{{#set: common name=protein_geranylgeranyltransferase_type_ii}}
+{{#set: ec number=EC-2.5.1.60}}
+{{#set: ec number=EC-2.5.1.59}}
+{{#set: gene associated=Tiso_gene_18628|Tiso_gene_18627|Tiso_gene_18785}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6381 PWY-6381] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** bisucaberin biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[LYSDECARBOX-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10395]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10995 RXN-10995]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10996 RXN-10996]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11013 RXN-11013]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11014 RXN-11014]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=bisucaberin biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

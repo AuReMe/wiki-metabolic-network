@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-452 CPD-452] ==
+* common name:
+** a 6-(N-acetyl-&alpha;-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol
+* Synonym(s):
+** N-acetyl-&alpha;-D-glucosaminylphosphatidylinositol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.4.1.198-RXN]]
+== External links  ==
+{{#set: common name=a 6-(N-acetyl-&alpha;-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol}}
+{{#set: common name=N-acetyl-&alpha;-D-glucosaminylphosphatidylinositol}}
+{{#set: reversible reaction associated=2.4.1.198-RXN}}

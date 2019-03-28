@@ -1,0 +1,21 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PLASTOQUINONE PLASTOQUINONE] ==
+* common name:
+** a plastoquinone
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12243]]
+* [[RXN-15448]]
+* [[RXN-15447]]
+* [[PSII-RXN]]
+* [[RXN-12244]]
+== Reaction(s) known to produce the compound ==
+* [[PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12303]]
+== External links  ==
+{{#set: common name=a plastoquinone}}
+{{#set: consumed by=RXN-12243|RXN-15448|RXN-15447|PSII-RXN|RXN-12244}}
+{{#set: produced by=PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN}}
+{{#set: reversible reaction associated=RXN-12303}}

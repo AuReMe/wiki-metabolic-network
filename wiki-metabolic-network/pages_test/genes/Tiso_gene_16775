@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16775 ==
+* right end position:
+** 3395
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2
+* centisome position:
+** 4.847309600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3395}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=4.847309600e-2}}
+{{#set: reaction associated=2.4.2.31-RXN}}

@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10811 ==
+* right end position:
+** 7456
+* transcription direction:
+** POSITIVE
+* left end position:
+** 6225
+* centisome position:
+** 54.234188    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DEOXYHYPUSINE-MONOOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5905]]
+== External links  ==
+{{#set: right end position=7456}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=6225}}
+{{#set: centisome position=54.234188    }}
+{{#set: reaction associated=DEOXYHYPUSINE-MONOOXYGENASE-RXN}}
+{{#set: pathway associated=PWY-5905}}

@@ -1,0 +1,33 @@
+[[Category:Gene]]
+== Gene Tiso_gene_284 ==
+* right end position:
+** 25515
+* transcription direction:
+** POSITIVE
+* left end position:
+** 22290
+* centisome position:
+** 61.076862    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[METHIONINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16165]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=25515}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=22290}}
+{{#set: centisome position=61.076862    }}
+{{#set: reaction associated=METHIONINE--TRNA-LIGASE-RXN|RXN-16165}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

@@ -1,0 +1,78 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PROLINE--TRNA-LIGASE-RXN PROLINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** prolyl-trna_synthetase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.15 EC-6.1.1.15]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PRO-tRNAs]][c] '''+''' 1 [[PRO]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[AMP]][c] '''+''' 1 [[PPI]][c] '''+''' 1 [[Charged-PRO-tRNAs]][c]
+* With common name(s):
+** 1 a tRNApro[c] '''+''' 1 L-proline[c] '''+''' 1 ATP[c] '''=>''' 1 AMP[c] '''+''' 1 diphosphate[c] '''+''' 1 an L-prolyl-[tRNApro][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11974]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14791]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14305 14305]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03661 R03661]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O51363 O51363]
+** [http://www.uniprot.org/uniprot/O58734 O58734]
+** [http://www.uniprot.org/uniprot/Q9ZMJ6 Q9ZMJ6]
+** [http://www.uniprot.org/uniprot/P43830 P43830]
+** [http://www.uniprot.org/uniprot/P47525 P47525]
+** [http://www.uniprot.org/uniprot/O26708 O26708]
+** [http://www.uniprot.org/uniprot/Q9JU09 Q9JU09]
+** [http://www.uniprot.org/uniprot/Q58635 Q58635]
+** [http://www.uniprot.org/uniprot/P56124 P56124]
+** [http://www.uniprot.org/uniprot/O83195 O83195]
+** [http://www.uniprot.org/uniprot/Q9Z851 Q9Z851]
+** [http://www.uniprot.org/uniprot/O31755 O31755]
+** [http://www.uniprot.org/uniprot/P36431 P36431]
+** [http://www.uniprot.org/uniprot/Q9ZDE7 Q9ZDE7]
+** [http://www.uniprot.org/uniprot/Q9PHX1 Q9PHX1]
+** [http://www.uniprot.org/uniprot/Q9CDT4 Q9CDT4]
+** [http://www.uniprot.org/uniprot/Q9WYY4 Q9WYY4]
+** [http://www.uniprot.org/uniprot/P75382 P75382]
+** [http://www.uniprot.org/uniprot/Q49090 Q49090]
+** [http://www.uniprot.org/uniprot/P07814 P07814]
+** [http://www.uniprot.org/uniprot/P16659 P16659]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=prolyl-trna_synthetase}}
+{{#set: ec number=EC-6.1.1.15}}
+{{#set: gene associated=Tiso_gene_11974|Tiso_gene_14791}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

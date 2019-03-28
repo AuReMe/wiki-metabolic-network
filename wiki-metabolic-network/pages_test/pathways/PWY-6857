@@ -1,0 +1,81 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6857 PWY-6857] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** retinol biosynthesis
+* Synonym(s):
+** vitamin A biosynthesis
+** retinal biosynthesis
+** retinoid biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[RXN-12575]]
+** 13 associated gene(s):
+*** [[Tiso_gene_11351]]
+*** [[Tiso_gene_1537]]
+*** [[Tiso_gene_4606]]
+*** [[Tiso_gene_17029]]
+*** [[Tiso_gene_1538]]
+*** [[Tiso_gene_9429]]
+*** [[Tiso_gene_19778]]
+*** [[Tiso_gene_4650]]
+*** [[Tiso_gene_12686]]
+*** [[Tiso_gene_10066]]
+*** [[Tiso_gene_16518]]
+*** [[Tiso_gene_1922]]
+*** [[Tiso_gene_2556]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12579]]
+** 23 associated gene(s):
+*** [[Tiso_gene_2108]]
+*** [[Tiso_gene_17612]]
+*** [[Tiso_gene_3215]]
+*** [[Tiso_gene_17639]]
+*** [[Tiso_gene_11437]]
+*** [[Tiso_gene_8902]]
+*** [[Tiso_gene_17613]]
+*** [[Tiso_gene_9140]]
+*** [[Tiso_gene_288]]
+*** [[Tiso_gene_17614]]
+*** [[Tiso_gene_2109]]
+*** [[Tiso_gene_14063]]
+*** [[Tiso_gene_16817]]
+*** [[Tiso_gene_14062]]
+*** [[Tiso_gene_17143]]
+*** [[Tiso_gene_7915]]
+*** [[Tiso_gene_14109]]
+*** [[Tiso_gene_5716]]
+*** [[Tiso_gene_2983]]
+*** [[Tiso_gene_905]]
+*** [[Tiso_gene_19184]]
+*** [[Tiso_gene_14064]]
+*** [[Tiso_gene_906]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-13374]]
+** 4 associated gene(s):
+*** [[Tiso_gene_13078]]
+*** [[Tiso_gene_4653]]
+*** [[Tiso_gene_7740]]
+*** [[Tiso_gene_13079]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.135-RXN 2.3.1.135-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10841 RXN-10841]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12548 RXN-12548]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12549 RXN-12549]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=retinol biosynthesis}}
+{{#set: common name=vitamin A biosynthesis|retinal biosynthesis|retinoid biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

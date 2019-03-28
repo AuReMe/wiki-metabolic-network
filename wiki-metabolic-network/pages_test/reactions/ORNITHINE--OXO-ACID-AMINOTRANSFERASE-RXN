@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.6.1.13 EC-2.6.1.13]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-ORNITHINE]][c] '''+''' 1 [[2-Oxo-carboxylates]][c] '''<=>''' 1 [[L-GLUTAMATE_GAMMA-SEMIALDEHYDE]][c] '''+''' 1 [[Amino-Acids-20]][c]
+* With common name(s):
+** 1 L-ornithine[c] '''+''' 1 a 2-oxo carboxylate[c] '''<=>''' 1 L-glutamate-5-semialdehyde[c] '''+''' 1 a proteinogenic amino acid[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6134]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=13877 13877]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01343 R01343]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P31893 P31893]
+** [http://www.uniprot.org/uniprot/P38021 P38021]
+** [http://www.uniprot.org/uniprot/Q9P7L5 Q9P7L5]
+** [http://www.uniprot.org/uniprot/P07991 P07991]
+** [http://www.uniprot.org/uniprot/P04181 P04181]
+** [http://www.uniprot.org/uniprot/P29758 P29758]
+** [http://www.uniprot.org/uniprot/P04182 P04182]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.6.1.13}}
+{{#set: gene associated=Tiso_gene_6134}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

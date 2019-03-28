@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-Ac-L-methionyl-L-asparaginyl-Protein N-Ac-L-methionyl-L-asparaginyl-Protein] ==
+* common name:
+** an N-terminal-N&alpha;-acetyl-L-methionyl-L-asparaginyl-[protein]
+* Synonym(s):
+** an N&alpha;-acetyl-L-methionyl-L-asparaginyl-[protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17892]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17850]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an N-terminal-N&alpha;-acetyl-L-methionyl-L-asparaginyl-[protein]}}
+{{#set: common name=an N&alpha;-acetyl-L-methionyl-L-asparaginyl-[protein]}}
+{{#set: consumed by=RXN-17892}}
+{{#set: produced by=RXN-17850}}

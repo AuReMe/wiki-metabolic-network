@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Long-Chain-Acyl-ACPs Long-Chain-Acyl-ACPs] ==
+* common name:
+** a long-chain acyl-[acyl-carrier protein]
+* Synonym(s):
+** a long-chain acyl-[acp]
+** a fatty acyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16067]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a long-chain acyl-[acyl-carrier protein]}}
+{{#set: common name=a long-chain acyl-[acp]|a fatty acyl-[acp]}}
+{{#set: consumed by=RXN-16067}}

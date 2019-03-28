@@ -1,0 +1,33 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17854 RXN-17854] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.bv EC-2.3.1.bv]
+** [http://enzyme.expasy.org/EC/2.3.1.bx EC-2.3.1.bx]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-methionyl-L-leucyl-Protein]][c] '''+''' 1 [[ACETYL-COA]][c] '''=>''' 1 [[N-Ac-L-methionyl-L-leucyl-Protein]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CO-A]][c]
+* With common name(s):
+** 1 an N-terminal-L-methionyl-L-leucyl-[protein][c] '''+''' 1 acetyl-CoA[c] '''=>''' 1 an N-terminal N&alpha;-acetyl-L-methionyl-L-leucyl-[protein][c] '''+''' 1 H+[c] '''+''' 1 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7800]], Ac/N-end rule pathway: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7800 PWY-7800]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.3.1.bv}}
+{{#set: ec number=EC-2.3.1.bx}}
+{{#set: in pathway=PWY-7800}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

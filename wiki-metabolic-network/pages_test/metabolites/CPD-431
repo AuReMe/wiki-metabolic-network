@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-431 CPD-431] ==
+* smiles:
+** C1(C=C(O)C=CC=1C3(=CC(=O)C2(=C(C=C([O-])C=C(O)2)O3)))
+* common name:
+** apigenin
+* inchi key:
+** InChIKey=KZNIFHPLKGYRTM-UHFFFAOYSA-M
+* molecular weight:
+** 269.233    
+* Synonym(s):
+** 4',5,7-trihydroxyflavone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-7651]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 520-36-5
+* LIPID_MAPS : LMPK12110005
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25200950 25200950]
+* HMDB : HMDB02124
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01477 C01477]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58470 58470]
+{{#set: smiles=C1(C=C(O)C=CC=1C3(=CC(=O)C2(=C(C=C([O-])C=C(O)2)O3)))}}
+{{#set: common name=apigenin}}
+{{#set: inchi key=InChIKey=KZNIFHPLKGYRTM-UHFFFAOYSA-M}}
+{{#set: molecular weight=269.233    }}
+{{#set: common name=4',5,7-trihydroxyflavone}}
+{{#set: consumed by=RXN-7651}}

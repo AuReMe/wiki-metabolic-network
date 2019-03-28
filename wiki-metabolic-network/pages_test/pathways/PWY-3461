@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-3461 PWY-3461] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-tyrosine biosynthesis II
+* Synonym(s):
+** pretyrosine pathway
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[CHORISMATEMUT-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5940]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PREPHENATE-TRANSAMINE-RXN PREPHENATE-TRANSAMINE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-5682 RXN-5682]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-3461 PWY-3461]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-tyrosine biosynthesis II}}
+{{#set: common name=pretyrosine pathway}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

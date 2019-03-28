@@ -1,0 +1,49 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6281 PWY-6281] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+* common name:
+** L-selenocysteine biosynthesis II (archaea and eukaryotes)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[2.7.9.3-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_5669]]
+*** [[Tiso_gene_5668]]
+*** [[Tiso_gene_14608]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-10038]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-10039]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16385]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-2161]]
+** 4 associated gene(s):
+*** [[Tiso_gene_587]]
+*** [[Tiso_gene_10015]]
+*** [[Tiso_gene_1682]]
+*** [[Tiso_gene_1684]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00970 map00970]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2157}}
+{{#set: common name=L-selenocysteine biosynthesis II (archaea and eukaryotes)}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

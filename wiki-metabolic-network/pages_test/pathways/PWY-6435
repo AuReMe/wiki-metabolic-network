@@ -1,0 +1,54 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6435 PWY-6435] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** 4-hydroxybenzoate biosynthesis V
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''5''' reactions in the full pathway
+* [[4-COUMARATE--COA-LIGASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_12275]]
+*** [[Tiso_gene_14183]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11244]]
+** 3 associated gene(s):
+*** [[Tiso_gene_6885]]
+*** [[Tiso_gene_16145]]
+*** [[Tiso_gene_14262]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11245]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_18839]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11246]]
+** 5 associated gene(s):
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_3856]]
+*** [[Tiso_gene_10116]]
+*** [[Tiso_gene_3855]]
+*** [[Tiso_gene_17451]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3.1.2.23-RXN 3.1.2.23-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=4-hydroxybenzoate biosynthesis V}}
+{{#set: reaction found=4}}
+{{#set: total reaction=5}}
+{{#set: completion rate=80.0}}

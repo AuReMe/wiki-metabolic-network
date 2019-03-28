@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_26 ==
+* right end position:
+** 46558
+* transcription direction:
+** POSITIVE
+* left end position:
+** 42708
+* centisome position:
+** 86.16216    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.119-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+== External links  ==
+{{#set: right end position=46558}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=42708}}
+{{#set: centisome position=86.16216    }}
+{{#set: reaction associated=2.4.1.119-RXN}}
+{{#set: pathway associated=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}

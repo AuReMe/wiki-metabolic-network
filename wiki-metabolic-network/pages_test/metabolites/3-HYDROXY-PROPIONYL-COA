@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROXY-PROPIONYL-COA 3-HYDROXY-PROPIONYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CCO)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3-hydroxypropanoyl-CoA
+* inchi key:
+** InChIKey=BERBFZCUSMQABM-IEXPHMLFSA-J
+* molecular weight:
+** 835.566    
+* Synonym(s):
+** 3-hydroxypropionyl-coenzyme A
+** 3-hydroxypropionyl-CoA
+** 3-hydroxypropanoyl coenzymeA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-6384]]
+* [[HICH]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-6383]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05668 C05668]
+* HMDB : HMDB06807
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58528 58528]
+* METABOLIGHTS : MTBLC58528
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44229175 44229175]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CCO)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3-hydroxypropanoyl-CoA}}
+{{#set: inchi key=InChIKey=BERBFZCUSMQABM-IEXPHMLFSA-J}}
+{{#set: molecular weight=835.566    }}
+{{#set: common name=3-hydroxypropionyl-coenzyme A|3-hydroxypropionyl-CoA|3-hydroxypropanoyl coenzymeA}}
+{{#set: consumed by=RXN-6384|HICH}}
+{{#set: reversible reaction associated=RXN-6383}}

@@ -1,0 +1,16 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2193 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R93]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[R94]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RXN-8024]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6287]]
+== External links  ==
+{{#set: reaction associated=R93|R94|RXN-8024}}
+{{#set: pathway associated=PWY-6287}}

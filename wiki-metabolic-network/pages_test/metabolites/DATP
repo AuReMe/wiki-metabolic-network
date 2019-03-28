@@ -1,0 +1,50 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DATP DATP] ==
+* smiles:
+** C(C3(C(CC(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O))OP(OP(OP([O-])(=O)[O-])([O-])=O)([O-])=O
+* common name:
+** dATP
+* inchi key:
+** InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J
+* molecular weight:
+** 487.152    
+* Synonym(s):
+** 2'-deoxyATP
+** 2'-deoxyadenosine triphosphate
+** deoxy-ATP
+** deoxyadenosine-triphosphate
+** 2'-deoxyadenosine-5'-triphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14195]]
+* [[RXN0-384]]
+* [[RME255]]
+* [[DATUP]]
+* [[DATCY]]
+* [[RXN-14290]]
+* [[RXN-14214]]
+== Reaction(s) known to produce the compound ==
+* [[DADPKIN-RXN]]
+* [[NDPKm]]
+* [[NDPK]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-14192]]
+== External links  ==
+* CAS : 1927-31-7
+* BIGG : datp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25320183 25320183]
+* HMDB : HMDB01532
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00131 C00131]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61404 61404]
+* METABOLIGHTS : MTBLC61404
+{{#set: smiles=C(C3(C(CC(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O))OP(OP(OP([O-])(=O)[O-])([O-])=O)([O-])=O}}
+{{#set: common name=dATP}}
+{{#set: inchi key=InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J}}
+{{#set: molecular weight=487.152    }}
+{{#set: common name=2'-deoxyATP|2'-deoxyadenosine triphosphate|deoxy-ATP|deoxyadenosine-triphosphate|2'-deoxyadenosine-5'-triphosphate}}
+{{#set: consumed by=RXN-14195|RXN0-384|RME255|DATUP|DATCY|RXN-14290|RXN-14214}}
+{{#set: produced by=DADPKIN-RXN|NDPKm|NDPK}}
+{{#set: reversible reaction associated=RXN-14192}}

@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-35 CPD-35] ==
+* smiles:
+** CC(=O)NCCCC(=O)[O-]
+* common name:
+** 4-acetamidobutanoate
+* inchi key:
+** InChIKey=UZTFMUBKZQVKLK-UHFFFAOYSA-M
+* molecular weight:
+** 144.15    
+* Synonym(s):
+** N-acetyl-4-aminobutyrate
+** N-acetyl-&gamma;-aminobutyrate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-37]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6991994 6991994]
+* HMDB : HMDB03681
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02946 C02946]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5360158.html 5360158]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=11951 11951]
+* METABOLIGHTS : MTBLC11951
+{{#set: smiles=CC(=O)NCCCC(=O)[O-]}}
+{{#set: common name=4-acetamidobutanoate}}
+{{#set: inchi key=InChIKey=UZTFMUBKZQVKLK-UHFFFAOYSA-M}}
+{{#set: molecular weight=144.15    }}
+{{#set: common name=N-acetyl-4-aminobutyrate|N-acetyl-&gamma;-aminobutyrate}}
+{{#set: produced by=RXN-37}}

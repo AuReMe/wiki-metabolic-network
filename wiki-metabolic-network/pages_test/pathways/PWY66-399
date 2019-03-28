@@ -1,0 +1,150 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY66-399 PWY66-399] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** gluconeogenesis III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''10''' reactions found over '''12''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[F16BDEPHOS-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_15398]]
+*** [[Tiso_gene_9435]]
+*** [[Tiso_gene_16502]]
+*** [[Tiso_gene_4905]]
+*** [[Tiso_gene_8226]]
+*** [[Tiso_gene_4904]]
+*** [[Tiso_gene_3483]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GAPOXNPHOSPHN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_235]]
+*** [[Tiso_gene_10646]]
+*** [[Tiso_gene_3344]]
+*** [[Tiso_gene_6766]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSGLYPHOS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_3526]]
+*** [[Tiso_gene_18264]]
+*** [[Tiso_gene_3527]]
+*** [[Tiso_gene_18263]]
+*** [[Tiso_gene_12104]]
+*** [[Tiso_gene_14642]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[PYRUVATE-CARBOXYLASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_15144]]
+*** [[Tiso_gene_15145]]
+*** [[Tiso_gene_2812]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-15513]]
+** 8 associated gene(s):
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_9923]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.1.1.32-RXN 4.1.1.32-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-526 RXN66-526]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=gluconeogenesis III}}
+{{#set: reaction found=10}}
+{{#set: total reaction=12}}
+{{#set: completion rate=83.0}}

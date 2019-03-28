@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROXY-ANTHRANILATE 3-HYDROXY-ANTHRANILATE] ==
+* smiles:
+** C1(C=C(C(N)=C(O)C=1)C([O-])=O)
+* common name:
+** 3-hydroxyanthranilate
+* inchi key:
+** InChIKey=WJXSWCUQABXPFS-UHFFFAOYSA-M
+* molecular weight:
+** 152.129    
+* Synonym(s):
+** 3-hydroxyanthranilic acid
+** 2-amino-3-hydroxybenzoate
+
+== Reaction(s) known to consume the compound ==
+* [[1.13.11.6-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3-HYDROXY-KYNURENINASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 548-93-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54675871 54675871]
+* HMDB : HMDB01476
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00632 C00632]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.7822291.html 7822291]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=36559 36559]
+* METABOLIGHTS : MTBLC36559
+{{#set: smiles=C1(C=C(C(N)=C(O)C=1)C([O-])=O)}}
+{{#set: common name=3-hydroxyanthranilate}}
+{{#set: inchi key=InChIKey=WJXSWCUQABXPFS-UHFFFAOYSA-M}}
+{{#set: molecular weight=152.129    }}
+{{#set: common name=3-hydroxyanthranilic acid|2-amino-3-hydroxybenzoate}}
+{{#set: consumed by=1.13.11.6-RXN}}
+{{#set: produced by=3-HYDROXY-KYNURENINASE-RXN}}

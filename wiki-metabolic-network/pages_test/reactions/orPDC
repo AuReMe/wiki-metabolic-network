@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=orPDC orPDC] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** orotidine-5'-phosphate decarboxylase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[OROTIDINE-5-PHOSPHATE]][c] '''+''' 1.0 [[PROTON]][c] '''=>''' 1.0 [[CARBON-DIOXIDE]][c] '''+''' 1.0 [[UMP]][c]
+* With common name(s):
+** 1.0 orotidine 5'-phosphate[c] '''+''' 1.0 H+[c] '''=>''' 1.0 CO2[c] '''+''' 1.0 UMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18647]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=orotidine-5'-phosphate decarboxylase}}
+{{#set: gene associated=Tiso_gene_18647}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

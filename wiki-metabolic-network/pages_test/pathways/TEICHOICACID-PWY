@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=TEICHOICACID-PWY TEICHOICACID-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1239 TAX-1239]
+* common name:
+** poly(glycerol phosphate) wall teichoic acid biosynthesis
+* Synonym(s):
+** major teichoic acid biosynthesis
+** glycerol teichoic acid biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''12''' reactions in the full pathway
+* [[UDPGLCNACEPIM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1316]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.7.7.39-RXN 2.7.7.39-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=6.3.2.16-RXN 6.3.2.16-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLCNACPTRANS-RXN GLCNACPTRANS-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18013 RXN-18013]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18014 RXN-18014]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-18028 RXN-18028]
+* [http://metacyc.org/META/NEW-IMAGE?object=TEICHOICSYN2-RXN TEICHOICSYN2-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=TEICHOICSYN3-RXN TEICHOICSYN3-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=TEICHOICSYN4-RXN TEICHOICSYN4-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=TEICHOICSYN5-RXN TEICHOICSYN5-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=TEICHOICSYN8-RXN TEICHOICSYN8-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-1239}}
+{{#set: common name=poly(glycerol phosphate) wall teichoic acid biosynthesis}}
+{{#set: common name=major teichoic acid biosynthesis|glycerol teichoic acid biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=12}}
+{{#set: completion rate=8.0}}

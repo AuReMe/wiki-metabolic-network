@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN3DJ-11417 RXN3DJ-11417] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** sphingosine_kinase_1
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.91 EC-2.7.1.91]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[SPHINGOSINE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[CPD3DJ-11366]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 sphingosine[c] '''+''' 1 ATP[c] '''=>''' 1 sphingosine 1-phosphate[c] '''+''' 1 ADP[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1163]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY3DJ-11470]], sphingosine and sphingosine-1-phosphate metabolism: [http://metacyc.org/META/NEW-IMAGE?object=PWY3DJ-11470 PWY3DJ-11470]
+** '''3''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01926 R01926]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=sphingosine_kinase_1}}
+{{#set: ec number=EC-2.7.1.91}}
+{{#set: gene associated=Tiso_gene_1163}}
+{{#set: in pathway=PWY3DJ-11470}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

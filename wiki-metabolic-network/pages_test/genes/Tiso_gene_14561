@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14561 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-6792]]
+* [[PWY-1121]]
+* [[PWY-5710]]
+* [[PWY-7498]]
+* [[PWY-6039]]
+* [[PWY-7398]]
+* [[PWY-361]]
+== External links  ==
+{{#set: reaction associated=CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN}}
+{{#set: pathway associated=PWY-6792|PWY-1121|PWY-5710|PWY-7498|PWY-6039|PWY-7398|PWY-361}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17894 CPD-17894] ==
+* smiles:
+** CC(C)CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(CCOP(=O)([O-])OC1(OC(CO)C(O)C(O)C(O)1))C
+* common name:
+** &beta;-D-mannosyl-(C55 &omega;-saturated dolichyl phosphate)
+* inchi key:
+** InChIKey=MBYVKTIIZNUHKN-NIVAAIEQSA-M
+* molecular weight:
+** 1012.461    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-16602]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91820528 91820528]
+{{#set: smiles=CC(C)CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(CCOP(=O)([O-])OC1(OC(CO)C(O)C(O)C(O)1))C}}
+{{#set: common name=&beta;-D-mannosyl-(C55 &omega;-saturated dolichyl phosphate)}}
+{{#set: inchi key=InChIKey=MBYVKTIIZNUHKN-NIVAAIEQSA-M}}
+{{#set: molecular weight=1012.461    }}
+{{#set: produced by=RXN-16602}}

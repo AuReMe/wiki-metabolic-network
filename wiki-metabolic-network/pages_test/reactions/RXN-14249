@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14249 RXN-14249] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** L-threonine 3-dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.103 EC-1.1.1.103]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[THR]][c] '''+''' 1 [[NAD]][c] '''=>''' 1 [[NADH]][c] '''+''' 1 [[AMINO-ACETONE]][c] '''+''' 1 [[CARBON-DIOXIDE]][c]
+* With common name(s):
+** 1 L-threonine[c] '''+''' 1 NAD+[c] '''=>''' 1 NADH[c] '''+''' 1 aminoacetone[c] '''+''' 1 CO2[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1301]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=L-threonine 3-dehydrogenase}}
+{{#set: ec number=EC-1.1.1.103}}
+{{#set: gene associated=Tiso_gene_1301}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

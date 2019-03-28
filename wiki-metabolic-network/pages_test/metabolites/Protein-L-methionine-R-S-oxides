@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Protein-L-methionine-R-S-oxides Protein-L-methionine-R-S-oxides] ==
+* common name:
+** a protein-L-methionine-(R)-S-oxide
+* Synonym(s):
+** a peptide-L-methionine-(R)-S-oxide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.8.4.12-RXN]]
+== External links  ==
+{{#set: common name=a protein-L-methionine-(R)-S-oxide}}
+{{#set: common name=a peptide-L-methionine-(R)-S-oxide}}
+{{#set: reversible reaction associated=1.8.4.12-RXN}}

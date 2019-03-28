@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13914 CPD-13914] ==
+* smiles:
+** C(O)C1(OC(=O)C(=O)OC(C(=O)[O-])1)
+* common name:
+** cyclic-2,3-O-oxalyl-L-threonate
+* inchi key:
+** InChIKey=NKBSFRFTBUHMJF-UHFFFAOYSA-M
+* molecular weight:
+** 189.101    
+* Synonym(s):
+** 2,3-cyclic oxalyl theronolactone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12872]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-12869]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90659383 90659383]
+{{#set: smiles=C(O)C1(OC(=O)C(=O)OC(C(=O)[O-])1)}}
+{{#set: common name=cyclic-2,3-O-oxalyl-L-threonate}}
+{{#set: inchi key=InChIKey=NKBSFRFTBUHMJF-UHFFFAOYSA-M}}
+{{#set: molecular weight=189.101    }}
+{{#set: common name=2,3-cyclic oxalyl theronolactone}}
+{{#set: consumed by=RXN-12872}}
+{{#set: produced by=RXN-12869}}

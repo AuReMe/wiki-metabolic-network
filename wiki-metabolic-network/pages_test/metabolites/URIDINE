@@ -1,0 +1,52 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=URIDINE URIDINE] ==
+* smiles:
+** C(O)C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))
+* common name:
+** uridine
+* inchi key:
+** InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
+* molecular weight:
+** 244.204    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[GTUP]]
+* [[AUPT]]
+* [[UTUP]]
+* [[URIDINE-NUCLEOSIDASE-RXN]]
+* [[DGTUP]]
+* [[DUTUP]]
+* [[DCTUP]]
+* [[DATUP]]
+* [[DTTUP]]
+* [[ITUP]]
+* [[URIDINEKIN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[CYTIDEAM2-RXN]]
+* [[RXN-14025]]
+* [[UMPP]]
+== Reaction(s) of unknown directionality ==
+* [[URKI-RXN]]
+* [[URPHOS-RXN]]
+== External links  ==
+* CAS : 58-96-8
+* BIGG : uri
+* DRUGBANK : DB02745
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6029 6029]
+* HMDB : HMDB00296
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00299 C00299]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5807.html 5807]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16704 16704]
+* METABOLIGHTS : MTBLC16704
+{{#set: smiles=C(O)C1(OC(C(O)C(O)1)N2(C=CC(=O)NC(=O)2))}}
+{{#set: common name=uridine}}
+{{#set: inchi key=InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N}}
+{{#set: molecular weight=244.204    }}
+{{#set: consumed by=GTUP|AUPT|UTUP|URIDINE-NUCLEOSIDASE-RXN|DGTUP|DUTUP|DCTUP|DATUP|DTTUP|ITUP|URIDINEKIN-RXN}}
+{{#set: produced by=CYTIDEAM2-RXN|RXN-14025|UMPP}}
+{{#set: reversible reaction associated=URKI-RXN|URPHOS-RXN}}

@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8027 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.14.19.1-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-11680]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-12776]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5353]]
+* [[PWY-6603]]
+* [[PWY-5996]]
+== External links  ==
+{{#set: reaction associated=1.14.19.1-RXN|RXN-11680|RXN-12776}}
+{{#set: pathway associated=PWY-5353|PWY-6603|PWY-5996}}

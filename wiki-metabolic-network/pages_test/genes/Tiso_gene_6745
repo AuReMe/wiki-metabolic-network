@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6745 ==
+* right end position:
+** 1560
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 24
+* centisome position:
+** 0.20217337    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[BETA-LACTAMASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1560}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=24}}
+{{#set: centisome position=0.20217337    }}
+{{#set: reaction associated=BETA-LACTAMASE-RXN}}

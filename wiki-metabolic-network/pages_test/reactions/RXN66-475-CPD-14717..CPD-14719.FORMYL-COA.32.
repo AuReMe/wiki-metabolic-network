@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-475-CPD-14717//CPD-14719/FORMYL-COA.32. RXN66-475-CPD-14717//CPD-14719/FORMYL-COA.32.] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-14717]][c] '''=>''' 1.0 [[CPD-14719]][c] '''+''' 1.0 [[FORMYL-COA]][c]
+* With common name(s):
+** 1.0 (R)-2-hydroxy-stearoyl-CoA[c] '''=>''' 1.0 heptadecanal[c] '''+''' 1.0 formyl-CoA[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[gap-filling]]
+** Source: [[gap-filling-gapfilling_solution_with_meneco_draft_medium]]
+*** Tool: [[meneco]]
+**** Comment: [[added for gapfilling]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=gap-filling}}
+{{#set: reconstruction source=gap-filling-gapfilling_solution_with_meneco_draft_medium}}
+{{#set: reconstruction tool=meneco}}
+{{#set: reconstruction comment=added for gapfilling}}

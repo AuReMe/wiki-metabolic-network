@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18221 ==
+* right end position:
+** 1158
+* transcription direction:
+** POSITIVE
+* left end position:
+** 36
+* centisome position:
+** 1.13852    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-8443]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[TAU-PROTEIN-KINASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5381]]
+== External links  ==
+{{#set: right end position=1158}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=36}}
+{{#set: centisome position=1.13852    }}
+{{#set: reaction associated=PROTEIN-KINASE-RXN|RXN-8443|TAU-PROTEIN-KINASE-RXN}}
+{{#set: pathway associated=PWY-5381}}

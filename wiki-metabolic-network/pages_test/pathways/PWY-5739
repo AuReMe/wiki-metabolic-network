@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5739 PWY-5739] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** GDP-D-perosamine biosynthesis
+* Synonym(s):
+** GDP-&alpha;-D-perosamine biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[GDPMANDEHYDRA-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13093]]
+*** [[Tiso_gene_13092]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8953 RXN-8953]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=GDP-D-perosamine biosynthesis}}
+{{#set: common name=GDP-&alpha;-D-perosamine biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

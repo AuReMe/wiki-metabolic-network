@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Alpha-D-aldose-1-phosphates Alpha-D-aldose-1-phosphates] ==
+* common name:
+** an &alpha;-D-aldose 1-phosphate
+* Synonym(s):
+** a &beta;-L-aldose 1-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ADPSUGPPHOSPHAT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an &alpha;-D-aldose 1-phosphate}}
+{{#set: common name=a &beta;-L-aldose 1-phosphate}}
+{{#set: produced by=ADPSUGPPHOSPHAT-RXN}}

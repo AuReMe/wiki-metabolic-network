@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN 2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.201 EC-2.1.1.201]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OCTAPRENYL-METHOXY-BENZOQUINONE]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[OCTAPRENYL-METHYL-METHOXY-BENZQ]][c]
+* With common name(s):
+** 1 2-methoxy-6-all trans-octaprenyl-2-methoxy-1,4-benzoquinol[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 S-adenosyl-L-homocysteine[c] '''+''' 1 H+[c] '''+''' 1 6-methoxy-3-methyl-2-all-trans-octaprenyl-1,4-benzoquinol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19352]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6708]], ubiquinol-8 biosynthesis (prokaryotic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6708 PWY-6708]
+** '''4''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-5870]], ubiquinol-8 biosynthesis (eukaryotic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5870 PWY-5870]
+** '''3''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27774 27774]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.1.1.201}}
+{{#set: gene associated=Tiso_gene_19352}}
+{{#set: in pathway=PWY-6708|PWY-5870}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

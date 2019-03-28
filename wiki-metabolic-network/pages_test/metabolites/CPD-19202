@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19202 CPD-19202] ==
+* smiles:
+** C(NC(N)=[N+])CCC(NC(=O)C([N+])C1(C=CC(O)=CC=1))C(=O)NC(C(NC(CO)C(=O)NC(C([O-])=O)C2(C=CC(O)=CC=2))=O)C3(C=CC(O)=CC=3)
+* common name:
+** L-4-hydroxyphenylglycine-L-arginyl-D-4-hydroxyphenylglycine-L-seryl-L 4-hydroxyphenylglycine
+* inchi key:
+** InChIKey=ZHBGOAMEFNAJGS-JUCVYKANSA-O
+* molecular weight:
+** 709.734    
+* Synonym(s):
+** L-pHPG-L-Arg-D-pHPG-L-Ser-L-pHPG
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17832]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: smiles=C(NC(N)=[N+])CCC(NC(=O)C([N+])C1(C=CC(O)=CC=1))C(=O)NC(C(NC(CO)C(=O)NC(C([O-])=O)C2(C=CC(O)=CC=2))=O)C3(C=CC(O)=CC=3)}}
+{{#set: common name=L-4-hydroxyphenylglycine-L-arginyl-D-4-hydroxyphenylglycine-L-seryl-L 4-hydroxyphenylglycine}}
+{{#set: inchi key=InChIKey=ZHBGOAMEFNAJGS-JUCVYKANSA-O}}
+{{#set: molecular weight=709.734    }}
+{{#set: common name=L-pHPG-L-Arg-D-pHPG-L-Ser-L-pHPG}}
+{{#set: consumed by=RXN-17832}}

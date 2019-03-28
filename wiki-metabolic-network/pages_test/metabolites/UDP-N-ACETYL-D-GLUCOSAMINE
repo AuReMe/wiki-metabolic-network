@@ -1,0 +1,55 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=UDP-N-ACETYL-D-GLUCOSAMINE UDP-N-ACETYL-D-GLUCOSAMINE] ==
+* smiles:
+** CC(NC3(C(OP(OP(OCC1(C(C(C(O1)N2(C=CC(NC2=O)=O))O)O))([O-])=O)([O-])=O)OC(C(C3O)O)CO))=O
+* common name:
+** UDP-N-acetyl-&alpha;-D-glucosamine
+* inchi key:
+** InChIKey=LFTYTUAZOPRMMI-CFRASDGPSA-L
+* molecular weight:
+** 605.342    
+* Synonym(s):
+** UDP-acetyl-D-glucosamine
+** UDP-GlcNAc
+** UDP-N-acetyl-glucosamine
+** uridine diphosphate N-acetylglucosamine
+** N-[2-[[[5-[(2,4-dioxo-1H-pyrimidin-1-yl)]-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphinoyl]oxy-hydroxy-phosphinoyl]oxy-4,5-dihydroxy-6-(hydroxymethyl)tetrahydropyran-3-yl]acetamide
+** UDP-2-acetamido-2-deoxy-&alpha;-D-glucose
+** UDP-N-acetyl-D-glucosamine
+** UDP-&alpha;-N-acetyl-D-glucosamine
+
+== Reaction(s) known to consume the compound ==
+* [[2.4.1.145-RXN]]
+* [[2.4.1.223-RXN]]
+* [[2.7.8.15-RXN]]
+* [[UDPNACETYLGLUCOSAMACYLTRANS-RXN]]
+* [[2.4.1.224-RXN]]
+* [[2.4.1.141-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[NAG1P-URIDYLTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[UDPGLCNACEPIM-RXN]]
+* [[RXN-7873]]
+* [[2.4.1.198-RXN]]
+* [[2.4.1.229-RXN]]
+== External links  ==
+* CAS : 528-04-1
+* BIGG : uacgam
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=16667373 16667373]
+* HMDB : HMDB00290
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00043 C00043]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.17600409.html 17600409]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57705 57705]
+* METABOLIGHTS : MTBLC57705
+{{#set: smiles=CC(NC3(C(OP(OP(OCC1(C(C(C(O1)N2(C=CC(NC2=O)=O))O)O))([O-])=O)([O-])=O)OC(C(C3O)O)CO))=O}}
+{{#set: common name=UDP-N-acetyl-&alpha;-D-glucosamine}}
+{{#set: inchi key=InChIKey=LFTYTUAZOPRMMI-CFRASDGPSA-L}}
+{{#set: molecular weight=605.342    }}
+{{#set: common name=UDP-acetyl-D-glucosamine|UDP-GlcNAc|UDP-N-acetyl-glucosamine|uridine diphosphate N-acetylglucosamine|N-[2-[[[5-[(2,4-dioxo-1H-pyrimidin-1-yl)]-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphinoyl]oxy-hydroxy-phosphinoyl]oxy-4,5-dihydroxy-6-(hydroxymethyl)tetrahydropyran-3-yl]acetamide|UDP-2-acetamido-2-deoxy-&alpha;-D-glucose|UDP-N-acetyl-D-glucosamine|UDP-&alpha;-N-acetyl-D-glucosamine}}
+{{#set: consumed by=2.4.1.145-RXN|2.4.1.223-RXN|2.7.8.15-RXN|UDPNACETYLGLUCOSAMACYLTRANS-RXN|2.4.1.224-RXN|2.4.1.141-RXN}}
+{{#set: produced by=NAG1P-URIDYLTRANS-RXN}}
+{{#set: reversible reaction associated=UDPGLCNACEPIM-RXN|RXN-7873|2.4.1.198-RXN|2.4.1.229-RXN}}

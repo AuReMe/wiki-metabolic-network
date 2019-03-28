@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.14.11.19-RXN 1.14.11.19-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[OXYGEN-MOLECULE]][c] '''+''' 1.0 [[CPD-590]][c] '''+''' 1.0 [[2-KETOGLUTARATE]][c] '''=>''' 1.0 [[Dihydroquercetins]][c] '''+''' 1.0 [[CARBON-DIOXIDE]][c] '''+''' 1.0 [[SUC]][c] '''+''' 1.0 [[WATER]][c]
+* With common name(s):
+** 1.0 oxygen[c] '''+''' 1.0 (2R,3S,4S)-leucocyanidin[c] '''+''' 1.0 2-oxoglutarate[c] '''=>''' 1.0 taxifolin[c] '''+''' 1.0 CO2[c] '''+''' 1.0 succinate[c] '''+''' 1.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_3330]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: gene associated=Tiso_gene_3330}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

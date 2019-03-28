@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HSCN HSCN] ==
+* smiles:
+** C(#N)[S-]
+* common name:
+** thiocyanate
+* inchi key:
+** InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M
+* molecular weight:
+** 58.078    
+* Synonym(s):
+** thiocyanic acid
+** rhodanide
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[THIOSULFATE-SULFURTRANSFERASE-RXN]]
+* [[RXN0-6359]]
+* [[MERCAPYSTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-18232]]
+== External links  ==
+* CAS : 463-56-9
+* BIGG : tcynt
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9322 9322]
+* HMDB : HMDB01453
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01755 C01755]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8961.html 8961]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18022 18022]
+* METABOLIGHTS : MTBLC18022
+{{#set: smiles=C(#N)[S-]}}
+{{#set: common name=thiocyanate}}
+{{#set: inchi key=InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M}}
+{{#set: molecular weight=58.078    }}
+{{#set: common name=thiocyanic acid|rhodanide}}
+{{#set: produced by=THIOSULFATE-SULFURTRANSFERASE-RXN|RXN0-6359|MERCAPYSTRANS-RXN}}
+{{#set: reversible reaction associated=RXN-18232}}

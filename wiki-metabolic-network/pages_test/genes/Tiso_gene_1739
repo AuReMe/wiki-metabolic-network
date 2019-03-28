@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1739 ==
+* right end position:
+** 13019
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11036
+* centisome position:
+** 50.211567    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.99.1.2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=13019}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11036}}
+{{#set: centisome position=50.211567    }}
+{{#set: reaction associated=5.99.1.2-RXN}}

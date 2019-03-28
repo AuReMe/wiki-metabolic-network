@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=6Z8E10E14Z-5S12R-512-DIHYDROXYI 6Z8E10E14Z-5S12R-512-DIHYDROXYI] ==
+* smiles:
+** CCCCCC=CCC(O)C=CC=CC=CC(O)CCCC(=O)[O-]
+* common name:
+** leukotriene B4
+* inchi key:
+** InChIKey=VNYSSYRCGWBHLG-AMOLWHMGSA-M
+* molecular weight:
+** 335.462    
+* Synonym(s):
+** (6z,8e,10e,14z)-(5s,12r)-5,12-dihydroxyicosa-6,8,10,14-tetraenoate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[LEUKOTRIENE-A4-HYDROLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 71160-24-2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23615214 23615214]
+* HMDB : HMDB01085
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02165 C02165]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57461 57461]
+* METABOLIGHTS : MTBLC57461
+{{#set: smiles=CCCCCC=CCC(O)C=CC=CC=CC(O)CCCC(=O)[O-]}}
+{{#set: common name=leukotriene B4}}
+{{#set: inchi key=InChIKey=VNYSSYRCGWBHLG-AMOLWHMGSA-M}}
+{{#set: molecular weight=335.462    }}
+{{#set: common name=(6z,8e,10e,14z)-(5s,12r)-5,12-dihydroxyicosa-6,8,10,14-tetraenoate}}
+{{#set: produced by=LEUKOTRIENE-A4-HYDROLASE-RXN}}

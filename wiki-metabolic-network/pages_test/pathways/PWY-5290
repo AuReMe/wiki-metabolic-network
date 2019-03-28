@@ -1,0 +1,40 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5290 PWY-5290] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-24966 TAX-24966]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-26468 TAX-26468]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4056 TAX-4056]
+* common name:
+** secologanin and strictosidine biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''13''' reactions in the full pathway
+* [[STRICTOSIDINE-SYNTHASE-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8474]]
+*** [[Tiso_gene_8473]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.14.13.74-RXN 1.14.13.74-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=1.3.3.9-RXN 1.3.3.9-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=LOGANATE-O-METHYLTRANSFERASE-RXN LOGANATE-O-METHYLTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12961 RXN-12961]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15237 RXN-15237]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4521 RXN-4521]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8197 RXN-8197]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8618 RXN-8618]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9371 RXN-9371]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9372 RXN-9372]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9373 RXN-9373]
+== External links  ==
+{{#set: taxonomic range=TAX-24966}}
+{{#set: taxonomic range=TAX-26468}}
+{{#set: taxonomic range=TAX-4056}}
+{{#set: common name=secologanin and strictosidine biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=13}}
+{{#set: completion rate=8.0}}

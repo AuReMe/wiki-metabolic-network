@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4659 ==
+* right end position:
+** 11632
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10639
+* centisome position:
+** 72.84492    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6386]]
+* [[PWY-6387]]
+== External links  ==
+{{#set: right end position=11632}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10639}}
+{{#set: centisome position=72.84492    }}
+{{#set: reaction associated=UDPNACETYLMURAMATEDEHYDROG-RXN}}
+{{#set: pathway associated=PWY-6386|PWY-6387}}

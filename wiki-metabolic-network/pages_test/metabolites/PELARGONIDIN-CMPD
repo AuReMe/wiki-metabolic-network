@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PELARGONIDIN-CMPD PELARGONIDIN-CMPD] ==
+* smiles:
+** C3(C(C2(=[O+]C1(C=C(C=C(C=1C=C2[O-])[O-])O)))=CC=C(C=3)O)
+* common name:
+** pelargonidin
+* inchi key:
+** InChIKey=XVFMGWDSJLBXDZ-UHFFFAOYSA-M
+* molecular weight:
+** 269.233    
+* Synonym(s):
+** 3,5,7-Trihydroxy-2-(4-hydroxyphenil)-1-benzopyrylium chloride
+** 3,4',5,7-tetrahydroxyflavylium chloride
+** 3,5,7-trihydroxy-2-(4-hydroxyphenyl)benzopyrylium chloride
+** 1-Benzopyrylium, 3,5,7-trihydroxy-2-(4-hydroxyphenyl)-, chloride
+** Flavylium, 3,4',5,7-tetrahydroxy-, chloride
+** Pelargonidin chloride
+** Pelargonidol chloride
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9724]]
+== Reaction(s) known to produce the compound ==
+* [[LEUCPEL-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 134-04-3
+* LIPID_MAPS : LMPK12010003
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657848 90657848]
+* HMDB : HMDB03263
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05904 C05904]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=25863 25863]
+* METABOLIGHTS : MTBLC25863
+{{#set: smiles=C3(C(C2(=[O+]C1(C=C(C=C(C=1C=C2[O-])[O-])O)))=CC=C(C=3)O)}}
+{{#set: common name=pelargonidin}}
+{{#set: inchi key=InChIKey=XVFMGWDSJLBXDZ-UHFFFAOYSA-M}}
+{{#set: molecular weight=269.233    }}
+{{#set: common name=3,5,7-Trihydroxy-2-(4-hydroxyphenil)-1-benzopyrylium chloride|3,4',5,7-tetrahydroxyflavylium chloride|3,5,7-trihydroxy-2-(4-hydroxyphenyl)benzopyrylium chloride|1-Benzopyrylium, 3,5,7-trihydroxy-2-(4-hydroxyphenyl)-, chloride|Flavylium, 3,4',5,7-tetrahydroxy-, chloride|Pelargonidin chloride|Pelargonidol chloride}}
+{{#set: consumed by=RXN-9724}}
+{{#set: produced by=LEUCPEL-RXN}}

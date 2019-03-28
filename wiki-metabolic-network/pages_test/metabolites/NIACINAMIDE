@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=NIACINAMIDE NIACINAMIDE] ==
+* smiles:
+** C1(N=CC(C(=O)N)=CC=1)
+* common name:
+** nicotinamide
+* inchi key:
+** InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N
+* molecular weight:
+** 122.126    
+* Synonym(s):
+** 6-aminonicotinamide
+** vitamin PP
+** niacinamide
+
+== Reaction(s) known to consume the compound ==
+* [[2.4.2.12-RXN]]
+* [[NICOTINAMIDE-N-METHYLTRANSFERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[R313-RXN]]
+* [[2.7.1.160-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[2.4.2.31-RXN]]
+* [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 98-92-0
+* BIGG : ncam
+* DRUGBANK : DB02701
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=936 936]
+* KNAPSACK : C00000209
+* HMDB : HMDB01406
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00153 C00153]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.911.html 911]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17154 17154]
+* METABOLIGHTS : MTBLC17154
+{{#set: smiles=C1(N=CC(C(=O)N)=CC=1)}}
+{{#set: common name=nicotinamide}}
+{{#set: inchi key=InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N}}
+{{#set: molecular weight=122.126    }}
+{{#set: common name=6-aminonicotinamide|vitamin PP|niacinamide}}
+{{#set: consumed by=2.4.2.12-RXN|NICOTINAMIDE-N-METHYLTRANSFERASE-RXN}}
+{{#set: produced by=R313-RXN|2.7.1.160-RXN}}
+{{#set: reversible reaction associated=2.4.2.31-RXN|NAD+-ADP-RIBOSYLTRANSFERASE-RXN}}

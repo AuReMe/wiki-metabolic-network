@@ -1,0 +1,49 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2924 ==
+* right end position:
+** 14133
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7043
+* centisome position:
+** 39.17348    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[NUCLEOSIDE-TRIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12195]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12196]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-5462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7210]]
+* [[PWY-7198]]
+* [[PWY-6797]]
+* [[PWY-7184]]
+* [[PWY-7539]]
+* [[PWY-6545]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: right end position=14133}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7043}}
+{{#set: centisome position=39.17348    }}
+{{#set: reaction associated=ATPASE-RXN|DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN|H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN|NUCLEOSIDE-TRIPHOSPHATASE-RXN|RXN-12195|RXN-12196|RXN0-5462}}
+{{#set: pathway associated=PWY-7210|PWY-7198|PWY-6797|PWY-7184|PWY-7539|PWY-6545|PWY-6147}}

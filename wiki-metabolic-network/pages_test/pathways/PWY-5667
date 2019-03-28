@@ -1,0 +1,53 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5667 PWY-5667] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** CDP-diacylglycerol biosynthesis I
+* Synonym(s):
+** CDP-diacylglycerol biosynthesis
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''4''' reactions in the full pathway
+* [[CDPDIGLYSYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3522]]
+*** [[Tiso_gene_2311]]
+*** [[Tiso_gene_3523]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLYC3PDEHYDROGBIOSYN-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_3718]]
+*** [[Tiso_gene_2811]]
+*** [[Tiso_gene_13013]]
+*** [[Tiso_gene_6069]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-1381]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-1623]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13959]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-5667 PWY-5667]
+* METACYC:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=PWY-5667 PWY-5667]
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=CDP-diacylglycerol biosynthesis I}}
+{{#set: common name=CDP-diacylglycerol biosynthesis}}
+{{#set: reaction found=4}}
+{{#set: total reaction=4}}
+{{#set: completion rate=100.0}}

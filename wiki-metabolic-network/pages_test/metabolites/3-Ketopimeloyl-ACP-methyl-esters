@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-Ketopimeloyl-ACP-methyl-esters 3-Ketopimeloyl-ACP-methyl-esters] ==
+* common name:
+** a 3-oxo-pimeloyl-[acp] methyl ester
+* Synonym(s):
+** a 3-ketopimelyl-[acp] methyl ester
+** a 3-ketopimeloyl-[acyl-carrier protein] methyl ester
+** a 3-oxo-pimelyl-[acp] methyl ester
+** a 3-ketopimeloyl-[acp] methyl ester
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11480]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11479]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-pimeloyl-[acp] methyl ester}}
+{{#set: common name=a 3-ketopimelyl-[acp] methyl ester|a 3-ketopimeloyl-[acyl-carrier protein] methyl ester|a 3-oxo-pimelyl-[acp] methyl ester|a 3-ketopimeloyl-[acp] methyl ester}}
+{{#set: consumed by=RXN-11480}}
+{{#set: produced by=RXN-11479}}

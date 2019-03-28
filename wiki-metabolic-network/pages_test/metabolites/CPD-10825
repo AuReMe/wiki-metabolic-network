@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10825 CPD-10825] ==
+* smiles:
+** CC1(=C(OC(C1)=O)CC([O-])=O)
+* common name:
+** 4-methyl-3-oxoadipate-enol-lactone
+* inchi key:
+** InChIKey=DAJDHKXIQYXYPH-UHFFFAOYSA-M
+* molecular weight:
+** 155.13    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-10083]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44123582 44123582]
+{{#set: smiles=CC1(=C(OC(C1)=O)CC([O-])=O)}}
+{{#set: common name=4-methyl-3-oxoadipate-enol-lactone}}
+{{#set: inchi key=InChIKey=DAJDHKXIQYXYPH-UHFFFAOYSA-M}}
+{{#set: molecular weight=155.13    }}
+{{#set: consumed by=RXN-10083}}

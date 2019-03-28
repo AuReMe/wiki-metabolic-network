@@ -1,0 +1,50 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7340 PWY-7340] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** 9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''10''' reactions in the full pathway
+* [[RXN-14796]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18566]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14799]]
+** 5 associated gene(s):
+*** [[Tiso_gene_10116]]
+*** [[Tiso_gene_3856]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+*** [[Tiso_gene_3855]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-14803]]
+** 5 associated gene(s):
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_3856]]
+*** [[Tiso_gene_3855]]
+*** [[Tiso_gene_17451]]
+*** [[Tiso_gene_10116]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14795 RXN-14795]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14797 RXN-14797]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14798 RXN-14798]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14800 RXN-14800]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14801 RXN-14801]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14802 RXN-14802]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14804 RXN-14804]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=10}}
+{{#set: completion rate=30.0}}

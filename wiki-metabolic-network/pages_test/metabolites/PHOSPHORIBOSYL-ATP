@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHORIBOSYL-ATP PHOSPHORIBOSYL-ATP] ==
+* smiles:
+** C(C4(C(C(C(N3(C(C2(=C(N(C1(C(C(C(O1)COP(OP(=O)([O-])OP(=O)([O-])O)(=O)[O-])O)O))C=N2)N=C3))=N))O4)O)O))OP([O-])([O-])=O
+* common name:
+** 1-(5-phospho-&beta;-D-ribosyl)-ATP
+* inchi key:
+** InChIKey=RKNHJBVBFHDXGR-KEOHHSTQSA-I
+* molecular weight:
+** 714.24    
+* Synonym(s):
+** 1-(5-phosphoribosyl)-ATP
+** N1-(5-phospho-D-ribosyl)-ATP
+** 5-phosphoribosyl-ATP
+** 1-(5-phospho-D-ribosyl)-ATP
+** phosphoribosyl-ATP
+
+== Reaction(s) known to consume the compound ==
+* [[HISTPRATPHYD-RXN]]
+* [[PRADP]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ATPPHOSPHORIBOSYLTRANS-RXN]]
+== External links  ==
+* DRUGBANK : DB01661
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658853 90658853]
+* HMDB : HMDB03665
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02739 C02739]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=73200 73200]
+* BIGG : prbatp
+{{#set: smiles=C(C4(C(C(C(N3(C(C2(=C(N(C1(C(C(C(O1)COP(OP(=O)([O-])OP(=O)([O-])O)(=O)[O-])O)O))C=N2)N=C3))=N))O4)O)O))OP([O-])([O-])=O}}
+{{#set: common name=1-(5-phospho-&beta;-D-ribosyl)-ATP}}
+{{#set: inchi key=InChIKey=RKNHJBVBFHDXGR-KEOHHSTQSA-I}}
+{{#set: molecular weight=714.24    }}
+{{#set: common name=1-(5-phosphoribosyl)-ATP|N1-(5-phospho-D-ribosyl)-ATP|5-phosphoribosyl-ATP|1-(5-phospho-D-ribosyl)-ATP|phosphoribosyl-ATP}}
+{{#set: consumed by=HISTPRATPHYD-RXN|PRADP}}
+{{#set: reversible reaction associated=ATPPHOSPHORIBOSYLTRANS-RXN}}

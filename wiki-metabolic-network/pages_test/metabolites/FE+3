@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=FE+3 FE+3] ==
+* smiles:
+** [Fe+++]
+* common name:
+** Fe3+
+* inchi key:
+** InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+* molecular weight:
+** 55.847    
+* Synonym(s):
+** ferric iron
+** Fe+++
+** Fe+3
+** ferric ion
+** fe(iii)
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_FE+3]]
+* [[RXN-14387]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_FE+3]]
+* [[RXN-12540]]
+* [[RXN-12541]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_FE+3]]
+== External links  ==
+* BIGG : fe3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=29936 29936]
+* HMDB : HMDB12943
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C14819 C14819]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.27815.html 27815]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29034 29034]
+* METABOLIGHTS : MTBLC29034
+{{#set: smiles=[Fe+++]}}
+{{#set: common name=Fe3+}}
+{{#set: inchi key=InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N}}
+{{#set: molecular weight=55.847    }}
+{{#set: common name=ferric iron|Fe+++|Fe+3|ferric ion|fe(iii)}}
+{{#set: consumed by=TransportSeed_FE+3|RXN-14387}}
+{{#set: produced by=TransportSeed_FE+3|RXN-12540|RXN-12541}}
+{{#set: reversible reaction associated=ExchangeSeed_FE+3}}

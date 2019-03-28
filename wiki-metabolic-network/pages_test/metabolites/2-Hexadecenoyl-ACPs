@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-Hexadecenoyl-ACPs 2-Hexadecenoyl-ACPs] ==
+* common name:
+** a trans hexadecenoyl-[acp]
+* Synonym(s):
+** a trans hexadec-2-enoyl-[acyl-carrier protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9663]]
+* [[RXN-9542]]
+== Reaction(s) known to produce the compound ==
+* [[4.2.1.61-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans hexadecenoyl-[acp]}}
+{{#set: common name=a trans hexadec-2-enoyl-[acyl-carrier protein]}}
+{{#set: consumed by=RXN-9663|RXN-9542}}
+{{#set: produced by=4.2.1.61-RXN}}

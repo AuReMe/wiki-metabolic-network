@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD1F-128 CPD1F-128] ==
+* smiles:
+** C=C1(C4(CC3(C1)(CC[CH]2(C(C)(C)CCCC(C)2[CH]3CC4))))
+* common name:
+** ent-kaurene
+* inchi key:
+** InChIKey=ONVABDHFQKWOSV-HPUSYDDDSA-N
+* molecular weight:
+** 272.473    
+* Synonym(s):
+** ent-kaur-16-ene
+
+== Reaction(s) known to consume the compound ==
+* [[1.14.13.78-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMPR0104130002
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11966109 11966109]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.16737395.html 16737395]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15415 15415]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06090 C06090]
+{{#set: smiles=C=C1(C4(CC3(C1)(CC[CH]2(C(C)(C)CCCC(C)2[CH]3CC4))))}}
+{{#set: common name=ent-kaurene}}
+{{#set: inchi key=InChIKey=ONVABDHFQKWOSV-HPUSYDDDSA-N}}
+{{#set: molecular weight=272.473    }}
+{{#set: common name=ent-kaur-16-ene}}
+{{#set: consumed by=1.14.13.78-RXN}}

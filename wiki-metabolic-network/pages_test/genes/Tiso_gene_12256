@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12256 ==
+* right end position:
+** 7189
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 3060
+* centisome position:
+** 42.559113    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=7189}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=3060}}
+{{#set: centisome position=42.559113    }}
+{{#set: reaction associated=ADENYL-KIN-RXN}}
+{{#set: pathway associated=PWY-7219}}

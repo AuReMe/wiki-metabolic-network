@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14160 RXN-14160] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glycerophosphorylethanolamine phosphodiesterase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.4.46 EC-3.1.4.46]
+** [http://enzyme.expasy.org/EC/3.1.4.2 EC-3.1.4.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-1-GLYCEROPHOSPHORYLETHANOL-AMINE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[GLYCEROL-3P]][c] '''+''' 1 [[ETHANOL-AMINE]][c]
+* With common name(s):
+** 1 sn-glycero-3-phosphoethanolamine[c] '''+''' 1 H2O[c] '''=>''' 1 H+[c] '''+''' 1 sn-glycerol 3-phosphate[c] '''+''' 1 ethanolamine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_17232]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5334]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7409]], phospholipid remodeling (phosphatidylethanolamine, yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7409 PWY-7409]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=29320 29320]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glycerophosphorylethanolamine phosphodiesterase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.1.4.46}}
+{{#set: ec number=EC-3.1.4.2}}
+{{#set: gene associated=Tiso_gene_17232|Tiso_gene_5334}}
+{{#set: in pathway=PWY-7409}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

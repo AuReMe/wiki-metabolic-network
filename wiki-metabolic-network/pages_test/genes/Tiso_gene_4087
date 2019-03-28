@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4087 ==
+* right end position:
+** 5288
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3920
+* centisome position:
+** 25.398472    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11135]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5288}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3920}}
+{{#set: centisome position=25.398472    }}
+{{#set: reaction associated=RXN-11135}}

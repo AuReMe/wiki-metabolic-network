@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROXY-BUTANONE-P DIHYDROXY-BUTANONE-P] ==
+* smiles:
+** CC(=O)C(O)COP(=O)([O-])[O-]
+* common name:
+** 1-deoxy-L-glycero-tetrulose 4-phosphate
+* inchi key:
+** InChIKey=OKYHYXLCTGGOLM-SCSAIBSYSA-L
+* molecular weight:
+** 182.069    
+* Synonym(s):
+** 3,4-dihydroxy-2-butanone-4-phosphate
+** tetrolose phosphate
+** 3,4-dihydroxy-2-butanone-4-P
+** L-3,4-dihydroxybutan-2-one-4-phosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DIOHBUTANONEPSYN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90658385 90658385]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10739351.html 10739351]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=50606 50606]
+* BIGG : db4p
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15556 C15556]
+{{#set: smiles=CC(=O)C(O)COP(=O)([O-])[O-]}}
+{{#set: common name=1-deoxy-L-glycero-tetrulose 4-phosphate}}
+{{#set: inchi key=InChIKey=OKYHYXLCTGGOLM-SCSAIBSYSA-L}}
+{{#set: molecular weight=182.069    }}
+{{#set: common name=3,4-dihydroxy-2-butanone-4-phosphate|tetrolose phosphate|3,4-dihydroxy-2-butanone-4-P|L-3,4-dihydroxybutan-2-one-4-phosphate}}
+{{#set: produced by=DIOHBUTANONEPSYN-RXN}}

@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14257 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HBCHL]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[METHYLACYLYLCOA-HYDROXY-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[NAPHTHOATE-SYN-RXN]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-11919]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14266]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-2425]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-6383]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TIGLYLCOA-HYDROXY-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7574]]
+* [[ILEUDEG-PWY]]
+* [[PWY-3941]]
+* [[PWY-1361]]
+* [[PWY-5743]]
+* [[PWY0-321]]
+* [[PWY-5837]]
+* [[VALDEG-PWY]]
+* [[PWY-5744]]
+* [[PWY-6672]]
+* [[PWY-5109]]
+* [[PWY-5789]]
+== External links  ==
+{{#set: reaction associated=HBCHL|METHYLACYLYLCOA-HYDROXY-RXN|NAPHTHOATE-SYN-RXN|RXN-11919|RXN-14266|RXN-2425|RXN-6383|TIGLYLCOA-HYDROXY-RXN}}
+{{#set: pathway associated=PWY-7574|ILEUDEG-PWY|PWY-3941|PWY-1361|PWY-5743|PWY0-321|PWY-5837|VALDEG-PWY|PWY-5744|PWY-6672|PWY-5109|PWY-5789}}

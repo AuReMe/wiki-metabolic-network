@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13093 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GDPMANDEHYDRA-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[GDPRHAMSYN-PWY]]
+* [[PWY-66]]
+* [[PWY-5740]]
+* [[PWY-7573]]
+* [[PWY-5738]]
+* [[PWY-5739]]
+== External links  ==
+{{#set: reaction associated=GDPMANDEHYDRA-RXN}}
+{{#set: pathway associated=GDPRHAMSYN-PWY|PWY-66|PWY-5740|PWY-7573|PWY-5738|PWY-5739}}

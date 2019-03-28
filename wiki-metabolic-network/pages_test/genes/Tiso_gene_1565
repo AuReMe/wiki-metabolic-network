@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1565 ==
+* right end position:
+** 20024
+* transcription direction:
+** POSITIVE
+* left end position:
+** 18152
+* centisome position:
+** 77.75874    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUTAMIDOTRANS-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[PRIBFAICARPISOM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[PRICI]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[HISTSYN-PWY]]
+== External links  ==
+{{#set: right end position=20024}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=18152}}
+{{#set: centisome position=77.75874    }}
+{{#set: reaction associated=GLUTAMIDOTRANS-RXN|PRIBFAICARPISOM-RXN|PRICI}}
+{{#set: pathway associated=HISTSYN-PWY}}

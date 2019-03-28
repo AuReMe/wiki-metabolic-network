@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-SEDOHEPTULOSE-1-7-P2 D-SEDOHEPTULOSE-1-7-P2] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C(O)C(O)C(O)C(O)C(COP([O-])(=O)[O-])=O
+* common name:
+** D-sedoheptulose-1,7-bisphosphate
+* inchi key:
+** InChIKey=OKHXOUGRECCASI-SHUUEZRQSA-J
+* molecular weight:
+** 366.112    
+* Synonym(s):
+** sedoheptulose 1,7-bisphosphate
+** D-sedoheptulose-1,7-diphosphate
+** D-sedoheptulose-1,7-P2
+** SBP
+
+== Reaction(s) known to consume the compound ==
+* [[SEDOHEPTULOSE-BISPHOSPHATASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN0-6541]]
+== Reaction(s) of unknown directionality ==
+* [[SEDOBISALDOL-RXN]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00447 C00447]
+* HMDB : HMDB60274
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58335 58335]
+* METABOLIGHTS : MTBLC58335
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878435 46878435]
+{{#set: smiles=C(OP(=O)([O-])[O-])C(O)C(O)C(O)C(O)C(COP([O-])(=O)[O-])=O}}
+{{#set: common name=D-sedoheptulose-1,7-bisphosphate}}
+{{#set: inchi key=InChIKey=OKHXOUGRECCASI-SHUUEZRQSA-J}}
+{{#set: molecular weight=366.112    }}
+{{#set: common name=sedoheptulose 1,7-bisphosphate|D-sedoheptulose-1,7-diphosphate|D-sedoheptulose-1,7-P2|SBP}}
+{{#set: consumed by=SEDOHEPTULOSE-BISPHOSPHATASE-RXN}}
+{{#set: produced by=RXN0-6541}}
+{{#set: reversible reaction associated=SEDOBISALDOL-RXN}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-717 CPD-717] ==
+* smiles:
+** CC(C)C(C)C(O)C(O)C(C)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** 3-dehydro-6-deoxoteasterone
+* inchi key:
+** InChIKey=URNVSZVQLKHKDE-WAFXAADMSA-N
+* molecular weight:
+** 432.685    
+* Synonym(s):
+** dehydro-deoxoteasterone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11535]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-775]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST01030125
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=16061345 16061345]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=20710 20710]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15800 C15800]
+{{#set: smiles=CC(C)C(C)C(O)C(O)C(C)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=3-dehydro-6-deoxoteasterone}}
+{{#set: inchi key=InChIKey=URNVSZVQLKHKDE-WAFXAADMSA-N}}
+{{#set: molecular weight=432.685    }}
+{{#set: common name=dehydro-deoxoteasterone}}
+{{#set: consumed by=RXN-11535}}
+{{#set: produced by=RXN-775}}

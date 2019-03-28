@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5642 PWY-5642] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 2,4-dinitrotoluene degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''7''' reactions in the full pathway
+* [[1.2.1.27-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11323]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17165 RXN-17165]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8820 RXN-8820]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8821 RXN-8821]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8822 RXN-8822]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8823 RXN-8823]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8824 RXN-8824]
+== External links  ==
+* UM-BBD-PWY : dnt
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=2,4-dinitrotoluene degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=7}}
+{{#set: completion rate=14.0}}

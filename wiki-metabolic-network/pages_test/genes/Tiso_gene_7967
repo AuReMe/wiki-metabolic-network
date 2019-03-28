@@ -1,0 +1,13 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7967 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[13-BETA-GLUCAN-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6773]]
+== External links  ==
+{{#set: reaction associated=13-BETA-GLUCAN-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-6773}}

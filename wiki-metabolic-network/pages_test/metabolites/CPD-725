@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-725 CPD-725] ==
+* smiles:
+** CCC=CCC(C=CC=CCCCCCCCC([O-])=O)OO
+* common name:
+** 13(S)-HPOTE
+* inchi key:
+** InChIKey=UYQGVDXDXBAABN-FQSPHKRJSA-M
+* molecular weight:
+** 309.425    
+* Synonym(s):
+** 13(S)-hydroperoxylinolenic acid
+** hydroperoxylinolenic acid
+** 13S-hydroperoxy-9(Z),11(E),15(Z)-octadecatrienoic acid
+** 13(S)-hydroperoxy-(9Z,11E,15Z)-octadecatrienoate
+** 13(S)-hydroperoxylinolenate
+** (9Z,11E,15Z)-(13S)-hydroperoxyoctadeca-9,11,15-trienoate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-1321]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266757 45266757]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58757 58757]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04785 C04785]
+{{#set: smiles=CCC=CCC(C=CC=CCCCCCCCC([O-])=O)OO}}
+{{#set: common name=13(S)-HPOTE}}
+{{#set: inchi key=InChIKey=UYQGVDXDXBAABN-FQSPHKRJSA-M}}
+{{#set: molecular weight=309.425    }}
+{{#set: common name=13(S)-hydroperoxylinolenic acid|hydroperoxylinolenic acid|13S-hydroperoxy-9(Z),11(E),15(Z)-octadecatrienoic acid|13(S)-hydroperoxy-(9Z,11E,15Z)-octadecatrienoate|13(S)-hydroperoxylinolenate|(9Z,11E,15Z)-(13S)-hydroperoxyoctadeca-9,11,15-trienoate}}
+{{#set: produced by=RXN-1321}}

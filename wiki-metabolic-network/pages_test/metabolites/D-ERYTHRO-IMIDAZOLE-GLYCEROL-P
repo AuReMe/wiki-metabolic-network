@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-ERYTHRO-IMIDAZOLE-GLYCEROL-P D-ERYTHRO-IMIDAZOLE-GLYCEROL-P] ==
+* smiles:
+** C1(NC=NC=1C(C(O)COP(=O)([O-])[O-])O)
+* common name:
+** D-erythro-imidazole-glycerol-phosphate
+* inchi key:
+** InChIKey=HFYBTHCYPKEDQQ-RITPCOANSA-L
+* molecular weight:
+** 236.121    
+* Synonym(s):
+** D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate
+** D-erythro-imidazole-glycerol-P
+** erythro-imidazole-glycerol-P
+** erythro-imidazole-glycerol-phosphate
+** imidazole glycerol phosphate
+** IGP
+
+== Reaction(s) known to consume the compound ==
+* [[IMIDPHOSDEHYD-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[GLUTAMIDOTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459954 5459954]
+* HMDB : HMDB12208
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04666 C04666]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573672.html 4573672]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58278 58278]
+* BIGG : eig3p
+{{#set: smiles=C1(NC=NC=1C(C(O)COP(=O)([O-])[O-])O)}}
+{{#set: common name=D-erythro-imidazole-glycerol-phosphate}}
+{{#set: inchi key=InChIKey=HFYBTHCYPKEDQQ-RITPCOANSA-L}}
+{{#set: molecular weight=236.121    }}
+{{#set: common name=D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate|D-erythro-imidazole-glycerol-P|erythro-imidazole-glycerol-P|erythro-imidazole-glycerol-phosphate|imidazole glycerol phosphate|IGP}}
+{{#set: consumed by=IMIDPHOSDEHYD-RXN}}
+{{#set: produced by=GLUTAMIDOTRANS-RXN}}

@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-787 CPD-787] ==
+* smiles:
+** C([O-])(=O)CC=CC=C(O)C(=O)[O-]
+* common name:
+** (2Z,4Z)-2-hydroxyhepta-2,4-dienedioate
+* inchi key:
+** InChIKey=ZBCBETMBSDTINL-NWJCXACMSA-L
+* molecular weight:
+** 170.121    
+* Synonym(s):
+** (2Z,4Z)-2-hydroxy-hept-2,4-diene-1,7-dioate
+** HHDD
+** (2Z,4Z)-2-hydroxyhepta-2,4-diene-1,7-dioate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1K-87]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91828271 91828271]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.11531600.html 11531600]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=87504 87504]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05600 C05600]
+{{#set: smiles=C([O-])(=O)CC=CC=C(O)C(=O)[O-]}}
+{{#set: common name=(2Z,4Z)-2-hydroxyhepta-2,4-dienedioate}}
+{{#set: inchi key=InChIKey=ZBCBETMBSDTINL-NWJCXACMSA-L}}
+{{#set: molecular weight=170.121    }}
+{{#set: common name=(2Z,4Z)-2-hydroxy-hept-2,4-diene-1,7-dioate|HHDD|(2Z,4Z)-2-hydroxyhepta-2,4-diene-1,7-dioate}}
+{{#set: consumed by=RXN1K-87}}

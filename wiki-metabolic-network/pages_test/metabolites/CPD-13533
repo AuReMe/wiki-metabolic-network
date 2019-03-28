@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13533 CPD-13533] ==
+* smiles:
+** CCC(CC(SCCNC(CCNC(C(C(COP(=O)([O-])OP(OCC1(OC(C(C1OP([O-])([O-])=O)O)N3(C=NC2(C(=NC=NC=23)N))))([O-])=O)(C)C)O)=O)=O)=O)O
+* common name:
+** (R)-3-hydroxyvaleryl-CoA
+* inchi key:
+** InChIKey=YYGYPCRWZMLSGK-ORUMCERNSA-J
+* molecular weight:
+** 863.619    
+* Synonym(s):
+** D-&beta;-hydroxyvaleryl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-12560]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54758578 54758578]
+{{#set: smiles=CCC(CC(SCCNC(CCNC(C(C(COP(=O)([O-])OP(OCC1(OC(C(C1OP([O-])([O-])=O)O)N3(C=NC2(C(=NC=NC=23)N))))([O-])=O)(C)C)O)=O)=O)=O)O}}
+{{#set: common name=(R)-3-hydroxyvaleryl-CoA}}
+{{#set: inchi key=InChIKey=YYGYPCRWZMLSGK-ORUMCERNSA-J}}
+{{#set: molecular weight=863.619    }}
+{{#set: common name=D-&beta;-hydroxyvaleryl-CoA}}
+{{#set: reversible reaction associated=RXN-12560}}

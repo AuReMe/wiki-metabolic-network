@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ENT-KAUR-16-EN-19-OL ENT-KAUR-16-EN-19-OL] ==
+* smiles:
+** C=C1(C4(CC3(C1)(CC[CH]2(C(C)(CO)CCCC(C)2[CH]3CC4))))
+* common name:
+** ent-kaurenol
+* inchi key:
+** InChIKey=TUJQVRFWMWRMIO-XRNRSJMDSA-N
+* molecular weight:
+** 288.472    
+* Synonym(s):
+** ent-kaur-16-en-19-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-5242]]
+== Reaction(s) known to produce the compound ==
+* [[1.14.13.78-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=443465 443465]
+* HMDB : HMDB36727
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29611 29611]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11872 C11872]
+{{#set: smiles=C=C1(C4(CC3(C1)(CC[CH]2(C(C)(CO)CCCC(C)2[CH]3CC4))))}}
+{{#set: common name=ent-kaurenol}}
+{{#set: inchi key=InChIKey=TUJQVRFWMWRMIO-XRNRSJMDSA-N}}
+{{#set: molecular weight=288.472    }}
+{{#set: common name=ent-kaur-16-en-19-ol}}
+{{#set: consumed by=RXN-5242}}
+{{#set: produced by=1.14.13.78-RXN}}

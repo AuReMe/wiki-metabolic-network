@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-17262 CPD-17262] ==
+* smiles:
+** CCC=CCC=CCC=CCC=CCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** 3-oxo-icosatetraenoyl-CoA
+* inchi key:
+** InChIKey=VVLBCJHQULSXJN-QWOXCLFSSA-J
+* molecular weight:
+** 1063.942    
+* Synonym(s):
+** (8Z,11Z,14Z,17Z)-3-oxo-icosa-8,11,14,17-tetraenoyl-CoA
+** 3-oxo-eicosatetraenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-16020]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=70698357 70698357]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71491 71491]
+{{#set: smiles=CCC=CCC=CCC=CCC=CCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=3-oxo-icosatetraenoyl-CoA}}
+{{#set: inchi key=InChIKey=VVLBCJHQULSXJN-QWOXCLFSSA-J}}
+{{#set: molecular weight=1063.942    }}
+{{#set: common name=(8Z,11Z,14Z,17Z)-3-oxo-icosa-8,11,14,17-tetraenoyl-CoA|3-oxo-eicosatetraenoyl-CoA}}
+{{#set: consumed by=RXN-16020}}

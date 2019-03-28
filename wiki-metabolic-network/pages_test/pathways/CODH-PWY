@@ -1,0 +1,68 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=CODH-PWY CODH-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)
+* Synonym(s):
+** Wood pathway
+** acetate synthesis
+** acetyl-CoA pathway
+** carbon monoxide dehydrogenase pathway
+** carbon fixation
+** CO2 fixation
+** Ljungdahl-Wood pathway
+** Wood-Ljungdahl pathway
+** reductive acetyl CoA pathway
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''9''' reactions in the full pathway
+* [[1.5.1.20-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14582]]
+*** [[Tiso_gene_16954]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[FORMATETHFLIG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_432]]
+*** [[Tiso_gene_7582]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[METHENYLTHFCYCLOHYDRO-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+* [[METHYLENETHFDEHYDROG-NADP-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_6004]]
+*** [[Tiso_gene_432]]
+** 3 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-5061]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4806]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.2.7.4-RXN 1.2.7.4-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ACETYLSYNCLTH-RXN ACETYLSYNCLTH-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=FORMATE-DEHYDROGENASE-NADP+-RXN FORMATE-DEHYDROGENASE-NADP+-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=METHCOCLTH-RXN METHCOCLTH-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)}}
+{{#set: common name=Wood pathway|acetate synthesis|acetyl-CoA pathway|carbon monoxide dehydrogenase pathway|carbon fixation|CO2 fixation|Ljungdahl-Wood pathway|Wood-Ljungdahl pathway|reductive acetyl CoA pathway}}
+{{#set: reaction found=5}}
+{{#set: total reaction=9}}
+{{#set: completion rate=56.0}}

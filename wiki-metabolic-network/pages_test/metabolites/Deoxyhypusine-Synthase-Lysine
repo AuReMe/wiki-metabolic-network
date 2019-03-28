@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Deoxyhypusine-Synthase-Lysine Deoxyhypusine-Synthase-Lysine] ==
+* common name:
+** a [deoxyhypusine synthase]-L-lysine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13415]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13416]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [deoxyhypusine synthase]-L-lysine}}
+{{#set: consumed by=RXN-13415}}
+{{#set: produced by=RXN-13416}}

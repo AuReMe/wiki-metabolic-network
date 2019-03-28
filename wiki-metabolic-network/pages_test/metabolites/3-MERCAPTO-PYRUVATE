@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-MERCAPTO-PYRUVATE 3-MERCAPTO-PYRUVATE] ==
+* smiles:
+** C(C(C(=O)[O-])=O)S
+* common name:
+** 3-mercaptopyruvate
+* inchi key:
+** InChIKey=OJOLFAIGOXZBCI-UHFFFAOYSA-M
+* molecular weight:
+** 119.115    
+* Synonym(s):
+** mercaptopyruvate
+** 3-mercaptopyruvic acid
+** &beta;-thiopyruvate
+** &beta;-mercaptopyruvate
+
+== Reaction(s) known to consume the compound ==
+* [[MERCAPYSTRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[CYSTEINE-AMINOTRANSFERASE-RXN]]
+== External links  ==
+* CAS : 2464-23-5
+* BIGG : mercppyr
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=4182595 4182595]
+* HMDB : HMDB01368
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00957 C00957]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.3393581.html 3393581]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57678 57678]
+* METABOLIGHTS : MTBLC57678
+{{#set: smiles=C(C(C(=O)[O-])=O)S}}
+{{#set: common name=3-mercaptopyruvate}}
+{{#set: inchi key=InChIKey=OJOLFAIGOXZBCI-UHFFFAOYSA-M}}
+{{#set: molecular weight=119.115    }}
+{{#set: common name=mercaptopyruvate|3-mercaptopyruvic acid|&beta;-thiopyruvate|&beta;-mercaptopyruvate}}
+{{#set: consumed by=MERCAPYSTRANS-RXN}}
+{{#set: reversible reaction associated=CYSTEINE-AMINOTRANSFERASE-RXN}}

@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Reduced-CycA1-cytochromes Reduced-CycA1-cytochromes] ==
+* common name:
+** a reduced CycA1 cytochrome
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15829]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15831]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a reduced CycA1 cytochrome}}
+{{#set: consumed by=RXN-15829}}
+{{#set: produced by=RXN-15831}}

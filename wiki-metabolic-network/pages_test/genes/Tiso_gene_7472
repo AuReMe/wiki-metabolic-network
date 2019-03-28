@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7472 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PItm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TCM3]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[TCP26]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[TCX10]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[TRANS-RXN-114]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TRANS-RXN0-470]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=PItm|TCM3|TCP26|TCX10|TRANS-RXN-114|TRANS-RXN0-470}}

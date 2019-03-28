@@ -1,0 +1,36 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19962 ==
+* right end position:
+** 1257
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1070
+* centisome position:
+** 56.763924    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRIOSEPISOMERIZATION-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-1042]]
+* [[P341-PWY]]
+* [[PWY66-399]]
+* [[P185-PWY]]
+* [[GLUCONEO-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6142]]
+* [[CALVIN-PWY]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[PWY-5484]]
+* [[PWY66-373]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=1257}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1070}}
+{{#set: centisome position=56.763924    }}
+{{#set: reaction associated=TRIOSEPISOMERIZATION-RXN}}
+{{#set: pathway associated=PWY-1042|P341-PWY|PWY66-399|P185-PWY|GLUCONEO-PWY|GLYCOLYSIS|PWY-6142|CALVIN-PWY|ANAGLYCOLYSIS-PWY|PWY-5484|PWY66-373|PWY-7003}}

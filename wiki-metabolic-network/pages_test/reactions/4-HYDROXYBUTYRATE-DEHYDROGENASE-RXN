@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN 4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** probable_gamma_hydroxybutyrate_dehydrogenase
+** gamma_hydroxybutyrate_dehydrogenase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.61 EC-1.1.1.61]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[NADH]][c] '''+''' 1 [[SUCC-S-ALD]][c] '''=>''' 1 [[NAD]][c] '''+''' 1 [[4-HYDROXY-BUTYRATE]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 NADH[c] '''+''' 1 succinate semialdehyde[c] '''=>''' 1 NAD+[c] '''+''' 1 4-hydroxybutanoate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_777]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_91]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-5677]], succinate fermentation to butanoate: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5677 PWY-5677]
+** '''1''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-5022]], 4-aminobutanoate degradation V: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5022 PWY-5022]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23948 23948]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01644 R01644]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q59104 Q59104]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=probable_gamma_hydroxybutyrate_dehydrogenase}}
+{{#set: common name=gamma_hydroxybutyrate_dehydrogenase}}
+{{#set: ec number=EC-1.1.1.61}}
+{{#set: gene associated=Tiso_gene_777|Tiso_gene_91}}
+{{#set: in pathway=PWY-5677|PWY-5022}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

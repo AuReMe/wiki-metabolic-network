@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12541 RXN-12541] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[FE+2]][c] '''+''' 2 [[OXYGEN-MOLECULE]][c] '''=>''' 2 [[FE+3]][c] '''+''' 2 [[SUPER-OXIDE]][c]
+* With common name(s):
+** 2 Fe2+[c] '''+''' 2 oxygen[c] '''=>''' 2 Fe3+[c] '''+''' 2 superoxide[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6854]], ethylene biosynthesis III (microbes): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6854 PWY-6854]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-6854}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

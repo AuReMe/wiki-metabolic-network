@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HECT-Ubiquitin-carrier-protein-E3-L-cys HECT-Ubiquitin-carrier-protein-E3-L-cys] ==
+* common name:
+** a [HECT-type E3 ubiquitin transferase]-L-cysteine
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15559]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15560]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a [HECT-type E3 ubiquitin transferase]-L-cysteine}}
+{{#set: consumed by=RXN-15559}}
+{{#set: produced by=RXN-15560}}

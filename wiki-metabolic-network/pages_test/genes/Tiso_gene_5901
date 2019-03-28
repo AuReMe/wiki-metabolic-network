@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5901 ==
+* right end position:
+** 6950
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5949
+* centisome position:
+** 46.501995    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6PGLUCONOLACT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[P122-PWY]]
+* [[RUMP-PWY]]
+* [[OXIDATIVEPENT-PWY]]
+* [[GLYCOLYSIS-E-D]]
+== External links  ==
+{{#set: right end position=6950}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5949}}
+{{#set: centisome position=46.501995    }}
+{{#set: reaction associated=6PGLUCONOLACT-RXN}}
+{{#set: pathway associated=P122-PWY|RUMP-PWY|OXIDATIVEPENT-PWY|GLYCOLYSIS-E-D}}

@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=1.8.4.14-RXN 1.8.4.14-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** peptide_methionine-r-sulfoxide_reductase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.8.4.14 EC-1.8.4.14]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Red-Thioredoxin]][c] '''+''' 1 [[CPD-8990]][c] '''=>''' 1 [[MET]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[Ox-Thioredoxin]][c]
+* With common name(s):
+** 1 a reduced thioredoxin[c] '''+''' 1 L-methionine-(R)-S-oxide[c] '''=>''' 1 L-methionine[c] '''+''' 1 H2O[c] '''+''' 1 an oxidized thioredoxin[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19578]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21260 21260]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07608 R07608]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=peptide_methionine-r-sulfoxide_reductase}}
+{{#set: ec number=EC-1.8.4.14}}
+{{#set: gene associated=Tiso_gene_19578}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1548 ==
+* right end position:
+** 8755
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7610
+* centisome position:
+** 32.517197    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8755}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7610}}
+{{#set: centisome position=32.517197    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

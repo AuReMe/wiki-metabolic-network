@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9384 RXN-9384] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[O-SUCCINYL-L-HOMOSERINE]][c] '''+''' 1 [[HS]][c] '''<=>''' 1 [[HOMO-CYS]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[SUC]][c]
+* With common name(s):
+** 1 O-succinyl-L-homoserine[c] '''+''' 1 hydrogen sulfide[c] '''<=>''' 1 L-homocysteine[c] '''+''' 1 H+[c] '''+''' 1 succinate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2848]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_11582]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_18201]]
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_10317]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3732]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=27826 27826]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01288 R01288]
+{{#set: direction=REVERSIBLE}}
+{{#set: gene associated=Tiso_gene_2848|Tiso_gene_11582|Tiso_gene_18201|Tiso_gene_10317|Tiso_gene_3732}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-creinhardtii|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

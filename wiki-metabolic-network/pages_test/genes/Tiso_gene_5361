@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5361 ==
+* right end position:
+** 3739
+* transcription direction:
+** POSITIVE
+* left end position:
+** 147
+* centisome position:
+** 1.0838311    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.2.31-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3739}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=147}}
+{{#set: centisome position=1.0838311    }}
+{{#set: reaction associated=2.4.2.31-RXN}}

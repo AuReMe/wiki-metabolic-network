@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HGDO HGDO] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** homogentisate 1,2-dioxygenase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[OXYGEN-MOLECULE]][c] '''+''' 1.0 [[HOMOGENTISATE]][c] '''=>''' 1.0 [[4-MALEYL-ACETOACETATE]][c] '''+''' 1.0 [[PROTON]][c]
+* With common name(s):
+** 1.0 oxygen[c] '''+''' 1.0 homogentisate[c] '''=>''' 1.0 4-maleyl-acetoacetate[c] '''+''' 1.0 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_20095]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=homogentisate 1,2-dioxygenase}}
+{{#set: gene associated=Tiso_gene_20095}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

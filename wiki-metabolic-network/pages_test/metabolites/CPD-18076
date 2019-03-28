@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-18076 CPD-18076] ==
+* common name:
+** &alpha;-D-Glc-(1&rarr;2)-&alpha;-D-Glc-(1&rarr;3)-&alpha;-D-Glc-(1&rarr;3)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;6)]-&alpha;-D-Man-(1&rarr;6)]-&beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-GlcNAc-diphosphodolichol
+* Synonym(s):
+** a (glucosyl)3(mannosyl)9-(N-acetylglucosaminyl)2-diphosphodolichol
+
+== Reaction(s) known to consume the compound ==
+* [[2.4.1.119-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-5472]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=&alpha;-D-Glc-(1&rarr;2)-&alpha;-D-Glc-(1&rarr;3)-&alpha;-D-Glc-(1&rarr;3)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;6)]-&alpha;-D-Man-(1&rarr;6)]-&beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-GlcNAc-diphosphodolichol}}
+{{#set: common name=a (glucosyl)3(mannosyl)9-(N-acetylglucosaminyl)2-diphosphodolichol}}
+{{#set: consumed by=2.4.1.119-RXN}}
+{{#set: produced by=RXN-5472}}

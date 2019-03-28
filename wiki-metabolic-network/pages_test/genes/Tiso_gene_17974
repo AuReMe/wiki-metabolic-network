@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17974 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[FRUCTOKINASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RIBOKIN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-14223]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5384]]
+* [[RIBOKIN-PWY]]
+* [[PWY-621]]
+* [[SUCUTIL-PWY]]
+* [[SUCROSEUTIL2-PWY]]
+* [[PWY-4101]]
+* [[PWY-6531]]
+* [[PWY-3801]]
+* [[P122-PWY]]
+== External links  ==
+{{#set: reaction associated=FRUCTOKINASE-RXN|RIBOKIN-RXN|RXN-14223}}
+{{#set: pathway associated=PWY-5384|RIBOKIN-PWY|PWY-621|SUCUTIL-PWY|SUCROSEUTIL2-PWY|PWY-4101|PWY-6531|PWY-3801|P122-PWY}}

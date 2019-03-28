@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.2.1.37-RXN 3.2.1.37-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Beta-xylosidase/alpha-L-arabinofuranosidase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.1.37 EC-3.2.1.37]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** n [[WATER]][c] '''+''' 1 [[1-4-D-xylooligosaccharides]][c] '''=>''' n [[BETA-D-XYLOSE]][c]
+* With common name(s):
+** n H2O[c] '''+''' 1 a (1->4)-&beta;-D-xylan oligosaccharide[c] '''=>''' n &beta;-D-xylopyranose[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10897]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P45982 P45982]
+** [http://www.uniprot.org/uniprot/Q9CFH1 Q9CFH1]
+** [http://www.uniprot.org/uniprot/P77713 P77713]
+** [http://www.uniprot.org/uniprot/P94489 P94489]
+** [http://www.uniprot.org/uniprot/P45702 P45702]
+** [http://www.uniprot.org/uniprot/P48790 P48790]
+** [http://www.uniprot.org/uniprot/P07129 P07129]
+** [http://www.uniprot.org/uniprot/Q7M0Q6 Q7M0Q6]
+** [http://www.uniprot.org/uniprot/P36906 P36906]
+** [http://www.uniprot.org/uniprot/P49943 P49943]
+** [http://www.uniprot.org/uniprot/O42698 O42698]
+** [http://www.uniprot.org/uniprot/P23552 P23552]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Beta-xylosidase/alpha-L-arabinofuranosidase}}
+{{#set: ec number=EC-3.2.1.37}}
+{{#set: gene associated=Tiso_gene_10897}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

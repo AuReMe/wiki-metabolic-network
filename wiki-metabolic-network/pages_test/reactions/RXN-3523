@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-3523 RXN-3523] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** L-ascorbate peroxidase
+* Synonym(s):
+** L-ascorbic acid peroxidase
+** L-ascorbic acid-specific peroxidase
+** ascorbate peroxidase
+** ascorbic acid peroxidase
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[CPD-318]][c] '''=>''' 1 [[L-DEHYDRO-ASCORBATE]][c] '''+''' 1 [[ASCORBATE]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 2 monodehydroascorbate radical[c] '''=>''' 1 L-dehydro-ascorbate[c] '''+''' 1 L-ascorbate[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6370]], ascorbate recycling (cytosolic): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6370 PWY-6370]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-2261]], ascorbate glutathione cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2261 PWY-2261]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30270 30270]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03186 R03186]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=L-ascorbate peroxidase}}
+{{#set: common name=L-ascorbic acid peroxidase|L-ascorbic acid-specific peroxidase|ascorbate peroxidase|ascorbic acid peroxidase}}
+{{#set: in pathway=PWY-6370|PWY-2261}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

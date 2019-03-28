@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-Oxo-carboxylates 2-Oxo-carboxylates] ==
+* common name:
+** a 2-oxo carboxylate
+* Synonym(s):
+** 2-oxo acid
+** an &alpha; keto acid
+** a keto acid
+** a 2-oxo acid
+** a 2-ketocarboxylate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN]]
+== External links  ==
+{{#set: common name=a 2-oxo carboxylate}}
+{{#set: common name=2-oxo acid|an &alpha; keto acid|a keto acid|a 2-oxo acid|a 2-ketocarboxylate}}
+{{#set: reversible reaction associated=ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN}}

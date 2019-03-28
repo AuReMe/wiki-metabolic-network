@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROXYACETONE DIHYDROXYACETONE] ==
+* smiles:
+** C(C(CO)=O)O
+* common name:
+** dihydroxyacetone
+* inchi key:
+** InChIKey=RXKJFZQQPQGTFL-UHFFFAOYSA-N
+* molecular weight:
+** 90.079    
+* Synonym(s):
+** glycerone
+** 1,3-dihydroxyacetone
+** dihydroxy-acetone
+
+== Reaction(s) known to consume the compound ==
+* [[GLYCERONE-KINASE-RXN]]
+* [[2.7.1.121-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=670 670]
+* CAS : 96-26-4
+* BIGG : dha
+* DRUGBANK : DB01775
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=24343 24343]
+* HMDB : HMDB01882
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00184 C00184]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.650.html 650]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16016 16016]
+* METABOLIGHTS : MTBLC16016
+{{#set: smiles=C(C(CO)=O)O}}
+{{#set: common name=dihydroxyacetone}}
+{{#set: inchi key=InChIKey=RXKJFZQQPQGTFL-UHFFFAOYSA-N}}
+{{#set: molecular weight=90.079    }}
+{{#set: common name=glycerone|1,3-dihydroxyacetone|dihydroxy-acetone}}
+{{#set: consumed by=GLYCERONE-KINASE-RXN|2.7.1.121-RXN}}

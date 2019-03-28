@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6116 ==
+* right end position:
+** 2774
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2107
+* centisome position:
+** 16.8143    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-8668]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2774}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2107}}
+{{#set: centisome position=16.8143    }}
+{{#set: reaction associated=RXN-8668}}

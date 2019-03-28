@@ -1,0 +1,67 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=METHIONYL-TRNA-FORMYLTRANSFERASE-RXN METHIONYL-TRNA-FORMYLTRANSFERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** methionyl-trna_formyltransferase
+** ribosomal_rna_small_subunit_methyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.2.9 EC-2.1.2.9]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[L-methionyl-tRNAfmet]][c] '''+''' 1 [[FORMYL-THF-GLU-N]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[THF-GLU-N]][c] '''+''' 1 [[N-formyl-L-methionyl-tRNAfmet]][c]
+* With common name(s):
+** 1 an L-methionyl-[initiator tRNAmet][c] '''+''' 1 an N10-formyl-tetrahydrofolate[c] '''=>''' 1 H+[c] '''+''' 1 a tetrahydrofolate[c] '''+''' 1 an N-formyl-L-methionyl-[initiator tRNAmet][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_13560]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_13561]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9355]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03940 R03940]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P94463 P94463]
+** [http://www.uniprot.org/uniprot/Q9PJ28 Q9PJ28]
+** [http://www.uniprot.org/uniprot/P50932 P50932]
+** [http://www.uniprot.org/uniprot/P47605 P47605]
+** [http://www.uniprot.org/uniprot/P44787 P44787]
+** [http://www.uniprot.org/uniprot/P56461 P56461]
+** [http://www.uniprot.org/uniprot/Q9CEE9 Q9CEE9]
+** [http://www.uniprot.org/uniprot/O51091 O51091]
+** [http://www.uniprot.org/uniprot/Q9JWY9 Q9JWY9]
+** [http://www.uniprot.org/uniprot/P23882 P23882]
+** [http://www.uniprot.org/uniprot/P32785 P32785]
+** [http://www.uniprot.org/uniprot/P75235 P75235]
+** [http://www.uniprot.org/uniprot/Q55163 Q55163]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=methionyl-trna_formyltransferase}}
+{{#set: common name=ribosomal_rna_small_subunit_methyltransferase}}
+{{#set: ec number=EC-2.1.2.9}}
+{{#set: gene associated=Tiso_gene_13560|Tiso_gene_13561|Tiso_gene_9355}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

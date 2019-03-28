@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13346 CPD-13346] ==
+* smiles:
+** CCCCOC(=O)C
+* common name:
+** butyl acetate
+* inchi key:
+** InChIKey=DKPFZGUDAPQIHT-UHFFFAOYSA-N
+* molecular weight:
+** 116.16    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12362]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=31272 31272]
+* HMDB : HMDB31325
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C12304 C12304]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.14569822.html 14569822]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=31328 31328]
+* METABOLIGHTS : MTBLC31328
+{{#set: smiles=CCCCOC(=O)C}}
+{{#set: common name=butyl acetate}}
+{{#set: inchi key=InChIKey=DKPFZGUDAPQIHT-UHFFFAOYSA-N}}
+{{#set: molecular weight=116.16    }}
+{{#set: produced by=RXN-12362}}

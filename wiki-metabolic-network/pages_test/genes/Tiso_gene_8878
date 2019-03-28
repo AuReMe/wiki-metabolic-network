@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8878 ==
+* right end position:
+** 8991
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7495
+* centisome position:
+** 76.425    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NICOTINAMIDE-N-METHYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8991}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7495}}
+{{#set: centisome position=76.425    }}
+{{#set: reaction associated=NICOTINAMIDE-N-METHYLTRANSFERASE-RXN}}

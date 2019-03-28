@@ -1,0 +1,32 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ISOVALERYLCOA-DHLIPOAMIDE-RXN ISOVALERYLCOA-DHLIPOAMIDE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** dihydrolipoyllysine-residue (3-methylbutanoyl)transferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.168 EC-2.3.1.168]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[BCAA-dehydrogenase-DH-lipoyl]][c] '''+''' 1 [[ISOVALERYL-COA]][c] '''=>''' 1 [[BCAA-dehydrogenase-3MB-DH-lipoyl]][c] '''+''' 1 [[CO-A]][c]
+* With common name(s):
+** 1 an [apo BCAA dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine[c] '''+''' 1 isovaleryl-CoA[c] '''=>''' 1 a [apo BCAA dehydrogenase E2 protein] N6-S-[3-methylbutanoyl]dihydrolipoyl-L-lysine[c] '''+''' 1 coenzyme A[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=dihydrolipoyllysine-residue (3-methylbutanoyl)transferase}}
+{{#set: ec number=EC-2.3.1.168}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

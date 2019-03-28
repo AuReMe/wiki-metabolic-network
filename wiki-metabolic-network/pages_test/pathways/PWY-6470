@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6470 PWY-6470] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-201174 TAX-201174]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1239 TAX-1239]
+* common name:
+** peptidoglycan biosynthesis V (&beta;-lactam resistance)
+* Synonym(s):
+** penicillin resistance
+** &beta;-lactam resistance
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-6386]]
+** 0 associated gene:
+* [[RXN-11347]]
+** 1 associated gene(s):
+*** [[Tiso_gene_1604]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=3.4.17.14-RXN 3.4.17.14-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11343 RXN-11343]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11344 RXN-11344]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11345 RXN-11345]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11346 RXN-11346]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11348 RXN-11348]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11349 RXN-11349]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15521 RXN-15521]
+== External links  ==
+{{#set: taxonomic range=TAX-201174}}
+{{#set: taxonomic range=TAX-1239}}
+{{#set: common name=peptidoglycan biosynthesis V (&beta;-lactam resistance)}}
+{{#set: common name=penicillin resistance|&beta;-lactam resistance}}
+{{#set: reaction found=2}}
+{{#set: total reaction=11}}
+{{#set: completion rate=18.0}}

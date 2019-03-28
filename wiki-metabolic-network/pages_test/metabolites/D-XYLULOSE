@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-XYLULOSE D-XYLULOSE] ==
+* smiles:
+** C(O)C(O)C(O)C(=O)CO
+* common name:
+** D-xylulose
+* inchi key:
+** InChIKey=ZAQJHHRNXZUBTE-WUJLRWPWSA-N
+* molecular weight:
+** 150.131    
+* Synonym(s):
+** xylulose
+** D-threo-pentulose
+
+== Reaction(s) known to consume the compound ==
+* [[XYLULOKIN-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 551-84-8
+* BIGG : xylu__D
+* DRUGBANK : DB03947
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5289590 5289590]
+* HMDB : HMDB01644
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00310 C00310]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4451524.html 4451524]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17140 17140]
+* METABOLIGHTS : MTBLC17140
+{{#set: smiles=C(O)C(O)C(O)C(=O)CO}}
+{{#set: common name=D-xylulose}}
+{{#set: inchi key=InChIKey=ZAQJHHRNXZUBTE-WUJLRWPWSA-N}}
+{{#set: molecular weight=150.131    }}
+{{#set: common name=xylulose|D-threo-pentulose}}
+{{#set: consumed by=XYLULOKIN-RXN}}

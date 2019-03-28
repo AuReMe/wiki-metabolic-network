@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=METHYL-GLYOXAL METHYL-GLYOXAL] ==
+* smiles:
+** CC([CH]=O)=O
+* common name:
+** methylglyoxal
+* inchi key:
+** InChIKey=AIJULSRZWUXGPQ-UHFFFAOYSA-N
+* molecular weight:
+** 72.063    
+* Synonym(s):
+** 2-oxopropanal
+** acetylformaldehyde
+** pyruvic aldehyde
+** pyruvaldehyde
+
+== Reaction(s) known to consume the compound ==
+* [[GLYOXIII-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[AMACETOXID-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[D-LACTALDEHYDE-DEHYDROGENASE-RXN]]
+* [[GLYOXI-RXN]]
+== External links  ==
+* CAS : 78-98-8
+* BIGG : mthgxl
+* DRUGBANK : DB03587
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=880 880]
+* HMDB : HMDB01167
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00546 C00546]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.857.html 857]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17158 17158]
+* METABOLIGHTS : MTBLC17158
+{{#set: smiles=CC([CH]=O)=O}}
+{{#set: common name=methylglyoxal}}
+{{#set: inchi key=InChIKey=AIJULSRZWUXGPQ-UHFFFAOYSA-N}}
+{{#set: molecular weight=72.063    }}
+{{#set: common name=2-oxopropanal|acetylformaldehyde|pyruvic aldehyde|pyruvaldehyde}}
+{{#set: consumed by=GLYOXIII-RXN}}
+{{#set: produced by=AMACETOXID-RXN}}
+{{#set: reversible reaction associated=D-LACTALDEHYDE-DEHYDROGENASE-RXN|GLYOXI-RXN}}

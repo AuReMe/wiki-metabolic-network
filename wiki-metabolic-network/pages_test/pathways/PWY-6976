@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6976 PWY-6976] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** dTDP-L-mycarose biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[DTDPGLUCDEHYDRAT-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7329]]
+*** [[Tiso_gene_12394]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[DTDPGLUCOSEPP-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14704]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12404 RXN-12404]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12935 RXN-12935]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12940 RXN-12940]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12941 RXN-12941]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12942 RXN-12942]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=dTDP-L-mycarose biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

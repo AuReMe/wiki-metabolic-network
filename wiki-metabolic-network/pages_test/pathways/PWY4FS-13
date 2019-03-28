@@ -1,0 +1,25 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY4FS-13 PWY4FS-13] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** extended VTC2 cycle
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-1882]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6621]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN4FS-13 RXN4FS-13]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN4FS-14 RXN4FS-14]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=extended VTC2 cycle}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

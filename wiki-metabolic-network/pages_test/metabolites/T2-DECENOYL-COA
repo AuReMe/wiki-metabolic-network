@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=T2-DECENOYL-COA T2-DECENOYL-COA] ==
+* smiles:
+** CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** trans-dec-2-enoyl-CoA
+* inchi key:
+** InChIKey=MGNBGCRQQFMNBM-YJHHLLFWSA-J
+* molecular weight:
+** 915.738    
+* Synonym(s):
+** 2E-decenoyl-CoA
+** 2-trans-decenoyl-CoA
+** trans-&Delta;2-decenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13616]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13615]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : dc2coa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=50909850 50909850]
+* HMDB : HMDB03948
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05275 C05275]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61406 61406]
+* METABOLIGHTS : MTBLC61406
+{{#set: smiles=CCCCCCCC=CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=trans-dec-2-enoyl-CoA}}
+{{#set: inchi key=InChIKey=MGNBGCRQQFMNBM-YJHHLLFWSA-J}}
+{{#set: molecular weight=915.738    }}
+{{#set: common name=2E-decenoyl-CoA|2-trans-decenoyl-CoA|trans-&Delta;2-decenoyl-CoA}}
+{{#set: consumed by=RXN-13616}}
+{{#set: produced by=RXN-13615}}

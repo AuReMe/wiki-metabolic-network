@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7350 ==
+* right end position:
+** 5446
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 492
+* centisome position:
+** 2.586071    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5.3.4.1-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[DISULISOM-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=5446}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=492}}
+{{#set: centisome position=2.586071    }}
+{{#set: reaction associated=5.3.4.1-RXN|DISULISOM-RXN}}

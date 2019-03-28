@@ -1,0 +1,48 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HOMO-CYS HOMO-CYS] ==
+* smiles:
+** C(C(CCS)[N+])(=O)[O-]
+* common name:
+** L-homocysteine
+* inchi key:
+** InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
+* molecular weight:
+** 135.181    
+* Synonym(s):
+** homo-cys
+** homocysteine
+
+== Reaction(s) known to consume the compound ==
+* [[R00946]]
+* [[HOMOCYSMETB12-RXN]]
+* [[HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN]]
+* [[MMUM-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15131]]
+* [[CYSTATHIONINE-BETA-LYASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ACETYLHOMOSER-CYS-RXN]]
+* [[RXN-9384]]
+* [[CYSTATHIONINE-BETA-SYNTHASE-RXN]]
+* [[HOMOCYSMET-RXN]]
+* [[ADENOSYLHOMOCYSTEINASE-RXN]]
+== External links  ==
+* CAS : 6027-13-0
+* CAS : 454-28-4
+* BIGG : hcys__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971015 6971015]
+* HMDB : HMDB00742
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00155 C00155]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58199 58199]
+* METABOLIGHTS : MTBLC58199
+{{#set: smiles=C(C(CCS)[N+])(=O)[O-]}}
+{{#set: common name=L-homocysteine}}
+{{#set: inchi key=InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N}}
+{{#set: molecular weight=135.181    }}
+{{#set: common name=homo-cys|homocysteine}}
+{{#set: consumed by=R00946|HOMOCYSMETB12-RXN|HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN|MMUM-RXN}}
+{{#set: produced by=RXN-15131|CYSTATHIONINE-BETA-LYASE-RXN}}
+{{#set: reversible reaction associated=ACETYLHOMOSER-CYS-RXN|RXN-9384|CYSTATHIONINE-BETA-SYNTHASE-RXN|HOMOCYSMET-RXN|ADENOSYLHOMOCYSTEINASE-RXN}}

@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CHOLESTEROL CHOLESTEROL] ==
+* smiles:
+** CC(C)CCCC(C)[CH]3(CC[CH]4([CH]2(CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** cholesterol
+* inchi key:
+** InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
+* molecular weight:
+** 386.66    
+* Synonym(s):
+** 5-cholestene-3&beta;-ol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12693]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-323]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 57-88-5
+* DRUGBANK : DB04540
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5997 5997]
+* HMDB : HMDB00067
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00187 C00187]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5775.html 5775]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16113 16113]
+* METABOLIGHTS : MTBLC16113
+{{#set: smiles=CC(C)CCCC(C)[CH]3(CC[CH]4([CH]2(CC=C1(CC(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=cholesterol}}
+{{#set: inchi key=InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N}}
+{{#set: molecular weight=386.66    }}
+{{#set: common name=5-cholestene-3&beta;-ol}}
+{{#set: consumed by=RXN-12693}}
+{{#set: produced by=RXN66-323}}

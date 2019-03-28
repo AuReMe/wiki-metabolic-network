@@ -1,0 +1,62 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=FASYN-INITIAL-PWY FASYN-INITIAL-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33084 TAX-33084]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** superpathway of fatty acid biosynthesis initiation (E. coli)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''8''' reactions in the full pathway
+* [[3-OXOACYL-ACP-SYNTH-BASE-RXN]]
+** 9 associated gene(s):
+*** [[Tiso_gene_5939]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_14485]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_15991]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_19302]]
+*** [[Tiso_gene_10876]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[ACP-S-ACETYLTRANSFER-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_15991]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_10876]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[PWY-4381]]
+** 0 associated gene:
+* [[PWY-5965]]
+** 0 associated gene:
+* [[PWY-5966]]
+** 0 associated gene:
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=FASYN-INITIAL-PWY FASYN-INITIAL-PWY]
+{{#set: taxonomic range=TAX-33084}}
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=superpathway of fatty acid biosynthesis initiation (E. coli)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=8}}
+{{#set: completion rate=63.0}}

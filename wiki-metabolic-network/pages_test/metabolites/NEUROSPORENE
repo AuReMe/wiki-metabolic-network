@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=NEUROSPORENE NEUROSPORENE] ==
+* smiles:
+** CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(CCC=C(CCC=C(C)C)C)C)C)C)C)C)C
+* common name:
+** all-trans neurosporene
+* inchi key:
+** InChIKey=ATCICVFRSJQYDV-XILUKMICSA-N
+* molecular weight:
+** 538.898    
+* Synonym(s):
+** 7,8-dihydro-&psi;,&psi;-carotene
+** neurosporene
+
+== Reaction(s) known to consume the compound ==
+* [[R96]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-8022]]
+* [[R95]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-8038]]
+* [[RXN-8040]]
+== External links  ==
+* LIPID_MAPS : LMPR01070086
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280789 5280789]
+* HMDB : HMDB03114
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05431 C05431]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444347.html 4444347]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16833 16833]
+{{#set: smiles=CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C=CC=C(CCC=C(CCC=C(C)C)C)C)C)C)C)C)C}}
+{{#set: common name=all-trans neurosporene}}
+{{#set: inchi key=InChIKey=ATCICVFRSJQYDV-XILUKMICSA-N}}
+{{#set: molecular weight=538.898    }}
+{{#set: common name=7,8-dihydro-&psi;,&psi;-carotene|neurosporene}}
+{{#set: consumed by=R96}}
+{{#set: produced by=RXN-8022|R95}}
+{{#set: reversible reaction associated=RXN-8038|RXN-8040}}

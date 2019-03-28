@@ -1,0 +1,89 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-2221 PWY-2221] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183963 TAX-183963]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183924 TAX-183924]
+* common name:
+** Entner-Doudoroff pathway III (semi-phosphorylative)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''9''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[3PGAREARR-RXN]]
+** 16 associated gene(s):
+*** [[Tiso_gene_15048]]
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16754]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_5468]]
+*** [[Tiso_gene_20311]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_15391]]
+*** [[Tiso_gene_14212]]
+*** [[Tiso_gene_10516]]
+*** [[Tiso_gene_9923]]
+*** [[Tiso_gene_2667]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUCONOLACT-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_1947]]
+*** [[Tiso_gene_15098]]
+*** [[Tiso_gene_1948]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[KDPGALDOL-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12620]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[PEPDEPHOS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_18206]]
+*** [[Tiso_gene_14504]]
+*** [[Tiso_gene_974]]
+*** [[Tiso_gene_14505]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DEOXYGLUCONOKIN-RXN DEOXYGLUCONOKIN-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCONATE-DEHYDRATASE-RXN GLUCONATE-DEHYDRATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLUCOSE-1-DEHYDROGENASE-NADP+-RXN GLUCOSE-1-DEHYDROGENASE-NADP+-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-3443 RXN-3443]
+== External links  ==
+{{#set: taxonomic range=TAX-183963}}
+{{#set: taxonomic range=TAX-183924}}
+{{#set: common name=Entner-Doudoroff pathway III (semi-phosphorylative)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=9}}
+{{#set: completion rate=56.0}}

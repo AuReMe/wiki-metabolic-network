@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-OCTAPRENYL-6-HYDROXYPHENOL 2-OCTAPRENYL-6-HYDROXYPHENOL] ==
+* smiles:
+** CC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCC1(C(O)=C(O)C=CC=1))C)C)C)C)C)C)C)C
+* common name:
+** 3-(all-trans-octaprenyl)benzene-1,2-diol
+* inchi key:
+** InChIKey=YNPGYMZVNLIZLD-BQFKTQOQSA-N
+* molecular weight:
+** 655.058    
+* Synonym(s):
+** 2-octaprenyl-6-hydroxyphenol
+
+== Reaction(s) known to consume the compound ==
+* [[2-OCTAPRENYL-6-OHPHENOL-METHY-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280833 5280833]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444382.html 4444382]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=1233 1233]
+* BIGG : 2ohph
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05811 C05811]
+{{#set: smiles=CC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCCC(=CCC1(C(O)=C(O)C=CC=1))C)C)C)C)C)C)C)C}}
+{{#set: common name=3-(all-trans-octaprenyl)benzene-1,2-diol}}
+{{#set: inchi key=InChIKey=YNPGYMZVNLIZLD-BQFKTQOQSA-N}}
+{{#set: molecular weight=655.058    }}
+{{#set: common name=2-octaprenyl-6-hydroxyphenol}}
+{{#set: consumed by=2-OCTAPRENYL-6-OHPHENOL-METHY-RXN}}

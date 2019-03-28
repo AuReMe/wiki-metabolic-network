@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LUTEOLIN-7-O-BETA-D-GLUCURONOSYL-1-2 LUTEOLIN-7-O-BETA-D-GLUCURONOSYL-1-2] ==
+* smiles:
+** C(C6(OC(OC5(=CC=C(C1(OC4(C(C(C=1)=O)=C(C=C(OC2(C(C(C(C(C([O-])=O)O2)O)O)OC3(OC(C(C(C3O)O)O)C([O-])=O)))C=4)O)))C=C5O))C(C(C6O)O)O))(=O)[O-]
+* common name:
+** luteolin 7-O-[&beta;-D-glucosyluronate-(1,2)-&beta;-D-glucosiduronate]-4'-O-&beta;-D-glucosiduronate
+* inchi key:
+** InChIKey=AEYXZGCDWDUIKX-OFFAAIFBSA-K
+* molecular weight:
+** 811.593    
+* Synonym(s):
+** luteolin 7-O-[&beta;-D-glucosyluronate-(1->2)-&beta;-D-glucuronide]-4'-O-&beta;-D-glucuronide
+** luteolin triglucuronide
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15289]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878438 46878438]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58678 58678]
+* HMDB : HMDB60296
+{{#set: smiles=C(C6(OC(OC5(=CC=C(C1(OC4(C(C(C=1)=O)=C(C=C(OC2(C(C(C(C(C([O-])=O)O2)O)O)OC3(OC(C(C(C3O)O)O)C([O-])=O)))C=4)O)))C=C5O))C(C(C6O)O)O))(=O)[O-]}}
+{{#set: common name=luteolin 7-O-[&beta;-D-glucosyluronate-(1,2)-&beta;-D-glucosiduronate]-4'-O-&beta;-D-glucosiduronate}}
+{{#set: inchi key=InChIKey=AEYXZGCDWDUIKX-OFFAAIFBSA-K}}
+{{#set: molecular weight=811.593    }}
+{{#set: common name=luteolin 7-O-[&beta;-D-glucosyluronate-(1->2)-&beta;-D-glucuronide]-4'-O-&beta;-D-glucuronide|luteolin triglucuronide}}
+{{#set: consumed by=RXN-15289}}

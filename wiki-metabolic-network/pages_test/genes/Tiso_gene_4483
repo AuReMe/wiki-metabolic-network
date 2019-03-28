@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4483 ==
+* right end position:
+** 14707
+* transcription direction:
+** POSITIVE
+* left end position:
+** 12130
+* centisome position:
+** 81.98716    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-5021]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14707}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=12130}}
+{{#set: centisome position=81.98716    }}
+{{#set: reaction associated=RXN0-5021}}

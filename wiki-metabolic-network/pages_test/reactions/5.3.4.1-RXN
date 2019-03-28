@@ -1,0 +1,110 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=5.3.4.1-RXN 5.3.4.1-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** nucleoredoxin
+** ORF
+** probable_protein_disulfide-isomerase
+* ec number:
+** [http://enzyme.expasy.org/EC/5.3.4.1 EC-5.3.4.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Proteins-with-incorrect-disulfides]][c] '''<=>''' 1 [[Proteins-with-correct-disulfides]][c]
+* With common name(s):
+** 1 a protein with incorrect disulfide bonds[c] '''<=>''' 1 a protein with correct disulfide bonds[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7350]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_4244]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15704]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4246]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_475]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_14313]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P13667 P13667]
+** [http://www.uniprot.org/uniprot/P11598 P11598]
+** [http://www.uniprot.org/uniprot/P21195 P21195]
+** [http://www.uniprot.org/uniprot/P0AEG4 P0AEG4]
+** [http://www.uniprot.org/uniprot/P29828 P29828]
+** [http://www.uniprot.org/uniprot/P32557 P32557]
+** [http://www.uniprot.org/uniprot/Q27780 Q27780]
+** [http://www.uniprot.org/uniprot/P31810 P31810]
+** [http://www.uniprot.org/uniprot/Q9PDE2 Q9PDE2]
+** [http://www.uniprot.org/uniprot/O27777 O27777]
+** [http://www.uniprot.org/uniprot/Q9JSN7 Q9JSN7]
+** [http://www.uniprot.org/uniprot/P45111 P45111]
+** [http://www.uniprot.org/uniprot/P0AEG6 P0AEG6]
+** [http://www.uniprot.org/uniprot/O68904 O68904]
+** [http://www.uniprot.org/uniprot/Q9PCE7 Q9PCE7]
+** [http://www.uniprot.org/uniprot/Q9PDF5 Q9PDF5]
+** [http://www.uniprot.org/uniprot/Q9JSY5 Q9JSY5]
+** [http://www.uniprot.org/uniprot/Q9KPF0 Q9KPF0]
+** [http://www.uniprot.org/uniprot/P95460 P95460]
+** [http://www.uniprot.org/uniprot/P05307 P05307]
+** [http://www.uniprot.org/uniprot/P17967 P17967]
+** [http://www.uniprot.org/uniprot/P09102 P09102]
+** [http://www.uniprot.org/uniprot/P07237 P07237]
+** [http://www.uniprot.org/uniprot/P08003 P08003]
+** [http://www.uniprot.org/uniprot/Q922C8 Q922C8]
+** [http://www.uniprot.org/uniprot/P04785 P04785]
+** [http://www.uniprot.org/uniprot/P55059 P55059]
+** [http://www.uniprot.org/uniprot/Q27553 Q27553]
+** [http://www.uniprot.org/uniprot/P30101 P30101]
+** [http://www.uniprot.org/uniprot/Q7M1Q4 Q7M1Q4]
+** [http://www.uniprot.org/uniprot/Q04815 Q04815]
+** [http://www.uniprot.org/uniprot/P39691 P39691]
+** [http://www.uniprot.org/uniprot/P34329 P34329]
+** [http://www.uniprot.org/uniprot/Q12730 Q12730]
+** [http://www.uniprot.org/uniprot/Q43116 Q43116]
+** [http://www.uniprot.org/uniprot/Q9TWZ1 Q9TWZ1]
+** [http://www.uniprot.org/uniprot/P52588 P52588]
+** [http://www.uniprot.org/uniprot/Q17967 Q17967]
+** [http://www.uniprot.org/uniprot/P52234 P52234]
+** [http://www.uniprot.org/uniprot/O22263 O22263]
+** [http://www.uniprot.org/uniprot/P93358 P93358]
+** [http://www.uniprot.org/uniprot/P80284 P80284]
+** [http://www.uniprot.org/uniprot/P52589 P52589]
+** [http://www.uniprot.org/uniprot/O48949 O48949]
+** [http://www.uniprot.org/uniprot/P38661 P38661]
+** [http://www.uniprot.org/uniprot/O13704 O13704]
+** [http://www.uniprot.org/uniprot/O13811 O13811]
+** [http://www.uniprot.org/uniprot/Q10057 Q10057]
+** [http://www.uniprot.org/uniprot/Q92249 Q92249]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=nucleoredoxin}}
+{{#set: common name=ORF}}
+{{#set: common name=probable_protein_disulfide-isomerase}}
+{{#set: ec number=EC-5.3.4.1}}
+{{#set: gene associated=Tiso_gene_7350|Tiso_gene_4244|Tiso_gene_15704|Tiso_gene_4246|Tiso_gene_475|Tiso_gene_14313}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_694 ==
+* right end position:
+** 29764
+* transcription direction:
+** POSITIVE
+* left end position:
+** 27055
+* centisome position:
+** 90.73987    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=29764}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=27055}}
+{{#set: centisome position=90.73987    }}
+{{#set: reaction associated=ADENYL-KIN-RXN}}
+{{#set: pathway associated=PWY-7219}}

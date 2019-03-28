@@ -1,0 +1,33 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6949 PWY-6949] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3398 TAX-3398]
+* common name:
+** DIBOA-glucoside biosynthesis
+* Synonym(s):
+** DIBOA biosynthesis
+** DIBOA-Glc biosynthesis
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''6''' reactions in the full pathway
+* [[RXN0-2381]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17207]]
+*** [[Tiso_gene_4604]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6681 RXN-6681]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6682 RXN-6682]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6683 RXN-6683]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6684 RXN-6684]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7021 RXN-7021]
+== External links  ==
+{{#set: taxonomic range=TAX-3398}}
+{{#set: common name=DIBOA-glucoside biosynthesis}}
+{{#set: common name=DIBOA biosynthesis|DIBOA-Glc biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=6}}
+{{#set: completion rate=17.0}}

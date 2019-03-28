@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18014 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[R00476]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[UDPNACETYLMURAMATEDEHYDROG-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6386]]
+* [[PWY-6387]]
+== External links  ==
+{{#set: reaction associated=R00476|UDPNACETYLMURAMATEDEHYDROG-RXN}}
+{{#set: pathway associated=PWY-6386|PWY-6387}}

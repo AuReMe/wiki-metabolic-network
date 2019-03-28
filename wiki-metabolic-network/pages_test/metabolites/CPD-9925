@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9925 CPD-9925] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(C2(C=C(O)C1(=CC=CC=C1C(O)=2)))=O)COP(=O)(OP(=O)(OCC3(C(OP([O-])(=O)[O-])C(O)C(O3)N5(C4(=C(C(N)=NC=N4)N=C5))))[O-])[O-]
+* common name:
+** 1,4-dihydroxy-2-naphthoyl-CoA
+* inchi key:
+** InChIKey=PYTINLGPKDJURZ-HSJNEKGZSA-J
+* molecular weight:
+** 949.669    
+* Synonym(s):
+** 1,4-dihydroxy-2-naphthoate-CoA
+** DHNA-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[NAPHTHOATE-SYN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878473 46878473]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58897 58897]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15547 C15547]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(C2(C=C(O)C1(=CC=CC=C1C(O)=2)))=O)COP(=O)(OP(=O)(OCC3(C(OP([O-])(=O)[O-])C(O)C(O3)N5(C4(=C(C(N)=NC=N4)N=C5))))[O-])[O-]}}
+{{#set: common name=1,4-dihydroxy-2-naphthoyl-CoA}}
+{{#set: inchi key=InChIKey=PYTINLGPKDJURZ-HSJNEKGZSA-J}}
+{{#set: molecular weight=949.669    }}
+{{#set: common name=1,4-dihydroxy-2-naphthoate-CoA|DHNA-CoA}}
+{{#set: produced by=NAPHTHOATE-SYN-RXN}}

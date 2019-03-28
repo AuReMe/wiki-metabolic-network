@@ -1,0 +1,28 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14381 RXN-14381] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[D-form-FeS-Cluster-Scaffold-Proteins]][c] '''+''' 1 [[Persulfurated-L-cysteine-desulfurases]][c] '''=>''' 1 [[S-CD-Apo-SP-Complex]][c]
+* With common name(s):
+** 1 a [disordered-form [Fe-S] cluster scaffold protein][c] '''+''' 1 an S-sulfanyl-[L-cysteine desulfurase][c] '''=>''' 1 an S-sulfanyl-[cysteine desulfurase]-[disordered-form scaffold protein] complex[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7250]], [2Fe-2S] iron-sulfur cluster biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7250 PWY-7250]
+** '''10''' reactions found over '''10''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-7250}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

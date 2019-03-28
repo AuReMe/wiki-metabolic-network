@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16385 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-10039]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6281]]
+== External links  ==
+{{#set: reaction associated=RXN-10039}}
+{{#set: pathway associated=PWY-6281}}

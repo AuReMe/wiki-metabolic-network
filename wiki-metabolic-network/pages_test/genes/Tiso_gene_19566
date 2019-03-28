@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19566 ==
+* right end position:
+** 2180
+* transcription direction:
+** POSITIVE
+* left end position:
+** 57
+* centisome position:
+** 2.5664115    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-9615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2180}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=57}}
+{{#set: centisome position=2.5664115    }}
+{{#set: reaction associated=RXN-9615}}

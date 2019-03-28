@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13081 ==
+* right end position:
+** 5970
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2463
+* centisome position:
+** 37.62603    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPARTATE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=5970}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2463}}
+{{#set: centisome position=37.62603    }}
+{{#set: reaction associated=ASPARTATE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

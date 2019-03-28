@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=INDOLE-3-GLYCOL INDOLE-3-GLYCOL] ==
+* smiles:
+** C2(=C(C1(C=CC=CC=1N2))C(O)CO)
+* common name:
+** indole-3-glycol
+* inchi key:
+** InChIKey=XNJDZRGYWQBBMZ-UHFFFAOYSA-N
+* molecular weight:
+** 177.202    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-5424]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202910 25202910]
+{{#set: smiles=C2(=C(C1(C=CC=CC=1N2))C(O)CO)}}
+{{#set: common name=indole-3-glycol}}
+{{#set: inchi key=InChIKey=XNJDZRGYWQBBMZ-UHFFFAOYSA-N}}
+{{#set: molecular weight=177.202    }}
+{{#set: produced by=RXN-5424}}

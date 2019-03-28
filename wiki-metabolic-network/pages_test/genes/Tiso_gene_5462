@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5462 ==
+* right end position:
+** 11990
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11309
+* centisome position:
+** 84.18193    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[13-BETA-GLUCAN-SYNTHASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6773]]
+== External links  ==
+{{#set: right end position=11990}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11309}}
+{{#set: centisome position=84.18193    }}
+{{#set: reaction associated=13-BETA-GLUCAN-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY-6773}}

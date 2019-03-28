@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4171 ==
+* right end position:
+** 11971
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10170
+* centisome position:
+** 66.62736    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-922]]
+* [[PWY-7391]]
+== External links  ==
+{{#set: right end position=11971}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10170}}
+{{#set: centisome position=66.62736    }}
+{{#set: reaction associated=DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN}}
+{{#set: pathway associated=PWY-922|PWY-7391}}

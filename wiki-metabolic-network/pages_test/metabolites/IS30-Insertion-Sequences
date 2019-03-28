@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=IS30-Insertion-Sequences IS30-Insertion-Sequences] ==
+* common name:
+** an insertion sequence element IS30
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN0-5131]]
+== External links  ==
+{{#set: common name=an insertion sequence element IS30}}
+{{#set: reversible reaction associated=RXN0-5131}}

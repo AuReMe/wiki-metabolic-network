@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CHOLINE CHOLINE] ==
+* smiles:
+** C(CO)[N+](C)(C)C
+* common name:
+** choline
+* inchi key:
+** InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N
+* molecular weight:
+** 104.172    
+* Synonym(s):
+** (2-hydroxyethyl)trimethylammonium
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-7230]]
+* [[2.3.1.91-RXN]]
+* [[2.7.8.24-RXN]]
+* [[CHOLINE-KINASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-17758]]
+* [[ACETYLCHOLINESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[CHD-RXN]]
+== External links  ==
+* CAS : 62-49-7
+* CAS : 123-41-1
+* Wikipedia : Choline
+* BIGG : chol
+* DRUGBANK : DB00122
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=305 305]
+* HMDB : HMDB00097
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00114 C00114]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.299.html 299]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15354 15354]
+* METABOLIGHTS : MTBLC15354
+{{#set: smiles=C(CO)[N+](C)(C)C}}
+{{#set: common name=choline}}
+{{#set: inchi key=InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N}}
+{{#set: molecular weight=104.172    }}
+{{#set: common name=(2-hydroxyethyl)trimethylammonium}}
+{{#set: consumed by=RXN0-7230|2.3.1.91-RXN|2.7.8.24-RXN|CHOLINE-KINASE-RXN}}
+{{#set: produced by=RXN-17758|ACETYLCHOLINESTERASE-RXN}}
+{{#set: reversible reaction associated=CHD-RXN}}

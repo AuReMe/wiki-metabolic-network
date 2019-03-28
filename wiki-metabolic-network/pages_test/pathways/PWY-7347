@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7347 PWY-7347] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-32011 TAX-32011]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40222 TAX-40222]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-429 TAX-429]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-39773 TAX-39773]
+* common name:
+** sucrose biosynthesis III
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[PGLUCISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19480]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[SUCROSE-PHOSPHATE-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14247]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=SUCROSE-PHOSPHATASE-RXN SUCROSE-PHOSPHATASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-32011}}
+{{#set: taxonomic range=TAX-40222}}
+{{#set: taxonomic range=TAX-429}}
+{{#set: taxonomic range=TAX-39773}}
+{{#set: common name=sucrose biosynthesis III}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

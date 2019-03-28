@@ -1,0 +1,51 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.6.1.41-RXN 3.6.1.41-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** metallophosphatase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.1.41 EC-3.6.1.41]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ADENOSYL-P4]][c] '''+''' 1 [[WATER]][c] '''=>''' 2 [[PROTON]][c] '''+''' 2 [[ADP]][c]
+* With common name(s):
+** 1 5',5'''-diadenosine tetraphosphate[c] '''+''' 1 H2O[c] '''=>''' 2 H+[c] '''+''' 2 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19348]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19347]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6311]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=24252 24252]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00125 R00125]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P05637 P05637]
+** [http://www.uniprot.org/uniprot/P44751 P44751]
+** [http://www.uniprot.org/uniprot/Q9JVF4 Q9JVF4]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=metallophosphatase}}
+{{#set: ec number=EC-3.6.1.41}}
+{{#set: gene associated=Tiso_gene_19348|Tiso_gene_19347|Tiso_gene_6311}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

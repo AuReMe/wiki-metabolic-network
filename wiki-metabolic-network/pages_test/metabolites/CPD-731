@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-731 CPD-731] ==
+* smiles:
+** CCC=CCC1(C(=O)CCC1CC([O-])=O)
+* common name:
+** (+)-7-iso-jasmonate
+* inchi key:
+** InChIKey=ZNJFBWYDHIGLCU-QKMQQOOLSA-M
+* molecular weight:
+** 209.264    
+* Synonym(s):
+** (+)-7-iso-jasmonic acid
+** iso-jasmonic acid
+** (3R,7S)-(+)-7-iso-jasmonate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10708]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMFA02020003
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7251182 7251182]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5584838.html 5584838]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=18435 18435]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16317 C16317]
+{{#set: smiles=CCC=CCC1(C(=O)CCC1CC([O-])=O)}}
+{{#set: common name=(+)-7-iso-jasmonate}}
+{{#set: inchi key=InChIKey=ZNJFBWYDHIGLCU-QKMQQOOLSA-M}}
+{{#set: molecular weight=209.264    }}
+{{#set: common name=(+)-7-iso-jasmonic acid|iso-jasmonic acid|(3R,7S)-(+)-7-iso-jasmonate}}
+{{#set: produced by=RXN-10708}}

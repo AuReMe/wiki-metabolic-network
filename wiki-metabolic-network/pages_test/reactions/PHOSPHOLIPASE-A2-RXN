@@ -1,0 +1,179 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHOLIPASE-A2-RXN PHOSPHOLIPASE-A2-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** abhydrolase_domain-containing_protein_4-like
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.4 EC-3.1.1.4]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[PHOSPHATIDYLCHOLINE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[Long-Chain-Fatty-Acids]][c] '''+''' 1 [[2-Lysophosphatidylcholines]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a phosphatidylcholine[c] '''=>''' 1 H+[c] '''+''' 1 a long-chain fatty acid[c] '''+''' 1 a 1-acyl-sn-glycero-3-phosphocholine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15047]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12960]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15046]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12959]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6803]], phosphatidylcholine acyl editing: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6803 PWY-6803]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[LIPASYN-PWY]], phospholipases: [http://metacyc.org/META/NEW-IMAGE?object=LIPASYN-PWY LIPASYN-PWY]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15801 15801]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01313 R01313]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P04362 P04362]
+** [http://www.uniprot.org/uniprot/Q7M335 Q7M335]
+** [http://www.uniprot.org/uniprot/P14424 P14424]
+** [http://www.uniprot.org/uniprot/P14418 P14418]
+** [http://www.uniprot.org/uniprot/P19000 P19000]
+** [http://www.uniprot.org/uniprot/Q7M3E5 Q7M3E5]
+** [http://www.uniprot.org/uniprot/P14420 P14420]
+** [http://www.uniprot.org/uniprot/P20258 P20258]
+** [http://www.uniprot.org/uniprot/P14423 P14423]
+** [http://www.uniprot.org/uniprot/Q7LZG4 Q7LZG4]
+** [http://www.uniprot.org/uniprot/P20250 P20250]
+** [http://www.uniprot.org/uniprot/P21790 P21790]
+** [http://www.uniprot.org/uniprot/P21789 P21789]
+** [http://www.uniprot.org/uniprot/P81480 P81480]
+** [http://www.uniprot.org/uniprot/P47712 P47712]
+** [http://www.uniprot.org/uniprot/P20476 P20476]
+** [http://www.uniprot.org/uniprot/P24644 P24644]
+** [http://www.uniprot.org/uniprot/P81478 P81478]
+** [http://www.uniprot.org/uniprot/P06859 P06859]
+** [http://www.uniprot.org/uniprot/P39877 P39877]
+** [http://www.uniprot.org/uniprot/P48076 P48076]
+** [http://www.uniprot.org/uniprot/Q7M442 Q7M442]
+** [http://www.uniprot.org/uniprot/P18997 P18997]
+** [http://www.uniprot.org/uniprot/P20259 P20259]
+** [http://www.uniprot.org/uniprot/P20251 P20251]
+** [http://www.uniprot.org/uniprot/P21791 P21791]
+** [http://www.uniprot.org/uniprot/P81479 P81479]
+** [http://www.uniprot.org/uniprot/P51972 P51972]
+** [http://www.uniprot.org/uniprot/Q7M4I6 Q7M4I6]
+** [http://www.uniprot.org/uniprot/Q7M4I5 Q7M4I5]
+** [http://www.uniprot.org/uniprot/P14421 P14421]
+** [http://www.uniprot.org/uniprot/P20260 P20260]
+** [http://www.uniprot.org/uniprot/P20252 P20252]
+** [http://www.uniprot.org/uniprot/P21792 P21792]
+** [http://www.uniprot.org/uniprot/Q7LZQ5 Q7LZQ5]
+** [http://www.uniprot.org/uniprot/P20253 P20253]
+** [http://www.uniprot.org/uniprot/P20381 P20381]
+** [http://www.uniprot.org/uniprot/Q7LZQ7 Q7LZQ7]
+** [http://www.uniprot.org/uniprot/P20254 P20254]
+** [http://www.uniprot.org/uniprot/P20255 P20255]
+** [http://www.uniprot.org/uniprot/Q92147 Q92147]
+** [http://www.uniprot.org/uniprot/P20256 P20256]
+** [http://www.uniprot.org/uniprot/P20257 P20257]
+** [http://www.uniprot.org/uniprot/P47711 P47711]
+** [http://www.uniprot.org/uniprot/P31482 P31482]
+** [http://www.uniprot.org/uniprot/P62023 P62023]
+** [http://www.uniprot.org/uniprot/P11407 P11407]
+** [http://www.uniprot.org/uniprot/P18999 P18999]
+** [http://www.uniprot.org/uniprot/O42187 O42187]
+** [http://www.uniprot.org/uniprot/Q98996 Q98996]
+** [http://www.uniprot.org/uniprot/Q9NP80 Q9NP80]
+** [http://www.uniprot.org/uniprot/P14615 P14615]
+** [http://www.uniprot.org/uniprot/P25498 P25498]
+** [http://www.uniprot.org/uniprot/Q7M3V4 Q7M3V4]
+** [http://www.uniprot.org/uniprot/Q7M334 Q7M334]
+** [http://www.uniprot.org/uniprot/Q7M1V0 Q7M1V0]
+** [http://www.uniprot.org/uniprot/P24606 P24606]
+** [http://www.uniprot.org/uniprot/P04417 P04417]
+** [http://www.uniprot.org/uniprot/P00621 P00621]
+** [http://www.uniprot.org/uniprot/P00620 P00620]
+** [http://www.uniprot.org/uniprot/P00622 P00622]
+** [http://www.uniprot.org/uniprot/P00593 P00593]
+** [http://www.uniprot.org/uniprot/P06596 P06596]
+** [http://www.uniprot.org/uniprot/P00610 P00610]
+** [http://www.uniprot.org/uniprot/P16354 P16354]
+** [http://www.uniprot.org/uniprot/P00630 P00630]
+** [http://www.uniprot.org/uniprot/P00594 P00594]
+** [http://www.uniprot.org/uniprot/P04054 P04054]
+** [http://www.uniprot.org/uniprot/P14555 P14555]
+** [http://www.uniprot.org/uniprot/P00606 P00606]
+** [http://www.uniprot.org/uniprot/P00618 P00618]
+** [http://www.uniprot.org/uniprot/P17934 P17934]
+** [http://www.uniprot.org/uniprot/P00627 P00627]
+** [http://www.uniprot.org/uniprot/P00628 P00628]
+** [http://www.uniprot.org/uniprot/P00629 P00629]
+** [http://www.uniprot.org/uniprot/P00611 P00611]
+** [http://www.uniprot.org/uniprot/P00612 P00612]
+** [http://www.uniprot.org/uniprot/P00613 P00613]
+** [http://www.uniprot.org/uniprot/P00602 P00602]
+** [http://www.uniprot.org/uniprot/P00599 P00599]
+** [http://www.uniprot.org/uniprot/P00603 P00603]
+** [http://www.uniprot.org/uniprot/P00600 P00600]
+** [http://www.uniprot.org/uniprot/P00604 P00604]
+** [http://www.uniprot.org/uniprot/P00601 P00601]
+** [http://www.uniprot.org/uniprot/P00598 P00598]
+** [http://www.uniprot.org/uniprot/P00609 P00609]
+** [http://www.uniprot.org/uniprot/P00608 P00608]
+** [http://www.uniprot.org/uniprot/P00614 P00614]
+** [http://www.uniprot.org/uniprot/P00616 P00616]
+** [http://www.uniprot.org/uniprot/P00592 P00592]
+** [http://www.uniprot.org/uniprot/P04416 P04416]
+** [http://www.uniprot.org/uniprot/P00595 P00595]
+** [http://www.uniprot.org/uniprot/P00623 P00623]
+** [http://www.uniprot.org/uniprot/P00624 P00624]
+** [http://www.uniprot.org/uniprot/P24027 P24027]
+** [http://www.uniprot.org/uniprot/P62022 P62022]
+** [http://www.uniprot.org/uniprot/P04055 P04055]
+** [http://www.uniprot.org/uniprot/P04056 P04056]
+** [http://www.uniprot.org/uniprot/P04057 P04057]
+** [http://www.uniprot.org/uniprot/P00625 P00625]
+** [http://www.uniprot.org/uniprot/P06860 P06860]
+** [http://www.uniprot.org/uniprot/P00626 P00626]
+** [http://www.uniprot.org/uniprot/P14422 P14422]
+** [http://www.uniprot.org/uniprot/P07037 P07037]
+** [http://www.uniprot.org/uniprot/P10116 P10116]
+** [http://www.uniprot.org/uniprot/P08873 P08873]
+** [http://www.uniprot.org/uniprot/P08872 P08872]
+** [http://www.uniprot.org/uniprot/P14411 P14411]
+** [http://www.uniprot.org/uniprot/P15445 P15445]
+** [http://www.uniprot.org/uniprot/P20474 P20474]
+** [http://www.uniprot.org/uniprot/P24605 P24605]
+** [http://www.uniprot.org/uniprot/P22640 P22640]
+** [http://www.uniprot.org/uniprot/P24293 P24293]
+** [http://www.uniprot.org/uniprot/P24294 P24294]
+** [http://www.uniprot.org/uniprot/P34180 P34180]
+** [http://www.uniprot.org/uniprot/P80003 P80003]
+** [http://www.uniprot.org/uniprot/P31854 P31854]
+** [http://www.uniprot.org/uniprot/P43434 P43434]
+** [http://www.uniprot.org/uniprot/Q7LZG3 Q7LZG3]
+** [http://www.uniprot.org/uniprot/P43318 P43318]
+** [http://www.uniprot.org/uniprot/Q90W39 Q90W39]
+** [http://www.uniprot.org/uniprot/Q10754 Q10754]
+** [http://www.uniprot.org/uniprot/Q10755 Q10755]
+** [http://www.uniprot.org/uniprot/Q10756 Q10756]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=abhydrolase_domain-containing_protein_4-like}}
+{{#set: ec number=EC-3.1.1.4}}
+{{#set: gene associated=Tiso_gene_15047|Tiso_gene_12960|Tiso_gene_15046|Tiso_gene_12959}}
+{{#set: in pathway=PWY-6803|LIPASYN-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

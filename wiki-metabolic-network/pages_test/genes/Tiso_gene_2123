@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2123 ==
+* right end position:
+** 6808
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 504
+* centisome position:
+** 2.4570982    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[MANNITOL-1-PHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-3881]]
+* [[PWY-6531]]
+== External links  ==
+{{#set: right end position=6808}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=504}}
+{{#set: centisome position=2.4570982    }}
+{{#set: reaction associated=MANNITOL-1-PHOSPHATASE-RXN}}
+{{#set: pathway associated=PWY-3881|PWY-6531}}

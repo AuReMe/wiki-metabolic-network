@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18459 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ALCOHOL-DEHYDROG-RXN]]
+** Source: [[orthology-synechocystis]]
+* Reaction: [[RETINOL-DEHYDROGENASE-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-10911]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-2962]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-9843]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-276]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-6061]]
+* [[PWY-6342]]
+* [[PWY66-21]]
+* [[ETOH-ACETYLCOA-ANA-PWY]]
+* [[PWY-7118]]
+* [[FERMENTATION-PWY]]
+* [[PWY-6333]]
+* [[PWY-5486]]
+* [[P161-PWY]]
+* [[P122-PWY]]
+* [[PWY-1801]]
+* [[PWY4LZ-257]]
+* [[PWY-5480]]
+* [[PWY-6587]]
+== External links  ==
+{{#set: reaction associated=ALCOHOL-DEHYDROG-RXN|RETINOL-DEHYDROGENASE-RXN|RXN-10911|RXN-2962|RXN-9843|RXN0-276}}
+{{#set: pathway associated=PWY-6061|PWY-6342|PWY66-21|ETOH-ACETYLCOA-ANA-PWY|PWY-7118|FERMENTATION-PWY|PWY-6333|PWY-5486|P161-PWY|P122-PWY|PWY-1801|PWY4LZ-257|PWY-5480|PWY-6587}}

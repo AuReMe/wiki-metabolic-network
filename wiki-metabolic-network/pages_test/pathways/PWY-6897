@@ -1,0 +1,38 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6897 PWY-6897] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** thiamine salvage II
+* Synonym(s):
+** thiamin salvage II
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6910]]
+** 0 associated gene:
+* [[THI-P-SYN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_10320]]
+*** [[Tiso_gene_2159]]
+*** [[Tiso_gene_2160]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[THIAZOLSYN3-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3173]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=THI-P-KIN-RXN THI-P-KIN-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6897 PWY-6897]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=thiamine salvage II}}
+{{#set: common name=thiamin salvage II}}
+{{#set: reaction found=3}}
+{{#set: total reaction=5}}
+{{#set: completion rate=60.0}}

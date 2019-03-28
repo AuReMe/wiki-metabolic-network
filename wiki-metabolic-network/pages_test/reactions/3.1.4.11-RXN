@@ -1,0 +1,77 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.4.11-RXN 3.1.4.11-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** phospholipase_c_beta_4
+** 1-phosphatidylinositol-_-bisphosphate_phosphodiesterase_gamma-2
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.4.11 EC-3.1.4.11]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[INOSITOL-1-4-5-TRISPHOSPHATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[DIACYLGLYCEROL]][c]
+* With common name(s):
+** 1 a 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate[c] '''+''' 1 H2O[c] '''=>''' 1 D-myo-inositol (1,4,5)-trisphosphate[c] '''+''' 1 H+[c] '''+''' 1 a 1,2-diacyl-sn-glycerol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7561]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_12019]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12020]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6367]], D-myo-inositol-5-phosphate metabolism: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6367 PWY-6367]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6351]], D-myo-inositol (1,4,5)-trisphosphate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6351 PWY-6351]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-7039]], phosphatidate metabolism, as a signaling molecule: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7039 PWY-7039]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[LIPASYN-PWY]], phospholipases: [http://metacyc.org/META/NEW-IMAGE?object=LIPASYN-PWY LIPASYN-PWY]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03435 R03435]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P10687 P10687]
+** [http://www.uniprot.org/uniprot/P10894 P10894]
+** [http://www.uniprot.org/uniprot/P10686 P10686]
+** [http://www.uniprot.org/uniprot/P24135 P24135]
+** [http://www.uniprot.org/uniprot/P19174 P19174]
+** [http://www.uniprot.org/uniprot/Q00722 Q00722]
+** [http://www.uniprot.org/uniprot/Q02158 Q02158]
+** [http://www.uniprot.org/uniprot/P32383 P32383]
+** [http://www.uniprot.org/uniprot/Q9TS13 Q9TS13]
+** [http://www.uniprot.org/uniprot/Q24284 Q24284]
+** [http://www.uniprot.org/uniprot/P51178 P51178]
+** [http://www.uniprot.org/uniprot/P10688 P10688]
+** [http://www.uniprot.org/uniprot/P10895 P10895]
+** [http://www.uniprot.org/uniprot/Q60450 Q60450]
+** [http://www.uniprot.org/uniprot/P08487 P08487]
+** [http://www.uniprot.org/uniprot/Q9STZ3 Q9STZ3]
+** [http://www.uniprot.org/uniprot/P40977 P40977]
+** [http://www.uniprot.org/uniprot/Q21754 Q21754]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=phospholipase_c_beta_4}}
+{{#set: common name=1-phosphatidylinositol-_-bisphosphate_phosphodiesterase_gamma-2}}
+{{#set: ec number=EC-3.1.4.11}}
+{{#set: gene associated=Tiso_gene_7561|Tiso_gene_12019|Tiso_gene_12020}}
+{{#set: in pathway=PWY-6367|PWY-6351|PWY-7039|LIPASYN-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

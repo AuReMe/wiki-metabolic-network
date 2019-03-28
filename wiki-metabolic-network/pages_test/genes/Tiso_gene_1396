@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1396 ==
+* right end position:
+** 15517
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10366
+* centisome position:
+** 43.405075    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[COENZYME-F420-HYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=15517}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10366}}
+{{#set: centisome position=43.405075    }}
+{{#set: reaction associated=COENZYME-F420-HYDROGENASE-RXN}}

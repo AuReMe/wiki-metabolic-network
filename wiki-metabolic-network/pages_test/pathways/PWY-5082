@@ -1,0 +1,30 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5082 PWY-5082] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** L-methionine degradation III
+* Synonym(s):
+** Ehrlich pathway
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-7706]]
+** 5 associated gene(s):
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_5425]]
+*** [[Tiso_gene_6562]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_6563]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7704 RXN-7704]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7708 RXN-7708]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=L-methionine degradation III}}
+{{#set: common name=Ehrlich pathway}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

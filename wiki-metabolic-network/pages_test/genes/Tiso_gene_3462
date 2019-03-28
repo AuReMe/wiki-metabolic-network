@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3462 ==
+* right end position:
+** 12757
+* transcription direction:
+** POSITIVE
+* left end position:
+** 10740
+* centisome position:
+** 64.46965    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN0-4261]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=12757}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=10740}}
+{{#set: centisome position=64.46965    }}
+{{#set: reaction associated=RXN0-4261}}

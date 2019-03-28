@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3449 ==
+* right end position:
+** 2711
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1702
+* centisome position:
+** 10.207508    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2711}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1702}}
+{{#set: centisome position=10.207508    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

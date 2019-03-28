@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-19488 CPD-19488] ==
+* smiles:
+** CSCCCCCCC(C(=O)C(=O)[O-])C(=O)[O-]
+* common name:
+** 3-isopropyl-9-(methylthio)-2-oxononanoate
+* inchi key:
+** InChIKey=PBYOKOGRHHZTHQ-UHFFFAOYSA-L
+* molecular weight:
+** 260.304    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-18203]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18202]]
+== External links  ==
+{{#set: smiles=CSCCCCCCC(C(=O)C(=O)[O-])C(=O)[O-]}}
+{{#set: common name=3-isopropyl-9-(methylthio)-2-oxononanoate}}
+{{#set: inchi key=InChIKey=PBYOKOGRHHZTHQ-UHFFFAOYSA-L}}
+{{#set: molecular weight=260.304    }}
+{{#set: consumed by=RXN-18203}}
+{{#set: reversible reaction associated=RXN-18202}}

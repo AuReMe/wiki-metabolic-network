@@ -1,0 +1,47 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7007 PWY-7007] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** methyl ketone biosynthesis (engineered)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''6''' reactions in the full pathway
+* [[ACYL-COA-OXIDASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18566]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[ENOYL-COA-HYDRAT-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_16145]]
+*** [[Tiso_gene_6885]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[OHACYL-COA-DEHYDROG-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_14027]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=BUTYRATE--COA-LIGASE-RXN BUTYRATE--COA-LIGASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13247 RXN-13247]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-13248 RXN-13248]
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=methyl ketone biosynthesis (engineered)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=6}}
+{{#set: completion rate=50.0}}

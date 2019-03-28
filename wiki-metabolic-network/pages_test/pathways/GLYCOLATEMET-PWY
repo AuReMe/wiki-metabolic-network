@@ -1,0 +1,31 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLATEMET-PWY GLYCOLATEMET-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** glycolate and glyoxylate degradation I
+* Synonym(s):
+** glycolate utilization I
+** glycolate degradation I
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''4''' reactions in the full pathway
+* [[RXN0-5289]]
+** 2 associated gene(s):
+*** [[Tiso_gene_777]]
+*** [[Tiso_gene_91]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GKI-RXN GKI-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLATEDEHYDRO-RXN GLYCOLATEDEHYDRO-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GLYOCARBOLIG-RXN GLYOCARBOLIG-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=GLYCOLATEMET-PWY GLYCOLATEMET-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=glycolate and glyoxylate degradation I}}
+{{#set: common name=glycolate utilization I|glycolate degradation I}}
+{{#set: reaction found=1}}
+{{#set: total reaction=4}}
+{{#set: completion rate=25.0}}

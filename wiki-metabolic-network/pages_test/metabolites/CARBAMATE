@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CARBAMATE CARBAMATE] ==
+* smiles:
+** C(=O)([O-])N
+* common name:
+** carbamate
+* inchi key:
+** InChIKey=KXDHJXZQYSOELW-UHFFFAOYSA-M
+* molecular weight:
+** 60.032    
+* Synonym(s):
+** carbamic acid
+** aminoformic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14196]]
+* [[RXN0-5222]]
+== Reaction(s) known to produce the compound ==
+* [[R524-RXN]]
+* [[RXN-16910]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=276 276]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.270.html 270]
+* HMDB : HMDB03551
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=13941 13941]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01563 C01563]
+{{#set: smiles=C(=O)([O-])N}}
+{{#set: common name=carbamate}}
+{{#set: inchi key=InChIKey=KXDHJXZQYSOELW-UHFFFAOYSA-M}}
+{{#set: molecular weight=60.032    }}
+{{#set: common name=carbamic acid|aminoformic acid}}
+{{#set: consumed by=RXN-14196|RXN0-5222}}
+{{#set: produced by=R524-RXN|RXN-16910}}

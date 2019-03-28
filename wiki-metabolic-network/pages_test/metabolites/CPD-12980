@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12980 CPD-12980] ==
+* common name:
+** an oligosaccharide with 4-deoxy-6-O-methyl-&alpha;-D-galact-4-enuronate end
+* Synonym(s):
+** 4-deoxy-6-O-methyl-&alpha;-D-galact-4-enuronoside
+** 4-deoxy-6-O-methyl-&alpha;-D-gluc-4-enuronoside
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[4.2.2.10-RXN]]
+== External links  ==
+{{#set: common name=an oligosaccharide with 4-deoxy-6-O-methyl-&alpha;-D-galact-4-enuronate end}}
+{{#set: common name=4-deoxy-6-O-methyl-&alpha;-D-galact-4-enuronoside|4-deoxy-6-O-methyl-&alpha;-D-gluc-4-enuronoside}}
+{{#set: reversible reaction associated=4.2.2.10-RXN}}

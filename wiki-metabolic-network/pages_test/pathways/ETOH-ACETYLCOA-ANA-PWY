@@ -1,0 +1,39 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=ETOH-ACETYLCOA-ANA-PWY ETOH-ACETYLCOA-ANA-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** ethanol degradation I
+* Synonym(s):
+** acetyl-CoA biosynthesis (from alcohol)
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[ACETALD-DEHYDROG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_2052]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+* [[ALCOHOL-DEHYDROG-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18459]]
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_5425]]
+*** [[Tiso_gene_6562]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=ETOH-ACETYLCOA-ANA-PWY ETOH-ACETYLCOA-ANA-PWY]
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=ethanol degradation I}}
+{{#set: common name=acetyl-CoA biosynthesis (from alcohol)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

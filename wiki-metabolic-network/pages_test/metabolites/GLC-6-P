@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLC-6-P GLC-6-P] ==
+* smiles:
+** C(C1(OC(C(C(C1O)O)O)O))OP([O-])([O-])=O
+* common name:
+** &beta;-D-glucose 6-phosphate
+* inchi key:
+** InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** &beta;-D-glucose-6-P
+
+== Reaction(s) known to consume the compound ==
+* [[G6PBDHh]]
+* [[RXN66-579]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[PGIB]]
+* [[GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN]]
+* [[G6PI]]
+* [[G6PB_pi_th]]
+* [[PGIBh]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21604865 21604865]
+* HMDB : HMDB03498
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01172 C01172]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10239176.html 10239176]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58247 58247]
+* BIGG : g6p
+{{#set: smiles=C(C1(OC(C(C(C1O)O)O)O))OP([O-])([O-])=O}}
+{{#set: common name=&beta;-D-glucose 6-phosphate}}
+{{#set: inchi key=InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=&beta;-D-glucose-6-P}}
+{{#set: consumed by=G6PBDHh|RXN66-579}}
+{{#set: reversible reaction associated=PGIB|GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN|G6PI|G6PB_pi_th|PGIBh}}

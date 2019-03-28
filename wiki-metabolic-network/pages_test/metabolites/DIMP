@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIMP DIMP] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(CC(O)1)N3(C=NC2(C(=O)NC=NC=23)))
+* common name:
+** dIMP
+* inchi key:
+** InChIKey=PHNGFPPXDJJADG-RRKCRQDMSA-L
+* molecular weight:
+** 330.193    
+* Synonym(s):
+** 2'-deoxy-IMP
+** 2'-deoxy-5'-inosinic acid
+** 2'-Deoxyinosine 5'-monophosphate
+** 2'-Deoxyinosine 5'-phosphate
+** 9-(2-deoxy-5-O-phosphono-&beta;-D-erythro-pentofuranosyl)-9H-purin-6-ol
+** Deoxyinosine monophosphate
+** Hypoxanthine deoxyriboside
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-1602]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : dimp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=22841129 22841129]
+* HMDB : HMDB06555
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C06196 C06196]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.18596798.html 18596798]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61194 61194]
+* METABOLIGHTS : MTBLC61194
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(CC(O)1)N3(C=NC2(C(=O)NC=NC=23)))}}
+{{#set: common name=dIMP}}
+{{#set: inchi key=InChIKey=PHNGFPPXDJJADG-RRKCRQDMSA-L}}
+{{#set: molecular weight=330.193    }}
+{{#set: common name=2'-deoxy-IMP|2'-deoxy-5'-inosinic acid|2'-Deoxyinosine 5'-monophosphate|2'-Deoxyinosine 5'-phosphate|9-(2-deoxy-5-O-phosphono-&beta;-D-erythro-pentofuranosyl)-9H-purin-6-ol|Deoxyinosine monophosphate|Hypoxanthine deoxyriboside}}
+{{#set: produced by=RXN0-1602}}

@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-10061 RXN-10061] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 3-hydroxycerotyl-[acp] dehydrase
+* ec number:
+** [http://enzyme.expasy.org/EC/4.2.1.59 EC-4.2.1.59]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[R-3-hydroxycerotoyl-ACPs]][c] '''=>''' 1 [[Trans-D2-hexacos-2-enoyl-ACPs]][c] '''+''' 1 [[WATER]][c]
+* With common name(s):
+** 1 a (3R)-3-hydroxycerotoyl-[acp][c] '''=>''' 1 a trans-hexacos-2-enoyl-[acp][c] '''+''' 1 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6884]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-6113]], superpathway of mycolate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6113 PWY-6113]
+** '''8''' reactions found over '''12''' reactions in the full pathway
+* [[PWYG-321]], mycolate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWYG-321 PWYG-321]
+** '''86''' reactions found over '''182''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=3-hydroxycerotyl-[acp] dehydrase}}
+{{#set: ec number=EC-4.2.1.59}}
+{{#set: gene associated=Tiso_gene_6884}}
+{{#set: in pathway=PWY-6113|PWYG-321}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

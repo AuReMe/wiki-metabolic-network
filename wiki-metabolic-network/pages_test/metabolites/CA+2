@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CA+2 CA+2] ==
+* smiles:
+** [Ca++]
+* common name:
+** Ca2+
+* inchi key:
+** InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
+* molecular weight:
+** 40.08    
+* Synonym(s):
+** Ca+2
+** Ca++
+** calcium ion
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_CA+2]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_CA+2]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_CA+2]]
+* [[3.6.3.8-RXN]]
+== External links  ==
+* BIGG : ca2
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=271 271]
+* HMDB : HMDB00464
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00076 C00076]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.266.html 266]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29108 29108]
+* METABOLIGHTS : MTBLC29108
+{{#set: smiles=[Ca++]}}
+{{#set: common name=Ca2+}}
+{{#set: inchi key=InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N}}
+{{#set: molecular weight=40.08    }}
+{{#set: common name=Ca+2|Ca++|calcium ion}}
+{{#set: consumed by=TransportSeed_CA+2}}
+{{#set: produced by=TransportSeed_CA+2}}
+{{#set: reversible reaction associated=ExchangeSeed_CA+2|3.6.3.8-RXN}}

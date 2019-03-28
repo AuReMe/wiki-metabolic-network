@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MI-HEXAKISPHOSPHATE MI-HEXAKISPHOSPHATE] ==
+* smiles:
+** C1(OP([O-])([O-])=O)(C(OP([O-])(=O)[O-])C(OP([O-])(=O)[O-])C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C(OP([O-])([O-])=O)1)
+* common name:
+** phytate
+* inchi key:
+** InChIKey=IMQLKJBTEOYOSI-GPIVLXJGSA-B
+* molecular weight:
+** 647.942    
+* Synonym(s):
+** phytic acid
+** 1D-myo-inositol 1,2,3,4,5,6-hexakisphosphate
+** myo-inositol hexakisphosphate
+** D-myo-Inositol 1,2,3,4,5,6-hexakisphosphate
+** myo-Inositol 1,2,3,4,5,6-hexakisphosphate
+** Inositol 1,2,3,4,5,6-hexakisphosphate
+** InsP6
+** 1D-myo-Inositol hexakisphosphate
+** IP6
+** inositol hexaphosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-7163]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* BIGG : minohp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=21584050 21584050]
+* HMDB : HMDB03502
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01204 C01204]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10618952.html 10618952]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58130 58130]
+* METABOLIGHTS : MTBLC58130
+{{#set: smiles=C1(OP([O-])([O-])=O)(C(OP([O-])(=O)[O-])C(OP([O-])(=O)[O-])C(OP(=O)([O-])[O-])C(OP(=O)([O-])[O-])C(OP([O-])([O-])=O)1)}}
+{{#set: common name=phytate}}
+{{#set: inchi key=InChIKey=IMQLKJBTEOYOSI-GPIVLXJGSA-B}}
+{{#set: molecular weight=647.942    }}
+{{#set: common name=phytic acid|1D-myo-inositol 1,2,3,4,5,6-hexakisphosphate|myo-inositol hexakisphosphate|D-myo-Inositol 1,2,3,4,5,6-hexakisphosphate|myo-Inositol 1,2,3,4,5,6-hexakisphosphate|Inositol 1,2,3,4,5,6-hexakisphosphate|InsP6|1D-myo-Inositol hexakisphosphate|IP6|inositol hexaphosphate}}
+{{#set: produced by=RXN-7163}}

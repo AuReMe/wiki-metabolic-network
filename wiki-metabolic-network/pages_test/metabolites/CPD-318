@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-318 CPD-318] ==
+* smiles:
+** C(O)C(O)[CH]1(C(O)=C(O)C(=O)O1)
+* common name:
+** monodehydroascorbate radical
+* inchi key:
+** InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-N
+* molecular weight:
+** 175.118    
+* Synonym(s):
+** monodehydroascorbic acid
+** semidehydroascorbic acid
+** semidehydroascorbate
+** ascorbyl radical
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-3523]]
+* [[1.6.5.4-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-10981]]
+* [[RXN-3521]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5483640 5483640]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16504 16504]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01041 C01041]
+{{#set: smiles=C(O)C(O)[CH]1(C(O)=C(O)C(=O)O1)}}
+{{#set: common name=monodehydroascorbate radical}}
+{{#set: inchi key=InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-N}}
+{{#set: molecular weight=175.118    }}
+{{#set: common name=monodehydroascorbic acid|semidehydroascorbic acid|semidehydroascorbate|ascorbyl radical}}
+{{#set: consumed by=RXN-3523|1.6.5.4-RXN}}
+{{#set: produced by=RXN-10981|RXN-3521}}

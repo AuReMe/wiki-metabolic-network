@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=R-3-hydroxyhexanoyl-ACPs R-3-hydroxyhexanoyl-ACPs] ==
+* common name:
+** a (3R)-3-hydroxyhexanoyl-[acp]
+* Synonym(s):
+** a &beta;-hydroxyhexanoyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9520]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9518]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a (3R)-3-hydroxyhexanoyl-[acp]}}
+{{#set: common name=a &beta;-hydroxyhexanoyl-[acp]}}
+{{#set: consumed by=RXN-9520}}
+{{#set: produced by=RXN-9518}}

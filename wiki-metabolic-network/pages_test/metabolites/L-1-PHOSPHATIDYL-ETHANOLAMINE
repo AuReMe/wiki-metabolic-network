@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=L-1-PHOSPHATIDYL-ETHANOLAMINE L-1-PHOSPHATIDYL-ETHANOLAMINE] ==
+* common name:
+** an L-1-phosphatidylethanolamine
+* Synonym(s):
+** a glycerophosphoethanolamine
+** a phosphatidylethanolamine
+** a 1-phosphatidylethanolamine
+** an L-1-phosphotidylethanolamine
+** a phosphatidylethenolamine
+** an O-(1-&beta;-acyl-2-acyl-sn-glycero-3-phospho)-ethanolamine
+** PtdEtn
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-6725]]
+== Reaction(s) known to produce the compound ==
+* [[PHOSPHASERDECARB-RXN]]
+* [[ETHANOLAMINEPHOSPHOTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an L-1-phosphatidylethanolamine}}
+{{#set: common name=a glycerophosphoethanolamine|a phosphatidylethanolamine|a 1-phosphatidylethanolamine|an L-1-phosphotidylethanolamine|a phosphatidylethenolamine|an O-(1-&beta;-acyl-2-acyl-sn-glycero-3-phospho)-ethanolamine|PtdEtn}}
+{{#set: consumed by=RXN0-6725}}
+{{#set: produced by=PHOSPHASERDECARB-RXN|ETHANOLAMINEPHOSPHOTRANSFERASE-RXN}}

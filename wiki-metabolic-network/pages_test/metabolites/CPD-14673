@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14673 CPD-14673] ==
+* smiles:
+** C(#N)CCC1(C=CC=CC=1)
+* common name:
+** 3-phenylpropionitrile
+* inchi key:
+** InChIKey=ACRWYXSKEHUQDB-UHFFFAOYSA-N
+* molecular weight:
+** 131.177    
+* Synonym(s):
+** benzenepropanenitrile
+** 2-phenylethyl cyanide
+** 3-phenylpropanonitril
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-18229]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=12581 12581]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.12061.html 12061]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=85426 85426]
+* HMDB : HMDB34236
+{{#set: smiles=C(#N)CCC1(C=CC=CC=1)}}
+{{#set: common name=3-phenylpropionitrile}}
+{{#set: inchi key=InChIKey=ACRWYXSKEHUQDB-UHFFFAOYSA-N}}
+{{#set: molecular weight=131.177    }}
+{{#set: common name=benzenepropanenitrile|2-phenylethyl cyanide|3-phenylpropanonitril}}
+{{#set: consumed by=RXN-18229}}

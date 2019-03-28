@@ -1,0 +1,47 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5055 RXN0-5055] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** Acetyl-CoA carboxylase 2
+** Acetyl-CoA carboxylase 1
+* ec number:
+** [http://enzyme.expasy.org/EC/6.4.1.2 EC-6.4.1.2]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[ACETYL-COA]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[Carboxybiotin-BCCP]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[Pi]][c] '''+''' 1 [[BCCP-dimers]][c] '''+''' 1 [[ADP]][c] '''+''' 1 [[MALONYL-COA]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 acetyl-CoA[c] '''+''' 1 H2O[c] '''+''' 1 a carboxylated-biotinylated [BCCP dimer][c] '''=>''' 1 H+[c] '''+''' 1 phosphate[c] '''+''' 1 a biotinylated [BCCP dimer][c] '''+''' 1 ADP[c] '''+''' 1 malonyl-CoA[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7965]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3800]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY0-1264]], biotin-carboxyl carrier protein assembly: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1264 PWY0-1264]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=Acetyl-CoA carboxylase 2}}
+{{#set: common name=Acetyl-CoA carboxylase 1}}
+{{#set: ec number=EC-6.4.1.2}}
+{{#set: gene associated=Tiso_gene_7965|Tiso_gene_3800}}
+{{#set: in pathway=PWY0-1264}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14025 ==
+* right end position:
+** 1272
+* transcription direction:
+** POSITIVE
+* left end position:
+** 245
+* centisome position:
+** 4.1581807    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1272}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=245}}
+{{#set: centisome position=4.1581807    }}
+{{#set: reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

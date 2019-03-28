@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16943 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-8626]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[PWY-5443]]
+== External links  ==
+{{#set: reaction associated=RXN-8626}}
+{{#set: pathway associated=PWY-5443}}

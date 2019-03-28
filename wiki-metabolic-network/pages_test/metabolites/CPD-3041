@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-3041 CPD-3041] ==
+* smiles:
+** C2(C=C(O)C=CC(C=CC(=O)C1(C(=CC(O)=CC=1)O))=2)
+* common name:
+** isoliquiritigenin
+* inchi key:
+** InChIKey=DXDRHHKMWQZJHT-FPYGCLRLSA-N
+* molecular weight:
+** 256.257    
+* Synonym(s):
+** 42'4'-trihydroxychalcone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-3221]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-3142]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* DRUGBANK : DB03285
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=638278 638278]
+* HMDB : HMDB37316
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C08650 C08650]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.553829.html 553829]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=310312 310312]
+* METABOLIGHTS : MTBLC310312
+{{#set: smiles=C2(C=C(O)C=CC(C=CC(=O)C1(C(=CC(O)=CC=1)O))=2)}}
+{{#set: common name=isoliquiritigenin}}
+{{#set: inchi key=InChIKey=DXDRHHKMWQZJHT-FPYGCLRLSA-N}}
+{{#set: molecular weight=256.257    }}
+{{#set: common name=42'4'-trihydroxychalcone}}
+{{#set: consumed by=RXN-3221}}
+{{#set: produced by=RXN-3142}}

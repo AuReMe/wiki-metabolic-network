@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-9446 CPD-9446] ==
+* smiles:
+** C(O)C1(OCC(O)C(O)C(O)1)
+* common name:
+** 1,5-anhydro-D-mannitol
+* inchi key:
+** InChIKey=MPCAJMNYNOGXPB-KVTDHHQDSA-N
+* molecular weight:
+** 164.158    
+* Synonym(s):
+** 1,5-anhydromannitol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13064]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=445184 445184]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.392897.html 392897]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=49182 49182]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16538 C16538]
+{{#set: smiles=C(O)C1(OCC(O)C(O)C(O)1)}}
+{{#set: common name=1,5-anhydro-D-mannitol}}
+{{#set: inchi key=InChIKey=MPCAJMNYNOGXPB-KVTDHHQDSA-N}}
+{{#set: molecular weight=164.158    }}
+{{#set: common name=1,5-anhydromannitol}}
+{{#set: consumed by=RXN-13064}}

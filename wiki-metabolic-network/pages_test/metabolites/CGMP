@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CGMP CGMP] ==
+* smiles:
+** C4(C3(C(C(C(N2(C1(=C(C(NC(=N1)N)=O)N=C2)))O3)O)OP(O4)(=O)[O-]))
+* common name:
+** cyclic-GMP
+* inchi key:
+** InChIKey=ZOOGRGPOEVQQDX-UUOKFMHZSA-M
+* molecular weight:
+** 344.2    
+* Synonym(s):
+** 3',5'-cyclic GMP
+** guanosine-cyclic-phosphoric-acid
+** cGMP
+** guanosine cyclic-monophosphate
+** guanosine 3',5'-cyclic-monophosphate
+** guanosine 3',5'-cyclic phosphate
+** cyclic 3',5'-guanosine monophosphate
+
+== Reaction(s) known to consume the compound ==
+* [[35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[GUANYLCYC-RXN]]
+== External links  ==
+* CAS : 7665-99-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=16727415 16727415]
+* HMDB : HMDB01314
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00942 C00942]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.20559156.html 20559156]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57746 57746]
+* METABOLIGHTS : MTBLC57746
+{{#set: smiles=C4(C3(C(C(C(N2(C1(=C(C(NC(=N1)N)=O)N=C2)))O3)O)OP(O4)(=O)[O-]))}}
+{{#set: common name=cyclic-GMP}}
+{{#set: inchi key=InChIKey=ZOOGRGPOEVQQDX-UUOKFMHZSA-M}}
+{{#set: molecular weight=344.2    }}
+{{#set: common name=3',5'-cyclic GMP|guanosine-cyclic-phosphoric-acid|cGMP|guanosine cyclic-monophosphate|guanosine 3',5'-cyclic-monophosphate|guanosine 3',5'-cyclic phosphate|cyclic 3',5'-guanosine monophosphate}}
+{{#set: consumed by=35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN}}
+{{#set: reversible reaction associated=GUANYLCYC-RXN}}

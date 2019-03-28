@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13799 ==
+* right end position:
+** 9278
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7217
+* centisome position:
+** 76.386536    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DOLICHYLDIPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=9278}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7217}}
+{{#set: centisome position=76.386536    }}
+{{#set: reaction associated=DOLICHYLDIPHOSPHATASE-RXN}}

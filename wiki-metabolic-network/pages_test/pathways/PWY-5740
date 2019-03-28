@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5740 PWY-5740] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** GDP-L-colitose biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''5''' reactions in the full pathway
+* [[GDPMANDEHYDRA-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_13093]]
+*** [[Tiso_gene_13092]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15217 RXN-15217]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15218 RXN-15218]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8954 RXN-8954]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8955 RXN-8955]
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=GDP-L-colitose biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=5}}
+{{#set: completion rate=20.0}}

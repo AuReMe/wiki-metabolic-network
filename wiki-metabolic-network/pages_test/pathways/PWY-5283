@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5283 PWY-5283] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** L-lysine degradation V
+* Synonym(s):
+** 2-aminoadipate pathway
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''9''' reactions in the full pathway
+* [[2-AMINOADIPATE-AMINOTRANSFERASE-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-8162]]
+** 1 associated gene(s):
+*** [[Tiso_gene_6563]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=L-PIPECOLATE-OXIDASE-RXN L-PIPECOLATE-OXIDASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=LYSINE-RACEMASE-RXN LYSINE-RACEMASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14724 RXN-14724]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8163 RXN-8163]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8166 RXN-8166]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8167 RXN-8167]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8172 RXN-8172]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=L-lysine degradation V}}
+{{#set: common name=2-aminoadipate pathway}}
+{{#set: reaction found=2}}
+{{#set: total reaction=9}}
+{{#set: completion rate=22.0}}

@@ -1,0 +1,69 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9951 RXN-9951] ==
+* direction:
+** REVERSIBLE
+* common name:
+** isocitrate dehydrogenase (NADP+)
+** ORF
+* Synonym(s):
+** oxalosuccinate decarboxylase
+** oxalsuccinic decarboxylase
+** isocitrate (NADP) dehydrogenase
+** isocitrate (nicotinamide adenine dinucleotide phosphate) dehydrogenase
+** NADP-specific isocitrate dehydrogenase
+** NADP-linked isocitrate dehydrogenase
+** NADP isocitric dehydrogenase
+** isocitrate dehydrogenase (NADP-dependent)
+** NADP-dependent isocitric dehydrogenase
+** triphosphopyridine nucleotide-linked isocitrate dehydrogenase-oxalosuccinate carboxylase
+** NADP+-linked isocitrate dehydrogenase
+** IDH (ambiguous)
+** dual-cofactor-specific isocitrate dehydrogenase
+** NADP+-ICDH
+** NADP+-IDH
+** IDP
+** IDP1
+** IDP2
+** IDP3
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[THREO-DS-ISO-CITRATE]][c] '''+''' 1 [[NADP]][c] '''<=>''' 1 [[OXALO-SUCCINATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[NADPH]][c]
+* With common name(s):
+** 1 D-threo-isocitrate[c] '''+''' 1 NADP+[c] '''<=>''' 1 oxalosuccinate[c] '''+''' 1 H+[c] '''+''' 1 NADPH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_10809]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18262]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25588 25588]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01899 R01899]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=isocitrate dehydrogenase (NADP+)}}
+{{#set: common name=ORF}}
+{{#set: common name=oxalosuccinate decarboxylase|oxalsuccinic decarboxylase|isocitrate (NADP) dehydrogenase|isocitrate (nicotinamide adenine dinucleotide phosphate) dehydrogenase|NADP-specific isocitrate dehydrogenase|NADP-linked isocitrate dehydrogenase|NADP isocitric dehydrogenase|isocitrate dehydrogenase (NADP-dependent)|NADP-dependent isocitric dehydrogenase|triphosphopyridine nucleotide-linked isocitrate dehydrogenase-oxalosuccinate carboxylase|NADP+-linked isocitrate dehydrogenase|IDH (ambiguous)|dual-cofactor-specific isocitrate dehydrogenase|NADP+-ICDH|NADP+-IDH|IDP|IDP1|IDP2|IDP3}}
+{{#set: gene associated=Tiso_gene_10809|Tiso_gene_18262}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

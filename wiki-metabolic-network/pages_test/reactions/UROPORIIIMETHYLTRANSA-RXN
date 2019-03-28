@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=UROPORIIIMETHYLTRANSA-RXN UROPORIIIMETHYLTRANSA-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+** uroporphyrinogen methyltransferase
+** uroporphyrinogen-III methyltransferase
+** adenosylmethionine-uroporphyrinogen III methyltransferase
+** S-adenosyl-L-methionine-dependent uroporphyrinogen III methylase
+** SirA
+** CysG
+** uroporphyrin-III C-methyltransferase (incorrect)
+** S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase (incorrect)
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[UROPORPHYRINOGEN-III]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[CPD-9038]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 uroporphyrinogen-III[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 H+[c] '''+''' 1 precorrin-1[c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8614]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-7376]], cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7376 PWY-7376]
+** '''2''' reactions found over '''13''' reactions in the full pathway
+* [[PWY-7377]], cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7377 PWY-7377]
+** '''3''' reactions found over '''15''' reactions in the full pathway
+* [[PWY-5194]], siroheme biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5194 PWY-5194]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-5196]], factor 430 biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5196 PWY-5196]
+** '''2''' reactions found over '''7''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=19089 19089]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07237 R07237]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=uroporphyrinogen methyltransferase|uroporphyrinogen-III methyltransferase|adenosylmethionine-uroporphyrinogen III methyltransferase|S-adenosyl-L-methionine-dependent uroporphyrinogen III methylase|SirA|CysG|uroporphyrin-III C-methyltransferase (incorrect)|S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase (incorrect)}}
+{{#set: gene associated=Tiso_gene_8614}}
+{{#set: in pathway=PWY-7376|PWY-7377|PWY-5194|PWY-5196}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

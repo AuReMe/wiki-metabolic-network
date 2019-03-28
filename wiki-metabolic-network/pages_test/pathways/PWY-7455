@@ -1,0 +1,23 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7455 PWY-7455] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-40674 TAX-40674]
+* common name:
+** allopregnanolone biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[PROGESTERONE-5-ALPHA-REDUCTASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14327]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-567 RXN66-567]
+== External links  ==
+{{#set: taxonomic range=TAX-40674}}
+{{#set: common name=allopregnanolone biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

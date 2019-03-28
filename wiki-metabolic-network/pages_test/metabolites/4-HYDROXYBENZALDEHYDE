@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=4-HYDROXYBENZALDEHYDE 4-HYDROXYBENZALDEHYDE] ==
+* smiles:
+** [CH](C1(C=CC(O)=CC=1))=O
+* common name:
+** 4-hydroxybenzaldehyde
+* inchi key:
+** InChIKey=RGHHSNMVTDWUBI-UHFFFAOYSA-N
+* molecular weight:
+** 122.123    
+* Synonym(s):
+** p-hydroxybenzaldehyde
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8872]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-13600]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 123-08-0
+* DRUGBANK : DB03560
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=126 126]
+* HMDB : HMDB11718
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00633 C00633]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.123.html 123]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17597 17597]
+* METABOLIGHTS : MTBLC17597
+{{#set: smiles=[CH](C1(C=CC(O)=CC=1))=O}}
+{{#set: common name=4-hydroxybenzaldehyde}}
+{{#set: inchi key=InChIKey=RGHHSNMVTDWUBI-UHFFFAOYSA-N}}
+{{#set: molecular weight=122.123    }}
+{{#set: common name=p-hydroxybenzaldehyde}}
+{{#set: consumed by=RXN-8872}}
+{{#set: produced by=RXN-13600}}

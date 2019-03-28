@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DTDP-RHAMNOSE DTDP-RHAMNOSE] ==
+* smiles:
+** CC1(=CN(C(=O)NC(=O)1)C3(CC(O)C(COP(=O)([O-])OP(=O)([O-])OC2(OC(C)C(O)C(O)C(O)2))O3))
+* common name:
+** dTDP-&beta;-L-rhamnose
+* inchi key:
+** InChIKey=ZOSQFDVXNQFKBY-CGAXJHMRSA-L
+* molecular weight:
+** 546.317    
+* Synonym(s):
+** dTDP-6-deoxy-&beta;-L-mannose
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DTDPDEHYRHAMREDUCT-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 572-96-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245982 25245982]
+* HMDB : HMDB06354
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03319 C03319]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57510 57510]
+* BIGG : dtdprmn
+{{#set: smiles=CC1(=CN(C(=O)NC(=O)1)C3(CC(O)C(COP(=O)([O-])OP(=O)([O-])OC2(OC(C)C(O)C(O)C(O)2))O3))}}
+{{#set: common name=dTDP-&beta;-L-rhamnose}}
+{{#set: inchi key=InChIKey=ZOSQFDVXNQFKBY-CGAXJHMRSA-L}}
+{{#set: molecular weight=546.317    }}
+{{#set: common name=dTDP-6-deoxy-&beta;-L-mannose}}
+{{#set: produced by=DTDPDEHYRHAMREDUCT-RXN}}

@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15368 CPD-15368] ==
+* smiles:
+** CCCCCCC(O)CC=CCCCCCCCC(=O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** 3-oxo-lesqueroloyl-CoA
+* inchi key:
+** InChIKey=NQXRRZBOZBKGIU-MHAUFEDZSA-J
+* molecular weight:
+** 1085.989    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14493]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657339 90657339]
+{{#set: smiles=CCCCCCC(O)CC=CCCCCCCCC(=O)CC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=3-oxo-lesqueroloyl-CoA}}
+{{#set: inchi key=InChIKey=NQXRRZBOZBKGIU-MHAUFEDZSA-J}}
+{{#set: molecular weight=1085.989    }}
+{{#set: consumed by=RXN-14493}}

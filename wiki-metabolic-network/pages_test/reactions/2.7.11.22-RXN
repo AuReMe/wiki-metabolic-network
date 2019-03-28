@@ -1,0 +1,30 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.7.11.22-RXN 2.7.11.22-RXN] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ATP]][c] '''+''' 1.0 [[General-Protein-Substrates]][c] '''<=>''' 1.0 [[ADP]][c] '''+''' 1.0 [[General-Phos-Protein-Substrates]][c]
+* With common name(s):
+** 1.0 ATP[c] '''+''' 1.0 a protein[c] '''<=>''' 1.0 ADP[c] '''+''' 1.0 a phosphoprotein[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7932]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19151]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: gene associated=Tiso_gene_7932|Tiso_gene_19151}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

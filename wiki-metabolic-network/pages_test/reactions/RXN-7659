@@ -1,0 +1,40 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-7659 RXN-7659] ==
+* direction:
+** REVERSIBLE
+* common name:
+** geranylgeranyl_diphosphate_reductase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-7003]][c] '''+''' 1 [[NADP]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[CPD-7002]][c]
+* With common name(s):
+** 1 tetrahydrogeranylgeranyl diphosphate[c] '''+''' 1 NADP+[c] '''<=>''' 1 H+[c] '''+''' 1 NADPH[c] '''+''' 1 dihydrogeranylgeranyl diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2613]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-5063]], phytyl diphosphate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5063 PWY-5063]
+** '''3''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R08755 R08755]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=geranylgeranyl_diphosphate_reductase}}
+{{#set: gene associated=Tiso_gene_2613}}
+{{#set: in pathway=PWY-5063}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

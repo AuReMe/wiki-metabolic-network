@@ -1,0 +1,38 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-8899 RXN-8899] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[2-AMINOACRYLATE]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[PYRUVATE]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 2-aminoprop-2-enoate[c] '''+''' 1 H2O[c] '''=>''' 1 pyruvate[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-7614]], methiin metabolism: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7614 PWY-7614]
+** '''1''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-5707]], propanethial S-oxide biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5707 PWY-5707]
+** '''1''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-5706]], alliin metabolism: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5706 PWY-5706]
+** '''1''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-5708]], ethiin metabolism: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5708 PWY-5708]
+** '''1''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6539]], (Z)-phenylmethanethial S-oxide biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6539 PWY-6539]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R08698 R08698]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=PWY-7614|PWY-5707|PWY-5706|PWY-5708|PWY-6539}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

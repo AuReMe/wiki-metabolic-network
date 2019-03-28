@@ -1,0 +1,54 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19778 ==
+* right end position:
+** 1958
+* transcription direction:
+** POSITIVE
+* left end position:
+** 116
+* centisome position:
+** 5.6779246    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.1.64-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[CARBOXYLESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[LYSOPHOSPHOLIPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RETINYL-PALMITATE-ESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10711]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-10767]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12252]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12575]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15035]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXNQT-4366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7409]]
+* [[PWY-6857]]
+* [[PWY-6303]]
+== External links  ==
+{{#set: right end position=1958}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=116}}
+{{#set: centisome position=5.6779246    }}
+{{#set: reaction associated=3.1.1.64-RXN|CARBOXYLESTERASE-RXN|LYSOPHOSPHOLIPASE-RXN|RETINYL-PALMITATE-ESTERASE-RXN|RXN-10711|RXN-10767|RXN-12252|RXN-12575|RXN-15035|RXNQT-4366}}
+{{#set: pathway associated=PWY-7409|PWY-6857|PWY-6303}}

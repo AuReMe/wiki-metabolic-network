@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_105 ==
+* right end position:
+** 15375
+* transcription direction:
+** POSITIVE
+* left end position:
+** 12646
+* centisome position:
+** 29.126171    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13729]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN3DJ-11230]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[SGPL11]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7119]]
+* [[PWY3DJ-11470]]
+== External links  ==
+{{#set: right end position=15375}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=12646}}
+{{#set: centisome position=29.126171    }}
+{{#set: reaction associated=RXN-13729|RXN3DJ-11230|SGPL11|SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN}}
+{{#set: pathway associated=PWY-7119|PWY3DJ-11470}}

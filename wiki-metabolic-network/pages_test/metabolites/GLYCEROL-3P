@@ -1,0 +1,61 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLYCEROL-3P GLYCEROL-3P] ==
+* smiles:
+** C(OP([O-])(=O)[O-])C(O)CO
+* common name:
+** sn-glycerol 3-phosphate
+* inchi key:
+** InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L
+* molecular weight:
+** 170.058    
+* Synonym(s):
+** L-&alpha;-glycerophosphate
+** L-G3P
+** L-glycerol 3-phosphate
+** &alpha;-glycerophosphoric acid
+** &alpha;-glycerophosphate
+** D-glycerol 1-phosphate
+** glycerol 3-phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15045]]
+* [[RXN0-5260]]
+* [[RXN-15740]]
+* [[RXN-15745]]
+* [[PHOSPHAGLYPSYN-RXN]]
+* [[RXN-1381]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14160]]
+* [[GLYC3PDEHYDROGBIOSYN-RXN]]
+* [[RXN-14073]]
+* [[G3PD3]]
+* [[GLYCPDIESTER-RXN]]
+* [[RXN0-5257]]
+* [[1.1.1.8-RXN]]
+* [[RXN-14136]]
+== Reaction(s) of unknown directionality ==
+* [[G3PD2]]
+* [[RXN-13112]]
+* [[2.4.1.213-RXN]]
+* [[GLYCEROL-KIN-RXN]]
+== External links  ==
+* CAS : 57-03-4
+* BIGG : glyc3p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=7048686 7048686]
+* HMDB : HMDB00126
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00093 C00093]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2939444.html 2939444]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57597 57597]
+* METABOLIGHTS : MTBLC57597
+{{#set: smiles=C(OP([O-])(=O)[O-])C(O)CO}}
+{{#set: common name=sn-glycerol 3-phosphate}}
+{{#set: inchi key=InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L}}
+{{#set: molecular weight=170.058    }}
+{{#set: common name=L-&alpha;-glycerophosphate|L-G3P|L-glycerol 3-phosphate|&alpha;-glycerophosphoric acid|&alpha;-glycerophosphate|D-glycerol 1-phosphate|glycerol 3-phosphate}}
+{{#set: consumed by=RXN-15045|RXN0-5260|RXN-15740|RXN-15745|PHOSPHAGLYPSYN-RXN|RXN-1381}}
+{{#set: produced by=RXN-14160|GLYC3PDEHYDROGBIOSYN-RXN|RXN-14073|G3PD3|GLYCPDIESTER-RXN|RXN0-5257|1.1.1.8-RXN|RXN-14136}}
+{{#set: reversible reaction associated=G3PD2|RXN-13112|2.4.1.213-RXN|GLYCEROL-KIN-RXN}}

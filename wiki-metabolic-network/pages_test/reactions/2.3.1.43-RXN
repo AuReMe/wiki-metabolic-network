@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.43-RXN 2.3.1.43-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** phosphatidylcholine-sterol_o-acyltransferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.43 EC-2.3.1.43]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Sterols]][c] '''+''' 1 [[PHOSPHATIDYLCHOLINE]][c] '''<=>''' 1 [[2-Lysophosphatidylcholines]][c] '''+''' 1 [[Steryl-Esters]][c]
+* With common name(s):
+** 1 a sterol[c] '''+''' 1 a phosphatidylcholine[c] '''<=>''' 1 a 1-acyl-sn-glycero-3-phosphocholine[c] '''+''' 1 a steryl-ester[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9096]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_16209]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02114 R02114]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P30930 P30930]
+** [http://www.uniprot.org/uniprot/P10480 P10480]
+** [http://www.uniprot.org/uniprot/P04180 P04180]
+** [http://www.uniprot.org/uniprot/P16301 P16301]
+** [http://www.uniprot.org/uniprot/P18424 P18424]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=phosphatidylcholine-sterol_o-acyltransferase}}
+{{#set: ec number=EC-2.3.1.43}}
+{{#set: gene associated=Tiso_gene_9096|Tiso_gene_16209}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

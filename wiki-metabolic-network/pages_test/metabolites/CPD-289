@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-289 CPD-289] ==
+* smiles:
+** C1(=CC(C(C=C1)O)O)
+* common name:
+** (1R,2R)-cyclohexa-3,5-diene-1,2-diol
+* inchi key:
+** InChIKey=YDRSQRPHLBEPTP-PHDIDXHHSA-N
+* molecular weight:
+** 112.128    
+* Synonym(s):
+** trans-1,2-dihydrobenzene-1,2-diol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.3.1.20-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=149186 149186]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.131491.html 131491]
+* HMDB : HMDB01164
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=10702 10702]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04221 C04221]
+{{#set: smiles=C1(=CC(C(C=C1)O)O)}}
+{{#set: common name=(1R,2R)-cyclohexa-3,5-diene-1,2-diol}}
+{{#set: inchi key=InChIKey=YDRSQRPHLBEPTP-PHDIDXHHSA-N}}
+{{#set: molecular weight=112.128    }}
+{{#set: common name=trans-1,2-dihydrobenzene-1,2-diol}}
+{{#set: reversible reaction associated=1.3.1.20-RXN}}

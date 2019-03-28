@@ -1,0 +1,39 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLYCOPHOSPHORYL-RXN GLYCOPHOSPHORYL-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** thymidine_phosphorylase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.1.1 EC-2.4.1.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Pi]][c] '''+''' 1 [[Glycogens]][c] '''<=>''' 1 [[GLC-1-P]][c] '''+''' 1 [[CPD0-971]][c]
+* With common name(s):
+** 1 phosphate[c] '''+''' 1 a glycogen[c] '''<=>''' 1 &alpha;-D-glucopyranose 1-phosphate[c] '''+''' 1 an &alpha;-limit dextrin[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1011]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-5941]], glycogen degradation II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5941 PWY-5941]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+* [[GLYCOCAT-PWY]], glycogen degradation I: [http://metacyc.org/META/NEW-IMAGE?object=GLYCOCAT-PWY GLYCOCAT-PWY]
+** '''6''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=thymidine_phosphorylase}}
+{{#set: ec number=EC-2.4.1.1}}
+{{#set: gene associated=Tiso_gene_1011}}
+{{#set: in pathway=PWY-5941|GLYCOCAT-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

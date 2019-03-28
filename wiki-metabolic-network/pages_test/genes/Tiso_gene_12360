@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12360 ==
+* right end position:
+** 1966
+* transcription direction:
+** POSITIVE
+* left end position:
+** 126
+* centisome position:
+** 1.772152    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[NAD+-ADP-RIBOSYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1966}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=126}}
+{{#set: centisome position=1.772152    }}
+{{#set: reaction associated=NAD+-ADP-RIBOSYLTRANSFERASE-RXN}}

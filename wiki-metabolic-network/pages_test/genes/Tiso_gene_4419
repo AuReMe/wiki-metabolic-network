@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4419 ==
+* right end position:
+** 14296
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11596
+* centisome position:
+** 63.536243    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13181]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13182]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[SIALATE-O-ACETYLESTERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=14296}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11596}}
+{{#set: centisome position=63.536243    }}
+{{#set: reaction associated=RXN-13181|RXN-13182|SIALATE-O-ACETYLESTERASE-RXN}}

@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12321 CPD-12321] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CC=CC=C(CCC=C(CCC=C(CCC=C(C)C)C)C)C
+* common name:
+** 15-cis-phytoene
+* inchi key:
+** InChIKey=YVLPJIGOMTXXLP-BHLJUDRVSA-N
+* molecular weight:
+** 544.946    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12243]]
+== Reaction(s) known to produce the compound ==
+* [[RXNARA-8002]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13323]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05421 C05421]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8138988.html 8138988]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27787 27787]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9963391 9963391]
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CC=CC=C(CCC=C(CCC=C(CCC=C(C)C)C)C)C}}
+{{#set: common name=15-cis-phytoene}}
+{{#set: inchi key=InChIKey=YVLPJIGOMTXXLP-BHLJUDRVSA-N}}
+{{#set: molecular weight=544.946    }}
+{{#set: consumed by=RXN-12243}}
+{{#set: produced by=RXNARA-8002}}
+{{#set: reversible reaction associated=RXN-13323}}

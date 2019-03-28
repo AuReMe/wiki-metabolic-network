@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14056 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CARNOSINE-SYNTHASE-RXN]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY66-420]]
+== External links  ==
+{{#set: reaction associated=CARNOSINE-SYNTHASE-RXN}}
+{{#set: pathway associated=PWY66-420}}

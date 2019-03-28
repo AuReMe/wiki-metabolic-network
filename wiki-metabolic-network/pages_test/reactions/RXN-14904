@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14904 RXN-14904] ==
+* direction:
+** REVERSIBLE
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-10330]][c] '''<=>''' 1 [[CPD0-1108]][c]
+* With common name(s):
+** 1 &alpha;-D-ribofuranose[c] '''<=>''' 1 &beta;-D-ribofuranose[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[RIBOKIN-PWY]], ribose degradation: [http://metacyc.org/META/NEW-IMAGE?object=RIBOKIN-PWY RIBOKIN-PWY]
+** '''2''' reactions found over '''3''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: in pathway=RIBOKIN-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

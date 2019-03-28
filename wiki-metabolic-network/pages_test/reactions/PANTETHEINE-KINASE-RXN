@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PANTETHEINE-KINASE-RXN PANTETHEINE-KINASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.34 EC-2.7.1.34]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-511]][c] '''+''' 1 [[ATP]][c] '''<=>''' 1 [[PANTETHEINE-P]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 pantetheine[c] '''+''' 1 ATP[c] '''<=>''' 1 4'-phosphopantetheine[c] '''+''' 1 H+[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_4468]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=22472 22472]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02971 R02971]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.7.1.34}}
+{{#set: gene associated=Tiso_gene_4468}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

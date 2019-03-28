@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD0-1425 CPD0-1425] ==
+* smiles:
+** CCCCCCCCCCCCCC(=O)OCC(OC(CCCCCCCCCCCCC)=O)COP([O-])(=O)[O-]
+* common name:
+** dimyristoyl phosphatidate
+* inchi key:
+** InChIKey=OZSITQMWYBNPMW-GDLZYMKVSA-L
+* molecular weight:
+** 590.776    
+* Synonym(s):
+** dimyristoyl phosphatidic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-17021]]
+* [[RXN-17022]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25202369 25202369]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=83550 83550]
+{{#set: smiles=CCCCCCCCCCCCCC(=O)OCC(OC(CCCCCCCCCCCCC)=O)COP([O-])(=O)[O-]}}
+{{#set: common name=dimyristoyl phosphatidate}}
+{{#set: inchi key=InChIKey=OZSITQMWYBNPMW-GDLZYMKVSA-L}}
+{{#set: molecular weight=590.776    }}
+{{#set: common name=dimyristoyl phosphatidic acid}}
+{{#set: produced by=RXN-17021|RXN-17022}}

@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=QUEUINE QUEUINE] ==
+* smiles:
+** C([N+]C1(C=CC(O)C(O)1))C2(=CNC3(N=C(NC(=O)C2=3)N))
+* common name:
+** queuine
+* inchi key:
+** InChIKey=WYROLENTHWJFLR-ACLDMZEESA-O
+* molecular weight:
+** 278.29    
+* Synonym(s):
+** 7-(3,4-trans-4,5-cis-dihydroxy-1-cyclopenten-3-ylaminomethyl)-7-deazaguanine
+** base Q
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[QUEUOSINE-TRNA-RIBOSYLTRANSFERASE-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=86289319 86289319]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=77674 77674]
+* HMDB : HMDB01495
+{{#set: smiles=C([N+]C1(C=CC(O)C(O)1))C2(=CNC3(N=C(NC(=O)C2=3)N))}}
+{{#set: common name=queuine}}
+{{#set: inchi key=InChIKey=WYROLENTHWJFLR-ACLDMZEESA-O}}
+{{#set: molecular weight=278.29    }}
+{{#set: common name=7-(3,4-trans-4,5-cis-dihydroxy-1-cyclopenten-3-ylaminomethyl)-7-deazaguanine|base Q}}
+{{#set: reversible reaction associated=QUEUOSINE-TRNA-RIBOSYLTRANSFERASE-RXN}}

@@ -1,0 +1,57 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15046 ==
+* right end position:
+** 1538
+* transcription direction:
+** POSITIVE
+* left end position:
+** 181
+* centisome position:
+** 3.4338837    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PHOSPHOLIPASE-A2-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15065]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15067]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15068]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16138]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-16139]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17735]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-17736]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-6725]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY66-397]]
+* [[PWY-6803]]
+* [[PWY-7409]]
+* [[PWY66-394]]
+* [[PWY66-395]]
+* [[PWY-7783]]
+* [[PWY-7417]]
+* [[PWY-7416]]
+* [[LIPASYN-PWY]]
+== External links  ==
+{{#set: right end position=1538}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=181}}
+{{#set: centisome position=3.4338837    }}
+{{#set: reaction associated=PHOSPHOLIPASE-A2-RXN|RXN-15065|RXN-15067|RXN-15068|RXN-16138|RXN-16139|RXN-17735|RXN-17736|RXN0-6725}}
+{{#set: pathway associated=PWY66-397|PWY-6803|PWY-7409|PWY66-394|PWY66-395|PWY-7783|PWY-7417|PWY-7416|LIPASYN-PWY}}

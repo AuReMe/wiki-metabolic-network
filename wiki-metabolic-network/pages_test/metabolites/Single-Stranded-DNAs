@@ -1,0 +1,17 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Single-Stranded-DNAs Single-Stranded-DNAs] ==
+* common name:
+** a single stranded DNA
+* Synonym(s):
+** an ssDNA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN0-4261]]
+== Reaction(s) of unknown directionality ==
+* [[RXN0-5021]]
+== External links  ==
+{{#set: common name=a single stranded DNA}}
+{{#set: common name=an ssDNA}}
+{{#set: produced by=RXN0-4261}}
+{{#set: reversible reaction associated=RXN0-5021}}

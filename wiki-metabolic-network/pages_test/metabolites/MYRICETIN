@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MYRICETIN MYRICETIN] ==
+* smiles:
+** C1(C(O)=C(O)C(O)=CC=1C2(OC3(C=C(O)C=C(O)C(C(=O)C([O-])=2)=3)))
+* common name:
+** myricetin
+* inchi key:
+** InChIKey=IKMDFBPHZNJCSN-UHFFFAOYSA-M
+* molecular weight:
+** 317.231    
+* Synonym(s):
+** myricitin
+** cannabiscetin
+** myricetol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-8450]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201643 25201643]
+* HMDB : HMDB02755
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58395 58395]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C10107 C10107]
+{{#set: smiles=C1(C(O)=C(O)C(O)=CC=1C2(OC3(C=C(O)C=C(O)C(C(=O)C([O-])=2)=3)))}}
+{{#set: common name=myricetin}}
+{{#set: inchi key=InChIKey=IKMDFBPHZNJCSN-UHFFFAOYSA-M}}
+{{#set: molecular weight=317.231    }}
+{{#set: common name=myricitin|cannabiscetin|myricetol}}
+{{#set: produced by=RXN-8450}}

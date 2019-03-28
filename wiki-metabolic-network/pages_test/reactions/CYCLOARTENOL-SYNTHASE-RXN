@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=CYCLOARTENOL-SYNTHASE-RXN CYCLOARTENOL-SYNTHASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/5.4.99.8 EC-5.4.99.8]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[EPOXYSQUALENE]][c] '''=>''' 1 [[CYCLOARTENOL]][c]
+* With common name(s):
+** 1 (3S)-2,3-epoxy-2,3-dihydrosqualene[c] '''=>''' 1 cycloartenol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14526]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-7154]], ergosterol biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7154 PWY-7154]
+** '''1''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-2541]], plant sterol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-2541 PWY-2541]
+** '''10''' reactions found over '''36''' reactions in the full pathway
+* [[PWY-6098]], diploterol and cycloartenol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6098 PWY-6098]
+** '''2''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6109]], mangrove triterpenoid biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6109 PWY-6109]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-7155]], 7-dehydroporiferasterol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7155 PWY-7155]
+** '''3''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-6115]], avenacin biosynthesis, initial reactions: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6115 PWY-6115]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21311 21311]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03200 R03200]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O23909 O23909]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-5.4.99.8}}
+{{#set: gene associated=Tiso_gene_14526}}
+{{#set: in pathway=PWY-7154|PWY-2541|PWY-6098|PWY-6109|PWY-7155|PWY-6115}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-creinhardtii|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

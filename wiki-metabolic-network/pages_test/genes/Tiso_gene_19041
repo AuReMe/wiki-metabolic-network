@@ -1,0 +1,21 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19041 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GSHTRAN-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[GST-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-13673]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15680]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7112]]
+* [[PWY-6842]]
+* [[PWY-4061]]
+* [[PWY-7533]]
+== External links  ==
+{{#set: reaction associated=GSHTRAN-RXN|GST-RXN|RXN-13673|RXN-15680}}
+{{#set: pathway associated=PWY-7112|PWY-6842|PWY-4061|PWY-7533}}

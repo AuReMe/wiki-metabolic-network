@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HYDROXYMETHYLBILANE HYDROXYMETHYLBILANE] ==
+* smiles:
+** C(O)C1(NC(=C(CCC(=O)[O-])C(CC(=O)[O-])=1)CC2(=C(CC(=O)[O-])C(CCC(=O)[O-])=C(N2)CC4(=C(CC([O-])=O)C(CCC(=O)[O-])=C(CC3(=C(CC([O-])=O)C(CCC(=O)[O-])=CN3))N4)))
+* common name:
+** preuroporphyrinogen
+* inchi key:
+** InChIKey=WDFJYRZCZIUBPR-UHFFFAOYSA-F
+* molecular weight:
+** 846.757    
+* Synonym(s):
+** hydroxymethylbilane
+
+== Reaction(s) known to consume the compound ==
+* [[UROGENIIISYN-RXN]]
+* [[RXN-14396]]
+== Reaction(s) known to produce the compound ==
+* [[OHMETHYLBILANESYN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 73023-76-4
+* BIGG : hmbil
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46931104 46931104]
+* HMDB : HMDB01137
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01024 C01024]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57845 57845]
+* METABOLIGHTS : MTBLC57845
+{{#set: smiles=C(O)C1(NC(=C(CCC(=O)[O-])C(CC(=O)[O-])=1)CC2(=C(CC(=O)[O-])C(CCC(=O)[O-])=C(N2)CC4(=C(CC([O-])=O)C(CCC(=O)[O-])=C(CC3(=C(CC([O-])=O)C(CCC(=O)[O-])=CN3))N4)))}}
+{{#set: common name=preuroporphyrinogen}}
+{{#set: inchi key=InChIKey=WDFJYRZCZIUBPR-UHFFFAOYSA-F}}
+{{#set: molecular weight=846.757    }}
+{{#set: common name=hydroxymethylbilane}}
+{{#set: consumed by=UROGENIIISYN-RXN|RXN-14396}}
+{{#set: produced by=OHMETHYLBILANESYN-RXN}}

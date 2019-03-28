@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=OROTIDINE-5-PHOSPHATE OROTIDINE-5-PHOSPHATE] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C(C(=O)[O-])=CC(=O)NC(=O)2))
+* common name:
+** orotidine 5'-phosphate
+* inchi key:
+** InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K
+* molecular weight:
+** 365.17    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[orPDC]]
+* [[OROTPDECARB-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[OROPRIBTRANS-RXN]]
+* [[orPRT]]
+== External links  ==
+* CAS : 2149-82-8
+* BIGG : orot5p
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=46878393 46878393]
+* HMDB : HMDB00218
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01103 C01103]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57538 57538]
+* METABOLIGHTS : MTBLC57538
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(OC(C(O)C(O)1)N2(C(C(=O)[O-])=CC(=O)NC(=O)2))}}
+{{#set: common name=orotidine 5'-phosphate}}
+{{#set: inchi key=InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K}}
+{{#set: molecular weight=365.17    }}
+{{#set: consumed by=orPDC|OROTPDECARB-RXN}}
+{{#set: reversible reaction associated=OROPRIBTRANS-RXN|orPRT}}

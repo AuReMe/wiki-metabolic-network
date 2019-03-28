@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_169 ==
+* right end position:
+** 4216
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2807
+* centisome position:
+** 4.702079    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.7.11.24-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[PROTEIN-KINASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4216}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2807}}
+{{#set: centisome position=4.702079    }}
+{{#set: reaction associated=2.7.11.24-RXN|PROTEIN-KINASE-RXN}}

@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GERANYL-PP GERANYL-PP] ==
+* smiles:
+** CC(=CCCC(=CCOP([O-])(OP(=O)([O-])[O-])=O)C)C
+* common name:
+** geranyl diphosphate
+* inchi key:
+** InChIKey=GVVPGTZRZFNKDS-JXMROGBWSA-K
+* molecular weight:
+** 311.188    
+* Synonym(s):
+** geranyl-diphosphate
+** geranyl-pyrophosphate
+** GPP
+** geranyl-PP
+** geranyl pyrophosphate
+** &omega;,E-geranyl diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[FPPSYN-RXN]]
+* [[TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[GPPS]]
+== Reaction(s) of unknown directionality ==
+* [[GPPSYN-RXN]]
+== External links  ==
+* BIGG : grdp
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=19379894 19379894]
+* KNAPSACK : C00000846
+* HMDB : HMDB01285
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00341 C00341]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.14211068.html 14211068]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58057 58057]
+* METABOLIGHTS : MTBLC58057
+{{#set: smiles=CC(=CCCC(=CCOP([O-])(OP(=O)([O-])[O-])=O)C)C}}
+{{#set: common name=geranyl diphosphate}}
+{{#set: inchi key=InChIKey=GVVPGTZRZFNKDS-JXMROGBWSA-K}}
+{{#set: molecular weight=311.188    }}
+{{#set: common name=geranyl-diphosphate|geranyl-pyrophosphate|GPP|geranyl-PP|geranyl pyrophosphate|&omega;,E-geranyl diphosphate}}
+{{#set: consumed by=FPPSYN-RXN|TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN}}
+{{#set: produced by=GPPS}}
+{{#set: reversible reaction associated=GPPSYN-RXN}}

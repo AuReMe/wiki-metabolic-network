@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15822 ==
+* right end position:
+** 2811
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 694
+* centisome position:
+** 14.527946    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[XYLULOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[DARABITOLUTIL-PWY]]
+* [[LARABITOLUTIL-PWY]]
+* [[XYLCAT-PWY]]
+== External links  ==
+{{#set: right end position=2811}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=694}}
+{{#set: centisome position=14.527946    }}
+{{#set: reaction associated=XYLULOKIN-RXN}}
+{{#set: pathway associated=DARABITOLUTIL-PWY|LARABITOLUTIL-PWY|XYLCAT-PWY}}

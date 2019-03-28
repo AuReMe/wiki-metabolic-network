@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14115 CPD-14115] ==
+* smiles:
+** C3(C(C1(CC2(=CC=C(C=C(OC1)2)O)))=CC=C(C=3)O)
+* common name:
+** (S)-equol
+* inchi key:
+** InChIKey=ADFCQWZHKCXPAJ-GFCCVEGCSA-N
+* molecular weight:
+** 242.274    
+* Synonym(s):
+** 4',7-isoflavandiol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-15589]]
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C14131 C14131]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=34741 34741]
+* Wikipedia : Equol
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91469 91469]
+* HMDB : HMDB02209
+{{#set: smiles=C3(C(C1(CC2(=CC=C(C=C(OC1)2)O)))=CC=C(C=3)O)}}
+{{#set: common name=(S)-equol}}
+{{#set: inchi key=InChIKey=ADFCQWZHKCXPAJ-GFCCVEGCSA-N}}
+{{#set: molecular weight=242.274    }}
+{{#set: common name=4',7-isoflavandiol}}
+{{#set: reversible reaction associated=RXN-15589}}

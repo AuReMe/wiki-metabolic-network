@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8798 ==
+* right end position:
+** 7301
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4068
+* centisome position:
+** 41.22416    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[HISTIDINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=7301}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4068}}
+{{#set: centisome position=41.22416    }}
+{{#set: reaction associated=HISTIDINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

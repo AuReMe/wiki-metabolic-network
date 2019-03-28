@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5109 PWY-5109] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** 2-methylbutanoate biosynthesis
+* Synonym(s):
+** 2-methylbutyrate biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[METHYLACETOACETYLCOATHIOL-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_17451]]
+*** [[Tiso_gene_15327]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[TIGLYLCOA-HYDROXY-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_14257]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_6885]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_16145]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.178-RXN 1.1.1.178-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=2-METHYLACYL-COA-DEHYDROGENASE-RXN 2-METHYLACYL-COA-DEHYDROGENASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PROPIONATE-COA-TRANSFERASE-RXN PROPIONATE-COA-TRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15031 RXN-15031]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=2-methylbutanoate biosynthesis}}
+{{#set: common name=2-methylbutyrate biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

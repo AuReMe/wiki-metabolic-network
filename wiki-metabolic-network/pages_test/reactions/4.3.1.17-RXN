@@ -1,0 +1,53 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=4.3.1.17-RXN 4.3.1.17-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/4.3.1.17 EC-4.3.1.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[SER]][c] '''=>''' 1 [[AMMONIUM]][c] '''+''' 1 [[PYRUVATE]][c]
+* With common name(s):
+** 1 L-serine[c] '''=>''' 1 ammonium[c] '''+''' 1 pyruvate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12535]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=19169 19169]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00220 R00220]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q7M194 Q7M194]
+** [http://www.uniprot.org/uniprot/P30744 P30744]
+** [http://www.uniprot.org/uniprot/Q9JX54 Q9JX54]
+** [http://www.uniprot.org/uniprot/P56072 P56072]
+** [http://www.uniprot.org/uniprot/P25379 P25379]
+** [http://www.uniprot.org/uniprot/P16095 P16095]
+** [http://www.uniprot.org/uniprot/P20132 P20132]
+** [http://www.uniprot.org/uniprot/P09367 P09367]
+** [http://www.uniprot.org/uniprot/Q9PM51 Q9PM51]
+** [http://www.uniprot.org/uniprot/P17324 P17324]
+** [http://www.uniprot.org/uniprot/P80212 P80212]
+** [http://www.uniprot.org/uniprot/P80213 P80213]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-4.3.1.17}}
+{{#set: gene associated=Tiso_gene_12535}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|manual}}
+{{#set: reconstruction source=manual-primary_network|orthology-creinhardtii|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

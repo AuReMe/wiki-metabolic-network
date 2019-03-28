@@ -1,0 +1,79 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6922 PWY-6922] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** L-N&delta;-acetylornithine biosynthesis
+* Synonym(s):
+** L-N-delta-acetylornithine biosynthesis
+** N&delta;-acetyl-L-ornithine biosynthesis
+** L-N5-acetylornithine biosynthesis
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''7''' reactions in the full pathway
+* [[ARGINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4415]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[GLUTKIN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_12021]]
+*** [[Tiso_gene_16634]]
+*** [[Tiso_gene_17057]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLUTSEMIALDEHYDROG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_16634]]
+*** [[Tiso_gene_16258]]
+** 6 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[ORNITHINE-GLU-AMINOTRANSFERASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11231]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-synechocystis]]
+* [[RXN-14903]]
+** 3 associated gene(s):
+*** [[Tiso_gene_18826]]
+*** [[Tiso_gene_18825]]
+*** [[Tiso_gene_9762]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[SPONTPRO-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12667 RXN-12667]
+== External links  ==
+* PLANTCYC : PWY-6922
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-6922 PWY-6922]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=L-N&delta;-acetylornithine biosynthesis}}
+{{#set: common name=L-N-delta-acetylornithine biosynthesis|N&delta;-acetyl-L-ornithine biosynthesis|L-N5-acetylornithine biosynthesis}}
+{{#set: reaction found=6}}
+{{#set: total reaction=7}}
+{{#set: completion rate=86.0}}

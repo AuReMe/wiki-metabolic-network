@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9591 ==
+* right end position:
+** 8381
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5615
+* centisome position:
+** 60.92004    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PEPTIDYLPROLYL-ISOMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=8381}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5615}}
+{{#set: centisome position=60.92004    }}
+{{#set: reaction associated=PEPTIDYLPROLYL-ISOMERASE-RXN}}

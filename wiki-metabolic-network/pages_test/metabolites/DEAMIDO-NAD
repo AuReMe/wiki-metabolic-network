@@ -1,0 +1,41 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEAMIDO-NAD DEAMIDO-NAD] ==
+* smiles:
+** C1(C(=CC=C[N+]=1C5(OC(COP(=O)([O-])OP(=O)([O-])OCC2(OC(C(O)C(O)2)N4(C=NC3(C(N)=NC=NC=34))))C(O)C(O)5))C([O-])=O)
+* common name:
+** nicotinate adenine dinucleotide
+* inchi key:
+** InChIKey=SENPVEZBRZQVST-HISDBWNOSA-L
+* molecular weight:
+** 662.399    
+* Synonym(s):
+** Deamino-NAD+
+** NaADN
+** deamido-NAD+
+** deamidonicotinamide adenine dinucleoetide
+** deamido-NAD
+** NAAD
+
+== Reaction(s) known to consume the compound ==
+* [[DNNH]]
+== Reaction(s) known to produce the compound ==
+* [[NICONUCADENYLYLTRAN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 6450-77-7
+* DRUGBANK : DB04099
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266646 45266646]
+* HMDB : HMDB01179
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00857 C00857]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58437 58437]
+* BIGG : dnad
+{{#set: smiles=C1(C(=CC=C[N+]=1C5(OC(COP(=O)([O-])OP(=O)([O-])OCC2(OC(C(O)C(O)2)N4(C=NC3(C(N)=NC=NC=34))))C(O)C(O)5))C([O-])=O)}}
+{{#set: common name=nicotinate adenine dinucleotide}}
+{{#set: inchi key=InChIKey=SENPVEZBRZQVST-HISDBWNOSA-L}}
+{{#set: molecular weight=662.399    }}
+{{#set: common name=Deamino-NAD+|NaADN|deamido-NAD+|deamidonicotinamide adenine dinucleoetide|deamido-NAD|NAAD}}
+{{#set: consumed by=DNNH}}
+{{#set: produced by=NICONUCADENYLYLTRAN-RXN}}

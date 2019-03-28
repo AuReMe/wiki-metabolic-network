@@ -1,0 +1,55 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=AMP-DEAMINASE-RXN AMP-DEAMINASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** amp_deaminase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.17 EC-3.5.4.17]
+** [http://enzyme.expasy.org/EC/3.5.4.6 EC-3.5.4.6]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[AMP]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[IMP]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 AMP[c] '''+''' 1 H2O[c] '''=>''' 1 IMP[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1778]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6596]], adenosine nucleotides degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6596 PWY-6596]
+** '''8''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=14777 14777]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00181 R00181]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P10759 P10759]
+** [http://www.uniprot.org/uniprot/Q02356 Q02356]
+** [http://www.uniprot.org/uniprot/P23109 P23109]
+** [http://www.uniprot.org/uniprot/P15274 P15274]
+** [http://www.uniprot.org/uniprot/Q7M3H8 Q7M3H8]
+** [http://www.uniprot.org/uniprot/Q01433 Q01433]
+** [http://www.uniprot.org/uniprot/Q01432 Q01432]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=amp_deaminase}}
+{{#set: ec number=EC-3.5.4.17}}
+{{#set: ec number=EC-3.5.4.6}}
+{{#set: gene associated=Tiso_gene_1778}}
+{{#set: in pathway=PWY-6596}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

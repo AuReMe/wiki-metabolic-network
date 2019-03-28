@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19647 ==
+* right end position:
+** 1984
+* transcription direction:
+** POSITIVE
+* left end position:
+** 319
+* centisome position:
+** 14.885674    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-15556]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[UBIQUITIN--PROTEIN-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7511]]
+== External links  ==
+{{#set: right end position=1984}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=319}}
+{{#set: centisome position=14.885674    }}
+{{#set: reaction associated=RXN-15556|UBIQUITIN--PROTEIN-LIGASE-RXN}}
+{{#set: pathway associated=PWY-7511}}

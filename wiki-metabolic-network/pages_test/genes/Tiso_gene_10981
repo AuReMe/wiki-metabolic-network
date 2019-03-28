@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10981 ==
+* right end position:
+** 5062
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1966
+* centisome position:
+** 24.12566    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENOSINETRIPHOSPHATASE-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[ATPSYN-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7219]]
+== External links  ==
+{{#set: right end position=5062}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1966}}
+{{#set: centisome position=24.12566    }}
+{{#set: reaction associated=ADENOSINETRIPHOSPHATASE-RXN|ATPASE-RXN|ATPSYN-RXN}}
+{{#set: pathway associated=PWY-7219}}

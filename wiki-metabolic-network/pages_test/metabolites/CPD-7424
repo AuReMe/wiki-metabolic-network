@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7424 CPD-7424] ==
+* smiles:
+** CC(C=CC=C(C)[CH]=C=C1(C(O)(C)CC(O)CC(C)(C)1))=CC=CC=C(C)C=CC=C(C)C=CC23(C(C)(C)CC(O)CC(C)(O2)3)
+* common name:
+** 9'-cis-neoxanthin
+* inchi key:
+** InChIKey=PGYAYSRVSAJXTE-OQASCVKESA-N
+* molecular weight:
+** 600.88    
+* Synonym(s):
+** 9cNeox
+** 9c-neoxanthin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-698]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5282217 5282217]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10392237.html 10392237]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35306 35306]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C13431 C13431]
+{{#set: smiles=CC(C=CC=C(C)[CH]=C=C1(C(O)(C)CC(O)CC(C)(C)1))=CC=CC=C(C)C=CC=C(C)C=CC23(C(C)(C)CC(O)CC(C)(O2)3)}}
+{{#set: common name=9'-cis-neoxanthin}}
+{{#set: inchi key=InChIKey=PGYAYSRVSAJXTE-OQASCVKESA-N}}
+{{#set: molecular weight=600.88    }}
+{{#set: common name=9cNeox|9c-neoxanthin}}
+{{#set: consumed by=RXN-698}}

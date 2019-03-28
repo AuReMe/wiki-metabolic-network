@@ -1,0 +1,64 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-15035 RXN-15035] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lysophospholipase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.5 EC-3.1.1.5]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[CPD-8355]][c] '''=>''' 1 [[OLEATE-CPD]][c] '''+''' 1 [[L-1-GLYCEROPHOSPHORYLETHANOL-AMINE]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 1-18:1-2-lysophosphatidylethanolamine[c] '''=>''' 1 oleate[c] '''+''' 1 sn-glycero-3-phosphoethanolamine[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2505]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12478]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_8353]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_12479]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19778]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_15692]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_20565]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_334]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12375]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7409]], phospholipid remodeling (phosphatidylethanolamine, yeast): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7409 PWY-7409]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lysophospholipase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-3.1.1.5}}
+{{#set: gene associated=Tiso_gene_2505|Tiso_gene_12478|Tiso_gene_8353|Tiso_gene_12479|Tiso_gene_19778|Tiso_gene_15692|Tiso_gene_20565|Tiso_gene_334|Tiso_gene_12375}}
+{{#set: in pathway=PWY-7409}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

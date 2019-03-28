@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-MYO-INOSITOL-1-MONOPHOSPHATE D-MYO-INOSITOL-1-MONOPHOSPHATE] ==
+* smiles:
+** C1(O)(C(O)C(O)C(OP([O-])(=O)[O-])C(O)C(O)1)
+* common name:
+** 1D-myo-inositol 1-monophosphate
+* inchi key:
+** InChIKey=INAPMGSXUVUWAF-UOTPTPDRSA-L
+* molecular weight:
+** 258.121    
+* Synonym(s):
+** 1D-myo-inositol (1)-monophosphate
+** 1D-myo-Inositol 1-phosphate
+** D-myo-inositol (1)-monophosphate
+** Ins(1)P1
+** 1-D-myo-inositol-1-p
+** Ins(1)P
+** 1D-myo-inositol 1-phosphate
+** Ins1P
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-5408]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-16261]]
+== External links  ==
+* BIGG : mi1p__D
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5288642 5288642]
+* KNAPSACK : C00007483
+* HMDB : HMDB02985
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01177 C01177]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.16744063.html 16744063]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58433 58433]
+* METABOLIGHTS : MTBLC58433
+{{#set: smiles=C1(O)(C(O)C(O)C(OP([O-])(=O)[O-])C(O)C(O)1)}}
+{{#set: common name=1D-myo-inositol 1-monophosphate}}
+{{#set: inchi key=InChIKey=INAPMGSXUVUWAF-UOTPTPDRSA-L}}
+{{#set: molecular weight=258.121    }}
+{{#set: common name=1D-myo-inositol (1)-monophosphate|1D-myo-Inositol 1-phosphate|D-myo-inositol (1)-monophosphate|Ins(1)P1|1-D-myo-inositol-1-p|Ins(1)P|1D-myo-inositol 1-phosphate|Ins1P}}
+{{#set: consumed by=RXN0-5408}}
+{{#set: reversible reaction associated=RXN-16261}}

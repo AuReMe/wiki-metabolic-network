@@ -1,0 +1,23 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15360 CPD-15360] ==
+* smiles:
+** CC(C)=CCNC3(C2(N=CN(C1(OC(COP(=O)([O-])O[a tRNA])C(OP([O-])(=O)O[a tRNA])C(O)1))C=2N=C(S)N=3))
+* common name:
+** 2-thio-N6-dimethylallyladenosine37 in tRNA
+* Synonym(s):
+** tRNA-(2-thio-N6-dimethylallyladenosine37)
+** a tRNA containing 2-thio-N6-dimethylallyladenosine37
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14481]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-14480]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=74416 74416]
+{{#set: smiles=CC(C)=CCNC3(C2(N=CN(C1(OC(COP(=O)([O-])O[a tRNA])C(OP([O-])(=O)O[a tRNA])C(O)1))C=2N=C(S)N=3))}}
+{{#set: common name=2-thio-N6-dimethylallyladenosine37 in tRNA}}
+{{#set: common name=tRNA-(2-thio-N6-dimethylallyladenosine37)|a tRNA containing 2-thio-N6-dimethylallyladenosine37}}
+{{#set: consumed by=RXN-14481}}
+{{#set: produced by=RXN-14480}}

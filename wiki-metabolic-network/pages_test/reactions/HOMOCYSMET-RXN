@@ -1,0 +1,61 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=HOMOCYSMET-RXN HOMOCYSMET-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.14 EC-2.1.1.14]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-1302]][c] '''+''' 1 [[HOMO-CYS]][c] '''<=>''' 1 [[MET]][c] '''+''' 1 [[CPD-1301]][c]
+* With common name(s):
+** 1 N5-methyl--tetrahydropteroyl tri-L-glutamate[c] '''+''' 1 L-homocysteine[c] '''<=>''' 1 L-methionine[c] '''+''' 1 tetrahydropteroyl tri-L-glutamate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1602]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-702]], L-methionine biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-702 PWY-702]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-5041]], S-adenosyl-L-methionine cycle II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5041 PWY-5041]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+* [[PWY-6151]], S-adenosyl-L-methionine cycle I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6151 PWY-6151]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+* [[HSERMETANA-PWY]], L-methionine biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=HSERMETANA-PWY HSERMETANA-PWY]
+** '''3''' reactions found over '''4''' reactions in the full pathway
+* [[HOMOSER-METSYN-PWY]], L-methionine biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=HOMOSER-METSYN-PWY HOMOSER-METSYN-PWY]
+** '''4''' reactions found over '''5''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21196 21196]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04405 R04405]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P25665 P25665]
+** [http://www.uniprot.org/uniprot/P45331 P45331]
+** [http://www.uniprot.org/uniprot/Q9PN94 Q9PN94]
+** [http://www.uniprot.org/uniprot/O26869 O26869]
+** [http://www.uniprot.org/uniprot/Q9JUT6 Q9JUT6]
+** [http://www.uniprot.org/uniprot/Q9CG55 Q9CG55]
+** [http://www.uniprot.org/uniprot/P05694 P05694]
+** [http://www.uniprot.org/uniprot/Q42699 Q42699]
+** [http://www.uniprot.org/uniprot/Q39586 Q39586]
+** [http://www.uniprot.org/uniprot/O48613 O48613]
+** [http://www.uniprot.org/uniprot/P93263 P93263]
+** [http://www.uniprot.org/uniprot/Q9UT19 Q9UT19]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-2.1.1.14}}
+{{#set: gene associated=Tiso_gene_1602}}
+{{#set: in pathway=PWY-702|PWY-5041|PWY-6151|HSERMETANA-PWY|HOMOSER-METSYN-PWY}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

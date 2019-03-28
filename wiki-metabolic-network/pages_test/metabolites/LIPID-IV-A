@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LIPID-IV-A LIPID-IV-A] ==
+* smiles:
+** CCCCCCCCCCCC(O)CC(=O)NC1(C(OP([O-])([O-])=O)OC(C(O)C(OC(CC(O)CCCCCCCCCCC)=O)1)COC2(C(NC(CC(O)CCCCCCCCCCC)=O)C(OC(CC(O)CCCCCCCCCCC)=O)C(C(O2)CO)OP([O-])([O-])=O))
+* common name:
+** lipid IVA
+* inchi key:
+** InChIKey=KVJWZTLXIROHIL-QDORLFPLSA-J
+* molecular weight:
+** 1401.69    
+* Synonym(s):
+** 2-deoxy-2-{[(3R)-3-hydroxypentadecanoyl]amino}-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O-phosphono-&beta;-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-{[(3R)-3-hydroxytetradecanoyl]amino}-1-O-phosphono-&alpha;-D-glucopyranose
+
+== Reaction(s) known to consume the compound ==
+* [[KDOTRANS-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[TETRAACYLDISACC4KIN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10329123 10329123]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.8504584.html 8504584]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58603 58603]
+* BIGG : lipidA
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04919 C04919]
+{{#set: smiles=CCCCCCCCCCCC(O)CC(=O)NC1(C(OP([O-])([O-])=O)OC(C(O)C(OC(CC(O)CCCCCCCCCCC)=O)1)COC2(C(NC(CC(O)CCCCCCCCCCC)=O)C(OC(CC(O)CCCCCCCCCCC)=O)C(C(O2)CO)OP([O-])([O-])=O))}}
+{{#set: common name=lipid IVA}}
+{{#set: inchi key=InChIKey=KVJWZTLXIROHIL-QDORLFPLSA-J}}
+{{#set: molecular weight=1401.69    }}
+{{#set: common name=2-deoxy-2-{[(3R)-3-hydroxypentadecanoyl]amino}-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O-phosphono-&beta;-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-{[(3R)-3-hydroxytetradecanoyl]amino}-1-O-phosphono-&alpha;-D-glucopyranose}}
+{{#set: consumed by=KDOTRANS-RXN}}
+{{#set: produced by=TETRAACYLDISACC4KIN-RXN}}

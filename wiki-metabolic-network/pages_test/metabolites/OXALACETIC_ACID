@@ -1,0 +1,53 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=OXALACETIC_ACID OXALACETIC_ACID] ==
+* smiles:
+** C(C([O-])=O)C(=O)C([O-])=O
+* common name:
+** oxaloacetate
+* inchi key:
+** InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
+* molecular weight:
+** 130.057    
+* Synonym(s):
+** keto-oxaloacetate
+** oxaloacetic acid
+** oxalacetic acid
+** oxalacetate
+
+== Reaction(s) known to consume the compound ==
+* [[CSm]]
+* [[PEPCARBOXYKIN-RXN]]
+* [[OXALODECARB-RXN]]
+* [[CSx]]
+* [[CITSYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[PCr]]
+* [[R00357]]
+* [[PYRUVATE-CARBOXYLASE-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13697]]
+* [[ASPAMINOTRANS-RXN]]
+* [[OAACITtm]]
+* [[OAAAKGtm]]
+* [[MALATE-DEH-RXN]]
+== External links  ==
+* CAS : 328-42-7
+* BIGG : oaa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=164550 164550]
+* HMDB : HMDB00223
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00036 C00036]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.144251.html 144251]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16452 16452]
+* METABOLIGHTS : MTBLC16452
+{{#set: smiles=C(C([O-])=O)C(=O)C([O-])=O}}
+{{#set: common name=oxaloacetate}}
+{{#set: inchi key=InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L}}
+{{#set: molecular weight=130.057    }}
+{{#set: common name=keto-oxaloacetate|oxaloacetic acid|oxalacetic acid|oxalacetate}}
+{{#set: consumed by=CSm|PEPCARBOXYKIN-RXN|OXALODECARB-RXN|CSx|CITSYN-RXN}}
+{{#set: produced by=PCr|R00357|PYRUVATE-CARBOXYLASE-RXN}}
+{{#set: reversible reaction associated=RXN-13697|ASPAMINOTRANS-RXN|OAACITtm|OAAAKGtm|MALATE-DEH-RXN}}

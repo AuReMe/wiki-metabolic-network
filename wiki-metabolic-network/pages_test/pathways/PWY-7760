@@ -1,0 +1,48 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7760 PWY-7760] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-191412 TAX-191412]
+* common name:
+** bacteriochlorophyll e biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''26''' reactions in the full pathway
+* [[RXN-5286]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13868]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17429 RXN-17429]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17430 RXN-17430]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17431 RXN-17431]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17432 RXN-17432]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17433 RXN-17433]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17434 RXN-17434]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17435 RXN-17435]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17436 RXN-17436]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17441 RXN-17441]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17443 RXN-17443]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17444 RXN-17444]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17445 RXN-17445]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17456 RXN-17456]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17457 RXN-17457]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17458 RXN-17458]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17459 RXN-17459]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17460 RXN-17460]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17461 RXN-17461]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17462 RXN-17462]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17463 RXN-17463]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17465 RXN-17465]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17466 RXN-17466]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17467 RXN-17467]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17468 RXN-17468]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17491 RXN-17491]
+== External links  ==
+{{#set: taxonomic range=TAX-191412}}
+{{#set: common name=bacteriochlorophyll e biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=26}}
+{{#set: completion rate=4.0}}

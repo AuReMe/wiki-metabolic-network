@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.1.1.47-RXN 3.1.1.47-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** platelet-activating_factor_acetylhydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.1.47 EC-3.1.1.47]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[Alkyl-acetyl-glycero-phosphocholines]][c] '''=>''' 1 [[ACET]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[1-Alkyl-sn-glycero-3-phosphocholines]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a 2-acetyl-1-alkyl-sn-glycero-3-phosphocholine[c] '''=>''' 1 acetate[c] '''+''' 1 H+[c] '''+''' 1 a 1-alkyl-2-lyso-sn-glycero-3-phosphocholine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19650]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7990]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1774]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=17780 17780]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04452 R04452]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=platelet-activating_factor_acetylhydrolase}}
+{{#set: ec number=EC-3.1.1.47}}
+{{#set: gene associated=Tiso_gene_19650|Tiso_gene_7990|Tiso_gene_1774}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

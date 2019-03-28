@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY66-423 PWY66-423] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+* common name:
+** fructose 2,6-bisphosphate biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[3.1.3.46-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_15398]]
+*** [[Tiso_gene_892]]
+*** [[Tiso_gene_893]]
+*** [[Tiso_gene_2100]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[annotation-in-silico_annotation]]
+* [[6-PHOSPHOFRUCTO-2-KINASE-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_15398]]
+*** [[Tiso_gene_804]]
+*** [[Tiso_gene_2100]]
+*** [[Tiso_gene_893]]
+*** [[Tiso_gene_892]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: common name=fructose 2,6-bisphosphate biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

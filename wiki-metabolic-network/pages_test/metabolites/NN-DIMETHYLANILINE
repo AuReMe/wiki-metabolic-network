@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=NN-DIMETHYLANILINE NN-DIMETHYLANILINE] ==
+* smiles:
+** CN(C1(C=CC=CC=1))C
+* common name:
+** N,N-dimethylaniline
+* inchi key:
+** InChIKey=JLTDJTHDQAWBAV-UHFFFAOYSA-N
+* molecular weight:
+** 121.182    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[1.14.13.8-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=949 949]
+* NCI:
+** [http://cactus.nci.nih.gov/ncidb2.2/?nsc=7195 7195]
+* HMDB : HMDB01020
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02846 C02846]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.924.html 924]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=16269 16269]
+{{#set: smiles=CN(C1(C=CC=CC=1))C}}
+{{#set: common name=N,N-dimethylaniline}}
+{{#set: inchi key=InChIKey=JLTDJTHDQAWBAV-UHFFFAOYSA-N}}
+{{#set: molecular weight=121.182    }}
+{{#set: consumed by=1.14.13.8-RXN}}

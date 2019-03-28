@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN66-303 RXN66-303] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lanosterol 14-hydroxylase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[NADPH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[LANOSTEROL]][c] '''=>''' 1 [[WATER]][c] '''+''' 1 [[NADP]][c] '''+''' 1 [[CPD-4568]][c]
+* With common name(s):
+** 1 oxygen[c] '''+''' 1 NADPH[c] '''+''' 1 H+[c] '''+''' 1 lanosterol[c] '''=>''' 1 H2O[c] '''+''' 1 NADP+[c] '''+''' 1 14-hydroxylanosterol[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_8263]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY66-341]], cholesterol biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-341 PWY66-341]
+** '''8''' reactions found over '''22''' reactions in the full pathway
+* [[PWY66-4]], cholesterol biosynthesis III (via desmosterol): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-4 PWY66-4]
+** '''7''' reactions found over '''22''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lanosterol 14-hydroxylase}}
+{{#set: gene associated=Tiso_gene_8263}}
+{{#set: in pathway=PWY66-341|PWY66-4}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

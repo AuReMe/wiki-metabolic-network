@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15834 CPD-15834] ==
+* smiles:
+** CC(=CCCC(C)=CCCC(=CCCC(C)=CCC1(=C(O)C(C)=C(C)C(O)=C1))C)C
+* common name:
+** 2,3-dimethyl-6-geranylgeranyl-1,4-benzoquinol
+* inchi key:
+** InChIKey=QFMVWSPTQOCGTB-TUZVQDLTSA-N
+* molecular weight:
+** 410.639    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14917]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C20738 C20738]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75412 75412]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5327035 5327035]
+{{#set: smiles=CC(=CCCC(C)=CCCC(=CCCC(C)=CCC1(=C(O)C(C)=C(C)C(O)=C1))C)C}}
+{{#set: common name=2,3-dimethyl-6-geranylgeranyl-1,4-benzoquinol}}
+{{#set: inchi key=InChIKey=QFMVWSPTQOCGTB-TUZVQDLTSA-N}}
+{{#set: molecular weight=410.639    }}
+{{#set: produced by=RXN-14917}}

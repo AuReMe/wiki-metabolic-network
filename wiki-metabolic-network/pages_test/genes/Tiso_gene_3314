@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3314 ==
+* right end position:
+** 14388
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11991
+* centisome position:
+** 70.41104    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15684]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[THIOL-OXIDASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-7539]]
+* [[PWY-7533]]
+* [[PWY-6797]]
+* [[PWY-6147]]
+== External links  ==
+{{#set: right end position=14388}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11991}}
+{{#set: centisome position=70.41104    }}
+{{#set: reaction associated=DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN|H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN|RXN-15684|THIOL-OXIDASE-RXN}}
+{{#set: pathway associated=PWY-7539|PWY-7533|PWY-6797|PWY-6147}}

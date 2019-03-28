@@ -1,0 +1,227 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=MALATE-DEH-RXN MALATE-DEH-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** malate_dehydrogenase_mitochondrial
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1.37 EC-1.1.1.37]
+* Synonym(s):
+** malate dehydrogenation
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[MAL]][c] '''+''' 1 [[NAD]][c] '''<=>''' 1 [[PROTON]][c] '''+''' 1 [[OXALACETIC_ACID]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 (S)-malate[c] '''+''' 1 NAD+[c] '''<=>''' 1 H+[c] '''+''' 1 oxaloacetate[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_2323]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_1990]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-561]], superpathway of glyoxylate cycle and fatty acid degradation: [http://metacyc.org/META/NEW-IMAGE?object=PWY-561 PWY-561]
+** '''5''' reactions found over '''8''' reactions in the full pathway
+* [[PWY-5913]], partial TCA cycle (obligate autotrophs): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5913 PWY-5913]
+** '''9''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-1622]], formaldehyde assimilation I (serine pathway): [http://metacyc.org/META/NEW-IMAGE?object=PWY-1622 PWY-1622]
+** '''5''' reactions found over '''13''' reactions in the full pathway
+* [[PWY66-399]], gluconeogenesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY66-399 PWY66-399]
+** '''10''' reactions found over '''12''' reactions in the full pathway
+* [[P42-PWY]], incomplete reductive TCA cycle: [http://metacyc.org/META/NEW-IMAGE?object=P42-PWY P42-PWY]
+** '''4''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-7383]], anaerobic energy metabolism (invertebrates, cytosol): [http://metacyc.org/META/NEW-IMAGE?object=PWY-7383 PWY-7383]
+** '''5''' reactions found over '''7''' reactions in the full pathway
+* [[PWY-5392]], reductive TCA cycle II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5392 PWY-5392]
+** '''5''' reactions found over '''12''' reactions in the full pathway
+* [[TCA]], TCA cycle I (prokaryotic): [http://metacyc.org/META/NEW-IMAGE?object=TCA TCA]
+** '''7''' reactions found over '''10''' reactions in the full pathway
+* [[P105-PWY]], TCA cycle IV (2-oxoglutarate decarboxylase): [http://metacyc.org/META/NEW-IMAGE?object=P105-PWY P105-PWY]
+** '''9''' reactions found over '''11''' reactions in the full pathway
+* [[P23-PWY]], reductive TCA cycle I: [http://metacyc.org/META/NEW-IMAGE?object=P23-PWY P23-PWY]
+** '''7''' reactions found over '''12''' reactions in the full pathway
+* [[PWY-5690]], TCA cycle II (plants and fungi): [http://metacyc.org/META/NEW-IMAGE?object=PWY-5690 PWY-5690]
+** '''6''' reactions found over '''9''' reactions in the full pathway
+* [[GLYOXYLATE-BYPASS]], glyoxylate cycle: [http://metacyc.org/META/NEW-IMAGE?object=GLYOXYLATE-BYPASS GLYOXYLATE-BYPASS]
+** '''6''' reactions found over '''6''' reactions in the full pathway
+* [[FERMENTATION-PWY]], mixed acid fermentation: [http://metacyc.org/META/NEW-IMAGE?object=FERMENTATION-PWY FERMENTATION-PWY]
+** '''9''' reactions found over '''16''' reactions in the full pathway
+* [[PWY-6728]], methylaspartate cycle: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6728 PWY-6728]
+** '''11''' reactions found over '''18''' reactions in the full pathway
+* [[PWY-7115]], C4 photosynthetic carbon assimilation cycle, NAD-ME type: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7115 PWY-7115]
+** '''7''' reactions found over '''9''' reactions in the full pathway
+* [[GLUCONEO-PWY]], gluconeogenesis I: [http://metacyc.org/META/NEW-IMAGE?object=GLUCONEO-PWY GLUCONEO-PWY]
+** '''13''' reactions found over '''13''' reactions in the full pathway
+* [[P108-PWY]], pyruvate fermentation to propanoate I: [http://metacyc.org/META/NEW-IMAGE?object=P108-PWY P108-PWY]
+** '''3''' reactions found over '''7''' reactions in the full pathway
+* [[MALATE-ASPARTATE-SHUTTLE-PWY]], L-aspartate degradation II: [http://metacyc.org/META/NEW-IMAGE?object=MALATE-ASPARTATE-SHUTTLE-PWY MALATE-ASPARTATE-SHUTTLE-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY66-398]], TCA cycle III (animals): [http://metacyc.org/META/NEW-IMAGE?object=PWY66-398 PWY66-398]
+** '''10''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-6969]], TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6969 PWY-6969]
+** '''9''' reactions found over '''12''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=21432 21432]
+* PIR:
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A32472 A32472]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A49496 A49496]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=A60689 A60689]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=C64110 C64110]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=D81399 D81399]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEBYMC DEBYMC]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEBYMM DEBYMM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEBYMP DEBYMP]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEEBM DEEBM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEECM DEECM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEMSMC DEMSMC]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEMSMM DEMSMM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEPGMM DEPGMM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEPUGW DEPUGW]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DEPUMW DEPUMW]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DERTMM DERTMM]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=DETWMA DETWMA]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=F85551 F85551]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=G01650 G01650]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=H64477 H64477]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=I40383 I40383]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=PA0040 PA0040]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=PA0079 PA0079]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=PN0162 PN0162]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S03352 S03352]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S03958 S03958]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S04956 S04956]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S04957 S04957]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S04958 S04958]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S04959 S04959]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S04960 S04960]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S04961 S04961]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S07574 S07574]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S08981 S08981]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S44167 S44167]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S52039 S52039]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S57958 S57958]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S61213 S61213]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=S75735 S75735]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T03272 T03272]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T06325 T06325]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T06326 T06326]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T06327 T06327]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T06328 T06328]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T06386 T06386]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T08015 T08015]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T08077 T08077]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T08177 T08177]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T09228 T09228]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T09263 T09263]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T09286 T09286]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T09291 T09291]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T09294 T09294]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T12433 T12433]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T18570 T18570]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T45206 T45206]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T45208 T45208]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T49932 T49932]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T51311 T51311]
+** [http://pir.georgetown.edu/cgi-bin/nbrfget?uid=T51862 T51862]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00342 R00342]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/Q07841 Q07841]
+** [http://www.uniprot.org/uniprot/P33163 P33163]
+** [http://www.uniprot.org/uniprot/P44427 P44427]
+** [http://www.uniprot.org/uniprot/Q9PHY2 Q9PHY2]
+** [http://www.uniprot.org/uniprot/P22133 P22133]
+** [http://www.uniprot.org/uniprot/P17505 P17505]
+** [http://www.uniprot.org/uniprot/P32419 P32419]
+** [http://www.uniprot.org/uniprot/P25077 P25077]
+** [http://www.uniprot.org/uniprot/P14152 P14152]
+** [http://www.uniprot.org/uniprot/Q8R1P0 Q8R1P0]
+** [http://www.uniprot.org/uniprot/P19446 P19446]
+** [http://www.uniprot.org/uniprot/P17783 P17783]
+** [http://www.uniprot.org/uniprot/P04636 P04636]
+** [http://www.uniprot.org/uniprot/P58408 P58408]
+** [http://www.uniprot.org/uniprot/Q58820 Q58820]
+** [http://www.uniprot.org/uniprot/P49814 P49814]
+** [http://www.uniprot.org/uniprot/Q93ZA7 Q93ZA7]
+** [http://www.uniprot.org/uniprot/Q7M4Y9 Q7M4Y9]
+** [http://www.uniprot.org/uniprot/Q7M4Z0 Q7M4Z0]
+** [http://www.uniprot.org/uniprot/P10887 P10887]
+** [http://www.uniprot.org/uniprot/P11386 P11386]
+** [http://www.uniprot.org/uniprot/P19983 P19983]
+** [http://www.uniprot.org/uniprot/P19981 P19981]
+** [http://www.uniprot.org/uniprot/P19979 P19979]
+** [http://www.uniprot.org/uniprot/P19977 P19977]
+** [http://www.uniprot.org/uniprot/P19982 P19982]
+** [http://www.uniprot.org/uniprot/P19978 P19978]
+** [http://www.uniprot.org/uniprot/P19980 P19980]
+** [http://www.uniprot.org/uniprot/P16142 P16142]
+** [http://www.uniprot.org/uniprot/P46487 P46487]
+** [http://www.uniprot.org/uniprot/P46488 P46488]
+** [http://www.uniprot.org/uniprot/Q43744 Q43744]
+** [http://www.uniprot.org/uniprot/Q59202 Q59202]
+** [http://www.uniprot.org/uniprot/Q55383 Q55383]
+** [http://www.uniprot.org/uniprot/Q42972 Q42972]
+** [http://www.uniprot.org/uniprot/O81278 O81278]
+** [http://www.uniprot.org/uniprot/O81279 O81279]
+** [http://www.uniprot.org/uniprot/O65363 O65363]
+** [http://www.uniprot.org/uniprot/O65364 O65364]
+** [http://www.uniprot.org/uniprot/O81609 O81609]
+** [http://www.uniprot.org/uniprot/Q43743 Q43743]
+** [http://www.uniprot.org/uniprot/Q42686 Q42686]
+** [http://www.uniprot.org/uniprot/P93106 P93106]
+** [http://www.uniprot.org/uniprot/Q04820 Q04820]
+** [http://www.uniprot.org/uniprot/O48903 O48903]
+** [http://www.uniprot.org/uniprot/O48904 O48904]
+** [http://www.uniprot.org/uniprot/O48905 O48905]
+** [http://www.uniprot.org/uniprot/O48906 O48906]
+** [http://www.uniprot.org/uniprot/O24047 O24047]
+** [http://www.uniprot.org/uniprot/Q9XTB4 Q9XTB4]
+** [http://www.uniprot.org/uniprot/P50917 P50917]
+** [http://www.uniprot.org/uniprot/Q49981 Q49981]
+** [http://www.uniprot.org/uniprot/Q9ZP05 Q9ZP05]
+** [http://www.uniprot.org/uniprot/Q9ZP06 Q9ZP06]
+** [http://www.uniprot.org/uniprot/Q9SN86 Q9SN86]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=malate_dehydrogenase_mitochondrial}}
+{{#set: ec number=EC-1.1.1.37}}
+{{#set: common name=malate dehydrogenation}}
+{{#set: gene associated=Tiso_gene_2323|Tiso_gene_1990}}
+{{#set: in pathway=PWY-561|PWY-5913|PWY-1622|PWY66-399|P42-PWY|PWY-7383|PWY-5392|TCA|P105-PWY|P23-PWY|PWY-5690|GLYOXYLATE-BYPASS|FERMENTATION-PWY|PWY-6728|PWY-7115|GLUCONEO-PWY|P108-PWY|MALATE-ASPARTATE-SHUTTLE-PWY|PWY66-398|PWY-6969}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

@@ -1,0 +1,61 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7187 PWY-7187] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** pyrimidine deoxyribonucleotides de novo biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''7''' reactions in the full pathway
+* [[DTDPKIN-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18224]]
+*** [[Tiso_gene_16529]]
+*** [[Tiso_gene_195]]
+*** [[Tiso_gene_17271]]
+*** [[Tiso_gene_17272]]
+*** [[Tiso_gene_9290]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[DTMPKI-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3755]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[DUTP-PYROP-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_18793]]
+*** [[Tiso_gene_18792]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+* [[THYMIDYLATESYN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7708]]
+*** [[Tiso_gene_18478]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=DCTP-DEAM-RXN DCTP-DEAM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-723 RXN0-723]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-724 RXN0-724]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-7187 PWY-7187]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=pyrimidine deoxyribonucleotides de novo biosynthesis II}}
+{{#set: reaction found=4}}
+{{#set: total reaction=7}}
+{{#set: completion rate=57.0}}

@@ -1,0 +1,34 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12347 RXN-12347] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** s-adenosylmethionine:diacylglycerol_3-amino-3-carboxypropyl_transferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DIACYLGLYCEROL]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[Diacylglycerolhomoserines]][c] '''+''' 1 [[5-METHYLTHIOADENOSINE]][c] '''+''' 1 [[PROTON]][c]
+* With common name(s):
+** 1 a 1,2-diacyl-sn-glycerol[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 a diacylglycerolhomoserine[c] '''+''' 1 S-methyl-5'-thioadenosine[c] '''+''' 1 H+[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14329]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-6795]], diacylglyceryl-N,N,N-trimethylhomoserine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6795 PWY-6795]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=s-adenosylmethionine:diacylglycerol_3-amino-3-carboxypropyl_transferase}}
+{{#set: gene associated=Tiso_gene_14329}}
+{{#set: in pathway=PWY-6795}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

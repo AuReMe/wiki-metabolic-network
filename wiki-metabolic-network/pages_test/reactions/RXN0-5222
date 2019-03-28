@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5222 RXN0-5222] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** cyanase
+* Synonym(s):
+** cyanate lyase
+** cyanate hydrolase
+** cyanate aminohydrolase
+** cyanate C-N-lyase
+** cyanate hydratase
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CARBAMATE]][c] '''+''' 2 [[PROTON]][c] '''=>''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[AMMONIUM]][c]
+* With common name(s):
+** 1 carbamate[c] '''+''' 2 H+[c] '''=>''' 1 CO2[c] '''+''' 1 ammonium[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[CYANCAT-PWY]], cyanate degradation: [http://metacyc.org/META/NEW-IMAGE?object=CYANCAT-PWY CYANCAT-PWY]
+** '''3''' reactions found over '''3''' reactions in the full pathway
+* [[PWY0-1471]], uracil degradation III: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-1471 PWY0-1471]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=15649 15649]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07316 R07316]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=cyanase}}
+{{#set: common name=cyanate lyase|cyanate hydrolase|cyanate aminohydrolase|cyanate C-N-lyase|cyanate hydratase}}
+{{#set: in pathway=CYANCAT-PWY|PWY0-1471}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-experimental_annotation|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

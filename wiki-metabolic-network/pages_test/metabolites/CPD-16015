@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-16015 CPD-16015] ==
+* smiles:
+** CC(=N)C(=O)[O-]
+* common name:
+** 2-iminopropanoate
+* inchi key:
+** InChIKey=DUAWRLXHCUAWMK-UHFFFAOYSA-M
+* molecular weight:
+** 86.07    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-15127]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-15124]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=86289240 86289240]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=77456 77456]
+{{#set: smiles=CC(=N)C(=O)[O-]}}
+{{#set: common name=2-iminopropanoate}}
+{{#set: inchi key=InChIKey=DUAWRLXHCUAWMK-UHFFFAOYSA-M}}
+{{#set: molecular weight=86.07    }}
+{{#set: consumed by=RXN-15127}}
+{{#set: produced by=RXN-15124}}

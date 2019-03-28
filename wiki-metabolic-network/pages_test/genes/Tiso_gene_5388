@@ -1,0 +1,19 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5388 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYL-KIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[DEOXYADENYLATE-KINASE-RXN]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7219]]
+* [[PWY-7224]]
+== External links  ==
+{{#set: reaction associated=ADENYL-KIN-RXN|DEOXYADENYLATE-KINASE-RXN}}
+{{#set: pathway associated=PWY-7219|PWY-7224}}

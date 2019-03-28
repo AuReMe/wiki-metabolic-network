@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-Me-Branched-234-Sat-FA 2-Me-Branched-234-Sat-FA] ==
+* common name:
+** a 2-methyl branched 2,3,4-saturated fatty acid
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN66-483]]
+== Reaction(s) known to produce the compound ==
+* [[RXN66-472]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 2-methyl branched 2,3,4-saturated fatty acid}}
+{{#set: consumed by=RXN66-483}}
+{{#set: produced by=RXN66-472}}

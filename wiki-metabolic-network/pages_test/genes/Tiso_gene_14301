@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14301 ==
+* right end position:
+** 4141
+* transcription direction:
+** POSITIVE
+* left end position:
+** 162
+* centisome position:
+** 2.825253    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADENYLATECYC-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=4141}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=162}}
+{{#set: centisome position=2.825253    }}
+{{#set: reaction associated=ADENYLATECYC-RXN}}

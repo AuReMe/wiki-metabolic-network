@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6788 PWY-6788] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** cellulose degradation II (fungi)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[3.2.1.91-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_2906]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[RXN-10773]]
+** 14 associated gene(s):
+*** [[Tiso_gene_10001]]
+*** [[Tiso_gene_2344]]
+*** [[Tiso_gene_6497]]
+*** [[Tiso_gene_6187]]
+*** [[Tiso_gene_2843]]
+*** [[Tiso_gene_5836]]
+*** [[Tiso_gene_6007]]
+*** [[Tiso_gene_15067]]
+*** [[Tiso_gene_6188]]
+*** [[Tiso_gene_8669]]
+*** [[Tiso_gene_13306]]
+*** [[Tiso_gene_13305]]
+*** [[Tiso_gene_3467]]
+*** [[Tiso_gene_15066]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2043 RXN-2043]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=cellulose degradation II (fungi)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

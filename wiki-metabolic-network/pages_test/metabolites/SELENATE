@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SELENATE SELENATE] ==
+* smiles:
+** O=[Se](=O)([O-])[O-]
+* common name:
+** selenate
+* inchi key:
+** InChIKey=QYHFIVBSNOWOCQ-UHFFFAOYSA-L
+* molecular weight:
+** 142.958    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12720]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* Wikipedia : Selenate
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=26473 26473]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05697 C05697]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1058.html 1058]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15075 15075]
+* METABOLIGHTS : MTBLC15075
+{{#set: smiles=O=[Se](=O)([O-])[O-]}}
+{{#set: common name=selenate}}
+{{#set: inchi key=InChIKey=QYHFIVBSNOWOCQ-UHFFFAOYSA-L}}
+{{#set: molecular weight=142.958    }}
+{{#set: consumed by=RXN-12720}}

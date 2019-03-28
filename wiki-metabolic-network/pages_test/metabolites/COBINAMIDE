@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=COBINAMIDE COBINAMIDE] ==
+* smiles:
+** CC(O)CNC(=O)CCC5(C)(C(CC(=O)N)[CH]7(C8(C)(C(C)(CC(N)=O)C(CCC(N)=O)C1(=[N+]([Co---]26([N+]4(C(=CC3(C(CCC(N)=O)C(C)(CC(N)=O)C(=C(C)1)[N+]2=3))C(C)(C)C(CCC(N)=O)C=4C(C)=C5N67)))8))))
+* common name:
+** cobinamide
+* inchi key:
+** InChIKey=XQRJFEVDQXEIAX-JFYQDRLCSA-M
+* molecular weight:
+** 990.096    
+* Synonym(s):
+** Cbi
+** cobyrinic acid a,c-diamide
+
+== Reaction(s) known to consume the compound ==
+* [[BTUR2-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 1867-62-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=91820010 91820010]
+* HMDB : HMDB06902
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05774 C05774]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28956 28956]
+* BIGG : cbi
+{{#set: smiles=CC(O)CNC(=O)CCC5(C)(C(CC(=O)N)[CH]7(C8(C)(C(C)(CC(N)=O)C(CCC(N)=O)C1(=[N+]([Co---]26([N+]4(C(=CC3(C(CCC(N)=O)C(C)(CC(N)=O)C(=C(C)1)[N+]2=3))C(C)(C)C(CCC(N)=O)C=4C(C)=C5N67)))8))))}}
+{{#set: common name=cobinamide}}
+{{#set: inchi key=InChIKey=XQRJFEVDQXEIAX-JFYQDRLCSA-M}}
+{{#set: molecular weight=990.096    }}
+{{#set: common name=Cbi|cobyrinic acid a,c-diamide}}
+{{#set: consumed by=BTUR2-RXN}}

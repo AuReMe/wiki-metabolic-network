@@ -1,0 +1,30 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPDQT-36 CPDQT-36] ==
+* smiles:
+** C(C(CCCSC)C(O)C(=O)[O-])(=O)[O-]
+* common name:
+** 3-(3'-methylthio)propylmalate
+* inchi key:
+** InChIKey=SQXVIIOPMYSNCP-UHFFFAOYSA-L
+* molecular weight:
+** 220.24    
+* Synonym(s):
+** 3-(3'-methylthio)propylmalic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXNQT-4165]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18208]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237292 44237292]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=133501 133501]
+{{#set: smiles=C(C(CCCSC)C(O)C(=O)[O-])(=O)[O-]}}
+{{#set: common name=3-(3'-methylthio)propylmalate}}
+{{#set: inchi key=InChIKey=SQXVIIOPMYSNCP-UHFFFAOYSA-L}}
+{{#set: molecular weight=220.24    }}
+{{#set: common name=3-(3'-methylthio)propylmalic acid}}
+{{#set: consumed by=RXNQT-4165}}
+{{#set: reversible reaction associated=RXN-18208}}

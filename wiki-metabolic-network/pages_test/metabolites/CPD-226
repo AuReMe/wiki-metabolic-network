@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-226 CPD-226] ==
+* smiles:
+** C=CCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O
+* common name:
+** vinylacetyl-CoA
+* inchi key:
+** InChIKey=UATIGEHITDTAGF-CITAKDKDSA-J
+* molecular weight:
+** 831.577    
+* Synonym(s):
+** 3-butenoyl-CoA
+** but-3-enoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[VINYLACETYL-COA-DELTA-ISOMERASE-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266616 45266616]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57396 57396]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02331 C02331]
+{{#set: smiles=C=CCC(SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])=O}}
+{{#set: common name=vinylacetyl-CoA}}
+{{#set: inchi key=InChIKey=UATIGEHITDTAGF-CITAKDKDSA-J}}
+{{#set: molecular weight=831.577    }}
+{{#set: common name=3-butenoyl-CoA|but-3-enoyl-CoA}}
+{{#set: reversible reaction associated=VINYLACETYL-COA-DELTA-ISOMERASE-RXN}}

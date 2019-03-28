@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6004 ==
+* right end position:
+** 12670
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11397
+* centisome position:
+** 60.966087    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[METHYLENETHFDEHYDROG-NADP-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-1722]]
+* [[PWY-3841]]
+* [[1CMET2-PWY]]
+* [[CODH-PWY]]
+* [[PWY-5497]]
+* [[PWY-2201]]
+== External links  ==
+{{#set: right end position=12670}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11397}}
+{{#set: centisome position=60.966087    }}
+{{#set: reaction associated=METHYLENETHFDEHYDROG-NADP-RXN}}
+{{#set: pathway associated=PWY-1722|PWY-3841|1CMET2-PWY|CODH-PWY|PWY-5497|PWY-2201}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15093 ==
+* right end position:
+** 2894
+* transcription direction:
+** POSITIVE
+* left end position:
+** 20
+* centisome position:
+** 0.38182512    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[6.3.2.25-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=2894}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=20}}
+{{#set: centisome position=0.38182512    }}
+{{#set: reaction associated=6.3.2.25-RXN}}

@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5857 PWY-5857] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** ubiquinol-10 biosynthesis (prokaryotic)
+* Synonym(s):
+** Q10 biosynthesis
+** ubiquinone-10 biosynthesis (prokaryotic)
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''8''' reactions in the full pathway
+* [[RXN-9235]]
+** 1 associated gene(s):
+*** [[Tiso_gene_19352]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9230 RXN-9230]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9231 RXN-9231]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9232 RXN-9232]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9233 RXN-9233]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9234 RXN-9234]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9236 RXN-9236]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-9237 RXN-9237]
+== External links  ==
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=ubiquinol-10 biosynthesis (prokaryotic)}}
+{{#set: common name=Q10 biosynthesis|ubiquinone-10 biosynthesis (prokaryotic)}}
+{{#set: reaction found=1}}
+{{#set: total reaction=8}}
+{{#set: completion rate=13.0}}

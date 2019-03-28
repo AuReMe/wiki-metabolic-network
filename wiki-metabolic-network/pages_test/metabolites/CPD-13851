@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13851 CPD-13851] ==
+* smiles:
+** C(C3(C(CC(N2(C1(=C(C(N)=NC(=O)N1)N=C2)))O3)O))OP(OP(OP([O-])(=O)[O-])([O-])=O)([O-])=O
+* common name:
+** 2-hydroxy-dATP
+* inchi key:
+** InChIKey=UOACBPRDWRDEHJ-KVQBGUIXSA-J
+* molecular weight:
+** 503.152    
+* Synonym(s):
+** 2-hydroxy-2'-deoxyadenosine 5'-triphosphate
+** 2'-deoxyisoguanosine triphosphate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-14290]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=86289402 86289402]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=77897 77897]
+{{#set: smiles=C(C3(C(CC(N2(C1(=C(C(N)=NC(=O)N1)N=C2)))O3)O))OP(OP(OP([O-])(=O)[O-])([O-])=O)([O-])=O}}
+{{#set: common name=2-hydroxy-dATP}}
+{{#set: inchi key=InChIKey=UOACBPRDWRDEHJ-KVQBGUIXSA-J}}
+{{#set: molecular weight=503.152    }}
+{{#set: common name=2-hydroxy-2'-deoxyadenosine 5'-triphosphate|2'-deoxyisoguanosine triphosphate}}
+{{#set: produced by=RXN-14290}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17085 ==
+* right end position:
+** 1655
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1
+* centisome position:
+** 2.54582500e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TUBULIN-N-ACETYLTRANSFERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1655}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1}}
+{{#set: centisome position=2.54582500e-2}}
+{{#set: reaction associated=TUBULIN-N-ACETYLTRANSFERASE-RXN}}

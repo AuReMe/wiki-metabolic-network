@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-676 CPD-676] ==
+* smiles:
+** C([O-])(=O)C=CC1(C=C(O)C(O)=CC=1)
+* common name:
+** trans-caffeate
+* inchi key:
+** InChIKey=QAIPRVGONGVQAS-DUXPYHPUSA-M
+* molecular weight:
+** 179.152    
+* Synonym(s):
+** trans-caffeic acid
+** 3,4-dihydroxy-trans-cinnamate
+** (2E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-1126]]
+* [[RXN-1104]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54691412 54691412]
+* HMDB : HMDB03501
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01197 C01197]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4450294.html 4450294]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57770 57770]
+* METABOLIGHTS : MTBLC57770
+{{#set: smiles=C([O-])(=O)C=CC1(C=C(O)C(O)=CC=1)}}
+{{#set: common name=trans-caffeate}}
+{{#set: inchi key=InChIKey=QAIPRVGONGVQAS-DUXPYHPUSA-M}}
+{{#set: molecular weight=179.152    }}
+{{#set: common name=trans-caffeic acid|3,4-dihydroxy-trans-cinnamate|(2E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid}}
+{{#set: consumed by=RXN-1126|RXN-1104}}

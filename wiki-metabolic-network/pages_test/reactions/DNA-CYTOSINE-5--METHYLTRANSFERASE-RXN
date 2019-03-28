@@ -1,0 +1,122 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DNA-CYTOSINE-5--METHYLTRANSFERASE-RXN DNA-CYTOSINE-5--METHYLTRANSFERASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.1.1.37 EC-2.1.1.37]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[DNA-Cytosines]][c] '''+''' 1 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[5-Methylcytosine-DNA]][c] '''+''' 1 [[ADENOSYL-HOMO-CYS]][c]
+* With common name(s):
+** 1 a cytosine in DNA[c] '''+''' 1 S-adenosyl-L-methionine[c] '''=>''' 1 H+[c] '''+''' 1 a 5-methylcytosine in DNA[c] '''+''' 1 S-adenosyl-L-homocysteine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_9438]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5540]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_2359]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_10467]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00380 R00380]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P24581 P24581]
+** [http://www.uniprot.org/uniprot/P05102 P05102]
+** [http://www.uniprot.org/uniprot/P05101 P05101]
+** [http://www.uniprot.org/uniprot/P06530 P06530]
+** [http://www.uniprot.org/uniprot/O41165 O41165]
+** [http://www.uniprot.org/uniprot/Q98580 Q98580]
+** [http://www.uniprot.org/uniprot/Q98567 Q98567]
+** [http://www.uniprot.org/uniprot/Q59606 Q59606]
+** [http://www.uniprot.org/uniprot/P0A462 P0A462]
+** [http://www.uniprot.org/uniprot/P71101 P71101]
+** [http://www.uniprot.org/uniprot/P50192 P50192]
+** [http://www.uniprot.org/uniprot/P50185 P50185]
+** [http://www.uniprot.org/uniprot/Q38652 Q38652]
+** [http://www.uniprot.org/uniprot/P52311 P52311]
+** [http://www.uniprot.org/uniprot/P31974 P31974]
+** [http://www.uniprot.org/uniprot/P30774 P30774]
+** [http://www.uniprot.org/uniprot/P23941 P23941]
+** [http://www.uniprot.org/uniprot/P25262 P25262]
+** [http://www.uniprot.org/uniprot/P25267 P25267]
+** [http://www.uniprot.org/uniprot/P25263 P25263]
+** [http://www.uniprot.org/uniprot/P15446 P15446]
+** [http://www.uniprot.org/uniprot/P24600 P24600]
+** [http://www.uniprot.org/uniprot/P23737 P23737]
+** [http://www.uniprot.org/uniprot/P13906 P13906]
+** [http://www.uniprot.org/uniprot/P14243 P14243]
+** [http://www.uniprot.org/uniprot/P14244 P14244]
+** [http://www.uniprot.org/uniprot/P14230 P14230]
+** [http://www.uniprot.org/uniprot/P11409 P11409]
+** [http://www.uniprot.org/uniprot/P10283 P10283]
+** [http://www.uniprot.org/uniprot/P25265 P25265]
+** [http://www.uniprot.org/uniprot/P0AED9 P0AED9]
+** [http://www.uniprot.org/uniprot/P20589 P20589]
+** [http://www.uniprot.org/uniprot/Q02778 Q02778]
+** [http://www.uniprot.org/uniprot/P95820 P95820]
+** [http://www.uniprot.org/uniprot/P70750 P70750]
+** [http://www.uniprot.org/uniprot/P25264 P25264]
+** [http://www.uniprot.org/uniprot/Q47257 Q47257]
+** [http://www.uniprot.org/uniprot/O87740 O87740]
+** [http://www.uniprot.org/uniprot/P43420 P43420]
+** [http://www.uniprot.org/uniprot/Q9JWD8 Q9JWD8]
+** [http://www.uniprot.org/uniprot/Q9JU80 Q9JU80]
+** [http://www.uniprot.org/uniprot/P08455 P08455]
+** [http://www.uniprot.org/uniprot/P11408 P11408]
+** [http://www.uniprot.org/uniprot/P17044 P17044]
+** [http://www.uniprot.org/uniprot/P19888 P19888]
+** [http://www.uniprot.org/uniprot/P00476 P00476]
+** [http://www.uniprot.org/uniprot/P09915 P09915]
+** [http://www.uniprot.org/uniprot/P68586 P68586]
+** [http://www.uniprot.org/uniprot/Q9ZLZ0 Q9ZLZ0]
+** [http://www.uniprot.org/uniprot/O24892 O24892]
+** [http://www.uniprot.org/uniprot/P45000 P45000]
+** [http://www.uniprot.org/uniprot/P29567 P29567]
+** [http://www.uniprot.org/uniprot/P25282 P25282]
+** [http://www.uniprot.org/uniprot/Q9JQR8 Q9JQR8]
+** [http://www.uniprot.org/uniprot/O25746 O25746]
+** [http://www.uniprot.org/uniprot/P36216 P36216]
+** [http://www.uniprot.org/uniprot/P25283 P25283]
+** [http://www.uniprot.org/uniprot/O23273 O23273]
+** [http://www.uniprot.org/uniprot/Q92072 Q92072]
+** [http://www.uniprot.org/uniprot/P79922 P79922]
+** [http://www.uniprot.org/uniprot/O08431 O08431]
+** [http://www.uniprot.org/uniprot/Q9Z330 Q9Z330]
+** [http://www.uniprot.org/uniprot/P13864 P13864]
+** [http://www.uniprot.org/uniprot/Q9S9I8 Q9S9I8]
+** [http://www.uniprot.org/uniprot/P34881 P34881]
+** [http://www.uniprot.org/uniprot/Q60171 Q60171]
+** [http://www.uniprot.org/uniprot/O65343 O65343]
+** [http://www.uniprot.org/uniprot/O49022 O49022]
+** [http://www.uniprot.org/uniprot/Q9T0I1 Q9T0I1]
+** [http://www.uniprot.org/uniprot/O49889 O49889]
+** [http://www.uniprot.org/uniprot/O42731 O42731]
+** [http://www.uniprot.org/uniprot/O48866 O48866]
+** [http://www.uniprot.org/uniprot/O48867 O48867]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.1.1.37}}
+{{#set: gene associated=Tiso_gene_9438|Tiso_gene_5540|Tiso_gene_2359|Tiso_gene_10467}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana|orthology-creinhardtii|orthology-synechocystis|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

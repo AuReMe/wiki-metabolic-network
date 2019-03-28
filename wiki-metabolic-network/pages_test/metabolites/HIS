@@ -1,0 +1,45 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HIS HIS] ==
+* smiles:
+** C1(NC=NC=1CC(C(=O)[O-])[N+])
+* common name:
+** L-histidine
+* inchi key:
+** InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
+* molecular weight:
+** 155.156    
+* Synonym(s):
+** glyoxaline-5-alanine
+** &alpha;-amino-4-imidazoleproprionic acid
+** (S)-&alpha;-amino-1H-imidazole-4-propanoic acid
+** H
+** histidine
+** his
+** L-his
+
+== Reaction(s) known to consume the compound ==
+* [[RME144]]
+* [[HISTIDINE--TRNA-LIGASE-RXN]]
+* [[CARNOSINE-SYNTHASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-8001]]
+* [[HISTALDEHYD-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 71-00-1
+* BIGG : his__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6971009 6971009]
+* HMDB : HMDB00177
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00135 C00135]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57595 57595]
+* METABOLIGHTS : MTBLC57595
+{{#set: smiles=C1(NC=NC=1CC(C(=O)[O-])[N+])}}
+{{#set: common name=L-histidine}}
+{{#set: inchi key=InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N}}
+{{#set: molecular weight=155.156    }}
+{{#set: common name=glyoxaline-5-alanine|&alpha;-amino-4-imidazoleproprionic acid|(S)-&alpha;-amino-1H-imidazole-4-propanoic acid|H|histidine|his|L-his}}
+{{#set: consumed by=RME144|HISTIDINE--TRNA-LIGASE-RXN|CARNOSINE-SYNTHASE-RXN}}
+{{#set: produced by=RXN-8001|HISTALDEHYD-RXN}}

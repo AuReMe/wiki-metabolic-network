@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-METHYL-3-HYDROXY-BUTYRYL-COA 2-METHYL-3-HYDROXY-BUTYRYL-COA] ==
+* smiles:
+** CC(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C(C)O
+* common name:
+** (2S,3S)-3-hydroxy-2-methylbutanoyl-CoA
+* inchi key:
+** InChIKey=PEKYNTFSOBAABV-LQUDNSJZSA-J
+* molecular weight:
+** 863.619    
+* Synonym(s):
+** 2-methyl-3-hydroxybutyryl-CoA
+** (2S,3S)-3-hydroxy-2-methylbutyryl-CoA
+** (S)-3-hydroxy-2-methylbutyryl-CoA
+** 3-hydroxy-2-methylbutyryl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[TIGLYLCOA-HYDROXY-RXN]]
+* [[HMNOS]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657672 90657672]
+* HMDB : HMDB01356
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15449 15449]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04405 C04405]
+{{#set: smiles=CC(C(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-])C(C)O}}
+{{#set: common name=(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA}}
+{{#set: inchi key=InChIKey=PEKYNTFSOBAABV-LQUDNSJZSA-J}}
+{{#set: molecular weight=863.619    }}
+{{#set: common name=2-methyl-3-hydroxybutyryl-CoA|(2S,3S)-3-hydroxy-2-methylbutyryl-CoA|(S)-3-hydroxy-2-methylbutyryl-CoA|3-hydroxy-2-methylbutyryl-CoA}}
+{{#set: reversible reaction associated=TIGLYLCOA-HYDROXY-RXN|HMNOS}}

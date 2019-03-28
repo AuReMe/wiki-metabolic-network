@@ -1,0 +1,64 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5047 PWY-5047] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** gibberellin biosynthesis IV (Gibberella fujikuroi)
+* Synonym(s):
+** GA3 biosynthesis
+
+== Reaction(s) found ==
+ '''6''' reactions found over '''15''' reactions in the full pathway
+* [[1.14.13.78-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1547]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[1.14.13.79-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_3577]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-5242]]
+** 2 associated gene(s):
+*** [[Tiso_gene_8263]]
+*** [[Tiso_gene_1547]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN-7580]]
+** 2 associated gene(s):
+*** [[Tiso_gene_1547]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+* [[RXN1F-160]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3577]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN1F-161]]
+** 2 associated gene(s):
+*** [[Tiso_gene_3577]]
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6545 RXN-6545]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6549 RXN-6549]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7617 RXN-7617]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7619 RXN-7619]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7621 RXN-7621]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7624 RXN-7624]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7625 RXN-7625]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-7634 RXN-7634]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN1F-166 RXN1F-166]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=gibberellin biosynthesis IV (Gibberella fujikuroi)}}
+{{#set: common name=GA3 biosynthesis}}
+{{#set: reaction found=6}}
+{{#set: total reaction=15}}
+{{#set: completion rate=40.0}}

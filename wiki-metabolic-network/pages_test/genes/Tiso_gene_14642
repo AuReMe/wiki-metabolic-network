@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14642 ==
+* right end position:
+** 3563
+* transcription direction:
+** POSITIVE
+* left end position:
+** 191
+* centisome position:
+** 3.4613988    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[PHOSGLYPHOS-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-1042]]
+* [[PWY66-399]]
+* [[GLUCONEO-PWY]]
+* [[SUCSYN-PWY]]
+* [[PWY-6901]]
+* [[P124-PWY]]
+* [[GLYCOLYSIS]]
+* [[PWY-6886]]
+* [[CALVIN-PWY]]
+* [[ANAGLYCOLYSIS-PWY]]
+* [[P122-PWY]]
+* [[P185-PWY]]
+* [[PWY-5484]]
+* [[PWY-7003]]
+== External links  ==
+{{#set: right end position=3563}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=191}}
+{{#set: centisome position=3.4613988    }}
+{{#set: reaction associated=PHOSGLYPHOS-RXN}}
+{{#set: pathway associated=PWY-1042|PWY66-399|GLUCONEO-PWY|SUCSYN-PWY|PWY-6901|P124-PWY|GLYCOLYSIS|PWY-6886|CALVIN-PWY|ANAGLYCOLYSIS-PWY|P122-PWY|P185-PWY|PWY-5484|PWY-7003}}

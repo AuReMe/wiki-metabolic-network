@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BCAA-dehydrogenase-lipoyl BCAA-dehydrogenase-lipoyl] ==
+* common name:
+** an [apo BCAA dehydrogenase E2 protein] N6-lipoyl-L-lysine
+* Synonym(s):
+** an [enzyme] N6-(lipoyl)lysine
+
+== Reaction(s) known to consume the compound ==
+* [[KETOISOCAPROATE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[1.2.4.4-RXN]]
+* [[METHYLVALERATE-RXN]]
+* [[RXN-7719]]
+== External links  ==
+{{#set: common name=an [apo BCAA dehydrogenase E2 protein] N6-lipoyl-L-lysine}}
+{{#set: common name=an [enzyme] N6-(lipoyl)lysine}}
+{{#set: consumed by=KETOISOCAPROATE-RXN}}
+{{#set: reversible reaction associated=1.2.4.4-RXN|METHYLVALERATE-RXN|RXN-7719}}

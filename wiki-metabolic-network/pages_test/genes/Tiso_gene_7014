@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_7014 ==
+* right end position:
+** 11588
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 7128
+* centisome position:
+** 61.342514    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[IDP]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[INORGPYROPHOSPHAT-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+* [[PWY-7805]]
+* [[PWY-7807]]
+== External links  ==
+{{#set: right end position=11588}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=7128}}
+{{#set: centisome position=61.342514    }}
+{{#set: reaction associated=IDP|INORGPYROPHOSPHAT-RXN}}
+{{#set: pathway associated=PWY-7805|PWY-7807}}

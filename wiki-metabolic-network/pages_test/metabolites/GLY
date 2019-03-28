@@ -1,0 +1,65 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLY GLY] ==
+* smiles:
+** C([N+])C([O-])=O
+* common name:
+** glycine
+* inchi key:
+** InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
+* molecular weight:
+** 75.067    
+* Synonym(s):
+** G
+** aminoacetic acid
+** gly
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13406]]
+* [[GLYRIBONUCSYN-RXN]]
+* [[RME144]]
+* [[1.4.3.19-RXN]]
+* [[GLYCINE--TRNA-LIGASE-RXN]]
+* [[RXN-10821]]
+* [[GLUTATHIONE-SYN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-6622]]
+* [[2.3.2.15-RXN]]
+* [[RXN-13677]]
+* [[SARCOSINE-DEHYDROGENASE-RXN]]
+* [[RXN-9896]]
+* [[THREONINE-ALDOLASE-RXN]]
+* [[RXN66-577]]
+* [[RXN-6642]]
+* [[AKBLIG-RXN]]
+* [[RXN0-5234]]
+== Reaction(s) of unknown directionality ==
+* [[ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN]]
+* [[GLYCINE-AMINOTRANSFERASE-RXN]]
+* [[GCVP-RXN]]
+* [[GLYCINE-DEHYDROGENASE-RXN]]
+* [[GLYOHMETRANS-RXN]]
+* [[GLYNA1tm]]
+* [[GLYNA1th]]
+== External links  ==
+* CAS : 56-40-6
+* BIGG : gly
+* DRUGBANK : DB00145
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5257127 5257127]
+* KNAPSACK : C00001361
+* HMDB : HMDB00123
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00037 C00037]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.730.html 730]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15428 15428]
+* METABOLIGHTS : MTBLC15428
+{{#set: smiles=C([N+])C([O-])=O}}
+{{#set: common name=glycine}}
+{{#set: inchi key=InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N}}
+{{#set: molecular weight=75.067    }}
+{{#set: common name=G|aminoacetic acid|gly}}
+{{#set: consumed by=RXN-13406|GLYRIBONUCSYN-RXN|RME144|1.4.3.19-RXN|GLYCINE--TRNA-LIGASE-RXN|RXN-10821|GLUTATHIONE-SYN-RXN}}
+{{#set: produced by=RXN-6622|2.3.2.15-RXN|RXN-13677|SARCOSINE-DEHYDROGENASE-RXN|RXN-9896|THREONINE-ALDOLASE-RXN|RXN66-577|RXN-6642|AKBLIG-RXN|RXN0-5234}}
+{{#set: reversible reaction associated=ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN|GLYCINE-AMINOTRANSFERASE-RXN|GCVP-RXN|GLYCINE-DEHYDROGENASE-RXN|GLYOHMETRANS-RXN|GLYNA1tm|GLYNA1th}}

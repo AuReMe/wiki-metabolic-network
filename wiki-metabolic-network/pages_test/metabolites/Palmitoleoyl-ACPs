@@ -1,0 +1,25 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Palmitoleoyl-ACPs Palmitoleoyl-ACPs] ==
+* common name:
+** a palmitoleoyl-[acp]
+* Synonym(s):
+** a (Z)-hexadec-9-enoyl-[acp]
+** a (Z)-hexadec-9-enoyl-[acyl-carrier-protein]
+** a cis-hexadec-9-enoyl-[acp]
+** a cis-hexadec-9-enoyl-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17020]]
+* [[2.3.1.179-RXN]]
+* [[RXN-17013]]
+* [[RXN-17012]]
+* [[RXN-9550]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-8389]]
+* [[RXN-10661]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a palmitoleoyl-[acp]}}
+{{#set: common name=a (Z)-hexadec-9-enoyl-[acp]|a (Z)-hexadec-9-enoyl-[acyl-carrier-protein]|a cis-hexadec-9-enoyl-[acp]|a cis-hexadec-9-enoyl-[acyl-carrier-protein]}}
+{{#set: consumed by=RXN-17020|2.3.1.179-RXN|RXN-17013|RXN-17012|RXN-9550}}
+{{#set: produced by=RXN-8389|RXN-10661}}

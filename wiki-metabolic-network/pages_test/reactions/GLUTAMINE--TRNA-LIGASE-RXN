@@ -1,0 +1,67 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLUTAMINE--TRNA-LIGASE-RXN GLUTAMINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** glutamyl_or_glutaminyl_trna_synthetase
+** glutamine--trna_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.18 EC-6.1.1.18]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[GLN]][c] '''+''' 1 [[GLN-tRNAs]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[AMP]][c] '''+''' 1 [[Charged-GLN-tRNAs]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 L-glutamine[c] '''+''' 1 a tRNAgln[c] '''=>''' 1 diphosphate[c] '''+''' 1 AMP[c] '''+''' 1 an L-glutaminyl-[tRNAgln][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5915]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11124]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_7596]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20121 20121]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03652 R03652]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/O59314 O59314]
+** [http://www.uniprot.org/uniprot/P43831 P43831]
+** [http://www.uniprot.org/uniprot/P47897 P47897]
+** [http://www.uniprot.org/uniprot/P14325 P14325]
+** [http://www.uniprot.org/uniprot/P95968 P95968]
+** [http://www.uniprot.org/uniprot/P13188 P13188]
+** [http://www.uniprot.org/uniprot/P00962 P00962]
+** [http://www.uniprot.org/uniprot/P52780 P52780]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=glutamyl_or_glutaminyl_trna_synthetase}}
+{{#set: common name=glutamine--trna_ligase}}
+{{#set: ec number=EC-6.1.1.18}}
+{{#set: gene associated=Tiso_gene_5915|Tiso_gene_11124|Tiso_gene_7596}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

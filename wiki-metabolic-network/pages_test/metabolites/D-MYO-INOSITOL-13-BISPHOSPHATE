@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=D-MYO-INOSITOL-13-BISPHOSPHATE D-MYO-INOSITOL-13-BISPHOSPHATE] ==
+* smiles:
+** C1(O)(C(O)C(OP([O-])([O-])=O)C(O)C(OP(=O)([O-])[O-])C(O)1)
+* common name:
+** D-myo-inositol (1,3)-bisphosphate
+* inchi key:
+** InChIKey=PUVHMWJJTITUGO-FICORBCRSA-J
+* molecular weight:
+** 336.085    
+* Synonym(s):
+** 1D-myo-inositol (1,3)-bisphosphate
+** myo-inositol (1,3)-bisphosphate
+** inositol (1,3)-bisphosphate
+** Ins(1,3)P2
+** I(1,3)P2
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10959]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 103597-56-4
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25201139 25201139]
+* HMDB : HMDB06234
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=83242 83242]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04062 C04062]
+{{#set: smiles=C1(O)(C(O)C(OP([O-])([O-])=O)C(O)C(OP(=O)([O-])[O-])C(O)1)}}
+{{#set: common name=D-myo-inositol (1,3)-bisphosphate}}
+{{#set: inchi key=InChIKey=PUVHMWJJTITUGO-FICORBCRSA-J}}
+{{#set: molecular weight=336.085    }}
+{{#set: common name=1D-myo-inositol (1,3)-bisphosphate|myo-inositol (1,3)-bisphosphate|inositol (1,3)-bisphosphate|Ins(1,3)P2|I(1,3)P2}}
+{{#set: produced by=RXN-10959}}

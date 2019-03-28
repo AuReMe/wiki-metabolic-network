@@ -1,0 +1,42 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6609 PWY-6609] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2157 TAX-2157]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** adenine and adenosine salvage III
+* Synonym(s):
+** adenosine nucleotides salvage III
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''4''' reactions in the full pathway
+* [[ADENODEAMIN-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_19373]]
+*** [[Tiso_gene_18322]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[HYPOXANPRIBOSYLTRAN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13506]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[INOPHOSPHOR-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=ADENPHOSPHOR-RXN ADENPHOSPHOR-RXN]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY-6609 PWY-6609]
+{{#set: taxonomic range=TAX-2157}}
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=adenine and adenosine salvage III}}
+{{#set: common name=adenosine nucleotides salvage III}}
+{{#set: reaction found=3}}
+{{#set: total reaction=4}}
+{{#set: completion rate=75.0}}

@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-2141 RXN0-2141] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 3-oxoacyl-synthase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.3.1.41 EC-2.3.1.41]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[PROTON]][c] '''+''' 1 [[MALONYL-ACP]][c] '''+''' 1 [[Cis-delta-3-decenoyl-ACPs]][c] '''=>''' 1 [[ACP]][c] '''+''' 1 [[CARBON-DIOXIDE]][c] '''+''' 1 [[b-Keto-cis-D5-dodecenoyl-ACPs]][c]
+* With common name(s):
+** 1 H+[c] '''+''' 1 a malonyl-[acp][c] '''+''' 1 a (3Z)-dec-3-enoyl-[acp][c] '''=>''' 1 a holo-[acyl-carrier protein][c] '''+''' 1 CO2[c] '''+''' 1 a (5Z)-3-oxo-dodec-5-enoyl-[acp][c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5939]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY0-862]], (5Z)-dodec-5-enoate biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY0-862 PWY0-862]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=3-oxoacyl-synthase}}
+{{#set: ec number=EC-2.3.1.41}}
+{{#set: gene associated=Tiso_gene_5939}}
+{{#set: in pathway=PWY0-862}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

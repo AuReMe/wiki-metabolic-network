@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-9844 RXN-9844] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** (25R)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestan-26-al 26-hydroxylase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CPD-10587]][c] '''+''' 1 [[OXYGEN-MOLECULE]][c] '''+''' 2 [[Reduced-adrenal-ferredoxins]][c] '''+''' 1 [[PROTON]][c] '''=>''' 1 [[CPD-1834]][c] '''+''' 1 [[WATER]][c] '''+''' 2 [[Oxidized-adrenal-ferredoxins]][c]
+* With common name(s):
+** 1 (25R)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestan-26-al[c] '''+''' 1 oxygen[c] '''+''' 2 a reduced  adrenodoxin[c] '''+''' 1 H+[c] '''=>''' 1 (25R)-3&alpha;,7&alpha;-dihydroxy-5-&beta;-cholestanate[c] '''+''' 1 H2O[c] '''+''' 2 an oxidized adrenodoxin[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7322]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-6061]], bile acid biosynthesis, neutral pathway: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6061 PWY-6061]
+** '''3''' reactions found over '''29''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04506 R04506]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=(25R)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestan-26-al 26-hydroxylase}}
+{{#set: gene associated=Tiso_gene_7322}}
+{{#set: in pathway=PWY-6061}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

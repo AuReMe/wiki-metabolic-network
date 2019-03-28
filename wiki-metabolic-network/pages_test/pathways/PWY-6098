@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6098 PWY-6098] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-13819 TAX-13819]
+* common name:
+** diploterol and cycloartenol biosynthesis
+* Synonym(s):
+** 22-hydroxyphopane-1 biosynthesis
+** cycloartenol biosynthesis
+** diploterol biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[5.4.99.17-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_12198]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[CYCLOARTENOL-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14526]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-4961 RXN-4961]
+* [http://metacyc.org/META/NEW-IMAGE?object=SQUALENE-MONOOXYGENASE-RXN SQUALENE-MONOOXYGENASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-13819}}
+{{#set: common name=diploterol and cycloartenol biosynthesis}}
+{{#set: common name=22-hydroxyphopane-1 biosynthesis|cycloartenol biosynthesis|diploterol biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

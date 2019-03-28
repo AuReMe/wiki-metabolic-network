@@ -1,0 +1,38 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15942 ==
+* right end position:
+** 2192
+* transcription direction:
+** POSITIVE
+* left end position:
+** 249
+* centisome position:
+** 5.310301    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIHYDROFOLATESYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[FOLYLPOLYGLUTAMATESYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[FORMYLTHFGLUSYNTH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-6341]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN0-2921]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-2161]]
+* [[PWY-6614]]
+== External links  ==
+{{#set: right end position=2192}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=249}}
+{{#set: centisome position=5.310301    }}
+{{#set: reaction associated=DIHYDROFOLATESYNTH-RXN|FOLYLPOLYGLUTAMATESYNTH-RXN|FORMYLTHFGLUSYNTH-RXN|RXN-6341|RXN0-2921}}
+{{#set: pathway associated=PWY-2161|PWY-6614}}

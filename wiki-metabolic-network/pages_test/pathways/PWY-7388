@@ -1,0 +1,130 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7388 PWY-7388] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2759 TAX-2759]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)
+* Synonym(s):
+** octanoyl-ACP biosynthesis (mitochondria, yeast)
+
+== Reaction(s) found ==
+ '''9''' reactions found over '''9''' reactions in the full pathway
+* [[3-OXOACYL-ACP-SYNTH-BASE-RXN]]
+** 9 associated gene(s):
+*** [[Tiso_gene_5939]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_14485]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_15991]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_19302]]
+*** [[Tiso_gene_10876]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[4.2.1.58-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_6884]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_135]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[ACETYL-COA-CARBOXYLTRANSFER-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_2812]]
+*** [[Tiso_gene_3800]]
+*** [[Tiso_gene_5029]]
+*** [[Tiso_gene_7965]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[MALONYL-COA-ACP-TRANSACYL-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_19309]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_18460]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_13394]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-14972]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-14973]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-9514]]
+** 10 associated gene(s):
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_16579]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_13083]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_9885]]
+*** [[Tiso_gene_10415]]
+*** [[Tiso_gene_624]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-9515]]
+** 5 associated gene(s):
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_500]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-9516]]
+** 4 associated gene(s):
+*** [[Tiso_gene_5939]]
+*** [[Tiso_gene_14485]]
+*** [[Tiso_gene_15991]]
+*** [[Tiso_gene_19302]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-2759}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)}}
+{{#set: common name=octanoyl-ACP biosynthesis (mitochondria, yeast)}}
+{{#set: reaction found=9}}
+{{#set: total reaction=9}}
+{{#set: completion rate=100.0}}

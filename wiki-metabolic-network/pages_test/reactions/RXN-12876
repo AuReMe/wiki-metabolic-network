@@ -1,0 +1,26 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-12876 RXN-12876] ==
+* direction:
+** LEFT-TO-RIGHT
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[Cytochromes-C-Oxidized]][c] '''+''' 1 [[ASCORBATE]][c] '''=>''' 1 [[L-DEHYDRO-ASCORBATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 2 [[Cytochromes-C-Reduced]][c]
+* With common name(s):
+** 2 an oxidized c-type cytochrome[c] '''+''' 1 L-ascorbate[c] '''=>''' 1 L-dehydro-ascorbate[c] '''+''' 1 H+[c] '''+''' 2 a reduced c-type cytochrome[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R07679 R07679]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DEOXYXYLULOSE-5P DEOXYXYLULOSE-5P] ==
+* smiles:
+** CC(=O)C(O)C(O)COP([O-])(=O)[O-]
+* common name:
+** 1-deoxy-D-xylulose 5-phosphate
+* inchi key:
+** InChIKey=AJPADPZSRRUGHI-RFZPGFLSSA-L
+* molecular weight:
+** 212.096    
+* Synonym(s):
+** DXP
+** deoxyxylulose-5-phosphate
+** D-1-deoxyxylulose-5-P
+** 1-deoxy-D-threo-pentulose 5-phosphate
+** DOXP
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DXS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[DXPREDISOM-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=23420274 23420274]
+* HMDB : HMDB01213
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C11437 C11437]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10462373.html 10462373]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57792 57792]
+* BIGG : dxyl5p
+{{#set: smiles=CC(=O)C(O)C(O)COP([O-])(=O)[O-]}}
+{{#set: common name=1-deoxy-D-xylulose 5-phosphate}}
+{{#set: inchi key=InChIKey=AJPADPZSRRUGHI-RFZPGFLSSA-L}}
+{{#set: molecular weight=212.096    }}
+{{#set: common name=DXP|deoxyxylulose-5-phosphate|D-1-deoxyxylulose-5-P|1-deoxy-D-threo-pentulose 5-phosphate|DOXP}}
+{{#set: produced by=DXS-RXN}}
+{{#set: reversible reaction associated=DXPREDISOM-RXN}}

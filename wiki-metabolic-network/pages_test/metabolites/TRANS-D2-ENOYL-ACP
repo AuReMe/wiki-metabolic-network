@@ -1,0 +1,27 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TRANS-D2-ENOYL-ACP TRANS-D2-ENOYL-ACP] ==
+* common name:
+** a trans-2-enoyl-[acyl-carrier protein]
+* Synonym(s):
+** &alpha;,&beta;-trans-enoyl-ACP
+** CH3(CH2)xCH=CHCO-S-ACP
+** trans-2,3-dehydroacyl-ACP
+** trans-2,3-dehydroacyl-[acyl-carrier protein]
+** a trans-2,3-dehydroacyl-[acyl-carrier protein]
+** a trans-2,3-dehydroacyl-[acp]
+** an &alpha;,&beta;-a trans-enoyl-[acp]
+** a trans-&Delta;2-enoyl-acyl-[acp]
+
+== Reaction(s) known to consume the compound ==
+* [[ENOYL-ACP-REDUCT-NADPH-RXN]]
+* [[ENOYL-ACP-REDUCT-NADH-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3-HYDROXYDECANOYL-ACP-DEHYDR-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[1.3.1.9-RXN]]
+== External links  ==
+{{#set: common name=a trans-2-enoyl-[acyl-carrier protein]}}
+{{#set: common name=&alpha;,&beta;-trans-enoyl-ACP|CH3(CH2)xCH=CHCO-S-ACP|trans-2,3-dehydroacyl-ACP|trans-2,3-dehydroacyl-[acyl-carrier protein]|a trans-2,3-dehydroacyl-[acyl-carrier protein]|a trans-2,3-dehydroacyl-[acp]|an &alpha;,&beta;-a trans-enoyl-[acp]|a trans-&Delta;2-enoyl-acyl-[acp]}}
+{{#set: consumed by=ENOYL-ACP-REDUCT-NADPH-RXN|ENOYL-ACP-REDUCT-NADH-RXN}}
+{{#set: produced by=3-HYDROXYDECANOYL-ACP-DEHYDR-RXN}}
+{{#set: reversible reaction associated=1.3.1.9-RXN}}

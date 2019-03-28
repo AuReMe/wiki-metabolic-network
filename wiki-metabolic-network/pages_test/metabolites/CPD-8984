@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8984 CPD-8984] ==
+* smiles:
+** C3(C=CC(C2(C(C1(C=CC=CC=1))O2))=CC=3)
+* common name:
+** cis-stilbene oxide
+* inchi key:
+** InChIKey=ARCJQKUWGAZPFX-OKILXGFUSA-N
+* molecular weight:
+** 196.248    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[3.3.2.9-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=98511 98511]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.88966.html 88966]
+* HMDB : HMDB59631
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=50004 50004]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16014 C16014]
+{{#set: smiles=C3(C=CC(C2(C(C1(C=CC=CC=1))O2))=CC=3)}}
+{{#set: common name=cis-stilbene oxide}}
+{{#set: inchi key=InChIKey=ARCJQKUWGAZPFX-OKILXGFUSA-N}}
+{{#set: molecular weight=196.248    }}
+{{#set: reversible reaction associated=3.3.2.9-RXN}}

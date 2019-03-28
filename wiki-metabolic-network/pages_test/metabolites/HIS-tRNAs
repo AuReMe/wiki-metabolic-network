@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HIS-tRNAs HIS-tRNAs] ==
+* common name:
+** a tRNAhis
+* Synonym(s):
+** TRNA(HIS)
+
+== Reaction(s) known to consume the compound ==
+* [[HISTIDINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAhis}}
+{{#set: common name=TRNA(HIS)}}
+{{#set: consumed by=HISTIDINE--TRNA-LIGASE-RXN}}

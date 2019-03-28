@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_582 ==
+* right end position:
+** 24586
+* transcription direction:
+** POSITIVE
+* left end position:
+** 23226
+* centisome position:
+** 73.80831    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=24586}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=23226}}
+{{#set: centisome position=73.80831    }}
+{{#set: reaction associated=TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN}}

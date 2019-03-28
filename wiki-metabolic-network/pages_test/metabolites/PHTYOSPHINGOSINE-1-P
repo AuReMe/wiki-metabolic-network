@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PHTYOSPHINGOSINE-1-P PHTYOSPHINGOSINE-1-P] ==
+* smiles:
+** CCCCCCCCCCCCCCC(O)C(C(COP([O-])(=O)[O-])[N+])O
+* common name:
+** phytosphingosine 1-phosphate
+* inchi key:
+** InChIKey=AYGOSKULTISFCW-KSZLIROESA-M
+* molecular weight:
+** 396.483    
+* Synonym(s):
+** (2S,3S,4R)-2-ammonio-3,4-dihydroxyoctadecyl phosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-13729]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=57339286 57339286]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=64795 64795]
+* HMDB : HMDB12280
+{{#set: smiles=CCCCCCCCCCCCCCC(O)C(C(COP([O-])(=O)[O-])[N+])O}}
+{{#set: common name=phytosphingosine 1-phosphate}}
+{{#set: inchi key=InChIKey=AYGOSKULTISFCW-KSZLIROESA-M}}
+{{#set: molecular weight=396.483    }}
+{{#set: common name=(2S,3S,4R)-2-ammonio-3,4-dihydroxyoctadecyl phosphate}}
+{{#set: consumed by=RXN-13729}}

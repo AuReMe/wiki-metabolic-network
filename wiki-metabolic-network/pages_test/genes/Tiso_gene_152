@@ -1,0 +1,31 @@
+[[Category:Gene]]
+== Gene Tiso_gene_152 ==
+* right end position:
+** 30377
+* transcription direction:
+** POSITIVE
+* left end position:
+** 28220
+* centisome position:
+** 69.55536    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13398]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7676]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7677]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-5068]]
+== External links  ==
+{{#set: right end position=30377}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=28220}}
+{{#set: centisome position=69.55536    }}
+{{#set: reaction associated=RXN-13398|RXN-7676|RXN-7677}}
+{{#set: pathway associated=PWY-5068}}

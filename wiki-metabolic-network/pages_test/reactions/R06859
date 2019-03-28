@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R06859 R06859] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R612
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[CPD-6947]][c] '''+''' 1.0 [[S-ADENOSYLMETHIONINE]][c] '''=>''' 1.0 [[ADENOSYL-HOMO-CYS]][c] '''+''' 1.0 [[2-METHYL-3-PHYTYL-14-NAPHTHOQUINONE]][c]
+* With common name(s):
+** 1.0 demethylphylloquinone[c] '''+''' 1.0 S-adenosyl-L-methionine[c] '''=>''' 1.0 S-adenosyl-L-homocysteine[c] '''+''' 1.0 phylloquinone[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_19352]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R612}}
+{{#set: gene associated=Tiso_gene_19352}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

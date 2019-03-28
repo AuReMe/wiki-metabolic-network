@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-14950 CPD-14950] ==
+* smiles:
+** COC3(C(=O)C1(C(=CC(O)=CC(O)=1)OC(C2(C=CC(O)=CC=2))=3))
+* common name:
+** 3-O-methylkaempferol
+* inchi key:
+** InChIKey=VJJZJBUCDWKPLC-UHFFFAOYSA-N
+* molecular weight:
+** 300.267    
+* Synonym(s):
+** kaempferol 3-methyl ether
+** 3-Methoxyapigenin
+** isokaempferide
+** 3-methylkaempferol
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-13935]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5280862 5280862]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=1579 1579]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05902 C05902]
+{{#set: smiles=COC3(C(=O)C1(C(=CC(O)=CC(O)=1)OC(C2(C=CC(O)=CC=2))=3))}}
+{{#set: common name=3-O-methylkaempferol}}
+{{#set: inchi key=InChIKey=VJJZJBUCDWKPLC-UHFFFAOYSA-N}}
+{{#set: molecular weight=300.267    }}
+{{#set: common name=kaempferol 3-methyl ether|3-Methoxyapigenin|isokaempferide|3-methylkaempferol}}
+{{#set: produced by=RXN-13935}}

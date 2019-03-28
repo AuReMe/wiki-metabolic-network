@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12652 ==
+* right end position:
+** 4467
+* transcription direction:
+** POSITIVE
+* left end position:
+** 3
+* centisome position:
+** 4.41111600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[SUPEROX-DISMUT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[DETOX1-PWY]]
+* [[PWY-6854]]
+* [[DETOX1-PWY-1]]
+== External links  ==
+{{#set: right end position=4467}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=3}}
+{{#set: centisome position=4.41111600e-2}}
+{{#set: reaction associated=SUPEROX-DISMUT-RXN}}
+{{#set: pathway associated=DETOX1-PWY|PWY-6854|DETOX1-PWY-1}}

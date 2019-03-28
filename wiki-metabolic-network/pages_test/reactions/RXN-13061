@@ -1,0 +1,41 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-13061 RXN-13061] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** tyrosinase
+* ec number:
+** [http://enzyme.expasy.org/EC/1.10.3 EC-1.10.3]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OXYGEN-MOLECULE]][c] '''+''' 2 [[L-DIHYDROXY-PHENYLALANINE]][c] '''=>''' 2 [[DOPAQUINONE]][c] '''+''' 2 [[WATER]][c]
+* With common name(s):
+** 1 oxygen[c] '''+''' 2 L-dopa[c] '''=>''' 2 dopaquinone[c] '''+''' 2 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_1791]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-5399]], betacyanin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5399 PWY-5399]
+** '''3''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=34287 34287]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00045 R00045]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=tyrosinase}}
+{{#set: ec number=EC-1.10.3}}
+{{#set: gene associated=Tiso_gene_1791}}
+{{#set: in pathway=PWY-5399}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

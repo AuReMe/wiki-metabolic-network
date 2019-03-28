@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-cis-D19-37-3-oxo-C56-2-ACPs cis-cis-D19-37-3-oxo-C56-2-ACPs] ==
+* common name:
+** a cis,cis-delta19,37-3-oxo-C56:2-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-409]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis,cis-delta19,37-3-oxo-C56:2-[acp]}}
+{{#set: consumed by=RXN1G-409}}

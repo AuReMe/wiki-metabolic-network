@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=trans-delta2-behenoyl-ACPs trans-delta2-behenoyl-ACPs] ==
+* common name:
+** a trans-docos-2-enoyl-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-488]]
+== Reaction(s) known to produce the compound ==
+* [[RXN1G-363]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a trans-docos-2-enoyl-[acp]}}
+{{#set: consumed by=RXN1G-488}}
+{{#set: produced by=RXN1G-363}}

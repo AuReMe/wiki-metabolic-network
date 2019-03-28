@@ -1,0 +1,12 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19583 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[UDPACYLGLCNACDEACETYL-RXN]]
+** Source: [[orthology-synechocystis]]
+== Pathways associated ==
+* [[NAGLIPASYN-PWY]]
+== External links  ==
+{{#set: reaction associated=UDPACYLGLCNACDEACETYL-RXN}}
+{{#set: pathway associated=NAGLIPASYN-PWY}}

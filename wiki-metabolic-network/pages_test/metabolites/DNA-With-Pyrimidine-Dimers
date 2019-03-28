@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DNA-With-Pyrimidine-Dimers DNA-With-Pyrimidine-Dimers] ==
+* common name:
+** a DNA containing a pyrimidine dimer
+* Synonym(s):
+** a DNA containing cyclobutadipyrimidine
+
+== Reaction(s) known to consume the compound ==
+* [[DEOXYRIBODIPYRIMIDINE-PHOTOLYASE-RXN]]
+* [[3.2.2.17-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a DNA containing a pyrimidine dimer}}
+{{#set: common name=a DNA containing cyclobutadipyrimidine}}
+{{#set: consumed by=DEOXYRIBODIPYRIMIDINE-PHOTOLYASE-RXN|3.2.2.17-RXN}}

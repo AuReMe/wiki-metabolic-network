@@ -1,0 +1,18 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=RNA-Holder RNA-Holder] ==
+* common name:
+** RNA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.1.27.1-RXN]]
+* [[RME294]]
+== Reaction(s) known to produce the compound ==
+* [[RME256]]
+== Reaction(s) of unknown directionality ==
+* [[DNA-DIRECTED-RNA-POLYMERASE-RXN]]
+== External links  ==
+{{#set: common name=RNA}}
+{{#set: consumed by=3.1.27.1-RXN|RME294}}
+{{#set: produced by=RME256}}
+{{#set: reversible reaction associated=DNA-DIRECTED-RNA-POLYMERASE-RXN}}

@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15834 ==
+* right end position:
+** 3086
+* transcription direction:
+** POSITIVE
+* left end position:
+** 435
+* centisome position:
+** 9.1118555    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ARYLSULFAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3086}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=435}}
+{{#set: centisome position=9.1118555    }}
+{{#set: reaction associated=ARYLSULFAT-RXN}}

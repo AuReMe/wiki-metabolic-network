@@ -1,0 +1,32 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11712 CPD-11712] ==
+* smiles:
+** CC(=CCCC(C)=CCCC(=CCCC(C)=CCC1(=C(O)C(C)=CC(O)=C1))C)C
+* common name:
+** 2-methyl-6-geranylgeranyl-1,4-benzoquinol
+* inchi key:
+** InChIKey=DOWCCBNJUZOLRJ-MLAGYPMBSA-N
+* molecular weight:
+** 396.612    
+* Synonym(s):
+** MGGBQ
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14917]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C20737 C20737]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.10470958.html 10470958]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=75411 75411]
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=14759579 14759579]
+{{#set: smiles=CC(=CCCC(C)=CCCC(=CCCC(C)=CCC1(=C(O)C(C)=CC(O)=C1))C)C}}
+{{#set: common name=2-methyl-6-geranylgeranyl-1,4-benzoquinol}}
+{{#set: inchi key=InChIKey=DOWCCBNJUZOLRJ-MLAGYPMBSA-N}}
+{{#set: molecular weight=396.612    }}
+{{#set: common name=MGGBQ}}
+{{#set: consumed by=RXN-14917}}

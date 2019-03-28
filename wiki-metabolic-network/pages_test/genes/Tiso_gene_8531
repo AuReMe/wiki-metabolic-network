@@ -1,0 +1,17 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8531 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-8999]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5180]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-5785]]
+== External links  ==
+{{#set: reaction associated=RXN-8999|RXN0-5180}}
+{{#set: pathway associated=PWY-5785}}

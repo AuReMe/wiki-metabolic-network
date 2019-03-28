@@ -1,0 +1,26 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11763 CPD-11763] ==
+* smiles:
+** C(SSSCC(NC(=O)CCC([N+])C(=O)[O-])C(=O)NCC(=O)[O-])C(C(O)NCC(=O)[O-])NC(CCC(C([O-])=O)[N+])=O
+* common name:
+** bisorganyltrisulfane
+* inchi key:
+** InChIKey=IMZRQZICOZIGNP-UHFFFAOYSA-L
+* molecular weight:
+** 644.686    
+* Synonym(s):
+** GS3G
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-10851]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45479371 45479371]
+{{#set: smiles=C(SSSCC(NC(=O)CCC([N+])C(=O)[O-])C(=O)NCC(=O)[O-])C(C(O)NCC(=O)[O-])NC(CCC(C([O-])=O)[N+])=O}}
+{{#set: common name=bisorganyltrisulfane}}
+{{#set: inchi key=InChIKey=IMZRQZICOZIGNP-UHFFFAOYSA-L}}
+{{#set: molecular weight=644.686    }}
+{{#set: common name=GS3G}}
+{{#set: reversible reaction associated=RXN-10851}}

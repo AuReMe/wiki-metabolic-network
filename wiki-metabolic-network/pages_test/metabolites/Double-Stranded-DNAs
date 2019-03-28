@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Double-Stranded-DNAs Double-Stranded-DNAs] ==
+* common name:
+** a double stranded DNA
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[5.99.1.3-RXN]]
+== External links  ==
+{{#set: common name=a double stranded DNA}}
+{{#set: reversible reaction associated=5.99.1.3-RXN}}

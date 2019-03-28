@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Enoylglutaryl-ACP-methyl-esters Enoylglutaryl-ACP-methyl-esters] ==
+* common name:
+** an enoylglutaryl-[acp] methyl ester
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[EGMEACPR]]
+* [[RXN-11478]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11477]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=an enoylglutaryl-[acp] methyl ester}}
+{{#set: consumed by=EGMEACPR|RXN-11478}}
+{{#set: produced by=RXN-11477}}

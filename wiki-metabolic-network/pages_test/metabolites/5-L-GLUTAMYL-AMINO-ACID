@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=5-L-GLUTAMYL-AMINO-ACID 5-L-GLUTAMYL-AMINO-ACID] ==
+* common name:
+** a 5-L-glutamyl-amino acid
+* Synonym(s):
+** an L-&gamma;-glutamyl-amino acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[GAMMA-GLUTAMYLTRANSFERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 5-L-glutamyl-amino acid}}
+{{#set: common name=an L-&gamma;-glutamyl-amino acid}}
+{{#set: produced by=GAMMA-GLUTAMYLTRANSFERASE-RXN}}

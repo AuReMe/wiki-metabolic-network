@@ -1,0 +1,46 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-14065 RXN-14065] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** nucleoside_hydrolase
+* ec number:
+** [http://enzyme.expasy.org/EC/3.2.2.10 EC-3.2.2.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[CMP]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[CYTOSINE]][c] '''+''' 1 [[CPD-15317]][c]
+* With common name(s):
+** 1 CMP[c] '''+''' 1 H2O[c] '''=>''' 1 cytosine[c] '''+''' 1 D-ribofuranose 5-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11910]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_12995]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[PWY-7570]], blasticidin S biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7570 PWY-7570]
+** '''1''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-7569]], arginomycin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7569 PWY-7569]
+** '''1''' reactions found over '''9''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=30078 30078]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00510 R00510]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=nucleoside_hydrolase}}
+{{#set: ec number=EC-3.2.2.10}}
+{{#set: gene associated=Tiso_gene_11910|Tiso_gene_12995}}
+{{#set: in pathway=PWY-7570|PWY-7569}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

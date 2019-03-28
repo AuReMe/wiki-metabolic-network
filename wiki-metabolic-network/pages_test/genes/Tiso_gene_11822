@@ -1,0 +1,27 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11822 ==
+* right end position:
+** 7413
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 900
+* centisome position:
+** 12.006404    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DNA-DIRECTED-DNA-POLYMERASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-4961]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=7413}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=900}}
+{{#set: centisome position=12.006404    }}
+{{#set: reaction associated=DNA-DIRECTED-DNA-POLYMERASE-RXN|RXN0-4961}}

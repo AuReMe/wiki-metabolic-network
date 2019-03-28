@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6513 RXN0-6513] ==
+* direction:
+** REVERSIBLE
+* common name:
+** 2,3-dehydroadipyl-CoA hydratase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[3-HYDROXYADIPYL-COA]][c] '''<=>''' 1.0 [[CPD0-2365]][c] '''+''' 1.0 [[WATER]][c]
+* With common name(s):
+** 1.0 (3S)-hydroxyadipyl-CoA[c] '''<=>''' 1.0 2,3-didehydroadipyl-CoA[c] '''+''' 1.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6885]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_14262]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16145]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=2,3-dehydroadipyl-CoA hydratase}}
+{{#set: gene associated=Tiso_gene_6885|Tiso_gene_14262|Tiso_gene_16145}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

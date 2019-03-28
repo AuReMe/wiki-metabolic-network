@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_12375 ==
+* right end position:
+** 7021
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1881
+* centisome position:
+** 26.500422    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3.1.1.23-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[LYSOPHOSPHOLIPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15035]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15088]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15089]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7409]]
+* [[LIPAS-PWY]]
+* [[PWY-7420]]
+== External links  ==
+{{#set: right end position=7021}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1881}}
+{{#set: centisome position=26.500422    }}
+{{#set: reaction associated=3.1.1.23-RXN|LYSOPHOSPHOLIPASE-RXN|RXN-15035|RXN-15088|RXN-15089}}
+{{#set: pathway associated=PWY-7409|LIPAS-PWY|PWY-7420}}

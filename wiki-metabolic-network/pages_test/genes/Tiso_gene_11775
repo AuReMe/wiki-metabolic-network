@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11775 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11519]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-11520]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-11521]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-7682]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN0-901]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[XANTHINE-OXIDASE-RXN]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-5497]]
+* [[SALVADEHYPOX-PWY]]
+* [[P164-PWY]]
+* [[PWY-6596]]
+* [[PWY-6607]]
+* [[PWY-6606]]
+* [[PWY-6999]]
+* [[PWY-6608]]
+* [[PWY-6632]]
+* [[PWY-5695]]
+* [[PWY-6538]]
+== External links  ==
+{{#set: reaction associated=RXN-11519|RXN-11520|RXN-11521|RXN-7682|RXN0-901|XANTHINE-OXIDASE-RXN}}
+{{#set: pathway associated=PWY-5497|SALVADEHYPOX-PWY|P164-PWY|PWY-6596|PWY-6607|PWY-6606|PWY-6999|PWY-6608|PWY-6632|PWY-5695|PWY-6538}}

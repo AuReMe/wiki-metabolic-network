@@ -1,0 +1,70 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=XYLULOKIN-RXN XYLULOKIN-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** xylulose_kinase
+** xylulokinase_homolog
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.1.17 EC-2.7.1.17]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[D-XYLULOSE]][c] '''+''' 1 [[ATP]][c] '''=>''' 1 [[XYLULOSE-5-PHOSPHATE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 D-xylulose[c] '''+''' 1 ATP[c] '''=>''' 1 D-xylulose 5-phosphate[c] '''+''' 1 H+[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_15823]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_15822]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_14270]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[DARABITOLUTIL-PWY]], D-arabitol degradation: [http://metacyc.org/META/NEW-IMAGE?object=DARABITOLUTIL-PWY DARABITOLUTIL-PWY]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[LARABITOLUTIL-PWY]], xylitol degradation: [http://metacyc.org/META/NEW-IMAGE?object=LARABITOLUTIL-PWY LARABITOLUTIL-PWY]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+* [[XYLCAT-PWY]], xylose degradation I: [http://metacyc.org/META/NEW-IMAGE?object=XYLCAT-PWY XYLCAT-PWY]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=10964 10964]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01639 R01639]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P27156 P27156]
+** [http://www.uniprot.org/uniprot/Q9CFG8 Q9CFG8]
+** [http://www.uniprot.org/uniprot/P35850 P35850]
+** [http://www.uniprot.org/uniprot/P09099 P09099]
+** [http://www.uniprot.org/uniprot/P12867 P12867]
+** [http://www.uniprot.org/uniprot/P27155 P27155]
+** [http://www.uniprot.org/uniprot/P21939 P21939]
+** [http://www.uniprot.org/uniprot/P29444 P29444]
+** [http://www.uniprot.org/uniprot/Q9X714 Q9X714]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=xylulose_kinase}}
+{{#set: common name=xylulokinase_homolog}}
+{{#set: ec number=EC-2.7.1.17}}
+{{#set: gene associated=Tiso_gene_15823|Tiso_gene_15822|Tiso_gene_14270}}
+{{#set: in pathway=DARABITOLUTIL-PWY|LARABITOLUTIL-PWY|XYLCAT-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

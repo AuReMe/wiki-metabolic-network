@@ -1,0 +1,84 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=LYSINE--TRNA-LIGASE-RXN LYSINE--TRNA-LIGASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** lysine--trna_ligase
+* ec number:
+** [http://enzyme.expasy.org/EC/6.1.1.6 EC-6.1.1.6]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[LYS]][c] '''+''' 1 [[LYS-tRNAs]][c] '''=>''' 1 [[PPI]][c] '''+''' 1 [[Charged-LYS-tRNAs]][c] '''+''' 1 [[AMP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 L-lysine[c] '''+''' 1 a tRNAlys[c] '''=>''' 1 diphosphate[c] '''+''' 1 an L-lysyl-[tRNAlys][c] '''+''' 1 AMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_6705]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_16635]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[TRNA-CHARGING-PWY]], tRNA charging: [http://metacyc.org/META/NEW-IMAGE?object=TRNA-CHARGING-PWY TRNA-CHARGING-PWY]
+** '''21''' reactions found over '''21''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R03658 R03658]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P41258 P41258]
+** [http://www.uniprot.org/uniprot/P46861 P46861]
+** [http://www.uniprot.org/uniprot/P47382 P47382]
+** [http://www.uniprot.org/uniprot/O57963 O57963]
+** [http://www.uniprot.org/uniprot/O51603 O51603]
+** [http://www.uniprot.org/uniprot/Q9JTT7 Q9JTT7]
+** [http://www.uniprot.org/uniprot/O83650 O83650]
+** [http://www.uniprot.org/uniprot/Q9X231 Q9X231]
+** [http://www.uniprot.org/uniprot/P43825 P43825]
+** [http://www.uniprot.org/uniprot/Q9ZDF8 Q9ZDF8]
+** [http://www.uniprot.org/uniprot/O84786 O84786]
+** [http://www.uniprot.org/uniprot/Q9Z6X5 Q9Z6X5]
+** [http://www.uniprot.org/uniprot/Q9CII7 Q9CII7]
+** [http://www.uniprot.org/uniprot/P56126 P56126]
+** [http://www.uniprot.org/uniprot/Q9ZMP8 Q9ZMP8]
+** [http://www.uniprot.org/uniprot/O67258 O67258]
+** [http://www.uniprot.org/uniprot/O84002 O84002]
+** [http://www.uniprot.org/uniprot/Q9RHV9 Q9RHV9]
+** [http://www.uniprot.org/uniprot/P32048 P32048]
+** [http://www.uniprot.org/uniprot/P37879 P37879]
+** [http://www.uniprot.org/uniprot/Q48986 Q48986]
+** [http://www.uniprot.org/uniprot/P0A8N7 P0A8N7]
+** [http://www.uniprot.org/uniprot/P37477 P37477]
+** [http://www.uniprot.org/uniprot/P75500 P75500]
+** [http://www.uniprot.org/uniprot/P95970 P95970]
+** [http://www.uniprot.org/uniprot/P73443 P73443]
+** [http://www.uniprot.org/uniprot/P15180 P15180]
+** [http://www.uniprot.org/uniprot/P0A8N3 P0A8N3]
+** [http://www.uniprot.org/uniprot/P0A8N5 P0A8N5]
+** [http://www.uniprot.org/uniprot/Q43776 Q43776]
+** [http://www.uniprot.org/uniprot/O74059 O74059]
+** [http://www.uniprot.org/uniprot/O30522 O30522]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=lysine--trna_ligase}}
+{{#set: ec number=EC-6.1.1.6}}
+{{#set: gene associated=Tiso_gene_6705|Tiso_gene_16635}}
+{{#set: in pathway=TRNA-CHARGING-PWY}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

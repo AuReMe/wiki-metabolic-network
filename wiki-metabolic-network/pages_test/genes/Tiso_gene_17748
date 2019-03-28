@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17748 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ADCLY-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[BRANCHED-CHAINAMINOTRANSFERILEU-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[ILEUSYN-PWY]]
+* [[ILEUDEG-PWY]]
+* [[PWY-5108]]
+* [[PWY-5103]]
+* [[PWY-5101]]
+* [[PWY-5078]]
+* [[PWY-6543]]
+* [[PWY-5104]]
+== External links  ==
+{{#set: reaction associated=ADCLY-RXN|BRANCHED-CHAINAMINOTRANSFERILEU-RXN}}
+{{#set: pathway associated=ILEUSYN-PWY|ILEUDEG-PWY|PWY-5108|PWY-5103|PWY-5101|PWY-5078|PWY-6543|PWY-5104}}

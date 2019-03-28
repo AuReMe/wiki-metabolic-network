@@ -1,0 +1,49 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN-17352 RXN-17352] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ascorbate_peroxidase
+** ORF
+* ec number:
+** [http://enzyme.expasy.org/EC/1.11.1.7 EC-1.11.1.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 2 [[CONIFERYL-ALCOHOL]][c] '''+''' 1 [[HYDROGEN-PEROXIDE]][c] '''=>''' 2 [[WATER]][c] '''+''' 2 [[CPD-18761]][c]
+* With common name(s):
+** 2 coniferyl alcohol[c] '''+''' 1 hydrogen peroxide[c] '''=>''' 2 H2O[c] '''+''' 2 coniferyl alcohol radical[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11016]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15820]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15962]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-6824]], justicidin B biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6824 PWY-6824]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-5466]], matairesinol biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5466 PWY-5466]
+** '''1''' reactions found over '''10''' reactions in the full pathway
+* [[PWY-5469]], sesamin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5469 PWY-5469]
+** '''1''' reactions found over '''8''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ascorbate_peroxidase}}
+{{#set: common name=ORF}}
+{{#set: ec number=EC-1.11.1.7}}
+{{#set: gene associated=Tiso_gene_11016|Tiso_gene_15820|Tiso_gene_15962}}
+{{#set: in pathway=PWY-6824|PWY-5466|PWY-5469}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

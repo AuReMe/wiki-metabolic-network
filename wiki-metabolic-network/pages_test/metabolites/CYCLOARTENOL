@@ -1,0 +1,35 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CYCLOARTENOL CYCLOARTENOL] ==
+* smiles:
+** CC(C)=CCCC(C)[CH]3(CCC4(C)([CH]1(CC[CH]5(C(C)(C)C(O)CCC2(CC12CCC(C)34)5))))
+* common name:
+** cycloartenol
+* inchi key:
+** InChIKey=ONQRKEUAIJMULO-COENLIPYSA-N
+* molecular weight:
+** 426.724    
+* Synonym(s):
+** 9&beta;,19-cyclo-24-lanosten-3&beta;-ol
+** cycloart-24(25)-enol
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-4021]]
+== Reaction(s) known to produce the compound ==
+* [[CYCLOARTENOL-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 469-38-5
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44434254 44434254]
+* HMDB : HMDB36591
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17030 17030]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01902 C01902]
+{{#set: smiles=CC(C)=CCCC(C)[CH]3(CCC4(C)([CH]1(CC[CH]5(C(C)(C)C(O)CCC2(CC12CCC(C)34)5))))}}
+{{#set: common name=cycloartenol}}
+{{#set: inchi key=InChIKey=ONQRKEUAIJMULO-COENLIPYSA-N}}
+{{#set: molecular weight=426.724    }}
+{{#set: common name=9&beta;,19-cyclo-24-lanosten-3&beta;-ol|cycloart-24(25)-enol}}
+{{#set: consumed by=RXN-4021}}
+{{#set: produced by=CYCLOARTENOL-SYNTHASE-RXN}}

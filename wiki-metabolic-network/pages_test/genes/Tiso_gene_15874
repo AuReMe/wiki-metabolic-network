@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15874 ==
+* right end position:
+** 4255
+* transcription direction:
+** POSITIVE
+* left end position:
+** 117
+* centisome position:
+** 1.7346183    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[INORGPYROPHOSPHAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7805]]
+* [[PWY-7807]]
+== External links  ==
+{{#set: right end position=4255}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=117}}
+{{#set: centisome position=1.7346183    }}
+{{#set: reaction associated=INORGPYROPHOSPHAT-RXN}}
+{{#set: pathway associated=PWY-7805|PWY-7807}}

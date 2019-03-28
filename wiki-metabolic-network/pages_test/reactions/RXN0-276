@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-276 RXN0-276] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/1.1.1 EC-1.1.1]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[NAD]][c] '''+''' 1 [[S-HYDROXYMETHYLGLUTATHIONE]][c] '''<=>''' 1 [[NADH]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[CPD-548]][c]
+* With common name(s):
+** 1 NAD+[c] '''+''' 1 S-(hydroxymethyl)glutathione[c] '''<=>''' 1 NADH[c] '''+''' 1 H+[c] '''+''' 1 S-formylglutathione[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18459]]
+** Source: [[orthology-athaliana]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-1.1.1}}
+{{#set: gene associated=Tiso_gene_18459}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-athaliana}}
+{{#set: reconstruction tool=pantograph}}

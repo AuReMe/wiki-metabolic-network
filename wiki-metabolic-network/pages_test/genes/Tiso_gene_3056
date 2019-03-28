@@ -1,0 +1,35 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3056 ==
+* right end position:
+** 11216
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9014
+* centisome position:
+** 51.143265    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[CARBODEHYDRAT-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-5224]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-241]]
+* [[PWYQT-4429]]
+* [[PWY-7117]]
+* [[PWY-7115]]
+* [[PWY-6142]]
+* [[CYANCAT-PWY]]
+== External links  ==
+{{#set: right end position=11216}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9014}}
+{{#set: centisome position=51.143265    }}
+{{#set: reaction associated=CARBODEHYDRAT-RXN|RXN0-5224}}
+{{#set: pathway associated=PWY-241|PWYQT-4429|PWY-7117|PWY-7115|PWY-6142|CYANCAT-PWY}}

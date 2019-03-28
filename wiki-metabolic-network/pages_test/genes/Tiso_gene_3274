@@ -1,0 +1,19 @@
+[[Category:Gene]]
+== Gene Tiso_gene_3274 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-4303]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-4305]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN0-6274]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-2681]]
+* [[PWY-2781]]
+== External links  ==
+{{#set: reaction associated=RXN-4303|RXN-4305|RXN0-6274}}
+{{#set: pathway associated=PWY-2681|PWY-2781}}

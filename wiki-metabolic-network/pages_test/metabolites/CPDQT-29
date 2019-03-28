@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPDQT-29 CPDQT-29] ==
+* smiles:
+** CSCCCCCCC(=O)C([O-])=O
+* common name:
+** 8-(methylthio)-2-oxooctanoate
+* inchi key:
+** InChIKey=QDZNKMGEHAHOTA-UHFFFAOYSA-M
+* molecular weight:
+** 203.276    
+* Synonym(s):
+** 8-(methylthio)-2-oxooctanoic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-18205]]
+* [[RXNQT-4171]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237313 44237313]
+* KNAPSACK : C00007643
+{{#set: smiles=CSCCCCCCC(=O)C([O-])=O}}
+{{#set: common name=8-(methylthio)-2-oxooctanoate}}
+{{#set: inchi key=InChIKey=QDZNKMGEHAHOTA-UHFFFAOYSA-M}}
+{{#set: molecular weight=203.276    }}
+{{#set: common name=8-(methylthio)-2-oxooctanoic acid}}
+{{#set: produced by=RXN-18205|RXNQT-4171}}

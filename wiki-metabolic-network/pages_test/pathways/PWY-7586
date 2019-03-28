@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7586 PWY-7586] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-68336 TAX-68336]
+* common name:
+** &beta;-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PHOSMANMUT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_5802]]
+*** [[Tiso_gene_13477]]
+*** [[Tiso_gene_14704]]
+*** [[Tiso_gene_4816]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MANNPISOM-RXN MANNPISOM-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15203 RXN-15203]
+== External links  ==
+{{#set: taxonomic range=TAX-68336}}
+{{#set: common name=&beta;-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=COUMARALDEHYDE COUMARALDEHYDE] ==
+* smiles:
+** C(=O)C=CC1(C=CC(O)=CC=1)
+* common name:
+** 4-coumaraldehyde
+* inchi key:
+** InChIKey=CJXMVKYNVIGQBS-OWOJBTEDSA-N
+* molecular weight:
+** 148.161    
+* Synonym(s):
+** coumaraldehyde
+** p-coumaraldehyde
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-1102]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-1101]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=641301 641301]
+* HMDB : HMDB40986
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05608 C05608]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.556592.html 556592]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=28353 28353]
+* METABOLIGHTS : MTBLC28353
+{{#set: smiles=C(=O)C=CC1(C=CC(O)=CC=1)}}
+{{#set: common name=4-coumaraldehyde}}
+{{#set: inchi key=InChIKey=CJXMVKYNVIGQBS-OWOJBTEDSA-N}}
+{{#set: molecular weight=148.161    }}
+{{#set: common name=coumaraldehyde|p-coumaraldehyde}}
+{{#set: consumed by=RXN-1102}}
+{{#set: produced by=RXN-1101}}

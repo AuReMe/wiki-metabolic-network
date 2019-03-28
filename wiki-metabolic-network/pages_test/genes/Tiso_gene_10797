@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10797 ==
+* right end position:
+** 5964
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2927
+* centisome position:
+** 35.328907    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GALACTOKIN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[UDPGLUCEPIM-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-3821]]
+* [[PWY-6397]]
+* [[COLANSYN-PWY]]
+* [[PWY-6527]]
+* [[PWY-7328]]
+* [[PWY-6317]]
+* [[PWY66-422]]
+* [[PWY-7344]]
+== External links  ==
+{{#set: right end position=5964}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2927}}
+{{#set: centisome position=35.328907    }}
+{{#set: reaction associated=GALACTOKIN-RXN|UDPGLUCEPIM-RXN}}
+{{#set: pathway associated=PWY-3821|PWY-6397|COLANSYN-PWY|PWY-6527|PWY-7328|PWY-6317|PWY66-422|PWY-7344}}

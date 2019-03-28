@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Cis-vaccenoyl-ACPs Cis-vaccenoyl-ACPs] ==
+* common name:
+** a cis-vaccenoyl-[acp]
+* Synonym(s):
+** a (Z)-octadec-11-enoyl-[acp]
+** a (Z)-octadec-11-enoyl-[acyl-carrier-protein]
+** a cis-vaccenoyl-[acyl-carrier protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-17015]]
+* [[RXN-17014]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9558]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis-vaccenoyl-[acp]}}
+{{#set: common name=a (Z)-octadec-11-enoyl-[acp]|a (Z)-octadec-11-enoyl-[acyl-carrier-protein]|a cis-vaccenoyl-[acyl-carrier protein]}}
+{{#set: consumed by=RXN-17015|RXN-17014}}
+{{#set: produced by=RXN-9558}}

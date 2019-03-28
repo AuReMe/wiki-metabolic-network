@@ -1,0 +1,155 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=P185-PWY P185-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** formaldehyde assimilation III (dihydroxyacetone cycle)
+* Synonym(s):
+** dihydroxyacetone cycle
+** xylulose-monophosphate cycle
+
+== Reaction(s) found ==
+ '''11''' reactions found over '''12''' reactions in the full pathway
+* [[1TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+* [[2TRANSKETO-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11559]]
+*** [[Tiso_gene_5008]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+* [[F16ALDOLASE-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_12272]]
+*** [[Tiso_gene_65]]
+*** [[Tiso_gene_9119]]
+*** [[Tiso_gene_14568]]
+*** [[Tiso_gene_9179]]
+*** [[Tiso_gene_9118]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-experimental_annotation]]
+* [[F16BDEPHOS-RXN]]
+** 7 associated gene(s):
+*** [[Tiso_gene_15398]]
+*** [[Tiso_gene_9435]]
+*** [[Tiso_gene_16502]]
+*** [[Tiso_gene_4905]]
+*** [[Tiso_gene_8226]]
+*** [[Tiso_gene_4904]]
+*** [[Tiso_gene_3483]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GAPOXNPHOSPHN-RXN]]
+** 5 associated gene(s):
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_235]]
+*** [[Tiso_gene_10646]]
+*** [[Tiso_gene_3344]]
+*** [[Tiso_gene_6766]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLYCERONE-KINASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14441]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[PHOSGLYPHOS-RXN]]
+** 6 associated gene(s):
+*** [[Tiso_gene_3526]]
+*** [[Tiso_gene_18264]]
+*** [[Tiso_gene_3527]]
+*** [[Tiso_gene_18263]]
+*** [[Tiso_gene_12104]]
+*** [[Tiso_gene_14642]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RIB5PISOM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_18217]]
+** 5 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+*** [[manual-primary_network]]
+* [[RIBULP3EPIM-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_19140]]
+*** [[Tiso_gene_4754]]
+*** [[Tiso_gene_10879]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[TRANSALDOL-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17601]]
+*** [[Tiso_gene_1831]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[TRIOSEPISOMERIZATION-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_19961]]
+*** [[Tiso_gene_20000]]
+*** [[Tiso_gene_19962]]
+*** [[Tiso_gene_10646]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=FORMALDEHYDE-TRANSKETOLASE-RXN FORMALDEHYDE-TRANSKETOLASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=formaldehyde assimilation III (dihydroxyacetone cycle)}}
+{{#set: common name=dihydroxyacetone cycle|xylulose-monophosphate cycle}}
+{{#set: reaction found=11}}
+{{#set: total reaction=12}}
+{{#set: completion rate=92.0}}

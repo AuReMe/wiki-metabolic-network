@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Poly-ADP-Riboses Poly-ADP-Riboses] ==
+* common name:
+** a poly(ADP-D-ribose)
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[3.2.1.143-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.143-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a poly(ADP-D-ribose)}}
+{{#set: consumed by=3.2.1.143-RXN}}
+{{#set: produced by=3.2.1.143-RXN}}

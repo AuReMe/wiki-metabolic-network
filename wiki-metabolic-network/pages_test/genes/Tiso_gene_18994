@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18994 ==
+* right end position:
+** 1250
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1124
+* centisome position:
+** 42.11315    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-11696]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1250}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1124}}
+{{#set: centisome position=42.11315    }}
+{{#set: reaction associated=RXN-11696}}

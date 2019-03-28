@@ -1,0 +1,32 @@
+[[Category:Gene]]
+== Gene Tiso_gene_20481 ==
+* right end position:
+** 1227
+* transcription direction:
+** POSITIVE
+* left end position:
+** 48
+* centisome position:
+** 3.7647057    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-10604]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12037]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[THYROXINE-DEIODINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6261]]
+* [[PWY-6260]]
+== External links  ==
+{{#set: right end position=1227}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=48}}
+{{#set: centisome position=3.7647057    }}
+{{#set: reaction associated=RXN-10604|RXN-12037|THYROXINE-DEIODINASE-RXN}}
+{{#set: pathway associated=PWY-6261|PWY-6260}}

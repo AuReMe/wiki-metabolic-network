@@ -1,0 +1,15 @@
+[[Category:Gene]]
+== Gene Tiso_gene_412 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-1224]]
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-15117]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-7817]]
+* [[PWYQT-4427]]
+== External links  ==
+{{#set: reaction associated=RXN-1224|RXN-15117}}
+{{#set: pathway associated=PWY-7817|PWYQT-4427}}

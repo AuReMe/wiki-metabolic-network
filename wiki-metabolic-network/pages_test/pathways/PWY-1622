@@ -1,0 +1,79 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-1622 PWY-1622] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** formaldehyde assimilation I (serine pathway)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''5''' reactions found over '''13''' reactions in the full pathway
+* [[2PGADEHYDRAT-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_8720]]
+*** [[Tiso_gene_14718]]
+*** [[Tiso_gene_5619]]
+*** [[Tiso_gene_13317]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[GLYOHMETRANS-RXN]]
+** 4 associated gene(s):
+*** [[Tiso_gene_16153]]
+*** [[Tiso_gene_7776]]
+*** [[Tiso_gene_18652]]
+*** [[Tiso_gene_16154]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[manual-primary_network]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[MALATE-DEH-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_2323]]
+*** [[Tiso_gene_1990]]
+** 7 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN-15513]]
+** 8 associated gene(s):
+*** [[Tiso_gene_7201]]
+*** [[Tiso_gene_14530]]
+*** [[Tiso_gene_16271]]
+*** [[Tiso_gene_9922]]
+*** [[Tiso_gene_2841]]
+*** [[Tiso_gene_2365]]
+*** [[Tiso_gene_14664]]
+*** [[Tiso_gene_9923]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+* [[RXN-2881]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=GKI-RXN GKI-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=HYDROXYPYRUVATE-REDUCTASE-RXN HYDROXYPYRUVATE-REDUCTASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALATE--COA-LIGASE-RXN MALATE--COA-LIGASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=MALYL-COA-LYASE-RXN MALYL-COA-LYASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PEPCARBOX-RXN PEPCARBOX-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-2802 RXN-2802]
+* [http://metacyc.org/META/NEW-IMAGE?object=SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=formaldehyde assimilation I (serine pathway)}}
+{{#set: reaction found=5}}
+{{#set: total reaction=13}}
+{{#set: completion rate=38.0}}

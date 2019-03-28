@@ -1,0 +1,47 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-4061 PWY-4061] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** glutathione-mediated detoxification I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[GSHTRAN-RXN]]
+** 13 associated gene(s):
+*** [[Tiso_gene_19791]]
+*** [[Tiso_gene_1104]]
+*** [[Tiso_gene_8389]]
+*** [[Tiso_gene_3233]]
+*** [[Tiso_gene_5129]]
+*** [[Tiso_gene_20110]]
+*** [[Tiso_gene_6036]]
+*** [[Tiso_gene_3535]]
+*** [[Tiso_gene_8508]]
+*** [[Tiso_gene_19041]]
+*** [[Tiso_gene_1666]]
+*** [[Tiso_gene_8509]]
+*** [[Tiso_gene_2775]]
+** 4 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-6642]]
+** 2 associated gene(s):
+*** [[Tiso_gene_860]]
+*** [[Tiso_gene_16906]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.3.1.80-RXN 2.3.1.80-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6641 RXN-6641]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6763 RXN-6763]
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=glutathione-mediated detoxification I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

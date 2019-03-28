@@ -1,0 +1,52 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-581 PWY-581] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** indole-3-acetate biosynthesis II
+* Synonym(s):
+** auxin biosynthesis
+** indole-3-acetic acid biosynthesis
+** IAA de novo synthesis
+** IAA biosynthesis II
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''13''' reactions in the full pathway
+* [[RXN-1404]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10996]]
+** 3 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-7567]]
+** 1 associated gene(s):
+*** [[Tiso_gene_4032]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXNN-404]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13682]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10139 RXN-10139]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12061 RXN-12061]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12062 RXN-12062]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12063 RXN-12063]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1403 RXN-1403]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1405 RXN-1405]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-1406 RXN-1406]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNDQC-2 RXNDQC-2]
+* [http://metacyc.org/META/NEW-IMAGE?object=TRYPTOPHAN-AMINOTRANSFERASE-RXN TRYPTOPHAN-AMINOTRANSFERASE-RXN]
+== External links  ==
+* PLANTCYC : PWY-581
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-581 PWY-581]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=indole-3-acetate biosynthesis II}}
+{{#set: common name=auxin biosynthesis|indole-3-acetic acid biosynthesis|IAA de novo synthesis|IAA biosynthesis II}}
+{{#set: reaction found=3}}
+{{#set: total reaction=13}}
+{{#set: completion rate=23.0}}

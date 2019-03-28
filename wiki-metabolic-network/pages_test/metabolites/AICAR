@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=AICAR AICAR] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C1(C(O)C(O)C(O1)N2(C=NC(C(=O)N)=C(N)2))
+* common name:
+** 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+* inchi key:
+** InChIKey=NOTGFIUVDGNKRI-UUOKFMHZSA-L
+* molecular weight:
+** 336.197    
+* Synonym(s):
+** Z-nucleotide
+** AICAR
+** AICA ribonucleotide
+** 5'-phosphoribosyl-5-amino-4-imidazole carboxamide
+** 5-amino-4-imidazolecarboxamide ribotide
+** 5'-P-ribosyl-5-amino-4-imidazole carboxamide
+** aminoimidazole carboxamide ribonucleotide
+
+== Reaction(s) known to consume the compound ==
+* [[R04560]]
+== Reaction(s) known to produce the compound ==
+* [[GLUTAMIDOTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[FPAIF]]
+* [[AICARTRANSFORM-RXN]]
+* [[AIAL]]
+* [[AICARSYN-RXN]]
+== External links  ==
+* CAS : 3031-94-5
+* BIGG : aicar
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45266657 45266657]
+* HMDB : HMDB01517
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C04677 C04677]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58475 58475]
+* METABOLIGHTS : MTBLC58475
+{{#set: smiles=C(OP(=O)([O-])[O-])C1(C(O)C(O)C(O1)N2(C=NC(C(=O)N)=C(N)2))}}
+{{#set: common name=5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide}}
+{{#set: inchi key=InChIKey=NOTGFIUVDGNKRI-UUOKFMHZSA-L}}
+{{#set: molecular weight=336.197    }}
+{{#set: common name=Z-nucleotide|AICAR|AICA ribonucleotide|5'-phosphoribosyl-5-amino-4-imidazole carboxamide|5-amino-4-imidazolecarboxamide ribotide|5'-P-ribosyl-5-amino-4-imidazole carboxamide|aminoimidazole carboxamide ribonucleotide}}
+{{#set: consumed by=R04560}}
+{{#set: produced by=GLUTAMIDOTRANS-RXN}}
+{{#set: reversible reaction associated=FPAIF|AICARTRANSFORM-RXN|AIAL|AICARSYN-RXN}}

@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=NADPHOS-DEPHOS-PWY NADPHOS-DEPHOS-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** NAD phosphorylation and dephosphorylation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[NAD-KIN-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_1163]]
+*** [[Tiso_gene_14560]]
+*** [[Tiso_gene_1420]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN-5822]]
+** 8 associated gene(s):
+*** [[Tiso_gene_9372]]
+*** [[Tiso_gene_17309]]
+*** [[Tiso_gene_15256]]
+*** [[Tiso_gene_3271]]
+*** [[Tiso_gene_8159]]
+*** [[Tiso_gene_10738]]
+*** [[Tiso_gene_5996]]
+*** [[Tiso_gene_17310]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=TRANS-RXN0-277 TRANS-RXN0-277]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=NADPHOS-DEPHOS-PWY NADPHOS-DEPHOS-PWY]
+{{#set: taxonomic range=TAX-33208}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=NAD phosphorylation and dephosphorylation}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

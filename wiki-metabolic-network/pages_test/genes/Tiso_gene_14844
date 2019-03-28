@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_14844 ==
+* right end position:
+** 5379
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 4404
+* centisome position:
+** 81.63114    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-13908]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-7908]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PHENYLALANINE-DEG1-PWY]]
+* [[PWY-7158]]
+== External links  ==
+{{#set: right end position=5379}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=4404}}
+{{#set: centisome position=81.63114    }}
+{{#set: reaction associated=RXN-13908|RXN-7908}}
+{{#set: pathway associated=PHENYLALANINE-DEG1-PWY|PWY-7158}}

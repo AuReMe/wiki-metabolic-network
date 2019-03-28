@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DOPAMINE DOPAMINE] ==
+* smiles:
+** C(CC1(C=C(C(=CC=1)O)O))[N+]
+* common name:
+** dopamine
+* inchi key:
+** InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
+* molecular weight:
+** 154.188    
+* Synonym(s):
+** deoxyepinephrine
+** hydroxytyramine
+** 3,4-dihydroxyphenethylamine
+** intropin
+** 2-(3,4-dihydroxyphenyl)ethylamine
+** 4-(2-aminoethyl)benzene-1,2-diol
+** 3-hydroxytyramine
+
+== Reaction(s) known to consume the compound ==
+* [[RXN6666-9]]
+* [[RXN6666-4]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 51-61-6
+* BIGG : dopa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3713609 3713609]
+* HMDB : HMDB00073
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03758 C03758]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.2944843.html 2944843]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=59905 59905]
+* METABOLIGHTS : MTBLC59905
+{{#set: smiles=C(CC1(C=C(C(=CC=1)O)O))[N+]}}
+{{#set: common name=dopamine}}
+{{#set: inchi key=InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O}}
+{{#set: molecular weight=154.188    }}
+{{#set: common name=deoxyepinephrine|hydroxytyramine|3,4-dihydroxyphenethylamine|intropin|2-(3,4-dihydroxyphenyl)ethylamine|4-(2-aminoethyl)benzene-1,2-diol|3-hydroxytyramine}}
+{{#set: consumed by=RXN6666-9|RXN6666-4}}

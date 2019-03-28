@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DIHYDROXYNAPHTHOATE DIHYDROXYNAPHTHOATE] ==
+* smiles:
+** C([O-])(=O)C1(=C(O)C2(=C(C(O)=C1)C=CC=C2))
+* common name:
+** 2-carboxy-1,4-naphthoquinol
+* inchi key:
+** InChIKey=VOJUXHHACRXLTD-UHFFFAOYSA-M
+* molecular weight:
+** 203.174    
+* Synonym(s):
+** DHNA
+** 1,4-dihydroxy-2-naphthoate
+
+== Reaction(s) known to consume the compound ==
+* [[R06858]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54706667 54706667]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5324583.html 5324583]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=11173 11173]
+* BIGG : dhna
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C03657 C03657]
+{{#set: smiles=C([O-])(=O)C1(=C(O)C2(=C(C(O)=C1)C=CC=C2))}}
+{{#set: common name=2-carboxy-1,4-naphthoquinol}}
+{{#set: inchi key=InChIKey=VOJUXHHACRXLTD-UHFFFAOYSA-M}}
+{{#set: molecular weight=203.174    }}
+{{#set: common name=DHNA|1,4-dihydroxy-2-naphthoate}}
+{{#set: consumed by=R06858}}

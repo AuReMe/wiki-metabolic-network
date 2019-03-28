@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-HYDROXYADIPYL-COA 3-HYDROXYADIPYL-COA] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CC(CCC(=O)[O-])O)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** (3S)-hydroxyadipyl-CoA
+* inchi key:
+** InChIKey=OTEACGAEDCIMBS-NOTSHUFBSA-I
+* molecular weight:
+** 906.621    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-2425]]
+* [[RXN0-2044]]
+* [[RXN0-6513]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=70679061 70679061]
+* HMDB : HMDB12475
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=70990 70990]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C14145 C14145]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(CC(CCC(=O)[O-])O)=O)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=(3S)-hydroxyadipyl-CoA}}
+{{#set: inchi key=InChIKey=OTEACGAEDCIMBS-NOTSHUFBSA-I}}
+{{#set: molecular weight=906.621    }}
+{{#set: reversible reaction associated=RXN-2425|RXN0-2044|RXN0-6513}}

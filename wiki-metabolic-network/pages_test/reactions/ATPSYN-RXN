@@ -1,0 +1,146 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=ATPSYN-RXN ATPSYN-RXN] ==
+* direction:
+** REVERSIBLE
+* common name:
+** v-type_proton_atpase
+** ORF
+** vacuolar_h+-_sector_c
+** v-type_proton_atpase_catalytic_subunit_a
+** vacuolar_h+-atpase_v0_subunits_a
+** atp_synthase_gamma_chloroplastic
+** atp_synthase_gamma_subunit
+** atp_synthase_subunit_mitochondrial
+** ycf35
+** atp_synthase_delta_mitochondrial
+** v-type_proton_atpase_subunit_h
+** v-type_protonatpasesubunitd1
+* ec number:
+** [http://enzyme.expasy.org/EC/3.6.3.14 EC-3.6.3.14]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ADP]][c] '''+''' 4 [[PROTON]][e] '''+''' 1 [[Pi]][c] '''<=>''' 3 [[PROTON]][c] '''+''' 1 [[WATER]][c] '''+''' 1 [[ATP]][c]
+* With common name(s):
+** 1 ADP[c] '''+''' 4 H+[e] '''+''' 1 phosphate[c] '''<=>''' 3 H+[c] '''+''' 1 H2O[c] '''+''' 1 ATP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7213]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2798]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_1366]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_10981]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15850]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_7215]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_18105]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_6012]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12618]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_11754]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_9460]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11192]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11155]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_5307]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_6592]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_17383]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_1365]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_11753]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+== Pathways  ==
+* [[PWY-7219]], adenosine ribonucleotides de novo biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7219 PWY-7219]
+** '''4''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=20852 20852]
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=v-type_proton_atpase}}
+{{#set: common name=ORF}}
+{{#set: common name=vacuolar_h+-_sector_c}}
+{{#set: common name=v-type_proton_atpase_catalytic_subunit_a}}
+{{#set: common name=vacuolar_h+-atpase_v0_subunits_a}}
+{{#set: common name=atp_synthase_gamma_chloroplastic}}
+{{#set: common name=atp_synthase_gamma_subunit}}
+{{#set: common name=atp_synthase_subunit_mitochondrial}}
+{{#set: common name=ycf35}}
+{{#set: common name=atp_synthase_delta_mitochondrial}}
+{{#set: common name=v-type_proton_atpase_subunit_h}}
+{{#set: common name=v-type_protonatpasesubunitd1}}
+{{#set: ec number=EC-3.6.3.14}}
+{{#set: gene associated=Tiso_gene_7213|Tiso_gene_2798|Tiso_gene_1366|Tiso_gene_10981|Tiso_gene_15850|Tiso_gene_7215|Tiso_gene_18105|Tiso_gene_6012|Tiso_gene_12618|Tiso_gene_11754|Tiso_gene_9460|Tiso_gene_11192|Tiso_gene_11155|Tiso_gene_5307|Tiso_gene_6592|Tiso_gene_17383|Tiso_gene_1365|Tiso_gene_11753}}
+{{#set: in pathway=PWY-7219}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|manual-primary_network|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

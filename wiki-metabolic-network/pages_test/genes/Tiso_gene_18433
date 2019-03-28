@@ -1,0 +1,18 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18433 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[5FLURAt]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[6MPURt]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[TGUAt]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[URATEt]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[URATEtm]]
+** Source: [[orthology-creinhardtii]]
+== Pathways associated ==
+== External links  ==
+{{#set: reaction associated=5FLURAt|6MPURt|TGUAt|URATEt|URATEtm}}

@@ -1,0 +1,47 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=GLYCOLLATE GLYCOLLATE] ==
+* smiles:
+** C(C(=O)[O-])O
+* common name:
+** glycolate
+* inchi key:
+** InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M
+* molecular weight:
+** 75.044    
+* Synonym(s):
+** hydroxyacetic acid
+** glycolic acid
+** glycollate
+
+== Reaction(s) known to consume the compound ==
+* [[R00476]]
+* [[GCLDH]]
+== Reaction(s) known to produce the compound ==
+* [[GPH-RXN]]
+* [[GLYOXYLATE-REDUCTASE-NADP+-RXN]]
+* [[GLYCLTD]]
+* [[GLYCOLALD-DEHYDROG-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[GLYCOLATE-REDUCTASE-RXN]]
+== External links  ==
+* CAS : 79-14-1
+* BIGG : glyclt
+* DRUGBANK : DB03085
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460308 5460308]
+* HMDB : HMDB00115
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00160 C00160]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4573887.html 4573887]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=29805 29805]
+* METABOLIGHTS : MTBLC29805
+{{#set: smiles=C(C(=O)[O-])O}}
+{{#set: common name=glycolate}}
+{{#set: inchi key=InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M}}
+{{#set: molecular weight=75.044    }}
+{{#set: common name=hydroxyacetic acid|glycolic acid|glycollate}}
+{{#set: consumed by=R00476|GCLDH}}
+{{#set: produced by=GPH-RXN|GLYOXYLATE-REDUCTASE-NADP+-RXN|GLYCLTD|GLYCOLALD-DEHYDROG-RXN}}
+{{#set: reversible reaction associated=GLYCOLATE-REDUCTASE-RXN}}

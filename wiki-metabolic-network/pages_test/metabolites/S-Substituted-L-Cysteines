@@ -1,0 +1,19 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=S-Substituted-L-Cysteines S-Substituted-L-Cysteines] ==
+* common name:
+** an L-cysteine-S-conjugate
+* Synonym(s):
+** a cysteine-S-conjugate
+** an S-substituted-L-cysteine
+** an L-cysteine conjugate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-6642]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-13684]]
+== External links  ==
+{{#set: common name=an L-cysteine-S-conjugate}}
+{{#set: common name=a cysteine-S-conjugate|an S-substituted-L-cysteine|an L-cysteine conjugate}}
+{{#set: produced by=RXN-6642}}
+{{#set: reversible reaction associated=RXN-13684}}

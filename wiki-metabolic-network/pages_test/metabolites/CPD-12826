@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-12826 CPD-12826] ==
+* smiles:
+** C(NC1(C=CC(C(=O)NC(C(=O)[O-])CCC([O-])=O)=CC=1))C2(C=NC3(N=C(N)NC(=O)C(N=2)=3))
+* common name:
+** folate
+* inchi key:
+** InChIKey=OVBPIULPVIDEAO-LBPRGKRZSA-L
+* molecular weight:
+** 439.387    
+* Synonym(s):
+** folic acid
+
+== Reaction(s) known to consume the compound ==
+* [[3.4.17.11-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1549092 1549092]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1266060.html 1266060]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62501 62501]
+* HMDB : HMDB00121
+{{#set: smiles=C(NC1(C=CC(C(=O)NC(C(=O)[O-])CCC([O-])=O)=CC=1))C2(C=NC3(N=C(N)NC(=O)C(N=2)=3))}}
+{{#set: common name=folate}}
+{{#set: inchi key=InChIKey=OVBPIULPVIDEAO-LBPRGKRZSA-L}}
+{{#set: molecular weight=439.387    }}
+{{#set: common name=folic acid}}
+{{#set: consumed by=3.4.17.11-RXN}}

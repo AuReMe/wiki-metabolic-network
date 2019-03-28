@@ -1,0 +1,42 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=L-ASPARTATE-OXID-RXN L-ASPARTATE-OXID-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/1.4.3.16 EC-1.4.3.16]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[OXYGEN-MOLECULE]][c] '''+''' 1 [[L-ASPARTATE]][c] '''=>''' 1 [[HYDROGEN-PEROXIDE]][c] '''+''' 1 [[PROTON]][c] '''+''' 1 [[IMINOASPARTATE]][c]
+* With common name(s):
+** 1 oxygen[c] '''+''' 1 L-aspartate[c] '''=>''' 1 hydrogen peroxide[c] '''+''' 1 H+[c] '''+''' 1 2-iminosuccinate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7285]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+* [[PWY-5316]], nicotine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-5316 PWY-5316]
+** '''2''' reactions found over '''9''' reactions in the full pathway
+* [[PWY-7342]], superpathway of nicotine biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7342 PWY-7342]
+** '''3''' reactions found over '''13''' reactions in the full pathway
+* [[PYRIDNUCSYN-PWY]], NAD biosynthesis I (from aspartate): [http://metacyc.org/META/NEW-IMAGE?object=PYRIDNUCSYN-PWY PYRIDNUCSYN-PWY]
+** '''3''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=25876 25876]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R00481 R00481]
+** [http://www.genome.jp/dbget-bin/www_bget?R00357 R00357]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-1.4.3.16}}
+{{#set: gene associated=Tiso_gene_7285}}
+{{#set: in pathway=PWY-5316|PWY-7342|PYRIDNUCSYN-PWY}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

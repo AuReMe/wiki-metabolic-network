@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16773 ==
+* right end position:
+** 3782
+* transcription direction:
+** POSITIVE
+* left end position:
+** 1941
+* centisome position:
+** 47.00896    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ASPARTOACYLASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-13680]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=3782}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=1941}}
+{{#set: centisome position=47.00896    }}
+{{#set: reaction associated=ASPARTOACYLASE-RXN|RXN-13680}}

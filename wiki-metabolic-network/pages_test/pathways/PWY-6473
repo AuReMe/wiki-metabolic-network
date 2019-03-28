@@ -1,0 +1,29 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6473 PWY-6473] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+* common name:
+** 4-aminobutanoate degradation IV
+* Synonym(s):
+** GABA metabolism during fruit ripening
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_777]]
+*** [[Tiso_gene_91]]
+*** [[Tiso_gene_6952]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-6902 RXN-6902]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: common name=4-aminobutanoate degradation IV}}
+{{#set: common name=GABA metabolism during fruit ripening}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

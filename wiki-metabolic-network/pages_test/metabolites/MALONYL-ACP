@@ -1,0 +1,52 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=MALONYL-ACP MALONYL-ACP] ==
+* common name:
+** a malonyl-[acp]
+* Synonym(s):
+** malonyl-[acyl-carrier protein]
+** malonyl-S-ACP
+** malonyl-acyl-carrier-protein
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-11474]]
+* [[RXN-16615]]
+* [[RXN1G-324]]
+* [[RXN1G-306]]
+* [[RXN-11479]]
+* [[RXN1G-138]]
+* [[RXN1G-132]]
+* [[RXN-8391]]
+* [[RXN-14972]]
+* [[RXN3O-1803]]
+* [[2.3.1.180-RXN]]
+* [[3-OXOACYL-ACP-SYNTH-BASE-RXN]]
+* [[2.3.1.179-RXN]]
+* [[RXN-9523]]
+* [[RXN-9527]]
+* [[RXN-10658]]
+* [[RXN1G-1003]]
+* [[RXN-16629]]
+* [[RXN1G-236]]
+* [[RXN-10654]]
+* [[RXN-16621]]
+* [[RXN1G-218]]
+* [[RXN-16625]]
+* [[RXN0-2141]]
+* [[3-OXOACYL-ACP-SYNTH-RXN]]
+* [[RXN1G-26]]
+* [[RXN1G-840]]
+* [[RXN-9539]]
+* [[RXN-9535]]
+* [[RXN-9516]]
+* [[RXN-9531]]
+== Reaction(s) known to produce the compound ==
+* [[MALONYL-COA-ACP-TRANSACYL-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.41-RXN]]
+* [[RXN1G-460]]
+== External links  ==
+{{#set: common name=a malonyl-[acp]}}
+{{#set: common name=malonyl-[acyl-carrier protein]|malonyl-S-ACP|malonyl-acyl-carrier-protein}}
+{{#set: consumed by=RXN-11474|RXN-16615|RXN1G-324|RXN1G-306|RXN-11479|RXN1G-138|RXN1G-132|RXN-8391|RXN-14972|RXN3O-1803|2.3.1.180-RXN|3-OXOACYL-ACP-SYNTH-BASE-RXN|2.3.1.179-RXN|RXN-9523|RXN-9527|RXN-10658|RXN1G-1003|RXN-16629|RXN1G-236|RXN-10654|RXN-16621|RXN1G-218|RXN-16625|RXN0-2141|3-OXOACYL-ACP-SYNTH-RXN|RXN1G-26|RXN1G-840|RXN-9539|RXN-9535|RXN-9516|RXN-9531}}
+{{#set: produced by=MALONYL-COA-ACP-TRANSACYL-RXN}}
+{{#set: reversible reaction associated=2.3.1.41-RXN|RXN1G-460}}

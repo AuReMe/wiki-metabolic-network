@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-11408 CPD-11408] ==
+* smiles:
+** C2(C=C(OS(=O)(=O)[O-])C(=CC(OC1(C(=CC(=CC(I)=1)CC(C(=O)[O-])[N+])I))=2)I)
+* common name:
+** triiodothyronine sulfate
+* inchi key:
+** InChIKey=XBQYQXVJBNDCGY-LBPRGKRZSA-M
+* molecular weight:
+** 730.028    
+* Synonym(s):
+** triiodothyronine sulfuric ester
+** 3,3',5-triiodo-L-thyronine sulfate
+** 3,5-diiodo-O-[3-iodo-4-(sulfooxy)phenyl]-L-tyrosine
+** L-tyrosine, 3,5-diiodo-O-(3-iodo-4-(sulfooxy)phenyl)-
+** (2S)-2-amino-3-{3,5-diiodo-4-[3-iodo-4-(sulfooxy)phenoxy]phenyl}propanoic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-10615]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657986 90657986]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=35432 35432]
+* METABOLIGHTS : MTBLC35432
+* HMDB : HMDB03036
+{{#set: smiles=C2(C=C(OS(=O)(=O)[O-])C(=CC(OC1(C(=CC(=CC(I)=1)CC(C(=O)[O-])[N+])I))=2)I)}}
+{{#set: common name=triiodothyronine sulfate}}
+{{#set: inchi key=InChIKey=XBQYQXVJBNDCGY-LBPRGKRZSA-M}}
+{{#set: molecular weight=730.028    }}
+{{#set: common name=triiodothyronine sulfuric ester|3,3',5-triiodo-L-thyronine sulfate|3,5-diiodo-O-[3-iodo-4-(sulfooxy)phenyl]-L-tyrosine|L-tyrosine, 3,5-diiodo-O-(3-iodo-4-(sulfooxy)phenyl)-|(2S)-2-amino-3-{3,5-diiodo-4-[3-iodo-4-(sulfooxy)phenoxy]phenyl}propanoic acid}}
+{{#set: produced by=RXN-10615}}

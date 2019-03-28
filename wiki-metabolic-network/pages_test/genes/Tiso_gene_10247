@@ -1,0 +1,14 @@
+[[Category:Gene]]
+== Gene Tiso_gene_10247 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[SULFITE-REDUCTASE-FERREDOXIN-RXN]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[SULFMETII-PWY]]
+== External links  ==
+{{#set: reaction associated=SULFITE-REDUCTASE-FERREDOXIN-RXN}}
+{{#set: pathway associated=SULFMETII-PWY}}

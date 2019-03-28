@@ -1,0 +1,71 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY66-341 PWY66-341] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33208 TAX-33208]
+* common name:
+** cholesterol biosynthesis I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''8''' reactions found over '''22''' reactions in the full pathway
+* [[1.14.21.6-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5446]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-303]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-304]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-305]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8263]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-306]]
+** 1 associated gene(s):
+*** [[Tiso_gene_10982]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-313]]
+** 1 associated gene(s):
+*** [[Tiso_gene_897]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-318]]
+** 1 associated gene(s):
+*** [[Tiso_gene_897]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN66-323]]
+** 1 associated gene(s):
+*** [[Tiso_gene_8982]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5670 PWY-5670]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-5670 PWY-5670]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-6132 PWY-6132]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-6132 PWY-6132]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-310 RXN66-310]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-311 RXN66-311]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-312 RXN66-312]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-314 RXN66-314]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-315 RXN66-315]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-316 RXN66-316]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-317 RXN66-317]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-319 RXN66-319]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-320 RXN66-320]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-321 RXN66-321]
+== External links  ==
+{{#set: taxonomic range=TAX-33208}}
+{{#set: common name=cholesterol biosynthesis I}}
+{{#set: reaction found=8}}
+{{#set: total reaction=22}}
+{{#set: completion rate=36.0}}

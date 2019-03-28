@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17830 ==
+* right end position:
+** 3379
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1191
+* centisome position:
+** 34.652313    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.3.2.15-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6745]]
+== External links  ==
+{{#set: right end position=3379}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1191}}
+{{#set: centisome position=34.652313    }}
+{{#set: reaction associated=2.3.2.15-RXN}}
+{{#set: pathway associated=PWY-6745}}

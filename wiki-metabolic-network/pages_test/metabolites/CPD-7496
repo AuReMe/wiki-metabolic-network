@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-7496 CPD-7496] ==
+* smiles:
+** CC(=CCCC(=CC=CC(C)=CC=CC(=CC=CC=C(C=CC=C(C)C=CC=C(CCC=C(C)C)C)C)C)C)C
+* common name:
+** prolycopene
+* inchi key:
+** InChIKey=OAIJSZIZWZSQBC-BYUNHUQQSA-N
+* molecular weight:
+** 536.882    
+* Synonym(s):
+** 7,9,9',7'-tetra-cis-lycopene
+** 9,9'-di-cis-&zeta;-carotene
+** 7,9,9',7'-tetracis-lycopene
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8042]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-11357]]
+== Reaction(s) of unknown directionality ==
+* [[RXN-12242]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=10918539 10918539]
+* HMDB : HMDB35776
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62466 62466]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15858 C15858]
+{{#set: smiles=CC(=CCCC(=CC=CC(C)=CC=CC(=CC=CC=C(C=CC=C(C)C=CC=C(CCC=C(C)C)C)C)C)C)C}}
+{{#set: common name=prolycopene}}
+{{#set: inchi key=InChIKey=OAIJSZIZWZSQBC-BYUNHUQQSA-N}}
+{{#set: molecular weight=536.882    }}
+{{#set: common name=7,9,9',7'-tetra-cis-lycopene|9,9'-di-cis-&zeta;-carotene|7,9,9',7'-tetracis-lycopene}}
+{{#set: consumed by=RXN-8042}}
+{{#set: produced by=RXN-11357}}
+{{#set: reversible reaction associated=RXN-12242}}

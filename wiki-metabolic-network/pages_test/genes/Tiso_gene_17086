@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_17086 ==
+* right end position:
+** 3739
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2470
+* centisome position:
+** 62.881874    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RETINOL-DEHYDROGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-12581]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6872]]
+== External links  ==
+{{#set: right end position=3739}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2470}}
+{{#set: centisome position=62.881874    }}
+{{#set: reaction associated=RETINOL-DEHYDROGENASE-RXN|RXN-12581}}
+{{#set: pathway associated=PWY-6872}}

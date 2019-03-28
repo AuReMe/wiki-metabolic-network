@@ -1,0 +1,15 @@
+[MYSQL_VAR]
+db_host = database
+db_name = wikidb
+db_user = wikidb_user
+db_pwd = wikidb_pwd
+
+[MEDIAWIKI_VAR]
+wiki_host = http://localhost
+default_wiki_username =  admin
+default_wiki_password = default_pwd
+
+[PATHS]
+wiki_folders = /var/www/html/
+wiki_template = /home/template/wiki_template
+forms_path = /home/forms/

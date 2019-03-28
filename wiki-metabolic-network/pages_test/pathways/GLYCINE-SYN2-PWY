@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=GLYCINE-SYN2-PWY GLYCINE-SYN2-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** glycine biosynthesis II
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[GCVP-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_17287]]
+*** [[Tiso_gene_428]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-esiliculosus]]
+* [[GLYCLEAV-PWY]]
+** 0 associated gene:
+== Reaction(s) not found ==
+== External links  ==
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=glycine biosynthesis II}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

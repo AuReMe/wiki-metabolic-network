@@ -1,0 +1,29 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-15530 CPD-15530] ==
+* smiles:
+** [CH](=O)C(O)C(O)C(O)C(O)C(=O)[O-]
+* common name:
+** aldehydo-D-glucuronate
+* inchi key:
+** InChIKey=IAJILQKETJEXLJ-QTBDOELSSA-M
+* molecular weight:
+** 193.133    
+* Synonym(s):
+** aldehydo-D-glucuronic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14693]]
+* [[GLUCUROISOM-RXN]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5460126 5460126]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=47953 47953]
+{{#set: smiles=[CH](=O)C(O)C(O)C(O)C(O)C(=O)[O-]}}
+{{#set: common name=aldehydo-D-glucuronate}}
+{{#set: inchi key=InChIKey=IAJILQKETJEXLJ-QTBDOELSSA-M}}
+{{#set: molecular weight=193.133    }}
+{{#set: common name=aldehydo-D-glucuronic acid}}
+{{#set: reversible reaction associated=RXN-14693|GLUCUROISOM-RXN}}

@@ -1,0 +1,59 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7216 PWY-7216] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** (R)- and (S)-3-hydroxybutanoate biosynthesis (engineered)
+* Synonym(s):
+** (R)- and (S)-3-hydroxybutyrate biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''5''' reactions in the full pathway
+* [[ACETYL-COA-ACETYLTRANSFER-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_16181]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_17451]]
+** 4 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-synechocystis]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11662]]
+** 7 associated gene(s):
+*** [[Tiso_gene_16703]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_5857]]
+** 5 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+*** [[orthology-esiliculosus]]
+* [[RXN-5901]]
+** 9 associated gene(s):
+*** [[Tiso_gene_500]]
+*** [[Tiso_gene_6563]]
+*** [[Tiso_gene_135]]
+*** [[Tiso_gene_10876]]
+*** [[Tiso_gene_5424]]
+*** [[Tiso_gene_13394]]
+*** [[Tiso_gene_6562]]
+*** [[Tiso_gene_136]]
+*** [[Tiso_gene_5425]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14251 RXN-14251]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14255 RXN-14255]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=(R)- and (S)-3-hydroxybutanoate biosynthesis (engineered)}}
+{{#set: common name=(R)- and (S)-3-hydroxybutyrate biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=5}}
+{{#set: completion rate=60.0}}

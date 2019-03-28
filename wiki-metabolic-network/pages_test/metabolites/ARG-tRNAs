@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ARG-tRNAs ARG-tRNAs] ==
+* common name:
+** a tRNAarg
+* Synonym(s):
+** TRNA(ARG)
+
+== Reaction(s) known to consume the compound ==
+* [[ARGININE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAarg}}
+{{#set: common name=TRNA(ARG)}}
+{{#set: consumed by=ARGININE--TRNA-LIGASE-RXN}}

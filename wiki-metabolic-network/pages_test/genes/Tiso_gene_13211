@@ -1,0 +1,23 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13211 ==
+* right end position:
+** 6176
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2240
+* centisome position:
+** 34.707157    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[ATPASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=6176}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2240}}
+{{#set: centisome position=34.707157    }}
+{{#set: reaction associated=ATPASE-RXN}}

@@ -1,0 +1,37 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5254 PWY-5254] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183980 TAX-183980]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183988 TAX-183988]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-224756 TAX-224756]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183939 TAX-183939]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-183925 TAX-183925]
+* common name:
+** methanofuran biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''8''' reactions in the full pathway
+* [[TYROSINE-DECARBOXYLASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3686]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15944 RXN-15944]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15945 RXN-15945]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15946 RXN-15946]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15947 RXN-15947]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15949 RXN-15949]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8119 RXN-8119]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-8123 RXN-8123]
+== External links  ==
+{{#set: taxonomic range=TAX-183980}}
+{{#set: taxonomic range=TAX-183988}}
+{{#set: taxonomic range=TAX-224756}}
+{{#set: taxonomic range=TAX-183939}}
+{{#set: taxonomic range=TAX-183925}}
+{{#set: common name=methanofuran biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=8}}
+{{#set: completion rate=13.0}}

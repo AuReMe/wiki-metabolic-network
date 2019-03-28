@@ -1,0 +1,25 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-ACETYLNEURAMINATE N-ACETYLNEURAMINATE] ==
+* common name:
+** N-acetylneuraminate
+* Synonym(s):
+** sialic acid
+** NANA
+** O-sialic acid
+** sialate
+** N-acetylneuraminic acid
+** Neu5Ac
+** 5-acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid
+** 5-acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulopyranosonic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.18-RXN]]
+* [[RXN-13182]]
+* [[RXN-13181]]
+* [[SIALATE-O-ACETYLESTERASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=N-acetylneuraminate}}
+{{#set: common name=sialic acid|NANA|O-sialic acid|sialate|N-acetylneuraminic acid|Neu5Ac|5-acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid|5-acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulopyranosonic acid}}
+{{#set: produced by=3.2.1.18-RXN|RXN-13182|RXN-13181|SIALATE-O-ACETYLESTERASE-RXN}}

@@ -1,0 +1,238 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=PROTEIN-TYROSINE-PHOSPHATASE-RXN PROTEIN-TYROSINE-PHOSPHATASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** ORF
+** map_kinase_phosphatase_1
+** dual_specificity_protein_phosphatase_cdc14a
+** tyrosine_phosphatase_family_protein
+** dual_specificity_phosphatase
+** receptor-type_tyrosine-protein_phosphatase_delta-_partial
+** probable_tyrosine-protein_phosphatase_dg1060
+* ec number:
+** [http://enzyme.expasy.org/EC/3.1.3.48 EC-3.1.3.48]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[Protein-tyrosine-phosphates]][c] '''+''' 1 [[WATER]][c] '''=>''' 1 [[Pi]][c] '''+''' 1 [[Protein-Tyrosines]][c]
+* With common name(s):
+** 1 a [protein]-L-tyrosine phosphate[c] '''+''' 1 H2O[c] '''=>''' 1 phosphate[c] '''+''' 1 a [protein]-L-tyrosine[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12920]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_807]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3693]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_15176]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_17987]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_3461]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_19716]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13113]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_13635]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_2578]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_3751]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_19083]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_16782]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+* Gene: [[Tiso_gene_4164]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+* Gene: [[Tiso_gene_12712]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_8252]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: EC-NUMBER
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_20064]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+** Source: [[annotation-experimental_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R02585 R02585]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P06800 P06800]
+** [http://www.uniprot.org/uniprot/P20483 P20483]
+** [http://www.uniprot.org/uniprot/P23748 P23748]
+** [http://www.uniprot.org/uniprot/P20417 P20417]
+** [http://www.uniprot.org/uniprot/P18433 P18433]
+** [http://www.uniprot.org/uniprot/P24666 P24666]
+** [http://www.uniprot.org/uniprot/Q06180 Q06180]
+** [http://www.uniprot.org/uniprot/P30307 P30307]
+** [http://www.uniprot.org/uniprot/P25044 P25044]
+** [http://www.uniprot.org/uniprot/P27574 P27574]
+** [http://www.uniprot.org/uniprot/P29074 P29074]
+** [http://www.uniprot.org/uniprot/P26045 P26045]
+** [http://www.uniprot.org/uniprot/P35234 P35234]
+** [http://www.uniprot.org/uniprot/P35832 P35832]
+** [http://www.uniprot.org/uniprot/P30304 P30304]
+** [http://www.uniprot.org/uniprot/Q03019 Q03019]
+** [http://www.uniprot.org/uniprot/P11064 P11064]
+** [http://www.uniprot.org/uniprot/P30306 P30306]
+** [http://www.uniprot.org/uniprot/P30309 P30309]
+** [http://www.uniprot.org/uniprot/P43378 P43378]
+** [http://www.uniprot.org/uniprot/P29349 P29349]
+** [http://www.uniprot.org/uniprot/P29351 P29351]
+** [http://www.uniprot.org/uniprot/Q9W0G1 Q9W0G1]
+** [http://www.uniprot.org/uniprot/P23471 P23471]
+** [http://www.uniprot.org/uniprot/P35235 P35235]
+** [http://www.uniprot.org/uniprot/P08575 P08575]
+** [http://www.uniprot.org/uniprot/P18052 P18052]
+** [http://www.uniprot.org/uniprot/P35822 P35822]
+** [http://www.uniprot.org/uniprot/P23470 P23470]
+** [http://www.uniprot.org/uniprot/P34138 P34138]
+** [http://www.uniprot.org/uniprot/Q24495 Q24495]
+** [http://www.uniprot.org/uniprot/Q9W4F5 Q9W4F5]
+** [http://www.uniprot.org/uniprot/Q15426 Q15426]
+** [http://www.uniprot.org/uniprot/P41499 P41499]
+** [http://www.uniprot.org/uniprot/Q28613 Q28613]
+** [http://www.uniprot.org/uniprot/Q28182 Q28182]
+** [http://www.uniprot.org/uniprot/P15273 P15273]
+** [http://www.uniprot.org/uniprot/Q91870 Q91870]
+** [http://www.uniprot.org/uniprot/Q91976 Q91976]
+** [http://www.uniprot.org/uniprot/Q12923 Q12923]
+** [http://www.uniprot.org/uniprot/P41893 P41893]
+** [http://www.uniprot.org/uniprot/Q62132 Q62132]
+** [http://www.uniprot.org/uniprot/Q92124 Q92124]
+** [http://www.uniprot.org/uniprot/P23468 P23468]
+** [http://www.uniprot.org/uniprot/Q62917 Q62917]
+** [http://www.uniprot.org/uniprot/Q64696 Q64696]
+** [http://www.uniprot.org/uniprot/P40347 P40347]
+** [http://www.uniprot.org/uniprot/P16620 P16620]
+** [http://www.uniprot.org/uniprot/P30305 P30305]
+** [http://www.uniprot.org/uniprot/P29352 P29352]
+** [http://www.uniprot.org/uniprot/Q05909 Q05909]
+** [http://www.uniprot.org/uniprot/Q91871 Q91871]
+** [http://www.uniprot.org/uniprot/P49446 P49446]
+** [http://www.uniprot.org/uniprot/Q9CDL7 Q9CDL7]
+** [http://www.uniprot.org/uniprot/P30311 P30311]
+** [http://www.uniprot.org/uniprot/Q64487 Q64487]
+** [http://www.uniprot.org/uniprot/Q9JU65 Q9JU65]
+** [http://www.uniprot.org/uniprot/P35992 P35992]
+** [http://www.uniprot.org/uniprot/P0AAB2 P0AAB2]
+** [http://www.uniprot.org/uniprot/Q9PN39 Q9PN39]
+** [http://www.uniprot.org/uniprot/Q16825 Q16825]
+** [http://www.uniprot.org/uniprot/Q12913 Q12913]
+** [http://www.uniprot.org/uniprot/P48967 P48967]
+** [http://www.uniprot.org/uniprot/Q60998 Q60998]
+** [http://www.uniprot.org/uniprot/Q90815 Q90815]
+** [http://www.uniprot.org/uniprot/Q90816 Q90816]
+** [http://www.uniprot.org/uniprot/Q90817 Q90817]
+** [http://www.uniprot.org/uniprot/P30310 P30310]
+** [http://www.uniprot.org/uniprot/Q62604 Q62604]
+** [http://www.uniprot.org/uniprot/Q64605 Q64605]
+** [http://www.uniprot.org/uniprot/Q05209 Q05209]
+** [http://www.uniprot.org/uniprot/Q60673 Q60673]
+** [http://www.uniprot.org/uniprot/Q62130 Q62130]
+** [http://www.uniprot.org/uniprot/Q15678 Q15678]
+** [http://www.uniprot.org/uniprot/Q92932 Q92932]
+** [http://www.uniprot.org/uniprot/Q90687 Q90687]
+** [http://www.uniprot.org/uniprot/P79923 P79923]
+** [http://www.uniprot.org/uniprot/O00197 O00197]
+** [http://www.uniprot.org/uniprot/Q61042 Q61042]
+** [http://www.uniprot.org/uniprot/Q9ERM5 Q9ERM5]
+** [http://www.uniprot.org/uniprot/P35236 P35236]
+** [http://www.uniprot.org/uniprot/P35821 P35821]
+** [http://www.uniprot.org/uniprot/Q06124 Q06124]
+** [http://www.uniprot.org/uniprot/O13016 O13016]
+** [http://www.uniprot.org/uniprot/P23467 P23467]
+** [http://www.uniprot.org/uniprot/P23469 P23469]
+** [http://www.uniprot.org/uniprot/P35233 P35233]
+** [http://www.uniprot.org/uniprot/P30634 P30634]
+** [http://www.uniprot.org/uniprot/P28827 P28827]
+** [http://www.uniprot.org/uniprot/P28828 P28828]
+** [http://www.uniprot.org/uniprot/Q64497 Q64497]
+** [http://www.uniprot.org/uniprot/P29350 P29350]
+** [http://www.uniprot.org/uniprot/P30303 P30303]
+** [http://www.uniprot.org/uniprot/P32586 P32586]
+** [http://www.uniprot.org/uniprot/P32587 P32587]
+** [http://www.uniprot.org/uniprot/Q02256 Q02256]
+** [http://www.uniprot.org/uniprot/Q8VBV0 Q8VBV0]
+** [http://www.uniprot.org/uniprot/Q8R169 Q8R169]
+** [http://www.uniprot.org/uniprot/Q64512 Q64512]
+** [http://www.uniprot.org/uniprot/Q29029 Q29029]
+** [http://www.uniprot.org/uniprot/P38148 P38148]
+** [http://www.uniprot.org/uniprot/Q64604 Q64604]
+** [http://www.uniprot.org/uniprot/Q63745 Q63745]
+** [http://www.uniprot.org/uniprot/P39155 P39155]
+** [http://www.uniprot.org/uniprot/Q64494 Q64494]
+** [http://www.uniprot.org/uniprot/Q62728 Q62728]
+** [http://www.uniprot.org/uniprot/Q64502 Q64502]
+** [http://www.uniprot.org/uniprot/Q64504 Q64504]
+** [http://www.uniprot.org/uniprot/Q46630 Q46630]
+** [http://www.uniprot.org/uniprot/Q17024 Q17024]
+** [http://www.uniprot.org/uniprot/P35831 P35831]
+** [http://www.uniprot.org/uniprot/Q00684 Q00684]
+** [http://www.uniprot.org/uniprot/Q16827 Q16827]
+** [http://www.uniprot.org/uniprot/P06652 P06652]
+** [http://www.uniprot.org/uniprot/P29461 P29461]
+** [http://www.uniprot.org/uniprot/Q29500 Q29500]
+** [http://www.uniprot.org/uniprot/Q62370 Q62370]
+** [http://www.uniprot.org/uniprot/Q92735 Q92735]
+** [http://www.uniprot.org/uniprot/Q45408 Q45408]
+** [http://www.uniprot.org/uniprot/O82710 O82710]
+** [http://www.uniprot.org/uniprot/O88488 O88488]
+** [http://www.uniprot.org/uniprot/O88902 O88902]
+** [http://www.uniprot.org/uniprot/O94044 O94044]
+** [http://www.uniprot.org/uniprot/O44329 O44329]
+** [http://www.uniprot.org/uniprot/O76282 O76282]
+** [http://www.uniprot.org/uniprot/Q98936 Q98936]
+** [http://www.uniprot.org/uniprot/Q91054 Q91054]
+** [http://www.uniprot.org/uniprot/Q22582 Q22582]
+** [http://www.uniprot.org/uniprot/Q39491 Q39491]
+** [http://www.uniprot.org/uniprot/O65190 O65190]
+** [http://www.uniprot.org/uniprot/P16621 P16621]
+** [http://www.uniprot.org/uniprot/P10586 P10586]
+** [http://www.uniprot.org/uniprot/Q64224 Q64224]
+** [http://www.uniprot.org/uniprot/P18031 P18031]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=ORF}}
+{{#set: common name=map_kinase_phosphatase_1}}
+{{#set: common name=dual_specificity_protein_phosphatase_cdc14a}}
+{{#set: common name=tyrosine_phosphatase_family_protein}}
+{{#set: common name=dual_specificity_phosphatase}}
+{{#set: common name=receptor-type_tyrosine-protein_phosphatase_delta-_partial}}
+{{#set: common name=probable_tyrosine-protein_phosphatase_dg1060}}
+{{#set: ec number=EC-3.1.3.48}}
+{{#set: gene associated=Tiso_gene_12920|Tiso_gene_807|Tiso_gene_3693|Tiso_gene_15176|Tiso_gene_17987|Tiso_gene_3461|Tiso_gene_19716|Tiso_gene_13113|Tiso_gene_13635|Tiso_gene_2578|Tiso_gene_3751|Tiso_gene_19083|Tiso_gene_16782|Tiso_gene_4164|Tiso_gene_12712|Tiso_gene_8252|Tiso_gene_20064}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|annotation-experimental_annotation|orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

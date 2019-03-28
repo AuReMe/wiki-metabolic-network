@@ -1,0 +1,34 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=SUCROSE-6P SUCROSE-6P] ==
+* smiles:
+** C(OP(=O)([O-])[O-])C2(OC(CO)(OC1(OC(CO)C(O)C(O)C(O)1))C(O)C(O)2)
+* common name:
+** sucrose 6F-phosphate
+* inchi key:
+** InChIKey=PJTTXANTBQDXME-UGDNZRGBSA-L
+* molecular weight:
+** 420.263    
+* Synonym(s):
+** sucrose-6F-P
+** 6-O-phosphonato-&beta;-D-fructofuranosyl &alpha;-D-glucopyranoside
+
+== Reaction(s) known to consume the compound ==
+* [[BFFS]]
+== Reaction(s) known to produce the compound ==
+* [[SUCROSE-PHOSPHATE-SYNTHASE-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25245080 25245080]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57723 57723]
+* BIGG : suc6p
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C02591 C02591]
+{{#set: smiles=C(OP(=O)([O-])[O-])C2(OC(CO)(OC1(OC(CO)C(O)C(O)C(O)1))C(O)C(O)2)}}
+{{#set: common name=sucrose 6F-phosphate}}
+{{#set: inchi key=InChIKey=PJTTXANTBQDXME-UGDNZRGBSA-L}}
+{{#set: molecular weight=420.263    }}
+{{#set: common name=sucrose-6F-P|6-O-phosphonato-&beta;-D-fructofuranosyl &alpha;-D-glucopyranoside}}
+{{#set: consumed by=BFFS}}
+{{#set: produced by=SUCROSE-PHOSPHATE-SYNTHASE-RXN}}

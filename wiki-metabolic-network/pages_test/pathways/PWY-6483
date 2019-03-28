@@ -1,0 +1,26 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6483 PWY-6483] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33154 TAX-33154]
+* common name:
+** ceramide degradation
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[RXN-11375]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14341]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11376 RXN-11376]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11377 RXN-11377]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-33154}}
+{{#set: common name=ceramide degradation}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

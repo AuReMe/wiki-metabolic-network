@@ -1,0 +1,16 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=Aryl-Aldehyde Aryl-Aldehyde] ==
+* common name:
+** an aryl aldehyde
+* Synonym(s):
+** an aromatic aldehyde
+** an aryl aldehyde
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[ARYL-ALCOHOL-DEHYDROGENASE-NADP+-RXN]]
+== External links  ==
+{{#set: common name=an aryl aldehyde}}
+{{#set: common name=an aromatic aldehyde|an aryl aldehyde}}
+{{#set: reversible reaction associated=ARYL-ALCOHOL-DEHYDROGENASE-NADP+-RXN}}

@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15498 ==
+* right end position:
+** 2829
+* transcription direction:
+** POSITIVE
+* left end position:
+** 983
+* centisome position:
+** 19.67968    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[4-NITROPHENYLPHOSPHATASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GPH-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-181]]
+== External links  ==
+{{#set: right end position=2829}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=983}}
+{{#set: centisome position=19.67968    }}
+{{#set: reaction associated=4-NITROPHENYLPHOSPHATASE-RXN|GPH-RXN}}
+{{#set: pathway associated=PWY-181}}

@@ -1,0 +1,25 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RME256 RME256] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** RME256
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 0.56 [[ATP]][c] '''+''' 0.34 [[GTP]][c] '''+''' 0.34 [[CTP]][c] '''+''' 1.4 [[WATER]][c] '''+''' 0.16 [[UTP]][c] '''=>''' 0.4 [[ADP]][c] '''+''' 1.0 [[PPI]][c] '''+''' 0.4 [[PROTON]][c] '''+''' 0.4 [[Pi]][c] '''+''' 1.0 [[RNA-Holder]][c]
+* With common name(s):
+** 0.56 ATP[c] '''+''' 0.34 GTP[c] '''+''' 0.34 CTP[c] '''+''' 1.4 H2O[c] '''+''' 0.16 UTP[c] '''=>''' 0.4 ADP[c] '''+''' 1.0 diphosphate[c] '''+''' 0.4 H+[c] '''+''' 0.4 phosphate[c] '''+''' 1.0 RNA[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=RME256}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=manual}}
+{{#set: reconstruction source=manual-primary_network}}

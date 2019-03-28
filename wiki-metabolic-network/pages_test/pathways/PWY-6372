@@ -1,0 +1,43 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6372 PWY-6372] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33083 TAX-33083]
+* common name:
+** 1D-myo-inositol hexakisphosphate biosynthesis IV (Dictyostelium)
+* Synonym(s):
+** lipid-independent phytic acid biosynthesis
+** lipid-independent InsP6 biosynthesis
+** lipid-independent phytate biosynthesis
+** 1D-myo-inositol hexakisphosphate biosynthesis (lipid-independent)
+** phytate biosynthesis
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''7''' reactions in the full pathway
+* [[2.7.1.140-RXN]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_7167]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-7163]]
+** 1 associated gene(s):
+*** [[Tiso_gene_15282]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=MYO-INOSITOL-1-KINASE-RXN MYO-INOSITOL-1-KINASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10982 RXN-10982]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10983 RXN-10983]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10984 RXN-10984]
+== External links  ==
+{{#set: taxonomic range=TAX-33083}}
+{{#set: common name=1D-myo-inositol hexakisphosphate biosynthesis IV (Dictyostelium)}}
+{{#set: common name=lipid-independent phytic acid biosynthesis|lipid-independent InsP6 biosynthesis|lipid-independent phytate biosynthesis|1D-myo-inositol hexakisphosphate biosynthesis (lipid-independent)|phytate biosynthesis}}
+{{#set: reaction found=3}}
+{{#set: total reaction=7}}
+{{#set: completion rate=43.0}}

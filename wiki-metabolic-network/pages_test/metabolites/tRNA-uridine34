@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=tRNA-uridine34 tRNA-uridine34] ==
+* common name:
+** a uridine34 in tRNA
+* Synonym(s):
+** a tRNA uridine34
+
+== Reaction(s) known to consume the compound ==
+* [[RXN0-2023]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a uridine34 in tRNA}}
+{{#set: common name=a tRNA uridine34}}
+{{#set: consumed by=RXN0-2023}}

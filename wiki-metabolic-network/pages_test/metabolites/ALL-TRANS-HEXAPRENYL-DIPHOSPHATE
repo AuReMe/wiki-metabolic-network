@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ALL-TRANS-HEXAPRENYL-DIPHOSPHATE ALL-TRANS-HEXAPRENYL-DIPHOSPHATE] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]
+* common name:
+** all-trans-hexaprenyl diphosphate
+* inchi key:
+** InChIKey=NGFSMHKFTZROKJ-MMSZMYIBSA-K
+* molecular weight:
+** 583.66    
+* Synonym(s):
+** hexaprenyl-diphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9003]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25246217 25246217]
+* HMDB : HMDB12188
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=58179 58179]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01230 C01230]
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]}}
+{{#set: common name=all-trans-hexaprenyl diphosphate}}
+{{#set: inchi key=InChIKey=NGFSMHKFTZROKJ-MMSZMYIBSA-K}}
+{{#set: molecular weight=583.66    }}
+{{#set: common name=hexaprenyl-diphosphate}}
+{{#set: consumed by=RXN-9003}}

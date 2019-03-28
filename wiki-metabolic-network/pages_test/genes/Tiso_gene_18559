@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_18559 ==
+* right end position:
+** 2300
+* transcription direction:
+** POSITIVE
+* left end position:
+** 587
+* centisome position:
+** 14.086872    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-8281]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-5338]]
+== External links  ==
+{{#set: right end position=2300}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=587}}
+{{#set: centisome position=14.086872    }}
+{{#set: reaction associated=RXN-8281}}
+{{#set: pathway associated=PWY-5338}}

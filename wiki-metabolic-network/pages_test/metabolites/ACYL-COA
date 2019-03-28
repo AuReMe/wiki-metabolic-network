@@ -1,0 +1,23 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=ACYL-COA ACYL-COA] ==
+* common name:
+** an acyl-CoA
+* Synonym(s):
+** fatty acyl thioester-CoA
+** an acyl-CoA
+** RCH2CH2CO-CoA
+** acyl-Coenzyme A
+
+== Reaction(s) known to consume the compound ==
+* [[ACYL-COA-OXIDASE-RXN]]
+* [[DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN]]
+* [[ACYL-COA-HYDROLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[2.3.1.23-RXN]]
+* [[RXN-13112]]
+== External links  ==
+{{#set: common name=an acyl-CoA}}
+{{#set: common name=fatty acyl thioester-CoA|an acyl-CoA|RCH2CH2CO-CoA|acyl-Coenzyme A}}
+{{#set: consumed by=ACYL-COA-OXIDASE-RXN|DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN|ACYL-COA-HYDROLASE-RXN}}
+{{#set: reversible reaction associated=2.3.1.23-RXN|RXN-13112}}

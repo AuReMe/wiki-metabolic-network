@@ -1,0 +1,31 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-8122 CPD-8122] ==
+* smiles:
+** C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(OP([O-])(=O)OCC5(O[CH]4(NC6(N=C(NC(=O)C(N[CH]4C(=C5[S-])S)=6)N))))(=O)[O-]
+* common name:
+** molybdopterin adenine dinucleotide
+* inchi key:
+** InChIKey=XJXFAXLUOKQPAQ-YPRLVJTJSA-K
+* molecular weight:
+** 721.529    
+* Synonym(s):
+** adenylated molybdopterin
+** H2Dtpp-mADP
+** molybdopterin-AMP
+** adenylyl-molybdopterin
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-8348]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=53356704 53356704]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62727 62727]
+{{#set: smiles=C(C3(C(C(C(N2(C1(=C(C(=NC=N1)N)N=C2)))O3)O)O))OP(OP([O-])(=O)OCC5(O[CH]4(NC6(N=C(NC(=O)C(N[CH]4C(=C5[S-])S)=6)N))))(=O)[O-]}}
+{{#set: common name=molybdopterin adenine dinucleotide}}
+{{#set: inchi key=InChIKey=XJXFAXLUOKQPAQ-YPRLVJTJSA-K}}
+{{#set: molecular weight=721.529    }}
+{{#set: common name=adenylated molybdopterin|H2Dtpp-mADP|molybdopterin-AMP|adenylyl-molybdopterin}}
+{{#set: consumed by=RXN-8348}}

@@ -1,0 +1,46 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=TRP TRP] ==
+* smiles:
+** C2(NC1(C=CC=CC=1C(CC([N+])C(=O)[O-])=2))
+* common name:
+** L-tryptophan
+* inchi key:
+** InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
+* molecular weight:
+** 204.228    
+* Synonym(s):
+** trp
+** W
+** tryptacin
+** trofan
+** tryptophan
+** 2-amino-3-indolylpropanic acid
+** L-trp
+
+== Reaction(s) known to consume the compound ==
+* [[TRYPTOPHAN--TRNA-LIGASE-RXN]]
+* [[RME144]]
+* [[TRANS-RXN-76]]
+== Reaction(s) known to produce the compound ==
+* [[TRYPSYN-RXN]]
+* [[RXN0-2382]]
+* [[TRANS-RXN-76]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 73-22-3
+* BIGG : trp__L
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6923516 6923516]
+* HMDB : HMDB00929
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00078 C00078]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=57912 57912]
+* METABOLIGHTS : MTBLC57912
+{{#set: smiles=C2(NC1(C=CC=CC=1C(CC([N+])C(=O)[O-])=2))}}
+{{#set: common name=L-tryptophan}}
+{{#set: inchi key=InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N}}
+{{#set: molecular weight=204.228    }}
+{{#set: common name=trp|W|tryptacin|trofan|tryptophan|2-amino-3-indolylpropanic acid|L-trp}}
+{{#set: consumed by=TRYPTOPHAN--TRNA-LIGASE-RXN|RME144|TRANS-RXN-76}}
+{{#set: produced by=TRYPSYN-RXN|RXN0-2382|TRANS-RXN-76}}

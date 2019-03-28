@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6689 PWY-6689] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** tRNA splicing I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''7''' reactions in the full pathway
+* [[2.7.1.160-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_17372]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+* [[3.1.27.9-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3776]]
+*** [[Tiso_gene_10338]]
+*** [[Tiso_gene_5254]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10034 RXN-10034]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12055 RXN-12055]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17939 RXN-17939]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17940 RXN-17940]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17941 RXN-17941]
+== External links  ==
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=tRNA splicing I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=7}}
+{{#set: completion rate=29.0}}

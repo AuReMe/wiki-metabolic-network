@@ -1,0 +1,39 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PROPIONATE PROPIONATE] ==
+* smiles:
+** CCC(=O)[O-]
+* common name:
+** propanoate
+* inchi key:
+** InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M
+* molecular weight:
+** 73.071    
+* Synonym(s):
+** propionic acid
+** ethylformic acid
+** methylacetic acid
+** propionate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14727]]
+== External links  ==
+* CAS : 79-09-4
+* BIGG : ppa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=104745 104745]
+* HMDB : HMDB00237
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00163 C00163]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.94556.html 94556]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17272 17272]
+* METABOLIGHTS : MTBLC17272
+{{#set: smiles=CCC(=O)[O-]}}
+{{#set: common name=propanoate}}
+{{#set: inchi key=InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M}}
+{{#set: molecular weight=73.071    }}
+{{#set: common name=propionic acid|ethylformic acid|methylacetic acid|propionate}}
+{{#set: reversible reaction associated=RXN-14727}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-10262 CPD-10262] ==
+* smiles:
+** CCCCCCCCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O
+* common name:
+** trans-octadec-2-enoyl-CoA
+* inchi key:
+** InChIKey=NBCCUIHOHUKBMK-ZDDAFBBHSA-J
+* molecular weight:
+** 1027.953    
+* Synonym(s):
+** trans-2,3-dihydro-stearenoyl-CoA
+** (2E)-octadecenoyl-CoA
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[ECOAH8]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C16218 C16218]
+* HMDB : HMDB06529
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=71412 71412]
+* BIGG : od2coa
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244344 25244344]
+{{#set: smiles=CCCCCCCCCCCCCCCC=CC(=O)SCCNC(=O)CCNC(C(O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OCC1(C(OP(=O)([O-])[O-])C(O)C(O1)N3(C=NC2(C(N)=NC=NC=23))))=O}}
+{{#set: common name=trans-octadec-2-enoyl-CoA}}
+{{#set: inchi key=InChIKey=NBCCUIHOHUKBMK-ZDDAFBBHSA-J}}
+{{#set: molecular weight=1027.953    }}
+{{#set: common name=trans-2,3-dihydro-stearenoyl-CoA|(2E)-octadecenoyl-CoA}}
+{{#set: produced by=ECOAH8}}

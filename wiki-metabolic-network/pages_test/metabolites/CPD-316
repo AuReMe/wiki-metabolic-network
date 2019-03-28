@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-316 CPD-316] ==
+* smiles:
+** CC1(=C(C=C2(C(=C1)NC3(C(N2CC(O)C(O)C(O)CO)=NC(NC3=O)=O)))C)
+* common name:
+** reduced riboflavin
+* inchi key:
+** InChIKey=UTKDOUCGQVLJIN-PIGZVRMJSA-N
+* molecular weight:
+** 378.384    
+* Synonym(s):
+** 4a,5-dihydroriboflavine
+** 7,8-dimethyl-10-(D-ribo-2,3,4,5-tetrahydroxypentyl)-4a,5-dihydroisoalloxazine
+** 7,8-dimethyl-10-(D-ribo-2,3,4,5-tetrahydroxypentyl)-5,10-dihydrobenzo[g]pteridine-2,4(3H,4aH)-dione
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12445]]
+* [[NADPH-DEHYDROGENASE-FLAVIN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=45480537 45480537]
+* HMDB : HMDB01557
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01007 C01007]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.52885.html 52885]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=8798 8798]
+* BIGG : rbflvrd
+{{#set: smiles=CC1(=C(C=C2(C(=C1)NC3(C(N2CC(O)C(O)C(O)CO)=NC(NC3=O)=O)))C)}}
+{{#set: common name=reduced riboflavin}}
+{{#set: inchi key=InChIKey=UTKDOUCGQVLJIN-PIGZVRMJSA-N}}
+{{#set: molecular weight=378.384    }}
+{{#set: common name=4a,5-dihydroriboflavine|7,8-dimethyl-10-(D-ribo-2,3,4,5-tetrahydroxypentyl)-4a,5-dihydroisoalloxazine|7,8-dimethyl-10-(D-ribo-2,3,4,5-tetrahydroxypentyl)-5,10-dihydrobenzo[g]pteridine-2,4(3H,4aH)-dione}}
+{{#set: produced by=RXN-12445|NADPH-DEHYDROGENASE-FLAVIN-RXN}}

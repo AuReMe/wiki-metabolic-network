@@ -1,0 +1,39 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1369 ==
+* right end position:
+** 23172
+* transcription direction:
+** POSITIVE
+* left end position:
+** 19332
+* centisome position:
+** 80.395905    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AIRS-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-synechocystis]]
+* Reaction: [[FGFTm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[FPGFTm]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[GLYRIBONUCSYN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6121]]
+* [[PWY-6122]]
+* [[PWY-6277]]
+== External links  ==
+{{#set: right end position=23172}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=19332}}
+{{#set: centisome position=80.395905    }}
+{{#set: reaction associated=AIRS-RXN|FGFTm|FPGFTm|GLYRIBONUCSYN-RXN}}
+{{#set: pathway associated=PWY-6121|PWY-6122|PWY-6277}}

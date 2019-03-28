@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_15852 ==
+* right end position:
+** 2068
+* transcription direction:
+** POSITIVE
+* left end position:
+** 37
+* centisome position:
+** 0.77845573    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[DIMETHUROPORDEHYDROG-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7377]]
+* [[PWY-5194]]
+== External links  ==
+{{#set: right end position=2068}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=37}}
+{{#set: centisome position=0.77845573    }}
+{{#set: reaction associated=DIMETHUROPORDEHYDROG-RXN}}
+{{#set: pathway associated=PWY-7377|PWY-5194}}

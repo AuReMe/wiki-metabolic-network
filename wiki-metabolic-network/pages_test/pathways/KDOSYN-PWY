@@ -1,0 +1,35 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=KDOSYN-PWY KDOSYN-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-33090 TAX-33090]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1783257 TAX-1783257]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-1224 TAX-1224]
+* common name:
+** Kdo transfer to lipid IVA I
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''2''' reactions in the full pathway
+* [[KDOTRANS-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_14463]]
+*** [[Tiso_gene_14462]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[annotation-in-silico_annotation]]
+* [[KDOTRANS2-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14463]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+== Reaction(s) not found ==
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=KDOSYN-PWY KDOSYN-PWY]
+{{#set: taxonomic range=TAX-33090}}
+{{#set: taxonomic range=TAX-1783257}}
+{{#set: taxonomic range=TAX-1224}}
+{{#set: common name=Kdo transfer to lipid IVA I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=2}}
+{{#set: completion rate=100.0}}

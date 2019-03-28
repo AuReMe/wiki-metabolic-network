@@ -1,0 +1,67 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6946 PWY-6946] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** cholesterol degradation to androstenedione II (cholesterol dehydrogenase)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''3''' reactions found over '''22''' reactions in the full pathway
+* [[RXN-12693]]
+** 4 associated gene(s):
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_2957]]
+*** [[Tiso_gene_18774]]
+*** [[Tiso_gene_897]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12705]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+* [[RXN-12710]]
+** 5 associated gene(s):
+*** [[Tiso_gene_17451]]
+*** [[Tiso_gene_15327]]
+*** [[Tiso_gene_3855]]
+*** [[Tiso_gene_3856]]
+*** [[Tiso_gene_10116]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12694 RXN-12694]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12702 RXN-12702]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12703 RXN-12703]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12704 RXN-12704]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12706 RXN-12706]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12707 RXN-12707]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12708 RXN-12708]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12709 RXN-12709]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12743 RXN-12743]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12744 RXN-12744]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12745 RXN-12745]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12848 RXN-12848]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12849 RXN-12849]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12850 RXN-12850]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17645 RXN-17645]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17646 RXN-17646]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17647 RXN-17647]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17648 RXN-17648]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17650 RXN-17650]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=cholesterol degradation to androstenedione II (cholesterol dehydrogenase)}}
+{{#set: reaction found=3}}
+{{#set: total reaction=22}}
+{{#set: completion rate=14.0}}

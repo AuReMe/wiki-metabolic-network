@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13937 CPD-13937] ==
+* smiles:
+** CC(=O)NC1(C(OC(CO)C(C(O)1)OC2(OC(CO)C(C(O)C(NC(=O)C)2)OC3(C(O)C(C(O)C(O3)COC6(C(O)C(C(O)C(COC5(OC(CO)C(O)C(O)C(OC4(C(O)C(O)C(O)C(CO)O4))5))O6)OC7(C(C(O)C(O)C(CO)O7)OC8(C(O)C(O)C(O)C(CO)O8))))OC%13(OC(CO)C(O)C(O)C(OC%12(OC(CO)C(O)C(O)C(OC9(C(O)C(C(O)C(O9)CO)OC%10(C(O)C(C(O)C(O%10)CO)OC%11(OC(CO)C(O)C(O)C(O)%11))))%12))%13))))O)
+* common name:
+** Glc2Man9GlcNAc2
+* inchi key:
+** InChIKey=WQOBEIJLPIXUTJ-RTIPJVFBSA-N
+* molecular weight:
+** 2207.966    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[3.2.1.106-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=90657567 90657567]
+{{#set: smiles=CC(=O)NC1(C(OC(CO)C(C(O)1)OC2(OC(CO)C(C(O)C(NC(=O)C)2)OC3(C(O)C(C(O)C(O3)COC6(C(O)C(C(O)C(COC5(OC(CO)C(O)C(O)C(OC4(C(O)C(O)C(O)C(CO)O4))5))O6)OC7(C(C(O)C(O)C(CO)O7)OC8(C(O)C(O)C(O)C(CO)O8))))OC%13(OC(CO)C(O)C(O)C(OC%12(OC(CO)C(O)C(O)C(OC9(C(O)C(C(O)C(O9)CO)OC%10(C(O)C(C(O)C(O%10)CO)OC%11(OC(CO)C(O)C(O)C(O)%11))))%12))%13))))O)}}
+{{#set: common name=Glc2Man9GlcNAc2}}
+{{#set: inchi key=InChIKey=WQOBEIJLPIXUTJ-RTIPJVFBSA-N}}
+{{#set: molecular weight=2207.966    }}
+{{#set: produced by=3.2.1.106-RXN}}

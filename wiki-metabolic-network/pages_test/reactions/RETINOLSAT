@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RETINOLSAT RETINOLSAT] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** retinol saturase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PROTON]][s] '''+''' 1.0 [[NADPH]][s] '''+''' 1.0 [[Retinols]][s] '''=>''' 1.0 [[CPD-7247]][s] '''+''' 1.0 [[NADP]][s]
+* With common name(s):
+** 1.0 H+[s] '''+''' 1.0 NADPH[s] '''+''' 1.0 a retinol[s] '''=>''' 1.0 all-trans-13,14-dihydroretinol[s] '''+''' 1.0 NADP+[s]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_16794]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=retinol saturase}}
+{{#set: gene associated=Tiso_gene_16794}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,33 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-715 CPD-715] ==
+* smiles:
+** CC(C)C(C)C(O)C(O)C(C)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(O)CCC(C)1[CH]2CCC(C)34))))
+* common name:
+** 6-deoxoteasterone
+* inchi key:
+** InChIKey=WPHVOXMMNSLJSF-GUOPQYDVSA-N
+* molecular weight:
+** 434.701    
+* Synonym(s):
+** deoxoteasterone
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-775]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-774]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIPID_MAPS : LMST01030120
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11144580 11144580]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=20716 20716]
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C15799 C15799]
+{{#set: smiles=CC(C)C(C)C(O)C(O)C(C)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(O)CCC(C)1[CH]2CCC(C)34))))}}
+{{#set: common name=6-deoxoteasterone}}
+{{#set: inchi key=InChIKey=WPHVOXMMNSLJSF-GUOPQYDVSA-N}}
+{{#set: molecular weight=434.701    }}
+{{#set: common name=deoxoteasterone}}
+{{#set: consumed by=RXN-775}}
+{{#set: produced by=RXN-774}}

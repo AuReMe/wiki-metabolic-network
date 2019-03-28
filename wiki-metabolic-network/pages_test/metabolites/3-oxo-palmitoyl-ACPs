@@ -1,0 +1,20 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=3-oxo-palmitoyl-ACPs 3-oxo-palmitoyl-ACPs] ==
+* common name:
+** a 3-oxo-palmitoyl-[acp]
+* Synonym(s):
+** a 3-keto-palmitoyl-[acp]
+** a 3-oxo-hexadecanoyl-[acp]
+** a 3-oxo-palmitoyl-[acyl-carrier-protein]
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-9540]]
+== Reaction(s) known to produce the compound ==
+* [[RXN-9654]]
+* [[RXN-9539]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a 3-oxo-palmitoyl-[acp]}}
+{{#set: common name=a 3-keto-palmitoyl-[acp]|a 3-oxo-hexadecanoyl-[acp]|a 3-oxo-palmitoyl-[acyl-carrier-protein]}}
+{{#set: consumed by=RXN-9540}}
+{{#set: produced by=RXN-9654|RXN-9539}}

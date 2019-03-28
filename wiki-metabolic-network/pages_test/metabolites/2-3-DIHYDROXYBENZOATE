@@ -1,0 +1,38 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=2-3-DIHYDROXYBENZOATE 2-3-DIHYDROXYBENZOATE] ==
+* smiles:
+** C(C1(=CC=CC(=C1O)O))([O-])=O
+* common name:
+** 2,3-dihydroxybenzoate
+* inchi key:
+** InChIKey=GLDQAMYCGOIJDV-UHFFFAOYSA-M
+* molecular weight:
+** 153.114    
+* Synonym(s):
+** 2,3-dihydroxybenzoic acid
+** 3-hydroxysalicylate
+** catechol-3-carboxylate
+** 2-pyrocatechuate
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[DHBDEHYD-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 303-38-8
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=54675818 54675818]
+* HMDB : HMDB00397
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00196 C00196]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.5323089.html 5323089]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=36654 36654]
+* BIGG : 23dhb
+{{#set: smiles=C(C1(=CC=CC(=C1O)O))([O-])=O}}
+{{#set: common name=2,3-dihydroxybenzoate}}
+{{#set: inchi key=InChIKey=GLDQAMYCGOIJDV-UHFFFAOYSA-M}}
+{{#set: molecular weight=153.114    }}
+{{#set: common name=2,3-dihydroxybenzoic acid|3-hydroxysalicylate|catechol-3-carboxylate|2-pyrocatechuate}}
+{{#set: produced by=DHBDEHYD-RXN}}

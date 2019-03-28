@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_2810 ==
+* right end position:
+** 5264
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 2702
+* centisome position:
+** 14.693567    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.1.1.8-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-6118]]
+* [[PWY-7385]]
+* [[PWY-7411]]
+== External links  ==
+{{#set: right end position=5264}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=2702}}
+{{#set: centisome position=14.693567    }}
+{{#set: reaction associated=1.1.1.8-RXN}}
+{{#set: pathway associated=PWY-6118|PWY-7385|PWY-7411}}

@@ -1,0 +1,50 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=KDOTRANS-RXN KDOTRANS-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** 3-deoxy-d-manno-octulosonic-acid_transferase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.4.99.12 EC-2.4.99.12]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[LIPID-IV-A]][c] '''+''' 1 [[CMP-KDO]][c] '''=>''' 1 [[PROTON]][c] '''+''' 1 [[KDO-LIPID-IVA]][c] '''+''' 1 [[CMP]][c]
+* With common name(s):
+** 1 lipid IVA[c] '''+''' 1 CMP-3-deoxy-&beta;-D-manno-octulosonate[c] '''=>''' 1 H+[c] '''+''' 1 &alpha;-Kdo-(2&rarr;6)-lipid IVA[c] '''+''' 1 CMP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14463]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+** Source: [[orthology-athaliana]]
+* Gene: [[Tiso_gene_14462]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+* [[KDOSYN-PWY]], Kdo transfer to lipid IVA I: [http://metacyc.org/META/NEW-IMAGE?object=KDOSYN-PWY KDOSYN-PWY]
+** '''2''' reactions found over '''2''' reactions in the full pathway
+* [[PWY-7675]], Kdo transfer to lipid IVA II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7675 PWY-7675]
+** '''1''' reactions found over '''2''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=28066 28066]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R04658 R04658]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=3-deoxy-d-manno-octulosonic-acid_transferase}}
+{{#set: ec number=EC-2.4.99.12}}
+{{#set: gene associated=Tiso_gene_14463|Tiso_gene_14462}}
+{{#set: in pathway=KDOSYN-PWY|PWY-7675}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=orthology-athaliana|annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

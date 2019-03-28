@@ -1,0 +1,110 @@
+[[Category:Gene]]
+== Gene Tiso_gene_6884 ==
+* right end position:
+** 9260
+* transcription direction:
+** POSITIVE
+* left end position:
+** 7378
+* centisome position:
+** 62.93074    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[3-HYDROXYDECANOYL-ACP-DEHYDR-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[4.2.1.58-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[4.2.1.59-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[4.2.1.61-RXN]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-10061]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-10656]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-10660]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11477]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-11481]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-16619]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-16623]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-16627]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-16631]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9520]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9533]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9537]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9557]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9634]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN-9655]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN0-2144]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN1G-1084]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN1G-220]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN1G-320]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN1G-363]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+* Reaction: [[RXN1G-517]]
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-6113]]
+* [[FASYN-ELONG-PWY]]
+* [[PWY-6519]]
+* [[PWY-7388]]
+* [[PWY-7664]]
+* [[PWY-6282]]
+* [[PWY-5973]]
+* [[PWY-5989]]
+* [[PWY-5971]]
+* [[PWYG-321]]
+* [[PWY-7663]]
+* [[PWY-5994]]
+* [[PWY3O-355]]
+* [[PWY0-862]]
+== External links  ==
+{{#set: right end position=9260}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=7378}}
+{{#set: centisome position=62.93074    }}
+{{#set: reaction associated=3-HYDROXYDECANOYL-ACP-DEHYDR-RXN|4.2.1.58-RXN|4.2.1.59-RXN|4.2.1.61-RXN|RXN-10061|RXN-10656|RXN-10660|RXN-11477|RXN-11481|RXN-16619|RXN-16623|RXN-16627|RXN-16631|RXN-9520|RXN-9533|RXN-9537|RXN-9557|RXN-9634|RXN-9655|RXN0-2144|RXN1G-1084|RXN1G-220|RXN1G-320|RXN1G-363|RXN1G-517}}
+{{#set: pathway associated=PWY-6113|FASYN-ELONG-PWY|PWY-6519|PWY-7388|PWY-7664|PWY-6282|PWY-5973|PWY-5989|PWY-5971|PWYG-321|PWY-7663|PWY-5994|PWY3O-355|PWY0-862}}

@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7758 PWY-7758] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-191412 TAX-191412]
+* common name:
+** bacteriochlorophyll d biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''14''' reactions in the full pathway
+* [[RXN-5286]]
+** 1 associated gene(s):
+*** [[Tiso_gene_13868]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17429 RXN-17429]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17430 RXN-17430]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17431 RXN-17431]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17432 RXN-17432]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17433 RXN-17433]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17434 RXN-17434]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17435 RXN-17435]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17436 RXN-17436]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17437 RXN-17437]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17438 RXN-17438]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17439 RXN-17439]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17440 RXN-17440]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-17491 RXN-17491]
+== External links  ==
+{{#set: taxonomic range=TAX-191412}}
+{{#set: common name=bacteriochlorophyll d biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=14}}
+{{#set: completion rate=7.0}}

@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_11524 ==
+* right end position:
+** 4351
+* transcription direction:
+** POSITIVE
+* left end position:
+** 2
+* centisome position:
+** 2.583645600e-2
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[LEUCINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=4351}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=2}}
+{{#set: centisome position=2.583645600e-2}}
+{{#set: reaction associated=LEUCINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

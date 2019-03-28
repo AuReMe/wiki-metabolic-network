@@ -1,0 +1,44 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=DUTP DUTP] ==
+* smiles:
+** C(C2(C(CC(N1(C(NC(C=C1)=O)=O))O2)O))OP(OP(OP(=O)([O-])[O-])([O-])=O)([O-])=O
+* common name:
+** dUTP
+* inchi key:
+** InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J
+* molecular weight:
+** 464.112    
+* Synonym(s):
+** deoxy-UTP
+** 2'-deoxyuridine-5'-triphosphate
+** deoxyuridine-triphosphate
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-14199]]
+* [[DUTUP]]
+* [[DUTCP]]
+* [[DUTNH]]
+* [[RXN-14219]]
+* [[DUTP-PYROP-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[ATDUDm]]
+* [[ATDUD]]
+* [[DUDPKIN-RXN]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 1173-82-6
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25244408 25244408]
+* HMDB : HMDB01191
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00460 C00460]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=61555 61555]
+* BIGG : dutp
+{{#set: smiles=C(C2(C(CC(N1(C(NC(C=C1)=O)=O))O2)O))OP(OP(OP(=O)([O-])[O-])([O-])=O)([O-])=O}}
+{{#set: common name=dUTP}}
+{{#set: inchi key=InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J}}
+{{#set: molecular weight=464.112    }}
+{{#set: common name=deoxy-UTP|2'-deoxyuridine-5'-triphosphate|deoxyuridine-triphosphate}}
+{{#set: consumed by=RXN-14199|DUTUP|DUTCP|DUTNH|RXN-14219|DUTP-PYROP-RXN}}
+{{#set: produced by=ATDUDm|ATDUD|DUDPKIN-RXN}}

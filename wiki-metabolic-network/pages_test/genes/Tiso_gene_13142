@@ -1,0 +1,28 @@
+[[Category:Gene]]
+== Gene Tiso_gene_13142 ==
+* right end position:
+** 4981
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 1534
+* centisome position:
+** 23.607264    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[THREONINE--TRNA-LIGASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[TRNA-CHARGING-PWY]]
+== External links  ==
+{{#set: right end position=4981}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=1534}}
+{{#set: centisome position=23.607264    }}
+{{#set: reaction associated=THREONINE--TRNA-LIGASE-RXN}}
+{{#set: pathway associated=TRNA-CHARGING-PWY}}

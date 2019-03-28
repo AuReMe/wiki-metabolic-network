@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=LYS-tRNAs LYS-tRNAs] ==
+* common name:
+** a tRNAlys
+* Synonym(s):
+** TRNA(LYS)
+
+== Reaction(s) known to consume the compound ==
+* [[LYSINE--TRNA-LIGASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a tRNAlys}}
+{{#set: common name=TRNA(LYS)}}
+{{#set: consumed by=LYSINE--TRNA-LIGASE-RXN}}

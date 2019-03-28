@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5441 PWY-5441] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-3193 TAX-3193]
+* common name:
+** S-methyl-L-methionine cycle
+* Synonym(s):
+** SMM cycle
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''2''' reactions in the full pathway
+* [[MMUM-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_5515]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=METHIONINE-S-METHYLTRANSFERASE-RXN METHIONINE-S-METHYLTRANSFERASE-RXN]
+== External links  ==
+* ARACYC:
+** [http://metacyc.org/ARA/NEW-IMAGE?object=PWY-5441 PWY-5441]
+{{#set: taxonomic range=TAX-3193}}
+{{#set: common name=S-methyl-L-methionine cycle}}
+{{#set: common name=SMM cycle}}
+{{#set: reaction found=1}}
+{{#set: total reaction=2}}
+{{#set: completion rate=50.0}}

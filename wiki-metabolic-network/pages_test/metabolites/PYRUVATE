@@ -1,0 +1,91 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PYRUVATE PYRUVATE] ==
+* smiles:
+** CC(=O)C(=O)[O-]
+* common name:
+** pyruvate
+* inchi key:
+** InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
+* molecular weight:
+** 87.055    
+* Synonym(s):
+** alpha-ketopropionic acid
+** BTS
+** &alpha;-ketopropionic acid
+** acetylformic acid
+** pyroracemic acid
+** 2-oxopropanoic acid
+** pyruvic acid
+** 2-oxopropanoate
+** 2-oxo-propionic acid
+
+== Reaction(s) known to consume the compound ==
+* [[DXS-RXN]]
+* [[RXN-7743]]
+* [[PCr]]
+* [[ACETOOHBUTSYN-RXN]]
+* [[PEPSYNTH-RXN]]
+* [[DIHYDRODIPICSYN-RXN]]
+* [[ACETOLACTSYN-RXN]]
+* [[PYRUVDEH-RXN]]
+* [[RXN-12583]]
+* [[RXN0-1134]]
+* [[R02292]]
+* [[PYRUVATE-CARBOXYLASE-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN]]
+* [[KDPGALDOL-RXN]]
+* [[2.7.1.121-RXN]]
+* [[LCYSDESULF-RXN]]
+* [[RXN-9310]]
+* [[RXN-8899]]
+* [[MALIC-NADP-RXN]]
+* [[CYSTHIOCYS-RXN]]
+* [[RXN-15127]]
+* [[CYSTATHIONINE-BETA-LYASE-RXN]]
+* [[R00471]]
+* [[OXALODECARB-RXN]]
+* [[GTPOP]]
+* [[RXN-12729]]
+* [[1.1.1.39-RXN]]
+* [[4.3.1.17-RXN]]
+* [[MERCAPYSTRANS-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN]]
+* [[RXN-14117]]
+* [[RXN-13698]]
+* [[RXN-13990]]
+* [[ALANINE-AMINOTRANSFERASE-RXN]]
+* [[RXN-14037]]
+* [[D-ALANINE-AMINOTRANSFERASE-RXN]]
+* [[4.1.2.20-RXN]]
+* [[KDGALDOL-RXN]]
+* [[ADCLY-RXN]]
+* [[PEPDEPHOS-RXN]]
+* [[4OH2OXOGLUTARALDOL-RXN]]
+* [[RXN-14207]]
+* [[RXN-14192]]
+* [[ANTHRANSYN-RXN]]
+== External links  ==
+* UM-BBD-CPD : c0159
+* CAS : 127-17-3
+* BIGG : pyr
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=107735 107735]
+* KNAPSACK : C00001200
+* HMDB : HMDB00243
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00022 C00022]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.96901.html 96901]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15361 15361]
+* METABOLIGHTS : MTBLC15361
+{{#set: smiles=CC(=O)C(=O)[O-]}}
+{{#set: common name=pyruvate}}
+{{#set: inchi key=InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M}}
+{{#set: molecular weight=87.055    }}
+{{#set: common name=alpha-ketopropionic acid|BTS|&alpha;-ketopropionic acid|acetylformic acid|pyroracemic acid|2-oxopropanoic acid|pyruvic acid|2-oxopropanoate|2-oxo-propionic acid}}
+{{#set: consumed by=DXS-RXN|RXN-7743|PCr|ACETOOHBUTSYN-RXN|PEPSYNTH-RXN|DIHYDRODIPICSYN-RXN|ACETOLACTSYN-RXN|PYRUVDEH-RXN|RXN-12583|RXN0-1134|R02292|PYRUVATE-CARBOXYLASE-RXN}}
+{{#set: produced by=4-HYDROXY-2-KETOPIMELATE-LYSIS-RXN|KDPGALDOL-RXN|2.7.1.121-RXN|LCYSDESULF-RXN|RXN-9310|RXN-8899|MALIC-NADP-RXN|CYSTHIOCYS-RXN|RXN-15127|CYSTATHIONINE-BETA-LYASE-RXN|R00471|OXALODECARB-RXN|GTPOP|RXN-12729|1.1.1.39-RXN|4.3.1.17-RXN|MERCAPYSTRANS-RXN}}
+{{#set: reversible reaction associated=ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN|RXN-14117|RXN-13698|RXN-13990|ALANINE-AMINOTRANSFERASE-RXN|RXN-14037|D-ALANINE-AMINOTRANSFERASE-RXN|4.1.2.20-RXN|KDGALDOL-RXN|ADCLY-RXN|PEPDEPHOS-RXN|4OH2OXOGLUTARALDOL-RXN|RXN-14207|RXN-14192|ANTHRANSYN-RXN}}

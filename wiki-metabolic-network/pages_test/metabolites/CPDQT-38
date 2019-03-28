@@ -1,0 +1,28 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPDQT-38 CPDQT-38] ==
+* smiles:
+** CSCCCCCC(C(O)C(=O)[O-])C(=O)[O-]
+* common name:
+** 3-(5'-methylthio)pentylmalate
+* inchi key:
+** InChIKey=YBISUHXEJDGADQ-UHFFFAOYSA-L
+* molecular weight:
+** 248.293    
+* Synonym(s):
+** 3-(5'-methylthio)pentylmalic acid
+
+== Reaction(s) known to consume the compound ==
+* [[RXNQT-4171]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-18204]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=44237178 44237178]
+{{#set: smiles=CSCCCCCC(C(O)C(=O)[O-])C(=O)[O-]}}
+{{#set: common name=3-(5'-methylthio)pentylmalate}}
+{{#set: inchi key=InChIKey=YBISUHXEJDGADQ-UHFFFAOYSA-L}}
+{{#set: molecular weight=248.293    }}
+{{#set: common name=3-(5'-methylthio)pentylmalic acid}}
+{{#set: consumed by=RXNQT-4171}}
+{{#set: reversible reaction associated=RXN-18204}}

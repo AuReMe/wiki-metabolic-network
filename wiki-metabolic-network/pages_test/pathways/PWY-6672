@@ -1,0 +1,56 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6672 PWY-6672] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** cis-genanyl-CoA degradation
+* Synonym(s):
+** acyclic terpene utilization pathway
+
+== Reaction(s) found ==
+ '''4''' reactions found over '''9''' reactions in the full pathway
+* [[ACETATE--COA-LIGASE-RXN]]
+** 3 associated gene(s):
+*** [[Tiso_gene_3617]]
+*** [[Tiso_gene_1612]]
+*** [[Tiso_gene_3616]]
+** 6 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[orthology-esiliculosus]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+*** [[manual-primary_network]]
+*** [[orthology-creinhardtii]]
+* [[RXN-11917]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16181]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN-11919]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14257]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-11921]]
+** 1 associated gene(s):
+*** [[Tiso_gene_16181]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=4.1.3.26-RXN 4.1.3.26-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=GERANOYL-COA-CARBOXYLASE-RXN GERANOYL-COA-CARBOXYLASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=ISOHEXENYLGLUTACONYL-COA-HYDRATASE-RXN ISOHEXENYLGLUTACONYL-COA-HYDRATASE-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11918 RXN-11918]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11920 RXN-11920]
+== External links  ==
+* LIGAND-MAP:
+** [http://www.genome.jp/dbget-bin/www_bget?map00281 map00281]
+* UM-BBD-PWY : cit
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=cis-genanyl-CoA degradation}}
+{{#set: common name=acyclic terpene utilization pathway}}
+{{#set: reaction found=4}}
+{{#set: total reaction=9}}
+{{#set: completion rate=44.0}}

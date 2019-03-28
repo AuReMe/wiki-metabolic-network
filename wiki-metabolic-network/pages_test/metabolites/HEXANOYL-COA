@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=HEXANOYL-COA HEXANOYL-COA] ==
+* smiles:
+** CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]
+* common name:
+** hexanoyl-CoA
+* inchi key:
+** InChIKey=OEXFMSFODMQEPE-HDRQGHTBSA-J
+* molecular weight:
+** 861.647    
+* Synonym(s):
+** hexanoyl-coenzyme A
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[RXN-14278]]
+* [[RXN-14277]]
+== External links  ==
+* CAS : 5060-32-2
+* BIGG : hxcoa
+* DRUGBANK : DB02563
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=53262356 53262356]
+* HMDB : HMDB02845
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C05270 C05270]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=62620 62620]
+* METABOLIGHTS : MTBLC27540
+{{#set: smiles=CCCCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(OP(=O)(OCC1(C(OP([O-])(=O)[O-])C(O)C(O1)N3(C2(=C(C(N)=NC=N2)N=C3))))[O-])[O-]}}
+{{#set: common name=hexanoyl-CoA}}
+{{#set: inchi key=InChIKey=OEXFMSFODMQEPE-HDRQGHTBSA-J}}
+{{#set: molecular weight=861.647    }}
+{{#set: common name=hexanoyl-coenzyme A}}
+{{#set: reversible reaction associated=RXN-14278|RXN-14277}}

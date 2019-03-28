@@ -1,0 +1,42 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=EPOXYSQUALENE EPOXYSQUALENE] ==
+* smiles:
+** CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CC[CH]1(C(C)(C)O1)
+* common name:
+** (3S)-2,3-epoxy-2,3-dihydrosqualene
+* inchi key:
+** InChIKey=QYIMSPSDBYKPPY-RSKUXYSASA-N
+* molecular weight:
+** 426.724    
+* Synonym(s):
+** squalene 2,3-epoxide
+** squalene 2,3-oxide
+** (S)-squalene-2,3-epoxide
+** 2,3-EDSQ
+** 2,3-epoxisqualene
+** oxidosqualene
+** 2,3-oxidosqualene
+** (3S)-2,3-epoxysqualene
+
+== Reaction(s) known to consume the compound ==
+* [[CYCLOARTENOL-SYNTHASE-RXN]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* CAS : 9029-62-3
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5459811 5459811]
+* HMDB : HMDB01188
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C01054 C01054]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.4444080.html 4444080]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=15441 15441]
+* METABOLIGHTS : MTBLC15441
+{{#set: smiles=CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CC[CH]1(C(C)(C)O1)}}
+{{#set: common name=(3S)-2,3-epoxy-2,3-dihydrosqualene}}
+{{#set: inchi key=InChIKey=QYIMSPSDBYKPPY-RSKUXYSASA-N}}
+{{#set: molecular weight=426.724    }}
+{{#set: common name=squalene 2,3-epoxide|squalene 2,3-oxide|(S)-squalene-2,3-epoxide|2,3-EDSQ|2,3-epoxisqualene|oxidosqualene|2,3-oxidosqualene|(3S)-2,3-epoxysqualene}}
+{{#set: consumed by=CYCLOARTENOL-SYNTHASE-RXN}}

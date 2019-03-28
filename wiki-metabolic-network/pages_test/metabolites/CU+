@@ -1,0 +1,37 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CU+ CU+] ==
+* smiles:
+** [Cu+]
+* common name:
+** Cu+
+* inchi key:
+** InChIKey=VMQMZMRVKUZKQL-UHFFFAOYSA-N
+* molecular weight:
+** 63.546    
+* Synonym(s):
+** Cu(I)
+** cuprous ion
+** cuprous copper
+
+== Reaction(s) known to consume the compound ==
+* [[TransportSeed_CU+]]
+== Reaction(s) known to produce the compound ==
+* [[TransportSeed_CU+]]
+== Reaction(s) of unknown directionality ==
+* [[ExchangeSeed_CU+]]
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=104815 104815]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.94614.html 94614]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=49552 49552]
+* BIGG : cu
+{{#set: smiles=[Cu+]}}
+{{#set: common name=Cu+}}
+{{#set: inchi key=InChIKey=VMQMZMRVKUZKQL-UHFFFAOYSA-N}}
+{{#set: molecular weight=63.546    }}
+{{#set: common name=Cu(I)|cuprous ion|cuprous copper}}
+{{#set: consumed by=TransportSeed_CU+}}
+{{#set: produced by=TransportSeed_CU+}}
+{{#set: reversible reaction associated=ExchangeSeed_CU+}}

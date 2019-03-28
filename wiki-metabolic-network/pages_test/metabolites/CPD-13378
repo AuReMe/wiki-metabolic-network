@@ -1,0 +1,24 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-13378 CPD-13378] ==
+* smiles:
+** C9(C(C(C(C(OCC8(OC(OC3(C(O)C(O)C(OC(COC1(C(C(C(CO1)O)O)OC2(C(C(C(C(O2)CO)O)O)O)))3)OC6(C(O)C(O)C(OC(COC4(C(C(C(CO4)O)O)OC5(C(C(C(C(O5)CO)O)O)O)))6)OC7(C(O)C(O)C(O)OC(CO)7))))C(O)C(O)C(O)8))O9)O)O)O)
+* common name:
+** XLLG xyloglucan oligosaccharide
+* inchi key:
+** InChIKey=GSCHIGXDTVYEEM-MIGIYTHBSA-N
+* molecular weight:
+** 1387.215    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-12400]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=52940189 52940189]
+{{#set: smiles=C9(C(C(C(C(OCC8(OC(OC3(C(O)C(O)C(OC(COC1(C(C(C(CO1)O)O)OC2(C(C(C(C(O2)CO)O)O)O)))3)OC6(C(O)C(O)C(OC(COC4(C(C(C(CO4)O)O)OC5(C(C(C(C(O5)CO)O)O)O)))6)OC7(C(O)C(O)C(O)OC(CO)7))))C(O)C(O)C(O)8))O9)O)O)O)}}
+{{#set: common name=XLLG xyloglucan oligosaccharide}}
+{{#set: inchi key=InChIKey=GSCHIGXDTVYEEM-MIGIYTHBSA-N}}
+{{#set: molecular weight=1387.215    }}
+{{#set: consumed by=RXN-12400}}

@@ -1,0 +1,13 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=cis-cis-D17-29-3-oxo-C48-2-ACPs cis-cis-D17-29-3-oxo-C48-2-ACPs] ==
+* common name:
+** a cis,cis-delta17,29-3-oxo-C48:2-[acp]
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[RXN1G-717]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+{{#set: common name=a cis,cis-delta17,29-3-oxo-C48:2-[acp]}}
+{{#set: consumed by=RXN1G-717}}

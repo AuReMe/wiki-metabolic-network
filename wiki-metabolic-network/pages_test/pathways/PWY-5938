@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-5938 PWY-5938] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** (R)-acetoin biosynthesis I
+* Synonym(s):
+** D-acetoin biosynthesis I
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''3''' reactions in the full pathway
+* [[ACETOLACTSYN-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_11362]]
+** 2 reconstruction source(s) associated:
+*** [[manual-primary_network]]
+*** [[annotation-experimental_annotation]]
+* [[RXN-6081]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-11036 RXN-11036]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=(R)-acetoin biosynthesis I}}
+{{#set: common name=D-acetoin biosynthesis I}}
+{{#set: reaction found=2}}
+{{#set: total reaction=3}}
+{{#set: completion rate=67.0}}

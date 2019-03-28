@@ -1,0 +1,32 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7570 PWY-7570] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** blasticidin S biosynthesis
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''10''' reactions in the full pathway
+* [[RXN-14065]]
+** 2 associated gene(s):
+*** [[Tiso_gene_11910]]
+*** [[Tiso_gene_12995]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15927 RXN-15927]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15928 RXN-15928]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15929 RXN-15929]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15930 RXN-15930]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15935 RXN-15935]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15936 RXN-15936]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15937 RXN-15937]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15938 RXN-15938]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-15939 RXN-15939]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=blasticidin S biosynthesis}}
+{{#set: reaction found=1}}
+{{#set: total reaction=10}}
+{{#set: completion rate=10.0}}

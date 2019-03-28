@@ -1,0 +1,36 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY66-378 PWY66-378] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-7742 TAX-7742]
+* common name:
+** androgen biosynthesis
+* Synonym(s):
+** testosterone biosynthesis
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''6''' reactions in the full pathway
+* [[RXN66-342]]
+** 4 associated gene(s):
+*** [[Tiso_gene_11016]]
+*** [[Tiso_gene_2957]]
+*** [[Tiso_gene_897]]
+*** [[Tiso_gene_18774]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+* [[RXN66-343]]
+** 1 associated gene(s):
+*** [[Tiso_gene_14327]]
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=1.1.1.64-RXN 1.1.1.64-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-340 RXN66-340]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-341 RXN66-341]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN66-362 RXN66-362]
+== External links  ==
+{{#set: taxonomic range=TAX-7742}}
+{{#set: common name=androgen biosynthesis}}
+{{#set: common name=testosterone biosynthesis}}
+{{#set: reaction found=2}}
+{{#set: total reaction=6}}
+{{#set: completion rate=33.0}}

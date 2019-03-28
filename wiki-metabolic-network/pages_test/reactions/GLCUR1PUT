@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=GLCUR1PUT GLCUR1PUT] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** UTP:1-phospho-alpha-D-glucuronate uridylyltransferase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[UTP]][c] '''+''' 1.0 [[CPD-510]][c] '''=>''' 1.0 [[UDP-GLUCURONATE]][c] '''+''' 1.0 [[PPI]][c]
+* With common name(s):
+** 1.0 UTP[c] '''+''' 1.0 &alpha;-D-glucuronate 1-phosphate[c] '''=>''' 1.0 UDP-&alpha;-D-glucuronate[c] '''+''' 1.0 diphosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_11401]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=UTP:1-phospho-alpha-D-glucuronate uridylyltransferase}}
+{{#set: gene associated=Tiso_gene_11401}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

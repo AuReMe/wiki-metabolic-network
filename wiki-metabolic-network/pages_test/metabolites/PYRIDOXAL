@@ -1,0 +1,40 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=PYRIDOXAL PYRIDOXAL] ==
+* smiles:
+** CC1(N=CC(=C(C=1O)C=O)CO)
+* common name:
+** pyridoxal
+* inchi key:
+** InChIKey=RADKZDMFGJYCBB-UHFFFAOYSA-N
+* molecular weight:
+** 167.164    
+* Synonym(s):
+
+== Reaction(s) known to consume the compound ==
+* [[PYRIDOXAL-4-DEHYDROGENASE-RXN]]
+* [[PYRIDOXKIN-RXN]]
+== Reaction(s) known to produce the compound ==
+* [[3.1.3.74-RXN]]
+== Reaction(s) of unknown directionality ==
+* [[PYRIDOXINE-4-DEHYDROGENASE-RXN]]
+== External links  ==
+* CAS : 66-72-8
+* BIGG : pydx
+* DRUGBANK : DB00147
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1050 1050]
+* HMDB : HMDB01545
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00250 C00250]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.1021.html 1021]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17310 17310]
+* METABOLIGHTS : MTBLC17310
+{{#set: smiles=CC1(N=CC(=C(C=1O)C=O)CO)}}
+{{#set: common name=pyridoxal}}
+{{#set: inchi key=InChIKey=RADKZDMFGJYCBB-UHFFFAOYSA-N}}
+{{#set: molecular weight=167.164    }}
+{{#set: consumed by=PYRIDOXAL-4-DEHYDROGENASE-RXN|PYRIDOXKIN-RXN}}
+{{#set: produced by=3.1.3.74-RXN}}
+{{#set: reversible reaction associated=PYRIDOXINE-4-DEHYDROGENASE-RXN}}

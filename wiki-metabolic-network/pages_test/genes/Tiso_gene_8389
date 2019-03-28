@@ -1,0 +1,45 @@
+[[Category:Gene]]
+== Gene Tiso_gene_8389 ==
+* right end position:
+** 8885
+* transcription direction:
+** NEGATIVE
+* left end position:
+** 5812
+* centisome position:
+** 56.43814    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GSHTRAN-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[GST-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-13673]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-15680]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[annotation-experimental_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7112]]
+* [[PWY-6842]]
+* [[PWY-4061]]
+* [[PWY-7533]]
+== External links  ==
+{{#set: right end position=8885}}
+{{#set: transcription direction=NEGATIVE}}
+{{#set: left end position=5812}}
+{{#set: centisome position=56.43814    }}
+{{#set: reaction associated=GSHTRAN-RXN|GST-RXN|RXN-13673|RXN-15680}}
+{{#set: pathway associated=PWY-7112|PWY-6842|PWY-4061|PWY-7533}}

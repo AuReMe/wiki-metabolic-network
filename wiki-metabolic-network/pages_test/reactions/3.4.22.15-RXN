@@ -1,0 +1,48 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=3.4.22.15-RXN 3.4.22.15-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/3.4.22.15 EC-3.4.22.15]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[General-Protein-Substrates]][c] '''=>''' 1 [[Peptides-holder]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 a protein[c] '''=>''' 1 a peptide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_12787]]
+** Source: [[orthology-esiliculosus]]
+* Gene: [[Tiso_gene_12789]]
+** Source: [[orthology-esiliculosus]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+== External links  ==
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P25773 P25773]
+** [http://www.uniprot.org/uniprot/Q26636 Q26636]
+** [http://www.uniprot.org/uniprot/Q28944 Q28944]
+** [http://www.uniprot.org/uniprot/P07711 P07711]
+** [http://www.uniprot.org/uniprot/P06797 P06797]
+** [http://www.uniprot.org/uniprot/P07154 P07154]
+** [http://www.uniprot.org/uniprot/P25975 P25975]
+** [http://www.uniprot.org/uniprot/Q26564 Q26564]
+** [http://www.uniprot.org/uniprot/P80342 P80342]
+** [http://www.uniprot.org/uniprot/P24816 P24816]
+** [http://www.uniprot.org/uniprot/Q27708 Q27708]
+** [http://www.uniprot.org/uniprot/Q27760 Q27760]
+** [http://www.uniprot.org/uniprot/Q94714 Q94714]
+** [http://www.uniprot.org/uniprot/Q09093 Q09093]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-3.4.22.15}}
+{{#set: gene associated=Tiso_gene_12787|Tiso_gene_12789}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-esiliculosus}}
+{{#set: reconstruction tool=pantograph}}

@@ -1,0 +1,25 @@
+[[Category:Gene]]
+== Gene Tiso_gene_4457 ==
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-8038]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN-8040]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN1F-147]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN1F-148]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN1F-150]]
+** Source: [[orthology-athaliana]]
+* Reaction: [[RXN1F-151]]
+** Source: [[orthology-athaliana]]
+== Pathways associated ==
+* [[PWY-5947]]
+* [[PWY-5946]]
+* [[PWY-5943]]
+* [[PWY-7591]]
+== External links  ==
+{{#set: reaction associated=RXN-8038|RXN-8040|RXN1F-147|RXN1F-148|RXN1F-150|RXN1F-151}}
+{{#set: pathway associated=PWY-5947|PWY-5946|PWY-5943|PWY-7591}}

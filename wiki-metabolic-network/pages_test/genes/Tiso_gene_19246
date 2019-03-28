@@ -1,0 +1,24 @@
+[[Category:Gene]]
+== Gene Tiso_gene_19246 ==
+* right end position:
+** 1945
+* transcription direction:
+** POSITIVE
+* left end position:
+** 25
+* centisome position:
+** 1.0064412    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[RXN-9615]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+== External links  ==
+{{#set: right end position=1945}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=25}}
+{{#set: centisome position=1.0064412    }}
+{{#set: reaction associated=RXN-9615}}

@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-7494 PWY-7494] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** choline degradation IV
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''4''' reactions in the full pathway
+* [[BADH-RXN]]
+** 1 associated gene(s):
+*** [[Tiso_gene_3513]]
+** 1 reconstruction source(s) associated:
+*** [[orthology-esiliculosus]]
+* [[RXN-6268]]
+** 0 associated gene:
+** 1 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-3721 PWY-3721]
+* [http://metacyc.org/META/NEW-IMAGE?object=PWY-3721 PWY-3721]
+== External links  ==
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=choline degradation IV}}
+{{#set: reaction found=2}}
+{{#set: total reaction=4}}
+{{#set: completion rate=50.0}}

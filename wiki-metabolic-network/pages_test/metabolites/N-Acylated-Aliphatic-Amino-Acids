@@ -1,0 +1,15 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=N-Acylated-Aliphatic-Amino-Acids N-Acylated-Aliphatic-Amino-Acids] ==
+* common name:
+** an N-acylated aliphatic-L-amino acid
+* Synonym(s):
+** an N-acyl-aliphatic-L-amino acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+* [[AMINOACYLASE-RXN]]
+== External links  ==
+{{#set: common name=an N-acylated aliphatic-L-amino acid}}
+{{#set: common name=an N-acyl-aliphatic-L-amino acid}}
+{{#set: reversible reaction associated=AMINOACYLASE-RXN}}

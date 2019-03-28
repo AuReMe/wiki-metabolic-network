@@ -1,0 +1,41 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY-6853 PWY-6853] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+* common name:
+** ethylene biosynthesis II (microbes)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''5''' reactions in the full pathway
+* [[RXN-14116]]
+** 8 associated gene(s):
+*** [[Tiso_gene_6952]]
+*** [[Tiso_gene_3513]]
+*** [[Tiso_gene_7381]]
+*** [[Tiso_gene_16634]]
+*** [[Tiso_gene_18338]]
+*** [[Tiso_gene_886]]
+*** [[Tiso_gene_9680]]
+*** [[Tiso_gene_18337]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-synechocystis]]
+* [[SPONTPRO-RXN]]
+** 0 associated gene:
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[annotation-experimental_annotation]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12536 RXN-12536]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-12538 RXN-12538]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-14542 RXN-14542]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: taxonomic range=TAX-4751}}
+{{#set: common name=ethylene biosynthesis II (microbes)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=5}}
+{{#set: completion rate=40.0}}

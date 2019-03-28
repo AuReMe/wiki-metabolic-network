@@ -1,0 +1,43 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=BUTYRIC_ACID BUTYRIC_ACID] ==
+* smiles:
+** CCCC(=O)[O-]
+* common name:
+** butanoate
+* inchi key:
+** InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
+* molecular weight:
+** 87.098    
+* Synonym(s):
+** butyrate
+** butyric acid
+** butanoic acid
+** ethylacetic acid
+** n-butanoate
+** 1-propanecarboxylic acid
+** propylformic acid
+
+== Reaction(s) known to consume the compound ==
+== Reaction(s) known to produce the compound ==
+* [[RXN-12086]]
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* UM-BBD-CPD : c0035
+* CAS : 107-92-6
+* BIGG : but
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=104775 104775]
+* HMDB : HMDB00039
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C00246 C00246]
+* CHEMSPIDER:
+** [http://www.chemspider.com/Chemical-Structure.94582.html 94582]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=17968 17968]
+* METABOLIGHTS : MTBLC17968
+{{#set: smiles=CCCC(=O)[O-]}}
+{{#set: common name=butanoate}}
+{{#set: inchi key=InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M}}
+{{#set: molecular weight=87.098    }}
+{{#set: common name=butyrate|butyric acid|butanoic acid|ethylacetic acid|n-butanoate|1-propanecarboxylic acid|propylformic acid}}
+{{#set: produced by=RXN-12086}}

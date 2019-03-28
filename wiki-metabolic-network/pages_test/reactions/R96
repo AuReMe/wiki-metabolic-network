@@ -1,0 +1,45 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R96 R96] ==
+* direction:
+** LEFT-TO-RIGHT
+* common name:
+** R96
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[NEUROSPORENE]][c] '''+''' 1.0 [[OXYGEN-MOLECULE]][c] '''+''' 1.0 [[NADPH]][c] '''+''' 1.0 [[PROTON]][c] '''=>''' 1.0 [[CPD1F-114]][c] '''+''' 1.0 [[NADP]][c] '''+''' 2.0 [[WATER]][c]
+* With common name(s):
+** 1.0 all-trans neurosporene[c] '''+''' 1.0 oxygen[c] '''+''' 1.0 NADPH[c] '''+''' 1.0 H+[c] '''=>''' 1.0 all-trans-lycopene[c] '''+''' 1.0 NADP+[c] '''+''' 2.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_7142]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_15802]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_916]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_13369]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_16794]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_917]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_3092]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_16795]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: common name=R96}}
+{{#set: gene associated=Tiso_gene_7142|Tiso_gene_15802|Tiso_gene_916|Tiso_gene_13369|Tiso_gene_16794|Tiso_gene_917|Tiso_gene_3092|Tiso_gene_16795}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

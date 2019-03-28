@@ -1,0 +1,31 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=R371 R371] ==
+* direction:
+** REVERSIBLE
+* common name:
+** R371
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[PROTON]][c] '''+''' 1.0 [[Stearoyl-ACPs]][c] '''+''' 1.0 [[NADPH]][c] '''+''' 1.0 [[OXYGEN-MOLECULE]][c] '''<=>''' 1.0 [[NADP]][c] '''+''' 1.0 [[Oleoyl-ACPs]][c] '''+''' 2.0 [[WATER]][c]
+* With common name(s):
+** 1.0 H+[c] '''+''' 1.0 a stearoyl-[acp][c] '''+''' 1.0 NADPH[c] '''+''' 1.0 oxygen[c] '''<=>''' 1.0 NADP+[c] '''+''' 1.0 an oleoyl-[acp][c] '''+''' 2.0 H2O[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18552]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=R371}}
+{{#set: gene associated=Tiso_gene_18552}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph}}

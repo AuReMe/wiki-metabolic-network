@@ -1,0 +1,26 @@
+[[Category:Gene]]
+== Gene Tiso_gene_1778 ==
+* right end position:
+** 15866
+* transcription direction:
+** POSITIVE
+* left end position:
+** 11292
+* centisome position:
+** 52.05366    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[AMP-DEAMINASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[PWY-6596]]
+== External links  ==
+{{#set: right end position=15866}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=11292}}
+{{#set: centisome position=52.05366    }}
+{{#set: reaction associated=AMP-DEAMINASE-RXN}}
+{{#set: pathway associated=PWY-6596}}

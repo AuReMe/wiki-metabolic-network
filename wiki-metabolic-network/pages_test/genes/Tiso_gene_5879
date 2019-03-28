@@ -1,0 +1,29 @@
+[[Category:Gene]]
+== Gene Tiso_gene_5879 ==
+* right end position:
+** 7482
+* transcription direction:
+** POSITIVE
+* left end position:
+** 5554
+* centisome position:
+** 22.564394    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[GLUC1PURIDYLTRANS-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: automated-name-match
+== Pathways associated ==
+* [[PWY-7343]]
+* [[PWY-3801]]
+* [[PWY-7817]]
+* [[PWY-6527]]
+* [[PWY-7238]]
+== External links  ==
+{{#set: right end position=7482}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=5554}}
+{{#set: centisome position=22.564394    }}
+{{#set: reaction associated=GLUC1PURIDYLTRANS-RXN}}
+{{#set: pathway associated=PWY-7343|PWY-3801|PWY-7817|PWY-6527|PWY-7238}}

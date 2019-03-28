@@ -1,0 +1,60 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=DEOXYADENYLATE-KINASE-RXN DEOXYADENYLATE-KINASE-RXN] ==
+* direction:
+** LEFT-TO-RIGHT
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.4.13 EC-2.7.4.13]
+** [http://enzyme.expasy.org/EC/2.7.4.11 EC-2.7.4.11]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[ATP]][c] '''+''' 1 [[DAMP]][c] '''=>''' 1 [[DADP]][c] '''+''' 1 [[ADP]][c]
+* With common name(s):
+** 1 ATP[c] '''+''' 1 dAMP[c] '''=>''' 1 dADP[c] '''+''' 1 ADP[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_805]]
+** Source: [[orthology-synechocystis]]
+* Gene: [[Tiso_gene_5837]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5388]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5839]]
+** Source: [[orthology-creinhardtii]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_12257]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_5387]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_19036]]
+** Source: [[orthology-synechocystis]]
+== Pathways  ==
+* [[PWY-7224]], purine deoxyribonucleosides salvage: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7224 PWY-7224]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=23100 23100]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01547 R01547]
+{{#set: direction=LEFT-TO-RIGHT}}
+{{#set: ec number=EC-2.7.4.13}}
+{{#set: ec number=EC-2.7.4.11}}
+{{#set: gene associated=Tiso_gene_805|Tiso_gene_5837|Tiso_gene_5388|Tiso_gene_5839|Tiso_gene_12257|Tiso_gene_5387|Tiso_gene_19036}}
+{{#set: in pathway=PWY-7224}}
+{{#set: reconstruction category=orthology|annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation|orthology-creinhardtii|orthology-synechocystis}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

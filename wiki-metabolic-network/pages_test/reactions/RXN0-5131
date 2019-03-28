@@ -1,0 +1,35 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=RXN0-5131 RXN0-5131] ==
+* direction:
+** REVERSIBLE
+* common name:
+** transposase
+* ec number:
+** [http://enzyme.expasy.org/EC/2.7.7 EC-2.7.7]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[IS30-Insertion-Sequences]][c] '''<=>''' 1 [[IS30-with-Integrated-Transposon]][c]
+* With common name(s):
+** 1 an insertion sequence element IS30[c] '''<=>''' 1 an insertion sequence IS30 with integrated transposon[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_5336]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: AUTOMATED-NAME-MATCH
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=transposase}}
+{{#set: ec number=EC-2.7.7}}
+{{#set: gene associated=Tiso_gene_5336}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

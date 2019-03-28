@@ -1,0 +1,37 @@
+[[Category:Gene]]
+== Gene Tiso_gene_9613 ==
+* right end position:
+** 12073
+* transcription direction:
+** POSITIVE
+* left end position:
+** 9624
+* centisome position:
+** 78.11688    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[1.14.13.8-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[CYCLOHEXANONE-MONOOXYGENASE-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+* Reaction: [[RXN-5961]]
+** Source: [[orthology-creinhardtii]]
+* Reaction: [[RXN66-81]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+== Pathways associated ==
+* [[CYCLOHEXANOL-OXIDATION-PWY]]
+* [[PWY-5947]]
+* [[PWY66-201]]
+== External links  ==
+{{#set: right end position=12073}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=9624}}
+{{#set: centisome position=78.11688    }}
+{{#set: reaction associated=1.14.13.8-RXN|CYCLOHEXANONE-MONOOXYGENASE-RXN|RXN-5961|RXN66-81}}
+{{#set: pathway associated=CYCLOHEXANOL-OXIDATION-PWY|PWY-5947|PWY66-201}}

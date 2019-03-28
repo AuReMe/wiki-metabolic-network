@@ -1,0 +1,47 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PWY0-321 PWY0-321] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-4751 TAX-4751]
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** phenylacetate degradation I (aerobic)
+* Synonym(s):
+
+== Reaction(s) found ==
+ '''2''' reactions found over '''9''' reactions in the full pathway
+* [[RXN-2425]]
+** 2 associated gene(s):
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14257]]
+** 2 reconstruction source(s) associated:
+*** [[orthology-athaliana]]
+*** [[orthology-esiliculosus]]
+* [[RXN0-2044]]
+** 6 associated gene(s):
+*** [[Tiso_gene_18839]]
+*** [[Tiso_gene_14027]]
+*** [[Tiso_gene_14262]]
+*** [[Tiso_gene_5857]]
+*** [[Tiso_gene_14026]]
+*** [[Tiso_gene_18838]]
+** 3 reconstruction source(s) associated:
+*** [[annotation-experimental_annotation]]
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-esiliculosus]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-10819 RXN-10819]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN-3641 RXN-3641]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-2042 RXN0-2042]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6510 RXN0-6510]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXN0-6512 RXN0-6512]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNMETA-12671 RXNMETA-12671]
+* [http://metacyc.org/META/NEW-IMAGE?object=RXNMETA-12672 RXNMETA-12672]
+== External links  ==
+* ECOCYC:
+** [http://metacyc.org/ECOLI/NEW-IMAGE?object=PWY0-321 PWY0-321]
+{{#set: taxonomic range=TAX-4751}}
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=phenylacetate degradation I (aerobic)}}
+{{#set: reaction found=2}}
+{{#set: total reaction=9}}
+{{#set: completion rate=22.0}}

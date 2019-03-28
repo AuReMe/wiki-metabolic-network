@@ -1,0 +1,64 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=IMPCYCLOHYDROLASE-RXN IMPCYCLOHYDROLASE-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/3.5.4.10 EC-3.5.4.10]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[IMP]][c] '''+''' 1 [[WATER]][c] '''<=>''' 1 [[PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE]][c]
+* With common name(s):
+** 1 IMP[c] '''+''' 1 H2O[c] '''<=>''' 1 5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_18420]]
+** Source: [[orthology-athaliana]]
+** Source: [[orthology-synechocystis]]
+** Source: [[orthology-esiliculosus]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+* [[PWY-6123]], inosine-5'-phosphate biosynthesis I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6123 PWY-6123]
+** '''5''' reactions found over '''6''' reactions in the full pathway
+* [[PWY-6124]], inosine-5'-phosphate biosynthesis II: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6124 PWY-6124]
+** '''5''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-7234]], inosine-5'-phosphate biosynthesis III: [http://metacyc.org/META/NEW-IMAGE?object=PWY-7234 PWY-7234]
+** '''4''' reactions found over '''6''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-athaliana]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-synechocystis]]
+*** Tool: [[pantograph]]
+** Source: [[orthology-esiliculosus]]
+*** Tool: [[pantograph]]
+* Category: [[manual]]
+** Source: [[manual-primary_network]]
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* RHEA:
+** [http://www.ebi.ac.uk/rhea/reaction.xhtml?id=18445 18445]
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01127 R01127]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P43852 P43852]
+** [http://www.uniprot.org/uniprot/P12048 P12048]
+** [http://www.uniprot.org/uniprot/P31335 P31335]
+** [http://www.uniprot.org/uniprot/P26978 P26978]
+** [http://www.uniprot.org/uniprot/P15639 P15639]
+** [http://www.uniprot.org/uniprot/Q9PNY2 Q9PNY2]
+** [http://www.uniprot.org/uniprot/Q9JUQ8 Q9JUQ8]
+** [http://www.uniprot.org/uniprot/P31939 P31939]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-3.5.4.10}}
+{{#set: gene associated=Tiso_gene_18420}}
+{{#set: in pathway=PWY-6123|PWY-6124|PWY-7234}}
+{{#set: reconstruction category=orthology|manual|annotation}}
+{{#set: reconstruction source=orthology-esiliculosus|annotation-in-silico_annotation|orthology-athaliana|orthology-synechocystis|manual-primary_network|orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph|pathwaytools}}

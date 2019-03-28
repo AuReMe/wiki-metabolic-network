@@ -1,0 +1,37 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=G6PI G6PI] ==
+* direction:
+** REVERSIBLE
+* common name:
+** Glucose-6-phosphate epimerase
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1.0 [[ALPHA-GLC-6-P]][c] '''<=>''' 1.0 [[GLC-6-P]][c]
+* With common name(s):
+** 1.0 &alpha;-D-glucose 6-phosphate[c] '''<=>''' 1.0 &beta;-D-glucose 6-phosphate[c]
+
+== Genes associated with this reaction  ==
+Genes have been associated with this reaction based on different elements listed below.
+* Gene: [[Tiso_gene_14633]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_15139]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_17734]]
+** Source: [[orthology-creinhardtii]]
+* Gene: [[Tiso_gene_19480]]
+** Source: [[orthology-creinhardtii]]
+== Pathways  ==
+== Reconstruction information  ==
+* Category: [[orthology]]
+** Source: [[orthology-creinhardtii]]
+*** Tool: [[pantograph]]
+== External links  ==
+{{#set: direction=REVERSIBLE}}
+{{#set: common name=Glucose-6-phosphate epimerase}}
+{{#set: gene associated=Tiso_gene_14633|Tiso_gene_15139|Tiso_gene_17734|Tiso_gene_19480}}
+{{#set: in pathway=}}
+{{#set: reconstruction category=orthology}}
+{{#set: reconstruction source=orthology-creinhardtii}}
+{{#set: reconstruction tool=pantograph}}

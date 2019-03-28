@@ -1,0 +1,36 @@
+[[Category:Metabolite]]
+== Metabolite [http://metacyc.org/META/NEW-IMAGE?object=CPD-514 CPD-514] ==
+* smiles:
+** CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)C1(=CC=CC=C1))COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]
+* common name:
+** 3-oxo-3-phenylpropanoyl-CoA
+* inchi key:
+** InChIKey=NHDPIYICCBKNNJ-FUEUKBNZSA-J
+* molecular weight:
+** 909.648    
+* Synonym(s):
+** benzoyl-acetyl-CoA
+** oxocinnamoyl-CoA
+** 3-keto-3-phenylpropionyl-CoA
+** &beta;-oxophenyl-propionyl-CoA
+** 3-oxo-3-phenylpropionyl-coenzyme A
+** 3-oxo-3-phenylpropionyl-CoA
+
+== Reaction(s) known to consume the compound ==
+* [[RXN-2006]]
+== Reaction(s) known to produce the compound ==
+== Reaction(s) of unknown directionality ==
+== External links  ==
+* LIGAND-CPD:
+** [http://www.genome.jp/dbget-bin/www_bget?C07118 C07118]
+* CHEBI:
+** [http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27388 27388]
+* METABOLIGHTS : MTBLC27388
+* PUBCHEM:
+** [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=25203310 25203310]
+{{#set: smiles=CC(C)(C(O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)C1(=CC=CC=C1))COP(=O)(OP(=O)(OCC2(C(OP([O-])(=O)[O-])C(O)C(O2)N4(C3(=C(C(N)=NC=N3)N=C4))))[O-])[O-]}}
+{{#set: common name=3-oxo-3-phenylpropanoyl-CoA}}
+{{#set: inchi key=InChIKey=NHDPIYICCBKNNJ-FUEUKBNZSA-J}}
+{{#set: molecular weight=909.648    }}
+{{#set: common name=benzoyl-acetyl-CoA|oxocinnamoyl-CoA|3-keto-3-phenylpropionyl-CoA|&beta;-oxophenyl-propionyl-CoA|3-oxo-3-phenylpropionyl-coenzyme A|3-oxo-3-phenylpropionyl-CoA}}
+{{#set: consumed by=RXN-2006}}

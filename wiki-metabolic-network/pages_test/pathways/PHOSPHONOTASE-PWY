@@ -1,0 +1,28 @@
+[[Category:Pathway]]
+== Pathway [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHONOTASE-PWY PHOSPHONOTASE-PWY] ==
+* taxonomic range:
+** [http://metacyc.org/META/NEW-IMAGE?object=TAX-2 TAX-2]
+* common name:
+** 2-aminoethylphosphonate degradation I
+* Synonym(s):
+** phosphonotase pathway
+
+== Reaction(s) found ==
+ '''1''' reactions found over '''3''' reactions in the full pathway
+* [[ACETALD-DEHYDROG-RXN]]
+** 2 associated gene(s):
+*** [[Tiso_gene_7649]]
+*** [[Tiso_gene_2052]]
+** 2 reconstruction source(s) associated:
+*** [[annotation-in-silico_annotation]]
+*** [[orthology-creinhardtii]]
+== Reaction(s) not found ==
+* [http://metacyc.org/META/NEW-IMAGE?object=2.6.1.37-RXN 2.6.1.37-RXN]
+* [http://metacyc.org/META/NEW-IMAGE?object=PHOSPHONOACETALDEHYDE-HYDROLASE-RXN PHOSPHONOACETALDEHYDE-HYDROLASE-RXN]
+== External links  ==
+{{#set: taxonomic range=TAX-2}}
+{{#set: common name=2-aminoethylphosphonate degradation I}}
+{{#set: common name=phosphonotase pathway}}
+{{#set: reaction found=1}}
+{{#set: total reaction=3}}
+{{#set: completion rate=33.0}}

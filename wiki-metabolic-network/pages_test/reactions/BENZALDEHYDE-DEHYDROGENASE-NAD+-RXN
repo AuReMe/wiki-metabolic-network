@@ -1,0 +1,43 @@
+[[Category:Reaction]]
+== Reaction [http://metacyc.org/META/NEW-IMAGE?object=BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN] ==
+* direction:
+** REVERSIBLE
+* ec number:
+** [http://enzyme.expasy.org/EC/1.2.1.28 EC-1.2.1.28]
+* Synonym(s):
+
+== Reaction Formula ==
+* With identifiers:
+** 1 [[WATER]][c] '''+''' 1 [[NAD]][c] '''+''' 1 [[BENZALDEHYDE]][c] '''<=>''' 2 [[PROTON]][c] '''+''' 1 [[BENZOATE]][c] '''+''' 1 [[NADH]][c]
+* With common name(s):
+** 1 H2O[c] '''+''' 1 NAD+[c] '''+''' 1 benzaldehyde[c] '''<=>''' 2 H+[c] '''+''' 1 benzoate[c] '''+''' 1 NADH[c]
+
+== Genes associated with this reaction  ==
+== Pathways  ==
+* [[PWY-6763]], salicortin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6763 PWY-6763]
+** '''1''' reactions found over '''11''' reactions in the full pathway
+* [[PWY-1501]], mandelate degradation I: [http://metacyc.org/META/NEW-IMAGE?object=PWY-1501 PWY-1501]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6766]], salicin biosynthesis: [http://metacyc.org/META/NEW-IMAGE?object=PWY-6766 PWY-6766]
+** '''1''' reactions found over '''6''' reactions in the full pathway
+* [[TOLUENE-DEG-CATECHOL-PWY]], toluene degradation to benzoate: [http://metacyc.org/META/NEW-IMAGE?object=TOLUENE-DEG-CATECHOL-PWY TOLUENE-DEG-CATECHOL-PWY]
+** '''1''' reactions found over '''3''' reactions in the full pathway
+* [[PWY-6446]], benzoate biosynthesis III (CoA-dependent, non-&beta;-oxidative): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6446 PWY-6446]
+** '''2''' reactions found over '''5''' reactions in the full pathway
+* [[PWY-6444]], benzoate biosynthesis II (CoA-independent, non-&beta;-oxidative): [http://metacyc.org/META/NEW-IMAGE?object=PWY-6444 PWY-6444]
+** '''1''' reactions found over '''4''' reactions in the full pathway
+== Reconstruction information  ==
+* Category: [[annotation]]
+** Source: [[annotation-in-silico_annotation]]
+*** Tool: [[pathwaytools]]
+== External links  ==
+* LIGAND-RXN:
+** [http://www.genome.jp/dbget-bin/www_bget?R01419 R01419]
+* UNIPROT:
+** [http://www.uniprot.org/uniprot/P43503 P43503]
+{{#set: direction=REVERSIBLE}}
+{{#set: ec number=EC-1.2.1.28}}
+{{#set: in pathway=PWY-6763|PWY-1501|PWY-6766|TOLUENE-DEG-CATECHOL-PWY|PWY-6446|PWY-6444}}
+{{#set: reconstruction category=annotation}}
+{{#set: reconstruction source=annotation-in-silico_annotation}}
+{{#set: reconstruction tool=pathwaytools}}

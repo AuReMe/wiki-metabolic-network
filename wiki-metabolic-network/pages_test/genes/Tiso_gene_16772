@@ -1,0 +1,30 @@
+[[Category:Gene]]
+== Gene Tiso_gene_16772 ==
+* right end position:
+** 1379
+* transcription direction:
+** POSITIVE
+* left end position:
+** 376
+* centisome position:
+** 9.106321    
+* Synonym(s):
+
+== Reactions associated ==
+* Reaction: [[2.4.1.83-RXN]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+** Source: [[orthology-esiliculosus]]
+* Reaction: [[RXN-16602]]
+** Source: [[annotation-in-silico_annotation]]
+*** Assignment: ec-number
+== Pathways associated ==
+* [[PWY-7661]]
+* [[MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS]]
+== External links  ==
+{{#set: right end position=1379}}
+{{#set: transcription direction=POSITIVE}}
+{{#set: left end position=376}}
+{{#set: centisome position=9.106321    }}
+{{#set: reaction associated=2.4.1.83-RXN|RXN-16602}}
+{{#set: pathway associated=PWY-7661|MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS}}
