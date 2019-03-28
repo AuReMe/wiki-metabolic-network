@@ -35,7 +35,7 @@ def set_var():
     wiki_folders, wiki_template, forms_path,\
     db_alias
 
-    config_file_path = "/home/wiki_config.txt"
+    config_file_path = "/home/wiki.conf"
 
     config = configparser.ConfigParser()
     config.read(config_file_path)

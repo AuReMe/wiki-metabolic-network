@@ -75,7 +75,7 @@ RUN cd /tmp;\
 
 #
 COPY wiki wiki_load /usr/bin/
-COPY wiki_config.txt /home/
+COPY wiki.conf /home/
 COPY forms /home/forms/
 RUN chmod +x /usr/bin/wiki
 RUN chmod +x /usr/bin/wiki_load
