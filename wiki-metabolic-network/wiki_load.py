@@ -3,6 +3,7 @@
 """
 Description:
     #TODO
+     if load: will load pages in wikipage fol
 
 ::
 
@@ -12,6 +13,13 @@ Description:
     option:
         -h --help    Show help.
         -v   print info.
+        --action=STR   'load' or 'check'.
+        --url=STR   url to the api of the wiki ex: http://host/wiki/api.php.
+        --user=STR   user id, user must have an account on wiki and rights to create users.
+        --password=STR   user password.
+        --wikipage=DIR   path to folder containing raw wikipages.
+        --bots=INT   number of bots to create [default: 1].
+
 """
 
 
@@ -71,6 +79,33 @@ async def main(loop):
             await wiki.close()
 
 async def create_bot(wiki, nb_bots):
+    """
+    Create 'nb_bots' number of bots account with the a session wiki.
+    wiki is an instannce of aiowiki.Wiki
+    all bots will:
+        be name as bot_[x] with x in range(nb_bots)
+        have a password as bot_[x]_password with x in range(nb_bots)
+        have an email as bot_[x].bot_[x]@bot.com with x in range(nb_bots)
+        be added in group 'bureaucrat' to allow them to edit pages
+    if a bot already exist, skip creation part
+    return a dict with:
+        as key the name of the bot
+        as value a dict with:
+            'password': bot password
+            'bot_name': bot name
+
+    Parameters
+    ----------
+    wiki: <aiowiki.Wiki>
+        instance of aiowiki.Wiki
+    nb_bots: int
+        number of bot to create
+
+    Returns
+    -------
+    dict:
+        dict grouping all data associated to created bots
+    """
     print("Check bots:")
     bots_data = dict()
     for i in range(nb_bots):
@@ -91,6 +126,20 @@ async def create_bot(wiki, nb_bots):
     return bots_data
 
 async def load_page(bot_data):
+    """
+    load pages by using data in bot_data
+    bot_data is a dict with following data:
+        bot_name: name of the bot
+        worker: instance of aiowiki.Wiki
+        chunck_part: list of files path to load
+        verbose: bool, if true, more information given during process
+
+    Parameters
+    ----------
+    bot_data: dict
+        dict with all data required to load pages
+
+    """
     bot_name, worker, chunck_part, verbose = bot_data["bot_name"], bot_data["worker"], bot_data["chunck_part"], bot_data["verbose"]
     for file_index, filepath in enumerate(chunck_part):
         file_index += 1
@@ -124,6 +173,17 @@ async def load_page(bot_data):
 
 
 async def check_page(bot_data):
+    """
+    #TODO WIP
+
+    Parameters
+    ----------
+
+    Returns
+    -------
+
+    """
+
     bot_name, worker, chunck_part, verbose = bot_data["bot_name"], bot_data["worker"], bot_data["chunck_part"], bot_data["verbose"]
     for file_index, filepath in enumerate(chunck_part):
         file_index += 1
@@ -167,6 +227,21 @@ async def check_page(bot_data):
 
 
 def list_pages(dirName):
+    """
+    list all files in a folder 'dirname'
+    ex: dirnam = '/path'
+    return allFiles = ['/path/page_1', /path/page_2', '/path/page_3', '/path/page_4']
+
+    Parameters
+    ----------
+    dirName: str
+        path of folder
+
+    Returns
+    -------
+    list:
+        list of files in folder dirName
+    """
     # create a list of file and sub directories
     # names in the given directory
     listOfFile = os.listdir(dirName)
@@ -186,6 +261,23 @@ def list_pages(dirName):
     return allFiles
 
 def chunkify(lst, n):
+    """
+    split a list of element in n parts
+    ex: lst = ['/path/page_1', /path/page_2', '/path/page_3', '/path/page_4'], n = 2
+    return list = [['/path/page_1', '/path/page_2'], ['/path/page_3', '/path/page_4']]
+
+    Parameters
+    ----------
+    lst: list
+        list of element (list of path to wikipages)
+    n: int
+        number of parts to return
+
+    Returns
+    -------
+    list:
+        list of n list of element
+    """
     return [lst[i::n] for i in range(n)]
 
 
