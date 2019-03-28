@@ -2,8 +2,19 @@
 # -*- coding: utf-8 -*-
 """
 Description:
-    #TODO
-     if load: will load pages in wikipage fol
+    Tool for loading wikipages in async process.
+    For loading page to a wiki set:
+        action: 'load'
+
+        url: the url of the wiki api. ex: http://host/wiki/api.php
+
+        user: user id of admin or account with rights to create/remove users
+
+        password: password of the wiki account
+
+        wikipages: folder with wikipages. For metabolic network those pages can be create with padmet-utils/scripts/connection/wikiGenerator.py
+
+        bots: number of bots to use. For optimal load, use the number of cpu available.
 
 ::
 
@@ -83,15 +94,24 @@ async def create_bot(wiki, nb_bots):
     Create 'nb_bots' number of bots account with the a session wiki.
     wiki is an instannce of aiowiki.Wiki
     all bots will:
+
         be name as bot_[x] with x in range(nb_bots)
+
         have a password as bot_[x]_password with x in range(nb_bots)
+
         have an email as bot_[x].bot_[x]@bot.com with x in range(nb_bots)
+
         be added in group 'bureaucrat' to allow them to edit pages
+
     if a bot already exist, skip creation part
     return a dict with:
+
         as key the name of the bot
+
         as value a dict with:
+
             'password': bot password
+
             'bot_name': bot name
 
     Parameters
@@ -129,9 +149,13 @@ async def load_page(bot_data):
     """
     load pages by using data in bot_data
     bot_data is a dict with following data:
+
         bot_name: name of the bot
+
         worker: instance of aiowiki.Wiki
+
         chunck_part: list of files path to load
+
         verbose: bool, if true, more information given during process
 
     Parameters
