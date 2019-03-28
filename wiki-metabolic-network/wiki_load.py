@@ -15,6 +15,8 @@ Description:
         wikipages: folder with wikipages. For metabolic network those pages can be create with padmet-utils/scripts/connection/wikiGenerator.py
 
         bots: number of bots to use. For optimal load, use the number of cpu available.
+    For comparing a wiki vs a folder of wikipages:
+        #TODO WIP
 
 ::
 
@@ -43,6 +45,9 @@ import time
 import docopt
 
 async def main(loop):
+    """
+    Ref to global doc
+    """
     args = docopt.docopt(__doc__)
     wiki_url = args["--url"]
     user = args["--user"]
