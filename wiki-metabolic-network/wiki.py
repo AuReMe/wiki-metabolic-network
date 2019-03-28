@@ -6,7 +6,7 @@ Description:
     To get a sample from the aureme default pipeline use the second usage.
 
 ::
-    
+
     usage:
     	wiki --info [--cmd=STR]
     	wiki --init=ID [--access=STR]
@@ -14,7 +14,7 @@ Description:
     	wiki --id=ID --remove
     	wiki --id=ID --access=STR
     	wiki --all
-    
+
     options:
     	-h --help    Show help.
     	--init=ID    identifier of the new wiki to initialize.
@@ -40,19 +40,19 @@ def set_var():
     config = configparser.ConfigParser()
     config.read(config_file_path)
     #[MYSQL_VAR]
-    db_host = config.get('MYSQL_VAR','db_host')
-    db_name = config.get('MYSQL_VAR','db_name')
-    db_user = config.get('MYSQL_VAR','db_user')
-    db_pwd = config.get('MYSQL_VAR','db_pwd')
+    db_host = config.get('MYSQL_VAR', 'db_host')
+    db_name = config.get('MYSQL_VAR', 'db_name')
+    db_user = config.get('MYSQL_VAR', 'db_user')
+    db_pwd = config.get('MYSQL_VAR', 'db_pwd')
     #[MEDIAWIKI_VAR]
-    wiki_host = config.get('MEDIAWIKI_VAR','wiki_host')
+    wiki_host = config.get('MEDIAWIKI_VAR', 'wiki_host')
     #[PATHS]
-    wiki_folders = config.get('PATHS','wiki_folders')
-    wiki_template = config.get('PATHS','wiki_template')
-    forms_path = config.get('PATHS','forms_path')
+    wiki_folders = config.get('PATHS', 'wiki_folders')
+    wiki_template = config.get('PATHS', 'wiki_template')
+    forms_path = config.get('PATHS', 'forms_path')
 
     db_alias = f'mysql --host={db_host} --user={db_user} --password={db_pwd}'
-   
+
 
 def main():
     set_var()
@@ -61,7 +61,6 @@ def main():
     if access not in [None, 'public', 'private']:
         raise ValueError("--access must be in ['private' or 'public'], default value is set as 'public'")
     #check if db wiki_db exist, if no create it
-    #DB is an alias for 'mysql --user ... --admin ...'
     try:
         cmd = f'{db_alias} -e "show databases" -s | egrep {db_name}'
         out = subprocess.check_output(["/bin/bash", "-i", "-c", cmd])
@@ -144,7 +143,7 @@ def main():
         print("\tContinue->")
         print("Name:")
         print("\tName of wiki: metabolic_network")
-        print("\tAdministrator account: /!\ Use exactly the same to allow the bot to upload the pages automatically")
+        print(r"\tAdministrator account: /!\ Use exactly the same to allow the bot to upload the pages automatically")
         print("\t\tYour username: admin")
         print("\t\tPassword: 123456789")
         print("\tI'm bored already, just install the wiki.")
@@ -185,29 +184,29 @@ def main():
                 all_tables = str(all_tables, 'utf-8', 'ignore').splitlines()
                 print("%s tables to drop" %len(all_tables))
                 cmd = f'{db_alias} -D {db_name} -e "DROP TABLE '+",".join(all_tables)+'"'
-                subprocess.call(["/bin/bash", "-i", "-c",cmd])
+                subprocess.call(["/bin/bash", "-i", "-c", cmd])
             except subprocess.CalledProcessError:
                 print(f'No tables with prefix {wiki_id}_ found')
         elif args["--clean"]:
             try:
                 get_all_tables = f'{db_alias} -D {db_name} -e "show tables" -s | egrep "^{wiki_id}_"'
-                all_tables = subprocess.check_output(["/bin/bash", "-i", "-c",get_all_tables])
+                all_tables = subprocess.check_output(["/bin/bash", "-i", "-c", get_all_tables])
                 all_tables = str(all_tables, 'utf-8', 'ignore').splitlines()
                 if wiki_id+"_page" in all_tables:
                     print(f'{wiki_id}_page table to empty')
                     cmd = f'{db_alias} -D {db_name} -e "truncate table {wiki_id}_page"'
-                    subprocess.call(["/bin/bash", "-i", "-c",cmd])
+                    subprocess.call(["/bin/bash", "-i", "-c", cmd])
             except subprocess.CalledProcessError:
                 print("No tables with prefix %s_ found" %wiki_id)
         elif args["--access"]:
             access = args["--access"]
             localSettings_path = os.path.join(wiki_path, 'LocalSettings.php')
             config_access(localSettings_path, access)
-            
+
 
     elif args["--all"]:
         print("All deployed wiki:")
-        for i in os.walk(wiki_folders).next()[1]:
+        for i in os.listdir(wiki_folders):
             print("\t"+i)
 
 
@@ -220,7 +219,7 @@ def config_access(localSettings_path, access):
     with open(localSettings_path, 'r') as f:
         localSettings_data = f.read().splitlines()
     new_localSettings_data = []
-    
+
     for line in localSettings_data:
         if line.startswith("$wgGroupPermissions['*']['edit'] = "):
             new_line = f"$wgGroupPermissions['*']['edit'] = {bool_access};"

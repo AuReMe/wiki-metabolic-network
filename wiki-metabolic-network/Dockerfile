@@ -74,11 +74,12 @@ RUN cd /tmp;\
     mv composer.phar /usr/bin/composer
 
 #
-COPY wiki wiki_load /usr/bin/
-COPY wiki.conf /home/
-COPY forms /home/forms/
+COPY wiki.py /usr/bin/wiki
+COPY wiki_load.py /usr/bin/wiki_load
 RUN chmod +x /usr/bin/wiki
 RUN chmod +x /usr/bin/wiki_load
+COPY wiki.conf /home/
+COPY forms /home/forms/
 
 
 

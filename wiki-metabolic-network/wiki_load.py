@@ -5,17 +5,19 @@ Description:
     #TODO
 
 ::
-    
+
     usage:
         wiki_load.py    --action=STR --url=STR --user=STR --password=STR --wikipage=DIR [--bots=INT] [-v]
-    
+
     option:
         -h --help    Show help.
         -v   print info.
 """
 
 
-import aiowiki, asyncio, aiohttp
+import aiowiki
+import asyncio
+import aiohttp
 import os
 import sys
 import time
@@ -23,20 +25,20 @@ import docopt
 
 async def main(loop):
     args = docopt.docopt(__doc__)
-    wiki_url=args["--url"]
-    user=args["--user"]
-    password=args["--password"]
-    wikipage_folder=args["--wikipage"]
+    wiki_url = args["--url"]
+    user = args["--user"]
+    password = args["--password"]
+    wikipage_folder = args["--wikipage"]
     if args["--bots"]:
-        nb_bots=int(args["--bots"])
+        nb_bots = int(args["--bots"])
     else:
-        nb_bots=1
+        nb_bots = 1
     action = args["--action"]
     verbose = args["-v"]
 
     wiki = aiowiki.Wiki(wiki_url)
     await wiki.login(user, password)
-    if action in ["load","check"]:
+    if action in ["load", "check"]:
         list_of_pages = list_pages(wikipage_folder)
         print("nb pages: %s" %len(list_of_pages))
         chuncked_list_of_pages = chunkify(list_of_pages, nb_bots)
@@ -55,7 +57,6 @@ async def main(loop):
                 data["chunck_part"] = chunck_part
                 data["worker"] = worker
                 data["verbose"] = verbose
-            #print(bots_data)    
             tasks = []
             for bot_data in bots_data.values():
                 if action == "load":
@@ -68,7 +69,6 @@ async def main(loop):
                 worker = data["worker"]
                 await worker.close()
             await wiki.close()
-            
 
 async def create_bot(wiki, nb_bots):
     print("Check bots:")
@@ -84,19 +84,19 @@ async def create_bot(wiki, nb_bots):
         except aiowiki.exceptions.CreateAccountError:
             print("{0} already existing".format(bot_name))
         try:
-            await wiki.userrights(bot_name,"add","bureaucrat")
+            await wiki.userrights(bot_name, "add", "bureaucrat")
         except aiowiki.exceptions.UserRightsNotChangedError:
             pass
 
-    return (bots_data)
+    return bots_data
 
 async def load_page(bot_data):
     bot_name, worker, chunck_part, verbose = bot_data["bot_name"], bot_data["worker"], bot_data["chunck_part"], bot_data["verbose"]
     for file_index, filepath in enumerate(chunck_part):
         file_index += 1
-        remaining_files = len(chunck_part) - file_index 
-        title = os.path.basename(filepath).replace("__47__", "/") 
-        retries = 0 
+        remaining_files = len(chunck_part) - file_index
+        title = os.path.basename(filepath).replace("__47__", "/")
+        retries = 0
         success = False
         last_exc = None
         while not success and retries < 5:
@@ -111,17 +111,17 @@ async def load_page(bot_data):
                 #print('[Info] Failed to load page "%s", retrying in %s seconds...' % (title, retries))
                 last_exc = e
                 time.sleep(retries)
-    
+
         if success:
             if verbose:
-                print('%s uploaded page %s , %s done (%s remaining)' % (bot_name, title, file_index,remaining_files))
+                print('%s uploaded page %s , %s done (%s remaining)' % (bot_name, title, file_index, remaining_files))
         else:
             if last_exc:
                 print('[WARNING] Failed to load page "%s" (%s). Error: %s' % (title, filepath, last_exc), file=sys.stderr)
             else:
                 # Not supposed to happen, but who knows...
                 print('[WARNING] Failed to load page "%s" (%s). Unable to catch error source from exceptions' % (title, filepath))
-        
+
 
 async def check_page(bot_data):
     bot_name, worker, chunck_part, verbose = bot_data["bot_name"], bot_data["worker"], bot_data["chunck_part"], bot_data["verbose"]
@@ -147,7 +147,7 @@ async def check_page(bot_data):
                     success = True
                     if local_data_array != host_data_array:
                         print("difference found in %s" % title)
-    
+
                 except aiowiki.exceptions.PageNotFound:
                     print("Page %s not found" %title)
                     retries = max_retries
@@ -157,7 +157,7 @@ async def check_page(bot_data):
                 print('Failed to load "%s", retrying in %s seconds...' % (title, retries))
                 last_exc = e
                 time.sleep(retries)
-    
+
         if not success:
             if last_exc:
                 print('[WARNING] Failed to load page "%s" (%s). Error: %s' % (title, filepath, last_exc), file=sys.stderr)
@@ -167,8 +167,8 @@ async def check_page(bot_data):
 
 
 def list_pages(dirName):
-    # create a list of file and sub directories 
-    # names in the given directory 
+    # create a list of file and sub directories
+    # names in the given directory
     listOfFile = os.listdir(dirName)
     if "files" in listOfFile: listOfFile.remove("files")
     #if "navigation" in listOfFile: listOfFile.remove("navigation")
@@ -177,19 +177,19 @@ def list_pages(dirName):
     for entry in listOfFile:
         # Create full path
         fullPath = os.path.join(dirName, entry)
-        # If entry is a directory then get the list of files in this directory 
+        # If entry is a directory then get the list of files in this directory
         if os.path.isdir(fullPath):
             allFiles = allFiles + list_pages(fullPath)
         else:
             allFiles.append(fullPath)
-                
+
     return allFiles
 
-def chunkify(lst,n):
+def chunkify(lst, n):
     return [lst[i::n] for i in range(n)]
 
 
 if __name__ == '__main__':
     #asyncio.get_event_loop().run_until_complete(main())
     loop = asyncio.get_event_loop()
-    loop.run_until_complete(main(loop))    
+    loop.run_until_complete(main(loop))
