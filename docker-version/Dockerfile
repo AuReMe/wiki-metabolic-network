@@ -42,7 +42,8 @@ RUN apt-get update;\
     libncursesw5-dev \
     xz-utils \
     tk-dev \
-    libsecret-1-dev; \
+    libsecret-1-dev \
+    mysql-client; \
     apt-get -y -q clean; \
     apt-get -y -q autoremove
 
@@ -72,6 +73,11 @@ RUN cd /tmp;\
     php -r "unlink('composer-setup.php');";\
     mv composer.phar /usr/bin/composer
 
-COPY wiki_load wiki /usr/bin/
-RUN chmod +x /usr/bin/wiki /usr/bin/wiki_load
+#
+COPY wiki /usr/bin/
+COPY wiki_config.txt /home/
+COPY forms /home/forms/
+RUN chmod +x /usr/bin/wiki
+
+
 
