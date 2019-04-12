@@ -149,7 +149,7 @@ $wgFooterIcons['poweredby']['aureme'] = array(
         "url" => "http://aureme.genouest.org/",
         "alt" => "Powered by AuReMe"
 );
-$wgGroupPermissions['bureaucrat']['ediinterface'] = true;
+$wgGroupPermissions['bureaucrat']['editinterface'] = true;
 #Setting private or public wiki
 $wgGroupPermissions['*']['edit'] = true;
 $wgGroupPermissions['*']['read'] = true;
