@@ -49,6 +49,7 @@ Description:
 
     usage:
     	wiki --init=ID [--access=STR]
+    	wiki --id=ID --rebuild
     	wiki --id=ID --clean
     	wiki --id=ID --remove
     	wiki --id=ID --access=STR
@@ -59,8 +60,9 @@ Description:
     	--init=ID    identifier of the new wiki to initialize.
     	--wiki=ID    identifier of the wiki to manage.
     	--access=STR    set access to wiki as 'public' or 'private'. Default is 'public'.
-    	--remove    Remove wiki from wiki_folders and remove table from database which start with prefix ID_.
+    	--rebuild    Rebuild SemanticMediaWiki database, Must always be runned after loading/removing pages.
     	--clean    Remove all the pages of a wiki only.
+    	--remove    Remove wiki from wiki_folders and remove table from database which start with prefix ID_.
     	--all    list all wiki found in wiki_folders.
 
 """
@@ -253,6 +255,9 @@ def main():
             access = args["--access"]
             localSettings_path = os.path.join(wiki_path, 'LocalSettings.php')
             config_access(localSettings_path, access)
+        elif args["--rebuild"]:
+            rebuildData(wiki_path)
+            
 
 
     elif args["--all"]:
@@ -260,6 +265,13 @@ def main():
         for i in os.listdir(wiki_folders):
             print("\t"+i)
 
+def rebuildData(wiki_path):
+    """
+    """
+    print("\tRunning smw rebuild")
+    rebuild_path = os.path.join(wiki_path, 'extensions/SemanticMediaWiki/maintenance/rebuildData.php')
+    cmd = f'php {rebuild_path}'
+    subprocess.call(cmd, shell=True)
 
 def config_access(localSettings_path, access):
     """
