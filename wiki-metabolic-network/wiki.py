@@ -135,7 +135,7 @@ def main():
             out = subprocess.check_output(["/bin/bash", "-i", "-c", cmd])
             raise ValueError("%s tables found with prefix %s_, a wiki is already using this prefix." %(out.count("\n"), wiki_id))
         except subprocess.CalledProcessError:
-            print('Checking the if the prefix {wiki_id}_ is already used in the database: OK')
+            print(f'Checking the if the prefix {wiki_id}_ is already used in the database: OK')
         print("Wiki initialization...")
         print("\tCopying wiki folder")
         cmd = f'cp -r {wiki_template} {wiki_path}'
@@ -219,7 +219,7 @@ def main():
         print(f'\t{main_url}')
         print("You have now to select the folder containing the wiki pages you want to upload on this wiki")
         api_url = f'{wiki_host}/{wiki_id}/api.php'
-        print(f'Ex: wiki_load --action=upload --url={api_url} --user=STR --password=STR --wikipage=DIR --bots=INT [-v]')
+        print(f'Ex: wiki_load --action=load --url={api_url} --user=STR --password=STR --wikipage=DIR --bots=INT [-v]')
 
     elif args["--id"]:
         wiki_id = args["--id"]
