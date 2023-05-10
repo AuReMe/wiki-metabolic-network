@@ -10,5 +10,5 @@ See this [documentation](https://aureme.readthedocs.io/en/latest/faq.html#how-to
 [Here](http://aureme.genouest.org/wiki.html)
 
 ## Help
-Send an email to gem-aureme_AT_irisa.fr
+Send an email to gem-aureme_AT_inria.fr
 
